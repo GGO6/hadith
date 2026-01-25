@@ -1,0 +1,399 @@
+{
+  "version": "2.0.0",
+  "lastUpdated": "2026-01-25",
+  "baseUrl": "https://raw.githubusercontent.com/GGO6/hadith/main/hadith/books",
+  "archivesUrl": "https://raw.githubusercontent.com/GGO6/hadith/main/hadith/archives",
+  "categories": [
+    {
+      "id": "the_9_books",
+      "arabic": "الكتب التسعة",
+      "english": "The Nine Books"
+    },
+    {
+      "id": "forties",
+      "arabic": "الأربعينيات",
+      "english": "The Forties Collections"
+    },
+    {
+      "id": "other_books",
+      "arabic": "كتب أخرى",
+      "english": "Other Books"
+    }
+  ],
+  "books": [
+    {
+      "id": "bukhari",
+      "numericId": 1,
+      "category": "the_9_books",
+      "arabic": {
+        "title": "صحيح البخاري",
+        "author": "الإمام محمد بن إسماعيل البخاري"
+      },
+      "english": {
+        "title": "Sahih al-Bukhari",
+        "author": "Imam Muhammad ibn Ismail al-Bukhari"
+      },
+      "hasChapters": true,
+      "chaptersCount": 97,
+      "hadithsCount": 7563,
+      "sizeBytes": 12582912,
+      "sizeFormatted": "12 MB",
+      "downloadUrl": "bukhari.zip",
+      "metadataUrl": "the_9_books/bukhari/metadata.json",
+      "chaptersBaseUrl": "the_9_books/bukhari/chapters",
+      "sha256": ""
+    },
+    {
+      "id": "muslim",
+      "numericId": 2,
+      "category": "the_9_books",
+      "arabic": {
+        "title": "صحيح مسلم",
+        "author": "الإمام مسلم بن الحجاج النيسابوري"
+      },
+      "english": {
+        "title": "Sahih Muslim",
+        "author": "Imam Muslim ibn al-Hajjaj al-Naysaburi"
+      },
+      "hasChapters": true,
+      "chaptersCount": 57,
+      "hadithsCount": 7470,
+      "sizeBytes": 11534336,
+      "sizeFormatted": "11 MB",
+      "downloadUrl": "muslim.zip",
+      "metadataUrl": "the_9_books/muslim/metadata.json",
+      "chaptersBaseUrl": "the_9_books/muslim/chapters",
+      "sha256": ""
+    },
+    {
+      "id": "abudawud",
+      "numericId": 3,
+      "category": "the_9_books",
+      "arabic": {
+        "title": "سنن أبي داود",
+        "author": "الإمام أبو داود سليمان بن الأشعث السجستاني"
+      },
+      "english": {
+        "title": "Sunan Abu Dawud",
+        "author": "Imam Abu Dawud Sulayman ibn al-Ash'ath al-Sijistani"
+      },
+      "hasChapters": true,
+      "chaptersCount": 43,
+      "hadithsCount": 5274,
+      "sizeBytes": 7864320,
+      "sizeFormatted": "7.5 MB",
+      "downloadUrl": "abudawud.zip",
+      "metadataUrl": "the_9_books/abudawud/metadata.json",
+      "chaptersBaseUrl": "the_9_books/abudawud/chapters",
+      "sha256": ""
+    },
+    {
+      "id": "tirmidhi",
+      "numericId": 4,
+      "category": "the_9_books",
+      "arabic": {
+        "title": "جامع الترمذي",
+        "author": "الإمام محمد بن عيسى الترمذي"
+      },
+      "english": {
+        "title": "Jami' at-Tirmidhi",
+        "author": "Imam Muhammad ibn Isa al-Tirmidhi"
+      },
+      "hasChapters": true,
+      "chaptersCount": 49,
+      "hadithsCount": 3956,
+      "sizeBytes": 7654400,
+      "sizeFormatted": "7.3 MB",
+      "downloadUrl": "tirmidhi.zip",
+      "metadataUrl": "the_9_books/tirmidhi/metadata.json",
+      "chaptersBaseUrl": "the_9_books/tirmidhi/chapters",
+      "sha256": ""
+    },
+    {
+      "id": "nasai",
+      "numericId": 5,
+      "category": "the_9_books",
+      "arabic": {
+        "title": "سنن النسائي",
+        "author": "الإمام أحمد بن شعيب النسائي"
+      },
+      "english": {
+        "title": "Sunan an-Nasa'i",
+        "author": "Imam Ahmad ibn Shu'ayb al-Nasa'i"
+      },
+      "hasChapters": true,
+      "chaptersCount": 52,
+      "hadithsCount": 5761,
+      "sizeBytes": 7864320,
+      "sizeFormatted": "7.5 MB",
+      "downloadUrl": "nasai.zip",
+      "metadataUrl": "the_9_books/nasai/metadata.json",
+      "chaptersBaseUrl": "the_9_books/nasai/chapters",
+      "sha256": ""
+    },
+    {
+      "id": "ibnmajah",
+      "numericId": 6,
+      "category": "the_9_books",
+      "arabic": {
+        "title": "سنن ابن ماجه",
+        "author": "الإمام محمد بن يزيد ابن ماجه القزويني"
+      },
+      "english": {
+        "title": "Sunan Ibn Majah",
+        "author": "Imam Muhammad ibn Yazid Ibn Majah al-Qazwini"
+      },
+      "hasChapters": true,
+      "chaptersCount": 37,
+      "hadithsCount": 4341,
+      "sizeBytes": 5767168,
+      "sizeFormatted": "5.5 MB",
+      "downloadUrl": "ibnmajah.zip",
+      "metadataUrl": "the_9_books/ibnmajah/metadata.json",
+      "chaptersBaseUrl": "the_9_books/ibnmajah/chapters",
+      "sha256": ""
+    },
+    {
+      "id": "malik",
+      "numericId": 7,
+      "category": "the_9_books",
+      "arabic": {
+        "title": "موطأ الإمام مالك",
+        "author": "الإمام مالك بن أنس"
+      },
+      "english": {
+        "title": "Muwatta Malik",
+        "author": "Imam Malik ibn Anas"
+      },
+      "hasChapters": true,
+      "chaptersCount": 61,
+      "hadithsCount": 1832,
+      "sizeBytes": 3250585,
+      "sizeFormatted": "3.1 MB",
+      "downloadUrl": "malik.zip",
+      "metadataUrl": "the_9_books/malik/metadata.json",
+      "chaptersBaseUrl": "the_9_books/malik/chapters",
+      "sha256": ""
+    },
+    {
+      "id": "ahmed",
+      "numericId": 8,
+      "category": "the_9_books",
+      "arabic": {
+        "title": "مسند الإمام أحمد",
+        "author": "الإمام أحمد بن حنبل"
+      },
+      "english": {
+        "title": "Musnad Ahmad",
+        "author": "Imam Ahmad ibn Hanbal"
+      },
+      "hasChapters": true,
+      "chaptersCount": 7,
+      "hadithsCount": 1359,
+      "sizeBytes": 2411724,
+      "sizeFormatted": "2.3 MB",
+      "downloadUrl": "ahmed.zip",
+      "metadataUrl": "the_9_books/ahmed/metadata.json",
+      "chaptersBaseUrl": "the_9_books/ahmed/chapters",
+      "sha256": ""
+    },
+    {
+      "id": "darimi",
+      "numericId": 9,
+      "category": "the_9_books",
+      "arabic": {
+        "title": "سنن الدارمي",
+        "author": "الإمام عبد الله بن عبد الرحمن الدارمي"
+      },
+      "english": {
+        "title": "Sunan al-Darimi",
+        "author": "Imam Abdullah ibn Abd al-Rahman al-Darimi"
+      },
+      "hasChapters": true,
+      "chaptersCount": 24,
+      "hadithsCount": 3503,
+      "sizeBytes": 3040870,
+      "sizeFormatted": "2.9 MB",
+      "downloadUrl": "darimi.zip",
+      "metadataUrl": "the_9_books/darimi/metadata.json",
+      "chaptersBaseUrl": "the_9_books/darimi/chapters",
+      "sha256": ""
+    },
+    {
+      "id": "nawawi40",
+      "numericId": 10,
+      "category": "forties",
+      "arabic": {
+        "title": "الأربعون النووية",
+        "author": "الإمام يحيى بن شرف النووي"
+      },
+      "english": {
+        "title": "The Forty Hadith of Imam Nawawi",
+        "author": "Imam Yahya ibn Sharaf al-Nawawi"
+      },
+      "hasChapters": false,
+      "chaptersCount": 1,
+      "hadithsCount": 42,
+      "sizeBytes": 81920,
+      "sizeFormatted": "80 KB",
+      "downloadUrl": "nawawi40.zip",
+      "metadataUrl": "forties/nawawi40/metadata.json",
+      "fullBookUrl": "forties/nawawi40/all.json",
+      "sha256": ""
+    },
+    {
+      "id": "qudsi40",
+      "numericId": 11,
+      "category": "forties",
+      "arabic": {
+        "title": "الأحاديث القدسية الأربعون",
+        "author": "متنوع"
+      },
+      "english": {
+        "title": "Forty Hadith Qudsi",
+        "author": "Various"
+      },
+      "hasChapters": false,
+      "chaptersCount": 1,
+      "hadithsCount": 40,
+      "sizeBytes": 61440,
+      "sizeFormatted": "60 KB",
+      "downloadUrl": "qudsi40.zip",
+      "metadataUrl": "forties/qudsi40/metadata.json",
+      "fullBookUrl": "forties/qudsi40/all.json",
+      "sha256": ""
+    },
+    {
+      "id": "shahwaliullah40",
+      "numericId": 12,
+      "category": "forties",
+      "arabic": {
+        "title": "الأربعون لشاه ولي الله",
+        "author": "الإمام شاه ولي الله الدهلوي"
+      },
+      "english": {
+        "title": "Forty Hadith of Shah Waliullah",
+        "author": "Imam Shah Waliullah Dehlawi"
+      },
+      "hasChapters": false,
+      "chaptersCount": 1,
+      "hadithsCount": 40,
+      "sizeBytes": 40960,
+      "sizeFormatted": "40 KB",
+      "downloadUrl": "shahwaliullah40.zip",
+      "metadataUrl": "forties/shahwaliullah40/metadata.json",
+      "fullBookUrl": "forties/shahwaliullah40/all.json",
+      "sha256": ""
+    },
+    {
+      "id": "riyad_assalihin",
+      "numericId": 13,
+      "category": "other_books",
+      "arabic": {
+        "title": "رياض الصالحين",
+        "author": "الإمام يحيى بن شرف النووي"
+      },
+      "english": {
+        "title": "Riyad as-Salihin",
+        "author": "Imam Yahya ibn Sharaf al-Nawawi"
+      },
+      "hasChapters": true,
+      "chaptersCount": 20,
+      "hadithsCount": 1896,
+      "sizeBytes": 2202009,
+      "sizeFormatted": "2.1 MB",
+      "downloadUrl": "riyad_assalihin.zip",
+      "metadataUrl": "other_books/riyad_assalihin/metadata.json",
+      "chaptersBaseUrl": "other_books/riyad_assalihin/chapters",
+      "sha256": ""
+    },
+    {
+      "id": "bulugh_almaram",
+      "numericId": 14,
+      "category": "other_books",
+      "arabic": {
+        "title": "بلوغ المرام",
+        "author": "الحافظ ابن حجر العسقلاني"
+      },
+      "english": {
+        "title": "Bulugh al-Maram",
+        "author": "Hafiz Ibn Hajar al-Asqalani"
+      },
+      "hasChapters": true,
+      "chaptersCount": 16,
+      "hadithsCount": 1596,
+      "sizeBytes": 2097152,
+      "sizeFormatted": "2 MB",
+      "downloadUrl": "bulugh_almaram.zip",
+      "metadataUrl": "other_books/bulugh_almaram/metadata.json",
+      "chaptersBaseUrl": "other_books/bulugh_almaram/chapters",
+      "sha256": ""
+    },
+    {
+      "id": "mishkat_almasabih",
+      "numericId": 15,
+      "category": "other_books",
+      "arabic": {
+        "title": "مشكاة المصابيح",
+        "author": "الإمام محمد بن عبد الله الخطيب التبريزي"
+      },
+      "english": {
+        "title": "Mishkat al-Masabih",
+        "author": "Imam Muhammad ibn Abdullah al-Khatib al-Tabrizi"
+      },
+      "hasChapters": true,
+      "chaptersCount": 25,
+      "hadithsCount": 6294,
+      "sizeBytes": 5242880,
+      "sizeFormatted": "5 MB",
+      "downloadUrl": "mishkat_almasabih.zip",
+      "metadataUrl": "other_books/mishkat_almasabih/metadata.json",
+      "chaptersBaseUrl": "other_books/mishkat_almasabih/chapters",
+      "sha256": ""
+    },
+    {
+      "id": "aladab_almufrad",
+      "numericId": 16,
+      "category": "other_books",
+      "arabic": {
+        "title": "الأدب المفرد",
+        "author": "الإمام محمد بن إسماعيل البخاري"
+      },
+      "english": {
+        "title": "Al-Adab Al-Mufrad",
+        "author": "Imam Muhammad ibn Ismail al-Bukhari"
+      },
+      "hasChapters": true,
+      "chaptersCount": 57,
+      "hadithsCount": 1322,
+      "sizeBytes": 1782579,
+      "sizeFormatted": "1.7 MB",
+      "downloadUrl": "aladab_almufrad.zip",
+      "metadataUrl": "other_books/aladab_almufrad/metadata.json",
+      "chaptersBaseUrl": "other_books/aladab_almufrad/chapters",
+      "sha256": ""
+    },
+    {
+      "id": "shamail_muhammadiyah",
+      "numericId": 17,
+      "category": "other_books",
+      "arabic": {
+        "title": "الشمائل المحمدية",
+        "author": "الإمام محمد بن عيسى الترمذي"
+      },
+      "english": {
+        "title": "Shama'il Muhammadiyah",
+        "author": "Imam Muhammad ibn Isa al-Tirmidhi"
+      },
+      "hasChapters": true,
+      "chaptersCount": 56,
+      "hadithsCount": 415,
+      "sizeBytes": 524288,
+      "sizeFormatted": "512 KB",
+      "downloadUrl": "shamail_muhammadiyah.zip",
+      "metadataUrl": "other_books/shamail_muhammadiyah/metadata.json",
+      "chaptersBaseUrl": "other_books/shamail_muhammadiyah/chapters",
+      "sha256": ""
+    }
+  ]
+}

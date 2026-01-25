@@ -1,0 +1,52 @@
+{
+  "id": "bukhari",
+  "numericId": 1,
+  "arabic": {
+    "title": "صحيح البخاري",
+    "author": "الإمام محمد بن إسماعيل البخاري",
+    "introduction": "أصح كتاب بعد كتاب الله تعالى"
+  },
+  "english": {
+    "title": "Sahih al-Bukhari",
+    "author": "Imam Muhammad ibn Ismail al-Bukhari",
+    "introduction": "The most authentic book after the Book of Allah"
+  },
+  "hadithsCount": 7563,
+  "chapters": [
+    {
+      "id": 1,
+      "arabic": "كتاب بدء الوحى",
+      "english": "Revelation",
+      "hadithsCount": 7,
+      "file": "1.json"
+    },
+    {
+      "id": 2,
+      "arabic": "كتاب الإيمان",
+      "english": "Belief",
+      "hadithsCount": 51,
+      "file": "2.json"
+    },
+    {
+      "id": 3,
+      "arabic": "كتاب العلم",
+      "english": "Knowledge",
+      "hadithsCount": 76,
+      "file": "3.json"
+    },
+    {
+      "id": 4,
+      "arabic": "كتاب الوضوء",
+      "english": "Ablutions (Wudu')",
+      "hadithsCount": 113,
+      "file": "4.json"
+    },
+    {
+      "id": 5,
+      "arabic": "كتاب الغسل",
+      "english": "Bathing (Ghusl)",
+      "hadithsCount": 46,
+      "file": "5.json"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "nawawi40",
+  "numericId": 10,
+  "arabic": {
+    "title": "الأربعون النووية",
+    "author": "الإمام يحيى بن شرف النووي",
+    "introduction": ""
+  },
+  "english": {
+    "title": "The Forty Hadith of Imam Nawawi",
+    "author": "Imam Yahya ibn Sharaf al-Nawawi",
+    "introduction": ""
+  },
+  "hadithsCount": 42,
+  "chapters": [
+    {
+      "id": 0,
+      "arabic": "الأربعون النووية",
+      "english": "Forty Hadith of an-Nawawi",
+      "hadithsCount": 42,
+      "file": "all.json"
+    }
+  ]
+}
