@@ -1,23 +1,28 @@
 {
-  "version": "2.0.0",
+  "version": "2.0.1",
   "lastUpdated": "2026-01-25",
   "baseUrl": "https://raw.githubusercontent.com/GGO6/hadith/main/hadith/books",
-  "archivesUrl": "https://raw.githubusercontent.com/GGO6/hadith/main/hadith/archives",
+  "archivesBaseUrl": "https://raw.githubusercontent.com/GGO6/hadith/main/hadith/archives",
+  "totalBooks": 17,
+  "totalHadiths": 50884,
   "categories": [
     {
       "id": "the_9_books",
       "arabic": "الكتب التسعة",
-      "english": "The Nine Books"
+      "english": "The Nine Books",
+      "booksCount": 9
     },
     {
       "id": "forties",
       "arabic": "الأربعينيات",
-      "english": "The Forties Collections"
+      "english": "The Forties Collections",
+      "booksCount": 3
     },
     {
       "id": "other_books",
       "arabic": "كتب أخرى",
-      "english": "Other Books"
+      "english": "Other Books",
+      "booksCount": 5
     }
   ],
   "books": [
@@ -38,9 +43,9 @@
       "hadithsCount": 7277,
       "sizeBytes": 12776685,
       "sizeFormatted": "12.2 MB",
-      "downloadUrl": "bukhari.zip",
       "metadataUrl": "the_9_books/bukhari/metadata.json",
       "chaptersBaseUrl": "the_9_books/bukhari/chapters",
+      "downloadUrl": "bukhari.zip",
       "sha256": "c92916955e051a5ca171251af7f77aee70b7be6c583a674e25ce2cdf5971f52f"
     },
     {
@@ -60,9 +65,9 @@
       "hadithsCount": 7459,
       "sizeBytes": 11457354,
       "sizeFormatted": "10.9 MB",
-      "downloadUrl": "muslim.zip",
       "metadataUrl": "the_9_books/muslim/metadata.json",
       "chaptersBaseUrl": "the_9_books/muslim/chapters",
+      "downloadUrl": "muslim.zip",
       "sha256": "c048c7951d7b7bf229f22313fc8788bdb4d55052a4e276bdb1fa27ff44a579ef"
     },
     {
@@ -82,9 +87,9 @@
       "hadithsCount": 5276,
       "sizeBytes": 7880098,
       "sizeFormatted": "7.5 MB",
-      "downloadUrl": "abudawud.zip",
       "metadataUrl": "the_9_books/abudawud/metadata.json",
       "chaptersBaseUrl": "the_9_books/abudawud/chapters",
+      "downloadUrl": "abudawud.zip",
       "sha256": "c1cd5fc2a2fe4cc8c5771aa7e3a4372a33641d6f615cbf369fc08f90d4bc564b"
     },
     {
@@ -104,9 +109,9 @@
       "hadithsCount": 4053,
       "sizeBytes": 7671746,
       "sizeFormatted": "7.3 MB",
-      "downloadUrl": "tirmidhi.zip",
       "metadataUrl": "the_9_books/tirmidhi/metadata.json",
       "chaptersBaseUrl": "the_9_books/tirmidhi/chapters",
+      "downloadUrl": "tirmidhi.zip",
       "sha256": "cf85e978d6aa84baba5bee7fafbb61151baaa8e6db76893cb0417f40da138bb5"
     },
     {
@@ -126,9 +131,9 @@
       "hadithsCount": 5768,
       "sizeBytes": 7890841,
       "sizeFormatted": "7.5 MB",
-      "downloadUrl": "nasai.zip",
       "metadataUrl": "the_9_books/nasai/metadata.json",
       "chaptersBaseUrl": "the_9_books/nasai/chapters",
+      "downloadUrl": "nasai.zip",
       "sha256": "41172c5e3c6fd10fdd8f7509a40331fe88cc901e0393ea5b4d50b4f8a053872c"
     },
     {
@@ -148,9 +153,9 @@
       "hadithsCount": 4345,
       "sizeBytes": 5726073,
       "sizeFormatted": "5.5 MB",
-      "downloadUrl": "ibnmajah.zip",
       "metadataUrl": "the_9_books/ibnmajah/metadata.json",
       "chaptersBaseUrl": "the_9_books/ibnmajah/chapters",
+      "downloadUrl": "ibnmajah.zip",
       "sha256": "70f4d32c729a0e92173c081e99b60fe6ee33a6c32210d1a8447a45c4a4c9a5d0"
     },
     {
@@ -170,9 +175,9 @@
       "hadithsCount": 1985,
       "sizeBytes": 3284323,
       "sizeFormatted": "3.1 MB",
-      "downloadUrl": "malik.zip",
       "metadataUrl": "the_9_books/malik/metadata.json",
       "chaptersBaseUrl": "the_9_books/malik/chapters",
+      "downloadUrl": "malik.zip",
       "sha256": "a32a568fd4798164b5ba3f6eee7ea3c0f2e9f6b4af28e320ecb781b54cb0013b"
     },
     {
@@ -192,9 +197,9 @@
       "hadithsCount": 1374,
       "sizeBytes": 2378366,
       "sizeFormatted": "2.3 MB",
-      "downloadUrl": "ahmed.zip",
       "metadataUrl": "the_9_books/ahmed/metadata.json",
       "chaptersBaseUrl": "the_9_books/ahmed/chapters",
+      "downloadUrl": "ahmed.zip",
       "sha256": "31896da97fa086ef11609a077e6a2ad36f9950a1c8118558f442f2535d6cb126"
     },
     {
@@ -214,9 +219,9 @@
       "hadithsCount": 3406,
       "sizeBytes": 3055455,
       "sizeFormatted": "2.9 MB",
-      "downloadUrl": "darimi.zip",
       "metadataUrl": "the_9_books/darimi/metadata.json",
       "chaptersBaseUrl": "the_9_books/darimi/chapters",
+      "downloadUrl": "darimi.zip",
       "sha256": "cd0326e4e12fcc319014a25e460225b1b4ee1f368b84e3c527ed67c1712a6382"
     },
     {
@@ -236,9 +241,9 @@
       "hadithsCount": 42,
       "sizeBytes": 71772,
       "sizeFormatted": "70.1 KB",
-      "downloadUrl": "nawawi40.zip",
       "metadataUrl": "forties/nawawi40/metadata.json",
       "fullBookUrl": "forties/nawawi40/all.json",
+      "downloadUrl": "nawawi40.zip",
       "sha256": "f1796e2f01ae755221a785bd46608e777fb150989620018707d8dd095d013d76"
     },
     {
@@ -258,9 +263,9 @@
       "hadithsCount": 40,
       "sizeBytes": 83790,
       "sizeFormatted": "81.8 KB",
-      "downloadUrl": "qudsi40.zip",
       "metadataUrl": "forties/qudsi40/metadata.json",
       "fullBookUrl": "forties/qudsi40/all.json",
+      "downloadUrl": "qudsi40.zip",
       "sha256": "e683ceca2aac33e853a881633534c349205df4a0354f06731c679e7d71b54f7f"
     },
     {
@@ -280,9 +285,9 @@
       "hadithsCount": 40,
       "sizeBytes": 10097,
       "sizeFormatted": "9.9 KB",
-      "downloadUrl": "shahwaliullah40.zip",
       "metadataUrl": "forties/shahwaliullah40/metadata.json",
       "fullBookUrl": "forties/shahwaliullah40/all.json",
+      "downloadUrl": "shahwaliullah40.zip",
       "sha256": "360ca54f2e1112887d3de40dcc0e8a80582bdcb199b9b85d84d5e1a4b4be4fa4"
     },
     {
@@ -302,9 +307,9 @@
       "hadithsCount": 1896,
       "sizeBytes": 2205583,
       "sizeFormatted": "2.1 MB",
-      "downloadUrl": "riyad_assalihin.zip",
       "metadataUrl": "other_books/riyad_assalihin/metadata.json",
       "chaptersBaseUrl": "other_books/riyad_assalihin/chapters",
+      "downloadUrl": "riyad_assalihin.zip",
       "sha256": "a27d00972cad9b711627e244a3342e7eaf2c5f4314a90756b730f77d63064cfc"
     },
     {
@@ -324,9 +329,9 @@
       "hadithsCount": 1767,
       "sizeBytes": 2050528,
       "sizeFormatted": "2.0 MB",
-      "downloadUrl": "bulugh_almaram.zip",
       "metadataUrl": "other_books/bulugh_almaram/metadata.json",
       "chaptersBaseUrl": "other_books/bulugh_almaram/chapters",
+      "downloadUrl": "bulugh_almaram.zip",
       "sha256": "0efb8cd6daa198f54536ff11b55e4efb79485c252831535748eedebab3b67da0"
     },
     {
@@ -346,9 +351,9 @@
       "hadithsCount": 4428,
       "sizeBytes": 5218857,
       "sizeFormatted": "5.0 MB",
-      "downloadUrl": "mishkat_almasabih.zip",
       "metadataUrl": "other_books/mishkat_almasabih/metadata.json",
       "chaptersBaseUrl": "other_books/mishkat_almasabih/chapters",
+      "downloadUrl": "mishkat_almasabih.zip",
       "sha256": "b431556a3911ba821da4d1eb21fea0addf4c2d0951161918dc56c14940f8b809"
     },
     {
@@ -368,9 +373,9 @@
       "hadithsCount": 1326,
       "sizeBytes": 1773462,
       "sizeFormatted": "1.7 MB",
-      "downloadUrl": "aladab_almufrad.zip",
       "metadataUrl": "other_books/aladab_almufrad/metadata.json",
       "chaptersBaseUrl": "other_books/aladab_almufrad/chapters",
+      "downloadUrl": "aladab_almufrad.zip",
       "sha256": "11dc5b77802c8103fe2bdd75c0d55b05720c738538e9d29f92970b8f971c8f89"
     },
     {
@@ -390,9 +395,9 @@
       "hadithsCount": 402,
       "sizeBytes": 564060,
       "sizeFormatted": "550.8 KB",
-      "downloadUrl": "shamail_muhammadiyah.zip",
       "metadataUrl": "other_books/shamail_muhammadiyah/metadata.json",
       "chaptersBaseUrl": "other_books/shamail_muhammadiyah/chapters",
+      "downloadUrl": "shamail_muhammadiyah.zip",
       "sha256": "768ddd4ee81787370ce87c469ac5b64512c228ef1b7d6ff8abd819ef4b3ec687"
     }
   ]
