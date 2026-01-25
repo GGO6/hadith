@@ -33,7 +33,6 @@ BOOKS_CONFIG = {
     "forties": {
         "nawawi40": {"numericId": 10, "arabic_title": "الأربعون النووية", "arabic_author": "الإمام يحيى بن شرف النووي", "english_title": "The Forty Hadith of Imam Nawawi", "english_author": "Imam Yahya ibn Sharaf al-Nawawi"},
         "qudsi40": {"numericId": 11, "arabic_title": "الأحاديث القدسية الأربعون", "arabic_author": "متنوع", "english_title": "Forty Hadith Qudsi", "english_author": "Various"},
-        "shahwaliullah40": {"numericId": 12, "arabic_title": "الأربعون لشاه ولي الله", "arabic_author": "الإمام شاه ولي الله الدهلوي", "english_title": "Forty Hadith of Shah Waliullah", "english_author": "Imam Shah Waliullah Dehlawi"},
     },
     "other_books": {
         "riyad_assalihin": {"numericId": 13, "arabic_title": "رياض الصالحين", "arabic_author": "الإمام يحيى بن شرف النووي", "english_title": "Riyad as-Salihin", "english_author": "Imam Yahya ibn Sharaf al-Nawawi"},
