@@ -1,0 +1,24 @@
+{
+  "id": "shahwaliullah40",
+  "numericId": 12,
+  "arabic": {
+    "title": "الأربعون لشاه ولي الله",
+    "author": "الإمام شاه ولي الله الدهلوي",
+    "introduction": ""
+  },
+  "english": {
+    "title": "Forty Hadith of Shah Waliullah",
+    "author": "Imam Shah Waliullah Dehlawi",
+    "introduction": ""
+  },
+  "hadithsCount": 40,
+  "chapters": [
+    {
+      "id": 0,
+      "arabic": "أربعون شاه ولي الله الدهلوي",
+      "english": "Forty Hadith of Shah Waliullah Dehlawi",
+      "hadithsCount": 40,
+      "file": "all.json"
+    }
+  ]
+}

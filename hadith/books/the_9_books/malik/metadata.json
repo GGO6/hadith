@@ -1,0 +1,444 @@
+{
+  "id": "malik",
+  "numericId": 7,
+  "arabic": {
+    "title": "موطأ الإمام مالك",
+    "author": "الإمام مالك بن أنس",
+    "introduction": ""
+  },
+  "english": {
+    "title": "Muwatta Malik",
+    "author": "Imam Malik ibn Anas",
+    "introduction": ""
+  },
+  "hadithsCount": 1985,
+  "chapters": [
+    {
+      "id": 1,
+      "arabic": "كتاب وقوت الصلاة",
+      "english": "The Times of Prayer",
+      "hadithsCount": 31,
+      "file": "chapters/1.json"
+    },
+    {
+      "id": 2,
+      "arabic": "كتاب الطهارة",
+      "english": "Purity",
+      "hadithsCount": 115,
+      "file": "chapters/2.json"
+    },
+    {
+      "id": 3,
+      "arabic": "كتاب الصلاة",
+      "english": "Prayer",
+      "hadithsCount": 75,
+      "file": "chapters/3.json"
+    },
+    {
+      "id": 4,
+      "arabic": "كتاب السهو",
+      "english": "Forgetfulness in Prayer",
+      "hadithsCount": 3,
+      "file": "chapters/4.json"
+    },
+    {
+      "id": 5,
+      "arabic": "كتاب الجمعة",
+      "english": "Jumu'a",
+      "hadithsCount": 23,
+      "file": "chapters/5.json"
+    },
+    {
+      "id": 6,
+      "arabic": "كتاب الصلاة فى رمضان",
+      "english": "Prayer in Ramadan",
+      "hadithsCount": 8,
+      "file": "chapters/6.json"
+    },
+    {
+      "id": 7,
+      "arabic": "كتاب صلاة الليل",
+      "english": "Tahajjud",
+      "hadithsCount": 33,
+      "file": "chapters/7.json"
+    },
+    {
+      "id": 8,
+      "arabic": "كتاب صلاة الجماعة",
+      "english": "Prayer in Congregation",
+      "hadithsCount": 39,
+      "file": "chapters/8.json"
+    },
+    {
+      "id": 9,
+      "arabic": "كتاب قصر الصلاة فى السفر",
+      "english": "Shortening the Prayer",
+      "hadithsCount": 104,
+      "file": "chapters/9.json"
+    },
+    {
+      "id": 10,
+      "arabic": "كتاب العيدين",
+      "english": "The Two 'Ids",
+      "hadithsCount": 14,
+      "file": "chapters/10.json"
+    },
+    {
+      "id": 11,
+      "arabic": "كتاب صلاة الخوف",
+      "english": "The Fear Prayer",
+      "hadithsCount": 5,
+      "file": "chapters/11.json"
+    },
+    {
+      "id": 12,
+      "arabic": "كتاب صلاة الكسوف",
+      "english": "The Eclipse Prayer",
+      "hadithsCount": 4,
+      "file": "chapters/12.json"
+    },
+    {
+      "id": 13,
+      "arabic": "كتاب الاستسقاء",
+      "english": "Asking for Rain",
+      "hadithsCount": 6,
+      "file": "chapters/13.json"
+    },
+    {
+      "id": 14,
+      "arabic": "كتاب القبلة",
+      "english": "The Qibla",
+      "hadithsCount": 16,
+      "file": "chapters/14.json"
+    },
+    {
+      "id": 15,
+      "arabic": "كتاب القرآن",
+      "english": "The Qur'an",
+      "hadithsCount": 52,
+      "file": "chapters/15.json"
+    },
+    {
+      "id": 16,
+      "arabic": "كتاب الجنائز",
+      "english": "Burials",
+      "hadithsCount": 59,
+      "file": "chapters/16.json"
+    },
+    {
+      "id": 17,
+      "arabic": "كتاب الزكاة",
+      "english": "Zakat",
+      "hadithsCount": 63,
+      "file": "chapters/17.json"
+    },
+    {
+      "id": 18,
+      "arabic": "كتاب الصيام",
+      "english": "Fasting",
+      "hadithsCount": 66,
+      "file": "chapters/18.json"
+    },
+    {
+      "id": 19,
+      "arabic": "كتاب الاعتكاف",
+      "english": "I'tikaf in Ramadan",
+      "hadithsCount": 18,
+      "file": "chapters/19.json"
+    },
+    {
+      "id": 20,
+      "arabic": "كتاب الحج",
+      "english": "Hajj",
+      "hadithsCount": 267,
+      "file": "chapters/20.json"
+    },
+    {
+      "id": 21,
+      "arabic": "كتاب الجهاد",
+      "english": "Jihad",
+      "hadithsCount": 54,
+      "file": "chapters/21.json"
+    },
+    {
+      "id": 22,
+      "arabic": "كتاب النذور والأيمان",
+      "english": "Vows and Oaths",
+      "hadithsCount": 19,
+      "file": "chapters/22.json"
+    },
+    {
+      "id": 23,
+      "arabic": "كتاب الضحايا",
+      "english": "Sacrificial Animals",
+      "hadithsCount": 13,
+      "file": "chapters/23.json"
+    },
+    {
+      "id": 24,
+      "arabic": "كتاب الذبائح",
+      "english": "Slaughtering Animals",
+      "hadithsCount": 10,
+      "file": "chapters/24.json"
+    },
+    {
+      "id": 25,
+      "arabic": "كتاب الصيد",
+      "english": "Game",
+      "hadithsCount": 19,
+      "file": "chapters/25.json"
+    },
+    {
+      "id": 26,
+      "arabic": "كتاب العقيقة",
+      "english": "The 'Aqiqa",
+      "hadithsCount": 7,
+      "file": "chapters/26.json"
+    },
+    {
+      "id": 27,
+      "arabic": "كتاب الفرائض",
+      "english": "Fara'id",
+      "hadithsCount": 24,
+      "file": "chapters/27.json"
+    },
+    {
+      "id": 28,
+      "arabic": "كتاب النكاح",
+      "english": "Marriage",
+      "hadithsCount": 61,
+      "file": "chapters/28.json"
+    },
+    {
+      "id": 29,
+      "arabic": "كتاب الطلاق",
+      "english": "Divorce",
+      "hadithsCount": 120,
+      "file": "chapters/29.json"
+    },
+    {
+      "id": 30,
+      "arabic": "كتاب الرضاع",
+      "english": "Suckling",
+      "hadithsCount": 18,
+      "file": "chapters/30.json"
+    },
+    {
+      "id": 31,
+      "arabic": "كتاب البيوع",
+      "english": "Business Transactions",
+      "hadithsCount": 103,
+      "file": "chapters/31.json"
+    },
+    {
+      "id": 32,
+      "arabic": "كتاب القراض",
+      "english": "Qirad",
+      "hadithsCount": 16,
+      "file": "chapters/32.json"
+    },
+    {
+      "id": 33,
+      "arabic": "كتاب المساقاة",
+      "english": "Sharecropping",
+      "hadithsCount": 3,
+      "file": "chapters/33.json"
+    },
+    {
+      "id": 34,
+      "arabic": "كتاب كراء الأرض",
+      "english": "Renting Land",
+      "hadithsCount": 5,
+      "file": "chapters/34.json"
+    },
+    {
+      "id": 35,
+      "arabic": "كتاب الشفعة",
+      "english": "Pre-emption in Property",
+      "hadithsCount": 5,
+      "file": "chapters/35.json"
+    },
+    {
+      "id": 36,
+      "arabic": "كتاب الأقضية",
+      "english": "Judgements",
+      "hadithsCount": 72,
+      "file": "chapters/36.json"
+    },
+    {
+      "id": 37,
+      "arabic": "كتاب الوصية",
+      "english": "Wills and Testaments",
+      "hadithsCount": 13,
+      "file": "chapters/37.json"
+    },
+    {
+      "id": 38,
+      "arabic": "كتاب العتق والولاء",
+      "english": "Setting Free and Wala'",
+      "hadithsCount": 28,
+      "file": "chapters/38.json"
+    },
+    {
+      "id": 39,
+      "arabic": "كتاب المكاتب",
+      "english": "The Mukatab",
+      "hadithsCount": 15,
+      "file": "chapters/39.json"
+    },
+    {
+      "id": 40,
+      "arabic": "كتاب المدبر",
+      "english": "The Mudabbar",
+      "hadithsCount": 8,
+      "file": "chapters/40.json"
+    },
+    {
+      "id": 41,
+      "arabic": "كتاب الحدود",
+      "english": "Hudud",
+      "hadithsCount": 37,
+      "file": "chapters/41.json"
+    },
+    {
+      "id": 42,
+      "arabic": "كتاب الأشربة",
+      "english": "Drinks",
+      "hadithsCount": 20,
+      "file": "chapters/42.json"
+    },
+    {
+      "id": 43,
+      "arabic": "كتاب العقول",
+      "english": "Blood-Money",
+      "hadithsCount": 45,
+      "file": "chapters/43.json"
+    },
+    {
+      "id": 44,
+      "arabic": "كتاب القسامة",
+      "english": "The Oath of Qasama",
+      "hadithsCount": 6,
+      "file": "chapters/44.json"
+    },
+    {
+      "id": 45,
+      "arabic": "كتاب الْمَدِينَةِ",
+      "english": "Madina",
+      "hadithsCount": 25,
+      "file": "chapters/45.json"
+    },
+    {
+      "id": 46,
+      "arabic": "كتاب القدر",
+      "english": "The Decree",
+      "hadithsCount": 10,
+      "file": "chapters/46.json"
+    },
+    {
+      "id": 47,
+      "arabic": "كتاب حسن الخلق",
+      "english": "Good Character",
+      "hadithsCount": 18,
+      "file": "chapters/47.json"
+    },
+    {
+      "id": 48,
+      "arabic": "كتاب اللباس",
+      "english": "Dress",
+      "hadithsCount": 20,
+      "file": "chapters/48.json"
+    },
+    {
+      "id": 49,
+      "arabic": "كتاب صفة النبى صلى الله عليه وسلم",
+      "english": "The Description of the Prophet, may Allah Bless Him and Grant Him Peace",
+      "hadithsCount": 42,
+      "file": "chapters/49.json"
+    },
+    {
+      "id": 50,
+      "arabic": "كتاب العين",
+      "english": "The Evil Eye",
+      "hadithsCount": 19,
+      "file": "chapters/50.json"
+    },
+    {
+      "id": 51,
+      "arabic": "كتاب الشعر",
+      "english": "Hair",
+      "hadithsCount": 17,
+      "file": "chapters/51.json"
+    },
+    {
+      "id": 52,
+      "arabic": "كتاب الرؤيا",
+      "english": "Visions",
+      "hadithsCount": 8,
+      "file": "chapters/52.json"
+    },
+    {
+      "id": 53,
+      "arabic": "كتاب السلام",
+      "english": "Greetings",
+      "hadithsCount": 8,
+      "file": "chapters/53.json"
+    },
+    {
+      "id": 54,
+      "arabic": "كتاب الاستئذان",
+      "english": "General Subjects",
+      "hadithsCount": 45,
+      "file": "chapters/54.json"
+    },
+    {
+      "id": 55,
+      "arabic": "كتاب البيعة",
+      "english": "The Oath of Allegiance",
+      "hadithsCount": 3,
+      "file": "chapters/55.json"
+    },
+    {
+      "id": 56,
+      "arabic": "كتاب الكلام",
+      "english": "Speech",
+      "hadithsCount": 28,
+      "file": "chapters/56.json"
+    },
+    {
+      "id": 57,
+      "arabic": "كتاب جهنم",
+      "english": "Jahannam",
+      "hadithsCount": 2,
+      "file": "chapters/57.json"
+    },
+    {
+      "id": 58,
+      "arabic": "كتاب الصدقة",
+      "english": "Sadaqa",
+      "hadithsCount": 15,
+      "file": "chapters/58.json"
+    },
+    {
+      "id": 59,
+      "arabic": "كتاب العلم",
+      "english": "Knowledge",
+      "hadithsCount": 1,
+      "file": "chapters/59.json"
+    },
+    {
+      "id": 60,
+      "arabic": "كتاب دعوة المظلوم",
+      "english": "The Supplication of the Unjustly Wronged",
+      "hadithsCount": 1,
+      "file": "chapters/60.json"
+    },
+    {
+      "id": 61,
+      "arabic": "كتاب أسماء النبى صلى الله عليه وسلم",
+      "english": "The Names of the Prophet, may Allah Bless Him and Grant Him Peace",
+      "hadithsCount": 1,
+      "file": "chapters/61.json"
+    }
+  ]
+}

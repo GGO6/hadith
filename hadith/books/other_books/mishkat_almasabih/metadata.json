@@ -1,0 +1,192 @@
+{
+  "id": "mishkat_almasabih",
+  "numericId": 15,
+  "arabic": {
+    "title": "مشكاة المصابيح",
+    "author": "الإمام محمد بن عبد الله الخطيب التبريزي",
+    "introduction": ""
+  },
+  "english": {
+    "title": "Mishkat al-Masabih",
+    "author": "Imam Muhammad ibn Abdullah al-Khatib al-Tabrizi",
+    "introduction": ""
+  },
+  "hadithsCount": 4428,
+  "chapters": [
+    {
+      "id": 0,
+      "arabic": "مقدمة المؤلف",
+      "english": "Author's Introduction",
+      "hadithsCount": 1,
+      "file": "chapters/introduction.json"
+    },
+    {
+      "id": 1,
+      "arabic": "كتاب الإيمان",
+      "english": "Faith",
+      "hadithsCount": 188,
+      "file": "chapters/1.json"
+    },
+    {
+      "id": 2,
+      "arabic": "كتاب العلم",
+      "english": "Knowledge",
+      "hadithsCount": 75,
+      "file": "chapters/2.json"
+    },
+    {
+      "id": 3,
+      "arabic": "كتاب الطهارة",
+      "english": "Purification",
+      "hadithsCount": 258,
+      "file": "chapters/3.json"
+    },
+    {
+      "id": 4,
+      "arabic": "كتاب الصلاة",
+      "english": "Prayer",
+      "hadithsCount": 921,
+      "file": "chapters/4.json"
+    },
+    {
+      "id": 5,
+      "arabic": "كتاب الجنائز",
+      "english": "Funerals",
+      "hadithsCount": 243,
+      "file": "chapters/5.json"
+    },
+    {
+      "id": 6,
+      "arabic": "كتاب الزكاة",
+      "english": "Zakat",
+      "hadithsCount": 180,
+      "file": "chapters/6.json"
+    },
+    {
+      "id": 7,
+      "arabic": "كتاب الصوم",
+      "english": "Fasting",
+      "hadithsCount": 148,
+      "file": "chapters/7.json"
+    },
+    {
+      "id": 8,
+      "arabic": "كتاب فضائل القرآن",
+      "english": "The Excellent Qualities of the Qur'an",
+      "hadithsCount": 112,
+      "file": "chapters/8.json"
+    },
+    {
+      "id": 9,
+      "arabic": "كتاب الدعوات",
+      "english": "Supplications",
+      "hadithsCount": 272,
+      "file": "chapters/9.json"
+    },
+    {
+      "id": 10,
+      "arabic": "كتاب المناسك",
+      "english": "The Rites of Pilgrimage",
+      "hadithsCount": 246,
+      "file": "chapters/10.json"
+    },
+    {
+      "id": 11,
+      "arabic": "كتاب البيوع",
+      "english": "Business Transactions",
+      "hadithsCount": 274,
+      "file": "chapters/11.json"
+    },
+    {
+      "id": 12,
+      "arabic": "كتاب الفرائض والوصايا",
+      "english": "Inheritance and Wills",
+      "hadithsCount": 37,
+      "file": "chapters/12.json"
+    },
+    {
+      "id": 13,
+      "arabic": "كتاب النكاح",
+      "english": "Marriage",
+      "hadithsCount": 293,
+      "file": "chapters/13.json"
+    },
+    {
+      "id": 14,
+      "arabic": "كتاب العتق",
+      "english": "Emancipation",
+      "hadithsCount": 24,
+      "file": "chapters/14.json"
+    },
+    {
+      "id": 15,
+      "arabic": "كتاب الإيمان والنذور",
+      "english": "Oaths and Vows",
+      "hadithsCount": 39,
+      "file": "chapters/15.json"
+    },
+    {
+      "id": 16,
+      "arabic": "كتاب القصاص",
+      "english": "Retaliation",
+      "hadithsCount": 100,
+      "file": "chapters/16.json"
+    },
+    {
+      "id": 17,
+      "arabic": "كتاب الحدود",
+      "english": "Prescribed Punishments",
+      "hadithsCount": 94,
+      "file": "chapters/17.json"
+    },
+    {
+      "id": 18,
+      "arabic": "كتاب الإمارة والقضاء",
+      "english": "The Offices of Commander and Qadi",
+      "hadithsCount": 121,
+      "file": "chapters/18.json"
+    },
+    {
+      "id": 19,
+      "arabic": "كتاب الجهاد",
+      "english": "Jihad",
+      "hadithsCount": 273,
+      "file": "chapters/19.json"
+    },
+    {
+      "id": 20,
+      "arabic": "كتاب الصيد والذبائح",
+      "english": "Game and Animals Which May Be Slaughtered",
+      "hadithsCount": 93,
+      "file": "chapters/20.json"
+    },
+    {
+      "id": 21,
+      "arabic": "كتاب الأطعمة",
+      "english": "Foods",
+      "hadithsCount": 135,
+      "file": "chapters/21.json"
+    },
+    {
+      "id": 22,
+      "arabic": "كتاب اللباس",
+      "english": "Clothing",
+      "hadithsCount": 193,
+      "file": "chapters/22.json"
+    },
+    {
+      "id": 23,
+      "arabic": "كتاب الطب والرقى",
+      "english": "Medicine and Spells",
+      "hadithsCount": 88,
+      "file": "chapters/23.json"
+    },
+    {
+      "id": 24,
+      "arabic": "كتاب الرؤيا",
+      "english": "Visions",
+      "hadithsCount": 20,
+      "file": "chapters/24.json"
+    }
+  ]
+}

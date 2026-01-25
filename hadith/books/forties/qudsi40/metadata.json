@@ -1,0 +1,24 @@
+{
+  "id": "qudsi40",
+  "numericId": 11,
+  "arabic": {
+    "title": "الأحاديث القدسية الأربعون",
+    "author": "متنوع",
+    "introduction": ""
+  },
+  "english": {
+    "title": "Forty Hadith Qudsi",
+    "author": "Various",
+    "introduction": ""
+  },
+  "hadithsCount": 40,
+  "chapters": [
+    {
+      "id": 0,
+      "arabic": "الحديث القدسي",
+      "english": "Forty Hadith Qudsi",
+      "hadithsCount": 40,
+      "file": "all.json"
+    }
+  ]
+}

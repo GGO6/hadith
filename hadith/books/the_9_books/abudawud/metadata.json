@@ -1,0 +1,318 @@
+{
+  "id": "abudawud",
+  "numericId": 3,
+  "arabic": {
+    "title": "سنن أبي داود",
+    "author": "الإمام أبو داود سليمان بن الأشعث السجستاني",
+    "introduction": ""
+  },
+  "english": {
+    "title": "Sunan Abu Dawud",
+    "author": "Imam Abu Dawud Sulayman ibn al-Ash'ath al-Sijistani",
+    "introduction": ""
+  },
+  "hadithsCount": 5276,
+  "chapters": [
+    {
+      "id": 1,
+      "arabic": "كتاب الطهارة",
+      "english": "Purification (Kitab Al-Taharah)",
+      "hadithsCount": 390,
+      "file": "chapters/1.json"
+    },
+    {
+      "id": 2,
+      "arabic": "كتاب الصلاة",
+      "english": "Prayer (Kitab Al-Salat)",
+      "hadithsCount": 771,
+      "file": "chapters/2.json"
+    },
+    {
+      "id": 3,
+      "arabic": "كتاب الاستسقاء",
+      "english": "The Book Of The Prayer For Rain (Kitab al-Istisqa')",
+      "hadithsCount": 37,
+      "file": "chapters/3.json"
+    },
+    {
+      "id": 4,
+      "arabic": "كتاب صلاة السفر",
+      "english": "Prayer (Kitab Al-Salat): Detailed Rules of Law about the Prayer during Journey",
+      "hadithsCount": 52,
+      "file": "chapters/4.json"
+    },
+    {
+      "id": 5,
+      "arabic": "كتاب التطوع",
+      "english": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+      "hadithsCount": 121,
+      "file": "chapters/5.json"
+    },
+    {
+      "id": 6,
+      "arabic": "كتاب شهر رمضان",
+      "english": "Prayer (Kitab Al-Salat): Detailed Injunctions about Ramadan",
+      "hadithsCount": 30,
+      "file": "chapters/6.json"
+    },
+    {
+      "id": 7,
+      "arabic": "كتاب سجود القرآن",
+      "english": "Prayer (Kitab Al-Salat): Prostration while reciting the Qur'an",
+      "hadithsCount": 15,
+      "file": "chapters/7.json"
+    },
+    {
+      "id": 8,
+      "arabic": "كتاب الوتر",
+      "english": "Prayer (Kitab Al-Salat): Detailed Injunctions about Witr",
+      "hadithsCount": 140,
+      "file": "chapters/8.json"
+    },
+    {
+      "id": 9,
+      "arabic": "كتاب الزكاة",
+      "english": "Zakat (Kitab Al-Zakat)",
+      "hadithsCount": 145,
+      "file": "chapters/9.json"
+    },
+    {
+      "id": 10,
+      "arabic": "كتاب اللقطة",
+      "english": "The Book of Lost and Found Items",
+      "hadithsCount": 20,
+      "file": "chapters/10.json"
+    },
+    {
+      "id": 11,
+      "arabic": "كتاب المناسك",
+      "english": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)",
+      "hadithsCount": 325,
+      "file": "chapters/11.json"
+    },
+    {
+      "id": 12,
+      "arabic": "كتاب النكاح",
+      "english": "Marriage (Kitab Al-Nikah)",
+      "hadithsCount": 129,
+      "file": "chapters/12.json"
+    },
+    {
+      "id": 13,
+      "arabic": "كتاب الطلاق",
+      "english": "Divorce (Kitab Al-Talaq)",
+      "hadithsCount": 138,
+      "file": "chapters/13.json"
+    },
+    {
+      "id": 14,
+      "arabic": "كتاب الصوم",
+      "english": "Fasting (Kitab Al-Siyam)",
+      "hadithsCount": 164,
+      "file": "chapters/14.json"
+    },
+    {
+      "id": 15,
+      "arabic": "كتاب الجهاد",
+      "english": "Jihad (Kitab Al-Jihad)",
+      "hadithsCount": 311,
+      "file": "chapters/15.json"
+    },
+    {
+      "id": 16,
+      "arabic": "كتاب الضحايا",
+      "english": "Sacrifice (Kitab Al-Dahaya)",
+      "hadithsCount": 56,
+      "file": "chapters/16.json"
+    },
+    {
+      "id": 17,
+      "arabic": "كتاب الصيد",
+      "english": "Game (Kitab Al-Said)",
+      "hadithsCount": 18,
+      "file": "chapters/17.json"
+    },
+    {
+      "id": 18,
+      "arabic": "كتاب الوصايا",
+      "english": "Wills (Kitab Al-Wasaya)",
+      "hadithsCount": 23,
+      "file": "chapters/18.json"
+    },
+    {
+      "id": 19,
+      "arabic": "كتاب الفرائض",
+      "english": "Shares of Inheritance (Kitab Al-Fara'id)",
+      "hadithsCount": 43,
+      "file": "chapters/19.json"
+    },
+    {
+      "id": 20,
+      "arabic": "كتاب الخراج والإمارة والفىء",
+      "english": "Tribute, Spoils, and Rulership (Kitab Al-Kharaj, Wal-Fai' Wal-Imarah)",
+      "hadithsCount": 161,
+      "file": "chapters/20.json"
+    },
+    {
+      "id": 21,
+      "arabic": "كتاب الجنائز",
+      "english": "Funerals (Kitab Al-Jana'iz)",
+      "hadithsCount": 153,
+      "file": "chapters/21.json"
+    },
+    {
+      "id": 22,
+      "arabic": "كتاب الأيمان والنذور",
+      "english": "Oaths and Vows (Kitab Al-Aiman Wa Al-Nudhur)",
+      "hadithsCount": 84,
+      "file": "chapters/22.json"
+    },
+    {
+      "id": 23,
+      "arabic": "كتاب البيوع",
+      "english": "Commercial Transactions (Kitab Al-Buyu)",
+      "hadithsCount": 90,
+      "file": "chapters/23.json"
+    },
+    {
+      "id": 24,
+      "arabic": "كتاب الإجارة",
+      "english": "Wages (Kitab Al-Ijarah)",
+      "hadithsCount": 155,
+      "file": "chapters/24.json"
+    },
+    {
+      "id": 25,
+      "arabic": "كتاب الأقضية",
+      "english": "The Office of the Judge (Kitab Al-Aqdiyah)",
+      "hadithsCount": 70,
+      "file": "chapters/25.json"
+    },
+    {
+      "id": 26,
+      "arabic": "كتاب العلم",
+      "english": "Knowledge (Kitab Al-Ilm)",
+      "hadithsCount": 28,
+      "file": "chapters/26.json"
+    },
+    {
+      "id": 27,
+      "arabic": "كتاب الأشربة",
+      "english": "Drinks (Kitab Al-Ashribah)",
+      "hadithsCount": 67,
+      "file": "chapters/27.json"
+    },
+    {
+      "id": 28,
+      "arabic": "كتاب الأطعمة",
+      "english": "Foods (Kitab Al-At'imah)",
+      "hadithsCount": 119,
+      "file": "chapters/28.json"
+    },
+    {
+      "id": 29,
+      "arabic": "كتاب الطب",
+      "english": "Medicine (Kitab Al-Tibb)",
+      "hadithsCount": 49,
+      "file": "chapters/29.json"
+    },
+    {
+      "id": 30,
+      "arabic": "كتاب الكهانة و التطير",
+      "english": "Divination and Omens (Kitab Al-Kahanah Wa Al-Tatayyur)",
+      "hadithsCount": 22,
+      "file": "chapters/30.json"
+    },
+    {
+      "id": 31,
+      "arabic": "كتاب العتق",
+      "english": "The Book of Manumission of Slaves",
+      "hadithsCount": 43,
+      "file": "chapters/31.json"
+    },
+    {
+      "id": 32,
+      "arabic": "كتاب الحروف والقراءات",
+      "english": "Dialects and Readings of the Qur'an (Kitab Al-Huruf Wa Al-Qira'at)",
+      "hadithsCount": 40,
+      "file": "chapters/32.json"
+    },
+    {
+      "id": 33,
+      "arabic": "كتاب الحمَّام",
+      "english": "Hot Baths (Kitab Al-Hammam)",
+      "hadithsCount": 11,
+      "file": "chapters/33.json"
+    },
+    {
+      "id": 34,
+      "arabic": "كتاب اللباس",
+      "english": "Clothing (Kitab Al-Libas)",
+      "hadithsCount": 139,
+      "file": "chapters/34.json"
+    },
+    {
+      "id": 35,
+      "arabic": "كتاب الترجل",
+      "english": "Combing the Hair (Kitab Al-Tarajjul)",
+      "hadithsCount": 55,
+      "file": "chapters/35.json"
+    },
+    {
+      "id": 36,
+      "arabic": "كتاب الخاتم",
+      "english": "Signet-Rings (Kitab Al-Khatam)",
+      "hadithsCount": 26,
+      "file": "chapters/36.json"
+    },
+    {
+      "id": 37,
+      "arabic": "كتاب الفتن والملاحم",
+      "english": "Trials and Fierce Battles (Kitab Al-Fitan Wa Al-Malahim)",
+      "hadithsCount": 39,
+      "file": "chapters/37.json"
+    },
+    {
+      "id": 38,
+      "arabic": "كتاب المهدى",
+      "english": "The Promised Deliverer (Kitab Al-Mahdi)",
+      "hadithsCount": 13,
+      "file": "chapters/38.json"
+    },
+    {
+      "id": 39,
+      "arabic": "كتاب الملاحم",
+      "english": "Battles (Kitab Al-Malahim)",
+      "hadithsCount": 60,
+      "file": "chapters/39.json"
+    },
+    {
+      "id": 40,
+      "arabic": "كتاب الحدود",
+      "english": "Prescribed Punishments (Kitab Al-Hudud)",
+      "hadithsCount": 143,
+      "file": "chapters/40.json"
+    },
+    {
+      "id": 41,
+      "arabic": "كتاب الديات",
+      "english": "Types of Blood-Wit (Kitab Al-Diyat)",
+      "hadithsCount": 102,
+      "file": "chapters/41.json"
+    },
+    {
+      "id": 42,
+      "arabic": "كتاب السنة",
+      "english": "Model Behavior of the Prophet (Kitab Al-Sunnah)",
+      "hadithsCount": 177,
+      "file": "chapters/42.json"
+    },
+    {
+      "id": 43,
+      "arabic": "كتاب الأدب",
+      "english": "General Behavior (Kitab Al-Adab)",
+      "hadithsCount": 502,
+      "file": "chapters/43.json"
+    }
+  ]
+}

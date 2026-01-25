@@ -1,0 +1,360 @@
+{
+  "id": "tirmidhi",
+  "numericId": 4,
+  "arabic": {
+    "title": "جامع الترمذي",
+    "author": "الإمام محمد بن عيسى الترمذي",
+    "introduction": ""
+  },
+  "english": {
+    "title": "Jami' at-Tirmidhi",
+    "author": "Imam Muhammad ibn Isa al-Tirmidhi",
+    "introduction": ""
+  },
+  "hadithsCount": 4053,
+  "chapters": [
+    {
+      "id": 1,
+      "arabic": "كتاب الطهارة عن رسول الله صلى الله عليه وسلم",
+      "english": "The Book on Purification",
+      "hadithsCount": 148,
+      "file": "chapters/1.json"
+    },
+    {
+      "id": 2,
+      "arabic": "كتاب الصلاة",
+      "english": "The Book on Salat (Prayer)",
+      "hadithsCount": 304,
+      "file": "chapters/2.json"
+    },
+    {
+      "id": 3,
+      "arabic": "أَبْوَابُ الْوِتْرِ",
+      "english": "The Book on Al-Witr",
+      "hadithsCount": 35,
+      "file": "chapters/3.json"
+    },
+    {
+      "id": 4,
+      "arabic": "كِتَاب الْجُمُعَةِ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+      "english": "The Book on the Day of Friday",
+      "hadithsCount": 42,
+      "file": "chapters/4.json"
+    },
+    {
+      "id": 5,
+      "arabic": "أَبْوَابُ الْعِيدَيْنِ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+      "english": "The Book on the Two Eids",
+      "hadithsCount": 14,
+      "file": "chapters/5.json"
+    },
+    {
+      "id": 6,
+      "arabic": "أَبْوَابُ السَّفَرِ",
+      "english": "The Book on Traveling",
+      "hadithsCount": 73,
+      "file": "chapters/6.json"
+    },
+    {
+      "id": 7,
+      "arabic": "كتاب الزكاة عن رسول الله صلى الله عليه وسلم",
+      "english": "The Book on Zakat",
+      "hadithsCount": 65,
+      "file": "chapters/7.json"
+    },
+    {
+      "id": 8,
+      "arabic": "كتاب الصوم عن رسول الله صلى الله عليه وسلم",
+      "english": "The Book on Fasting",
+      "hadithsCount": 127,
+      "file": "chapters/8.json"
+    },
+    {
+      "id": 9,
+      "arabic": "كتاب الحج عن رسول الله صلى الله عليه وسلم",
+      "english": "The Book on Hajj",
+      "hadithsCount": 158,
+      "file": "chapters/9.json"
+    },
+    {
+      "id": 10,
+      "arabic": "كتاب الجنائز عن رسول الله صلى الله عليه وسلم",
+      "english": "The Book on Jana''iz (Funerals)",
+      "hadithsCount": 115,
+      "file": "chapters/10.json"
+    },
+    {
+      "id": 11,
+      "arabic": "كتاب النكاح عن رسول الله صلى الله عليه وسلم",
+      "english": "The Book on Marriage",
+      "hadithsCount": 67,
+      "file": "chapters/11.json"
+    },
+    {
+      "id": 12,
+      "arabic": "كتاب الرضاع",
+      "english": "The Book on Suckling",
+      "hadithsCount": 29,
+      "file": "chapters/12.json"
+    },
+    {
+      "id": 13,
+      "arabic": "كتاب الطلاق واللعان عن رسول الله صلى الله عليه وسلم",
+      "english": "The Book on Divorce and Li'an",
+      "hadithsCount": 31,
+      "file": "chapters/13.json"
+    },
+    {
+      "id": 14,
+      "arabic": "كتاب البيوع عن رسول الله صلى الله عليه وسلم",
+      "english": "The Book on Business",
+      "hadithsCount": 125,
+      "file": "chapters/14.json"
+    },
+    {
+      "id": 15,
+      "arabic": "كتاب الأحكام عن رسول الله صلى الله عليه وسلم",
+      "english": "The Chapters On Judgements From The Messenger of Allah",
+      "hadithsCount": 66,
+      "file": "chapters/15.json"
+    },
+    {
+      "id": 16,
+      "arabic": "كتاب الديات عن رسول الله صلى الله عليه وسلم",
+      "english": "The Book on Blood Money",
+      "hadithsCount": 39,
+      "file": "chapters/16.json"
+    },
+    {
+      "id": 17,
+      "arabic": "كتاب الحدود عن رسول الله صلى الله عليه وسلم",
+      "english": "The Book on Legal Punishments (Al-Hudud)",
+      "hadithsCount": 47,
+      "file": "chapters/17.json"
+    },
+    {
+      "id": 18,
+      "arabic": "كتاب الصيد والذبائح عن رسول الله صلى الله عليه وسلم",
+      "english": "The Book on Hunting",
+      "hadithsCount": 36,
+      "file": "chapters/18.json"
+    },
+    {
+      "id": 19,
+      "arabic": "كتاب الأضاحى عن رسول الله صلى الله عليه وسلم",
+      "english": "The Book on Sacrifices",
+      "hadithsCount": 36,
+      "file": "chapters/19.json"
+    },
+    {
+      "id": 20,
+      "arabic": "كتاب النذور والأيمان عن رسول الله صلى الله عليه وسلم",
+      "english": "The Book on Vows and Oaths",
+      "hadithsCount": 26,
+      "file": "chapters/20.json"
+    },
+    {
+      "id": 21,
+      "arabic": "كتاب السير عن رسول الله صلى الله عليه وسلم",
+      "english": "The Book on Military Expeditions",
+      "hadithsCount": 83,
+      "file": "chapters/21.json"
+    },
+    {
+      "id": 22,
+      "arabic": "كتاب فضائل الجهاد عن رسول الله صلى الله عليه وسلم",
+      "english": "The Book on Virtues of Jihad",
+      "hadithsCount": 52,
+      "file": "chapters/22.json"
+    },
+    {
+      "id": 23,
+      "arabic": "كتاب الجهاد عن رسول الله صلى الله عليه وسلم",
+      "english": "The Book on Jihad",
+      "hadithsCount": 53,
+      "file": "chapters/23.json"
+    },
+    {
+      "id": 24,
+      "arabic": "كتاب اللباس",
+      "english": "The Book on Clothing",
+      "hadithsCount": 76,
+      "file": "chapters/24.json"
+    },
+    {
+      "id": 25,
+      "arabic": "كتاب الأطعمة عن رسول الله صلى الله عليه وسلم",
+      "english": "The Book on Food",
+      "hadithsCount": 78,
+      "file": "chapters/25.json"
+    },
+    {
+      "id": 26,
+      "arabic": "كتاب الأشربة عن رسول الله صلى الله عليه وسلم",
+      "english": "The Book on Drinks",
+      "hadithsCount": 37,
+      "file": "chapters/26.json"
+    },
+    {
+      "id": 27,
+      "arabic": "كتاب البر والصلة عن رسول الله صلى الله عليه وسلم",
+      "english": "Chapters on Righteousness And Maintaining Good Relations With Relatives",
+      "hadithsCount": 141,
+      "file": "chapters/27.json"
+    },
+    {
+      "id": 28,
+      "arabic": "كتاب الطب عن رسول اللَّهِ صلى الله عليه وسلم",
+      "english": "Chapters on Medicine",
+      "hadithsCount": 53,
+      "file": "chapters/28.json"
+    },
+    {
+      "id": 29,
+      "arabic": "كتاب الفرائض عن رسول الله صلى الله عليه وسلم",
+      "english": "Chapters On Inheritance",
+      "hadithsCount": 26,
+      "file": "chapters/29.json"
+    },
+    {
+      "id": 30,
+      "arabic": "كتاب الوصايا عن رسول الله صلى الله عليه وسلم",
+      "english": "Chapters On Wasaya (Wills and Testament)",
+      "hadithsCount": 9,
+      "file": "chapters/30.json"
+    },
+    {
+      "id": 31,
+      "arabic": "كتاب الولاء والهبة عن رسول الله صلى الله عليه وسلم",
+      "english": "Chapters On Wala' And Gifts",
+      "hadithsCount": 9,
+      "file": "chapters/31.json"
+    },
+    {
+      "id": 32,
+      "arabic": "كتاب القدر عن رسول الله صلى الله عليه وسلم",
+      "english": "Chapters On Al-Qadar",
+      "hadithsCount": 25,
+      "file": "chapters/32.json"
+    },
+    {
+      "id": 33,
+      "arabic": "كتاب الفتن عن رسول الله صلى الله عليه وسلم",
+      "english": "Chapters On Al-Fitan",
+      "hadithsCount": 112,
+      "file": "chapters/33.json"
+    },
+    {
+      "id": 34,
+      "arabic": "كتاب الرؤيا عن رسول الله صلى الله عليه وسلم",
+      "english": "Chapters On Dreams",
+      "hadithsCount": 25,
+      "file": "chapters/34.json"
+    },
+    {
+      "id": 35,
+      "arabic": "كتاب الشهادات عن رسول الله صلى الله عليه وسلم",
+      "english": "Chapters On Witnesses",
+      "hadithsCount": 10,
+      "file": "chapters/35.json"
+    },
+    {
+      "id": 36,
+      "arabic": "كتاب الزهد عن رسول الله صلى الله عليه وسلم",
+      "english": "Chapters On Zuhd",
+      "hadithsCount": 112,
+      "file": "chapters/36.json"
+    },
+    {
+      "id": 37,
+      "arabic": "كتاب صفة القيامة والرقائق والورع عن رسول الله صلى الله",
+      "english": "Chapters on the description of the Day of Judgement, Ar-Riqaq, and Al-Wara'",
+      "hadithsCount": 108,
+      "file": "chapters/37.json"
+    },
+    {
+      "id": 38,
+      "arabic": "كتاب صفة الجنة عن رسول الله صلى الله عليه وسلم",
+      "english": "Chapters on the description of Paradise",
+      "hadithsCount": 50,
+      "file": "chapters/38.json"
+    },
+    {
+      "id": 39,
+      "arabic": "كتاب صفة جهنم عن رسول الله صلى الله عليه وسلم",
+      "english": "The Book on the Description of Hellfire",
+      "hadithsCount": 33,
+      "file": "chapters/39.json"
+    },
+    {
+      "id": 40,
+      "arabic": "كتاب الإيمان عن رسول الله صلى الله عليه وسلم",
+      "english": "The Book on Faith",
+      "hadithsCount": 39,
+      "file": "chapters/40.json"
+    },
+    {
+      "id": 41,
+      "arabic": "كتاب العلم عن رسول الله صلى الله عليه وسلم",
+      "english": "Chapters on Knowledge",
+      "hadithsCount": 43,
+      "file": "chapters/41.json"
+    },
+    {
+      "id": 42,
+      "arabic": "كتاب الاستئذان والآداب عن رسول الله صلى الله عليه وسلم",
+      "english": "Chapters on Seeking Permission",
+      "hadithsCount": 48,
+      "file": "chapters/42.json"
+    },
+    {
+      "id": 43,
+      "arabic": "كتاب الأدب عن رسول الله صلى الله عليه وسلم",
+      "english": "Chapters on Manners",
+      "hadithsCount": 135,
+      "file": "chapters/43.json"
+    },
+    {
+      "id": 44,
+      "arabic": "كتاب الأمثال عن رسول الله صلى الله عليه وسلم",
+      "english": "Chapters on Parables",
+      "hadithsCount": 17,
+      "file": "chapters/44.json"
+    },
+    {
+      "id": 45,
+      "arabic": "كتاب ثواب القرآن عن رسول الله صلى الله عليه وسلم",
+      "english": "Chapters on The Virtues of the Qur'an",
+      "hadithsCount": 52,
+      "file": "chapters/45.json"
+    },
+    {
+      "id": 46,
+      "arabic": "كتاب القراءات عن رسول الله صلى الله عليه وسلم",
+      "english": "Chapters on Recitation",
+      "hadithsCount": 23,
+      "file": "chapters/46.json"
+    },
+    {
+      "id": 47,
+      "arabic": "كتاب تفسير القرآن عن رسول الله صلى الله عليه وسلم",
+      "english": "Chapters on Tafsir",
+      "hadithsCount": 421,
+      "file": "chapters/47.json"
+    },
+    {
+      "id": 48,
+      "arabic": "كتاب الدعوات عن رسول الله صلى الله عليه وسلم",
+      "english": "Chapters on Supplication",
+      "hadithsCount": 244,
+      "file": "chapters/48.json"
+    },
+    {
+      "id": 49,
+      "arabic": "كتاب المناقب عن رسول الله صلى الله عليه وسلم",
+      "english": "Chapters on Virtues",
+      "hadithsCount": 356,
+      "file": "chapters/49.json"
+    }
+  ]
+}

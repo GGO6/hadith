@@ -1,0 +1,185 @@
+{
+  "id": "darimi",
+  "numericId": 9,
+  "arabic": {
+    "title": "سنن الدارمي",
+    "author": "الإمام عبد الله بن عبد الرحمن الدارمي",
+    "introduction": ""
+  },
+  "english": {
+    "title": "Sunan al-Darimi",
+    "author": "Imam Abdullah ibn Abd al-Rahman al-Darimi",
+    "introduction": ""
+  },
+  "hadithsCount": 3406,
+  "chapters": [
+    {
+      "id": 0,
+      "arabic": "سنن الدارمي",
+      "english": "",
+      "hadithsCount": 649,
+      "file": "chapters/introduction.json"
+    },
+    {
+      "id": 1,
+      "arabic": "كِتَاب الطَّهَارَةِ",
+      "english": "",
+      "hadithsCount": 510,
+      "file": "chapters/1.json"
+    },
+    {
+      "id": 2,
+      "arabic": "كِتَاب الصَّلَاةِ",
+      "english": "",
+      "hadithsCount": 419,
+      "file": "chapters/2.json"
+    },
+    {
+      "id": 3,
+      "arabic": "مِنْ كِتَابِ الزَّكَاةِ",
+      "english": "",
+      "hadithsCount": 59,
+      "file": "chapters/3.json"
+    },
+    {
+      "id": 4,
+      "arabic": "وَمِنْ كِتَابِ الصَّوْمِ",
+      "english": "",
+      "hadithsCount": 98,
+      "file": "chapters/4.json"
+    },
+    {
+      "id": 5,
+      "arabic": "مِنْ كِتَابِ الْمَنَاسِكِ",
+      "english": "",
+      "hadithsCount": 153,
+      "file": "chapters/5.json"
+    },
+    {
+      "id": 6,
+      "arabic": "مِنْ كِتَابِ الْأَضَاحِيِّ",
+      "english": "",
+      "hadithsCount": 55,
+      "file": "chapters/6.json"
+    },
+    {
+      "id": 7,
+      "arabic": "وَمِنْ كِتَابِ الصَّيْدِ",
+      "english": "",
+      "hadithsCount": 16,
+      "file": "chapters/7.json"
+    },
+    {
+      "id": 8,
+      "arabic": "وَمِنْ كِتَابِ الْأَطْعِمَةِ",
+      "english": "",
+      "hadithsCount": 63,
+      "file": "chapters/8.json"
+    },
+    {
+      "id": 9,
+      "arabic": "وَمِنْ كِتَابِ الْأَشْرِبَةِ",
+      "english": "",
+      "hadithsCount": 49,
+      "file": "chapters/9.json"
+    },
+    {
+      "id": 10,
+      "arabic": "وَمِنْ كِتَابِ الرُّؤْيَا",
+      "english": "",
+      "hadithsCount": 27,
+      "file": "chapters/10.json"
+    },
+    {
+      "id": 11,
+      "arabic": "وَمِنْ كِتَابِ النِّكَاحِ",
+      "english": "",
+      "hadithsCount": 92,
+      "file": "chapters/11.json"
+    },
+    {
+      "id": 12,
+      "arabic": "وَمِنْ كِتَابِ الطَّلَاقِ",
+      "english": "",
+      "hadithsCount": 32,
+      "file": "chapters/12.json"
+    },
+    {
+      "id": 13,
+      "arabic": "وَمِنْ كِتَابِ الْحُدُودِ",
+      "english": "",
+      "hadithsCount": 33,
+      "file": "chapters/13.json"
+    },
+    {
+      "id": 14,
+      "arabic": "وَمِنْ كِتَابِ النُّذُورِ وَالْأَيْمَانِ",
+      "english": "",
+      "hadithsCount": 18,
+      "file": "chapters/14.json"
+    },
+    {
+      "id": 15,
+      "arabic": "وَمِنْ كِتَابِ الدِّيَاتِ",
+      "english": "",
+      "hadithsCount": 38,
+      "file": "chapters/15.json"
+    },
+    {
+      "id": 16,
+      "arabic": "كِتَاب الْجِهَادِ",
+      "english": "",
+      "hadithsCount": 48,
+      "file": "chapters/16.json"
+    },
+    {
+      "id": 17,
+      "arabic": "وَمِنْ كِتَابِ السِّيَرِ",
+      "english": "",
+      "hadithsCount": 91,
+      "file": "chapters/17.json"
+    },
+    {
+      "id": 18,
+      "arabic": "وَمِنْ كِتَابِ الْبُيُوعِ",
+      "english": "",
+      "hadithsCount": 97,
+      "file": "chapters/18.json"
+    },
+    {
+      "id": 19,
+      "arabic": "وَمِنْ كِتَابِ الِاسْتِئْذَانِ",
+      "english": "",
+      "hadithsCount": 75,
+      "file": "chapters/19.json"
+    },
+    {
+      "id": 20,
+      "arabic": "وَمِنْ كِتَابِ الرِّقَاقِ",
+      "english": "",
+      "hadithsCount": 137,
+      "file": "chapters/20.json"
+    },
+    {
+      "id": 21,
+      "arabic": "مِنْ كِتَابِ الْفَرَائِضِ",
+      "english": "",
+      "hadithsCount": 325,
+      "file": "chapters/21.json"
+    },
+    {
+      "id": 22,
+      "arabic": "مِنْ كِتَابِ الْوَصَايَا",
+      "english": "",
+      "hadithsCount": 126,
+      "file": "chapters/22.json"
+    },
+    {
+      "id": 23,
+      "arabic": "وَمِنْ كِتَابِ فَضَائِلِ الْقُرْآنِ",
+      "english": "",
+      "hadithsCount": 196,
+      "file": "chapters/23.json"
+    }
+  ]
+}
