@@ -16,7 +16,7 @@
       "id": "forties",
       "arabic": "الأربعينيات",
       "english": "The Forties Collections",
-      "booksCount": 3
+      "booksCount": 2
     },
     {
       "id": "other_books",
@@ -267,28 +267,6 @@
       "fullBookUrl": "forties/qudsi40/all.json",
       "downloadUrl": "qudsi40.zip",
       "sha256": "e683ceca2aac33e853a881633534c349205df4a0354f06731c679e7d71b54f7f"
-    },
-    {
-      "id": "shahwaliullah40",
-      "numericId": 12,
-      "category": "forties",
-      "arabic": {
-        "title": "الأربعون لشاه ولي الله",
-        "author": "الإمام شاه ولي الله الدهلوي"
-      },
-      "english": {
-        "title": "Forty Hadith of Shah Waliullah",
-        "author": "Imam Shah Waliullah Dehlawi"
-      },
-      "hasChapters": false,
-      "chaptersCount": 1,
-      "hadithsCount": 40,
-      "sizeBytes": 10097,
-      "sizeFormatted": "9.9 KB",
-      "metadataUrl": "forties/shahwaliullah40/metadata.json",
-      "fullBookUrl": "forties/shahwaliullah40/all.json",
-      "downloadUrl": "shahwaliullah40.zip",
-      "sha256": "360ca54f2e1112887d3de40dcc0e8a80582bdcb199b9b85d84d5e1a4b4be4fa4"
     },
     {
       "id": "riyad_assalihin",
