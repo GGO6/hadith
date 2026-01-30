@@ -1,8 +1,79 @@
 {
-  "version": "2.0.1",
-  "lastUpdated": "2026-01-25",
+  "version": "3.0.0",
+  "lastUpdated": "2026-01-30",
   "baseUrl": "https://raw.githubusercontent.com/GGO6/hadith/main/hadith/books",
   "archivesBaseUrl": "https://raw.githubusercontent.com/GGO6/hadith/main/hadith/archives",
+  "translationsBaseUrl": "https://raw.githubusercontent.com/GGO6/hadith/main/hadith/translations",
+  "availableLanguages": [
+    {
+      "code": "ar",
+      "name": "Arabic",
+      "nativeName": "العربية",
+      "direction": "rtl"
+    },
+    {
+      "code": "en",
+      "name": "English",
+      "nativeName": "English",
+      "direction": "ltr"
+    },
+    {
+      "code": "tr",
+      "name": "Turkish",
+      "nativeName": "Türkçe",
+      "direction": "ltr",
+      "status": "pending"
+    },
+    {
+      "code": "fr",
+      "name": "French",
+      "nativeName": "Français",
+      "direction": "ltr",
+      "status": "pending"
+    },
+    {
+      "code": "id",
+      "name": "Indonesian",
+      "nativeName": "Bahasa Indonesia",
+      "direction": "ltr",
+      "status": "pending"
+    },
+    {
+      "code": "ur",
+      "name": "Urdu",
+      "nativeName": "اردو",
+      "direction": "rtl",
+      "status": "pending"
+    },
+    {
+      "code": "bn",
+      "name": "Bengali",
+      "nativeName": "বাংলা",
+      "direction": "ltr",
+      "status": "pending"
+    },
+    {
+      "code": "de",
+      "name": "German",
+      "nativeName": "Deutsch",
+      "direction": "ltr",
+      "status": "pending"
+    },
+    {
+      "code": "es",
+      "name": "Spanish",
+      "nativeName": "Español",
+      "direction": "ltr",
+      "status": "pending"
+    },
+    {
+      "code": "ru",
+      "name": "Russian",
+      "nativeName": "Русский",
+      "direction": "ltr",
+      "status": "pending"
+    }
+  ],
   "totalBooks": 17,
   "totalHadiths": 50884,
   "categories": [

@@ -1,0 +1,348 @@
+{
+  "terms": {
+    "(ﷺ)": {
+      "tr": "(s.a.v.)",
+      "fr": "(paix soit sur lui)",
+      "id": "(SAW)",
+      "ur": "(ﷺ)",
+      "bn": "(সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)",
+      "de": "(Friede sei mit ihm)",
+      "es": "(la paz sea con él)",
+      "ru": "(мир ему и благословение)"
+    },
+    "Allah's Messenger": {
+      "tr": "Allah'ın Elçisi",
+      "fr": "Le Messager d'Allah",
+      "id": "Rasulullah",
+      "ur": "اللہ کے رسول",
+      "bn": "আল্লাহর রাসূল",
+      "de": "Allahs Gesandter",
+      "es": "El Mensajero de Allah",
+      "ru": "Посланник Аллаха"
+    },
+    "the Prophet": {
+      "tr": "Peygamber",
+      "fr": "le Prophète",
+      "id": "Nabi",
+      "ur": "نبی",
+      "bn": "নবী",
+      "de": "der Prophet",
+      "es": "el Profeta",
+      "ru": "Пророк"
+    },
+    "may Allah be pleased with him": {
+      "tr": "Allah ondan razı olsun",
+      "fr": "qu'Allah soit satisfait de lui",
+      "id": "radhiyallahu anhu",
+      "ur": "رضی اللہ عنہ",
+      "bn": "রাদিয়াল্লাহু আনহু",
+      "de": "möge Allah mit ihm zufrieden sein",
+      "es": "que Allah esté complacido con él",
+      "ru": "да будет доволен им Аллах"
+    },
+    "may Allah be pleased with her": {
+      "tr": "Allah ondan razı olsun",
+      "fr": "qu'Allah soit satisfait d'elle",
+      "id": "radhiyallahu anha",
+      "ur": "رضی اللہ عنہا",
+      "bn": "রাদিয়াল্লাহু আনহা",
+      "de": "möge Allah mit ihr zufrieden sein",
+      "es": "que Allah esté complacido con ella",
+      "ru": "да будет доволен ею Аллах"
+    },
+    "may Allah be pleased with them": {
+      "tr": "Allah onlardan razı olsun",
+      "fr": "qu'Allah soit satisfait d'eux",
+      "id": "radhiyallahu anhum",
+      "ur": "رضی اللہ عنہم",
+      "bn": "রাদিয়াল্লাহু আনহুম",
+      "de": "möge Allah mit ihnen zufrieden sein",
+      "es": "que Allah esté complacido con ellos",
+      "ru": "да будет доволен ими Аллах"
+    },
+    "Narrated": {
+      "tr": "Rivayet eden",
+      "fr": "Rapporté par",
+      "id": "Diriwayatkan oleh",
+      "ur": "روایت کی",
+      "bn": "বর্ণনা করেছেন",
+      "de": "Überliefert von",
+      "es": "Narrado por",
+      "ru": "Передал"
+    },
+    "Abu": {
+      "tr": "Ebu",
+      "fr": "Abou",
+      "id": "Abu",
+      "ur": "ابو",
+      "bn": "আবু",
+      "de": "Abu",
+      "es": "Abu",
+      "ru": "Абу"
+    },
+    "Ibn": {
+      "tr": "İbn",
+      "fr": "Ibn",
+      "id": "Ibnu",
+      "ur": "ابن",
+      "bn": "ইবনু",
+      "de": "Ibn",
+      "es": "Ibn",
+      "ru": "Ибн"
+    },
+    "Hadith": {
+      "tr": "Hadis",
+      "fr": "Hadith",
+      "id": "Hadits",
+      "ur": "حدیث",
+      "bn": "হাদিস",
+      "de": "Hadith",
+      "es": "Hadiz",
+      "ru": "Хадис"
+    },
+    "Sahih": {
+      "tr": "Sahih",
+      "fr": "Sahih",
+      "id": "Shahih",
+      "ur": "صحیح",
+      "bn": "সহীহ",
+      "de": "Sahih",
+      "es": "Sahih",
+      "ru": "Сахих"
+    },
+    "Sunan": {
+      "tr": "Sünen",
+      "fr": "Sunan",
+      "id": "Sunan",
+      "ur": "سنن",
+      "bn": "সুনান",
+      "de": "Sunan",
+      "es": "Sunan",
+      "ru": "Сунан"
+    },
+    "Jami": {
+      "tr": "Cami",
+      "fr": "Jami",
+      "id": "Jami",
+      "ur": "جامع",
+      "bn": "জামি",
+      "de": "Jami",
+      "es": "Yami",
+      "ru": "Джами"
+    },
+    "Musnad": {
+      "tr": "Müsned",
+      "fr": "Mousnad",
+      "id": "Musnad",
+      "ur": "مسند",
+      "bn": "মুসনাদ",
+      "de": "Musnad",
+      "es": "Musnad",
+      "ru": "Муснад"
+    },
+    "Muwatta": {
+      "tr": "Muvatta",
+      "fr": "Mouwatta",
+      "id": "Muwaththa",
+      "ur": "موطا",
+      "bn": "মুয়াত্তা",
+      "de": "Muwatta",
+      "es": "Muwatta",
+      "ru": "Муватта"
+    }
+  },
+  "bookTitles": {
+    "Sahih al-Bukhari": {
+      "tr": "Sahih-i Buhari",
+      "fr": "Sahih al-Boukhari",
+      "id": "Shahih Bukhari",
+      "ur": "صحیح بخاری",
+      "bn": "সহীহ বুখারী",
+      "de": "Sahih al-Bukhari",
+      "es": "Sahih al-Bujari",
+      "ru": "Сахих аль-Бухари"
+    },
+    "Sahih Muslim": {
+      "tr": "Sahih-i Müslim",
+      "fr": "Sahih Mouslim",
+      "id": "Shahih Muslim",
+      "ur": "صحیح مسلم",
+      "bn": "সহীহ মুসলিম",
+      "de": "Sahih Muslim",
+      "es": "Sahih Muslim",
+      "ru": "Сахих Муслим"
+    },
+    "Sunan Abu Dawud": {
+      "tr": "Sünen-i Ebu Davud",
+      "fr": "Sunan Abou Dawoud",
+      "id": "Sunan Abu Dawud",
+      "ur": "سنن ابو داؤد",
+      "bn": "সুনান আবু দাউদ",
+      "de": "Sunan Abu Dawud",
+      "es": "Sunan Abu Dawud",
+      "ru": "Сунан Абу Дауд"
+    },
+    "Jami' at-Tirmidhi": {
+      "tr": "Sünen-i Tirmizi",
+      "fr": "Jami at-Tirmidhi",
+      "id": "Jami at-Tirmidzi",
+      "ur": "جامع ترمذی",
+      "bn": "জামি আত-তিরমিযী",
+      "de": "Jami at-Tirmidhi",
+      "es": "Yami at-Tirmidhi",
+      "ru": "Джами ат-Тирмизи"
+    },
+    "Sunan an-Nasa'i": {
+      "tr": "Sünen-i Nesai",
+      "fr": "Sunan an-Nassa'i",
+      "id": "Sunan an-Nasa'i",
+      "ur": "سنن نسائی",
+      "bn": "সুনান আন-নাসায়ী",
+      "de": "Sunan an-Nasa'i",
+      "es": "Sunan an-Nasai",
+      "ru": "Сунан ан-Насаи"
+    },
+    "Sunan Ibn Majah": {
+      "tr": "Sünen-i İbn Mace",
+      "fr": "Sunan Ibn Majah",
+      "id": "Sunan Ibnu Majah",
+      "ur": "سنن ابن ماجہ",
+      "bn": "সুনান ইবনে মাজাহ",
+      "de": "Sunan Ibn Majah",
+      "es": "Sunan Ibn Mayah",
+      "ru": "Сунан Ибн Маджа"
+    },
+    "Muwatta Malik": {
+      "tr": "Muvatta-i İmam Malik",
+      "fr": "Mouwatta de l'Imam Malik",
+      "id": "Muwaththa Imam Malik",
+      "ur": "موطا امام مالک",
+      "bn": "মুয়াত্তা ইমাম মালিক",
+      "de": "Muwatta Imam Malik",
+      "es": "Muwatta del Imam Malik",
+      "ru": "Муватта имама Малика"
+    },
+    "Musnad Ahmad": {
+      "tr": "Müsned-i Ahmed",
+      "fr": "Mousnad Ahmad",
+      "id": "Musnad Ahmad",
+      "ur": "مسند احمد",
+      "bn": "মুসনাদ আহমাদ",
+      "de": "Musnad Ahmad",
+      "es": "Musnad Ahmad",
+      "ru": "Муснад Ахмад"
+    },
+    "Sunan al-Darimi": {
+      "tr": "Sünen-i Darimi",
+      "fr": "Sunan ad-Darimi",
+      "id": "Sunan ad-Darimi",
+      "ur": "سنن دارمی",
+      "bn": "সুনান আদ-দারিমী",
+      "de": "Sunan al-Darimi",
+      "es": "Sunan al-Darimi",
+      "ru": "Сунан ад-Дарими"
+    },
+    "The Forty Hadith of Imam Nawawi": {
+      "tr": "Kırk Hadis - İmam Nevevi",
+      "fr": "Les Quarante Hadiths de l'Imam Nawawi",
+      "id": "Hadits Arbain Imam Nawawi",
+      "ur": "اربعین نووی",
+      "bn": "ইমাম নববীর চল্লিশ হাদিস",
+      "de": "Die Vierzig Hadithe von Imam Nawawi",
+      "es": "Los Cuarenta Hadices del Imam Nawawi",
+      "ru": "Сорок хадисов имама ан-Навави"
+    },
+    "Forty Hadith Qudsi": {
+      "tr": "Kırk Kutsi Hadis",
+      "fr": "Les Quarante Hadiths Qudsi",
+      "id": "Hadits Qudsi",
+      "ur": "چالیس حدیث قدسی",
+      "bn": "চল্লিশ হাদিসে কুদসী",
+      "de": "Vierzig Hadith Qudsi",
+      "es": "Cuarenta Hadices Qudsi",
+      "ru": "Сорок хадисов Кудси"
+    },
+    "Riyad as-Salihin": {
+      "tr": "Riyazü's-Salihin",
+      "fr": "Riyad as-Salihin",
+      "id": "Riyadhus Shalihin",
+      "ur": "ریاض الصالحین",
+      "bn": "রিয়াদুস সালিহীন",
+      "de": "Riyad as-Salihin",
+      "es": "Riyad as-Salihin",
+      "ru": "Рияд ас-Салихин"
+    },
+    "Bulugh al-Maram": {
+      "tr": "Buluğu'l-Meram",
+      "fr": "Boulough al-Maram",
+      "id": "Bulughul Maram",
+      "ur": "بلوغ المرام",
+      "bn": "বুলুগুল মারাম",
+      "de": "Bulugh al-Maram",
+      "es": "Bulug al-Maram",
+      "ru": "Булуг аль-Марам"
+    },
+    "Mishkat al-Masabih": {
+      "tr": "Mişkatü'l-Mesabih",
+      "fr": "Michkat al-Masabih",
+      "id": "Misykatul Mashabih",
+      "ur": "مشکاۃ المصابیح",
+      "bn": "মিশকাতুল মাসাবীহ",
+      "de": "Mischkat al-Masabih",
+      "es": "Mishkat al-Masabih",
+      "ru": "Мишкат аль-Масабих"
+    },
+    "Al-Adab Al-Mufrad": {
+      "tr": "Edebü'l-Müfred",
+      "fr": "Al-Adab Al-Moufrad",
+      "id": "Al-Adabul Mufrad",
+      "ur": "الادب المفرد",
+      "bn": "আল-আদাবুল মুফরাদ",
+      "de": "Al-Adab Al-Mufrad",
+      "es": "Al-Adab Al-Mufrad",
+      "ru": "Аль-Адаб аль-Муфрад"
+    },
+    "Shama'il Muhammadiyah": {
+      "tr": "Şemail-i Şerife",
+      "fr": "Chama'il Mouhammadiyah",
+      "id": "Asy-Syama'il Muhammadiyah",
+      "ur": "شمائل محمدیہ",
+      "bn": "শামায়েলে মুহাম্মাদিয়্যাহ",
+      "de": "Schamail Muhammadiyah",
+      "es": "Shamail Muhammadiyah",
+      "ru": "Шамаиль аль-Мухаммадия"
+    }
+  },
+  "categories": {
+    "The Nine Books": {
+      "tr": "Kütüb-i Sitte ve Diğerleri",
+      "fr": "Les Neuf Livres",
+      "id": "Kutub Tis'ah",
+      "ur": "نو کتابیں",
+      "bn": "নয়টি কিতাব",
+      "de": "Die Neun Bücher",
+      "es": "Los Nueve Libros",
+      "ru": "Девять книг"
+    },
+    "The Forties Collections": {
+      "tr": "Kırk Hadis Koleksiyonları",
+      "fr": "Les Collections des Quarante",
+      "id": "Koleksi Hadits Arbain",
+      "ur": "اربعین مجموعے",
+      "bn": "চল্লিশ হাদিস সংকলন",
+      "de": "Die Vierzig-Sammlungen",
+      "es": "Las Colecciones de los Cuarenta",
+      "ru": "Коллекции Сорока хадисов"
+    },
+    "Other Books": {
+      "tr": "Diğer Kitaplar",
+      "fr": "Autres Livres",
+      "id": "Kitab Lainnya",
+      "ur": "دیگر کتابیں",
+      "bn": "অন্যান্য কিতাব",
+      "de": "Andere Bücher",
+      "es": "Otros Libros",
+      "ru": "Другие книги"
+    }
+  }
+}
