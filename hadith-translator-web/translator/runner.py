@@ -21,13 +21,14 @@ class TranslationRunner:
     """Runs hadith translation; supports stop event and progress callback."""
 
     def __init__(self, api_key: str = None, stop_event: Optional[threading.Event] = None,
-                 progress_callback: Optional[Callable[[dict], None]] = None):
+                 progress_callback: Optional[Callable[[dict], None]] = None, app=None):
         self.translator = APITranslator(api_key=api_key or os.getenv("OPENAI_API_KEY"))
         self.checkpoints_dir = config.CHECKPOINTS_DIR
         self.output_dir = config.OUTPUT_DIR
         self.books_dir = config.BOOKS_DIR
         self.stop_event = stop_event or threading.Event()
         self.progress_callback = progress_callback
+        self.app = app  # Flask app for DB; if set, use DB instead of JSON
         self.checkpoints_dir.mkdir(parents=True, exist_ok=True)
         self.output_dir.mkdir(parents=True, exist_ok=True)
 
@@ -39,6 +40,22 @@ class TranslationRunner:
                 pass
 
     def load_checkpoint(self, language: str) -> Dict:
+        if self.app:
+            with self.app.app_context():
+                from app import db, TranslationProgress, HadithTranslation
+                prog = TranslationProgress.query.filter_by(language=language).first()
+                processed = set()
+                for row in HadithTranslation.query.filter_by(language_code=language).with_entities(
+                    HadithTranslation.book_id, HadithTranslation.chapter_id, HadithTranslation.hadith_id
+                ).all():
+                    processed.add(f"{row[0]}:{row[1]}:{row[2]}")
+                stats = {"total_translated": prog.total_translated, "api_calls": prog.api_calls or 0, "tokens_used": prog.tokens_used or 0} if prog else {"total_translated": 0, "api_calls": 0, "tokens_used": 0}
+                return {
+                    "language": language,
+                    "processed_books": [],
+                    "processed_hadiths": list(processed),
+                    "stats": stats
+                }
         p = self.checkpoints_dir / f"{language}_api_checkpoint.json"
         if p.exists():
             with open(p, 'r', encoding='utf-8') as f:
@@ -50,7 +67,41 @@ class TranslationRunner:
             "stats": {"total_translated": 0, "api_calls": 0, "tokens_used": 0}
         }
 
-    def save_checkpoint(self, checkpoint: Dict):
+    def save_checkpoint(self, checkpoint: Dict, new_translations: List[Dict] = None):
+        """Save checkpoint; if app/DB, also persist new_translations (list of dicts with book_id, chapter_id, hadith_id, language_code, narrator, text)."""
+        if self.app:
+            with self.app.app_context():
+                from app import db, TranslationProgress, HadithTranslation
+                lang = checkpoint["language"]
+                if new_translations:
+                    for t in new_translations:
+                        if HadithTranslation.query.filter_by(
+                            book_id=t["book_id"],
+                            chapter_id=t["chapter_id"],
+                            hadith_id=t["hadith_id"],
+                            language_code=lang,
+                        ).first():
+                            continue
+                        rec = HadithTranslation(
+                            book_id=t["book_id"],
+                            chapter_id=t["chapter_id"],
+                            hadith_id=t["hadith_id"],
+                            language_code=lang,
+                            narrator=t.get("narrator"),
+                            text=t.get("text", ""),
+                            quality_confidence=t.get("quality_confidence", "HIGH"),
+                            needs_review=t.get("needs_review", False),
+                        )
+                        db.session.add(rec)
+                prog = TranslationProgress.query.filter_by(language=lang).first()
+                if not prog:
+                    prog = TranslationProgress(language=lang)
+                    db.session.add(prog)
+                prog.total_translated = checkpoint["stats"]["total_translated"]
+                prog.api_calls = checkpoint["stats"].get("api_calls", 0)
+                prog.tokens_used = checkpoint["stats"].get("tokens_used", 0)
+                db.session.commit()
+            return
         p = self.checkpoints_dir / f"{checkpoint['language']}_api_checkpoint.json"
         with open(p, 'w', encoding='utf-8') as f:
             json.dump(checkpoint, f, ensure_ascii=False, indent=2)
@@ -105,8 +156,7 @@ class TranslationRunner:
         output_lang_dir.mkdir(parents=True, exist_ok=True)
         output_file = output_lang_dir / "all_translations.json"
         all_translations = {}
-
-        if output_file.exists():
+        if not self.app and output_file.exists():
             try:
                 with open(output_file, 'r', encoding='utf-8') as f:
                     all_translations.update(json.load(f))
@@ -147,12 +197,20 @@ class TranslationRunner:
                                     checkpoint['processed_hadiths'].append(composite)
                             checkpoint['stats']['api_calls'] += (len(texts) + 14) // 15
                 if translated_hadiths:
-                    if book_id not in all_translations:
-                        all_translations[book_id] = {}
-                    all_translations[book_id].update(translated_hadiths)
-                    self.save_checkpoint(checkpoint)
-                    with open(output_file, 'w', encoding='utf-8') as f:
-                        json.dump(all_translations, f, ensure_ascii=False, indent=2)
+                    new_translations = [
+                        {"book_id": book_id, "chapter_id": int(m["chapterId"]), "hadith_id": int(m["id"]),
+                         "narrator": m.get("narrator"), "text": translated_hadiths[f"{m['chapterId']}:{m['id']}"]["text"],
+                         "quality_confidence": "HIGH", "needs_review": False}
+                        for m in meta
+                    ] if self.app else None
+                    if not self.app:
+                        if book_id not in all_translations:
+                            all_translations[book_id] = {}
+                        all_translations[book_id].update(translated_hadiths)
+                    self.save_checkpoint(checkpoint, new_translations=new_translations)
+                    if not self.app:
+                        with open(output_file, 'w', encoding='utf-8') as f:
+                            json.dump(all_translations, f, ensure_ascii=False, indent=2)
                     self._emit_progress({
                         "language": language,
                         "book_id": book_id,
@@ -192,12 +250,20 @@ class TranslationRunner:
                         checkpoint['stats']['total_translated'] += 1
                         checkpoint['processed_hadiths'].append(composite)
                 checkpoint['stats']['api_calls'] += (len(texts) + 14) // 15
-                if book_id not in all_translations:
-                    all_translations[book_id] = {}
-                all_translations[book_id].update(translated_hadiths)
-                self.save_checkpoint(checkpoint)
-                with open(output_file, 'w', encoding='utf-8') as f:
-                    json.dump(all_translations, f, ensure_ascii=False, indent=2)
+                new_translations = [
+                    {"book_id": book_id, "chapter_id": int(m["chapterId"]), "hadith_id": int(m["id"]),
+                     "narrator": m.get("narrator"), "text": translated_hadiths[f"{m['chapterId']}:{m['id']}"]["text"],
+                     "quality_confidence": "HIGH", "needs_review": False}
+                    for m in meta
+                ] if self.app else None
+                if not self.app:
+                    if book_id not in all_translations:
+                        all_translations[book_id] = {}
+                    all_translations[book_id].update(translated_hadiths)
+                self.save_checkpoint(checkpoint, new_translations=new_translations)
+                if not self.app:
+                    with open(output_file, 'w', encoding='utf-8') as f:
+                        json.dump(all_translations, f, ensure_ascii=False, indent=2)
                 self._emit_progress({
                     "language": language,
                     "book_id": book_id,

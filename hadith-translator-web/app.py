@@ -7,6 +7,7 @@ import json
 import threading
 from pathlib import Path
 from flask import Flask, render_template_string, jsonify, request
+from flask_sqlalchemy import SQLAlchemy
 
 # Ensure we can import config and translator
 BASE_DIR = Path(__file__).resolve().parent
@@ -16,6 +17,45 @@ config.ensure_dirs()
 from translator.runner import TranslationRunner
 
 app = Flask(__name__)
+app.config["SQLALCHEMY_DATABASE_URI"] = config.SQLALCHEMY_DATABASE_URI
+app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = config.SQLALCHEMY_TRACK_MODIFICATIONS
+db = SQLAlchemy(app)
+
+
+class TranslationProgress(db.Model):
+    """تقدم الترجمة لكل لغة (بديل لملف الـ checkpoint)."""
+    __tablename__ = "translation_progress"
+    id = db.Column(db.Integer, primary_key=True)
+    language = db.Column(db.String(50), unique=True, nullable=False)
+    total_translated = db.Column(db.Integer, default=0)
+    api_calls = db.Column(db.Integer, default=0)
+    tokens_used = db.Column(db.Integer, default=0)
+    last_book_id = db.Column(db.String(100))
+
+    def __repr__(self):
+        return f"<TranslationProgress {self.language}>"
+
+
+class HadithTranslation(db.Model):
+    """ترجمة حديث واحد بلغة معينة."""
+    __tablename__ = "hadith_translations"
+    id = db.Column(db.Integer, primary_key=True)
+    book_id = db.Column(db.String(100), nullable=False)
+    chapter_id = db.Column(db.Integer, nullable=False)
+    hadith_id = db.Column(db.Integer, nullable=False)
+    language_code = db.Column(db.String(10), nullable=False)
+    narrator = db.Column(db.Text)
+    text = db.Column(db.Text, nullable=False)
+    quality_confidence = db.Column(db.String(50))
+    needs_review = db.Column(db.Boolean, default=False)
+
+    __table_args__ = (
+        db.UniqueConstraint(
+            "book_id", "chapter_id", "hadith_id", "language_code",
+            name="uq_hadith_translation"
+        ),
+    )
+
 
 # Global state for background translation
 _translation_thread = None
@@ -23,6 +63,15 @@ _stop_event = threading.Event()
 _last_progress = {}
 _current_language = None
 _status_lock = threading.Lock()
+_tables_created = False
+
+
+def _ensure_tables():
+    global _tables_created
+    if not _tables_created:
+        with app.app_context():
+            db.create_all()
+        _tables_created = True
 
 
 def _run_translation(language: str):
@@ -33,7 +82,7 @@ def _run_translation(language: str):
     def on_progress(data):
         with _status_lock:
             _last_progress.update(data)
-    runner = TranslationRunner(stop_event=_stop_event, progress_callback=on_progress)
+    runner = TranslationRunner(stop_event=_stop_event, progress_callback=on_progress, app=app)
     result = runner.run(language)
     with _status_lock:
         _last_progress.update(result)
@@ -66,26 +115,33 @@ def get_status():
 
 
 def get_languages_status():
-    """Get per-language stats from checkpoints and output."""
+    """Get per-language stats from DB, with fallback to JSON files."""
     out = {}
     for lang_id, info in config.LANGUAGES.items():
-        cp_file = config.CHECKPOINTS_DIR / f"{lang_id}_api_checkpoint.json"
-        out_file = config.OUTPUT_DIR / lang_id / "all_translations.json"
         total = 0
-        if cp_file.exists():
-            try:
-                with open(cp_file, 'r', encoding='utf-8') as f:
-                    data = json.load(f)
-                    total = len(data.get("processed_hadiths", []))
-            except Exception:
-                pass
-        elif out_file.exists():
-            try:
-                with open(out_file, 'r', encoding='utf-8') as f:
-                    data = json.load(f)
-                    total = sum(len(v) for v in data.values() if isinstance(v, dict))
-            except Exception:
-                pass
+        try:
+            prog = TranslationProgress.query.filter_by(language=lang_id).first()
+            if prog:
+                total = prog.total_translated
+            else:
+                total = HadithTranslation.query.filter_by(language_code=lang_id).count()
+        except Exception:
+            cp_file = config.CHECKPOINTS_DIR / f"{lang_id}_api_checkpoint.json"
+            out_file = config.OUTPUT_DIR / lang_id / "all_translations.json"
+            if cp_file.exists():
+                try:
+                    with open(cp_file, 'r', encoding='utf-8') as f:
+                        data = json.load(f)
+                        total = len(data.get("processed_hadiths", []))
+                except Exception:
+                    pass
+            elif out_file.exists():
+                try:
+                    with open(out_file, 'r', encoding='utf-8') as f:
+                        data = json.load(f)
+                        total = sum(len(v) for v in data.values() if isinstance(v, dict))
+                except Exception:
+                    pass
         out[lang_id] = {"name": info["name"], "native_name": info.get("native_name", ""), "translated": total}
     return out
 
@@ -190,6 +246,7 @@ INDEX_HTML = """
 
 @app.route('/')
 def index():
+    _ensure_tables()
     return render_template_string(INDEX_HTML, languages=config.LANGUAGES)
 
 
@@ -226,5 +283,6 @@ def api_stop():
 
 
 if __name__ == '__main__':
+    _ensure_tables()
     port = int(os.getenv('PORT', 5000))
     app.run(host='0.0.0.0', port=port, debug=os.getenv('FLASK_DEBUG', '0') == '1')

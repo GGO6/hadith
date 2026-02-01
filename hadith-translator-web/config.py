@@ -11,6 +11,13 @@ BOOKS_DIR = BASE_DIR / os.getenv("BOOKS_PATH", "data/books")
 OUTPUT_DIR = BASE_DIR / "output"
 CHECKPOINTS_DIR = BASE_DIR / "checkpoints"
 
+# Database (Railway PostgreSQL). SQLAlchemy expects postgresql:// not postgres://
+DATABASE_URL = os.getenv("DATABASE_URL", "")
+if DATABASE_URL and DATABASE_URL.startswith("postgres://"):
+    DATABASE_URL = DATABASE_URL.replace("postgres://", "postgresql://", 1)
+SQLALCHEMY_DATABASE_URI = DATABASE_URL or "sqlite:///" + str(BASE_DIR / "hadith_translator.db")
+SQLALCHEMY_TRACK_MODIFICATIONS = False
+
 # Ensure dirs exist when app runs
 def ensure_dirs():
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
