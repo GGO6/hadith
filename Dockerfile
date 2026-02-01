@@ -5,8 +5,12 @@ FROM python:3.11-slim
 
 WORKDIR /app
 
-# نسخ تطبيق الويب فقط
+# نسخ تطبيق الويب
 COPY hadith-translator-web/ .
+
+# تضمين كتب الأحاديث (نفس هيكل hadith/books)
+COPY hadith/books/ ./data/books/
+COPY hadith/index.json ./data/index.json
 
 RUN pip install --no-cache-dir -r requirements.txt
 

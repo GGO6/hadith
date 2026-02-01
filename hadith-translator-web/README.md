@@ -45,13 +45,15 @@ python app.py
 
 ## النشر على Railway
 
+**قائمة تحقق مفصّلة:** راجع [RAILWAY_CHECKLIST.md](RAILWAY_CHECKLIST.md) لخطوات واضحة حتى يعمل التطبيق بشكل جيد على Railway.
+
 المستودع يحتوي على مجلدات متعددة (`hadith/`, `hadith-translator-web/`)، لذلك تم إضافة **حل يعمل بدون Root Directory**:
 
 ### الحل: Dockerfile في جذر المستودع (مفعّل)
 
 في **جذر المستودع** (نفس مستوى `hadith-translator-web/`) تم إضافة:
 
-- **`Dockerfile`** — يبني التطبيق من مجلد `hadith-translator-web/` فقط.
+- **`Dockerfile`** — يبني التطبيق من مجلد `hadith-translator-web/` ويضمّن كتب الأحاديث من `hadith/books/` و `hadith/index.json` داخل الصورة.
 - **`railway.toml`** — يوجّه Railway لاستخدام **DOCKERFILE** بدلاً من Railpack.
 
 بهذا يبني Railway باستخدام الـ Dockerfile ويشغّل التطبيق دون الحاجة لأي إعداد **Root Directory** في الواجهة.
@@ -84,9 +86,7 @@ python app.py
    - (اختياري) `DATA_DIR`: المسار لجذر البيانات إذا استخدمت Volume
    - (اختياري) `BOOKS_PATH`: مسار فرعي للكتب داخل DATA_DIR (افتراضي: `data/books`)
 
-3. **الكتب والبيانات**:
-   - **الخيار أ**: إضافة مجلد الكتب إلى المستودع (مجلد `data/books` مع نفس هيكل مشروع hadith: `the_9_books`, `forties`, `other_books`)، وملف `data/index.json`.
-   - **الخيار ب**: استخدام Railway Volume وربطه بـ `DATA_DIR` ونسخ الكتب هناك بعد النشر.
+3. **الكتب والبيانات**: الـ Dockerfile ينسخ تلقائياً `hadith/books/` و `hadith/index.json` إلى الصورة، فلا حاجة لإعداد إضافي للكتب عند النشر من جذر المستودع.
 
 4. **النشر**: Railway يبني المشروع تلقائياً من `requirements.txt` ويشغّل `Procfile`.
 
