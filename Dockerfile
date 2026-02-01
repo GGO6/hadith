@@ -13,4 +13,5 @@ RUN pip install --no-cache-dir -r requirements.txt
 ENV PORT=5000
 EXPOSE 5000
 
-CMD gunicorn -w 1 -b 0.0.0.0:${PORT} --timeout 300 app:app
+# استخدام shell صريح حتى يُوسَّع $PORT عند التشغيل (Railway يضبط PORT)
+CMD ["sh", "-c", "gunicorn -w 1 -b 0.0.0.0:${PORT:-5000} --timeout 300 app:app"]
