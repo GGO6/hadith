@@ -6,7 +6,7 @@ import os
 import json
 import threading
 from pathlib import Path
-from flask import Flask, render_template_string, jsonify, request
+from flask import Flask, render_template_string, jsonify, request, Response
 from flask_sqlalchemy import SQLAlchemy
 
 # Ensure we can import config and translator
@@ -146,6 +146,40 @@ def get_languages_status():
     return out
 
 
+def get_export_data(language: str):
+    """تجمع الترجمات للغة من DB أو من ملف JSON بنفس صيغة all_translations.json."""
+    if language not in config.LANGUAGES:
+        return None
+    out = {}
+    try:
+        rows = HadithTranslation.query.filter_by(language_code=language).order_by(
+            HadithTranslation.book_id, HadithTranslation.chapter_id, HadithTranslation.hadith_id
+        ).all()
+        for r in rows:
+            if r.book_id not in out:
+                out[r.book_id] = {}
+            key = f"{r.chapter_id}:{r.hadith_id}"
+            out[r.book_id][key] = {
+                "narrator": r.narrator or "",
+                "text": r.text,
+                "hadith_id": r.hadith_id,
+                "chapter_id": r.chapter_id,
+                "quality": {"confidence": r.quality_confidence or "HIGH", "needs_review": r.needs_review or False},
+            }
+        if out:
+            return out
+    except Exception:
+        pass
+    out_file = config.OUTPUT_DIR / language / "all_translations.json"
+    if out_file.exists():
+        try:
+            with open(out_file, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception:
+            pass
+    return out if out else None
+
+
 INDEX_HTML = """
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
@@ -172,6 +206,8 @@ INDEX_HTML = """
         .lang-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 10px; margin-top: 12px; }
         .lang-item { background: #0f3460; padding: 10px; border-radius: 8px; }
         .lang-item .num { color: #4ecca3; font-weight: bold; }
+        .lang-item a.dl { display: block; margin-top: 6px; font-size: 0.9em; color: #4ecca3; }
+        .lang-item a.dl:hover { text-decoration: underline; }
     </style>
 </head>
 <body>
@@ -221,9 +257,10 @@ INDEX_HTML = """
         function fetchLangStatus() {
             fetch(API + '/api/languages').then(r => r.json()).then(data => {
                 const grid = document.getElementById('langStatus');
-                grid.innerHTML = Object.entries(data).map(([code, info]) =>
-                    `<div class="lang-item">${info.native_name || info.name}<br><span class="num">${info.translated.toLocaleString()}</span> حديث</div>`
-                ).join('');
+                grid.innerHTML = Object.entries(data).map(([code, info]) => {
+                    const dl = info.translated > 0 ? `<a class="dl" href="${API}/api/export/${code}" download>⬇ تحميل الترجمة</a>` : '';
+                    return `<div class="lang-item">${info.native_name || info.name}<br><span class="num">${info.translated.toLocaleString()}</span> حديث${dl}</div>`;
+                }).join('');
             }).catch(() => {});
         }
         document.getElementById('btnStart').onclick = () => {
@@ -280,6 +317,24 @@ def api_start():
 def api_stop():
     _stop_event.set()
     return jsonify({"ok": True})
+
+
+@app.route('/api/export/<language>')
+def api_export(language):
+    """تحميل ترجمات لغة واحدة كملف JSON (نفس صيغة all_translations.json)."""
+    if language not in config.LANGUAGES:
+        return jsonify({"error": "Unknown language"}), 404
+    data = get_export_data(language)
+    if data is None or not data:
+        return jsonify({"error": "No translations found for this language"}), 404
+    code = config.LANGUAGES[language].get("code", language)
+    filename = f"hadith_translations_{code}.json"
+    body = json.dumps(data, ensure_ascii=False, indent=2)
+    return Response(
+        body,
+        mimetype="application/json",
+        headers={"Content-Disposition": f"attachment; filename={filename}"},
+    )
 
 
 if __name__ == '__main__':

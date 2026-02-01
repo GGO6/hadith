@@ -119,6 +119,7 @@ hadith-translator-web/
 | `GET /api/languages` | عدد الأحاديث المترجمة لكل لغة |
 | `POST /api/start` | بدء الترجمة (body: `{"language": "turkish"}`) |
 | `POST /api/stop` | إيقاف الترجمة |
+| `GET /api/export/<language>` | تحميل ترجمات لغة واحدة كملف JSON (مثلاً `/api/export/russian` → `hadith_translations_ru.json`) |
 
 ## التكلفة على Railway
 
