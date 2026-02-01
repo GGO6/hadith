@@ -1,9 +1,7 @@
 # إعداد النشر على Railway من جذر المستودع
 # يوجّه Railway لاستخدام Dockerfile لبناء hadith-translator-web
+# لا نضبط startCommand هنا حتى يُستخدم CMD من Dockerfile (يوسّع $PORT بشكل صحيح)
 
 [build]
 builder = "DOCKERFILE"
 dockerfilePath = "Dockerfile"
-
-[deploy]
-startCommand = "gunicorn -w 1 -b 0.0.0.0:$PORT --timeout 300 app:app"
