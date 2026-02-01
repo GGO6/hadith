@@ -44,9 +44,31 @@ python app.py
 
 ## النشر على Railway
 
-1. **إنشاء مشروع جديد** على [Railway](https://railway.app) وربطه بهذا المستودع.
+المستودع يحتوي على مجلدات متعددة (`hadith/`, `hadith-translator-web/`)، لذلك تم إضافة **حل يعمل بدون Root Directory**:
 
-2. **إضافة المتغيرات (Variables)**:
+### الحل: Dockerfile في جذر المستودع (مفعّل)
+
+في **جذر المستودع** (نفس مستوى `hadith-translator-web/`) تم إضافة:
+
+- **`Dockerfile`** — يبني التطبيق من مجلد `hadith-translator-web/` فقط.
+- **`railway.toml`** — يوجّه Railway لاستخدام **DOCKERFILE** بدلاً من Railpack.
+
+بهذا يبني Railway باستخدام الـ Dockerfile ويشغّل التطبيق دون الحاجة لأي إعداد **Root Directory** في الواجهة.
+
+**إذا استمرّ البناء بـ Railpack:** من إعدادات الخدمة (Settings) اختر **Builder** أو **Build** وغيِّر البناء إلى **Dockerfile**، أو عيّن مسار ملف الإعداد (Config File) إلى `railway.toml` في الجذر.
+
+### إذا وجدت "Root Directory" لاحقاً (اختياري)
+
+في بعض الواجهات تكون تحت: **Settings** → **Source** (أو **Build**) → **Root Directory**.  
+إذا ظهرت، يمكنك تعيينها إلى `hadith-translator-web` والاعتماد على Railpack بدلاً من Dockerfile.
+
+### خطوات النشر
+
+1. **إنشاء مشروع جديد** على [Railway](https://railway.app) وربطه بالمستودع.
+
+2. **تعيين Root Directory** إلى `hadith-translator-web` (كما في الأعلى).
+
+3. **إضافة المتغيرات (Variables)**:
    - `OPENAI_API_KEY`: مفتاح OpenAI API
    - (اختياري) `DATA_DIR`: المسار لجذر البيانات إذا استخدمت Volume
    - (اختياري) `BOOKS_PATH`: مسار فرعي للكتب داخل DATA_DIR (افتراضي: `data/books`)
