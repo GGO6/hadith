@@ -1,0 +1,301 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 57,
+    "arabic": {
+      "title": "سنن ابن ماجه",
+      "author": "الإمام محمد بن يزيد ابن ماجه"
+    },
+    "english": {
+      "title": "Sunan Ibn Majah",
+      "author": "Imam Muhammad ibn Yazid Ibn Majah"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "It was narrated from 'Aisha that :",
+      "text": "'Aişe'den rivayet edilmiştir ki: Allah'ın Resulü (ﷺ) bir Yahudiden yiyecek satın aldı ve ödemeyi daha sonra yapacağını söyledi; bunun için zırhını rehin verdi."
+    },
+    {
+      "id": 2,
+      "narrator": "It was narrated that Anas said:",
+      "text": "Enes'ten rivayet edilmiştir ki: “Allah'ın Resulü (ﷺ) Medine'deki bir Yahudiye zırhını rehin verdi ve bunun karşılığında ailesi için arpa aldı.”"
+    },
+    {
+      "id": 3,
+      "narrator": "It was narrated from Asma' bin Yazid that:",
+      "text": "Esma' bint Yezid'den rivayet edilmiştir ki: Peygamber (ﷺ) yiyecek karşılığında zırhı bir Yahudiye rehin verirken vefat etti."
+    },
+    {
+      "id": 4,
+      "narrator": "It was narrated from Ibn 'Abbas that:",
+      "text": "İbn Abbas'tan rivayet edilmiştir ki: Allah'ın Resulü (ﷺ) zırhı bir Yahudiye otuz Sa' arpa karşılığında rehin verirken vefat etti.”"
+    },
+    {
+      "id": 5,
+      "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir ki Allah'ın Resulü (ﷺ) şöyle buyurdu: “Rehin alınan bir binek üzerinde binebilir ve onun sütünü içebilirsiniz, ancak onu binen veya sütünü sağan kişi, onun bakımını ödemelidir.”"
+    },
+    {
+      "id": 6,
+      "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir ki Allah'ın Resulü (ﷺ) şöyle buyurdu: “Rehin alınan eşyaları zayi etmeyin.”"
+    },
+    {
+      "id": 7,
+      "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir ki Allah'ın Resulü (ﷺ) şöyle buyurdu: (Allah (SWT) şöyle buyuruyor:) “Kıyamet Günü üç kişiyle düşmanım, ve ben birinin düşmanıysam onu yeneceğim: Adımın anıldığı bir adam, sonra hain çıkan; özgür bir adamı satan ve bedelini yiyen bir adam; ve bir işçi kiralayan, ondan faydalanan, sonra da ücretini vermeyen bir adam.”"
+    },
+    {
+      "id": 8,
+      "narrator": "It was narrated from 'Abdullah bin 'Umar that the Messenger of Allah (ﷺ) said:",
+      "text": "Abdullah bin Ömer'den rivayet edilmiştir ki: Allah'ın Resulü (ﷺ) şöyle buyurdu: “İşçiye ücretini teri kurumadan verin.”"
+    },
+    {
+      "id": 9,
+      "narrator": "It was narrated that 'Ali bin Rabah said:",
+      "text": "Ali bin Rabah'tan rivayet edilmiştir ki: “Utbe bin Neddar'ın şöyle dediğini duydum: 'Biz Allah'ın Resulü (ﷺ) ileydik ve o Ta-Sin okudu. Musa'nın hikayesine geldiğinde, 'Musa (A.S) iffetini ve karnındaki yiyeceği karşılığında sekiz yıl veya on yıl çalıştı' dedi.”"
+    },
+    {
+      "id": 10,
+      "narrator": "Salim bin Hayyan said:",
+      "text": "Salim bin Hayyan dedi ki: Ebu Hureyre'nin şöyle dediğini duydum: “Ben yetim olarak büyüdüm, fakir bir adam olarak hicret ettim ve Ghazwan'ın kızı tarafından yiyecek ve deveye binme karşılığında işe alındım. Onlar kamp kurduklarında odun toplardım ve binerken develerini şarkı söyleyerek yönlendirirdim. Dinini galip kılan ve Ebu Hureyre'yi bir imam yapan Allah'a (SWT) hamd olsun.”"
+    },
+    {
+      "id": 11,
+      "narrator": "It was narrated that Ibn 'Abbas said:",
+      "text": "İbn Abbas'tan rivayet edilmiştir ki: “Peygamber (ﷺ) yiyeceğe ihtiyaç duyuyordu ve bu haber Ali'ye ulaştı. O, Allah'ın Resulü'ne bir şeyler verebilmek için iş aramak üzere dışarı çıktı. Bir Yahudiye ait bir bahçeye gitti ve ona on yedi kova su çekti, her kova için bir hurma aldı. Yahudi ona on yedi 'Ajwah hurması (yüksek kaliteli hurma) alma seçeneği sundu ve onları Allah'ın Resulü'ne (ﷺ) getirdi.”"
+    },
+    {
+      "id": 12,
+      "narrator": "It was narrated that 'Ali said:",
+      "text": "Ali'den rivayet edilmiştir ki: “Ben bir hurma için bir kova su çekerken, iyi kalitede, kurutulmuş hurma almamı şart koşmuştum.”"
+    },
+    {
+      "id": 13,
+      "narrator": "It was narrated that Abu Hurairah said:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir ki: “Ensardan bir adam geldi ve 'Ey Allah'ın Resulü (ﷺ), neden renginin değiştiğini görüyorum?' dedi. O da: 'Açlık.' dedi. Bunun üzerine Ensari kendi evine gitti, ama evinde hiçbir şey bulamadı, bu yüzden dışarı çıkıp bakmaya gitti ve bir Yahudinin hurma ağaçlarını suladığını buldu. Ensari, siyah (çürümüş), sert ve kurumuş veya kalitesiz hurma almayacağına dair şart koştu ve sadece iyi kalitede hurma alacağını söyledi. Yaklaşık iki Sa' (hurma) kazandı ve onu Peygamber'e (ﷺ) getirdi.”"
+    },
+    {
+      "id": 14,
+      "narrator": "It was narrated that Rafi 'bin Khadji said:",
+      "text": "Rafi' bin Khadij'den rivayet edilmiştir ki: “Allah'ın Resulü (ﷺ) Muhaqalah ve Muzabanah'ı yasakladı ve şöyle dedi: 'Sadece üç kişi tarım yapabilir: Toprağı olan bir adam, onu eken; kendisine toprak verilen ve kendisine verilen toprakta ekim yapan bir adam; ve altın veya gümüş karşılığında toprak kiralayan bir adam.'”"
+    },
+    {
+      "id": 15,
+      "narrator": "It was narrated that 'Amr bin Dinar said:",
+      "text": "Amr bin Dinar'dan rivayet edilmiştir ki: “İbn Ömer'in şöyle dediğini duydum: 'Biz, mahsulün bir kısmı karşılığında tarım için toprak kiralardık ve bunda bir sakınca görmüyorduk, ta ki Rafi' bin Khadij'in 'Allah'ın Resulü (ﷺ) bunu yasakladı' dediğini duyana kadar. Sonra onun söyledikleri nedeniyle durduk.'”"
+    },
+    {
+      "id": 16,
+      "narrator": "'Ata' said:",
+      "text": "'Ata' dedi ki: “Jabir bin 'Abdullah'ın şöyle söylediğini duydum: Aramızda bazı adamlar, mahsulün üçte biri veya dörtte biri karşılığında kiraya verdikleri ekilmeyen arazilere sahipti. Peygamber (ﷺ) şöyle dedi: 'Kimde fazladan arazi varsa, onu kendisi ektin ya da kardeşine (ücretsiz olarak) ekmesi için versin, eğer bunu yapmak istemiyorsa, arazisini saklasın.'”"
+    },
+    {
+      "id": 17,
+      "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:",
+      "text": "Abu Hurairah'tan rivayet edilmiştir ki, Allah'ın Messenger'ı (ﷺ) şöyle dedi: “Kimde arazi varsa, onu kendisi ektin ya da kardeşine (ücretsiz olarak) ekmesi için versin, eğer bunu yapmak istemiyorsa, arazisini saklasın.”"
+    },
+    {
+      "id": 18,
+      "narrator": "It was narrated from Ibn 'Umar that:",
+      "text": "İbn 'Umar'dan rivayet edilmiştir ki: Kendisine ait bazı arazileri ekim için kiraya veriyordu. Sonra birisi yanına geldi ve Rafi' bin Khadij'in Allah'ın Messenger'ının (ﷺ) araziyi ekim için kiraya vermeyi yasakladığını söylediğini bildirdi. İbn 'Umar gitti ve ben de onunla birlikte gittim, ta ki Balat'ta onu bulana kadar, bu konuda ona sordu ve o da ona Allah'ın Messenger'ının (ﷺ) araziyi ekim için kiraya vermeyi yasakladığını söyledi. Böylece 'Abdullah arazi kiralamayı bıraktı."
+    },
+    {
+      "id": 19,
+      "narrator": "It was narrated that Jabir bin 'Abdullah said:",
+      "text": "Jabir bin 'Abdullah'dan rivayet edilmiştir ki: “Allah'ın Messenger'ı (ﷺ) bize hitap etti ve şöyle dedi: 'Kimde arazi varsa, onu kendisi ektin ya da başkasına ekmesi için versin, kiraya vermesin.'”"
+    },
+    {
+      "id": 20,
+      "narrator": "It was narrated from Abu Sufyan, the freed slave of Ibn Abu Ahmad, that he told him that he heard Abu Sa'eed Al-Khudri say:",
+      "text": "Abu Sufyan, İbn Abu Ahmad'ın azatlı kölesinden rivayet edilmiştir ki, ona şunu söyledi: “Abu Sa'eed Al-Khudri'nin şöyle dediğini duydum: 'Allah'ın Messenger'ı (ﷺ) Muhaqlah'ı yasakladı.'” (Sahih) Muhaqlah, arazinin kiraya verilmesi anlamına gelir."
+    },
+    {
+      "id": 21,
+      "narrator": "It was narrated from Ibn 'Abbas that he heard that people were leasing out land more. He said:",
+      "text": "İbn 'Abbas'tan rivayet edilmiştir ki, insanların daha fazla arazi kiraladıklarını duydu. O şöyle dedi: “Subhan-Allah, Allah'ın Messenger'ı (ﷺ) şöyle dedi: 'Neden biriniz kardeşine arazi vermiyor?' Ama kiralamayı yasaklamadı.”"
+    },
+    {
+      "id": 22,
+      "narrator": "It was narrated from Ibn 'Abbas that the Messenger of Allah (ﷺ) said:",
+      "text": "İbn 'Abbas'tan rivayet edilmiştir ki, Allah'ın Messenger'ı (ﷺ) şöyle dedi: “Eğer biriniz kardeşine arazisini kiraya verirse, bu onun için, ona belirli bir miktar kira almak yerine daha hayırlıdır.”"
+    },
+    {
+      "id": 23,
+      "narrator": "It was narrated that Hazalah bin Qais said:",
+      "text": "Hazalah bin Qais dedi ki: “Rafi' bin Khadij'e sordum ve o şöyle dedi: 'Biz, bu parça arazinin ürününü sen alacaksın, ben de bu (diğer) parça arazinin ürününü alacağım şeklinde arazi kiralardık, ama mahsul paylaşımı esasına dayalı kiralamayı yasakladılar, fakat gümüş karşılığında arazi kiralamayı yasaklamadılar.'”"
+    },
+    {
+      "id": 24,
+      "narrator": "Rafi'bin Khadi'j narrated that his paternal uncle Zuhair said:",
+      "text": "Rafi' bin Khadij, amcası Zuhair'in şöyle dediğini rivayet etti: “Allah'ın Messenger'ı (ﷺ) bize, bizim için uygun olan bir şeyi yapmamızı yasakladı.” Ben de: “Allah'ın Messenger'ının (ﷺ) söyledikleri doğrudur.” dedim. O, Allah'ın Messenger'ının (ﷺ) şöyle dediğini aktardı: “Tarlalarınızla ne yapıyorsunuz?” Biz de: “Onları mahsulün üçte biri veya dörtte biri karşılığında kiraya veriyoruz, ve belirli bir miktar buğday ve arpa alıyoruz.” dedi. O da: “Bunu yapmayın; onları ekin ya da başkalarının ekmesine izin verin.” dedi."
+    },
+    {
+      "id": 25,
+      "narrator": "It was narrated  from Usaid bin Zuhair, the paternal nephew of Rafi' bin Khdij, that Rafi' bin Khadij said:",
+      "text": "Usaid bin Zuhair'den rivayet edilmiştir ki, Rafi' bin Khadij şöyle dedi: “Eğer birimiz arazisine ihtiyaç duymuyorsa, onu (başkasına ekmesi için) üçte bir veya yarı karşılığında verir ve üç akarsuyun kenarındaki ürünleri, biçildikten sonra başaklarda kalan tahılları ve bir akarsuyun suladığı ürünleri almayı şart koşardı. O zaman hayat zordu ve o, toprağı demirle ve Allah'ın (SWT) dilediği şeyle işlerdi ve ondan faydalanırdı. Sonra Rafi' bin Khadij bize geldi ve şöyle dedi: 'Allah'ın Messenger'ı (ﷺ) size, size faydalı gibi görünen bir şeyi yapmayı yasakladı, ama Allah'a itaat ve O'nun Messenger'ına itaat, sizin için daha faydalıdır. Allah'ın Messenger'ı (ﷺ) sizin için Haq'ı yasakladı ve şöyle dedi: 'Kimde arazisine ihtiyacı yoksa, onu kardeşine (ekmesi için) versin ya da onu (ekilmeden) bıraksın.'”"
+    },
+    {
+      "id": 26,
+      "narrator": "Zaid bin Thabit said:",
+      "text": "Zaid bin Thabit dedi ki: “Allah (SWT) Rafi' bin Khadij'i affetsin. Vallahi (SWT)! Ben, onun kadar hadis bilgisine sahibim. İki adam kavga ederek Peygamber'e (ﷺ) geldiler ve o da: 'Eğer durumunuz böyleyse, tarlaları kiralamayın,' dedi ve Rafi' bin Khadij'in duyduğu şey 'Tarlaları kiralamayın' idi.”"
+    },
+    {
+      "id": 27,
+      "narrator": "It was narrated that 'Amr bin Dinar said:",
+      "text": "'Amr bin Dinar'dan rivayet edilmiştir ki: Ben Tawus'a dedim: “Ey Abu 'Abdur-Rahman, neden bu Mukhabarah'dan vazgeçmiyorsun, çünkü onlar Allah'ın Messenger'ının (ﷺ) bunu yasakladığını iddia ediyorlar.” O da: “Ey 'Amr, ben onlara arazilerini alarak ve karşılığında onlara bir şey vererek yardım ediyorum ve Mu'adh bin Cebel burada insanlara bunu yapmalarına izin verdi. Onların en bilgini - yani İbn 'Abbas - bana Allah'ın Messenger'ının (ﷺ) bunu yasaklamadığını, aksine şöyle dediğini söyledi: 'Birinizin kardeşine (arazi) vermesi, ona belirli bir miktar kira alması yerine daha hayırlıdır.'”"
+    },
+    {
+      "id": 28,
+      "narrator": "It was narrated from Tawus that :",
+      "text": "Tawus'tan rivayet edilmiştir ki: Mu'adh bin Cebel, Allah'ın Messenger'ı (ﷺ) döneminde, Abu Bakr, 'Umar ve 'Uthman zamanında, bir üçüncü veya bir dördüncü (mahsul) karşılığında bazı arazileri kiraya vermiştir ve bu gününüze kadar bunu yapmaya devam etmiştir."
+    },
+    {
+      "id": 29,
+      "narrator": "It was narrated from Tawus that Ibn`Abbas told that the Messenger of Allah (ﷺ) merely said:",
+      "text": "Tawus'tan rivayet edilmiştir ki, İbn 'Abbas, Allah'ın Messenger'ının (ﷺ) sadece şöyle dediğini aktardı: “Birinizin kardeşine (arazi) vermesi, ona belirli bir miktar kira alması yerine daha hayırlıdır.”"
+    },
+    {
+      "id": 30,
+      "narrator": "It was narrated that Rafi` bin khadij said:",
+      "text": "Rafi' bin Khadij'den rivayet edilmiştir ki: Biz, Allah'ın Messenger'ı (ﷺ) döneminde araziyi yiyecek karşılığında veriyorduk ve bazı amcalarım onlara geldi ve şöyle dedi: “Allah'ın Messenger'ı (ﷺ) şöyle dedi: 'Kimde arazi varsa, onu belirli bir miktar yiyecek karşılığında kiraya vermesin.'”"
+    },
+    {
+      "id": 31,
+      "narrator": "It was narrated that Rafi` bin Khadij said:",
+      "text": "Rafi` bin Khadij'den rivayet edilmiştir: “Allah'ın Elçisi (ﷺ) şöyle buyurdu: 'İnsanların arazisini izin almadan eken kimse, hiçbir ürün hakkına sahip değildir, ancak masrafları karşılanmalıdır.' ”"
+    },
+    {
+      "id": 32,
+      "narrator": "It was narrated from Ibn `Umar that :",
+      "text": "İbn `Umar'dan rivayet edilmiştir ki: Allah'ın Elçisi (ﷺ) Khaibar halkıyla, meyvelerin veya mahsullerin yarısı karşılığında bir sözleşme yaptı."
+    },
+    {
+      "id": 33,
+      "narrator": "It was narrated that Anas bin Malik said:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir: “Allah'ın Elçisi (ﷺ) Khaibar'ı halkına, hurma ağaçları ve toprakları karşılığında verdi.”"
+    },
+    {
+      "id": 34,
+      "narrator": "It was narrated that Anas bin Malik said:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir: “Allah'ın Elçisi (ﷺ) Khaibar'ı fethettiğinde, onu (halkına) yarısı karşılığında verdi.”"
+    },
+    {
+      "id": 35,
+      "narrator": "It was narrated from Simak that the heard Musa bin Talhah bin `Ubaidullah narrating that his father said:",
+      "text": "Simak'tan rivayet edilmiştir ki, Musa bin Talhah bin `Ubaidullah'ın babasından duyduğunu aktardı: “Ben, Allah'ın Elçisi (ﷺ) ile bazı hurma ağaçlarının yanından geçiyordum ve o, bazı insanların ağaçları polenlediğini gördü. 'Bu insanlar ne yapıyor?' dedi. Onlar da: 'Erkek kısmından bir şey alıp dişi kısmına koyuyorlar.' dediler. O da: 'Bunun bir fayda sağlayacağını düşünmüyorum.' dedi. Bunun haberleri onlara ulaştı, böylece bunu yapmayı bıraktılar ve mahsulleri azaldı. Bunun haberleri Peygamber'e (ﷺ) ulaştı ve o da: 'Bu sadece benim düşüncemdi. Eğer fayda sağlayacaksa, o zaman yapın. Ben de sizin gibi bir insanım ve düşündüğüm şey doğru ya da yanlış olabilir. Ama size 'Allah (SWT) şöyle buyuruyor' dediğimde, Allah (SWT) hakkında asla yalan söylemem.' ”"
+    },
+    {
+      "id": 36,
+      "narrator": "It was narrated from 'Aisha that the Prophet (ﷺ) heard some sounds and said:",
+      "text": "'Aişe'den rivayet edilmiştir ki, Peygamber (ﷺ) bazı sesler duydu ve: “Bu gürültü nedir?” dedi. Onlar da: “Polenlenen hurma ağaçlarıdır.” dediler. O da: “Eğer bunu yapmasalardı daha iyi olurdu.” dedi. Böylece o yıl onları polenlemediler ve hurmalar düzgün olgunlaşmadı. Bunu Peygamber'e (ﷺ) ilettiler ve o da: “Eğer bu sizin dininizle ilgili bir mesele ise, o zaman bana danışın.” dedi."
+    },
+    {
+      "id": 37,
+      "narrator": "It was narrated from Ibn 'Abbas that the Messenger of Allah (ﷺ) said:",
+      "text": "İbn 'Abbas'tan rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurdu: “Müslümanlar üç şeyde ortaktır: su, otlak ve ateş; bunların fiyatı haramdır.”"
+    },
+    {
+      "id": 38,
+      "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:",
+      "text": "Abu Hurairah'tan rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurdu: “Üç şey kimseye yasaklanamaz: su, otlak ve ateş.”"
+    },
+    {
+      "id": 39,
+      "narrator": "It was narrated that 'Aishah said:",
+      "text": "'Aişe'den rivayet edilmiştir ki: “Ey Allah'ın Elçisi (ﷺ), hangi şeyler tutulamaz?” dedi. O da: “Su, tuz ve ateş.” dedi. O da: “Ben dedim ki: 'Ey Allah'ın Elçisi (ﷺ), suyun ne olduğunu biliyoruz, peki ya tuz ve ateş?' O da: “Ey Humaira', ateşi (başkasına) veren kimse, o ateşte pişirilen tüm yiyecekleri sadaka vermiş gibi olur. Ve tuz veren kimse, tuzun güzelleştirdiği her şeyi sadaka vermiş gibi olur. Ve bir Müslüman'a su içiren kimse, su mevcut olduğunda, sanki bir köleyi azat etmiş gibidir; ve su mevcut olmadığında bir Müslüman'a su içiren kimse, sanki onu yeniden hayata döndürmüş gibidir.” dedi."
+    },
+    {
+      "id": 40,
+      "narrator": "It was narrated from Abyad bin Hammal:",
+      "text": "Abyad bin Hammal'dan rivayet edilmiştir: O, kendisine Ma'rib Barajı denilen bir tuz ocağının verilmesini istedi ve verildi. Sonra Aqra bin Habis At-Tamimi, Allah'ın Elçisi (ﷺ) 'ne gelerek: “Ey Allah'ın Elçisi (ﷺ), ben Cahiliye döneminde tuz ocağına gelirdim ve su olmayan bir arazideydi, oraya gelen herkes ondan alıyordu. O, akan su gibi boldu.” dedi. Bunun üzerine Allah'ın Elçisi (ﷺ) Abyad bin Hammal'dan tuz ocağının payını geri vermesini istedi. O da: “Ben bunu, senin tarafında bir sadaka olarak vermek şartıyla veriyorum.” dedi. Allah'ın Elçisi (ﷺ) de: “Bu senin tarafında bir sadakadır ve akan su gibidir, kim gelirse ondan alabilir.” dedi. (Rivayet edenlerden biri) Faraj dedi ki: “Bugün de öyle, kim gelirse ondan alır.” Dedi ki: “Peygamber (ﷺ) ona toprak ve hurma ağaçları verdi, tuz ocağını ondan geri aldığında Jurf Murad'da.”"
+    },
+    {
+      "id": 41,
+      "narrator": "It was narrated that Abu Minhal said:",
+      "text": "Abu Minhal'den rivayet edilmiştir: “Ben, İyas bin 'Abd Muzani'nin su satan insanları görünce şöyle dediğini duydum: 'Su satmayın, çünkü ben Allah'ın Elçisi (ﷺ) 'nin su satışını yasakladığını duydum.' ”"
+    },
+    {
+      "id": 42,
+      "narrator": "It was narrated that Jabir said:",
+      "text": "Jabir'den rivayet edilmiştir: “Allah'ın Elçisi (ﷺ) fazlalık suyun satışını yasakladı.”"
+    },
+    {
+      "id": 43,
+      "narrator": "It was narrated from Abu Hurairah that the Prophet (ﷺ) said:",
+      "text": "Abu Hurairah'tan rivayet edilmiştir ki, Peygamber (ﷺ) şöyle buyurdu: “Sizden hiç kimse, ortak otlak alanından fazlalık suyu tutmamalıdır.”"
+    },
+    {
+      "id": 44,
+      "narrator": "It was narrated from Aishah that the Messenger of Allah (ﷺ) said:",
+      "text": "'Aişe'den rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurdu: “Fazlalık su tutulmamalıdır, ayrıca bir kuyudan gelen fazlalık su da tutulmamalıdır.”"
+    },
+    {
+      "id": 45,
+      "narrator": "It was narrated from 'Abdullah bin Zubair that :",
+      "text": "'Abdullah bin Zubair'den rivayet edilmiştir ki: Ansar'dan bir adam, Zubair ile Allah'ın Elçisi (ﷺ) 'nin huzurunda, hurma ağaçlarını suladığı Harrah'nın dereleri hakkında bir tartışma yaşadı. Ansari: “Suyun akmasına izin ver.” dedi, ama o reddetti. Bunun üzerine tartışmalarını Allah'ın Elçisi (ﷺ) 'ne ilettiler. Allah'ın Elçisi (ﷺ) şöyle dedi: “Zubair, (ağaçlarını) sulayın, sonra suyun komşunuza akmasına izin ver.” Ansari sinirlendi ve: “Ey Allah'ın Elçisi (ﷺ), bu senin kuzenin (babanın kız kardeşinin oğlu) olduğu için mi?” dedi. Allah'ın Elçisi (ﷺ) 'nin yüz ifadesi değişti, sonra şöyle dedi: “Zubair, (ağaçlarını) sulayın, sonra suyu duvarlara ulaşana kadar tutun.” Zubair: “Bu Ayetin bununla ilgili olarak indirildiğini düşünüyorum: 'Hayır, Rabbine yemin ederim ki, seni (Ey Muhammed) aralarındaki tüm anlaşmazlıklarda yargıç kılacaklar ve içlerinde senin kararlarına karşı bir direnç bulamayacaklar ve (kararlarını) tam bir teslimiyetle kabul edecekler.'” (Nisa 4.65)"
+    },
+    {
+      "id": 46,
+      "narrator": "It was narrated that Tha'labah bin Abu Malik said:",
+      "text": "Tha'labah bin Abu Malik'ten rivayet edildiğine göre: “Allah'ın Resulü (ﷺ), Mahzur deresi hakkında, yüksek arazinin alçak araziden önce geldiğine hükmetti, bu nedenle yüksek arazi sulanmalı ve su bileklere kadar ulaşmalı, sonra alçak olanlara bırakılmalıdır.”"
+    },
+    {
+      "id": 47,
+      "narrator": "It was narrated from 'Amr bin Shu`aib, from his father, from his grandfather, that :",
+      "text": "'Amr bin Shu`aib'den, babasından, dedesinden rivayet edildiğine göre: “Allah'ın Resulü (ﷺ), Mahzur deresi hakkında, suyun bileklere kadar ulaşana kadar tutulması, sonra serbest bırakılması gerektiğine hükmetti.”"
+    },
+    {
+      "id": 48,
+      "narrator": "It was narrated from 'Ubadah bin Samit that :",
+      "text": "'Ubadah bin Samit'ten rivayet edildiğine göre: “Allah'ın Resulü (ﷺ), derelerden hurma ağaçlarının sulanması hakkında, yüksek arazinin alçak araziden önce sulanması gerektiğine ve suyun bileklere kadar ulaşmasına izin verilmesi gerektiğine, sonra en yakın alçak araziye akıtılması gerektiğine, bu şekilde tüm tarlalar sulanana veya su bitene kadar devam edilmesi gerektiğine hükmetti.”"
+    },
+    {
+      "id": 49,
+      "narrator": "It was narrated from Kathir bin 'Abdullah bin 'Amr bin 'Awf Al-Muzani, from his father, that his grandfather said:",
+      "text": "Kathir bin 'Abdullah bin 'Amr bin 'Awf Al-Muzani'den, babasından, dedesinden rivayet edildiğine göre: “Allah'ın Resulü (ﷺ) şöyle dedi: 'Hayvanları (su içmeye) getirdiğiniz gün atlarla başlayın.'”"
+    },
+    {
+      "id": 50,
+      "narrator": "It was narrated from Ibn `Abbas that the Messenger of Allah (ﷺ) said:",
+      "text": "İbn 'Abbas'tan rivayet edildiğine göre, Allah'ın Resulü (ﷺ) şöyle dedi: “Cahiliye dönemine göre tahsis edilen her bölme olduğu gibi kalır, İslam'a göre tahsis edilen her bölme ise İslam kurallarına göre geçerlidir.”"
+    },
+    {
+      "id": 51,
+      "narrator": "It was narrated from 'Abdullah bin Mughaffal that the Prophet (ﷺ) said:",
+      "text": "'Abdullah bin Mughaffal'den rivayet edildiğine göre, Peygamber (ﷺ) şöyle dedi: “Kim bir kuyu kazarsa, çevresinde kırk dirsek uzunluğunda bir alan, sürülerinin dinlenme yeri olarak kendisine aittir.”"
+    },
+    {
+      "id": 52,
+      "narrator": "It was narrated from Abu Sa'eed Al-Khudri that the Messenger of Allah (ﷺ) said:",
+      "text": "Abu Sa'eed Al-Khudri'den rivayet edildiğine göre, Allah'ın Resulü (ﷺ) şöyle dedi: “Bir kuyunun etrafındaki arazi (kuyunun bir parçası olarak kabul edilen) ip uzunluğunda (her yönde)dır.”"
+    },
+    {
+      "id": 53,
+      "narrator": "It was narrated from 'Ubadah bin Samit that :",
+      "text": "'Ubadah bin Samit'ten rivayet edildiğine göre: “Allah'ın Resulü (ﷺ), bir adamın diğer hurma ağaçları arasında bir, iki veya üç hurma ağacına sahip olması durumunda, çevresindeki araziye hak iddia edenler arasında anlaşmazlık olduğunda, her bir ağacın etrafındaki, yapraklarının ulaştığı kadar olan alanın, ağacın sahibine ait olduğuna hükmetti.”"
+    },
+    {
+      "id": 54,
+      "narrator": "It was narrated from Ibn 'Umar that the Messenger of Allah Said:",
+      "text": "İbn 'Umar'dan rivayet edildiğine göre, Allah'ın Resulü şöyle dedi: “Bir hurma ağacının etrafındaki arazi, dallarının ulaştığı kadar, ağacın sahibine aittir.”"
+    },
+    {
+      "id": 55,
+      "narrator": "It was narrated that Sa'eed bin Huraith  said:",
+      "text": "Sa'eed bin Huraith'ten rivayet edildiğine göre: “Allah'ın Resulü (ﷺ) şöyle dedi: 'Kim bir ev veya mülk satarsa ve parayı benzer bir şey için kullanmazsa, o şeyde bereketlenmeyi hak etmez.'”"
+    },
+    {
+      "id": 56,
+      "narrator": "",
+      "text": "Başka bir isnad, öncekiyle benzer bir hadisi rivayet etmektedir."
+    },
+    {
+      "id": 57,
+      "narrator": "It was narrated from Hudhaifah bin Yaman that the Messenger of Allah (ﷺ) said:",
+      "text": "Hudhaifah bin Yaman'dan rivayet edildiğine göre, Allah'ın Resulü (ﷺ) şöyle dedi: “Kim bir ev satarsa ve parayı benzer bir şey için kullanmazsa, o şeyde bereketlenmeyecek.”"
+    }
+  ]
+}

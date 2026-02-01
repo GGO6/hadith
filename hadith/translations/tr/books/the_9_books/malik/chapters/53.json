@@ -1,0 +1,56 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 8,
+    "arabic": {
+      "title": "موطأ مالك",
+      "author": "الإمام مالك بن أنس"
+    },
+    "english": {
+      "title": "Muwatta Malik",
+      "author": "Imam Malik ibn Anas"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Zayd ibn Aslam'dan, Allah'ın Resulü'nün, Allah ona salat ve selam eylesin, \"Binen, yürüyene selam verir; bir grup insan selam verdiğinde, bu hepsi için yeterlidir.\" dediğini aktardı."
+    },
+    {
+      "id": 2,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Wahb ibn Kaysan'dan, Muhammed ibn Amr ibn Ata'nın, \"Abdullah ibn Abbas ile oturuyordum, o sırada bir Yemenli adam içeri girdi. 'Selamünaleyküm ve Allah'ın rahmeti ve bereketi üzerinize olsun' (as-salamu alaykum wa rahmatullahi wa barakatuhu) dedi ve ardından buna bir şey daha ekledi. Ibn Abbas, (o sırada gözleri görmüyordu) 'Bu kim?' dedi. İnsanlar, 'Bu seni görmek için gelen bir Yemenli' dediler ve onu tanıttılar. Ibn Abbas, 'Selam, bereket kelimesiyle sona erer.' dedi.\""
+    },
+    {
+      "id": 3,
+      "narrator": "",
+      "text": "Yahya, Malik'e, \"Bir kadına selam verilir mi?\" diye sorulduğunda, \"Yaşlı bir kadına selam vermekte bir sakınca görmüyorum. Genç bir kadına selam vermeyi ise istemiyorum.\" dedi."
+    },
+    {
+      "id": 4,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Abdullah ibn Dinar'dan, Abdullah ibn Umar'ın, Allah'ın Resulü'nün, Allah ona salat ve selam eylesin, \"Bir Yahudi sana selam verirse ve 'Ölüm sana' (as-samu alaykum) derse, 'Ve sana da.' de.\" dediğini aktardı."
+    },
+    {
+      "id": 5,
+      "narrator": "",
+      "text": "Yahya, \"Malik'e, bir Yahudi veya Hristiyan'a selam veren bir kişinin özür dilemesi gerekir mi?\" diye sorulduğunda, \"Hayır.\" dedi."
+    },
+    {
+      "id": 6,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Ishaq ibn Abdullah ibn Abi Talha'dan, Abu Murra, Aqil ibn Abi Talib'in kölesi, Abu Waqid al-Laythi'den, Allah'ın Resulü'nün, Allah ona salat ve selam eylesin, bazı insanlarla birlikte mescitte otururken üç kişinin içeri girdiğini aktardı. İkisi Allah'ın Resulü'ne, Allah ona salat ve selam eylesin, doğru yöneldi ve biri geri gitti. İkisi Allah'ın Resulü'nün, Allah ona salat ve selam eylesin, etrafında durduğunda selam verdiler. Bunlardan biri çemberde bir boşluk gördü ve oraya oturdu. Diğeri çemberin arkasına oturdu. Üçüncüsü döndü ve gitti. Allah'ın Resulü, Allah ona salat ve selam eylesin, işini bitirdiğinde, \"Size üç kişiden bahsedeyim mi? Birisi Allah'a sığındı, bu yüzden Allah ona sığınak verdi. Diğeri utandı, bu yüzden Allah ona utandı. Diğeri döndü, bu yüzden Allah da ondan döndü.\" dedi."
+    },
+    {
+      "id": 7,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Ishaq ibn Abdullah ibn Abi Talha'dan, Anas ibn Malik'in, Umar ibn al-Khattab'ın kendisine selam veren bir adamın selamını iade ettiğini duyduğunu aktardı. Sonra Umar, adama, \"Nasılsın?\" dedi. Adam, \"Ben sana Allah'ı hamd ediyorum.\" (Ahmadu ilayka Allah) dedi. Umar, \"İşte senden istediğim buydu.\" dedi."
+    },
+    {
+      "id": 8,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Ishaq ibn Abdullah ibn Abi Talha'dan, at-Tufayl ibn Ubayy ibn Kab'ın, bir sabah Abdullah ibn Umar'ı ziyaret ettiğini ve onunla birlikte pazara gittiğini, dışarı çıktıklarında Abdullah ibn Umar'ın kötü mal satan, eşya satan, muhtaç birine veya başka birine selam vermeden geçmediğini aktardığını söyledi."
+    }
+  ]
+}

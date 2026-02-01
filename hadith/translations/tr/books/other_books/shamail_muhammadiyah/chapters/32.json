@@ -1,0 +1,46 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 6,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Musa ibn Anas ibn Malik reports that his father said:",
+      "text": "Musa ibn Anas ibn Malik, babasından şöyle rivayet etmiştir: “Allah’ın Messenger’ı (Allah ona salat ve selam eylesin) kendisine parfüm sürdüğü bir şişeye sahipti.”"
+    },
+    {
+      "id": 2,
+      "narrator": "Thumama ibn 'Abdi’llah said:",
+      "text": "Thumama ibn 'Abdi’llah dedi ki: “Anas ibn Malik parfümü reddetmedi. Anas ayrıca şöyle dedi: ‘Peygamber (Allah ona salat ve selam eylesin) parfümü reddetmedi.’”"
+    },
+    {
+      "id": 3,
+      "narrator": "Ibn 'Umar said:",
+      "text": "İbn 'Umar dedi ki: \"Allah’ın Messenger’ı (Allah ona salat ve selam eylesin) şöyle buyurdu: ‘Üç şey reddedilmez: yastıklar, yağ ve parfüm, ve süt.’”"
+    },
+    {
+      "id": 4,
+      "narrator": "Abu Huraira said:",
+      "text": "Ebu Hureyre dedi ki: \"Allah’ın Messenger’ı (Allah ona salat ve selam eylesin) şöyle buyurdu: ‘Erkeklerin parfümü, kokusu belirgin olan ve rengi olmayan parfümdür; kadınların parfümü ise, rengi belirgin olan ve kokusu olmayan parfümdür.’”"
+    },
+    {
+      "id": 5,
+      "narrator": "Abu 'Uthman al-Hindi said:",
+      "text": "Ebu 'Uthman el-Hindi dedi ki: “Allah’ın Messenger’ı (Allah ona salat ve selam eylesin) şöyle buyurdu: ‘Eğer birine tatlı fesleğen verilirse, onu reddetmemelidir, çünkü bu Cennet Bahçesi’nden gelmektedir!’”"
+    },
+    {
+      "id": 6,
+      "narrator": "Jarir ibn 'Abdi’llah reports:",
+      "text": "Jarir ibn 'Abdi’llah rivayet ediyor: \"Beni ‘Umar ibn al-Khattab’ın (Allah ondan razı olsun) huzuruna getirdiler, o sırada Jarir pelerini çıkardı ve bel örtüsüyle yürüdü, bunun üzerine ‘Umar ona: 'Pelerini al!' dedi. ‘Umar daha sonra gruba şöyle dedi: 'Jarir'den daha güzel bir adam görmedim, ancak Yusuf'un (selam üzerine olsun) görünüşü hakkında duyduklarımız hariç!'”"
+    }
+  ]
+}

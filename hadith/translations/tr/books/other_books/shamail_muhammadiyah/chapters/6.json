@@ -1,0 +1,41 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 5,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Abu Rimtha informed:",
+      "text": "Ebu Rimtha bildirdi: “Ben, bir oğlumla birlikte Peygamber (Allah ona salat ve selam eylesin) yanına geldim, o da; ‘Bu senin oğlun mu?’ dedi. Ben de: ‘Evet, onu kabul ediyorum!’ dedim. O da: ‘O sana zarar vermemeli, sen de ona zarar vermemelisin!’ dedi. Ayrıca, saçlarının gri olduğunu ama kırmızımsı bir tonunun olduğunu da fark ettim.”"
+    },
+    {
+      "id": 2,
+      "narrator": "Abu Huraira was asked:",
+      "text": "Ebu Hureyre’ye soruldu: “Allah’ın Elçisi (Allah ona salat ve selam eylesin) saçını boyadı mı?” O da: “Evet!” dedi."
+    },
+    {
+      "id": 3,
+      "narrator": "Al-Jahdama, the wife of Bishr ibn al- Khasasiyya, said:",
+      "text": "Cehdame, Bişr ibn el-Khasasiyya’nın eşi, dedi ki: \"Ben, Allah’ın Elçisi (Allah ona salat ve selam eylesin) evinden başını sallayarak çıktığını gördüm, çünkü büyük abdest aldı ve başında biraz hint kınası vardı.\" (Ya da şöyle dedi: safran. Şeyh buna şüpheyle yaklaştı.)"
+    },
+    {
+      "id": 4,
+      "narrator": "Humaid told us that Anas said:",
+      "text": "Hümeyd bize Anas’ın şöyle dediğini aktardı: \"Ben, Allah’ın Elçisi (Allah ona salat ve selam eylesin) saçlarının boyandığını gördüm.\""
+    },
+    {
+      "id": 5,
+      "narrator": "Hammad said:",
+      "text": "Hammad, Abdullah ibn Muhammad ibn 'Uqail’in de bize bildirdiğini söyledi: \"Ben, Allah’ın Elçisi (Allah ona salat ve selam eylesin) saçlarının Anas ibn Malik’in huzurunda boyandığını gördüm.\""
+    }
+  ]
+}

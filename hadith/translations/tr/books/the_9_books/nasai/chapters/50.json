@@ -1,0 +1,576 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 112,
+    "arabic": {
+      "title": "سنن النسائي",
+      "author": "الإمام أحمد بن شعيب النسائي"
+    },
+    "english": {
+      "title": "Sunan an-Nasai",
+      "author": "Imam Ahmad ibn Shuayb an-Nasai"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "It was narrated from Mu'adh bin 'Abdullah that his father said:",
+      "text": "Mu'adh bin Abdullah'dan rivayet edilmiştir ki, babası şöyle demiştir: \"Yağmur yağıyordu ve karanlıktı, biz de Allah'ın Elçisi'nin (s.a.v) çıkıp bize namaz kıldırmasını bekliyorduk. O da: 'De ki.' dedi. Ben: 'Ne söyleyeyim?' dedim. O: 'De ki: O, Allah'tır, (tek) olan ve Al-Mu'awwadhatain'i akşam ve sabah, üç defa söyle, bu sana her şeyden yeter.'\""
+    },
+    {
+      "id": 2,
+      "narrator": "It was narrated from Mu'adh bin 'Abdullah bin Khubaib that his father said:",
+      "text": "Mu'adh bin Abdullah bin Khubaib'den rivayet edilmiştir ki, babası şöyle demiştir: \"Ben Allah'ın Elçisi'nin (s.a.v) yanındaydım. Ona yaklaştım ve: 'De ki.' dedi. Ben: 'Ne söyleyeyim?' dedim. O: 'De ki.' Ben: 'Ne söyleyeyim?' dedim. O: 'De ki: Ben (Allah) sabahın Rabbi'nden sığınırım...' ayetini okuyana kadar devam etti, sonra: 'De ki: Ben (Allah) insanların Rabbi'nden sığınırım...' ayetini okuyana kadar devam etti. Sonra: 'İnsanlar, Allah'a bu ikisinden daha iyi bir şeyle sığınamazlar.' dedi.\""
+    },
+    {
+      "id": 3,
+      "narrator": "It was narrated that 'Uqbah bin 'Amir Al-Juhani said:",
+      "text": "'Uqbah bin Amir Al-Juhani'den rivayet edilmiştir ki, şöyle demiştir: \"Ben, Allah'ın Elçisi'ni (s.a.v) bir askeri seferde bindiği hayvan üzerinde liderlik ederken, O: 'Ey Uqbah, söyle!' dedi. Ben dinledim, sonra O: 'Ey Uqbah, söyle!' dedi. Ben dinledim, sonra üçüncü kez söyledi. Ben: 'Ne söyleyeyim?' dedim. O: 'De ki: O, Allah'tır, (tek) olan...' ve sureyi sonuna kadar okudu. Sonra: 'De ki: Ben (Allah) sabahın Rabbi'nden sığınırım...' dedi ve ben de onunla birlikte sonuna kadar okudum. Sonra: 'De ki: Ben (Allah) insanların Rabbi'nden sığınırım...' dedi ve ben de onunla birlikte sonuna kadar okudum. Sonra: 'Kimse, (Allah'a) bunlar gibi bir şeyle sığınmamıştır.' dedi.\""
+    },
+    {
+      "id": 4,
+      "narrator": "It was narrated that 'Uqbah bin 'Amir Al-Juhani said:",
+      "text": "'Uqbah bin Amir Al-Juhani'den rivayet edilmiştir ki, \"Allah'ın Elçisi (s.a.v) onları okudu, sonra: 'İnsanlar, bunlar gibi bir şey okumamışlardır, ya da insanlar, bunlar gibi bir şeyle (Allah'a) sığınmamışlardır.' dedi.\""
+    },
+    {
+      "id": 5,
+      "narrator": "Abu 'Abdullah narrated that Ibn 'Abis Al-Juhani told him that:",
+      "text": "Ebu Abdullah, İbn 'Abis Al-Juhani'nin kendisine şöyle söylediğini rivayet etmiştir: \"Allah'ın Elçisi (s.a.v) ona: 'Ey İbn 'Abis, Allah'a sığınanların yapabileceği en iyi şeyi sana söylemeyeyim mi?' dedi. O: 'Evet, ey Allah'ın Elçisi.' dedi. O: 'De ki: Ben (Allah) sabahın Rabbi'nden sığınırım.', 'De ki: Ben (Allah) insanların Rabbi'nden sığınırım.' - bu iki sure.\""
+    },
+    {
+      "id": 6,
+      "narrator": "It was narrated that 'Uqbah bin 'Amir said:",
+      "text": "'Uqbah bin Amir'den rivayet edilmiştir ki, \"Peygamber (s.a.v) 'Uqbah'a: 'Oku.' dedi. O: 'Ne okuyayım, ey Allah'ın Elçisi?' dedi. O: 'Oku: 'De ki: Ben (Allah) sabahın Rabbi'nden, yarattıklarının şerrinden sığınırım.' dedi ve ben bunu öğrenene kadar tekrar etti.\""
+    },
+    {
+      "id": 7,
+      "narrator": "It was narrated from 'Uqbah bin 'Amir that :",
+      "text": "'Uqbah bin Amir'den rivayet edilmiştir ki: \"O, Allah'ın Elçisi'ni (s.a.v) bize Sabah namazında liderlik ederken okudu.\""
+    },
+    {
+      "id": 8,
+      "narrator": "It was narrated from 'Uqbah that:",
+      "text": "'Uqbah'dan rivayet edilmiştir ki: \"Allah'ın Elçisi (s.a.v) Subh namazında onları okudu.\""
+    },
+    {
+      "id": 9,
+      "narrator": "It was narrated that 'Uqbah bin 'Amir said:",
+      "text": "'Uqbah bin Amir'den rivayet edilmiştir ki: \"Ben, Allah'ın Elçisi'ni (s.a.v) namaz kıldırırken liderlik ediyordum, o namazı bitirince bana döndü ve: 'Ey Uqbah, ne düşünüyorsun?' dedi.\""
+    },
+    {
+      "id": 10,
+      "narrator": "It was narrated that 'Uqbah bin 'Amir said:",
+      "text": "'Uqbah bin Amir'den rivayet edilmiştir ki: \"Ben, Allah'ın Elçisi'ni (s.a.v) bindiği hayvan üzerinde liderlik ederken, O: 'Sana insanların okuduğu en iyi iki sureyi öğretmeyeyim mi?' dedi. Ve bana: 'De ki: Ben (Allah) sabahın Rabbi'nden sığınırım,' ve 'De ki: Ben (Allah) insanların Rabbi'nden sığınırım.' öğretti. Sonra ikamet okundu ve öne geçti, onları okudu. Sonra yanımdan geçti ve: 'Ne düşünüyorsun, ey Uqbah bin Amir? Her zaman uyuduğunda ve kalktığında bunları oku.' dedi.\""
+    },
+    {
+      "id": 11,
+      "narrator": "It was narrated that 'Uqbah bin 'Amir said:",
+      "text": "'Uqbah bin Amir'den rivayet edilmiştir ki: \"Ben, Allah'ın Elçisi'ni (s.a.v) yürürken gördüm, O: 'Sadece bunlar gibi bir şeyle sığınan hiç kimse olmamıştır, ve hiç kimse bunlar gibi bir şeyle sığınmamıştır.' dedi.\""
+    },
+    {
+      "id": 12,
+      "narrator": "It was narrated that 'Uqbah bin 'Amir said:",
+      "text": "'Uqbah bin Amir'den rivayet edilmiştir ki: \"Ben, Allah'ın Elçisi'ne (s.a.v) bindiği sırada geldim, ayağına elimle dokundum ve: 'Bana Hud Suresi'ni öğret, Yusuf Suresi'ni öğret.' dedim. O: 'Sen, Allah, Azze ve Celle katında, 'De ki: Ben (Allah) sabahın Rabbi'nden sığınırım.' ayetinden daha değerli bir şey okumayacaksın.' dedi.\""
+    },
+    {
+      "id": 13,
+      "narrator": "It was narrated from 'Uqbah bin 'Amir that:",
+      "text": "'Uqbah bin Amir'den rivayet edilmiştir ki: \"Peygamber (s.a.v) şöyle dedi: 'Bana, daha önce görülmemiş ayetler indirildi: 'De ki: Ben (Allah) sabahın Rabbi'nden sığınırım...' sure sonuna kadar, ve 'De ki: Ben (Allah) insanların Rabbi'nden sığınırım...' sure sonuna kadar.'\""
+    },
+    {
+      "id": 14,
+      "narrator": "It was narrated that Jabir bin 'Abdullah said:",
+      "text": "Cabir bin Abdullah'dan rivayet edilmiştir ki: \"Allah'ın Elçisi (s.a.v) bana: 'Oku, ey Cabir!' dedi. Ben: 'Ne okuyayım, babam ve annem sana feda olsun, ey Allah'ın Elçisi?' dedim. O: 'Oku: 'De ki: Ben (Allah) sabahın Rabbi'nden sığınırım...,' ve: 'De ki: Ben (Allah) insanların Rabbi'nden sığınırım...' dedi. Ben de onları okudum, o da: 'Onları oku, çünkü sen, bunlar gibi bir şey okumayacaksın.' dedi.\""
+    },
+    {
+      "id": 15,
+      "narrator": "It was narrated from 'Abdullah bin Amr that:",
+      "text": "Abdullah bin Amr'dan rivayet edilmiştir ki: \"Peygamber (s.a.v) dört şeyden Allah'a sığınırdı: Faydasız bilgiden, huşu hissetmeyen bir kalpten, kabul olunmayan bir duadan ve asla tatmin olmayan bir ruhdan.\""
+    },
+    {
+      "id": 16,
+      "narrator": "It was narrated from 'Umar that:",
+      "text": "'Umar'dan rivayet edilmiştir ki: Peygamber  Allah'a korkaklıktan, cimrilikten, kalp fitnesinden ve kabir azabından sığınırdı."
+    },
+    {
+      "id": 17,
+      "narrator": "It was narrated that Shakal bin Humaid said:",
+      "text": "Şakal bin Humaid'den rivayet edilmiştir ki: \"Peygamber  yanına geldim ve dedim ki: 'Ey Allah'ın Peygamberi, bana Allah'a sığınmam için kelimeler öğret.' Elimden tutarak dedi ki: 'De: A'udhu bika min sharri sam'i, wa sharri basari, wa sharri lisani, wa sharri qalbi, wa sharri mani (İşitmemin şerrinden, görmemin şerrinden, dilimin şerrinden, kalbimin şerrinden ve meni şerrinden sana sığınırım).'\""
+    },
+    {
+      "id": 18,
+      "narrator": "It was narrated that 'Abudl-Malik bin 'Umair said:",
+      "text": "'Abdul-Malik bin 'Umair'den rivayet edilmiştir ki: \"Mus'ab bin Sa'd'dan babası hakkında duyduğumu aktarıyorum: 'Bize beş şey öğretirdi, ki bunları Allah'ın Elçisi  dua ederken okurdu: 'Allahumma inni a'udhu bika minal-bukhli, wa a'udhu bika minal-jubni, wa a'udhu bika an uradda ila ardhalil-'umuri, wa a'udhu bika min fitnatid-dunya, wa a'udhu bika min 'adhabil-qabr (Ey Allah, cimrilikten sana sığınırım, korkaklıktan sana sığınırım, ihtiyarlık dönemine geri dönmekten sana sığınırım, dünyanın fitnelerinden sana sığınırım ve kabir azabından sana sığınırım).'\""
+    },
+    {
+      "id": 19,
+      "narrator": "It was narrated that Ibn Mas'ud said:",
+      "text": "İbn Mes'ud'dan rivayet edilmiştir ki: \"Peygamber  beş şeyden Allah'a sığınırdı: Cimrilikten, korkaklıktan, ikinci çocukluk yaşına ulaşmaktan, kalp fitnesinden ve kabir azabından.\""
+    },
+    {
+      "id": 20,
+      "narrator": "It was narrated that 'Amr bin Maimun Al-Awdi said:",
+      "text": "'Amr bin Maimun Al-Awdi'den rivayet edilmiştir ki: \"Sa'd, çocuklarına bu kelimeleri öğretirdi, öğretmenlerin öğrencilerine öğrettiği gibi ve Allah'ın Elçisi  her namazın sonunda bunlarla Allah'a sığınırdı: 'Allahumma inni a'udhu bika minal-bukhli, wa a'udhu bika minal-jubni, wa a'udhu bika an uradda ila ardhalil-'umuri, wa a'udhu bika min fitnatid-dunya, wa a'udhu bika min 'adhabil-qabr (Ey Allah, cimrilikten sana sığınırım, korkaklıktan sana sığınırım, ihtiyarlık dönemine geri dönmekten sana sığınırım, dünyanın fitnelerinden sana sığınırım ve kabir azabından sana sığınırım.)' Bunu Mus'ab'a aktardım ve doğru söylediğini söyledi.\""
+    },
+    {
+      "id": 21,
+      "narrator": "It was narrated from Anas that:",
+      "text": "Anas'tan rivayet edilmiştir ki: Allah'ın Elçisi  şöyle derdi: \"Allahumma inni a'udhu bika minal-'ajzi, wal-kasali, wal-bukhli, wal-harami, 'adhabil-qabr wa fitnatil-mahya wal-mamat (Ey Allah, acizlikten, tembellikten, cimrilikten, ihtiyarlıktan, kabir azabından ve hayat ve ölüm fitnelerinden sana sığınırım.)\""
+    },
+    {
+      "id": 22,
+      "narrator": "It was narrated that Anas bin Malik said:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir ki: \"Allah'ın Elçisi  asla terk etmediği dualara sahipti. Şöyle derdi: 'Allahumma inni a'udhu bika minal-hammi, wal-hazani, wal-'ajzi, wal-kasali, wal-bukhli, wal-jubni, wa ghalabatar-rijal (Ey Allah, kaygıdan, kederden, acizlikten, tembellikten, cimrilikten, korkaklıktan ve (diğer) erkekler tarafından baskı altına alınmaktan sana sığınırım.)'\""
+    },
+    {
+      "id": 23,
+      "narrator": "It was narrated that Anas bin Malik said:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir ki: \"Allah'ın Elçisi  asla ihmal etmediği dualara sahipti. Şöyle derdi: 'Allahumma inni a'udhu bika minal-hammi, wal-hazani, wal-'ajzi, wal-kasali, wal-bukhli, wal-jubni, wad-daini, wa ghalabatar-rijal (Ey Allah, kaygıdan, kederden, acizlikten, tembellikten, cimrilikten, korkaklıktan, borçtan ve (diğer) erkekler tarafından baskı altına alınmaktan sana sığınırım.)'\""
+    },
+    {
+      "id": 24,
+      "narrator": "Anas said:",
+      "text": "Anas dedi ki: \"Peygamber  duasında şöyle derdi: 'Allahumma inni a'udhu bika minal-kasali, wal-harami, wal-jubni, wal-bukhli, wa fitnatid-dajjali, wa 'adhabil-qabr (Ey Allah, tembellikten, ihtiyarlıktan, korkaklıktan, cimrilikten, Deccal fitnesinden ve kabir azabından sana sığınırım.)'\""
+    },
+    {
+      "id": 25,
+      "narrator": "It was narrated from Anas that:",
+      "text": "Anas'tan rivayet edilmiştir ki: Peygamber  şöyle derdi: \"Allahumma inni a'udhu bika minal-'ajzi, wal-kasali, wal-harami, wal-bukhli, wal-jubni, wa 'audhu bika min 'adhabil-qabri, wa min fitnatil-mahya wal-mamati (Ey Allah, acizlikten, tembellikten, ihtiyarlıktan, cimrilikten ve korkaklıktan sana sığınırım, ve kabir azabından ve hayat ve ölüm fitnelerinden sana sığınırım.)\""
+    },
+    {
+      "id": 26,
+      "narrator": "It was narrated from Anas bin Malik, that :",
+      "text": "Anas bin Malik'ten rivayet edilmiştir ki: \"Allah'ın Elçisi  dua ettiğinde şöyle derdi: 'Allahumma inni a'udhu bika minal-hammi, wal-hazani, wal-'ajzi, wal-kasali, wal-bukhli, wal-jubni, wad-dala'id-daini, wa ghalabatir-rijal (Ey Allah, kaygıdan, kederden, acizlikten, tembellikten, cimrilikten, korkaklıktan, zor borçtan ve erkekler tarafından baskı altına alınmaktan sana sığınırım.)'\""
+    },
+    {
+      "id": 27,
+      "narrator": "It was narrated that 'Aishah said:",
+      "text": "'Aişe'den rivayet edilmiştir ki: \"Allah'ın Elçisi  sık sık borç ve günah için Allah'a sığınırdı. Ben dedim ki: 'Ey Allah'ın Elçisi, ne kadar sık borçtan sığınıyorsun!' O da dedi ki: 'Borçlanan kimse konuşur ve yalan söyler, söz verir ve bozuyor.'\""
+    },
+    {
+      "id": 28,
+      "narrator": "It was narrated that Shakal bin Humaid said:",
+      "text": "Şakal bin Humaid'den rivayet edilmiştir ki: \"Peygamber  yanına geldim ve dedim ki: 'Ey Allah'ın Peygamberi, bana Allah'a sığınmam için kelimeler öğret.' Elimden tutarak sonra dedi ki: 'De: A'udhu bika min sharri sam'i, wa sharri basari, wa sharri lisani, wa sharri qalbi, wa sharri mani (İşitmemin şerrinden, görmemin şerrinden, dilimin şerrinden, kalbimin şerrinden ve meni şerrinden sana sığınırım)' diyene kadar ezberlemiştim.\" Vaki' kelimelerde ona itiraz etti."
+    },
+    {
+      "id": 29,
+      "narrator": "It was narrated from Shutair bin Shakal bin Humaid, that his father said:",
+      "text": "Shutair bin Şakal bin Humaid'den rivayet edilmiştir ki, babası şöyle dedi: \"Ben dedim ki: 'Ey Allah'ın Elçisi, bana fayda sağlayacak bir dua öğret.' O da dedi ki: 'De: Allahumma 'afini min sharri sam'i, wa basari, wa lisani, wa qalbi, wa min sharri mani (Ey Allah, işitmemin, görmemin, dilimin ve kalbimin şerrinden, ve meni şerrinden beni koru.)'\" - Anlamı cinsel organ."
+    },
+    {
+      "id": 30,
+      "narrator": "It was narrated that Khalid said:",
+      "text": "Halid'den rivayet edilmiştir ki: \"Humaid şöyle rivayet etti: 'Anas - bin Malik - kabir azabı ve Deccal hakkında soruldu. O da dedi: \"Allah'ın Elçisi  şöyle derdi: Allahumma, inni a'udhu bika minal-kasali, wal-harami, wal-jubni, wal-bukhli, wa fitnatid-dajjali, wa 'adhabil-qabr (Ey Allah, tembellikten, ihtiyarlıktan, korkaklıktan, cimrilikten, Deccal fitnesinden ve kabir azabından sana sığınırım.)'\""
+    },
+    {
+      "id": 31,
+      "narrator": "It was narrated that Zaid bin Arqam said:",
+      "text": "Zeyd bin Arkam'dan rivayet edilmiştir: \"Size, Allah'ın Resulü'nün bize öğrettiği şeylerden başka bir şey öğretmeyeceğim. O şöyle dedi: 'Allahumma inni a'udhu bika min al-'ajzi wal-kasali, wal-bukhli, wal-jubni, wal-harami, wa 'adhabil-qabri, Allahumma ati nafsi taqwaha, wa zakkiha anta khairu min zakkaha, anta waliyyuha wa mawlaha. Allahumma inni a'udhu bika min qalbin la yakhsha'u wa min nafsin la tashba'u wa 'ilmin la yanfa'u wa da'watin la yustajabu laha.'\""
+    },
+    {
+      "id": 32,
+      "narrator": "It was narrated from Anas that:",
+      "text": "Anas'tan rivayet edilmiştir ki: Allah'ın Resulü şöyle dedi: \"Allahumma inni a'udhu bika min al-'ajzi, wal-kasali, wal-bukhli, wal-jubni, wal-harami, wa 'adhabil-qabri, wa fitnatil-mahya wal-mamat.\""
+    },
+    {
+      "id": 33,
+      "narrator": "It was narrated from Abu Hurairah that:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir ki: Allah'ın Resulü şöyle derdi: \"Allahumma, inni a'udhu bika minal-faqri wa a'udhu bika min al-qillati wadh-dhillati, wa a'udhu bika an azlima aw uzlam.\" Al-Awza'i ona muhalefet etti."
+    },
+    {
+      "id": 34,
+      "narrator": "Abu Hurairah said:",
+      "text": "Ebu Hureyre dedi ki: \"Allah'ın Resulü şöyle dedi: 'Allah'tan fakirlikten, ihtiyaçtan, alçaklıktan ve başkalarına zulmetmekten veya zulme uğramaktan sığınınız.'\""
+    },
+    {
+      "id": 35,
+      "narrator": "It was narrated from Abu Hurairah,:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Resulullah'tan, şöyle dediği nakledilmiştir: \"Allahumma inni a'udhu bika minal-qillati wal-faqri, wadh-dhillati wa a'udhu bika min azlima aw uzlam.\""
+    },
+    {
+      "id": 36,
+      "narrator": "Abu Hurairah said:",
+      "text": "Ebu Hureyre dedi ki: \"Allah'ın Resulü şöyle dedi: 'Allah'tan fakirlikten, ihtiyaçtan ve alçaklıktan, başkalarına zulmetmekten veya zulme uğramaktan sığınınız.'\""
+    },
+    {
+      "id": 37,
+      "narrator": "Abu Hurairah narrated that:",
+      "text": "Ebu Hureyre rivayet etti ki: \"Allah'ın Resulü şöyle dedi: 'Allah'tan fakirlikten, ihtiyaçtan ve alçaklıktan, başkalarına zulmetmekten veya zulme uğramaktan sığınınız.'\""
+    },
+    {
+      "id": 38,
+      "narrator": "Muslim - meaning bin Abi Bakrah - narrated that:",
+      "text": "Müslim - yani bin Ebi Bekre - rivayet etti ki: Babasının namazdan sonra şöyle dediğini işitti: \"Allahumma inni a'udhu bika minal-kufri wal-faqri, wa 'adhabil-qabri.\" Ben de bunları okumaya başladım, o da: \"Oğlum, bu kelimeleri nereden öğrendin?\" dedi. Ben de: \"Babacığım, namazın sonunda bu duayı senin söylediğini duydum ve senden öğrendim.\" O da: \"Devam et, oğlum, çünkü Allah'ın Resulü namazın sonunda bu duayı söylerdi.\" dedi."
+    },
+    {
+      "id": 39,
+      "narrator": "It was narrated that 'Aishah said:",
+      "text": "Aişe'den rivayet edilmiştir ki: \"Allah'ın Resulü sık sık duasında bu sözleri söylerdi: 'Allahumma, inni a'udhu bika min fitnatin-nari, wa 'adhabin-nari, wa fitnatil-qabri, wa 'adhabil-qabr, wa sharri fitnatil masihid-dajjal, wa sharri fitnatil-faqri, wa sharri fitnatil-ghina. Allahummaghsil khatayaya bima'ith-thalji wal-baradi wa anqi qalbi minal-khataya kama anqaitath-thawbal-abyada min ad-danasi, wa ba'id baini wa baina khatayaya kama ba'adta bainal-mashriqi wal-maghrib. Allahumma inni a'udhu bika min al-kasali wal harami, wal ma'thami wal-maghram.'\""
+    },
+    {
+      "id": 40,
+      "narrator": "Abu Hurairah said:",
+      "text": "Ebu Hureyre dedi ki: \"Allah'ın Resulü şöyle derdi: 'Allahumma inni a'udhu bika min al-arba': min 'ilmin la yanfa'u, wa min qalbin la yakhsha'u, wa min nafsin la tashba'u, wa min du'a'in la yusma'u.'\""
+    },
+    {
+      "id": 41,
+      "narrator": "It was narrated that Abu Hurairah said:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir ki: \"Allah'ın Resulü şöyle dedi: 'Allahumma inni a'udhu bika minal-ju'I, fa innahu bi'sad-daji'u, wa a'udhu bika minal-khiyanati, fa innahu bi'satil-bitanah.'\""
+    },
+    {
+      "id": 42,
+      "narrator": "It was narrated that Abu Hurairah said:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir ki: \"Allah'ın Resulü şöyle derdi: 'Allahumma inni a'udhu bika minal-ju'i, fa innahu bi'sad-daji'u, wa a'udhu bika minal-khiyanati, fa innahu bi'satil-bitanah.'\""
+    },
+    {
+      "id": 43,
+      "narrator": "It was narrated from Anas that :",
+      "text": "Anas'tan rivayet edilmiştir ki: \"Peygamber şöyle dua ederdi: 'Allahumma inni a'udhu bika min 'ilmin la yanfa'u, wa qalbin la yakhsha'u, wa du'a'in la yasma'u, wa nafsin la tashba'u.' Sonra şöyle derdi: 'Allahumma inni a'udhu bika min ha'ula'il-arba.'\""
+    },
+    {
+      "id": 44,
+      "narrator": "Abu Hurairah said:",
+      "text": "Ebu Hureyre dedi ki: \"Allah'ın Resulü duasında şöyle derdi: 'Allahumma inni a'udhu bika minash-shiqaqi wan-nifaqi, wa suw'il-akhlaq.'\""
+    },
+    {
+      "id": 45,
+      "narrator": "It was narrated that 'Aishah said:",
+      "text": "Aişe'den rivayet edilmiştir ki: \"Allah'ın Resulü sık sık borç ve günah için Allah'a sığınırdı. Kendisine: 'Ey Allah'ın Resulü! Sen sık sık borç ve günah için sığınıyorsun?' denildi. O da: 'Bir adam borca girdiğinde, yalan söyler ve söz verir, sonra da onu bozar.' dedi.\""
+    },
+    {
+      "id": 46,
+      "narrator": "Abu Sa'eed said:",
+      "text": "Ebu Sa'id dedi ki: \"Ben, Allah'ın Elçisi'nin (s.a.v) şöyle dediğini duydum: 'Evet.'\""
+    },
+    {
+      "id": 47,
+      "narrator": "It was narrated from Abu Sa'eed that:",
+      "text": "Ebu Sa'id'den rivayet edilmiştir ki: Peygamber (s.a.v) şöyle dedi: \"A'udhu billahi minal-kufri wad-dain. (Küfür ve borçtan Allah'a sığınırım.)\" Bir adam dedi ki: \"Borcu küfürle mi eşitliyorsun?\" O da dedi ki: \"Evet.\""
+    },
+    {
+      "id": 48,
+      "narrator": "It was narrated from 'Abdullah bin 'Amr bin Al-'As that:",
+      "text": "Abdullah bin Amr bin Al-As'tan rivayet edilmiştir ki: Allah'ın Elçisi (s.a.v) dua ederken bu sözleri söylerdi: \"Allahumma inni a'udhu bika min ghalabatid-dain, wa ghalabatil-'aduwwi, wa shamatatil-a'da'. (Allah'ım, beni borçla aşırı yüklenmekten, düşman tarafından yenilmekten ve düşmanın benim başıma gelenlere sevinmesinden sana sığınırım.)\""
+    },
+    {
+      "id": 49,
+      "narrator": "It was narrated that Anas bin Malik said:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir ki: Peygamber (s.a.v) şöyle derdi: \"Allahumma inni a'udhu bika minal-hammi wal hazani, wal-kasali, wal-bukhli, wal-jubni, wa dala'id-dain, wa ghalabatir-rijal. (Allah'ım, endişeden, kederden, tembellikten, cimrilikten, korkaklıktan, zor borçtan ve erkeklerin baskın gelmesinden sana sığınırım.)\""
+    },
+    {
+      "id": 50,
+      "narrator": "It was narrated that 'Aishah said:",
+      "text": "Aişe'den rivayet edilmiştir ki: \"Allah'ın Elçisi (s.a.v) şöyle derdi: 'Allahumma inni a'udhu bika min 'adhabil-qabri, wa fitnatin-nar, wa fitnatil-qabr, wa 'adhabil-qabr, wa sharri fitnati masihid-dajjali wa sharri fitnatil-ghana', wa sharri fitnatil-faqri. Allahummaghsil khatayaya kama naqqaitath-thawbal-abyada minad-danas. Allahumma inni a'udhu bika minal-kasali walharami wal-maghrami wal-ma'tham. (Allah'ım, beni kabir azabından, ateş fitnesinden, kabir fitnesinden ve kabir azabından, Mesih Dajjal fitnesinin şerrinden, zenginlik fitnesinin şerrinden ve fakirlik fitnesinin şerrinden sana sığınırım. Allah'ım, günahlarımı kar ve dolu suyu ile temizle, kalbimi günahlardan arındır, beyaz bir elbisenin kirden arındığı gibi. Allah'ım, tembellikten, yaşlılıktan, borçtan ve günahlardan sana sığınırım.)'\""
+    },
+    {
+      "id": 51,
+      "narrator": "Mus'ab bin Sa'd said that :",
+      "text": "Mus'ab bin Sa'd dedi ki: Sa'd, bu sözleri ona öğretirdi, Peygamber'den (s.a.v) rivayet ederek: \"Allahumma inni a'udhu bika minal-bukhli, wa a'udhu bika minal-jubni, wa a'udhu bika an uradda ila ardhalil-'umuri, wa a'udhu bika min fitnatid-dunya wa 'adhabil-qabr. (Allah'ım, cimrilikten sana sığınırım, korkaklıktan sana sığınırım, yaşlılık çağına dönmekten sana sığınırım ve bu dünyanın fitnelerinden ve kabir azabından sana sığınırım.)\""
+    },
+    {
+      "id": 52,
+      "narrator": "It was narrated that Mus'ab bin Sa'd and 'Amr bin Maimun Al-Awdi said:",
+      "text": "Mus'ab bin Sa'd ve Amr bin Maimun Al-Awdi'den rivayet edilmiştir ki: \"Sa'd, çocuklarına bu sözleri öğretirdi, bir öğretmenin öğrencilerine öğrettiği gibi ve Allah'ın Elçisi'nin (s.a.v) her namazın sonunda bu sözlerle Allah'a sığındığını söylerdi: 'Allahumma inni a'udhu bika minal-bukhli, wa a'udhu bika mnal-jubni, wa a'udhu bika an uradda ila ardhalil-'umuri, wa a'udhu bika min fitnatid-dunya, wa min 'adhabil-qabr. (Allah'ım, cimrilikten sana sığınırım, korkaklıktan sana sığınırım, yaşlılık çağına dönmekten sana sığınırım ve bu hayatın fitnelerinden ve kabir azabından sana sığınırım.)'\""
+    },
+    {
+      "id": 53,
+      "narrator": "It was narrated from 'Umar that:",
+      "text": "Ömer'den rivayet edilmiştir ki: Peygamber (s.a.v) korkaklıktan, cimrilikten, ikinci çocukluk çağına ulaşmaktan, kalp fitnelerinden ve kabir azabından Allah'a sığınırdı."
+    },
+    {
+      "id": 54,
+      "narrator": "It was narrated that 'Urwah bin Maimun said:",
+      "text": "Urve bin Maimun dedi ki: \"Ömer bin Hattab'ın şöyle dediğini duydum: 'Allah'ın Elçisi (s.a.v) beş şeyden Allah'a sığınır ve derdi: Allahumma inni a'udhu bika minal-jubni, wal-bukhli, wa suw'il-'umuri, wa fitnatis-sadri wa 'adhabil-qabr. (Allah'ım, korkaklıktan sana sığınırım, cimrilikten sana sığınırım, ikinci çocukluk çağına ulaşmaktan, kalp fitnelerinden ve kabir azabından sana sığınırım.)'\""
+    },
+    {
+      "id": 55,
+      "narrator": "It was narrated that 'Amr bin Maimun said:",
+      "text": "Amr bin Maimun'dan rivayet edilmiştir ki: \"Muhammed'in (s.a.v) arkadaşları Allah'a cimrilikten, korkaklıktan, kalp fitnelerinden ve kabir azabından sığınırdı.\""
+    },
+    {
+      "id": 56,
+      "narrator": "It was narrated that 'Amr bin Maimun said:",
+      "text": "Amr bin Maimun'dan rivayet edilmiştir ki: \"Peygamber (s.a.v) Allah'a sığınırdı.\" Mursal."
+    },
+    {
+      "id": 57,
+      "narrator": "It was narrated from Shutair bin Shakal bin Humaid, that his father said:",
+      "text": "Shutair bin Shakal bin Humaid'ten rivayet edilmiştir ki, babası şöyle dedi: \"Ben dedim ki: 'Ey Allah'ın Elçisi, bana fayda sağlayacak bir dua öğret.' O da dedi ki: 'De ki: Allahumma 'afini min sharri sam'i, wa basari, wa lisani, wa qalbi, wa sharri mani. (Allah'ım, işitme, görme, dilim, kalbim ve spermimin şerrinden beni koru.)'\""
+    },
+    {
+      "id": 58,
+      "narrator": "It was narrated from Abu Sa'eed Al-Khudri that:",
+      "text": "Ebu Sa'id El-Hudri'den rivayet edilmiştir ki: \"Allah'ın Elçisi (s.a.v) şöyle derdi: 'A'udhu billahi minal-kufri wal-faqr. (Allah'ım, küfürden ve fakirlikten sana sığınırım.)\" Bir adam dedi ki: \"Eşit midirler?\" O da dedi ki: \"Evet.\""
+    },
+    {
+      "id": 59,
+      "narrator": "It was narrated from Umm Salamah that :",
+      "text": "Ümmü Seleme'den rivayet edilmiştir ki: \"Peygamber (s.a.v) evinden çıktığında şöyle derdi: 'Bismillahi Rabbi! A'udhu bika min an azilla aw adilla aw azlima aw uzlama, aw ajhala aw yujhala 'alayya. (Allah'ım, adımın kaymasına, sapmama, başkalarına zulmetmeme veya zulme uğramama ve cehaletle davranmama veya cehaletle muamele görmeme sığınırım.)'\""
+    },
+    {
+      "id": 60,
+      "narrator": "It was narrated from 'Abdullah bin 'Amr bin Al-'As that:",
+      "text": "Abdullah bin Amr bin Al-As'tan rivayet edilmiştir ki: \"Allah'ın Elçisi (s.a.v) bu sözlerle dua ederdi: 'Allahumma inni a'udhu bika min ghalabatid-dain, wa ghalabatil-'aduwwi, wa shamatatil-a'da'. (Allah'ım, borçla aşırı yüklenmekten, düşman tarafından yenilmekten ve düşmanın benim başıma gelenlere sevinmesinden sana sığınırım.)'\""
+    },
+    {
+      "id": 61,
+      "narrator": "It was narrated from 'Abdullah bin 'Amr that :",
+      "text": "'Abdullah bin 'Amr'dan rivayet edilmiştir ki: Allah'ın Elçisi  bu sözlerle dua ederdi: \"Allah'ım, ben sana borçların aşırı gelmesinden, düşmanın güçlenmesinden ve düşmanın benim başıma gelenlerden sevinç duymasından sana sığınırım.\""
+    },
+    {
+      "id": 62,
+      "narrator": "It was narrated from 'Uthman bin Abi Al-'As that:",
+      "text": "'Uthman bin Abi Al-'As'tan rivayet edilmiştir ki: Peygamber  bu sözlerle dua ederdi: \"Allah'ım, ben sana tembellikten, ihtiyarlıktan, korkaklıktan ve acizlikten, hayat ve ölüm fitnelerinden sana sığınırım.\""
+    },
+    {
+      "id": 63,
+      "narrator": "It was narrated from 'Amr bin Shu'aib, from his father, that his grandfather said:",
+      "text": "'Amr bin Shu'aib'den, babası aracılığıyla, dedesinin şöyle dediği rivayet edilmiştir: \"Ben Allah'ın Elçisi'ni şöyle derken duydum: 'Allah'ım, ben sana tembellikten, ihtiyarlıktan, borçtan ve günahtan, Deccal'ın şerrinden, kabir azabından ve ateşin azabından sana sığınırım.'\""
+    },
+    {
+      "id": 64,
+      "narrator": "It was narrated that Abu Hurairah said:",
+      "text": "Abu Hurairah'tan rivayet edilmiştir ki: \"Peygamber  bu üç şeyden Allah'a sığınırdı: Yok olmaktan, düşmanlarının başına gelenlerden sevinç duymasından, kötü bir sona mahkum olmaktan ve bir felaketin zor anından.\" Sufyan (rivayet edenlerden biri) dedi ki: \"Üç tane vardı, ben dördüncüyü zikrettim çünkü hangisinin olmadığını hatırlamıyorum.\""
+    },
+    {
+      "id": 65,
+      "narrator": "It was narrated from Abu Hurairah that :",
+      "text": "Abu Hurairah'tan rivayet edilmiştir ki: Peygamber  kötü bir sona mahkum olmaktan, düşmanlarının başına gelenlerden sevinç duymasından, yok olmaktan ve bir felaketin zor anından Allah'a sığınırdı."
+    },
+    {
+      "id": 66,
+      "narrator": "It was narrated from Anas that:",
+      "text": "Anas'tan rivayet edilmiştir ki: Peygamber  şöyle derdi: \"Allah'ım, ben sana cinnetten, sedef hastalığından, lepra ve kötü hastalıklardan sana sığınırım.\""
+    },
+    {
+      "id": 67,
+      "narrator": "It was narrated that Abu Sa'eed said:",
+      "text": "Abu Sa'eed'den rivayet edilmiştir ki: \"Allah'ın Elçisi  cinlerin ve insanların nazarından Allah'a sığınırdı. Al-Mu'awwadhatan (Felak ve Nas sureleri) indirildiğinde, onları okumaya başladı ve başka bir şey okumayı bıraktı.\""
+    },
+    {
+      "id": 68,
+      "narrator": "It was narrated that Anas said:",
+      "text": "Anas'tan rivayet edilmiştir ki: \"Allah'ın Elçisi  bu sözlerle Allah'a sığınırdı: 'Allah'ım, ben sana tembellikten, ihtiyarlıktan, korkaklıktan, cimrilikten, kötü bir ihtiyarlıktan, Deccal'ın fitnesinden ve kabir azabından sana sığınırım.'\""
+    },
+    {
+      "id": 69,
+      "narrator": "It was narrated that 'Abdul-Malik bin 'Umair said:",
+      "text": "'Abdul-Malik bin 'Umair'den rivayet edilmiştir ki: \"Ben Mus'ab bin Sa'd'ı babası hakkında şöyle derken duydum: 'O, bize Allah'ın Elçisi'nin dua ederken okuduğu beş şeyi öğretirdi ve derdi: \"Allah'ım, ben sana cimrilikten, korkaklıktan, yaşlılık çağına dönmekten ve kabir azabından sana sığınırım.\"'"
+    },
+    {
+      "id": 70,
+      "narrator": "It was narrated that 'Amr bin Maimun said:",
+      "text": "'Amr bin Maimun'dan rivayet edilmiştir ki: \"Ben 'Umar ile Hac'a gittim ve Müzdelife'de, Peygamber  beş şeyden Allah'a sığındığını söylediğini duydum: 'Allah'ım, ben sana cimrilikten, korkaklıktan, kötü işlerden, kalp fitnelerinden ve kabir azabından sana sığınırım.'\""
+    },
+    {
+      "id": 71,
+      "narrator": "It was narrated from 'Abdullah bin Sarjis that :",
+      "text": "'Abdullah bin Sarjis'ten rivayet edilmiştir ki: \"Allah'ın Elçisi seyahate çıktığında şöyle derdi: 'Allah'ım, ben sana seyahatin zorluklarından, dönüşün üzüntülerinden, bolluktan sonra kayıptan, haksızlığa uğramış olanın duasından ve aileme veya malıma bir felaketin gelmesinden sana sığınırım.'\""
+    },
+    {
+      "id": 72,
+      "narrator": "It was narrated from 'Abdullah bin Sarjis that :",
+      "text": "'Abdullah bin Sarjis'ten rivayet edilmiştir ki: \"Allah'ın Elçisi seyahate çıktığında şöyle derdi: 'Allah'ım, ben sana seyahatin zorluklarından, dönüşün üzüntülerinden, bolluktan sonra kayıptan, haksızlığa uğramış olanın duasından ve aileme, malıma veya çocuğuma bir felaketin gelmesinden sana sığınırım.'\""
+    },
+    {
+      "id": 73,
+      "narrator": "It was narrated that 'Abdullah bin Sarjis said:",
+      "text": "'Abdullah bin Sarjis şöyle demiştir: \"Peygamber  seyahat ettiğinde, seyahatin zorluklarından, dönüşün üzüntülerinden, bolluktan sonra kayıptan, haksızlığa uğramış olanın duasından ve bir felaketin gelmesinden Allah'a sığınırdı.\""
+    },
+    {
+      "id": 74,
+      "narrator": "It was narrated that Abu Hurairah said:",
+      "text": "Abu Hurairah'tan rivayet edilmiştir ki: \"Allah'ın Elçisi  seyahat ettiğinde ve binek hayvanına bindiğinde, parmağıyla işaret ederdi - ve Şu'bah (rivayet edenlerden biri) parmağını uzattı - ve şöyle derdi: 'Allah'ım, sen seyahatimizde dostumuz ve ailelerimizle malımızı koruyan sensin. Allah'ım, ben sana seyahatin zorluklarından ve dönüşün üzüntülerinden sana sığınırım.'\""
+    },
+    {
+      "id": 75,
+      "narrator": "It was narrated that Abu Hurairah said:",
+      "text": "Abu Hurairah'tan rivayet edilmiştir ki: \"Allah'ın Elçisi  kötü bir komşudan Allah'a sığınmayı tavsiye etti, çünkü çöl komşusu değişir.\""
+    },
+    {
+      "id": 76,
+      "narrator": "Anas bin Malik said:",
+      "text": "Enes bin Malik dedi ki: \"Allah'ın Resulü her yolculuğunda durduğunda, sıkça şöyle derdi: 'Allah'ım, ben sana yaşlılıktan, kederden, acizlikten, tembellikten, cimrilikten, korkaklıktan, borç yükünden ve insanların baskısından sığınırım.'\""
+    },
+    {
+      "id": 77,
+      "narrator": "It was narrated from 'Aishah that:",
+      "text": "Aişe'den rivayet edilmiştir ki: Peygamber  Allah'a kabir azabından ve Deccal fitnesinden sığınırdı ve şöyle derdi: \"Siz kabirlerinizde imtihan edileceksiniz.\""
+    },
+    {
+      "id": 78,
+      "narrator": "It was narrated that Abu Hurairah said:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir ki: \"Allah'ın Resulü şöyle dedi: 'Ben Allah'a Cehennem azabından, kabir azabından, Deccal'ın şerrinden, hayat ve ölüm fitnelerinin şerrinden sığınırım.'\""
+    },
+    {
+      "id": 79,
+      "narrator": "It was narrated from Abu Hurairah that:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir ki: \"Allah'ın Resulü şöyle derdi: 'Allah'ım, ben sana kabir azabından, ateş azabından, hayat ve ölüm fitnelerinden, ve Deccal'ın şerrinden sığınırım.'\""
+    },
+    {
+      "id": 80,
+      "narrator": "It was narrated that Abu Dharr said:",
+      "text": "Ebu Dharr dedi ki: \"Ben Mescide girdim ve Allah'ın Resulü oradaydı, yanına geldim ve önünde oturdum. O da şöyle dedi: 'Ey Ebu Dharr, cinler ve insanlar arasındaki şeytanların şerrinden Allah'a sığın.' Ben de: 'İnsanlar arasında şeytanlar mı var?' dedim. O da: 'Evet.' dedi.\""
+    },
+    {
+      "id": 81,
+      "narrator": "It was narrated from Abu Hurairah that:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir ki: Peygamber  şöyle dedi: \"Allah'a kabir azabından, hayat ve ölüm fitnelerinden, ve Deccal fitnesinden sığın.\""
+    },
+    {
+      "id": 82,
+      "narrator": "It was narrated from Abu Hurairah that:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir ki: \"Allah'ın Resulü beş şeyden Allah'a sığınırdı, şöyle derdi: 'Kabir azabından, Cehennem azabından, hayat ve ölüm fitnelerinden, ve Deccal'ın şerrinden Allah'a sığın.'\""
+    },
+    {
+      "id": 83,
+      "narrator": "Abu Hurairah said:",
+      "text": "Ebu Hureyre dedi ki: \"Ben Allah'ın Resulü'nün şöyle dediğini duydum: 'Beni dinleyen Allah'ı dinlemiş olur, bana isyan eden Allah'a isyan etmiş olur.' Ve o, kabir azabından, Cehennem azabından, yaşayan ve ölülerin başına gelebilecek fitnelerden, ve Deccal fitnesinden Allah'a sığınırdı.\""
+    },
+    {
+      "id": 84,
+      "narrator": "Abu Hurairah said:",
+      "text": "Ebu Hureyre dedi ki: \"O (Peygamber) şöyle dedi: 'Beş şeyden Allah'a sığın: Cehennem azabından, kabir azabından, hayat ve ölüm fitnelerinden, ve Deccal fitnesinden.'\""
+    },
+    {
+      "id": 85,
+      "narrator": "It was narrated from 'Abdullah bin 'Abbas that:",
+      "text": "Abdullah bin Abbas'tan rivayet edilmiştir ki: \"Allah'ın Resulü onlara bu duayı, bir Kur'an suresi gibi öğretirdi: 'De ki: 'Allah'ım, ben sana Cehennem azabından, kabir azabından, Deccal fitnesinden, ve hayat ve ölüm fitnelerinin şerrinden sığınırım.'\""
+    },
+    {
+      "id": 86,
+      "narrator": "It was narrated from Abu Hurairah that:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir ki: \"Peygamber  şöyle dedi: 'Allah'ın azabından Allah'a sığın, hayat ve ölüm fitnelerinden, kabir azabından ve Deccal fitnesinden Allah'a sığın.'\""
+    },
+    {
+      "id": 87,
+      "narrator": "It was narrated from Abu Hurairah that:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir ki: \"Allah'ın Resulü duasında şöyle derdi: 'Allah'ım, ben sana Cehennem azabından, kabir azabından, Deccal fitnesinden, ve hayat ve ölüm fitnelerinin şerrinden sığınırım.'\""
+    },
+    {
+      "id": 88,
+      "narrator": "It was narrated from Sulaiman bin Yasar that he heard Abu Hurairah say:",
+      "text": "Süleyman bin Yesar'dan rivayet edilmiştir ki: \"Ebu Hureyre'nin şöyle dediğini duydum: 'Ben Allah'ın Resulü'nün duasında şöyle dediğini duydum: 'Allah'ım, ben sana kabir fitnesinden, Deccal fitnesinden, ve hayat ve ölüm fitnelerinden sığınırım.'\""
+    },
+    {
+      "id": 89,
+      "narrator": "It was narrated from Abu Hurairah that :",
+      "text": "Ebu Hureyre'den rivayet edilmiştir ki: \"Peygamber  şöyle dedi: 'Allah'ın azabından Allah'a sığın, kabir azabından Allah'a sığın, hayat ve ölüm fitnelerinden Allah'a sığın, ve Deccal fitnesinden Allah'a sığın.'\""
+    },
+    {
+      "id": 90,
+      "narrator": "It was narrated that Abu Hurairah said:",
+      "text": "Ebu Hureyre dedi ki: \"Allah'ın Resulü, Cehennem azabından, kabir azabından ve Deccal fitnesinden Allah'a sığınırdı.\""
+    },
+    {
+      "id": 91,
+      "narrator": "Abu Hurairah said:",
+      "text": "Ebu Hureyre dedi ki: Allah'ın Resulü şöyle buyurdu: \"Ateşin azabından, kabir azabından, hayat ve ölüm fitnelerinden ve Deccal'ın şerrinden Allah'a sığının.\""
+    },
+    {
+      "id": 92,
+      "narrator": "It was narrated that 'Aishah said:",
+      "text": "Aişe'den rivayet edildi ki: Allah'ın Resulü şöyle dedi: \"Allah'ım, Cebrail'in, Mikail'in ve İsrafil'in Rabbi, beni ateşin hararetinden ve kabir azabından sana sığınırım.\""
+    },
+    {
+      "id": 93,
+      "narrator": "It was narrated from Sulaiman bin Sinan Al-Muzani that he heard Abu Hurairah say:",
+      "text": "Süleyman bin Sinan el-Müzani'den rivayet edildi ki, Ebu Hureyre'nin şöyle dediğini duydu: \"Ebu'l-Kasım, namazında şöyle dedi: 'Allah'ım, kabir fitnesinden, Deccal fitnesinden, hayat ve ölüm fitnelerinden ve Cehennem'in hararetinden sana sığınıyorum.'\""
+    },
+    {
+      "id": 94,
+      "narrator": "It was narrated that Anas bin Malik said:",
+      "text": "Enes bin Malik'ten rivayet edildi ki: Allah'ın Resulü şöyle dedi: \"Kim Allah'tan cenneti üç kez isterse, cennet der ki: 'Allah'ım, onu cennete kabul et.' Kim de cehennemden üç kez sığınırsa, cehennem der ki: 'Allah'ım, onu ateşten koru.'\""
+    },
+    {
+      "id": 95,
+      "narrator": "It was narrated from Shaddad bin Aws that :",
+      "text": "Şeddad bin Evs'ten rivayet edildi ki: Peygamber şöyle dedi: \"Bağışlanma için en iyi dua, bir kişinin şöyle demesidir: 'Allah'ım, sen benim Rabbimsin, senden başka ilah yoktur. Beni yarattın ve ben senin kulunum, seninle olan ahdimi ve vaadini elimden geldiğince yerine getiriyorum. Yaptığım kötülüklerden sana sığınıyorum, günahımı itiraf ediyorum ve üzerimdeki nimetini itiraf ediyorum, o halde beni bağışla, çünkü günahları ancak sen bağışlarsın.' Eğer bunu sabah söylerse, buna kesin bir inançla ve o gün akşamdan önce ölürse, cennete girecektir. Eğer akşam söylerse, buna kesin bir inançla ve sabah olmadan ölürse, cennete girecektir.\" El-Valid bin Tha'labah ona muhalefet etti."
+    },
+    {
+      "id": 96,
+      "narrator": "It was narrated from 'Abdah bin Abi Lubabah that Ibn Yasaf told him that he asked 'Aishah, the wife of the Prophet , :",
+      "text": "Abdah bin Ebi Lubabah'tan rivayet edildi ki, İbn Yasaf ona, Peygamber'in en çok neyi dua ettiğini sordu. Aişe şöyle dedi: \"En çok söylediği dua şuydu: 'Allah'ım, yaptığım kötülüklerden ve henüz yapmadığım kötülüklerden sana sığınıyorum.'\""
+    },
+    {
+      "id": 97,
+      "narrator": "Ibn Yasaf said:",
+      "text": "İbn Yasaf dedi ki: \"Aişe'ye sordum, Peygamber'in en çok hangi duayı söylediğini. O da şöyle dedi: 'En çok söylediği dua şuydu: 'Allah'ım, yaptığım kötülüklerden ve henüz yapmadığım kötülüklerden sana sığınıyorum.'\""
+    },
+    {
+      "id": 98,
+      "narrator": "It was narrated that Farwah bin Nawfal said:",
+      "text": "Farwah bin Nüfal'dan rivayet edildi ki: \"Ben, Müminlerin Annesi Aişe'ye, Allah'ın Resulü'nün duasında ne söylediğini sordum. O da şöyle dedi: 'O şöyle derdi: 'Yaptığım kötülüklerden ve henüz yapmadığım kötülüklerden sana sığınıyorum.'\""
+    },
+    {
+      "id": 99,
+      "narrator": "It was narrated that 'Aishah said:",
+      "text": "Aişe dedi ki: \"Allah'ın Resulü şöyle derdi: 'Allah'ım, yaptığım kötülüklerden ve henüz yapmadığım kötülüklerden sana sığınıyorum.'\""
+    },
+    {
+      "id": 100,
+      "narrator": "It was narrated that Farwah bin Nawfal said:",
+      "text": "Farwah bin Nüfal dedi ki: \"Aişe'ye sordum: 'Allah'ın Resulü'nün en çok söylediği bir şey söyle.' O da şöyle dedi: 'O şöyle derdi: 'Allah'ım, yaptığım kötülüklerden ve henüz yapmadığım kötülüklerden sana sığınıyorum.'\""
+    },
+    {
+      "id": 101,
+      "narrator": "It was narrated that Farwah bin Nawfal said:",
+      "text": "Farwah bin Nüfal dedi ki: \"Aişe'ye dedim: 'Allah'ın Resulü'nün en çok söylediği bir dua söyle.' O da şöyle dedi: 'O şöyle derdi: 'Allah'ım, yaptığım kötülüklerden ve henüz yapmadığım kötülüklerden sana sığınıyorum.'\""
+    },
+    {
+      "id": 102,
+      "narrator": "'Umar said:",
+      "text": "Ömer dedi ki: \"Allah'ın Resulü'nün şöyle dediğini duydum: 'Allah'ım, beni altımdan yutulmaktan senin azametinle koru.'\""
+    },
+    {
+      "id": 103,
+      "narrator": "It was narrated that Ibn 'Umar said:",
+      "text": "İbn Ömer'den rivayet edildi ki: Peygamber şöyle derdi: 'Allah'ım' ve duayı zikredip sonunda, 'Beni altımdan yutulmaktan sana sığınıyorum.' derdi.\""
+    },
+    {
+      "id": 104,
+      "narrator": "It was narrated that Abu Al-Yasar said:",
+      "text": "Ebu'l-Yasar'dan rivayet edildi ki: \"Allah'ın Resulü şöyle derdi: 'Allah'ım, yüksek bir yerden atılmaktan, düşen bir duvarın altında kalmaktan, boğulmaktan, yanmaktan sana sığınıyorum. Ölüm anında Şeytan'ın beni saptırmasından sana sığınıyorum. Savaş alanından kaçarken senin yolunda ölmekten sana sığınıyorum. Akrep sokmasından ölmekten sana sığınıyorum.'\""
+    },
+    {
+      "id": 105,
+      "narrator": "It was narrated from Abu Al-Yasar that :",
+      "text": "Ebu'l-Yasar'dan rivayet edildi ki: \"Allah'ın Resulü dua eder ve şöyle derdi: 'Allah'ım, yaşlılıktan, yüksek bir yerden atılmaktan, düşen bir duvarın altında kalmaktan, sıkıntıdan, yanmaktan ve boğulmaktan sana sığınıyorum. Ölüm anında Şeytan'ın beni saptırmasından ve senin yolunda kaçarken öldürülmekten sana sığınıyorum. Akrep sokmasından ölmekten sana sığınıyorum.'\""
+    },
+    {
+      "id": 106,
+      "narrator": "It was narrated that Abu Al-Aswad Al-Sulami said:",
+      "text": "Abu Al-Aswad Al-Sulami'den rivayet edilmiştir: \"Allah'ın Elçisi  şöyle derdi: 'Allahumma inni a'udhu bika minal-hadmi, wa a'udhu bika minat-taraddi, wa a'udhu bika minal-gharaqi, wal-hariqi, wa a'udhu bika an yatakhabbatanish-shaitanu 'indal-mawti, wa a'udhu bika an amuta fi sabilika mudbiran, wa a'udhu bika an amuta ladigha (Allah'ım, bir duvarın altında kalmaktan, boğulmaktan veya yanmaktan, ölüm anında Şeytanın beni saptırmasından, senin yolunda savaş alanından kaçarken öldürülmekten ve akrep sokmasından ölmekten sana sığınırım.)'\""
+    },
+    {
+      "id": 107,
+      "narrator": "It was narrated that 'Aishah said:",
+      "text": "'Aişe'den rivayet edilmiştir: \"Bir gece Allah'ın Elçisi'ni yatağımda aradım, onu bulamadım. Yatağın başına vurduğumda, elim ayaklarının tabanına düştü. Secde ediyordu ve şöyle diyordu: 'A'udhu bi 'afwika min 'iqabika, wa a'udhu bi ridaka min sakhatika, wa a'udhu bika minka (Affından, azabından, gazabından sana sığınırım.)'\""
+    },
+    {
+      "id": 108,
+      "narrator": "It was narrated that 'Asim bin Humaid said:",
+      "text": "'Asim bin Humaid'den rivayet edilmiştir: \"Ben 'Aişe'ye Allah'ın Elçisi'nin Kıyamul Leyl'e nasıl başladığını sordum. O da: 'Benden başka kimse bu konuda sormadı. O, on kez Allahu Ekber, on kez Subhanallah, on kez İstagfirullah derdi ve şöyle derdi: Allahummaghfirli, wahdini, warzuqni, wa'afini (Allah'ım, beni affet, bana hidayet ver, rızık ver ve sağlık ver.)' diyerek Kıyamet Günü'nde ayakta durmanın zorluğundan Allah'a sığınırdı.'\""
+    },
+    {
+      "id": 109,
+      "narrator": "It was narrated from Sa'eed, from Abu Hurairah who said:",
+      "text": "Sa'eed'den, Abu Hurairah'tan rivayet edilmiştir ki: \"Allah'ın Elçisi  şöyle dedi: 'Allahumma inni a'udhu bika min 'ilmin la yanfa'u, wa min qalbin la yakhsha'u, wa min nafsin la tashba'u, wa min du'a'in la yusma' (Allah'ım, faydasız bilgiden, tevazu göstermeyen bir kalpten, tatmin olmayan bir ruhdan ve kabul edilmeyen bir duadan sana sığınırım.)'\""
+    },
+    {
+      "id": 110,
+      "narrator": "Abu Hurairah said:",
+      "text": "Abu Hurairah şöyle dedi: \"Allah'ın Elçisi  şöyle derdi: 'Allahumma inni a'udhu bika min 'ilmin la yanfa'u, wa min qalbin la yakhsha'u, wa min nafsin la tashba'u, wa min du'a'in la yusma' (Allah'ım, faydasız bilgiden, tevazu göstermeyen bir kalpten, tatmin olmayan bir ruhdan ve kabul edilmeyen bir duadan sana sığınırım.)'\""
+    },
+    {
+      "id": 111,
+      "narrator": "It was narrated that 'Abdullah bin Al-Harith said:",
+      "text": "'Abdullah bin Al-Harith'ten rivayet edilmiştir: \"Zaid bin Arqam'a, 'Bize Allah'ın Elçisi'nin bize söylememizi emrettiği şeyi söyle' denildiğinde, o şöyle dedi: 'Allahumma inni a'udhu bika min al-'ajzi wal-kasali, wal-bukhli, wal-jubni, wal-harami, wa 'adhabil-qabri. Allahumma at nafsi taqwaha, wa zakkaha anta khairu min zakkaha, anta waliyyuha wa mawlaha. Allahumma inni a'udhu bika min nafsin la tashba'u wa min qalbin la yakhsha'u wa min 'ilmin la yanfa'u wa du'a'in la yustajab (Allah'ım, acizlikten, tembellikten, cimrilikten, korkaklıktan, ihtiyarlıktan, kabir azabından sana sığınırım. Allah'ım, ruhumu takvalı kıl ve onu temizle, çünkü onu en iyi sen temizlersin, sen onun dostu ve sahibisin. Allah'ım, tatmin olmayan bir ruhdan, tevazu göstermeyen bir kalpten, faydasız bilgiden ve kabul edilmeyen bir duadan sana sığınırım.)'\""
+    },
+    {
+      "id": 112,
+      "narrator": "It was narrated from Umm Salamah that:",
+      "text": "Umm Salamah'tan rivayet edilmiştir ki: \"Peygamber  evinden çıktığında şöyle derdi: 'Bismillahi Rabbi. A'udhu bika min an azilla aw adilla aw azlima aw uzlama, aw ajhala aw yujhala 'alayya (Allah'ım, benim Rabbim, hata yapmaktan, sapmaktan, başkalarına zulmetmekten veya zulme uğramaktan, cehaletle davranmaktan veya cehaletle muamele görmekten sana sığınırım.)'\""
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 9,
+    "arabic": {
+      "title": "الأدب المفرد",
+      "author": "الإمام البخاري"
+    },
+    "english": {
+      "title": "Al-Adab Al-Mufrad",
+      "author": "Imam al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "",
+      "text": "İbn 'Umar, Allah'ın selamı ve bereketi üzerine olsun, Peygamber'in şöyle söylediğini bildirmiştir: \"Hepiniz çobansınız ve her biriniz kendi sürüsünden sorumlusunuz. Bir adam, evinin halkının çobanıdır ve onlardan sorumludur. Bir kadın, kocasının evinin çobanıdır ve ondan sorumludur. Hepiniz birer çobansınız ve her biriniz kendi sürüsünden sorumlusunuz.\""
+    },
+    {
+      "id": 2,
+      "narrator": "Abu Sulayman Malik ibn al-Huwayrith said, \"We came to the Prophet,\nmay Allah bless him and grant him peace, being young men of a similar age.\nWe spent twenty nights with him. He thought that we desired our own people\nand he asked us about those of our family we had left behind, and we told\nhim. He was merciful and kind, and said, 'Go back to your family. Instruct\nand command them. Pray as you have seen me praying. When it is time for\nthe prayer, then let one of you give the adhan and let the oldest of you\nlead the payer.;:",
+      "text": "Ebu Süleyman Malik ibn al-Huwayrith şöyle demiştir: \"Biz, yaşıt olan gençler olarak Peygamber'e, Allah'ın selamı ve bereketi üzerine olsun, geldik. Onunla yirmi gece geçirdik. Bizim kendi halkımızı özlediğimizi düşündü ve geride bıraktığımız ailemiz hakkında bize sordu, biz de ona söyledik. O merhametli ve nazik biriydi, 'Ailenize dönün. Onlara öğüt verin ve emir verin. Beni namaz kılarken gördüğünüz gibi namaz kılın. Namaz vakti geldiğinde, aranızdan biri ezan versin ve en yaşlısı namazı kılsın.' dedi.\""
+    },
+    {
+      "id": 3,
+      "narrator": "",
+      "text": "İbn 'Umar, Allah'ın elçisi, Allah'ın selamı ve bereketi üzerine olsun, şöyle derken duyduğunu bildirmiştir: \"Hepiniz çobansınız ve her biriniz kendi sürüsünden sorumlusunuz. Bir kadın, kocasının evinin çobanıdır ve o da efendisinin malı hakkında hizmetçi gibi sorumludur.\""
+    },
+    {
+      "id": 4,
+      "narrator": "",
+      "text": "Cabir ibn 'Abdullah el-Ensari, Allah'ın selamı ve bereketi üzerine olsun, Peygamber'in şöyle dediğini bildirmiştir: \"Kendisine bir iyilik yapılan kimse, onu karşılamalıdır. Eğer karşılamak için bir şey bulamazsa, iyiliği yapanı övmelidir. Onu övdüğünde, ona teşekkür etmiş olur. Eğer susarsa, ona nankörlük etmiş olur. Birisi, kendisine verilmemiş bir şeyle süslenirse, bu, sanki sahte bir elbise giymiş gibi olur.\""
+    },
+    {
+      "id": 5,
+      "narrator": "",
+      "text": "İbn 'Umar, Allah'ın elçisi, Allah'ın selamı ve bereketi üzerine olsun, şöyle dediğini bildirmiştir: \"Kim Allah'a sığınırsa, O'nda sığınak bulur. Kim Allah'tan bir şey isterse, alır. Kim bir iyilik yaparsa, onu karşılamalıdır. Eğer bir şey bulamazsanız, iyilik yapan için dua edin ki, ona karşılık verdiğinizi bilsin.\""
+    },
+    {
+      "id": 6,
+      "narrator": "",
+      "text": "Enes, Muhacirlerin şöyle dediğini bildirmiştir: \"Ey Allah'ın Elçisi, Ensar bütün sevabı aldı!\" O da, \"Hayır, siz onlara dua ettiğiniz ve onları övdüğünüz sürece öyle değildir.\" dedi."
+    },
+    {
+      "id": 7,
+      "narrator": "",
+      "text": "Ebu Hureyre, Allah'ın selamı ve bereketi üzerine olsun, Peygamber'in şöyle dediğini bildirmiştir: \"İnsanlara şükretmeyen, Allah'a da şükretmez.\""
+    },
+    {
+      "id": 8,
+      "narrator": "",
+      "text": "Ebu Hureyre, Allah'ın selamı ve bereketi üzerine olsun, Peygamber'in şöyle dediğini bildirmiştir: \"Allah Teâlâ, nefsine, 'İleride.' dedi. O da, 'Ben ancak isteksiz ilerlerim.' diye cevap verdi.\""
+    },
+    {
+      "id": 9,
+      "narrator": "",
+      "text": "Ebu Dharr, Allah'ın selamı ve bereketi üzerine olsun, Peygamber'e soruldu: \"Hangi eylem en iyisidir?\" O da, \"Allah'a iman ve O'nun yolunda cihad.\" diye cevap verdi. Soruldu: \"Hangi köleler en iyisidir?\" O da, \"Fiyatı en yüksek ve halkına en değerli olanlardır.\" dedi. \"Eğer savaşacak durumda değilsem ne yapmalıyım?\" diye soruldu. O da, \"Birine yardım et veya çalışmayan birisi için çalış.\" diye cevap verdi. \"Eğer buna da gücüm yetmiyorsa ne yapmalıyım?\" diye soruldu. O da, \"İnsanlara kötülüğünden sakın. Bu, kendine verdiğin bir sadakadır.\" dedi."
+    }
+  ]
+}

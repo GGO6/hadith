@@ -1,0 +1,71 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 11,
+    "arabic": {
+      "title": "سنن ابن ماجه",
+      "author": "الإمام محمد بن يزيد ابن ماجه"
+    },
+    "english": {
+      "title": "Sunan Ibn Majah",
+      "author": "Imam Muhammad ibn Yazid Ibn Majah"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "It was narrated that Jabir said:",
+      "text": "Jabir'den rivayet edilmiştir ki: “Allah'ın Resulü (ﷺ) şöyle buyurdu: 'Kimde bir hurma ağacı veya arazi varsa, onu satmasın; önce ortağına teklif etsin.'”"
+    },
+    {
+      "id": 2,
+      "narrator": "It was narrated from Ibn Abbas that the Prophet (ﷺ) said:",
+      "text": "İbn Abbas'tan rivayet edilmiştir ki: “Peygamber (ﷺ) şöyle buyurdu: 'Kimde arazi varsa ve onu satmak istiyorsa, önce komşusuna teklif etsin.'”"
+    },
+    {
+      "id": 3,
+      "narrator": "It was narrated from Jabir that the Messenger of Allah (ﷺ) said:",
+      "text": "Jabir'den rivayet edilmiştir ki: “Allah'ın Resulü (ﷺ) şöyle buyurdu: 'Komşunun, komşusunun öncelik hakkı daha fazladır; eğer yolları paylaşıyorlarsa, komşusu yoksa bile onu beklesin.'”"
+    },
+    {
+      "id": 4,
+      "narrator": "It was narrated from Abu Rafi' that the Prophet (ﷺ) said:",
+      "text": "Abu Rafi'’den rivayet edilmiştir ki: “Peygamber (ﷺ) şöyle buyurdu: 'Komşunun, yakın olan mülke öncelik hakkı daha fazladır.'”"
+    },
+    {
+      "id": 5,
+      "narrator": "It was narrated that Sharid bin Suwaid said:",
+      "text": "Sharid bin Suwaid'den rivayet edilmiştir ki: “Ben dedim: 'Ey Allah'ın Resulü, sadece bir kişinin mülkiyetinde olan ama bu mülkün komşuları olan bir arazi hakkında ne dersin?' O da: 'Komşunun, yakın olan mülke öncelik hakkı daha fazladır.' dedi.”"
+    },
+    {
+      "id": 6,
+      "narrator": "It was narrated from Abu Hurairah that:",
+      "text": "Abu Hurairah'tan rivayet edilmiştir ki: “Allah'ın Resulü (ﷺ), bölünmemiş arazi üzerindeki öncelik hakkı hakkında şöyle hükmetmiştir; eğer sınırlar belirlenmişse, o zaman öncelik hakkı yoktur.”"
+    },
+    {
+      "id": 7,
+      "narrator": "",
+      "text": "Başka bir isnad, önceki hadise benzer bir hadisi rivayet etmektedir."
+    },
+    {
+      "id": 8,
+      "narrator": "It was narrated from Abu Rafi' that the Messenger of Allah (ﷺ) said:",
+      "text": "Abu Rafi'’den rivayet edilmiştir ki: “Allah'ın Resulü (ﷺ) şöyle buyurdu: 'Ortak, kendisine yakın olan şeyde daha fazla hakka sahiptir; yeter ki hala ortak olsun.'”"
+    },
+    {
+      "id": 9,
+      "narrator": "It was narrated from Jabir bin Abdullah that:",
+      "text": "Jabir bin Abdullah'dan rivayet edilmiştir ki: “Allah'ın Resulü (ﷺ) şöyle hükmetmiştir: 'Öncelik hakkı, arazi bölünmemiş olduğu sürece geçerlidir. Ama eğer sınırlar belirlenmiş ve yollar açılmışsa, o zaman öncelik hakkı yoktur.'”"
+    },
+    {
+      "id": 10,
+      "narrator": "It was narrated from Ibn 'Umar that the Messenger of Allah (ﷺ) said:",
+      "text": "İbn 'Umar'dan rivayet edilmiştir ki: “Allah'ın Resulü (ﷺ) şöyle buyurdu: 'Öncelik hakkı, `İqal'ı çözmek gibidir.'”"
+    },
+    {
+      "id": 11,
+      "narrator": "It was narrated from Ibn 'Umar that the Messenger of Allah (ﷺ) said:",
+      "text": "İbn 'Umar'dan rivayet edilmiştir ki: “Allah'ın Resulü (ﷺ) şöyle buyurdu: 'Bir ortağın, diğer ortağı bir anlaşmada geçmesi durumunda (önceki bir anlaşmada) öncelik hakkı yoktur; ne küçük için ne de yok olan biri için.'”"
+    }
+  ]
+}

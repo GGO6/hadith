@@ -1,0 +1,66 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 10,
+    "arabic": {
+      "title": "سنن الترمذي",
+      "author": "الإمام محمد بن عيسى الترمذي"
+    },
+    "english": {
+      "title": "Jami at-Tirmidhi",
+      "author": "Imam Muhammad ibn Isa at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Zaid bin Khalid Al-Juhani narrated that the Messenger of Allah (s.a.w) said:",
+      "text": "Zaid bin Khalid Al-Cuheni, Allah'ın Resulü'nün (s.a.v) şöyle söylediğini rivayet etmiştir: \"Size en iyi şahitleri bildireyim mi? Şahitliği, kendisinden istenmeden önce getiren kişidir.\""
+    },
+    {
+      "id": 2,
+      "narrator": "(Another chain) from Malik in which he said:",
+      "text": "(Başka bir isnat) Malik'ten, o da dedi ki: İbn Abi 'Amrah.\""
+    },
+    {
+      "id": 3,
+      "narrator": "Zaid bin Khalid Al-Juhani narrated that the Messenger of Allah(s.a.w)   said:",
+      "text": "Zaid bin Khalid Al-Cuheni, Allah'ın Resulü'nün (s.a.v) şöyle söylediğini rivayet etmiştir: \"En iyi şahit, kendisinden istenmeden önce şahitlik eden kişidir.\""
+    },
+    {
+      "id": 4,
+      "narrator": "Aishah narrated that the Messenger of Allah (s.a.w) said:",
+      "text": "Aişe, Allah'ın Resulü'nün (s.a.v) şöyle söylediğini rivayet etmiştir: \"Hain bir adamın şahitliği kabul edilmez, hain bir kadının da, hadd cezası uygulanmış bir erkeğin de, hadd cezası uygulanmış bir kadının da, düşmanlık besleyen birinin de, ezberlenmiş bir şahit olanın da, ailesi adına şahitlik edenin de, Vala'sına veya akrabalarına ait olmayan birine kendini bağlayan kişinin de şahitliği kabul edilmez.\""
+    },
+    {
+      "id": 5,
+      "narrator": "Ayman bin Khuraim narrated that the Prophet (s.a.w) stood to give a Khutbah and said:",
+      "text": "Eyman bin Hureym, Peygamber'in (s.a.v) bir hutbe vermek üzere ayağa kalktığını ve şöyle dediğini rivayet etmiştir: \"Ey insanlar! Sahte şahitlik, Allah'a şirk koşmak gibidir.\" Sonra Allah'ın Resulü (s.a.v) şu ayeti okudu: \"O halde putların rijsinden sakının ve yalan sözden sakının.\""
+    },
+    {
+      "id": 6,
+      "narrator": "Khuraim bin Fatik Al-Asadi narrated that the Messenger of Allah (s.a.w) performed the Subh (Fajr)prayer. Then when he turned  he got up to stand and said:",
+      "text": "Hureym bin Fatik Al-Asadi, Allah'ın Resulü'nün (s.a.v) sabah (Fajr) namazını kıldığını, sonra döndüğünde ayağa kalkıp şöyle dediğini rivayet etmiştir: \"Ey insanlar! Sahte şahitlik, Allah'a şirk koşmak gibidir.\" Bunu üç kez söyleyerek, ardından şu ayeti okudu: \"Ve yalan sözden sakının.\" Ayetin sonuna kadar."
+    },
+    {
+      "id": 7,
+      "narrator": "'Abdur-Rahman bin Abi Bakrah narrated from his father that the Messenger of Allah (s.a.w) said:",
+      "text": "Abdurrahman bin Ebu Bekre, babasından, Allah'ın Resulü'nün (s.a.v) şöyle söylediğini rivayet etmiştir: \"Size en büyük büyük günahları bildireyim mi?\" Onlar: \"Elbette, ey Allah'ın Resulü (s.a.v)!\" dediler. O da: \"Allah'a şirk koşmak, ebeveynlere isyan etmek ve sahte şahitliktir.\" Ya da: \"Yalan söz.\" Dedi ki: \"Bunun üzerine Allah'ın Resulü (s.a.v) bunu söylemekten vazgeçmedi, ta ki biz (kendimize) 'Keşke susardı' diyene kadar.\""
+    },
+    {
+      "id": 8,
+      "narrator": "'Imran bin Husain narrated that the Messenger of Allah(s.a.w)said:",
+      "text": "İmrân bin Hüsayn, Allah'ın Resulü'nün (s.a.v) şöyle söylediğini rivayet etmiştir: \"İnsanların en hayırlısı benim neslimdir, sonra onları takip edenler, sonra onları takip edenler, sonra onları takip edenler.\" (O (s.a.v) bunu) üç kez söyledi. \"Sonra, onlardan sonra, şişmanlıkta artış gösteren, şişmanlığı seven, kendilerinden istenmeden önce şahitlik eden bir toplum gelecek.\""
+    },
+    {
+      "id": 9,
+      "narrator": "",
+      "text": "İmrân bin Hüsayn'dan başka bir isnat, benzer bir rivayet nakletmektedir."
+    },
+    {
+      "id": 10,
+      "narrator": "Clarification of this is in the Hadith of 'Umar bin Al-Khattab, from the Prophet(s.a.w) who said:",
+      "text": "Bunun açıklaması, Hz. Ömer bin Hattab'ın hadisiyle, Peygamber'den (s.a.v) gelen şu sözde bulunmaktadır: \"İnsanların en hayırlısı benim neslimdir, sonra onları takip edenler, sonra onları takip edenler. Sonra yalan yayılacak, bir adam kendisinden istenmeden şahitlik edecek ve bir adam yemin edecek, oysa yemin istenmeyecek.\""
+    }
+  ]
+}

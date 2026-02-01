@@ -1,0 +1,231 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 43,
+    "arabic": {
+      "title": "سنن الترمذي",
+      "author": "الإمام محمد بن عيسى الترمذي"
+    },
+    "english": {
+      "title": "Jami at-Tirmidhi",
+      "author": "Imam Muhammad ibn Isa at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Narrated Ibn 'Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle buyurmuştur: \"Allah kimin için hayır dilerse, ona din konusunda anlayış verir.\""
+    },
+    {
+      "id": 2,
+      "narrator": "Narrated Abu Hurairah:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle buyurmuştur: \"Kim ilim edinmek için bir yol alırsa, Allah ona Cennet'e giden yolu kolaylaştırır.\""
+    },
+    {
+      "id": 3,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle buyurmuştur: \"Kim ilim aramak için yola çıkarsa, o Allah'ın yolundadır, geri dönene kadar.\""
+    },
+    {
+      "id": 4,
+      "narrator": "Narrated 'Abdullah bin Sakhbarah:",
+      "text": "Abdullah bin Sakhbarah'tan rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurmuştur: \"Kim ilim ararsa, geçmişteki günahları için kefaret olur.\""
+    },
+    {
+      "id": 5,
+      "narrator": "Narrated Abu Hurairah:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle buyurmuştur: \"Bir kimse, bildiği bir ilim hakkında sorulduğunda onu gizlerse, ateşin dizgini ile dizginlenecektir.\""
+    },
+    {
+      "id": 6,
+      "narrator": "Narrated Abu Harun :",
+      "text": "Ebu Harun'dan: \"Ebu Sa'id'e gittik ve o şöyle dedi: 'Allah'ın Elçisi (ﷺ) tavsiyesinin hoş geldiniz. Gerçekten Peygamber (ﷺ) şöyle buyurmuştur: 'Şüphesiz, insanlar sizin peşinizden gidecek ve yeryüzünün bölgelerinden size din konusunda anlayış kazanmak için gelecekler. Onlar size geldiğinde, onlara iyilikle tavsiyede bulunun.'\""
+    },
+    {
+      "id": 7,
+      "narrator": "Narrated Abu Harun :",
+      "text": "Ebu Harun'dan: Ebu Sa'id El-Hudri'den, Peygamber (ﷺ) şöyle buyurmuştur: \"İnsanlar size doğudan öğrenmek için gelecekler. Onlar size geldiğinde, onlara iyilikle tavsiyede bulunun.\" Dedi ki: \"Ebu Sa'id bizi gördüğünde şöyle derdi: 'Allah'ın Elçisi'nin tavsiyesi hoş geldiniz, Allah'ın selamı ve bereketi onun ve ailesinin üzerine olsun.'\""
+    },
+    {
+      "id": 8,
+      "narrator": "Narrated 'Abdullah bin 'Amr bin Al-'As:",
+      "text": "Abdullah bin Amr bin Al-As'tan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle buyurmuştur: \"Gerçekten Allah, bilgiyi insanların içinden alarak değil, âlimleri alarak alır. Ta ki hiçbir âlim kalmayana kadar, insanlar cehalet içinde liderlerden sorarlar, onlar da bilgi olmadan hüküm verirler. Onlar sapacak ve insanları saptıracaklardır.\""
+    },
+    {
+      "id": 9,
+      "narrator": "Narrated Jubair bin Nufair:",
+      "text": "Jubair bin Nufair'den: Ebu Ad-Darda'dan, \"Peygamber (ﷺ) ile birlikteydik, gökyüzüne baktı ve şöyle dedi: 'İşte bu, ilmin insanların içinden alınacağı zamandır, geriye kalan hiçbir şey olmayacaktır.' Ziyad bin Labid El-Ensari şöyle dedi: 'Biz Kur'an'ı okurken nasıl alınacak? Vallahi biz onu okuyoruz, kadınlarımız ve çocuklarımız da okuyor.' O (ﷺ) şöyle dedi: 'Ey Ziyad, annenin başına bir bela olsun! Seni Medine halkının fakihlerinden sayardım. Tevrat ve İncil Yahudiler ve Hristiyanlar ile birlikte, ama onlardan ne fayda var?' Jubair dedi: \"Sonra 'Ubadah bin As-Samit ile karşılaştım ve ona şöyle dedim: 'Kardeşin Ebu Ad-Darda'nın söylediklerini duymadın mı?' Sonra ona Ebu Ad-Darda'nın söylediklerini bildirdim. O şöyle dedi: 'Ebu Ad-Darda doğru söyledi. İstersen, insanlardan ilk alınacak ilim hakkında sana anlatayım: O, huşudur. Yakında cemaat mescidine gireceksin ama içinde huşu ile bir adam göremeyeceksin.'\""
+    },
+    {
+      "id": 10,
+      "narrator": "Narrated Ibn Ka'b bin Malik:",
+      "text": "İbn Ka'b bin Malik'ten, babasından, Allah'ın Elçisi (ﷺ) şöyle derken işittiğini aktarmıştır: \"Kim ilmi, âlimlerle tartışmak, cahillerle tartışmak veya insanların yüzlerini kendisine döndürmek için ararsa, o ateşe girecektir.\""
+    },
+    {
+      "id": 11,
+      "narrator": "Narrated Ibn 'Umar:",
+      "text": "İbn Umar'dan: Peygamber (ﷺ) şöyle buyurmuştur: \"Kim ilmi Allah'tan başka bir amaçla öğrenirse veya onunla Allah'tan başka bir şeyi kastederse, o ateşteki yerini alsın.\""
+    },
+    {
+      "id": 12,
+      "narrator": "Narrated 'Abdur-Rahman bin Aban bin 'Uthman:",
+      "text": "Abdurrahman bin Aban bin Osman'dan, babasından: \"Zaid bin Sabit, öğle vakti Marwan'a gitmek üzere ayrıldı. Biz dedik ki: 'Onu bu saatte çağırmadı, ancak bir şey sormak için.' Biz de ona sormak için kalktık, o da şöyle dedi: 'Evet, bize Allah'ın Elçisi (ﷺ) hakkında duyduğumuz bir şey sordu. Allah'ın Elçisi (ﷺ) şöyle buyurdu: \"Bir adamın bizden bir Hadis işitip, onu ezberleyip başkasına iletmesi için Allah onu sevindirsin. Belki de o, kendisinden daha anlayışlı birine Fıkhı ulaştırır ve belki de Fıkhı taşıyan kişi bir fakih değildir.\"'"
+    },
+    {
+      "id": 13,
+      "narrator": "Narrated Simak bin Hard:",
+      "text": "Simak bin Hard'dan: \"Abdurrahman bin Abdullah bin Mes'ud'un babasından rivayet ettiğini işittim, o da şöyle dedi: 'Allah'ın Elçisi (ﷺ) şöyle buyurdu: 'Bir adamın bizden bir şey işitip, onu işittiği gibi iletmesi için Allah onu sevindirsin. Belki de iletilen kişi, onu işiten kişiden daha anlayışlıdır.'\""
+    },
+    {
+      "id": 14,
+      "narrator": "Narrated 'Abdul-Malik bin 'Umair:",
+      "text": "Abdul-Malik bin Umair'den: Abdurrahman bin Abdullah bin Mes'ud'dan, babasından, Peygamber (ﷺ) şöyle buyurmuştur: \"Bir adamın benim bir sözümü işitip, onu anlaması, hatırlaması ve iletmesi için Allah onu güzelleştirsin. Belki de o, kendisinden daha anlayışlı birine Fıkhı taşır. Müslümanın kalbini aldatmayacak üç şey vardır: Allah için amellerde samimiyet, Müslümanların imamlarına nasihat vermek ve cemaatle bağlı kalmak. Çünkü gerçekten çağrı, onların arkasında korunmaktadır.\""
+    },
+    {
+      "id": 15,
+      "narrator": "Narrated 'Abdullah :",
+      "text": "Abdullah'tan: Allah'ın Elçisi (ﷺ) şöyle buyurmuştur: \"Kim benim üzerime yalan söylerse, ateşteki yerini alsın.\""
+    },
+    {
+      "id": 16,
+      "narrator": "Narrated 'Ali bin Abi Talib:",
+      "text": "Ali bin Ebu Talib'den rivayet edilmiştir: Allah'ın Resulü (ﷺ) şöyle buyurdu: \"Bana yalan söylemeyin, çünkü kim bana yalan söylerse, ateşe girecektir.\""
+    },
+    {
+      "id": 17,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir: Allah'ın Resulü (ﷺ) şöyle buyurdu: \"Kim bana yalan söyler\" - sanırım şöyle dedi - \"kasıtlı olarak, o ateşte otursun.\""
+    },
+    {
+      "id": 18,
+      "narrator": "Narrated Al-Mughirah bin Shu'bah:",
+      "text": "Mughirah bin Şu'bah'tan rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Benden bildiği bir yalanı nakleden, yalancılardandır.\""
+    },
+    {
+      "id": 19,
+      "narrator": "Narrated 'Ubaidullah bin Abu Rafi:",
+      "text": "Ubeydullah bin Ebu Rafi'den rivayet edilmiştir: Ebu Rafi' ve diğerlerinden, Peygamber (ﷺ) şöyle buyurdu: \"Sizden birinin, benden bir emir veya yasak geldiğinde, kanepesinde yaslanmış bir şekilde oturduğunu görmemeliyim ve 'Bilmiyorum. Allah'ın Kitabında bulduğumuz şeylere uyarız.' dememelidir.\""
+    },
+    {
+      "id": 20,
+      "narrator": "Narrated Al-Miqdam bin Ma'dikarib:",
+      "text": "Mikdam bin Ma'dikarib'den rivayet edilmiştir: Allah'ın Resulü (ﷺ) şöyle buyurdu: \"Bakın! Yakında benden bir hadis, kanepesinde yaslanmış bir adama ulaştırılacak ve o şöyle diyecek: 'Bizimle sizin aranızda Allah'ın Kitabı var. İçinde bulduğumuz her şey helaldir, haram bulduğumuz her şey de haramdır.' Şüphesiz, Allah'ın Resulü (ﷺ) haram kıldığı her şey, Allah'ın haram kıldığıyla aynıdır.\""
+    },
+    {
+      "id": 21,
+      "narrator": "Narrated Abu Sa'eed Al-Khudri:",
+      "text": "Ebu Sa'id el-Hudri'den rivayet edilmiştir: \"Allah'ın Resulü (ﷺ) yazma izni istememiz üzerine bize izin vermedi.\""
+    },
+    {
+      "id": 22,
+      "narrator": "Narrated Abu Hurairah:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: \"Ensar'dan bir adam, Allah'ın Resulü (ﷺ) ile oturur, Peygamber (ﷺ)'in hadislerini dinlerdi ve onlara hayran kalırdı ama onları hatırlayamazdı. Bu durumu Allah'ın Resulü'ne (ﷺ) şikayet etti. O da: 'Ey Allah'ın Resulü! Senin hadislerini dinliyorum ve hayran kalıyorum ama onları hatırlayamıyorum.' dedi. Bunun üzerine Allah'ın Resulü (ﷺ) şöyle buyurdu: 'Sağ elinle kendine yardım et.' ve yazıyormuş gibi elini hareket ettirdi.\""
+    },
+    {
+      "id": 23,
+      "narrator": "Narrated Abu Hurairah:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Resulü (ﷺ) bir hutbe verdi. Hutbede bir hikaye anlattı ve Ebu Şah: 'Bunu benim için yaz, ey Allah'ın Resulü!' dedi. Allah'ın Resulü (ﷺ) de: 'Ebu Şah için yazın.' dedi.\""
+    },
+    {
+      "id": 24,
+      "narrator": "Narrated Hammam bin Munabbih:",
+      "text": "Hammam bin Münabbih'ten rivayet edilmiştir: Ebu Hureyre'nin şöyle dediğini işittim: \"Allah'ın Resulü (ﷺ)'nden en çok hadis nakleden, benden başka, sadece Abdullah bin Amr'dır. Çünkü o, hadisleri yazardı, ben yazmazdım.\""
+    },
+    {
+      "id": 25,
+      "narrator": "Narrated 'Abdullah bin 'Amr:",
+      "text": "Abdullah bin Amr'dan rivayet edilmiştir: Allah'ın Resulü (ﷺ) şöyle buyurdu: \"Benden bir şey aktarın, hatta bir ayet bile olsa, ve İsrailoğulları'ndan nakil yapın, bunda bir sakınca yoktur. Ve kim bana kasıtlı olarak yalan söylerse, o ateşte otursun.\""
+    },
+    {
+      "id": 26,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir: \"Bir adam, Peygamber (ﷺ)'den bir binek istemek için geldi, ama onun (ﷺ) yanında ona verecek bir şey yoktu. Bunun üzerine başka birine yönlendirildi. Adam, Peygamber (ﷺ)'e bunu bildirmek için geldi ve o da: 'İyiliğe yönlendiren, onu yapan gibidir.' dedi.\""
+    },
+    {
+      "id": 27,
+      "narrator": "Narrated Abu Mas'ud Al-Badri:",
+      "text": "Ebu Mes'ud el-Badri'den rivayet edilmiştir: Bir adam, Peygamber (ﷺ)'e binek aramak için geldi, 'Benimki bozuldu.' dedi. Bunun üzerine Allah'ın Resulü (ﷺ) şöyle dedi: 'Filan kişiye git.' Adam ona gitti ve ona bir binek verdi. Allah'ın Resulü (ﷺ) şöyle dedi: 'İyiliğe yönlendiren, onu yapanla aynı ödülü alır - ya da - ona uyanla.'\""
+    },
+    {
+      "id": 28,
+      "narrator": "Narrated Abu Musa Al-Ash'ari:",
+      "text": "Ebu Musa el-Aş'ari'den rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Şefaat edin, ödüllendirileceksiniz ve Allah, dilediğini Peygamberinin lisanıyla yerine getirecektir.\""
+    },
+    {
+      "id": 29,
+      "narrator": "Narrated 'Abdullah bin Mas'ud:",
+      "text": "Abdullah bin Mes'ud'dan rivayet edilmiştir: Allah'ın Resulü (ﷺ) şöyle buyurdu: \"Hiçbir can, haksız yere alınmaz ki, onun kanının bir kısmı Adem oğlunun üzerindedir, çünkü o, cinayeti ilk başlatandır.\""
+    },
+    {
+      "id": 30,
+      "narrator": "Narrated Abu Hurairah:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Resulü (ﷺ) şöyle buyurdu: \"Kim hidayete çağırırsa, o, kendisini takip edenlerin ödülüne benzer bir ödül alır, bu da onların ödüllerinden bir şey eksiltmez. Ve kim sapıklığa çağırırsa, o, kendisini takip edenlerin günahlarına benzer günahlar alır, bu da onların günahlarından bir şey eksiltmez.\""
+    },
+    {
+      "id": 31,
+      "narrator": "Narrated Ibn Jarir bin 'Abdullah:",
+      "text": "İbn Cerir bin Abdullah'dan rivayet edilmiştir: Babasından, Allah'ın Resulü (ﷺ) şöyle buyurdu: \"Kim iyi bir sünnet başlatır ve bu sünnet takip edilirse, onun için bir sevap vardır ve onu takip edenlerin de benzeri sevaplar vardır; onların sevaplarından hiçbir şey eksilmez. Kim kötü bir sünnet başlatır ve bu sünnet takip edilirse, onun için bir günah vardır ve onu takip edenlerin de benzeri günahlar vardır; onların günahlarından hiçbir şey eksilmez.\""
+    },
+    {
+      "id": 32,
+      "narrator": "Narrated Al-'Irbad bin Sariyah:",
+      "text": "Al-'İrbad bin Sariyah'dan rivayet edilmiştir: \"Bir gün sabah namazından sonra, Allah'ın Resulü (ﷺ) bizi öyle bir şekilde öğütledi ki gözlerimiz yaşardı ve kalplerimiz korkudan titredi. Bir adam dedi ki: 'Gerçekten bu bir veda öğüdüdür. Ey Allah'ın Resulü, bize ne emrediyorsun?' O (ﷺ) dedi ki: 'Size Allah'a karşı takva sahibi olmanızı, dinlemenizi ve itaat etmenizi emrediyorum, hatta bir Habeş kölesi durumunda bile. Gerçekten, içinizden kim yaşarsa, çok farklılıklar görecektir. Yeni icat edilen şeylerden sakının, çünkü onlar gerçekten sapıklık içindedir. İçinizden kim onları görürse, benim sünnetime ve doğru yolda giden halifelerin sünnetine sarılsın; ona dişleriyle sıkı sıkı sarılsın.'\""
+    },
+    {
+      "id": 33,
+      "narrator": "Narrated Narrated Kathir bin 'Abdullah :",
+      "text": "Katır bin Abdullah'dan rivayet edilmiştir: Babasından, dedesinden, Peygamber (ﷺ) Bilal bin Haris'e şöyle dedi: \"Bil.\" O dedi ki: \"Ey Allah'ın Resulü, bilmeye hazırım!\" O (ﷺ) dedi ki: \"Gerçekten, benden sonra ölen bir sünnetimi ihya eden kimseye, onu uygulayan kimsenin sevabına benzer bir sevap vardır; onların sevaplarından hiçbir şey eksilmez. Ve Allah'ın hoşnut olmadığı, Resulünün de hoşnut olmadığı bir yanlış yenilik getiren kimse, onu uygulayan kimselerin günahlarına benzer günahlar alır; bu da insanların günahlarından hiçbir şey eksiltmez.\""
+    },
+    {
+      "id": 34,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir: \"Allah'ın Resulü (ﷺ) bana şöyle dedi: 'Ey oğlum! Eğer sabahları ve akşamları, kalbinde hiçbir aldatma olmadan uyanabiliyorsan, bunu yap.' Sonra bana dedi ki: 'Ey oğlum! Bu benim sünnetimden biridir. Kim benim sünnetimi ihya ederse, o beni sevmiştir. Kim beni severse, o benimle cennette olacaktır.'\""
+    },
+    {
+      "id": 35,
+      "narrator": "Narrated Abu Hurairah:",
+      "text": "Ebu Hüreyre'den rivayet edilmiştir: \"Allah'ın Resulü (ﷺ) şöyle buyurdu: 'Beni bıraktığınız şeyle bırakın. Size bir hadis anlattığımda, onu benden alın. Sizden önceki insanlar, aşırı sorgulamaları ve peygamberleriyle anlaşmazlıkları nedeniyle helak oldular.'\""
+    },
+    {
+      "id": 36,
+      "narrator": "Narrated Abu Salih reported a narration from Abu Hurairah:",
+      "text": "Ebu Salih, Ebu Hüreyre'den bir rivayet aktardı: \"İnsanlar yakında deve karaciğerlerini dövüyor olacaklar (yani acele ediyor ve onlarla seyahat ediyorlar) bilgi arayarak. Ama Al-Medine'li bir âlimden daha bilgili birini bulamayacaklar.\""
+    },
+    {
+      "id": 37,
+      "narrator": "Narrated Ibn 'Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: \"Allah'ın Resulü (ﷺ) şöyle buyurdu: 'Fakih, şeytana bin ibadet eden kişiden daha serttir.'\""
+    },
+    {
+      "id": 38,
+      "narrator": "Narrated Qais bin Kathir:",
+      "text": "Kays bin Katır'dan rivayet edilmiştir: \"Medineli bir adam, Ebu Derda'nın Dimashk'ta bulunduğu sırada yanına geldi. O da dedi ki: 'Seni buraya getiren nedir, ey yeğenim?' O da cevap verdi: 'Bana, senin Allah'ın Resulü (ﷺ) ile rivayet ettiğin bir hadis ulaştı.' Dedi ki: 'Bir ihtiyaç için mi geldin?' O da: 'Hayır.' Dedi ki: 'Ticaret için mi geldin?' O da: 'Hayır, ben sadece bu hadisi aramak için geldim.' O da şöyle dedi: 'Gerçekten, ben Allah'ın Resulü (ﷺ) şöyle derken duydum: \"Kim bilgi aramak üzere bir yola çıkarsa, Allah ona cennete giden yolu kolaylaştırır. Gerçekten, melekler bilgi arayanın üzerine kanatlarını indirir. Gerçekten, göklerde ve yerde olan herkes, hatta suyun içindeki balık bile, âlim için bağışlanma diler. Gerçekten, âlimin, ibadet eden üzerindeki üstünlüğü, ayın diğer gök cisimleri üzerindeki üstünlüğü gibidir. Gerçekten, âlimler peygamberlerin mirasçılarıdır ve peygamberler dinar veya dirhem bırakmazlar. Âlimlerin tek mirası bilgidir, kim ondan alırsa, gerçekten en yetenekli payı almış olur.\"'"
+    },
+    {
+      "id": 39,
+      "narrator": "Narrated Ibn Ashwa:",
+      "text": "İbn Eşva'dan rivayet edilmiştir: Yazid bin Selame Al-Cu'fi'den, şöyle dedi: \"Yazid bin Selame: 'Ey Allah'ın Resulü! Senden o kadar çok rivayet duydum ki, sonuncusunun, ilkini unutmama sebep olacağından korkuyorum. Bana onları kapsayan bir söz rivayet et.' O da şöyle dedi: 'Öğrendiğin şeylerde Allah'a karşı takva sahibi ol.'\""
+    },
+    {
+      "id": 40,
+      "narrator": "Narrated Abu Hurairah:",
+      "text": "Ebu Hüreyre'den rivayet edilmiştir: \"Allah'ın Resulü (ﷺ) şöyle buyurdu: 'İki şey bir münafıkta bir arada bulunmaz: Güzel ahlak ve dinde fıkıh.'\""
+    },
+    {
+      "id": 41,
+      "narrator": "Narrated Abu Umamah Al-Bahili:",
+      "text": "Ebu Ümame El-Bahili'den rivayet edilmiştir: \"Allah'ın Resulü (ﷺ) önünde iki adam zikredildi. Birisi ibadet eden, diğeri âlim. Allah'ın Resulü (ﷺ) dedi ki: 'Âlimin ibadet edene üstünlüğü, benim sizlerin en küçüğüne olan üstünlüğüm gibidir.' Sonra Allah'ın Resulü (ﷺ) dedi ki: 'Gerçekten, Allah, melekleri, göklerin ve yerlerin sakinlerini - hatta deliğindeki karıncayı, hatta balığı - insanlara iyiliği öğretenden dolayı Salat ederler.'\""
+    },
+    {
+      "id": 42,
+      "narrator": "Narrated Abu Sa'eed Al-Khudri:",
+      "text": "Ebu Said El-Hudri'den rivayet edilmiştir: \"Allah'ın Resulü (ﷺ) şöyle buyurdu: 'Mümin, duyduğu iyilikle asla tatmin olmaz, ta ki cennete ulaşana kadar.'\""
+    },
+    {
+      "id": 43,
+      "narrator": "Narrated Abu Hurairah:",
+      "text": "Ebu Hüreyre'den rivayet edilmiştir: \"Allah'ın Resulü (ﷺ) şöyle buyurdu: 'Akıllı söz, müminin kaybolmuş malıdır; nerede bulursa, ona daha layıktır.'\""
+    }
+  ]
+}

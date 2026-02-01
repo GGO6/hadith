@@ -1,0 +1,31 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 3,
+    "arabic": {
+      "title": "موطأ مالك",
+      "author": "الإمام مالك بن أنس"
+    },
+    "english": {
+      "title": "Muwatta Malik",
+      "author": "Imam Malik ibn Anas"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "",
+      "text": "Malik, Abdullah ibn Dinar'dan, Abdullah ibn Umar'ın şöyle dediğini bana aktardı: \"Biz ona itaat ve dinleme sözü verdiğimizde, Allah'ın Elçisi, ona salat ve selam olsun, bize şöyle dedi: 'Yapabileceğiniz şeylerde.'\""
+    },
+    {
+      "id": 2,
+      "narrator": "",
+      "text": "Malik, Muhammad ibn al-Munkadir'den, Umayma bint Ruqayqa'nın şöyle dediğini bana aktardı: \"Ben, İslam'da onunla biat eden kadınlarla birlikte Allah'ın Elçisi'ne, ona salat ve selam olsun, gittim. Onlar, 'Allah'ın Elçisi! Biz, Allah'a hiçbir şeyi ortak koşmamaya, hırsızlık yapmamaya, zina etmemeye, çocuklarımızı öldürmemeye, elimizle ve ayaklarımızla uydurduğumuz yalanlar üretmemeye ve bilinen şeylerde sana itaat etmemeye söz veriyoruz.' dediler. Allah'ın Elçisi, ona salat ve selam olsun, 'Yapabileceğiniz şeylerde ve gücünüzün yettiği kadarıyla.' dedi.\""
+    },
+    {
+      "id": 3,
+      "narrator": "",
+      "text": "Umayma devam etti: \"Onlar, 'Allah ve Elçisi, kendimizden daha merhametlidir. Gel, elimizi sana verelim, Allah'ın Elçisi!' dediler. Allah'ın Elçisi, ona salat ve selam olsun, 'Ben kadınlarla el sıkışmam. Yüz kadına verdiğim söz, bir kadına verdiğim söz gibidir.' dedi.\""
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 25,
+    "arabic": {
+      "title": "صحيح البخاري",
+      "author": "الإمام محمد بن إسماعيل البخاري"
+    },
+    "english": {
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Muhammad ibn Ismail al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Narrated Abu Musa Al-Ash`ari:",
+      "text": "Ebu Musa el-Eş'ari'den rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Emredildiği şeyi gönülden veren dürüst mütevelli, iki hayırseverden biridir (ikincisi ise mal sahibi).\""
+    },
+    {
+      "id": 2,
+      "narrator": "Narrated Abu Musa:",
+      "text": "Ebu Musa'dan rivayet edilmiştir: Ben, Eş'ari kabilesinden iki adamla birlikte Peygamber (ﷺ)'e gittim. Peygamber'e, \"Onların iş istemek istediğini bilmiyorum,\" dedim. Peygamber (ﷺ) şöyle dedi: \"Hayır, biz iş için ısrar eden kimseyi atamayız.\""
+    },
+    {
+      "id": 3,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Allah, hiçbir peygamber göndermedi ki, koyun gütmesin.\" Arkadaşları ona sordular: \"Sen de öyle mi yaptın?\" Peygamber (ﷺ) cevap verdi: \"Evet, ben Mekke halkının koyunlarını birkaç kirat karşılığında gütmüştüm.\""
+    },
+    {
+      "id": 4,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Peygamber (ﷺ) ve Ebu Bekir, Beni Ad-Dail kabilesinden ve Beni 'Abu bin 'Adi kabilesinden bir (putperest) adamı rehber olarak işe aldılar. O, uzman bir rehberdi ve Al-‘Asi bin Vail kabilesiyle bağlı olduğu yemin sözleşmesini bozdu ve Kureyş putperestlerinin dinindeydi. Peygamber (ﷺ) ve Ebu Bekir ona güvendiler ve ona binek develerini verdiler ve üç gün sonra onları Thaur Mağarası'na getirmesini söylediler. Üç gün sonra, onlara iki binek devesini getirdi ve her ikisi (Peygamber (ﷺ) ve Ebu Bekir) 'Amir bin Fuhaira ve Dili rehberi eşliğinde Mekke'nin altındaki deniz kıyısına giden yolda yola çıktılar."
+    },
+    {
+      "id": 5,
+      "narrator": "Narrated Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: (Peygamber'in eşi) Allah'ın Elçisi (ﷺ) ve Ebu Bekir, Beni Ad-Dil kabilesinden bir putperest (Kureyş putperestlerinin dinine mensup) uzman rehber tuttu. Peygamber (ﷺ) ve Ebu Bekir ona iki binek devesini verdiler ve üçüncü günün sabahında Thaur Mağarası'na getirmesi için ondan söz aldılar."
+    },
+    {
+      "id": 6,
+      "narrator": "Narrated Ya`la bin Umaiya:",
+      "text": "Ya'la bin Umeyye'den rivayet edilmiştir: Ben, Peygamber (ﷺ) ile birlikte Ceyş-al-Usra (Tabuk Gazvesi) savaşına katıldım ve bu benim en iyi amellerimden biri olduğunu düşünüyorum. Sonra bir çalışanım vardı, biriyle tartıştı ve biri diğerinin parmağını ısırıp kesti ve kendi dişini kaybetmesine sebep oldu. Sonra Peygamber'e (şikayetle) gitti ama Peygamber (ﷺ) davayı iptal etti ve şikayetçiye şöyle dedi: \"Parmağını ağzına sokmasını mı bekliyordun ki, onu (bir boğa devesi gibi) ısırıp kesesin?\" İbn Juraij, 'Abdullah bin Abu Mulaika'dan, dedesinden benzer bir hikaye rivayet etti: Bir adam diğerinin elini ısırdı ve kendi dişini kaybetmesine sebep oldu, ama Ebu Bekir, onun tazminat alma hakkı olmadığını hükmetti (kırık diş için)."
+    },
+    {
+      "id": 7,
+      "narrator": "Narrated Ubai bin Ka`b:",
+      "text": "Ubai bin Ka'b'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Her ikisi (Musa ve Al-Khadir) devam ettiler ta ki yıkılmak üzere olan bir duvara vardılar.\" Sa'd dedi ki, \"(Al-Khadir) elleriyle (duvara) işaret etti ve sonra ellerini kaldırdı ve duvar düzleşti.\" Ya'la dedi ki, \"Sanırım Sa'id [?? veya Sa'd] şöyle dedi: 'O (Khadir) elini üzerine geçirdi ve düzleşti.\" (Musa ona dedi), \"İstersen bunun için ücret alabilirdin.\" Sa'id dedi ki, \"Yiyecek almak için ücret.\""
+    },
+    {
+      "id": 8,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn 'Umar'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Sizin örneğiniz ve iki Kitap halkının (yani Yahudilerin ve Hristiyanların) örneği, bir adamın bazı işçileri işe alıp onlara, 'Kim sabahdan öğleye kadar bir kirat karşılığında benim için çalışacak?' dediği örneğe benzer. Yahudiler kabul etti ve işi yaptılar. Sonra, 'Kim öğleden sonra 'Asr namazına kadar bir kirat karşılığında benim için çalışacak?' diye sordu. Hristiyanlar kabul etti ve işi yerine getirdiler. Sonra, 'Kim 'Asr'dan güneş batışına kadar iki kirat karşılığında benim için çalışacak?' dediniz. Siz, Müslümanlar, teklifi kabul ettiniz. Yahudiler ve Hristiyanlar kızdılar ve 'Neden daha fazla çalışalım ve daha az ücret alalım?' dediler. (Allah) dedi ki, 'Ben sizin hakkınızdan bir kısmını mı sakladım?' Onlar hayır dediler. O da, 'Bu benim nimettir, dilediğime veririm.'\""
+    },
+    {
+      "id": 9,
+      "narrator": "Narrated `Abdullah bin `Umar bin Al-Khattab:",
+      "text": "Abdullah bin 'Umar bin Al-Khattab'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle buyurdu: \"Sizin örneğiniz ve Yahudilerin ve Hristiyanların örneği, bir adamın bazı işçileri işe alıp onlara, 'Kim öğleye kadar bir kirat karşılığında benim için çalışacak?' dediği örneğe benzer. Yahudiler bir kirat karşılığında işi yaptılar; sonra Hristiyanlar 'Asr namazına kadar bir kirat karşılığında işi yaptılar; şimdi siz Müslümanlar 'Asr namazından güneş batışına kadar iki kirat karşılığında çalışıyorsunuz. Yahudiler ve Hristiyanlar kızdılar ve 'Biz daha çok çalışıyoruz ve daha az ücret alıyoruz.' dediler. İşveren (Allah) onlara sordu, 'Ben sizin hakkınızdan bir kısmını mı aldım?' Onlar hayır dediler. O da, 'Bu benim nimettir, dilediğime veririm.'\""
+    },
+    {
+      "id": 10,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Allah, Kıyamet Günü üç çeşit insanla düşman olacağım:"
+    },
+    {
+      "id": 11,
+      "narrator": "Narrated Abu Musa:",
+      "text": "-1. Adımın anıldığı bir antlaşma yapan ama hainlik eden;"
+    },
+    {
+      "id": 12,
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "-2. Bir özgür kişiyi satan ve fiyatını yiyen; ve"
+    },
+    {
+      "id": 13,
+      "narrator": "Narrated Abu May' id Al-Ansari:",
+      "text": "-3. Bir işçiyi işe alan ve ondan tam çalışma alıp ona ücret ödemeyen.\""
+    },
+    {
+      "id": 14,
+      "narrator": "Narrated Tawus:",
+      "text": "Ebu Musa'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Müslümanların, Yahudilerin ve Hristiyanların örneği, bir adamın işçileri sabahdan akşama kadar belirli bir ücretle çalışmaları için işe alması gibidir. Onlar öğleye kadar çalıştılar ve sonra, 'Biz sizin belirlediğiniz paraya ihtiyacımız yok ve yaptığımız her şeyin geçersiz olmasını istiyoruz.' dediler. Adam onlara, 'İşi bırakmayın, geri kalanını tamamlayın ve tam ücretinizi alın.' dedi. Ama onlar reddettiler ve gittiler. Adam, onlardan sonra başka bir grup işe aldı ve onlara, 'Günün geri kalanını tamamlayın ve sizin ücretiniz, ilk gruba belirlediğim ücret olacak.' dedi. Böylece, 'Asr namazı vaktine kadar çalıştılar. Sonra, 'Yaptığımız her şeyin geçersiz olmasını istiyoruz ve bize vaat ettiğiniz ücreti kendinize saklayın.' dediler. Adam onlara, 'Geri kalan işi tamamlayın, çünkü günün sadece az bir kısmı kaldı,' dedi ama onlar reddettiler. Sonra başka bir grup daha işe aldı ve günün geri kalanında çalıştılar ve önceki iki grubun ücretini aldılar. İşte bu, o insanların (Müslümanların) örneği ve kabul ettikleri bu ışığın (rehberliğin) örneğidir.\""
+    },
+    {
+      "id": 15,
+      "narrator": "Narrated Khabbab:",
+      "text": "Abdullah bin 'Umar'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Sizden önceki üç adam, gece bir mağaraya kadar birlikte yola çıktılar ve oraya girdiler. Büyük bir taş dağdan yuvarlandı ve mağaranın ağzını kapadı. Onlar (birbirlerine) dediler ki, 'Bu taştan sizi kurtaracak hiçbir şey yok, ancak yaptığınız (Allah rızası için) salih amellere atıfta bulunarak Allah'a dua etmektir.' Biri şöyle dedi: 'Ya Allah! Benim yaşlı ebeveynlerim vardı ve ben aileme (eşime, çocuklarıma vb.) onların önünde süt vermedim. Bir gün, tesadüfen geciktim ve gece geç saatlerde geldim, onlar uyuyorlardı. Onlar için koyunları sağdım ve sütü onlara götürdüm ama onları uyurken buldum. Aileme süt vermeyi onların önünde istemedim. Onların uyanmasını bekledim ve süt dolu kova elimdeydi ve sabaha kadar bekledim. Sonunda uyandılar ve sütü içtiler. Ya Allah! Eğer bunu sadece Senin rızan için yaptıysam, bu taştan bizi kurtar lütfen.' O zaman taş biraz kaydı ama çıkamadılar.\" Peygamber (ﷺ) ekledi: \"İkinci adam şöyle dedi: 'Ya Allah! Benim en sevgili kuzenim vardı ve ben onunla cinsel ilişki kurmak istedim ama o kabul etmedi. Daha sonra, bir kıtlık yılında zor durumda kaldı ve bana geldi, ben de ona yüz yirmi dinar verdim, o da benim isteğimi kabul etmediği takdirde. Ben de onu bırakmayı düşündüm, çünkü onunla cinsel ilişkiye girmemin günah olduğunu düşündüm ve onu bıraktım, oysa o benim en sevdiğim kişiydi ve verdiğim altınları da bıraktım. Ya Allah! Eğer bunu sadece Senin rızan için yaptıysam, bu mevcut felaketten bizi kurtar lütfen.' O zaman taş biraz daha kaydı ama hala çıkamadılar.\" Peygamber (ﷺ) ekledi: \"Sonra üçüncü adam şöyle dedi: 'Ya Allah! Ben birkaç işçi çalıştırdım ve onlara ücretlerini ödedim, bir adam hariç, o ücretini almadı ve gitti. Ben onun ücretini yatırdım ve bununla çok mal edindim. (Bir süre sonra) o geldi ve bana, 'Ya Allah'ın kulu! Ücretimi ver.' dedi. Ben de ona, 'Gördüğün tüm develer, inekler, koyunlar ve köleler senindir.' dedim. O da, 'Ya Allah'ın kulu! Benimle alay etme.' dedi. Ben de, 'Ben seninle alay etmiyorum.' dedim. O da tüm sürüyü aldı ve götürdü ve hiçbir şey bırakmadı. Ya Allah! Eğer bunu sadece Senin rızan için yaptıysam, bu mevcut sıkıntıdan bizi kurtar lütfen.' O zaman o taş tamamen kaydı ve yürüyerek dışarı çıktılar.\""
+    },
+    {
+      "id": 16,
+      "narrator": "Narrated Abu Sa`id:",
+      "text": "Abu Sa`id'den rivayet edilmiştir: Peygamber (ﷺ) arkadaşlarından bazıları bir yolculuğa çıktılar ve gece bazı Arap kabilelerine ulaştılar. Onlardan kendilerini misafir olarak kabul etmelerini istediler, ancak reddettiler. O kabilelerin reisi bir yılan tarafından ısırıldı (veya bir akrep tarafından sokuldu) ve onu iyileştirmek için ellerinden geleni yaptılar ama nafile. İçlerinden bazıları diğerlerine, \"Ona hiçbir şey fayda etmedi, burada gece kalan insanlara gidecek misiniz, belki içlerinden bazıları bir şey (tedavi olarak) bulur,\" dediler. Peygamber (ﷺ) arkadaşlarının bulunduğu gruba gittiler ve, \"Rehberimiz bir yılan tarafından ısırıldı (veya bir akrep tarafından sokuldu) ve her şeyi denedik ama fayda etmedi. Elinizde bir şey var mı?\" dediler. İçlerinden biri, \"Evet, Allah'a yemin ederim! Ben bir Ruqya okuyabilirim, ama siz bizi misafir olarak kabul etmediğiniz için, bunun için bize bir ücret belirlemedikçe Ruqya okumayacağım,\" diye cevap verdi. Onlar, kendilerine bir sürü koyun vermeyi kabul ettiler. İçlerinden biri gidip (Fatiha Suresi'ni) okudu: 'Alemlerin Rabbi olan Allah'a hamd olsun' ve reisin üzerine üfledi, o da zincirinden kurtulmuş gibi oldu, ayağa kalktı ve yürümeye başladı, hastalık belirtisi göstermedi. Anlaştıkları ücreti onlara verdiler. İçlerinden bazıları (yani sahabeler) kazançlarını aralarında bölmeyi önerdiler, ancak okuma yapan kişi, \"Bölmeyin, önce Peygamber (ﷺ)'e gidelim ve tüm hikayeyi ona anlatıp, onun emrini bekleyelim,\" dedi. Böylece Allah'ın Resulü (ﷺ)'ne gittiler ve hikayeyi anlattılar. Allah'ın Resulü (ﷺ) sordu, \"Fatiha Suresi'nin Ruqya olarak okunduğunu nasıl öğrendiniz?\" Sonra ekledi, \"Doğru yapmışsınız. (Kazandıklarınızı) bölün ve benim için de bir pay ayırın.\" Peygamber (ﷺ) buna gülümsedi."
+    },
+    {
+      "id": 17,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "---"
+    },
+    {
+      "id": 18,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir: Abu Taiba, Peygamber (ﷺ)'e hacamat yaptığında, Peygamber (ﷺ) ona bir veya iki Sa gıda maddesi ödenmesini emretti ve o, sahiplerinden vergilerini azaltmaları için arabuluculuk yaptı."
+    },
+    {
+      "id": 19,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "---"
+    },
+    {
+      "id": 20,
+      "narrator": "Narrated Anas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) hacamat yaptırdığında, ona hacamat yapan adama ücretini ödedi."
+    },
+    {
+      "id": 21,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "---"
+    },
+    {
+      "id": 22,
+      "narrator": "Narrated Abu Mas`ud Al-Ansari:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) hacamat yaptırdığında, ona hacamat yapan adama ücretini ödedi. Eğer bu hoş karşılanmayan bir şey olsaydı, ona ödemezdi."
+    },
+    {
+      "id": 23,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "---"
+    },
+    {
+      "id": 24,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "Anas'tan rivayet edilmiştir: Peygamber (ﷺ) hacamat yaptırırdı ve hiçbir kişinin ücretini asla geri çevirmezdi."
+    },
+    {
+      "id": 25,
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "---"
+    }
+  ]
+}

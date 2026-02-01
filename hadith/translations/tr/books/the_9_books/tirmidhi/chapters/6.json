@@ -1,0 +1,381 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 73,
+    "arabic": {
+      "title": "سنن الترمذي",
+      "author": "الإمام محمد بن عيسى الترمذي"
+    },
+    "english": {
+      "title": "Jami at-Tirmidhi",
+      "author": "Imam Muhammad ibn Isa at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Ibn Umar narrated:",
+      "text": "İbn Ömer rivayet etti: \"Peygamberle, Ebu Bekir, Ömer ve Osman ile seyahat ettim; onlar Zuhr ve Asr'ı iki Rek'at olarak kılarlardı, ne onlardan önce ne de sonra namaz kılmazlardı.\" İbn Ömer dedi ki: \"Eğer ondan önce veya sonra kılacak olsaydım, onu tam kılardım.\""
+    },
+    {
+      "id": 2,
+      "narrator": "Abu An-Nadrah said:",
+      "text": "Ebu En-Nadrah dedi ki: \"İmran bin Hüsayn'a yolcu namazı hakkında soruldu. O dedi ki: 'Ben Allah Resulü ile Hac yaptım, o iki Rek'at kıldı. Ebu Bekir ile Hac yaptım, o iki Rek'at kıldı; Ömer ile Hac yaptım, o iki Rek'at kıldı; Osman ile altı yıl veya sekiz yıl Halifeliği boyunca Hac yaptım, o da iki Rek'at kıldı.'\""
+    },
+    {
+      "id": 3,
+      "narrator": "Anas bin Malik narrated:",
+      "text": "Enes bin Malik rivayet etti: \"Peygamberle birlikte Medine'de Zuhr'ı dört Rek'at kıldık, Asr'ı ise Dhil-Hulaifah'ta iki Rek'at kıldık.\""
+    },
+    {
+      "id": 4,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "İbn Abbas rivayet etti: \"Peygamber, Medine'den Mekke'ye gitti, Allah'tan başka hiç kimseden korkmadan, ve iki Rek'at namaz kıldı.\""
+    },
+    {
+      "id": 5,
+      "narrator": "Yahya bin Abi Ishaq Al-Hadrami narrated :",
+      "text": "Yahya bin Ebi İshak El-Hadrami rivayet etti: Anes bin Malik dedi ki: \"Biz Allah Resulü ile Medine'den Mekke'ye gittik, o iki Rek'at kıldı.\" Dedi ki: \"Ben Anes'e dedim: 'Allah Resulü Mekke'de ne kadar kaldı?' O dedi ki: 'On (gün).'\""
+    },
+    {
+      "id": 6,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "İbn Abbas rivayet etti: \"Allah Resulü bir yolculuğa çıktı ve on dokuz gün boyunca iki Rek'at kıldı.\" İbn Abbas dedi ki: \"Biz bir yerde on dokuz gün kaldığımızda iki Rek'at kılardık, eğer ondan daha uzun kalırsak, namazı tam kılardık.\""
+    },
+    {
+      "id": 7,
+      "narrator": "Al-Bara bin Azib said:",
+      "text": "El-Bara bin Azib dedi ki: \"Ben Allah Resulü ile on sekiz yolculuk yaptım ve Zuhr'dan önce güneşin batmasından dolayı iki Rek'atı terk ettiğini görmedim.\""
+    },
+    {
+      "id": 8,
+      "narrator": "Ibn Umar narrated:",
+      "text": "İbn Ömer rivayet etti: \"Peygamberle birlikte bir yolculukta Zuhr'ı iki Rek'at kıldım, ardından iki Rek'at daha kıldım.\""
+    },
+    {
+      "id": 9,
+      "narrator": "Ibn Umar narrated:",
+      "text": "İbn Ömer rivayet etti: \"Peygamberle hem ikamet ederken hem de yolculukta namaz kıldım. İkamet ederken onunla birlikte Zuhr'ı dört Rek'at kıldım, ardından iki Rek'at daha kıldım. Yolculukta onunla birlikte Zuhr'ı iki Rek'at kıldım ve ardından iki Rek'at daha kıldım, Asr için iki Rek'at kıldım ve ondan sonra hiçbir şey kılmadı. İkamet ederken ve yolculukta Maghrib aynıdır; üç Rek'at, ikamet ederken de yolculukta da eksilmez. O günün Witr'idir ve ardından iki Rek'at vardır.\""
+    },
+    {
+      "id": 10,
+      "narrator": "Mu'adh bin Jabal narrated:",
+      "text": "Mu'adh bin Cebel rivayet etti: \"Peygamber Tabuk Savaşı'ndayken, eğer güneşin batmasından önce ayrılmak isterse, Zuhr'u geciktirir, böylece Asr ile birlikte kılabilirdi. Eğer güneşin batmasından sonra ayrılmak isterse, Asr'ı Zuhr'a alır, Zuhr ve Asr'ı birlikte kılar ve sonra hareket ederdi. Eğer Maghrib'den önce ayrılmak isterse, Maghrib'i geciktirir, böylece İsha ile birlikte kılardı; eğer Maghrib'den sonra ayrılmak isterse, İsha'yı acele ettirir, böylece onu Maghrib ile birlikte kılardı.\""
+    },
+    {
+      "id": 11,
+      "narrator": "[(Another chain) Qutaibah narrated :",
+      "text": "[(Başka bir zincir) Kütaybe bu Hadisi bize rivayet etti, yani Mu'adh'ın Hadisi.]"
+    },
+    {
+      "id": 12,
+      "narrator": "Nafi narrated:",
+      "text": "Nafi rivayet etti: \"İbn Ömer, eşlerinden birine acil olarak gitmesi istendiği için yolda acele etti ve Maghrib'i alacakaranlık kaybolana kadar geciktirdi, sonra onları birleştirmek için indi. Sonra onlara, Allah Resulü'nün bir yolculukta acele ettiğinde bunu yaptığını bildirdi.\""
+    },
+    {
+      "id": 13,
+      "narrator": "Abbad bin Tamim narrated from his uncle:",
+      "text": "Abbad bin Tamim, amcasından rivayet etti: \"Allah Resulü, yağmur istemek için halkla birlikte çıktı. Onlara iki Rek'at namaz kıldırdı, yüksek sesle okudu, üst örtüsünü sardı, ellerini kaldırarak yağmur istedi ve Kıble'ye yöneldi.\""
+    },
+    {
+      "id": 14,
+      "narrator": "Umair, the freed slave of Abi Al-Lahm narrated from Abi Al-Lahm that :",
+      "text": "Umair, Ebu Lahm'ın freedman'ı, Ebu Lahm'dan rivayet etti: \"O, Allah Resulü'nü Ahjar Az-Zait'te yağmur istemek için dua ederken gördü ve ellerini dua için kaldırıyordu.\""
+    },
+    {
+      "id": 15,
+      "narrator": "It is narrated from Hisham bin Ishaq - and he was from Ibn Abdullah bin Kinanah - from his father who said:",
+      "text": "Hişam bin İshak'tan -o da İbn Abdullah bin Kinanah'tan- babasından rivayet edildi ki: \"Al-Walid bin Ukbe, Medine valisi, beni İbn Abbas'a, Allah Resulü'nün Salat Al-Istisqa'yı nasıl kıldığını sormak için gönderdi. Ona geldim ve o dedi ki: 'Allah Resulü, mütevazı bir elbiseyle, alçakgönüllü olarak, dua ederek Musalla'ya ulaşana kadar çıkar. Bu sizin hutbeniz gibi bir hutbe vermez, aksine Takbir getirerek dua etmeye ve yalvarmaya devam eder ve iki Rek'at kılar, tıpkı Eid namazı gibi.'\""
+    },
+    {
+      "id": 16,
+      "narrator": "(Another chain) from Hisham bin Ishaq bin Abdullah bin Kinanah, from his father, :",
+      "text": "(Başka bir zincir) Hişam bin İshak bin Abdullah bin Kinanah'dan, babasından: benzer bir rivayet aktardı ve buna \"alçakgönüllülükle\" ifadesini ekledi."
+    },
+    {
+      "id": 17,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "İbn Abbas rivayet etti: \"Peygamber, güneş tutulması sırasında namaz kıldı. Kur'an okudu, sonra rükû yaptı, sonra tekrar okudu, sonra rükû yaptı, sonra tekrar okudu, sonra rükû yaptı. (üç kez), ardından iki secde yaptı ve sonraki (rak'at) da aynıydı.\""
+    },
+    {
+      "id": 18,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe rivayet etti: \"Güneş, Allah'ın Elçisi'nin zamanında tutuldu, bu yüzden Allah'ın Elçisi insanlara namaz kıldırdı. Uzun bir okuma yaptı, sonra uzun bir rükû yaptı, sonra başını kaldırdı ve ilkinden daha kısa bir uzun okuma yaptı. Ardından ilkinden daha kısa bir uzun rükû yaptı. Sonra başını kaldırdı ve secde etti. İkinci rak'atta da (buna benzer) yaptı.\""
+    },
+    {
+      "id": 19,
+      "narrator": "Samurah bin Jundah narrated:",
+      "text": "Semure bin Cundub rivayet etti: \"Peygamber, bir güneş tutulması sırasında bize namaz kıldırdı; sesini duymadık.\""
+    },
+    {
+      "id": 20,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe rivayet etti: \"Peygamber, güneş tutulması namazını kıldı ve onu yüksek sesle okudu.\""
+    },
+    {
+      "id": 21,
+      "narrator": "Salim narrated from his father:",
+      "text": "Salim, babasından rivayet etti: \"Peygamber, Salat Al-Khawf'ı kıldı; iki gruptan biriyle bir rak'at kıldı, diğer grup düşmana karşı duruyordu. (İlk grup onunla birlikte bir rak'atı tamamladığında), gidip (düşmana karşı duran ikinci grubun yerini aldılar). Sonra ikinci grup geldi ve onlara başka bir rak'at kıldırdı, ardından onlara selam verdi, grup (ikinci) rak'atlarını tamamlamak için devam etti. Daha sonra, ilk grup (ikinci) rak'atlarını tamamlamak için ayağa kalktı.\""
+    },
+    {
+      "id": 22,
+      "narrator": "Sahl bin Abi Hathmah said about Salat Al-Khawf:",
+      "text": "Sahl bin Ebi Hathmah, Salat Al-Khawf hakkında şöyle dedi: \"İmam, Kıble'ye dönerek bir grup onunla birlikte dururken, bir grup düşmana karşı duruyor. Onlara bir rak'at kıldırır ve onlar kendi başlarına rükû yaparlar, yerlerinde iki secde yaparlar. Sonra diğerlerinin yerini almak için giderler ve diğerleri (namaz için) gelir. O (imam), onlarla bir rak'at için rükû yapar ve onlarla iki secde yapar. Bu, onun için iki ve onlar için bir olur, ardından bir rükû ve iki secde yaparlar.\""
+    },
+    {
+      "id": 23,
+      "narrator": "(Abu Eisa said:",
+      "text": "(Ebu Eysa dedi ki:) Muhammed bin Başhar şöyle dedi: \"Bu Hadis hakkında Yahya bin Sa'id'e (no. 565'teki raviler) sordum. O da bunu bana Şu'bah'tan, Abdurrahman bin el-Kasım'dan, babasından, Salih bin Havvat'tan, Sahl bin Ebi Hathmah'tan, Peygamber'den, Yahya bin Sa'id el-Ensari'nin Hadisi ile aynı şekilde aktardı. O (Yahya) bana şöyle dedi: 'Bunu yanına yaz.' Ancak Hadisi daha iyi ezberlemedi, aslında bu, Yahya bin Sa'id el-Ensari'nin Hadisi ile aynıdır.\" (no. 565 ile benzer bir Hadis, farklı bir raviler zinciri ile)"
+    },
+    {
+      "id": 24,
+      "narrator": "It was reported by Malik from Yazid bin Ruman, :",
+      "text": "Malik, Yazid bin Ruman'dan, Salih bin Havvat'tan, Peygamber ile Salat Al-Khawf kılan birinden, benzer bir rivayet aktardı."
+    },
+    {
+      "id": 25,
+      "narrator": "Abu Ad-Darda narrated:",
+      "text": "Ebu Derdâ rivayet etti: \"Allah'ın Elçisi ile birlikte on bir secde (okuma secdesi) yaptım, bunlar arasında En-Necm Suresi'ndeki secde de vardı.\""
+    },
+    {
+      "id": 26,
+      "narrator": "(Another chain in which) Abu Ad-Darda narrated:",
+      "text": "(Başka bir zincirle) Ebu Derdâ rivayet etti: \"Allah'ın Elçisi ile birlikte on bir secde yaptım, bunlar arasında En-Necm Suresi'ndeki secde de vardı.\""
+    },
+    {
+      "id": 27,
+      "narrator": "Mujahid narrated:",
+      "text": "Mücahid rivayet etti: \"İbn Ömer ile birlikteydik, o dedi ki: 'Allah'ın Elçisi şöyle dedi: \"Kadınların geceleyin mescitlere gitmelerine izin verin.\" Oğul dedi ki: 'Vallahi! Onların gitmelerine izin vermeyeceğiz, yoksa onlardan sinsi bir şey çıkar.' Bunun üzerine o (Abdullah) şöyle karşılık verdi: 'Allah sizinle böyle yapsın.' Ben diyorum: \"Allah'ın Elçisi şöyle dedi,\" ve siz diyorsunuz: \"Onların gitmelerine izin vermiyoruz?\""
+    },
+    {
+      "id": 28,
+      "narrator": "Tariq bin Abdullah Al-Muharibi narrated that :",
+      "text": "Tariq bin Abdullah el-Muharibi rivayet etti ki: Allah'ın Elçisi şöyle dedi: \"Namazda iken sağınıza tükürmeyin, arkanıza veya solunuza, ya da sol ayağınızın altına tükürün.\""
+    },
+    {
+      "id": 29,
+      "narrator": "Anas bin Malik narrated that :",
+      "text": "Enes bin Malik rivayet etti ki: Allah'ın Elçisi şöyle dedi: \"Mescitte tükürmek bir günahtır ve onu gömmek kefareti olur.\""
+    },
+    {
+      "id": 30,
+      "narrator": "Abu Hurairah narrated:",
+      "text": "Ebu Hureyre rivayet etti: \"Allah'ın Elçisi ile birlikte 'Oku! Rabbinin adıyla' ve 'Gök yarıldığı zaman' ayetlerinde secde ettik.\""
+    },
+    {
+      "id": 31,
+      "narrator": "(Another chain in which) Abu Hurairah narrated :",
+      "text": "(Başka bir isnadla) Ebu Hureyre, Peygamber'den benzer şekilde nakletti."
+    },
+    {
+      "id": 32,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "---"
+    },
+    {
+      "id": 33,
+      "narrator": "Zaid bin Thabit narrated:",
+      "text": "İbn Abbas rivayet etti: \"Allah'ın Elçisi, (Necm Suresi'nde) bunun için secde etti ve Müslümanlar, müşrikler, cinler ve insanlar da secde ettiler.\""
+    },
+    {
+      "id": 34,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "---"
+    },
+    {
+      "id": 35,
+      "narrator": "Uqbah bin Amir narrated:",
+      "text": "Zeyd bin Sabit rivayet etti: \"Ben, Allah'ın Elçisi'ne Necm Suresi'ni okudum ve o, bunun için secde etmedi.\""
+    },
+    {
+      "id": 36,
+      "narrator": "Al-Hasan bin Muhammad bin Ubaidullah bin Abi Yazid said:",
+      "text": "---"
+    },
+    {
+      "id": 37,
+      "narrator": "Aisha narrated:",
+      "text": "İbn Abbas rivayet etti: \"Ben, Allah'ın Elçisi'ni Sad Suresi için secde ederken gördüm.\" İbn Abbas dedi ki: \"Bu, kesin secdelerden biri değildir.\""
+    },
+    {
+      "id": 38,
+      "narrator": "Umar bin Al-Khattab narrated that :",
+      "text": "---"
+    },
+    {
+      "id": 39,
+      "narrator": "Abu Hurairah narrated:",
+      "text": "Ukbe bin Amir rivayet etti: \"Ben dedim: 'Ey Allah'ın Elçisi! Hac Suresi iki secde ile mi yüceltilmiştir?' O dedi ki: 'Evet, ve kim bunlar için secde etmezse, onları okumamalıdır.'\""
+    },
+    {
+      "id": 40,
+      "narrator": "Jabir bin Abdullah narrated:",
+      "text": "---"
+    },
+    {
+      "id": 41,
+      "narrator": "Anas bin Malik narrated:",
+      "text": "Hasan bin Muhammed bin Ubeydullah bin Ebi Yazid dedi ki: İbn Juraij bana dedi: Ey Hasan! Ubeydullah bin Ebi Yazid bana bildirdi ki İbn Abbas dedi: \"Bir adam Peygamber'e geldi ve dedi ki: 'Ey Allah'ın Elçisi! Gece rüyamda bir ağacın arkasında namaz kıldığımı gördüm, secde ettiğimde ağaç da benimle birlikte secde etti. Sonra onun şöyle dediğini duydum: (Allahummaktuh li biha indaka ajran, wad a anni biha wizran, waj'alha li biha indaka dhukhran, wa taqabbalha minni kama taqabbaltaha min abdiki Dawud.)' (Ey Allah! Bunun için senin katında benim için bir sevap yaz, bununla benden bir günahı kaldır, bunu senin katında benim için bir hazine yap ve bunu benden, kulların Davud'tan kabul ettiğin gibi kabul et.) Hasan dedi ki: \"İbn Juraij bana dedi: 'Senin deden bana dedi ki: 'İbn Abbas dedi: 'Böylece Peygamber, (bir ayet) secde okudu ve secde etti.'\" (O dedi ki) \"Böylece İbn Abbas dedi: 'Ben onu dinledim ve o, adamın ağaçla ilgili bildirdiği şeyi söylüyordu.'\""
+    },
+    {
+      "id": 42,
+      "narrator": "Jabir bin Samurah narrated:",
+      "text": "---"
+    },
+    {
+      "id": 43,
+      "narrator": "Anas bin Malik narrated that :",
+      "text": "Aişe rivayet etti: \"Allah'ın Elçisi, Kur'an'ı okurken secde ettiğinde şöyle derdi: (Sajada wajhiya lilladhi khalaqahu wa shaqqa sam'ahu wa basarahu bihawlihi wa quwwatihi.) (Yüzümü, onu yaratan, işitme ve görme yetisini O'nun kudretiyle ve gücüyle yaratanın önünde secde ettim.)\""
+    },
+    {
+      "id": 44,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "---"
+    },
+    {
+      "id": 45,
+      "narrator": "Sa'eed bin Abi Hind narrated from some of the companions of Ikrimah:",
+      "text": "Ömer bin Hattab rivayet etti ki: Allah'ın Elçisi dedi: \"Kim uyursa, (bir bölümünü veya tamamını) kaçırırsa, sonra Fajr namazı ile Zuhr namazı arasında onu okursa, onun için gece okumuş gibi yazılır.\""
+    },
+    {
+      "id": 46,
+      "narrator": "Anas narrated:",
+      "text": "Anas rivayet etti: \"Allah'ın Resulü bana şöyle dedi: 'Ey oğlum! Salat sırasında etrafa bakmaktan sakın, çünkü Salat sırasında etrafa bakmak helak olmaktır. Eğer bakmak zorundaysanız, o zaman nafile (namazlarda) bakın, farz (namazlarda) değil.'\" (Da'if)"
+    },
+    {
+      "id": 47,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe rivayet etti: \"Ben Allah'ın Resulüne Salat sırasında etrafa bakmayı sordum. O da: 'Bu, şeytanın bir insanın namazı sırasında kapıp gittiği bir parçadır.' dedi.\""
+    },
+    {
+      "id": 48,
+      "narrator": "Mu'adh bin Jabal narrated that :",
+      "text": "Muaz bin Cebel rivayet etti ki: Allah'ın Resulü şöyle dedi: \"Sizden biri Salat'a geldiğinde ve (imamı) bir pozisyonda bulursa, o zaman imamın yaptığı gibi yapsın.\""
+    },
+    {
+      "id": 49,
+      "narrator": "Abdullah bin Abi Qatadah narrated from his father that :",
+      "text": "Abdullah bin Ebi Katade, babasından rivayet etti ki: Allah'ın Resulü şöyle dedi: \"Namaz için ikamet getirildiğinde, ben dışarı çıkana kadar durmayın.\""
+    },
+    {
+      "id": 50,
+      "narrator": "Abdullah said:",
+      "text": "Abdullah dedi ki: \"Ben namaz kıldım ve Peygamber, Ebu Bekir ve Ömer oradaydı, ben oturduğumda Allah'ı övmeye başladım, sonra Peygamber'e Salat gönderdim, ardından kendim için dua ettim. Bunun üzerine Peygamber: 'İste, isteğin kabul edilecektir, iste, isteğin kabul edilecektir.' dedi.\""
+    },
+    {
+      "id": 51,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe rivayet etti: \"Peygamber, her durda mescidlerin inşa edilmesini ve onların temiz ve güzel kokulu tutulmasını emretti.\""
+    },
+    {
+      "id": 52,
+      "narrator": "(Another chain) from Hisham bin Urwah, from his father:",
+      "text": "(Başka bir isnat) Hişam bin Urve'den, babasından: \"Peygamber emretti.\" ve benzerini zikretti."
+    },
+    {
+      "id": 53,
+      "narrator": "(Another chain) from Hisham from Urwah, from his father:",
+      "text": "(Başka bir isnat) Hişam'dan Urve, babasından: \"Peygamber emretti.\" ve benzerini zikretti."
+    },
+    {
+      "id": 54,
+      "narrator": "Ibn Umar narrated that :",
+      "text": "İbn Ömer rivayet etti ki: Peygamber şöyle dedi: \"Gece ve gündüzdeki Salat iki ve iki (rak'at) dir.\""
+    },
+    {
+      "id": 55,
+      "narrator": "Asim bin Damrah said:",
+      "text": "Asim bin Damrah dedi ki: \"Ali'ye Allah'ın Resulünün gündüz namazı hakkında sorduk. O da: 'Bunu yapamazsınız.' dedi. Biz de: 'İçimizden yapabilen kimdir?' dedik. O da: 'Güneş orada (doğuda) göründüğünde (öğle) burada (batıda) Asr'da göründüğü gibi, Allah'ın Resulü iki rek'at kılardı, ve güneş orada (doğuda) göründüğünde (öğle) burada (batıda) dört rek'at kılardı. Ve öğle namazından önce dört, sonra iki rek'at kılardı, ve Asr'dan önce dört rek'at kılar, her iki rek'at arasında Allah'a yakın olan melekler üzerine selam vererek ve onlara uyan müminler ve Müslümanlar üzerine selam vererek ayırırdı.'\""
+    },
+    {
+      "id": 56,
+      "narrator": "(Another chain) from Ali :",
+      "text": "(Başka bir isnat) Ali'den: Peygamberden benzer şekilde (no. 598)."
+    },
+    {
+      "id": 57,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe rivayet etti: \"Allah'ın Resulü kadın örtülerinde namaz kılmazdı.\""
+    },
+    {
+      "id": 58,
+      "narrator": "Urwah narrated that Aishah said:",
+      "text": "Urve rivayet etti ki Aişe şöyle dedi: \"Ben, Allah'ın Resulü evde namaz kılarken kapının kapalı olduğu bir sırada geldim. O da yürüyerek kapıyı açtı, sonra yerine döndü.\" Ve kapının kıble yönünde olduğunu tarif etti."
+    },
+    {
+      "id": 59,
+      "narrator": "Abu Wa'il said:",
+      "text": "Ebu Vail dedi ki: \"Bir adam Abdullah bin Mes'ud'a bu ifadeyi sordu: 'Ghayri asin' mi yoksa Yasin mi? O da: 'Bu dışında Kur'an'ın tamamını okuyabilirsin mi?' dedi. O da: 'Evet.' dedi. O da: 'Gerçekten bir topluluk bunu okuyor, Ad-Daqqa gibi dağıtarak, boğazlarından geçmeden. Gerçekten ben, Allah'ın Resulünün birlikte okuduğu kıraatleri biliyorum.' dedi.\" Dedi ki: \"Biz Alqamah'a onlardan sormasını söyledik. O da: 'Peygamberin bir araya getirdiği Mufassal'dan yirmi sure, her iki sureyi bir rek'atta okuyarak.' dedi.\""
+    },
+    {
+      "id": 60,
+      "narrator": "Abu Hurairah narrated that :",
+      "text": "Ebu Hureyre rivayet etti ki: Peygamber şöyle dedi: \"Bir adam abdest aldığında ve abdestini güzelce aldığında, sonra Salat'a gittiğinde, ve o, sadece bunun için gitmediyse - ya da o, bir arzu hissetmediğini söyledi - o zaman attığı her adımda Allah onu bir derece yükseltir veya ondan bir günahı kaldırır.\""
+    },
+    {
+      "id": 61,
+      "narrator": "Sa'd bin Ishaq bin Ka'b bin Ujrah narrated from his father from his grandfather who said:",
+      "text": "Sa'd bin İshak bin Ka'b bin Ujrah, babasından, o da dedesinden nakletti ki: \"Peygamber, Banu Abdul-Ashbal Mescidi'nde Maghrib namazı kıldı ve bazı insanlar nafile namaz kılmak için ayağa kalktılar, bunun üzerine Peygamber: 'Bu Salat'ı evlerinizde kılmalısınız.' dedi.\""
+    },
+    {
+      "id": 62,
+      "narrator": "Qais bin Asim narrated that:",
+      "text": "Kays bin Asim, İslam'ı kabul ettiğini ve Peygamber'in ona su ve sidr ile gusül yapmasını emrettiğini nakletti."
+    },
+    {
+      "id": 63,
+      "narrator": "Ali bin Abi Talid (may Allah be pleased with him) narrated that :",
+      "text": "Ali bin Ebu Talib (Allah ondan razı olsun) şöyle nakletti: \"Allah'ın Elçisi şöyle dedi: 'Cinnlerin gözleri ile Adem oğullarının çıplaklığı arasındaki perde, sizden biri tuvalet alanına girdiğinde 'Bismillah' demektir.'\""
+    },
+    {
+      "id": 64,
+      "narrator": "Abdullah bin Busr narrated that :",
+      "text": "Abdullah bin Busr, Peygamber'in şöyle dediğini nakletti: \"Kıyamet gününde, benim ümmetim secde izlerinden parlayacak ve abdestten dolayı ışıldayacaktır.\""
+    },
+    {
+      "id": 65,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe, \"Allah'ın Elçisi, kendini temizlerken, tararken ve terliklerini giyerken sağ tarafla başlamayı severdi.\" diye nakletti."
+    },
+    {
+      "id": 66,
+      "narrator": "Anas bin Malik narrated that :",
+      "text": "Enes bin Malik, \"Allah'ın Elçisi şöyle dedi: Kabul edilen abdest, iki ratil su ile yapılır.\" diye nakletti."
+    },
+    {
+      "id": 67,
+      "narrator": "Ali bin Abi Talib (may Allah be pleased with him) narrated that :",
+      "text": "Ali bin Ebu Talib (Allah ondan razı olsun) şöyle nakletti: \"Allah'ın Elçisi, emziren bir erkek çocuğun idrarı hakkında şöyle dedi: 'Erkek çocuğun idrarı serpilir, kız çocuğunun idrarı ise yıkanır.' Kâtade (rivayet edenlerden biri) dedi ki: 'Bu böyledir, onlar yemediği sürece; eğer yerlerse, her ikisi de yıkanır.'\""
+    },
+    {
+      "id": 68,
+      "narrator": "[Shahr bin Hawshab said:",
+      "text": "[Şahr bin Hawşab dedi ki: \"Jarir bin Abdullah'ı abdest alırken ve mestinin üzerine meshederken gördüm.\" Dedi ki: \"Ona: 'Bu nedir?' diye sordum. O da: 'Peygamber'i abdest alırken gördüm ve mestinin üzerine meshetti.' dedi. Ben de: 'Al-Ma'idah'tan önce mi, sonra mı?' dedim. O da: 'Ben Al-Ma'idah'tan sonra İslam'ı kabul ettim.' dedi.\"]"
+    },
+    {
+      "id": 69,
+      "narrator": "Shahr bin Hawshab said:",
+      "text": "Şahr bin Hawşab dedi: (Başka bir isnad) Halid bin Ziyad'dan benzer şekilde."
+    },
+    {
+      "id": 70,
+      "narrator": "Ammar narrated:",
+      "text": "Ammar, \"Peygamber, Junub olan kişinin yemek, içmek veya uyumak istediğinde, Salat için olan abdest gibi abdest almasına izin verdi.\" diye nakletti."
+    },
+    {
+      "id": 71,
+      "narrator": "Ka'b bin Ujrah narrated:",
+      "text": "Ka'b bin Ujrah, \"Allah'ın Elçisi bana şöyle dedi: 'Ey Ka'b bin Ujrah, Allah'a sığınırım, benden sonra gelecek liderden. Kapılarına gelip yalanlarını onaylayan ve zulümlerine destek olan kimse benden değildir ve ben de ondan değilim, o Havuz'da benimle buluşmayacaktır. Kapılarına gelen, ya da gelmeyen ve yalanlarını onaylamayan ve zulümlerine destek olmayan kimse bendedir ve ben de ondanım, o Havuz'da benimle buluşacaktır. Ey Ka'b bin Ujrah! Namaz açık bir delildir, oruç (sawm) sağlam bir kalkan, sadaka (zekat) ise günahları söndüren su gibidir. Ey Ka'b bin Ujrah! Harama dayanan bir et yoktur ki, ateş ona daha uygun olmasın.'\""
+    },
+    {
+      "id": 72,
+      "narrator": "Muhammad said:",
+      "text": "Muhammed dedi ki: \"İbn Numair, bize Ubaidullah bin Musa'dan, Ghalib'ten bu (Hadis) ile nakletti.\""
+    },
+    {
+      "id": 73,
+      "narrator": "Sulaim bin Amir narrated:",
+      "text": "Süleyman bin Amir, \"Abu Umamah'ın şöyle dediğini duydum: Allah'ın Elçisi'nin Veda Haccı sırasında bir hutbe verirken şöyle dediğini duydum: 'Rabbinize karşı takva sahibi olun, beş (namazınızı) kılın, ayınızı oruçlu geçirin, malınızdan zekatınızı verin ve üzerinizdeki yöneticilere itaat edin, Rabbinizin cennetine gireceksiniz.'\" Dedi ki: \"Ben Abu Umamah'a: 'Bu Hadisi (Allah'ın Elçisi'nden) duyduğunuzda kaç yaşındaydınız?' dedim. O da: 'Bunu otuz yaşımda duydum.' dedi.\""
+    }
+  ]
+}

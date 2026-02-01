@@ -1,0 +1,1231 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 243,
+    "arabic": {
+      "title": "مشكاة المصابيح",
+      "author": "الخطيب التبريزي"
+    },
+    "english": {
+      "title": "Mishkat al-Masabih",
+      "author": "Al-Khatib al-Tabrizi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "",
+      "text": "Ebu Musa, Allah'ın elçisinin şöyle söylediğini bildirdi: \"Açları doyurun, hastaları ziyaret edin ve esirleri serbest bırakın.\""
+    },
+    {
+      "id": 2,
+      "narrator": "Abu Huraira reported God’s messenger as saying, “A Muslim has five duties towards another Muslim:",
+      "text": "Buhari bunu aktarmıştır."
+    },
+    {
+      "id": 3,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 4,
+      "narrator": "Al-Bara’ b. ‘Azib said :",
+      "text": "Ebu Hureyre, Allah'ın elçisinin şöyle söylediğini bildirdi: \"Bir Müslümanın diğer bir Müslüman üzerinde beş görevi vardır: selamı iade etmek, hastaları ziyaret etmek, cenazaları takip etmek, davetleri kabul etmek ve biri hapşırdığında 'Allah sana rahmet etsin' demektir.\""
+    },
+    {
+      "id": 5,
+      "narrator": "",
+      "text": "(Buhari ve Müslim.)"
+    },
+    {
+      "id": 6,
+      "narrator": "Abu Huraira reported God’s messenger as saying:",
+      "text": "---"
+    },
+    {
+      "id": 7,
+      "narrator": "",
+      "text": "O, Allah'ın elçisinin şöyle söylediğini bildirdi: \"Bir Müslümanın diğer bir Müslüman üzerinde altı görevi vardır.\" Ne oldukları sorulduğunda, \"Onunla karşılaştığında selam ver; seni davet ettiğinde kabul et; sana danıştığında ona danış; hapşırdığında ve Allah'ı övdüğünde 'Allah sana rahmet etsin' de; hasta olduğunda ziyaret et; ve öldüğünde cenazesine katıl.\" diye cevap verdi."
+    },
+    {
+      "id": 8,
+      "narrator": "‘A’isha said:",
+      "text": "Müslim bunu aktarmıştır."
+    },
+    {
+      "id": 9,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 10,
+      "narrator": "",
+      "text": "El-Bara' b. Azib dedi ki: Peygamber bize yedi emir ve yedi yasak verdi. Bize hastaları ziyaret etmeyi, cenazaları takip etmeyi, biri hapşırdığında 'Allah sana rahmet etsin' demeyi, selamları iade etmeyi, davetleri kabul etmeyi, insanların yeminlerini yerine getirmelerine yardımcı olmayı ve mazlumlara yardım etmeyi emretti; altın yüzükleri, ipek, kalın brokar, işlemeli ipek, eyer üzerine konulan kırmızı dolgu, Qassi elbiseleri (Mısır'da al-'Arish ile al-Farama arasında bulunan Qass isimli yerden gelen keten ve ham ipekten yapıldığı söylenir. Başka bir öneri ise adın qazzi'den değiştiği ve ipek anlamına geldiğidir.) ve gümüş kapları yasakladı. Bir rivayette gümüş kaplardan içmenin yasak olduğu, çünkü bu dünyada onlardan içenlerin ahirette onlardan içemeyecekleri belirtilmiştir."
+    },
+    {
+      "id": 11,
+      "narrator": "",
+      "text": "(Buhari ve Müslim.)"
+    },
+    {
+      "id": 12,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 13,
+      "narrator": "",
+      "text": "Thauban, Allah'ın elçisinin şöyle söylediğini bildirdi: \"Bir Müslüman, kardeş Müslümanını ziyaret ettiğinde cennetin meyvelerini toplamaya devam eder, ta ki geri dönene kadar.\""
+    },
+    {
+      "id": 14,
+      "narrator": "",
+      "text": "Müslim bunu aktarmıştır."
+    },
+    {
+      "id": 15,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 16,
+      "narrator": "‘Abdallah b. Mas'ud said:",
+      "text": "Abdullah b. Mes'ud dedi ki: Ben, Peygamberi ziyarete gittiğimde ateşten bitkin düşmüştü, ona elimi dokundurarak, “Ey Allah'ın elçisi, gerçekten ateşten çok bitkin düşmüşsün.” dedim. Peygamber şöyle cevap verdi: “Evet, ben sizlerden iki kat daha bitkinim.” Ben de, “Bu, senin iki kat ödül almandandır.” dedim. O da bunun doğru olduğunu söyledi ve ardından, “Hiçbir Müslüman, hastalık veya başka bir şey gibi bir yaralanma ile karşılaşmaz ki, Allah bununla onun günahlarını dökmesin; tıpkı bir ağacın yapraklarını dökmesi gibi.” dedi."
+    },
+    {
+      "id": 17,
+      "narrator": "",
+      "text": "(Buhari ve Müslim.)"
+    },
+    {
+      "id": 18,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 19,
+      "narrator": "",
+      "text": "Aişe, Allah'ın elçisinden daha şiddetli bir acı çeken kimse görmediğini söyledi."
+    },
+    {
+      "id": 20,
+      "narrator": "",
+      "text": "(Buhari ve Müslim.)"
+    },
+    {
+      "id": 21,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 22,
+      "narrator": "",
+      "text": "O dedi ki, “Peygamber, benim göğsüm ile köprücük kemiklerim arasında yatarak vefat etti. Peygamberin çektiği acılardan sonra, birinin acı bir ölüm yaşamasına asla üzülmeyeceğim.”"
+    },
+    {
+      "id": 23,
+      "narrator": "",
+      "text": "Buhari bunu aktardı."
+    },
+    {
+      "id": 24,
+      "narrator": "Abu Huraira reported God’s messenger as saying, “There are five types of martyr:",
+      "text": "---"
+    },
+    {
+      "id": 25,
+      "narrator": "",
+      "text": "Ka'b b. Malik, Allah'ın elçisinin şöyle dediğini bildirdi: “Mümin, rüzgarlarla savrulan nazik bir bitki gibidir; bazen eğilir, bazen dik durur, ta ki belirlenen zamanı gelene kadar; fakat münafık, sağlam duran bir sedir gibidir, hiçbir şeyden etkilenmez, ta ki tamamen devrilene kadar.” (Bu hadisin anlamı, müminlerin hayatları boyunca birçok sıkıntı çektiği, münafıkların ise bunlardan kaçtığıdır.)"
+    },
+    {
+      "id": 26,
+      "narrator": "",
+      "text": "(Buhari ve Müslim.)"
+    },
+    {
+      "id": 27,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 28,
+      "narrator": "",
+      "text": "Ebu Hureyre, Allah'ın elçisinin şöyle dediğini bildirdi: “Mümin, sürekli rüzgarla savrulan bir bitki gibidir; çünkü mümin sürekli imtihanlarla karşılaşır; fakat münafık, kesilene kadar sallanmayan bir sedir gibidir.”"
+    },
+    {
+      "id": 29,
+      "narrator": "",
+      "text": "(Buhari ve Müslim.)"
+    },
+    {
+      "id": 30,
+      "narrator": "Anas reported God’s messenger:",
+      "text": "---"
+    },
+    {
+      "id": 31,
+      "narrator": "",
+      "text": "İbn Abbas, Allah'ın elçisinin şöyle söylediğini bildirmiştir: \"Hiçbir Müslüman, bir diğerini ziyaret edip yedi kez ‘Ben, yüce olan Allah'tan, yüce tahtın Rabbi'nden seni şifalandırmasını istiyorum’ demeden şifa bulamaz, eğer zamanı gelmemişse.\""
+    },
+    {
+      "id": 32,
+      "narrator": "",
+      "text": "Abu Davud ve Tirmizi bunu rivayet etmiştir."
+    },
+    {
+      "id": 33,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 34,
+      "narrator": "",
+      "text": "O, Peygamber'in ateş veya herhangi bir acı ile karşılaştıklarında onlara şöyle demeyi öğrettiğini söyledi: \"Bismillah, yüce olan Allah'a sığınırım, kanayan her damarın şerrinden ve cehennemin ateşinin şerrinden.\""
+    },
+    {
+      "id": 35,
+      "narrator": "",
+      "text": "Tirmizi bunu rivayet etti, ancak bu hadisin gharib olduğunu ve sadece İbrahim b. İsmail'in rivayetleri arasında zayıf olarak bilindiğini söyledi."
+    },
+    {
+      "id": 36,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 37,
+      "narrator": "",
+      "text": "Ebu Darda, Allah'ın elçisinin şöyle söylediğini duyduğunu bildirmiştir: \"Sizden birinin bir şikayeti varsa veya bir kardeşi ondan şikayet ederse, şöyle demelidir: ‘Ey göklerdeki Rabbimiz Allah, ismin mübarek olsun. Emirlerin göklerde ve yerde. Rahmetin göklerde olduğu gibi, rahmetini yeryüzüne de indir. Hatalarımızı ve günahlarımızı affet. Sen, iyilerin Rabbisin. Bu acıya rahmetinin ve şifanın bir kısmını indir’ ve o şifa bulacaktır.\""
+    },
+    {
+      "id": 38,
+      "narrator": "",
+      "text": "Abu Davud bunu rivayet etmiştir."
+    },
+    {
+      "id": 39,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 40,
+      "narrator": "",
+      "text": "Abdullah b. Amr, Allah'ın elçisinin şöyle söylediğini bildirmiştir: \"Bir adam hasta olan birini ziyaret ettiğinde, ‘Ey Allah, düşmanına zarar verebilecek ya da senin rızan için bir cenazeye katılabilecek olan kulunu şifa ver’ demelidir.\""
+    },
+    {
+      "id": 41,
+      "narrator": "",
+      "text": "Abu Davud bunu rivayet etmiştir."
+    },
+    {
+      "id": 42,
+      "narrator": "She said :",
+      "text": "---"
+    },
+    {
+      "id": 43,
+      "narrator": "",
+      "text": "Ali b. Zaid, Umayya'nın Aişe'ye, \"Zihinlerinizde olanı açığa vursanız da gizleseniz de, Allah sizi bununla hesaba çekecektir,\" (Kur'an, 2:284) ve \"Kim bir kötülük yaparsa, onunla karşılık görür.\" (Kur'an, 4:123) ayetleri hakkında sorduğunu aktardı. Aişe, kendisine bu ayetler hakkında kimsenin sormadığını, çünkü Allah'ın elçisine sorduğunda, \"Bu, Allah'ın kuluna, ona ateşle veya belayla verdiği bir azaptır; kaybettiği bir şey için üzüldüğü gibi, elbisesinin içine koyduğu bir şey için de üzülür. Sonuç olarak, kul günahlarından, saf altın gibi çıkar.\" şeklinde cevap verdiğini söyledi."
+    },
+    {
+      "id": 44,
+      "narrator": "",
+      "text": "Tirmizi bunu rivayet etmiştir."
+    },
+    {
+      "id": 45,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 46,
+      "narrator": "",
+      "text": "Muhammad b. Khalid es-Sulami, babasının rivayetiyle, dedesinin Allah'ın elçisinden şöyle söylediğini aktardı: \"Allah, bir kuluna daha önce bir derece takdir ettiğinde ve o kul bu dereceyi eylemleriyle elde edemediğinde, onu bedeninde, malında veya çocuklarında bir sıkıntıya uğratır. Sonra ona bu sıkıntıyı katlanma gücü verir ki, Allah tarafından daha önce takdir edilen dereceye ulaştırsın.\""
+    },
+    {
+      "id": 47,
+      "narrator": "",
+      "text": "Ahmet ve Ebu Davud bunu rivayet etmiştir."
+    },
+    {
+      "id": 48,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 49,
+      "narrator": "",
+      "text": "'Abdallah b. Şikhkhir, Allah'ın elçisinden şöyle söylediğini aktardı: \"Ademoğlu, yanında doksan dokuz imtihan ile yaratılmıştır. Eğer imtihanlar ona ulaşmazsa, yaşlılığa düşer ve ölünceye kadar devam eder.\""
+    },
+    {
+      "id": 50,
+      "narrator": "",
+      "text": "Tirmidhi bunu rivayet etti ve bunun garip bir hadis olduğunu söyledi."
+    },
+    {
+      "id": 51,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 52,
+      "narrator": "",
+      "text": "Cabir, Allah'ın elçisinden şöyle söylediğini aktardı: \"Kıyamet günü, sıkıntı çekenlere ödülleri verildiğinde, sağlıklı olanlar, dünyada iken derilerinin makasla kesilmiş olmasını dilerler.\""
+    },
+    {
+      "id": 53,
+      "narrator": "",
+      "text": "Tirmidhi bunu rivayet etti ve bunun garip bir hadis olduğunu söyledi."
+    },
+    {
+      "id": 54,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 55,
+      "narrator": "‘Ata’ b. Abu Rabah said Ibn ‘Abbas asked whether he would like him to show him a woman who would go to paradise. When he replied that he certainly would, he said:",
+      "text": "'Amir ar-Ram, Allah'ın elçisinin hastalıklardan bahsettiğini ve şöyle dediğini aktardı: \"Bir mümin hastalığa uğradığında ve Allah, yüce ve aziz olan onu bu hastalıktan iyileştirdiğinde, bu onun önceki günahları için bir kefaret olur ve geleceği için bir uyarıdır; fakat bir münafık hastalandığında ve sonra iyileştiğinde, o, sahipleri tarafından bağlı tutulmuş ve sonra serbest bırakılmış bir deve gibidir; ama neden bağlı tutulduğunu ve neden serbest bırakıldığını bilmez.\" Bir adam, Allah'ın elçisine hastalıkların ne olduğunu sordu ve yemin ederek hiç hasta olmadığını söyledi, o da: \"Kalk ve bizden ayrıl; sen bizim içimizde değilsin.\" dedi."
+    },
+    {
+      "id": 56,
+      "narrator": "",
+      "text": "Ebu Davud bunu rivayet etmiştir."
+    },
+    {
+      "id": 57,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 58,
+      "narrator": "",
+      "text": "Ebu Sa'id, Allah'ın elçisinden şöyle söylediğini aktardı: \"Bir hasta ziyarete gittiğinizde, onun uzun yaşamasını umduğunuzu ifade edin. Bu bir şeyi engellemeyecek, ama ona teselli verecektir.\""
+    },
+    {
+      "id": 59,
+      "narrator": "",
+      "text": "Tirmidhi ve İbn Mace bunu rivayet etti ve Tirmidhi bunun garip bir hadis olduğunu söyledi."
+    },
+    {
+      "id": 60,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 61,
+      "narrator": "",
+      "text": "Ebu Hureyre, ateşin Allah'ın elçisinin huzurunda zikredildiğini ve bir adamın ona sövdüğünde Peygamber'in, \"Ona sövmeyin, zira o, günahları ateşin demirin pisliğini giderdiği gibi giderir.\" dediğini rivayet etmiştir."
+    },
+    {
+      "id": 62,
+      "narrator": "",
+      "text": "İbn Mace bunu nakletmiştir."
+    },
+    {
+      "id": 63,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 64,
+      "narrator": "",
+      "text": "O, Allah'ın elçisinin ziyaret ettiği bir hasta olan bir adama, \"Moralini bozma, zira Yüce Allah şöyle buyuruyor: 'Bu, benim ateşimdir ki, onu inanan kuluma dünyada güç vererek, kıyamet gününde onun cehennem payı olması için veririm.'\" dediğini aktarmıştır."
+    },
+    {
+      "id": 65,
+      "narrator": "",
+      "text": "Ahmet, İbn Mace ve Beyhaki, Şu'ab al-iman'da bunu nakletmiştir."
+    },
+    {
+      "id": 66,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 67,
+      "narrator": "",
+      "text": "Enes, Allah'ın elçisinin, yüce ve aziz olan Rabbin şöyle dediğini bildirdi: \"Güç ve şanım üzerine, affetmeyi düşündüğüm hiç kimseyi dünyadan çıkarmayacağım, ta ki onun boynunda asılı olan her günah için bedenindeki hastalık ve rızkındaki kıtlıkla ödeme alana kadar.\""
+    },
+    {
+      "id": 68,
+      "narrator": "",
+      "text": "Razin bunu nakletmiştir."
+    },
+    {
+      "id": 69,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 70,
+      "narrator": "",
+      "text": "Şakik, 'Abdullah b. Mes'ud'u hasta olduğunda ziyaret ettiğini ve onun ağlamaya başladığını, birinin onu azarlaması üzerine, \"Ben hastalıktan dolayı ağlamıyorum, zira Allah'ın elçisinin hastalığın bir kefaret olduğunu söylediğini duydum; ben sadece, bu durumun bana güçsüz olduğumda geldiği ve aktif olduğum zaman gelmediği için ağlıyorum, çünkü Allah'ın bir kulu hastayken ona böyle bir ödül yazıldığı gibi, hasta olmadan önce de ona yazılıyordu ve hastalık onu yapmaktan alıkoydu.\" dediğini aktarmıştır."
+    },
+    {
+      "id": 71,
+      "narrator": "",
+      "text": "Razin bunu nakletmiştir."
+    },
+    {
+      "id": 72,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 73,
+      "narrator": "Al'Irbad b. Sariya reported God’s messenger as saying:",
+      "text": "Enes, Peygamber'in bir hastayı ziyaret etmeye alışkın olmadığını, hasta üç gün geçmeden ziyaret etmediğini söylemiştir."
+    },
+    {
+      "id": 74,
+      "narrator": "",
+      "text": "İbn Mace ve Beyhaki, Şu'ab al-iman'da bunu nakletmiştir."
+    },
+    {
+      "id": 75,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 76,
+      "narrator": "",
+      "text": "O, Allah'ın elçisinin şöyle dediğini bildirdi: \"Hiçbiriniz, ölüm gelmeden önce ölümü dilememeli veya dua etmemelidir. Bir kişi öldüğünde, umudu kesilir; fakat bir müminin devam eden hayatı ona daha fazla hayır getirir.\""
+    },
+    {
+      "id": 77,
+      "narrator": "",
+      "text": "Muslim bunu aktarmıştır."
+    },
+    {
+      "id": 78,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 79,
+      "narrator": "",
+      "text": "Anas, Allah'ın elçisinin şöyle dediğini bildirdi: \"Hiçbiriniz, kötü şartlar altında olduğu için ölüm dilememelidir; fakat eğer bunu yapmaktan kendini alamıyorsa, 'Ya Allah, eğer hayat benim için daha hayırlıysa, bana hayat ver; eğer ölüm benim için daha hayırlıysa, beni al' demelidir.\""
+    },
+    {
+      "id": 80,
+      "narrator": "",
+      "text": "(Buhari ve Muslim.)"
+    },
+    {
+      "id": 81,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 82,
+      "narrator": "",
+      "text": "'Ubade b. as-Samit, Allah'ın elçisinin şöyle dediğini bildirdi: \"Eğer birisi Allah ile buluşmayı arzuluyorsa, Allah da onunla buluşmayı ister; fakat eğer birisi Allah ile buluşmayı istemiyorsa, Allah da onunla buluşmayı istemez.\" 'Aişe veya eşlerinden biri ölmek istemediğini söylediğinde, o şöyle yanıtladı: \"Benim kastettiğim bu değil; fakat bir müminin ölümü geldiğinde, ona Allah'ın rızası ve hoşnutluğu müjdelenir, bu yüzden önünde olan şeyden daha sevimli bir şey yoktur ve o, Allah ile buluşmayı arzularken, Allah da onunla buluşmayı ister. Fakat bir kafir ölümle yüzleştiğinde, ona Allah'ın azabı ve cezası müjdelenir; bu yüzden önünde olan şeyden daha çirkin bir şey yoktur ve o, Allah ile buluşmayı istemez ve Allah da onunla buluşmayı istemez.\" 'Aişe'nin rivayetinde, ölümün Allah ile buluşmadan önce geldiği belirtilmiştir."
+    },
+    {
+      "id": 83,
+      "narrator": "",
+      "text": "(Buhari ve Muslim.)"
+    },
+    {
+      "id": 84,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 85,
+      "narrator": "",
+      "text": "Ebu Katade, bir cenaze Allah'ın elçisinin yanından geçerken, onun şöyle dediğini anlatır: \"O, huzurdadır; ya da diğerleri ondan huzur bulmuştur.\" Bu sözlerin ne anlama geldiği sorulduğunda, şöyle yanıtladı: \"Mümin kul, dünyanın zahmet ve zararından huzur bulur ve Allah'ın merhametine gider; fakat kullar (yani insanlık), ülke, ağaçlar ve hayvanlar, sefih olandan huzur bulur.\""
+    },
+    {
+      "id": 86,
+      "narrator": "",
+      "text": "(Buhari ve Muslim.)"
+    },
+    {
+      "id": 87,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 88,
+      "narrator": "",
+      "text": "'Abdullah b. 'Umar, Allah'ın elçisinin onu omuzlarından tutarak şöyle dediğini aktardı: \"Dünyada, sanki bir yabancı veya bir geçici gibi ol.\" İbn 'Umar, \"Akşam olunca sabahı beklemeyin ve sabah olunca akşamı beklemeyin; fakat sağlıkta bir şey alın ki hastalıkta size yarar sağlasın ve hayatınızda bir şey alın ki ölümde size yarar sağlasın.\""
+    },
+    {
+      "id": 89,
+      "narrator": "",
+      "text": "Buhari bunu aktarmıştır."
+    },
+    {
+      "id": 90,
+      "narrator": "Abu Umama said:",
+      "text": "---"
+    },
+    {
+      "id": 91,
+      "narrator": "",
+      "text": "Haritha b. Mudarrab, Khabbab'ı ziyaret ettiğini ve onun yedi kez dağlandığını söyledi. Eğer Allah'ın elçisinin \"Hiç kimse ölüm dilememelidir\" dediğini duymamış olsaydı, ölümü dileyeceğini ekledi. \"Ben, bir dirhemim yokken Allah'ın elçisiyle birlikteydim, ama şimdi evimde 40.000 dirhem var.\" Kefeni getirildi ve onu görünce ağladı ve şöyle dedi: \"Hamza için (Peygamber'in amcası. Uhud'da şehit oldu ve Hind tarafından cesedi aşağılandı.) bir kefen bulunamadı, sadece başı örtüldüğünde ayaklarına ulaşmayan, ayakları örtüldüğünde başına ulaşmayan siyah ve beyaz çizgili bir elbise vardı. Nihayet başına gerildi ve ayaklarına otlar konuldu.\""
+    },
+    {
+      "id": 92,
+      "narrator": "",
+      "text": "Ahmad ve Tirmidhi bunu rivayet etti, ancak Tirmidhi \"Kefeni getirildi\" ifadesinden sonrasını dahil etmedi."
+    },
+    {
+      "id": 93,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 94,
+      "narrator": "",
+      "text": "Ebu Sa'id ve Ebu Hureyre, Allah'ın elçisinin şöyle söylediğini bildirdi: \"Ölmekte olanlarınızın yanında, 'Allah'tan başka ilah yoktur.' deyin.\""
+    },
+    {
+      "id": 95,
+      "narrator": "",
+      "text": "Muslim bunu rivayet etti."
+    },
+    {
+      "id": 96,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 97,
+      "narrator": "",
+      "text": "Ümmü Seleme, Allah'ın elçisinin şöyle söylediğini bildirdi: \"Hasta veya ölmekte olan biriyle birlikte olduğunuzda, güzel sözler söyleyin; çünkü melekler, söylediklerinize amin derler.\""
+    },
+    {
+      "id": 98,
+      "narrator": "",
+      "text": "Muslim bunu rivayet etti."
+    },
+    {
+      "id": 99,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 100,
+      "narrator": "",
+      "text": "O, Allah'ın elçisinin şöyle söylediğini bildirdi: \"Herhangi bir Müslüman bir belaya uğradığında, Allah'ın kendisine emrettiği şekilde, 'Biz Allah'a aitiz ve O'na döneceğiz; Ya Allah, beni belam için mükafatlandır ve bunun karşılığında bana daha hayırlısını ver,' derse, Allah ona bunun karşılığında daha hayırlısını verecektir.\" Ebu Salama öldüğünde, \"Allah'ın elçisine ilk göç eden aileden daha iyi bir Müslüman kimdir?\" dedi. (O ve eşi Ümmü Seleme, Habeşistan'a göç edenlerdendi. Ebu Salama, Uhud savaşında aldığı yaralardan vefat etti ve Peygamber daha sonra Ümmü Seleme ile evlendi.) Sonra bu sözleri söyledi ve Allah ona Allah'ın elçisini verdi."
+    },
+    {
+      "id": 101,
+      "narrator": "",
+      "text": "Muslim bunu rivayet etti."
+    },
+    {
+      "id": 102,
+      "narrator": "‘Abdallah b. Ja'far reported God’s messenger assaying:",
+      "text": "---"
+    },
+    {
+      "id": 103,
+      "narrator": "",
+      "text": "O, Allah'ın elçisinin Ebu Salama'nın yanına girdiğinde gözlerinin açık olduğunu söyledi. Gözlerini kapatarak, \"Ruh alındığında, bakış onu takip eder,\" dedi. Ailesinden bazıları ağladı ve feryat etti, bunun üzerine, \"Kendiniz için sadece hayır dileyin; çünkü melekler, söylediklerinize amin derler,\" dedi. Sonra, \"Ya Allah, Ebu Salama'yı affet, onu doğru yolda olanların arasında yükselt ve geride kalan neslinde ona bir miras ver. Hem bizi hem de onu affet, âlemlerin Rabbi, onun kabrini genişlet ve ona orada nur ver,\" dedi."
+    },
+    {
+      "id": 104,
+      "narrator": "",
+      "text": "Muslim bunu rivayet etti."
+    },
+    {
+      "id": 105,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 106,
+      "narrator": "Al-Bara' b. ‘Azib said :",
+      "text": "Al-Bara' b. 'Azib dedi ki: Biz, Peygamber ile birlikte Ensar'dan bir adamın cenazesine gittik ve mezara vardık. Mezarı henüz kazmamışlardı, bu yüzden Allah'ın elçisi oturdu ve biz de etrafında sessizce oturduk. Elinde bir sopa vardı ve yere işaretler yapıyordu. Sonra başını kaldırdı ve “Kabir azabından Allah'a sığınmak için iki veya üç kez söyleyin” dedi. Ardından, “Bir mümin dünyayı terk edip ahirete doğru gittiğinde, yüzleri güneş gibi beyaz olan melekler cennetten ona gelir ve cennetin örtülerinden biriyle ve cennetin bazı kokularıyla yanına otururlar, gözün görebildiği kadar uzakta dururlar. Sonra ölüm meleği gelir ve başının yanına oturur ve der ki, 'İyi ruh, Allah'tan bağışlanma ve kabul için çık.' O da su torbasından bir damla gibi çıkar ve onu kapar; ve bunu yaptığında, onu bir an bile elinde bırakmazlar, alır ve o örtüye ve o kokuya koyarlar, ve ondan yeryüzünde bulunan en tatlı miskin kokusu gibi bir koku çıkar. Sonra onu alırlar ve bir grup meleğin yanından geçmeden önce, 'Bu iyi ruh kimdir?' diye sorarlar, o da 'Şu ve bu, şu ve bu'nın oğludur' derler, onu yeryüzünde insanlar tarafından çağrıldığı en güzel isimlerle anarak. Sonra onu en alçak semaya getirirler ve kapının onun için açılmasını isterler. Bu yapılır ve her semadan onunla birlikte gelen melekler, onu bir sonraki semaya kadar götürürler, ta ki onu yedinci semaya getirene kadar, ve yüce ve aziz olan Allah der ki, 'Kullumun kitabını 'İlliyyun'da kaydedin (Bkz. Kur'an, lxxxiii, 18) ve onu yeryüzüne geri gönderin, çünkü ben insanları ondan yarattım, onları ona geri döndüreceğim ve onlardan bir kez daha çıkaracağım.' Sonra ruhu bedenine geri verilir, iki melek ona gelir ve oturmasını sağlarlar ve derler ki, 'Rabbin kimdir?' O da, 'Rabbim Allah'tır.' der. Onlar sorar, 'Din nedir?' O da, 'Dinim İslam'dır.' der. Onlar sorar, 'Sizden gönderilen bu adam kimdir?' O da, 'O, Allah'ın elçisidir.' der. Onlar sorar, 'Bilgin nedir?' O da, 'Ben Allah'ın Kitabını okudum, ona inandım ve onun doğru olduğunu ilan ettim.' der. Sonra gökten biri bağırır, 'Kulum doğruyu söyledi, bu yüzden ona cennetten halılar serin, onu cennetten giydirin ve ona cennete bir kapı açın.' Sonra onun için cennetten bir sevinç ve koku gelir, mezarı gözün görebildiği kadar genişletilir ve güzel bir yüzü, güzel giysileri ve tatlı bir kokusu olan bir adam ona gelir ve der ki, 'Sana hoş gelen şeylerle sevin, çünkü bu senin vaad edildiğin gündür.' O sorar, 'Sen kimsin, çünkü yüzün çok güzel ve hayır getiriyor?' O da, 'Ben senin iyi amellerinim.' der. Sonra der ki, 'Rabbim, son saati getir; Rabbim, son saati getir ki, halkıma ve malıma dönebilirim.' Ama bir kafir dünyayı terk edip ahirete doğru gittiğinde, yüzleri siyah olan melekler cennetten ona gelir ve saç bezi ile yanına otururlar, gözün görebildiği kadar uzakta dururlar. Sonra ölüm meleği gelir ve başının yanına oturur ve der ki, 'Kötü ruh, Allah'tan hoşnutsuzluğa çık.' Sonra o, bedeninde dağılır ve onu, ıslak yünden bir şiş gibi çeker. Sonra onu kapar ve bunu yaptığında, onu bir an bile elinde bırakmazlar, ama onu o saç bezine koyarlar ve ondan yeryüzünde bulunan en kötü ceset kokusu gibi bir koku çıkar. Sonra onu alırlar ve bir grup meleğin yanından geçmeden önce, 'Bu kötü ruh kimdir?' diye sorarlar, o da 'Şu ve bu, şu ve bu'nın oğludur' derler, onun dünyada çağrıldığı en kötü isimlerle. En alçak semaya getirildiğinde, onun için kapının açılmasını isterler ama ona kapı açılmaz. (Allah'ın elçisi sonra okudu, 'Cennetin kapıları onlara açılmayacak ve onlar, bir iğnenin deliğinden bir deveyi geçiremediği sürece cennete giremeyecekler.' (Kur'an, vii, 40) Yüce ve aziz olan Allah sonra der ki, 'Onun kitabını Sijjin'de (Bkz. Kur'an, Ixxxiii, 7 ff) en alçak yerde kaydedin,' ve ruhu aşağı atılır. (Sonra okudu, 'Allah'a ortak koşan kimse, sanki gökten düşüp kuşlar tarafından kapılmış ya da rüzgar tarafından uzak bir yere düşürülmüş gibidir.' (Kur'an, xxii, 31). Sonra ruhu bedenine geri verilir, iki melek ona gelir ve oturmasını sağlarlar ve derler ki, 'Rabbin kimdir?' O da, 'Ah, ah, bilmiyorum.' der. Onlar sorar, 'Din nedir?' O da, 'Ah, ah, bilmiyorum.' der. Onlar sorar, 'Sizden gönderilen bu adam kimdir?' O da, 'Ah, ah, bilmiyorum.' der. Sonra gökten biri bağırır, 'Yalan söyledi, bu yüzden ona cehennemden halılar serin ve ona cehenneme bir kapı açın.' Sonra onun için cehennemin sıcaklığı ve sıcak havası gelir, mezarı onun için daraltılır, kaburgaları birbirine baskı yapar ve çirkin bir yüzü, çirkin giysileri ve kötü bir kokusu olan bir adam ona gelir ve der ki, 'Sana hoş olmayan şeylerle üzül, çünkü bu senin vaad edildiğin gündür.' O sorar, 'Sen kimsin, çünkü yüzün en çirkin ve kötülük getiriyor?' O da, 'Ben senin kötü amellerinim.' der. Sonra der ki, 'Rabbim, son saati getirme.'” Bir versiyonda benzer bir şey var ve ekleme içeriyor: “Ruhu çıktığında, gök ile yer arasında her melek ve gökteki her melek ona salat eder, ve gök kapıları ona açılır, hiçbir kapı bekçisi, ruhunun onların ötesine alınması için Allah'a dua etmeden kalmaz. Ama onun ruhu, yani kafirin ruhu, damarlarıyla birlikte çekilir ve gök ile yer arasında her melek ve gökteki her melek ona lanet eder, ve gök kapıları kilitlenir, hiçbir kapı bekçisi, ruhunun onların ötesine alınmaması için Allah'a dua etmeden kalmaz."
+    },
+    {
+      "id": 107,
+      "narrator": "",
+      "text": "Ahmad bunu aktarmıştır."
+    },
+    {
+      "id": 108,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 109,
+      "narrator": "",
+      "text": "'Abd ar-Rahman b. Ka'b, babasının rivayetiyle, ölüm Ka'b'a geldiğinde (İbn Mace, Cenazeler 4, Ka'b b. Malik olarak verir) Umm Bishr, Al-Bara' b. Ma'rur'un kızı onu ziyaret etti ve dedi ki, “Abu 'Abd ar-Rahman, eğer şu ve bu ile karşılaşırsan, ona benden selam söyle.” O da, “Allah seni bağışlasın, Umm Bishr, bunu yapmak için çok meşgul olacağım.” dedi. O da, “Abu 'Abd ar-Rahman, Allah'ın elçisinin müminlerin ruhlarının cennetin ağaçlarında asılı ve onlardan beslenen yeşil kuşlarda olduğunu söylediğini duymadın mı?” O, duyduğunu söylediğinde, o da bunun ne demek istediğini söyledi."
+    },
+    {
+      "id": 110,
+      "narrator": "Umm 'Atiya said:",
+      "text": "İbn Mace ve Beyhaki, Kitab ul-ba'th wannushur'da bunu aktarmışlardır."
+    },
+    {
+      "id": 111,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 112,
+      "narrator": "",
+      "text": "Babasından aktardığına göre, Allah'ın elçisinin şöyle dediğini anlatırdı: “Bir müminin ruhu, Allah onu dirilttiği günde bedenine geri dönene kadar cennetin ağaçlarında beslenen bir kuş gibidir.”"
+    },
+    {
+      "id": 113,
+      "narrator": "‘Abdallah b. 'Abbas said that a man wearing the ihram who was along with the Prophet was thrown by his she-camel and had his neck broken and died. God's messenger then said, “Wash him with water and lotus leaves, shroud him in his two garments, but do not put any perfume on him or cover his head, for he will be raised on the day of resurrection saying the talbiya.”(The cry of pilgrims! “At Thy service (labbaika), O God, at Thy service, at Thy service; Thou hast no partner:",
+      "text": "Malik, Nesa'i ve Beyhaki, Kitab al-ba'th wan-nushur'da bunu aktarmışlardır."
+    },
+    {
+      "id": 114,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 115,
+      "narrator": "",
+      "text": "Muhammad b. al-Munkadir, Jabir b. 'Abdallah'ı ziyaret ettiğinde, “Allah'ın elçisine selam söyle.” dedi."
+    },
+    {
+      "id": 116,
+      "narrator": "",
+      "text": "İbn Mace bunu aktarmıştır."
+    },
+    {
+      "id": 117,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 118,
+      "narrator": "",
+      "text": "Umm 'Atiya dedi ki: Allah'ın elçisi, kızını yıkadığımız yere geldi ve dedi ki, “Onu su ve lotus yapraklarıyla üç veya beş kez yıkayın, ya da uygun görürseniz daha fazla, ve son yıkamada kafur koyun, ya da biraz kafur koyun, sonra işinizi bitirdiğinizde bana haber verin.” İşimizi bitirdiğimizde ona haber verdik ve o, bize alt giysisini fırlatarak, “Onu bedeninin yanına koyun.” dedi. Bir versiyonda, \"Onu tek sayıda yıkayın, üç, beş veya yedi kez, sağ tarafla başlayarak ve abdest alınan yerleri yıkayın.\" dedi. O, saçlarını üç örgü yapıp arkasına koyduklarını söyledi."
+    },
+    {
+      "id": 119,
+      "narrator": "",
+      "text": "(Buhari ve Müslim.)"
+    },
+    {
+      "id": 120,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 121,
+      "narrator": "",
+      "text": "Ebu Hureyre, Allah'ın elçisinin şöyle söylediğini bildirmiştir: “Cenazede hızlı yürüyün, çünkü eğer ölen kişi iyi biriyse, onu göndereceğiniz yer iyi bir yerdir; ama eğer öyle değilse, kendinizi kurtardığınız bir kötülüktür.”"
+    },
+    {
+      "id": 122,
+      "narrator": "",
+      "text": "(Buhari ve Müslim.)"
+    },
+    {
+      "id": 123,
+      "narrator": "",
+      "text": "Ebu Sa'id, Allah'ın elçisinin şöyle söylediğini bildirmiştir: “Bir ceset sedyeye konulduğunda ve insanlar onu omuzlarında taşıdığında, eğer o iyi biriyse, ‘Beni hızlı götürün’ der; ama eğer iyi değilse, taşıyanlarına ‘Vay halime, beni nereye götürüyorsunuz?’ der. İnsan dışında her şey onun sesini duyar ve eğer bir insan onu duysa bayılır.”"
+    },
+    {
+      "id": 124,
+      "narrator": "",
+      "text": "Buhari bunu nakletmiştir."
+    },
+    {
+      "id": 125,
+      "narrator": "",
+      "text": "O, Allah'ın elçisinin şöyle söylediğini bildirmiştir: “Cenazeyi gördüğünüzde ayağa kalkın; ancak onu takip eden kimse, sedye yere konulana kadar oturmamalıdır.”"
+    },
+    {
+      "id": 126,
+      "narrator": "",
+      "text": "(Buhari ve Müslim.)"
+    },
+    {
+      "id": 127,
+      "narrator": "",
+      "text": "Cabir, cenaze geçtiğinde Allah'ın elçisinin ayağa kalktığını ve onların da onunla birlikte ayağa kalktığını söylemiştir. Ona bunun bir Yahudi cenazesi olduğunu söylediklerinde, “Ölüm korkunç bir olaydır, bu yüzden cenazeyi gördüğünüzde ayağa kalkın.” diye cevap vermiştir."
+    },
+    {
+      "id": 128,
+      "narrator": "",
+      "text": "(Buhari ve Müslim.)"
+    },
+    {
+      "id": 129,
+      "narrator": "",
+      "text": "Ali, “Allah'ın elçisinin ayağa kalktığını gördük, biz de ayağa kalktık; sonra oturdu, biz de oturduk.” demiştir, burada cenazeden bahsedilmektedir."
+    },
+    {
+      "id": 130,
+      "narrator": "‘Auf b. Malik said:",
+      "text": "Müslim bunu nakletmiştir. Malik ve Ebu Davud'un rivayeti, “Cenaze için ayağa kalktı, sonra oturdu.” şeklindedir. (Bu, onun cenaze geçtikten sonra mı oturduğu yoksa Peygamber'in ayağa kalkma uygulamasını bıraktığı anlamına mı geldiği konusunda bazı şüpheler vardır. Ali'nin rivayeti için bkz. s. 353)"
+    },
+    {
+      "id": 131,
+      "narrator": "",
+      "text": "Ebu Hureyre, Allah'ın elçisinin şöyle söylediğini bildirmiştir: “Eğer bir Müslüman cenazesine inançla ve Allah'tan ödül umarak katılan ve namaz kılınana ve defin işlemi tamamlanana kadar orada kalan kimse, iki kirat ödül alarak döner; her bir kirat Uhud'a eşittir (Kirat, küçük bir ağırlıktır; bir dinarın yirmide biri veya yirmi dördüncü kısmıdır. Burada mecazi olarak kullanılmaktadır. Uhud tepesine eşit olduğu ifadesi, ödülün çok büyük olacağını ifade etmenin bir yoludur); ve eğer ölü üzerine dua eden ve defin işlemi tamamlanmadan dönen kimse, bir kirat ile geri döner.”"
+    },
+    {
+      "id": 132,
+      "narrator": "",
+      "text": "(Buhari ve Müslim.)"
+    },
+    {
+      "id": 133,
+      "narrator": "",
+      "text": "O, Peygamber'in, Negus'un ölümünü bildirdiği günde, insanları namaz kılacak yere çıkardığını, onları saf haline getirdiğini ve “Allah en büyüktür” ifadesini dört kez söylediğini bildirmiştir."
+    },
+    {
+      "id": 134,
+      "narrator": "",
+      "text": "(Buhari ve Müslim.)"
+    },
+    {
+      "id": 135,
+      "narrator": "",
+      "text": "Abd ar-Rahman b. Ebu Leyla, Zeyd b. Arkam'ın cenazelerde ölüleri üzerine dört kez “Allah en büyüktür” dediğini, ancak bir kez beş kez söylediğini aktarmıştır. Bunun sebebi sorulduğunda, Allah'ın elçisinin böyle yaptığını söylemiştir."
+    },
+    {
+      "id": 136,
+      "narrator": "",
+      "text": "‘A’isha, Peygamber'in şöyle dediğini bildirdi: \"Eğer yüz kişilik bir Müslüman topluluğu bir ölü için dua ederse ve hepsi onun için şefaatte bulunursa, onların şefaati kabul edilir.\""
+    },
+    {
+      "id": 137,
+      "narrator": "",
+      "text": "Bunu Muslim rivayet etmiştir."
+    },
+    {
+      "id": 138,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 139,
+      "narrator": "",
+      "text": "Anas, bazı insanların bir tabutun yanında geçerken ölü hakkında övgü dolu sözler söylediklerinde Peygamber'in \"Bu kesin.\" dediğini, başka bir ölü için çok kötü sözler söylediklerinde ise \"Bu da kesin.\" dediğini bildirdi. ‘Umar, neyin kesin olduğunu sordu ve Peygamber şöyle cevap verdi: \"Bu kişi hakkında güzel konuştunuz, bu yüzden cennet onun için kesindir; ama o kişi hakkında kötü konuştunuz, bu yüzden cehennem onun için kesindir. Sizler yeryüzünde Allah'ın şahitlerisiniz.\""
+    },
+    {
+      "id": 140,
+      "narrator": "",
+      "text": "(Buhari ve Muslim.) Bir versiyonda \"Müminler yeryüzünde Allah'ın şahitleridir.\" denilmektedir."
+    },
+    {
+      "id": 141,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 142,
+      "narrator": "",
+      "text": "‘Umar, Allah'ın elçisinin şöyle dediğini bildirdi: \"Eğer dört kişi herhangi bir Müslüman hakkında iyi bir şehadet verirse, Allah onu cennete sokar.\" ‘Umar, bunun üç kişinin şehadeti için de geçerli olup olmadığını sordu ve Peygamber bunun geçerli olduğunu söyledi. Daha sonra iki kişinin şehadeti için de geçerli olup olmadığını sordular, o da geçerli olduğunu söyledi; ancak bir kişi hakkında sormadılar."
+    },
+    {
+      "id": 143,
+      "narrator": "",
+      "text": "Bunu Buharî rivayet etmiştir."
+    },
+    {
+      "id": 144,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 145,
+      "narrator": "",
+      "text": "‘A’isha, Allah'ın elçisinin şöyle dediğini bildirdi: \"Ölüleri kötülemeyin, çünkü onlar, kendilerinin önceden gönderdikleri şeylere ulaşmışlardır.\""
+    },
+    {
+      "id": 146,
+      "narrator": "",
+      "text": "Bunu Buharî rivayet etmiştir."
+    },
+    {
+      "id": 147,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 148,
+      "narrator": "",
+      "text": "Cabir, Allah'ın elçisinin Uhud'da şehit olan her bir çift kişiyi tek bir örtüye sardığını ve onlardan hangisinin Kur'an'ı daha iyi bildiğini sorduğunu söyledi. Onlardan biri işaret edildiğinde, onu mezarın yanına ilk olarak yerleştirdi ve \"Ben, kıyamet gününde bu adamların şahitlerinden olacağım.\" dedi. Kan lekelerinin temizlenmeden gömülmelerini emretti; onlara dua etmedi ve yıkanmadılar."
+    },
+    {
+      "id": 149,
+      "narrator": "",
+      "text": "Bunu Buharî rivayet etmiştir."
+    },
+    {
+      "id": 150,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 151,
+      "narrator": "",
+      "text": "İbn ‘Umar, Allah’ın elçisinin şöyle söylediğini bildirmiştir: “Ölülerinizin iyi özelliklerini anın ve kötü özelliklerini anmaktan sakının.”"
+    },
+    {
+      "id": 152,
+      "narrator": "",
+      "text": "Ebu Davud ve Tirmizi bunu nakletmiştir."
+    },
+    {
+      "id": 153,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 154,
+      "narrator": "",
+      "text": "Nafi‘ Abu Ghalib, Anas b. Malik ile bir adamın cenazesinde namaz kıldığını ve başının karşısında durduğunu söyledi. Sonra bazı insanlar, Kureyş’ten bir kadının tabutunu getirdiler ve “Abu Hamza (Anas b. Malik’in künyesi, Peygamber’in hizmetkârı), onun için dua et,” dediler ve tabutun ortasının karşısında durdu. Al-‘Ala’ b. Ziyad ona, “Allah’ın elçisinin de böyle yaptığını gördüm. O, tabutun üzerinde senin onunla ilgili durduğun pozisyonda durdu,” dedi. O da, “Doğru,” diye cevap verdi."
+    },
+    {
+      "id": 155,
+      "narrator": "",
+      "text": "Tirmizi ve İbn Mace bunu nakletmiştir. Ebu Davud’un rivayetinde benzer bir şey vardır, ayrıca “Kadının kalçalarının üzerinde durdu,” şeklinde bir ek vardır."
+    },
+    {
+      "id": 156,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 157,
+      "narrator": "",
+      "text": "‘Abd ar-Rahman b. Abu Laila, Sahl b. Hunaif ve Kays b. Sa'd’ın el-Kadisiyya’da oturduklarını ve yanlarından bir tabut geçtiğinde ayağa kalktıklarını söyledi. Onlara, bunun yerin halkından biri, yani zımmîlerden (Yahudiler ve Hristiyanlar gibi korunan topluluklar) biri olduğu söylendiğinde, “Allah’ın elçisi bir tabut geçtiğinde ayağa kalktı,” dediler. İçinde bir Yahudi olduğunu duyunca, “Bir ruh değil mi?” dedi."
+    },
+    {
+      "id": 158,
+      "narrator": "",
+      "text": "(Buhari ve Müslim.)"
+    },
+    {
+      "id": 159,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 160,
+      "narrator": "",
+      "text": "‘Ubada b. as-Samit, Allah’ın elçisinin bir tabutu takip ettiğinde, ceset mezarın yanına konuluncaya kadar oturmadığını söyledi. Kendisine bilgili bir Yahudi tarafından, “Biz böyle yapıyoruz,” denildiğinde, Allah’ın elçisi oturdu ve “Onlardan farklı davranın,” dedi."
+    },
+    {
+      "id": 161,
+      "narrator": "",
+      "text": "Tirmizi, Ebu Davud ve İbn Mace bunu nakletmiştir; Tirmizi, bunun garib bir rivayet olduğunu ve nakledeni olan Bişr b. Rafi'’nin zayıf olduğunu belirtmiştir."
+    },
+    {
+      "id": 162,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 163,
+      "narrator": "",
+      "text": "‘Ali, Allah’ın elçisinin onlara bir cenazede ayakta durmalarını söylediğini, ancak daha sonra oturduğunu ve oturmalarını emrettiğini söyledi."
+    },
+    {
+      "id": 164,
+      "narrator": "",
+      "text": "Ahmad bunu nakletmiştir."
+    },
+    {
+      "id": 165,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 166,
+      "narrator": "",
+      "text": "Amir b. Sa'd b. Abu Waqqas, Sa'd b. Abu Waqqas'ın hastalığı sırasında, \"Bana mezarın yanına bir niş yapın ve üzerime tuğlalar koyun, tıpkı Allah'ın elçisine yapıldığı gibi.\" dediğini aktardı."
+    },
+    {
+      "id": 167,
+      "narrator": "",
+      "text": "Muslim bunu rivayet etmiştir."
+    },
+    {
+      "id": 168,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 169,
+      "narrator": "",
+      "text": "İbn Abbas, Allah'ın elçisinin mezarına bir parça kırmızı kumaş konulduğunu söyledi."
+    },
+    {
+      "id": 170,
+      "narrator": "",
+      "text": "Muslim bunu rivayet etmiştir."
+    },
+    {
+      "id": 171,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 172,
+      "narrator": "",
+      "text": "Süfyan et-Tammar, Peygamberin mezarının kabarık olduğunu gördüğünü söyledi."
+    },
+    {
+      "id": 173,
+      "narrator": "",
+      "text": "Bukhari bunu rivayet etmiştir."
+    },
+    {
+      "id": 174,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 175,
+      "narrator": "",
+      "text": "Ebu Hayyaj el-Asadi, Ali'nin kendisine, \"Seni Allah'ın elçisinin beni gönderdiği aynı göreve gönderiyorum. Bir resmi silmeden veya yüksek bir mezarı düzeltmeden ayrılma.\" dediğini aktardı."
+    },
+    {
+      "id": 176,
+      "narrator": "Jabir said:",
+      "text": "Muslim bunu rivayet etmiştir."
+    },
+    {
+      "id": 177,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 178,
+      "narrator": "",
+      "text": "Cabir, Allah'ın elçisinin mezarların alçı ile sıvanmasını, üzerine herhangi bir yapı inşa edilmesini ve insanların mezarların üzerinde oturmasını yasakladığını söyledi."
+    },
+    {
+      "id": 179,
+      "narrator": "",
+      "text": "Muslim bunu rivayet etmiştir."
+    },
+    {
+      "id": 180,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 181,
+      "narrator": "",
+      "text": "Cabir, Allah'ın elçisinin mezarların alçı ile sıvanmasını, üzerine herhangi bir yazı yazılmasını veya üzerine basılmasını yasakladığını söyledi."
+    },
+    {
+      "id": 182,
+      "narrator": "",
+      "text": "Tirmizî bunu aktardı."
+    },
+    {
+      "id": 183,
+      "narrator": "",
+      "text": "O, Peygamberin mezarının sulandığını ve mezarına su döken kişinin Bilal b. Rabah olduğunu söyledi. Başından başlayarak ayaklarına kadar su döktü."
+    },
+    {
+      "id": 184,
+      "narrator": "",
+      "text": "Beyhaki bunu Delail an-Nübüvva'da aktardı."
+    },
+    {
+      "id": 185,
+      "narrator": "",
+      "text": "Al-Muttalib b. Ebu Vada'a, Osman b. Maz'un vefat ettiğinde, onun sedye ile çıkarılıp gömüldüğünde, Peygamberin bir adamdan ona bir taş getirmesini istediğini, ancak adamın onu taşıyamadığını, bunun üzerine Allah'ın elçisinin kalkıp ona doğru gittiğini ve kollarını sıvadığını söyledi. Al-Muttalib, Allah'ın elçisinin kollarını sıvarken beyazlığını hala görebildiğini belirtti. Sonra taşı aldı ve başının yanına koyarak, “Kardeşimin mezarını bununla işaretliyorum ve ailemden ölenleri onun yanına gömeceğim,” dedi."
+    },
+    {
+      "id": 186,
+      "narrator": "",
+      "text": "Ebu Davud bunu aktardı."
+    },
+    {
+      "id": 187,
+      "narrator": "Anas said:",
+      "text": "Al-Kasım b. Muhammed, Aişe'yi ziyaret ettiğinde, “Anne, Peygamberin ve iki arkadaşının mezarını bana göster,” dedi. O da ona yüksek ya da alçak olmayan, yumuşak kırmızı çakıllarla kaplı üç mezar gösterdi."
+    },
+    {
+      "id": 188,
+      "narrator": "",
+      "text": "Ebu Davud bunu aktardı."
+    },
+    {
+      "id": 189,
+      "narrator": "",
+      "text": "Al-Bara' b. Azib, “Biz Allah'ın elçisi ile Ensar'dan bir adamın cenazesine çıktık, ama mezara vardığımızda, yan tarafında henüz niş açılmamıştı, bu yüzden Peygamber kıblaya doğru oturdu ve biz de onunla birlikte oturduk,” dedi."
+    },
+    {
+      "id": 190,
+      "narrator": "Ibn Abu Mulaika said that when ‘Abd ar-Rahman b. Abu Bakr died in al-Hubshi, the name of a palce, he was conveyed to Mecca and buried there. When ‘A’isha arrived she went to the grave of ‘Abd ar. Rahman b. Abu Bakr and said:",
+      "text": "Ebu Davud, Nesaî ve İbn Mace bunu aktardı; İbn Mace “sessizce” ekledi. (Kelime anlamıyla, sanki başımızın üzerinde kuşlar varmış gibi. Bu ifadenin açıklaması, bir kuşun bir devenin başına konup, üzerindeki keneleri yemeye başladığında, devenin onu korkutmamak için tamamen hareketsiz kalmasıdır.)"
+    },
+    {
+      "id": 191,
+      "narrator": "",
+      "text": "Aişe, Allah'ın elçisinin “Ölü bir adamın kemiğini kırmak, onun hayatta iken kırılması gibidir,” dediğini bildirdi."
+    },
+    {
+      "id": 192,
+      "narrator": "",
+      "text": "Malik, Ebu Davud ve İbn Mace bunu aktardı."
+    },
+    {
+      "id": 193,
+      "narrator": "",
+      "text": "Enes, Allah'ın elçisinin kızı gömülürken orada bulunduğunu söyledi. O, mezarın yanında oturuyordu ve gözlerinden yaşlar süzüldüğünü gördüm. Sonra, “Aranızda geçen gece cinsel ilişkiye girmeyen var mı?” diye sordu. Ebu Talha, girmediğini söyledi, bunun üzerine ona mezara inmesini söyledi ve o da öyle yaptı."
+    },
+    {
+      "id": 194,
+      "narrator": "Anas said:",
+      "text": "Buhari bunu aktardı."
+    },
+    {
+      "id": 195,
+      "narrator": "",
+      "text": "Amr b. al-As, ölüm döşeğindeki oğluna, “Ben öldüğümde, benimle ne ağlayan bir kadın ne de ateş olsun, ve beni gömerken üzerime hafifçe toprak serpin, sonra mezarımın etrafında, bir hayvan kesip etini dağıtacak kadar durun ki, sizi yanımda hissedeyim ve Rabbimin elçilerine ne cevap vereceğimi bileyim,” dedi. (Yani, mezarda ölüleri sorgulayan Munkar ve Nakir.)"
+    },
+    {
+      "id": 196,
+      "narrator": "",
+      "text": "'Abdallah b. 'Umar, Sa'd b. 'Ubada'nın bir sıkıntıdan şikayet ettiğinde, Peygamber'in 'Abd ar-Rahman b. 'Auf, Sa'd b. Abu Waqqas ve 'Abdallah b. Mas'ud ile birlikte onu ziyarete geldiğini söyledi. İçeri girdiğinde onu kötü bir durumda buldu ve sonunun yakın olduğunu düşündü, ancak bunun böyle olmadığı kendisine bildirildi. Peygamber ağladı ve insanlar onu ağlarken görünce onlar da ağlamaya başladılar. Sonra şöyle dedi: \"Dinleyin; Allah, gözden akan yaşlar veya kalbin hissettiği keder için ceza vermez, ancak bunun için (dilini işaret ederek) ceza verir veya merhamet gösterir; ve ölü, ailesinin onun için ağlaması yüzünden cezalandırılır.\" (Bkz. III. bölümdeki ikinci rivayet, burada 'A'işe, İbn 'Umar'ın unuttuğunu veya hata yaptığını söyler. Bu, aşırı ağlama ve feryat etme ile ilgili olduğu veya İslam öncesi Arapların, öldüklerinde insanların kendileri için aşırı bir şekilde yas tutmalarını istemeleriyle ilgili olduğu tartışmalarına yol açmıştır. Dile yapılan atıf, sessiz ağlamanın aksine yüksek sesle yas tutmayı ifade eder.)"
+    },
+    {
+      "id": 197,
+      "narrator": "",
+      "text": "(Buhari ve Müslim.)"
+    },
+    {
+      "id": 198,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 199,
+      "narrator": "Abu Malik al-Ash'ari reported God’s messenger as saying, \"Among my people there are four characteristics belonging to the pre-Islamic period which they do not abandon:",
+      "text": "'Abdallah b. Mas'ud, Allah'ın elçisinin şöyle dediğini bildirdi: \"Yüzünü vuran, elbiselerinin önünü yırtan ve İslam öncesi dönemdeki gibi feryat eden kimse bizden değildir.\""
+    },
+    {
+      "id": 200,
+      "narrator": "",
+      "text": "(Buhari ve Müslim.)"
+    },
+    {
+      "id": 201,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 202,
+      "narrator": "",
+      "text": "Ebu Burda, Ebu Musa el-Eş'ari'nin bayıldığını ve eşi Ümmü 'Abdallah'ın kesik bir çığlıkla bağırmaya başladığını söyledi. O sonra kendine geldi ve ona tamamen cahil olup olmadığını sorarak, Allah'ın elçisinin şöyle dediğini bildirdi: \"Saçını kazıyan, bağıran ve elbiselerini yırtan kimseyle bir alakam yok.\""
+    },
+    {
+      "id": 203,
+      "narrator": "",
+      "text": "(Buhari ve Müslim, sözlerin Müslim'e ait olduğu.)"
+    },
+    {
+      "id": 204,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 205,
+      "narrator": "",
+      "text": "Ebu Malik el-Eş'ari, Allah'ın elçisinin şöyle dediğini bildirdi: \"Kavmim arasında, İslam öncesi döneme ait dört özellik var ki bunları terk etmezler: yüksek rütbe ile övünmek, diğer insanların soylarını küçümsemek, yıldızlarla yağmur istemek ve feryat etmek.\" Ve şöyle dedi: \"Eğer feryat eden kadın, ölmeden önce tövbe etmezse, kıyamet gününde ona katran elbisesi ve kuduz gömleği giydirilecektir.\""
+    },
+    {
+      "id": 206,
+      "narrator": "",
+      "text": "Müslim bunu aktardı."
+    },
+    {
+      "id": 207,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 208,
+      "narrator": "Abu Musa al-Ash'ari reported God's messenger as saying:",
+      "text": "Anas, Peygamber'in bir kadın mezarın başında ağlarken yanına geldiğinde şöyle dediğini bildirdi: \"Allah'tan kork ve sabırlı ol.\" Kadın onu tanımayarak, \"Git, çünkü sen benim gibi bir sıkıntıya uğramadın.\" dedi. Ona Peygamber olduğu söylendi, bu yüzden kapısına gitti ve orada kapıcı bulamayınca, \"Seni tanımadım.\" dedi. Peygamber, \"Sabır, sadece ilk darbe anında gösterilir.\" diye cevap verdi."
+    },
+    {
+      "id": 209,
+      "narrator": "",
+      "text": "(Buhari ve Müslim.)"
+    },
+    {
+      "id": 210,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 211,
+      "narrator": "",
+      "text": "'Abdallah b. Ca'fer, Ja'far'ın ölüm haberi geldiğinde Peygamber'in şöyle dediğini aktardı: \"Ja'far'ın ailesi için yemek hazırlayın, çünkü onlar dikkatlerini tamamen çeken bir şey duydular.\""
+    },
+    {
+      "id": 212,
+      "narrator": "",
+      "text": "Tirmizi, Ebu Davud ve İbn Mace bunu nakletmiştir."
+    },
+    {
+      "id": 213,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 214,
+      "narrator": "'Abdallah b. Abu Mulaika said:",
+      "text": "El-Muğira b. Şu'ba, Allah'ın elçisinin şöyle dediğini duyduğunu söyledi: \"Eğer insanlar birisi için ağıt yakarlarsa, o kişi kıyamet gününde bunun cezasını çekecektir.\""
+    },
+    {
+      "id": 215,
+      "narrator": "",
+      "text": "(Buhari ve Müslim.)"
+    },
+    {
+      "id": 216,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 217,
+      "narrator": "",
+      "text": "'Amra binti 'Abd ar-Rahman, 'A'işe'ye 'Abdallah b. 'Umar'ın, ölenin, yaşayanların gözyaşları yüzünden cezalandırıldığını söylediğinde, onun şöyle dediğini duydu: \"Allah, Abu 'Abd ar-Rahman'ı affetsin! O yalan söylemedi, fakat unuttu ya da hata yaptı. Olay şuydu ki, Allah'ın elçisi bazı insanların bir Yahudi kadın için ağladığını gördü ve şöyle dedi: 'Onlar onun için ağlıyorlar, o ise mezarında cezalandırılıyor.'\""
+    },
+    {
+      "id": 218,
+      "narrator": "",
+      "text": "(Buhari ve Müslim.)"
+    },
+    {
+      "id": 219,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 220,
+      "narrator": "",
+      "text": "'Abdallah b. Ebu Mulaika dedi ki: 'Uthman b. 'Affan'ın bir kızı Mekke'de vefat etti ve biz onun cenazesine katıldık. İbn 'Umar ve İbn 'Abbas oradaydı ve ben onların arasında oturuyordum. 'Abdallah b. 'Umar, karşısında oturan 'Amr b. 'Uthman'a, insanların ağlamasını durdurmasını söyledi, çünkü Allah'ın elçisi, ölenin, ailesinin ağlaması yüzünden cezalandırılacağını söylemişti. İbn 'Abbas daha sonra 'Umar'ın bu tür bir şey söylediğini belirtti ve Mekke'den 'Umar ile birlikte gittiği bir olayı anlattı; bir akasya ağacının gölgesinde bir grup atlı gördüler. 'Umar ona, bu atlıların kim olduğunu görmesini söyledi ve baktığında Suheyb'in aralarında olduğunu gördü, bu yüzden 'Umar'a haber verdi ve onu çağırmasını istedi. Bu nedenle Suheyb'e geri döndü ve ona gelmesini ve Müminlerin Emiri'ne katılmasını söyledi. Sonra 'Umar vurulduğunda, Suheyb içeri girdi ve \"Ah kardeşim! Ah dostum!\" diyerek ağlamaya başladı. 'Umar, Suheyb'e, Allah'ın elçisinin, ölenin ailesinin ağlaması yüzünden kesinlikle cezalandırılacağını söylediğini hatırlatınca, İbn 'Abbas, 'Umar öldüğünde bunu 'A'işe'ye aktardığını ve onun şöyle dediğini söyledi: \"Allah, 'Umar'a merhamet etsin! Allah'a yemin ederim ki, Allah'ın elçisi, ölenin kesinlikle ailesinin ağlaması yüzünden cezalandırılacağını söylemedi; söylediği şey, Allah'ın, kâfirin ailesinin ağlaması yüzünden cezasını artıracağıydı.\" O ekledi: \"Kur'an'da söylenenler sizin için yeterlidir: 'Hiçbir yük taşıyan, başkasının yükünü taşımaz.' \" (Kur'an, vi, 164; xvii, 15; xxxv, 18; xxxix, 7) Bunun üzerine İbn 'Abbas, \"Allah, gülme ve ağlama yaratan O'dur.\" dedi. (Bkz. Kur'an, liii, 43) İbn Ebu Mulaika, İbn 'Umar'ın sessiz kaldığını söyledi."
+    },
+    {
+      "id": 221,
+      "narrator": "",
+      "text": "(Buhari ve Müslim.)"
+    },
+    {
+      "id": 222,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 223,
+      "narrator": "",
+      "text": "'A'işe, Peygamber'e, İbn Haritha, Ja'far ve İbn Rawaha'nın (Onlar Zaid b. Haritha, Ja'far b. Ebu Talib ve 'Abdallah b. Rawaha'dır; 7 Hicri yılında Mu'te'de öldürülmüşlerdir) öldüğünde, onun üzüntü belirtileri göstererek oturduğunu, kendisinin de kapının yarığından onu izlediğini söyledi. Bir adam ona geldi ve Ja'far'ın kadınlarının ağladığını bildirdi; durdurmasını istemesi üzerine gitti. İkinci kez geldi ve onların kendisine itaat etmediğini söyledi, o da onlara durdurmalarını söylemesini istedi. Üçüncü kez geldiğinde, onlara etki edemediğini söyledi, bunun üzerine Allah'ın elçisi, 'A'işe'nin iddiasına göre, \"Ağzınıza toprak atın.\" dedi. Bunun üzerine o, \"Allah sizi alçaltmasın! Siz, Allah'ın elçisinin size emrettiğini yapmadınız, ne de olsa Allah'ın elçisini rahatsız etmeyi bırakmadınız.\" dedi."
+    },
+    {
+      "id": 224,
+      "narrator": "",
+      "text": "(Buhari ve Müslim.)"
+    },
+    {
+      "id": 225,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 226,
+      "narrator": "",
+      "text": "Mu'adh b. Cebel, Allah'ın elçisinin şöyle söylediğini bildirdi: “Hiçbir Müslüman çifti, Allah'ın büyük merhametiyle cennete girmeden önce, ölümle üçünü kaybetmeyeceklerdir.” İki kaybın da bu duruma dahil olup olmadığını sordular, o da evet dedi. Bir kaybın da dahil olup olmadığını sordular, o da evet dedi. Sonra şöyle dedi: “Canımın elinde olduğu Allah'a yemin ederim ki, düşük yapan anne, Allah'tan onun için mükafatını talep ettiğinde, onu göbek bağıyla cennete çeker.”"
+    },
+    {
+      "id": 227,
+      "narrator": "",
+      "text": "Ahmad bunu rivayet etti, İbn Mace de “Canımın elinde olduğu Allah'a yemin ederim” ifadesini aktardı."
+    },
+    {
+      "id": 228,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 229,
+      "narrator": "",
+      "text": "Abdullah b. Mes'ud, Allah'ın elçisinin şöyle söylediğini bildirdi: “Eğer bir kimse, günah işlemek için yeterince büyümeyen üç çocuğunu kaybederse, onlar onun cehennemden güçlü bir koruyucusu olacaktır.” Ebu Zerr, iki çocuğunu kaybettiğini söylediğinde, ona aynı durumun geçerli olduğunu bildirdi. Ubayy b. Ka'b, Kur'an okuyucularının başı, bir çocuğunu kaybettiğini söylediğinde, ona da aynı durumun geçerli olduğunu bildirdi."
+    },
+    {
+      "id": 230,
+      "narrator": "",
+      "text": "Tirmizî ve İbn Mace bunu rivayet etti, Tirmizî bu hadisin garib olduğunu söyledi."
+    },
+    {
+      "id": 231,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 232,
+      "narrator": "",
+      "text": "Kurrâ el-Müzânî, Peygamber'in kendisine bir adamın oğlu ile birlikte gelip gelmediğini ve oğlunu sevip sevmediğini sorduğunu, adamın da “Ey Allah'ın elçisi, Allah seni benim onu sevdiğim gibi sevsin.” diye cevap verdiğini aktardı. Peygamber onu özledi ve falan kişinin oğlunun başına ne geldiğini sorduğunda, onun öldüğünü söylediler. Bunun üzerine şöyle dedi: “Cennete hangi kapıdan gidersen git, onu seni beklerken bulmayı istemez misin?” Bir adam bunun özellikle ona mı yoksa hepsine mi ait olduğunu sordu, o da bunun hepsine ait olduğunu bildirdi."
+    },
+    {
+      "id": 233,
+      "narrator": "",
+      "text": "Ahmad bunu rivayet etti."
+    },
+    {
+      "id": 234,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 235,
+      "narrator": "",
+      "text": "Ali, Allah'ın elçisinin şöyle söylediğini bildirdi: “Düşük yapan, ebeveynlerini cehenneme soktuğunda, Rabbi ile tartışacak ve ‘Rabbinle tartışan sen, ebeveynlerini cennete getir.’ cevabını alacaktır. Sonra göbek bağıyla onları cennete çekecektir.”"
+    },
+    {
+      "id": 236,
+      "narrator": "",
+      "text": "İbn Mace bunu rivayet etti."
+    },
+    {
+      "id": 237,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 238,
+      "narrator": "",
+      "text": "Ebu Ümame, Peygamber'in, Allah'ın mübarek ve yüce olduğunu söylediğini aktardı: “Ademoğlu, eğer ilk belada sabredersen ve benden mükafatını talep edersen, senin için cennetten daha az bir mükafatı kabul etmeyeceğim.”"
+    },
+    {
+      "id": 239,
+      "narrator": "",
+      "text": "İbn Mace bunu rivayet etti."
+    },
+    {
+      "id": 240,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 241,
+      "narrator": "",
+      "text": "İbn Mes'ud, Allah'ın elçisinin şöyle söylediğini bildirmiştir: \"Sizlere mezar ziyaretini yasaklamıştım, ancak şimdi onları ziyaret edebilirsiniz; çünkü bu, bu dünyada nefsin terbiye edilmesine ve ahireti hatırlamaya vesile olur.\""
+    },
+    {
+      "id": 242,
+      "narrator": "",
+      "text": "İbn Mace bunu rivayet etmiştir."
+    },
+    {
+      "id": 243,
+      "narrator": "‘A’isha said:",
+      "text": "---"
+    }
+  ]
+}

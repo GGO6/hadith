@@ -1,0 +1,31 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 3,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Ibn Abbas said:",
+      "text": "İbn Abbas dedi ki: \"Allah’ın Messengerı (Allah ona salat ve selam eylesin) tuvaletten çıktı, ardından ona yemek sunuldu ve 'Sana küçük abdest getirelim mi?' dediler. O da: 'Ben sadece namaza hazırlanırken küçük abdest almaya emrolundum' diye cevap verdi.”"
+    },
+    {
+      "id": 2,
+      "narrator": "Ibn 'Abbas said:",
+      "text": "İbn Abbas dedi ki: \"Allah’ın Messengerı (Allah ona salat ve selam eylesin) büyük abdestten çıktı ve ona bir yemek getirildi, bu yüzden kendisine: 'Küçük abdest almayacak mısın?' diye soruldu. O da: 'Namaz kılacak mıyım ki küçük abdest alayım?' diye cevap verdi.”"
+    },
+    {
+      "id": 3,
+      "narrator": "Salman said:",
+      "text": "Salman dedi ki: “Tevrat’ta yemeğin bereketinin ardından küçük abdest almak olduğunu okudum, bunu Peygamber’e (Allah ona salat ve selam eylesin) söyledim ve Tevrat’ta okuduklarımı ona bildirdim. Allah’ın Messengerı (Allah ona salat ve selam eylesin) sonra şöyle dedi: 'Yemeğin bereketi, öncesinde ve sonrasında küçük abdest almaktır!'”"
+    }
+  ]
+}

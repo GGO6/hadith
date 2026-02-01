@@ -1,0 +1,71 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 11,
+    "arabic": {
+      "title": "صحيح مسلم",
+      "author": "الإمام مسلم بن الحجاج"
+    },
+    "english": {
+      "title": "Sahih Muslim",
+      "author": "Imam Muslim ibn al-Hajjaj"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "`Amr b. Sharid reported his father as saying:",
+      "text": "Amr b. Şerid, babasından şöyle rivayet etmiştir: Bir gün Allah'ın Resulü (ﷺ) arkasında binerken bana dedi ki: Umayya b. Ebu Salt'tan herhangi bir şiir hatırlıyor musun? Ben de: Evet, dedim. O da: O halde devam et, dedi. Ben bir beyit okudum, o da: Devam et, dedi. Sonra bir beyit daha okudum, o da: Devam et, dedi. Ben onun şiirinden yüz beyit okudum. Bu hadis, Şerid aracılığıyla başka bir isnatla ancak kelime farklılığı ile rivayet edilmiştir."
+    },
+    {
+      "id": 2,
+      "narrator": "`Amr b. Sharid reported on the authority of his father that Allah's Messenger (ﷺ) asked him to recite poetry, the rest of the hadith is the same, but with this addition:",
+      "text": "Amr b. Şerid, babasından Allah'ın Resulü (ﷺ) şiir okumamı istediğini, hadisin geri kalan kısmının aynı olduğunu, ancak şu ilave ile: \"O (yani Umayya b. Ebu Salt) Müslüman olmaya yaklaşıyordu,\" ve İbn Mahdi aracılığıyla rivayet edilen hadiste ise \"O, şiirinde neredeyse Müslümandı,\" şeklinde olduğunu bildirmiştir."
+    },
+    {
+      "id": 3,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Ebu Hureyre, Allah'ın Resulü (ﷺ) şöyle buyurduğunu rivayet etmiştir: Arapların (İslam öncesi) şiirinde söylenen en doğru söz bu Labid'in dizesidir: \"Bak! Allah'tan başka her şey boşunadır.\""
+    },
+    {
+      "id": 4,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Ebu Hureyre, Allah'ın Resulü (ﷺ) şöyle buyurduğunu rivayet etmiştir: Bir şair tarafından söylenen en doğru söz bu Labid'in dizesidir: \"Bak! Allah'tan başka her şey boşunadır,\" ve Umayya b. Ebu Salt neredeyse Müslümandı."
+    },
+    {
+      "id": 5,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Ebu Hureyre, Allah'ın Resulü (ﷺ) şöyle buyurduğunu rivayet etmiştir: Bir şair tarafından okunan en doğru dize: \"Bak! Allah'tan başka her şey boşunadır,\" ve İbn Ebu Salt neredeyse Müslümandı."
+    },
+    {
+      "id": 6,
+      "narrator": "Abu Huraira reported Allah's Apostle (ﷺ) as saying:",
+      "text": "Ebu Hureyre, Allah'ın Resulü (ﷺ) şöyle buyurduğunu rivayet etmiştir: Bir şair tarafından okunan en doğru beyit: \"Bak! Allah'tan başka her şey boşunadır,\" ve buna ekleme yapmadı."
+    },
+    {
+      "id": 7,
+      "narrator": "Abu Huraira reported:",
+      "text": "Ebu Hureyre, Allah'ın Resulü (ﷺ) şöyle buyurduğunu rivayet etmiştir: Şairin söylediği en doğru söz Labid'in sözüdür: \"Bak! Allah'tan başka her şey boşunadır.\""
+    },
+    {
+      "id": 8,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Ebu Hureyre, Allah'ın Resulü (ﷺ) şöyle buyurduğunu rivayet etmiştir: Bir adamın karnının, onu çürütüp yok eden irinle dolu olmasının, boş şiirle kafasını doldurmasından daha iyi olduğunu söyledi. Ebu Bekir bunu hafif bir kelime farklılığı ile rivayet etmiştir."
+    },
+    {
+      "id": 9,
+      "narrator": "Sa`d reported Allah's Apostle (ﷺ) as saying:",
+      "text": "Sa'd, Allah'ın Resulü (ﷺ) şöyle buyurduğunu rivayet etmiştir: Sizlerden birinin karnının irinle dolu olması, onun kafasını şiirle doldurmasından daha iyidir."
+    },
+    {
+      "id": 10,
+      "narrator": "Abu Sa`id Al-Khudri reported:",
+      "text": "Ebu Sa'id El-Hudri, şöyle rivayet etmiştir: Biz Allah'ın Resulü (ﷺ) ile gidiyorduk. 'Arj olarak bilinen yere vardığımızda, şiir okuyan bir şairle karşılaştık. Bunun üzerine Allah'ın Resulü (ﷺ) dedi ki: Şeytanı yakalayın veya şeytanı durdurun, çünkü bir adamın karnını irinle doldurmak, onun beynini şiirle doldurmaktan daha iyidir."
+    },
+    {
+      "id": 11,
+      "narrator": "Buraida reported on the authority of his father that Allah's Apostle (ﷺ) said:",
+      "text": "Buraida, babasından Allah'ın Resulü (ﷺ) şöyle buyurduğunu rivayet etmiştir: Nardashir oynayan kimse, elini domuzun eti ve kanıyla boyayan gibidir."
+    }
+  ]
+}

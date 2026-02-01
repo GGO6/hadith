@@ -1,0 +1,931 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 183,
+    "arabic": {
+      "title": "صحيح البخاري",
+      "author": "الإمام محمد بن إسماعيل البخاري"
+    },
+    "english": {
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Muhammad ibn Ismail al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir: Üç kişilik bir grup, Peygamberin (ﷺ) eşlerinin evlerine gelerek, Peygamberin (ﷺ) nasıl ibadet ettiğini sordu. Bunun hakkında bilgilendirildiklerinde, kendi ibadetlerini yetersiz buldular ve \"Peygamber (ﷺ) ile bizim ne alakamız var ki, onun geçmiş ve gelecekteki günahları affedilmiştir.\" dediler. Sonra içlerinden biri, \"Ben her gece namaz kılacağım.\" dedi. Diğeri, \"Ben yıl boyunca oruç tutacağım ve orucumu bozmayacağım.\" dedi. Üçüncüsü, \"Ben kadınlardan uzak duracağım ve sonsuza dek evlenmeyeceğim.\" dedi. Allah'ın Elçisi (ﷺ) onlara geldi ve \"Siz şu şekilde söyleyenler misiniz? Vallahi, ben Allah'a sizden daha çok teslim olmuşum ve ondan daha çok korkuyorum; yine de oruç tutarım ve orucumu bozarım, uyurum ve kadınlarla evlenirim. Kim benim dinimdeki sünnetimi takip etmezse, benden değildir (benim takipçilerimden değildir).\" dedi."
+    },
+    {
+      "id": 2,
+      "narrator": "Narrated 'Urwa:",
+      "text": "'Urwa'dan rivayet edilmiştir: `Aişe'ye Allah'ın şu ifadesini sordum: 'Yetim kızlarla adaletli davranamayacağınızdan korkarsanız, o zaman istediğiniz diğer kadınlarla evlenin; iki, üç veya dört; ama onlarla adaletli davranamayacağınızdan korkarsanız, o zaman sadece bir kadınla evlenin veya sağ elinizin sahip olduğu (esir) kadınlarla.' (4.3) `Aişe, \"Ey yeğenim! (Bu ayet) zenginliği ve güzelliğiyle dikkat çeken bir yetim kızla ilgili olarak, onu evlendirmek isteyen velisinin, diğer kadınların hak ettiği mehrden daha az bir mehrle evlenmeyi istemesi üzerine indirilmiştir. Böylece (bu tür velilere) onlarla evlenmeleri yasaklanmıştır; ancak onlara adaletli davranırlarsa ve tam mehrlerini verirlerse evlenebilirler, ve onlardan başka kadınlarla evlenmeleri emredilmiştir.\" dedi."
+    },
+    {
+      "id": 3,
+      "narrator": "Narrated 'Alqama:",
+      "text": "'Alqama'dan rivayet edilmiştir: `Abdullah ile birlikteydim, `Uthman onu Mina'da buldu ve \"Ey Ebu `Abdur-Rahman! Sana bir şey söylemek istiyorum.\" dedi. İkisi bir kenara çekildi ve `Uthman, \"Ey Ebu `Abdur-Rahman! Seni, geçmiş günlerini hatırlatacak bir kızla evlendirelim mi?\" dedi. `Abdullah bunun gereksiz olduğunu hissetti ve bana (katılmam için) işaret etti, \"Ey 'Alqama!\" dedi. Sonra `Uthman'a cevap olarak, \"Sen bunu söylediğine göre, Peygamber (ﷺ) bir zamanlar bize, 'Ey gençler! İçinizden evlenebilen evlensin, evlenemeyen ise oruç tutsun, çünkü oruç cinsel gücünü azaltır.' dedi.\" dedi."
+    },
+    {
+      "id": 4,
+      "narrator": "Narrated `Abdullah:",
+      "text": "`Abdullah'tan rivayet edilmiştir: Biz gençken Peygamber (ﷺ) ile birlikteydik ve hiçbir malımız yoktu. Bunun üzerine Allah'ın Elçisi (ﷺ) dedi ki, \"Ey gençler! İçinizden evlenebilen evlensin, çünkü bu, bakışlarını alçaltmasına ve iffetini korumasına yardımcı olur (yani, özel bölgelerini yasadışı cinsel ilişkilerden korur), evlenemeyen ise oruç tutsun, çünkü oruç cinsel gücünü azaltır.\""
+    },
+    {
+      "id": 5,
+      "narrator": "Narrated 'Ata:",
+      "text": "'Ata'dan rivayet edilmiştir: İbn `Abbas ile birlikte Maimuna'nın cenaze töreninde Sarif adında bir yerde bulunduk. İbn `Abbas, \"Bu Peygamberin (ﷺ) eşidir, bu yüzden tabutunu kaldırdığınızda, sarsmayın veya fazla sallamayın, ama düzgün yürüyün, çünkü Peygamber (ﷺ) dokuz eşe sahipti ve onlarla sekizinin gece dönüşlerini yapardı, birisi için ise gece dönüşü yoktu.\" dedi."
+    },
+    {
+      "id": 6,
+      "narrator": "Narrated Anas:",
+      "text": "Anas'tan rivayet edilmiştir: Peygamber (ﷺ) bir gecede tüm eşleriyle birlikte olurdu ve dokuz eşi vardı."
+    },
+    {
+      "id": 7,
+      "narrator": "Narrated Sa`id bin Jubair:",
+      "text": "Sa`id bin Jubair'den rivayet edilmiştir: İbn `Abbas bana, \"Evli misin?\" diye sordu. Ben de, \"Hayır.\" dedim. O, \"Evlensene, çünkü bu (Müslüman) ümmetin en iyi kişisi (yani, Muhammed) diğer Müslümanlardan daha fazla eşe sahipti.\" dedi."
+    },
+    {
+      "id": 8,
+      "narrator": "Narrated `Umar bin Al-Khattab:",
+      "text": "`Umar bin Al-Khattab'tan rivayet edilmiştir: Peygamber (ﷺ) dedi ki, \"Amellerin karşılığı niyete göredir ve herkes niyet ettiği şeyin karşılığını alacaktır. Kim Allah ve Elçisi için hicret ederse, hicreti Allah ve Elçisi içindir; kim de dünyevi menfaatler veya bir kadınla evlenmek için hicret ederse, hicreti, hicret ettiği şey içindir.\" (1)"
+    },
+    {
+      "id": 9,
+      "narrator": "Narrated Ibn Masud:",
+      "text": "İbn Mes'ud'dan rivayet edilmiştir: Biz, Peygamber (ﷺ) ile birlikte kutsal savaşlarda yer alıyorduk ve yanımızda eşimiz yoktu. Bunun üzerine, \"Ey Allah'ın Elçisi (ﷺ)! Kendimizi hadım ettirelim mi?\" dedik. Peygamber (ﷺ) bunu yasakladı."
+    },
+    {
+      "id": 10,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir: `Abdur-Rahman bin `Auf (Mekke'den Medine'ye) geldi ve Peygamber (ﷺ) onu Sa`d bin Ar-Rabi` Al-Ansari ile kardeş yaptı. Al-Ansari'nin iki eşi vardı, bu yüzden `Abdur-Rahman'a, \"Eşlerinin ve malının yarısını al.\" dedi. `Abdur-Rahman, \"Eşlerin ve malın için Allah sana hayır versin. Lütfen bana pazarı göster.\" dedi. Böylece `Abdur-Rahman pazara gitti ve (alışverişte) biraz kuru yoğurt ve biraz tereyağı kazandı. Birkaç gün sonra Peygamber (ﷺ) `Abdur-Rahman'ı sarı lekelerle giyinmiş olarak gördü ve ona, \"O nedir, ey `Abdur-Rahman?\" diye sordu. O da, \"Bir Ensari kadınla evlendim.\" dedi. Peygamber (ﷺ) sordu, \"Ona ne kadar mehr verdin?\" O da, \"Bir (hurma) taşının ağırlığında altın.\" dedi. Peygamber (ﷺ) dedi ki, \"Bir şölen ver, hatta bir koyunla bile.\""
+    },
+    {
+      "id": 11,
+      "narrator": "Narrated Sa`d bin Abi Waqqas:",
+      "text": "Sa`d bin Abi Waqqas'tan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) `Uthman bin Maz'un'a evlenmekten (ve diğer zevklerden) kaçınmayı yasakladı ve eğer ona izin verseydi, kendimizi hadım ettirirdik."
+    },
+    {
+      "id": 12,
+      "narrator": "Narrated Sa`d bin Abi Waqqas:",
+      "text": "Sa`d bin Abi Waqqas'tan rivayet edilmiştir: Peygamber (ﷺ) `Uthman bin Maz'un'a bunu (evlenmemeyi) yasakladı ve eğer ona izin verseydi, kendimizi hadım ettirirdik."
+    },
+    {
+      "id": 13,
+      "narrator": "Narrated 'Abdullah:",
+      "text": "`Abdullah'tan rivayet edilmiştir: Biz, Allah'ın Elçisi (ﷺ) tarafından yönetilen kutsal savaşlara katılıyorduk ve yanımızda hiçbir şey (eş) yoktu. Bunun üzerine, \"Kendimizi hadım ettirelim mi?\" dedik. O, bunu yasakladı ve sonra bize geçici bir sözleşme ile kadınlarla evlenmemize izin verdi (2) ve bize şu ayeti okudu: -- 'Ey iman edenler! Allah'ın sizin için helal kıldığı güzel şeyleri haram kılmayın, ama aşırıya kaçmayın.' (5.87)"
+    },
+    {
+      "id": 14,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Ben, \"Ey Allah'ın Elçisi (ﷺ)! Ben genç bir adamım ve yasadışı cinsel ilişkiye girmekten korkuyorum ve evlenmeye gücüm yetmiyor.\" dedim. O sessiz kaldı, sonra sorumu bir kez daha tekrar ettim ama yine sessiz kaldı. Üçüncü kez aynı şeyi söyledim ve o yine sessiz kaldı. Dördüncü kez sorumu tekrar ettiğimde, ancak o zaman Peygamber dedi ki, \"Ey Ebu Hureyre! Kalem, senin karşılaşacağın şeyleri yazdıktan sonra kurudu. Yani (kendini) hadım ettirip ettirmemenin bir önemi yok.\""
+    },
+    {
+      "id": 15,
+      "narrator": "Narrated `Aisha:",
+      "text": "`Aişe'den rivayet edilmiştir: Ben, \"Ey Allah'ın Elçisi (ﷺ)! Farz edelim ki, bir ağacın bulunduğu bir vadiye düştünüz ve o ağaçtan bir şey yenilmiş, sonra da hiçbir şeyin yenilmediği ağaçlar buldunuz; hangi ağaçta develerinizi otlatmanıza izin verirsiniz?\" dedim. O da, \"(Develerimi) daha önce hiçbir şeyin yenilmediği ağaçta otlatırım.\" dedi. (Rivayet eden alt anlatıcı ekledi: `Aişe, Allah'ın Elçisi (ﷺ) dışında bir virgini evlenmediğini kastetti.)"
+    },
+    {
+      "id": 16,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) bana şöyle dedi: \"Seni rüyamda iki kez gösterdiler. Bir adam seni ipek bir örtü içinde taşıyordu ve bana, 'Bu senin eşin.' dedi. Örtüyü açtım; ve işte, o sensin. Kendime dedim ki, 'Eğer bu rüya Allah'tan ise, O bunu gerçekleştirecektir.'\""
+    },
+    {
+      "id": 17,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Cabir bin Abdullah'tan rivayet edilmiştir: Peygamber ile birlikte bir Gazve'den dönerken, deveni hızlı sürmeye başladım, çünkü tembel bir deveyi vardı. Arkadan bir binekli geldi ve elindeki mızrakla devenin üzerine batırdı, ardından deveyim en iyi develer gibi hızla koşmaya başladı. Bakın! Binekli, Peygamber (ﷺ) kendisiymiş. 'Neden bu kadar acele ediyorsun?' dedi. Ben de, 'Yeni evlendim.' dedim. O da, 'Bakire mi yoksa dul mu aldın?' dedi. 'Dul aldım.' dedim. O da, 'Neden genç bir kızla evlenmedin ki, onunla oynayasın ve o da seninle oynasın?' dedi. Medina'ya girmek üzereyken, Peygamber (ﷺ) dedi ki, 'Bekleyin ki, gece Medina'ya giresiniz, böylece dağınık saçlı kadın saçlarını tarasın ve kocası yok olan kadın da pubis bölgesini tıraş etsin.'"
+    },
+    {
+      "id": 18,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Cabir bin Abdullah'tan rivayet edilmiştir: Evlendiğimde, Allah'ın Elçisi (ﷺ) bana, 'Ne tür bir kadınla evlendin?' dedi. 'Dul bir kadınla evlendim.' dedim. O da, 'Bakirelere ve onlarla oynamaya karşı bir sevgin yok mu?' dedi. Cabir ayrıca şunu da söyledi: Allah'ın Elçisi (ﷺ) dedi ki, 'Neden genç bir kızla evlenmedin ki, onunla oynayasın ve o da seninle oynasın?'"
+    },
+    {
+      "id": 19,
+      "narrator": "Narrated 'Urwa:",
+      "text": "Urve'den rivayet edilmiştir: Peygamber (ﷺ) Ebu Bekir'den Aişe'nin elini istemiştir. Ebu Bekir, 'Ama ben senin kardeşinim.' dedi. Peygamber (ﷺ) de, 'Sen Allah'ın dininde ve Kitabında benim kardeşimsin, ama o (Aişe) benimle evlenmek için helaldir.' dedi."
+    },
+    {
+      "id": 20,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) dedi ki, 'En iyi kadınlar develeri sürenler ve Kureyş kadınları arasında salih olanlardır. Onlar çocuklarına çocukluklarında en merhametli, kocalarının mallarına ise en dikkatli olan kadınlardır.'"
+    },
+    {
+      "id": 21,
+      "narrator": "Narrated Abu Burda's father:",
+      "text": "Ebu Burda'nın babasından rivayet edilmiştir: Allah'ın Elçisi (ﷺ) dedi ki, 'Herhangi bir adam, bir cariyeyi düzgün bir şekilde eğitir, ona güzel ahlak öğretir, onu azat eder ve onunla evlenirse, iki kat ödül alır. Eğer Kitap ehli olan bir adam kendi peygamberine inanır ve sonra bana da inanırsa, o da iki kat ödül alır. Herhangi bir köle, efendisine ve Rabbine karşı görevini yerine getirirse, o da iki kat ödül alır.'"
+    },
+    {
+      "id": 22,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) dedi ki, 'İbrahim, sadece üç yalan söyledi. (Bunlardan biri) İbrahim bir zalimin yanından geçerken ve (eşi) Sara onunla birlikteyken (Ebu Hureyre ardından tüm rivayeti anlattı ve dedi ki:) (Zalim) ona Hacer'i verdi. Sara, 'Allah beni kafirin elinden kurtardı ve bana Hacer'i hizmetçi olarak verdi.' dedi. (Ebu Hureyre ekledi:) O (Hacer) sizin annenizdir, Ey Banu Ma'-As-Sama' (yani, Araplar).'"
+    },
+    {
+      "id": 23,
+      "narrator": "Narrated Anas:",
+      "text": "Enes'ten rivayet edilmiştir: Peygamber (ﷺ) Khaibar ile Medina arasında üç gün kaldı ve orada Safiye bint Huyai ile evliliğini tamamladı. Müslümanları, ne et ne de ekmek sunulmayan düğün ziyafetine davet ettim. Deri yemek örtülerinin serilmesini emretti ve üzerine hurma, kuru yoğurt ve tereyağı konuldu ve bu Peygamber'in düğün ziyafeti oldu. Müslümanlar merak etti, 'O (Safiye) onun eşi mi yoksa cariyesi mi?' dediler. Sonra, 'Eğer onu örtmesi için emrederse, o inananların annelerinden biri olur; ama eğer onu örtmesi için emretmezse, o bir cariye olur.' dediler. Peygamber (ﷺ) oradan ilerlediğinde, onun arkasında bir yer bıraktı (devesinin üzerinde) ve onunla insanlar arasında bir örtü koydu."
+    },
+    {
+      "id": 24,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir: Allah'ın Elçisi (ﷺ) Safiye'yi azat etti ve azat edilmesini onun mehrine saydı."
+    },
+    {
+      "id": 25,
+      "narrator": "Narrated Sahl bin Sa`d As-Sa`idi:",
+      "text": "Sahl bin Sa'd es-Sa'idi'den rivayet edilmiştir: Bir kadın Allah'ın Elçisi'ne (ﷺ) geldi ve dedi ki, 'Ey Allah'ın Elçisi (ﷺ)! Kendimi sana evlenmek için (mehr olmadan) sunmaya geldim.' Allah'ın Elçisi (ﷺ) ona baktı. Onu dikkatlice inceledi ve gözlerini ona sabitledi, sonra başını eğdi. Kadın, onun hiçbir şey söylemediğini görünce oturdu. Arkadaşlarından bir adam ayağa kalktı ve dedi ki, 'Ey Allah'ın Elçisi (ﷺ)! Eğer ona ihtiyacın yoksa, o zaman onu bana nikah et.' Peygamber (ﷺ) dedi ki, 'Sunacak bir şeyin var mı?' Adam, 'Hayır, Allah'a yemin ederim, Ey Allah'ın Elçisi (ﷺ)!' dedi. Peygamber (ﷺ) ona, 'Ailene git ve bir şeyin olup olmadığını kontrol et.' dedi. Adam gitti ve döndü, 'Hayır, Allah'a yemin ederim, hiçbir şey bulamadım.' dedi. Allah'ın Elçisi (ﷺ) dedi ki, '(Yeniden git) ve bir şey ara, hatta bir demir yüzük bile olsa.' Adam tekrar gitti ve döndü, 'Hayır, Allah'a yemin ederim, Ey Allah'ın Elçisi (ﷺ)! Hatta bir demir yüzük bile bulamadım, ama bu benim İzarım (bel örtüm).' dedi. Onun ridası yoktu. 'Onun yarısını ona veriyorum.' dedi. Allah'ın Elçisi (ﷺ) dedi ki, 'Onun İzarı ile ne yapacak? Eğer sen onu giyersen, o çıplak kalır, eğer o giyerse, sen çıplak kalırsın.' Böylece o adam uzun bir süre oturdu ve sonra kalktı (gitmek için). Allah'ın Elçisi (ﷺ) onu giderken görünce, geri çağrılmasını emretti. Geldiğinde, Peygamber (ﷺ) dedi ki, 'Kur'an'dan ne kadar biliyorsun?' O da, 'Şu sureyi ve şu sureyi biliyorum.' diyerek saydı. Peygamber (ﷺ) dedi ki, 'Onları ezbere biliyor musun?' O da, 'Evet.' dedi. Peygamber (ﷺ) dedi ki, 'Git, onu sana o kadar Kur'an ile nikah ediyorum.'"
+    },
+    {
+      "id": 26,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Ebu Hudhaife bin Utbe bin Rabi'a bin Abdi Şems, Peygamber (ﷺ) ile birlikte Bedir savaşına katılmış ve Salim'i evlat edinmiş, ona yeğeni Hind bint Al-Walid bin Utbe bin Rabi'a ile evlendirmiştir; ve Salim, bir Ensar kadının azatlı kölesiydi, tıpkı Peygamber (ﷺ) Zeyd'i evlat edindiği gibi. Cahiliye döneminde, birisi bir çocuğu evlat edindiğinde, insanlar onu evlat edinen babanın oğlu olarak çağırır ve o da onun varisi olurdu. Ama Allah, 'Onları babalarının isimleriyle çağırın... azatlılarınız.' (33.5) ayetini indirdiğinde, evlat edinilenler babalarının isimleriyle anılmaya başlandı. Babası bilinmeyen kişi, Maula olarak kabul edilir ve din kardeşiniz olurdu. Daha sonra Sahla bint Suhail bin Amr el-Kureyşî el-Amirî - ve o da Ebu Hudhaife bin Utbe'nin karısı - Peygamber (ﷺ) 'Ey Allah'ın Elçisi (ﷺ)! Salim'i evlatlık oğlumuz olarak kabul ediyorduk, ama şimdi Allah, bildiğiniz gibi (evlatlık oğulları hakkında) bir şey indirdi.' dedi. Rivayet eden kişi ardından rivayetin geri kalanını anlattı."
+    },
+    {
+      "id": 27,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) Dubaa bint Az-Zubair'in yanına girdi ve ona, 'Hac yapma arzusun var mı?' dedi. O da, 'Allah'a yemin ederim, hasta hissediyorum.' dedi. O da, 'Hac yapmayı niyet et ve 'Ey Allah, beni durdurduğun her yerde ihramımı tamamlayacağım.' diyerek bir şey şart koş.' dedi. O, Mikdad bin Esved'in eşiydi."
+    },
+    {
+      "id": 28,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) dedi ki, 'Bir kadın dört şey için evlenir, yani zenginliği, aile durumu, güzelliği ve dini için. Bu yüzden dinine bağlı olan kadınla evlenmelisiniz, aksi takdirde kaybedenlerden olursunuz.'"
+    },
+    {
+      "id": 29,
+      "narrator": "Narrated Sahl:",
+      "text": "Sahl'den rivayet edilmiştir: Bir adam Allah'ın Elçisi'nin (ﷺ) yanından geçti ve Allah'ın Elçisi (ﷺ) (arkadaşlarına) sordu: 'Bu (adam) hakkında ne dersiniz?' Onlar, 'Eğer bir kadının elini isterse, ona verilmelidir; ve eğer birisi için aracılık ederse, onun aracılığı kabul edilmelidir; ve eğer konuşursa, dinlenmelidir.' dediler. Allah'ın Elçisi (ﷺ) sessiz kaldı, sonra yoksul Müslümanlardan bir adam geçti, Allah'ın Elçisi (ﷺ) onlara sordu: 'Bu adam hakkında ne dersiniz?' Onlar, 'Eğer bir kadının elini isterse, evlenmeye layık değildir; ve eğer birisi için aracılık ederse, onun aracılığı kabul edilmemelidir; ve eğer konuşursa, dinlenmemelidir.' dediler. Allah'ın Elçisi (ﷺ) dedi ki, 'Bu yoksul adam, ilklerin çoğundan daha hayırlıdır.'"
+    },
+    {
+      "id": 30,
+      "narrator": "Narrated 'Urwa:",
+      "text": "Urve'den rivayet edilmiştir: Aişe'ye, 'Eğer yetimlerle adil davranamayacağınızdan korkarsanız (4.3)' ayeti hakkında sordum. O da, 'Ey yeğenim! Bu ayet, güzelliği ve zenginliği seven ve (evlenmek isteyen) koruyucusunun gözetimi altındaki yetim kızla ilgilidir. Böyle koruyucuların, onlara tam mehrini vererek adalet sağlamadan onlarla evlenmeleri yasaklanmıştır ve diğer kadınlarla evlenmeleri emredilmiştir. İnsanlar, bunun ardından Allah'ın Elçisi (ﷺ)nin hükmünü sordular, bu yüzden Allah, 'Kadınlar hakkında sana soruyorlar... evlenmek istediğiniz kadınlar hakkında.' (4.127) ayetini indirdi. Böylece Allah, onlara, eğer yetim kız güzellik ve zenginliğe sahipse, onu evlenmek istediklerini ve aile durumunu istediklerini bildirdi. Ancak onlara tam mehrini verirlerse evlenebilirler. Eğer zenginlik ve güzellik eksikliği nedeniyle onlarla evlenmek istemiyorlarsa, onları bırakıp diğer kadınlarla evlenirler. Bu yüzden, onlara ilgi duymadıkları zaman onları bıraktıkları gibi, onlara ilgi duyduklarında onlarla evlenmeleri yasaklandı, ancak onlara adaletle davranıp tam mehrini verirlerse. Elçi, 'Eğer bir kötü alamet varsa, o at, kadın ve evdir.' dedi. Ve Allah'ın beyanı: 'Gerçekten, eşleriniz ve çocuklarınız arasında sizin için düşmanlar vardır (yani, sizi Allah'a itaatten alıkoyabilirler).' (64.14)"
+    },
+    {
+      "id": 31,
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "Abdullah bin Umar'dan rivayet edilmiştir: Allah'ın Messenger'ı (ﷺ) şöyle buyurdu: \"Kötü alamet kadınlarda, evde ve atlarda vardır.\""
+    },
+    {
+      "id": 32,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn Umar'dan rivayet edilmiştir: Kötü alamet, Peygamber'in (ﷺ) önünde zikredildi. Peygamber (ﷺ) şöyle dedi: \"Eğer bir şeyde kötü alamet varsa, bu evde, kadınlarda ve atlarda vardır.\""
+    },
+    {
+      "id": 33,
+      "narrator": "Narrated Sahl bin Sa`d:",
+      "text": "Sahl bin Sa'd'dan rivayet edilmiştir: Allah'ın Messenger'ı (ﷺ) şöyle buyurdu: \"Eğer kötü alamet varsa, bu atlarda, kadınlarda ve evde vardır.\""
+    },
+    {
+      "id": 34,
+      "narrator": "Narrated Usama bin Zaid:",
+      "text": "Usame bin Zaid'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Benden sonra erkekler için kadınlardan daha zor bir imtihan bırakmadım.\""
+    },
+    {
+      "id": 35,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Barira sebebiyle üç ilke tesis edilmiştir: (i) Barira azat edildiğinde, köle kocasıyla kalma seçeneği verildi. (ii) Allah'ın Messenger'ı (ﷺ) \"Kölenin velayeti, onu azat edenindir\" dedi. (iii) Allah'ın Messenger'ı (ﷺ) eve girdiğinde, ateşte bir tencere gördü ama evin çorbasından ekmek ve et çorbası verildi. Peygamber (ﷺ) \"Ateşteki tencereyi görmedim mi?\" dedi. \"O, Barira'ya verilen sadakadır ve sen sadaka olan şeyleri yemezsin\" denildi. Peygamber (ﷺ) \"O, Barira için bir sadaka, bizim için ise bir hediyedir\" dedi."
+    },
+    {
+      "id": 36,
+      "narrator": "Narrated Aisha\":",
+      "text": "Aişe'den rivayet edilmiştir: 'Ve yetimlerle adaletli davranamayacağınızdan korkarsanız...' (4.3) Ayeti, bir adamın himayesinde bulunan yetim kızla ilgilidir ve o adam, onun zenginliği nedeniyle onunla evlenmek istemekte, fakat ona kötü davranmakta ve malını adil bir şekilde yönetmemektedir. Böyle bir adam, onun dışında beğendiği kadınlarla, iki veya üç veya dört evlenmelidir. 'Size evlenmek için haram olanlar: ...süt annelerinizdir (sizi emzirenler).' (4.23) Süt emzirme ilişkisi, evliliği haram kılan kan bağına karşılık geldiğinden, bu kişiler arasında evlilik haramdır."
+    },
+    {
+      "id": 37,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: (Peygamber'in eşi) Allah'ın Messenger'ı (ﷺ) ile birlikteyken, bir adamın Hafsa'nın evine girmek için izin istediğini duydu. Aişe ekledi: \"Ey Allah'ın Messenger'ı (ﷺ)! Bu adam evinize girmek için izin istiyor.\" Peygamber (ﷺ) \"Onun falan kişi olduğunu düşünüyorum,\" dedi ve Hafsa'nın süt amcasının adını verdi. Aişe \"Eğer falan kişi,\" dedi, \"süt amcam yaşıyor olsaydı, bana girebilir miydi?\" Peygamber (ﷺ) \"Evet, çünkü süt emzirme ilişkisi, doğum (kan) ilişkileriyle haram kılan her şeyi haram kılar\" dedi."
+    },
+    {
+      "id": 38,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'dan rivayet edilmiştir: Peygambere, \"Hamza'nın kızıyla evlenmeyecek misin?\" denildi. O da, \"O benim süt yeğenimdir (erkek kardeşin kızı)\" dedi."
+    },
+    {
+      "id": 39,
+      "narrator": "Narrated Um Habiba:",
+      "text": "Ümmü Habibe'den rivayet edilmiştir: (Ebu Süfyan'ın kızı) \"Ey Allah'ın Messenger'ı (ﷺ)! Kız kardeşimi, Ebu Süfyan'ın kızıyla evlendir.\" dedim. Peygamber (ﷺ) \"Bunu ister misin?\" dedi. \"Evet, çünkü ben hâlâ senin tek eşin değilim ve kız kardeşimin benimle iyilik paylaşmasını istiyorum,\" dedim. Peygamber (ﷺ) \"Ama bu benim için helal değil\" dedi. \"Ebu Salama'nın kızıyla evlenmek istediğinizi duyduk,\" dedim. \"Um Salama'nın kızı mı?\" dedi. \"Evet,\" dedim. \"Eğer o benim üvey kızım olmasaydı, onunla evlenmek benim için haram olurdu, çünkü ben ve Ebu Salama Thuwaiba tarafından emzirildik. Bu yüzden bana kızlarınızı veya kız kardeşlerinizi evlendirmek için sunmayın.\""
+    },
+    {
+      "id": 40,
+      "narrator": "Narrated `Aisha:",
+      "text": "'Urwa'dan rivayet edilmiştir: Thuwaiba, Ebu Leheb'in azatlı cariyesiydi ve sonra Peygamber'i emzirdi. Ebu Leheb öldüğünde, akrabalarından biri onu çok kötü bir durumda rüyasında gördü ve ona, \"Ne ile karşılaştın?\" diye sordu. Ebu Leheb, \"Seni terk ettiğimden beri hiç huzur bulamadım, sadece şu (parmaklarımın arasındaki yerden) su içmem için bana su verildi ve bu, Thuwaiba'yı azat ettiğim içindir\" dedi."
+    },
+    {
+      "id": 41,
+      "narrator": "Narrated Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Peygamber (ﷺ) ona girdiğinde, yanında bir adam oturuyordu. Adamın yüzünde hoşnutsuzluk belirtileri görünüyordu. Aişe, \"İşte benim (süt) kardeşim\" dedi. O da, \"Kimin süt kardeşi olduğuna dikkat et, çünkü süt emzirme ilişkisi, çocuğun tek gıda maddesi süt olduğunda kurulur\" dedi."
+    },
+    {
+      "id": 42,
+      "narrator": "Narrated `Uqba bin Al-Harith:",
+      "text": "Aişe'den rivayet edilmiştir: Aflah, Ebu'l-Ku'ais'in kardeşi, onunla birlikteyken, Al-Hijab (kadınların örtünmesi) ayeti indirildikten sonra, içeri girmek için izin istedi. Aişe ekledi: \"Ona girmesine izin vermedim, ama Allah'ın Messenger'ı (ﷺ) geldiğinde, ona yaptığımı söyledim ve bana ona izin vermemi emretti.\""
+    },
+    {
+      "id": 43,
+      "narrator": "Ibn 'Abbas further said, \"Seven types of marriages are unlawful because of blood relations, and seven because of marriage relations.\" Then Ibn 'Abbas recited the Verse:",
+      "text": "Ukbe bin Haris'ten rivayet edilmiştir: Bir kadınla evlendim, sonra siyah bir kadın yanımıza geldi ve \"Ben sizi (sen ve eşini) emzirdim\" dedi. Bunun üzerine Peygamber'e (ﷺ) geldim ve \"Falan kişiyle evlendim, sonra siyah bir kadın yanımıza geldi ve 'Ben sizi emzirdim' dedi. Ama onun yalancı olduğunu düşünüyorum\" dedim. Peygamber (ﷺ) yüzünü benden çevirdi ve ben de yüzüne döndüm ve \"O yalancıdır\" dedim. Peygamber (ﷺ) \"O kadın, sizin ikinizi emzirdiğini söylediğinde, onu (eşini) nasıl tutabilirsin? O yüzden onu (eşini) boşayıp bırak\" dedi."
+    },
+    {
+      "id": 44,
+      "narrator": "Narrated Um Habiba:",
+      "text": "İbn Abbas şöyle dedi: \"Yedi tür evlilik, kan ilişkileri nedeniyle haramdır ve yedi tür evlilik de evlilik ilişkileri nedeniyle haramdır.\" Sonra İbn Abbas şu ayeti okudu: \"Size evlenmek için haram olanlar: anneleriniz...\" (4:23)."
+    },
+    {
+      "id": 45,
+      "narrator": "Narrated Um Habiba:",
+      "text": "Abdullah bin Ca'fer, Ali'nin kızı ve eşini aynı anda evlendirdi (onlar üvey kız ve annedir). İbn Sirin, \"Bunda bir sakınca yoktur\" dedi. Ama Hasan el-Basri başlangıçta buna karşı çıktı, sonra bunun sakıncası olmadığını söyledi. Hasan bin Hasan bin Ali bir gecede iki kuzeniyle evlendi. Ca'fer bin Zaid, bunun iki kuzen arasında düşmanlık doğuracağını düşündüğü için buna karşı çıktı, ama bu haram değildir, çünkü Allah şöyle buyurdu: \"Diğerleri sizin için helaldir.\" (4:24)."
+    },
+    {
+      "id": 46,
+      "narrator": "Narrated Jabir:",
+      "text": "Jabir'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ), bir kadının babası veya annesi tarafından teyze olan bir adamla evlenmesini yasakladı."
+    },
+    {
+      "id": 47,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) dedi ki: \"Bir kadın ve babası tarafından teyze olan kadın aynı adamla evlenmemelidir; aynı şekilde, bir kadın ve annesi tarafından teyze olan kadın da aynı adamla evlenmemelidir.\""
+    },
+    {
+      "id": 48,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ), bir kadının babası veya annesi tarafından teyze olan bir adamla (aynı anda) evlenmesini yasakladı. Az-Zuhri (alt rivayetçi) dedi ki: Eşin babasının teyzesine de benzer bir yasak vardır; çünkü 'Urva bana 'Aişe'nin şöyle dediğini söyledi: \"Kan bağı nedeniyle haram olan, aynı zamanda emzirme ilişkileri nedeniyle de haramdır.\""
+    },
+    {
+      "id": 49,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn Ömer'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) Ash-Shighar'ı yasakladı; bu, birinin kızını bir başkasına vermesi ve diğerinin de kendi kızını ona vermesi anlamına gelir, Mahr ödemeden."
+    },
+    {
+      "id": 50,
+      "narrator": "Narrated Hisham's father:",
+      "text": "Hişam'ın babasından rivayet edilmiştir: Khaula bint Hakim, Peygamber (ﷺ) ile evlenmek için kendini sunan kadınlardan biriydi. 'Aişe dedi ki: \"Bir kadın kendini bir erkeğe sunmaktan utanmaz mı?\" Fakat ayet: \"(Ey Muhammed) Dilediğinizi (eşlerinizden) erteleyebilirsiniz,\" (33.51) nazil olunca, 'Aişe dedi ki: \"Ey Allah'ın Elçisi (ﷺ)! Rabbinizin sizi memnun etmekte acele ettiğini görüyorum.\""
+    },
+    {
+      "id": 51,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) ihram halinde evlendi."
+    },
+    {
+      "id": 52,
+      "narrator": "Narrated `Ali:",
+      "text": "Ali'den rivayet edilmiştir: Ben İbn Abbas'a dedim ki: \"Hayber savaşında Peygamber (ﷺ) Al-Mut'a (geçici evlilik) ve eşek etinin yenmesini yasakladı.\""
+    },
+    {
+      "id": 53,
+      "narrator": "Narrated Abu Jamra:",
+      "text": "Ebu Cemra'dan rivayet edilmiştir: İbn Abbas'ın kadınlarla Mut'a hakkında bir fetva verdiğini duydum ve bunu (Nikah-al-Mut'a) caiz gördü. Bunun üzerine onun azatlı kölesi ona dedi ki: \"Bu sadece çok ihtiyaç duyulduğunda ve kadınların az olduğu zaman geçerlidir.\" Bunun üzerine İbn Abbas dedi ki: \"Evet.\""
+    },
+    {
+      "id": 54,
+      "narrator": "Narrated Jabir bin `Abdullah and Salama bin Al-Akwa`:",
+      "text": "Jabir bin Abdullah ve Selame bin Akva'dan rivayet edilmiştir: Biz bir ordudayken, Allah'ın Elçisi (ﷺ) bize geldi ve dedi ki: \"Mut'a (evlilik) yapmanıza izin verildi, o halde yapın.\""
+    },
+    {
+      "id": 55,
+      "narrator": "Salama bin Al-Akwa` said:",
+      "text": "Selame bin Akva' dedi ki: Allah'ın Elçisi (ﷺ) dedi ki: \"Eğer bir adam ve bir kadın (geçici olarak evlenmekte) anlaşırsa, evlilikleri üç gece sürmelidir; eğer devam etmek isterlerse, devam edebilirler; ve eğer ayrılmak isterlerse, ayrılabilirler.\" Bunun sadece bizim için mi yoksa genel olarak tüm insanlar için mi olduğunu bilmiyorum. Ebu Abdullah (Al-Buhari) dedi ki: Ali, Peygamberin \"Mut'a evliliği iptal edilmiştir (haram kılınmıştır)\" dediğini açıkladı."
+    },
+    {
+      "id": 56,
+      "narrator": "Narrated Thabit Al-Banani:",
+      "text": "Sabit el-Banani'den rivayet edilmiştir: Ben Anas'la birlikteydim, kızı da onunla birlikteydi. Anas dedi ki: \"Bir kadın Allah'ın Elçisine geldi ve kendini ona sundu, 'Ey Allah'ın Elçisi (ﷺ), bana ihtiyacınız var mı (yani benimle evlenmek ister misiniz)?' dedi.\" Bunun üzerine Anas'ın kızı dedi ki: \"Ne kadar yüzsüz bir kadın! Utan! Utan!\" Anas dedi ki: \"O, senin gibi değildi; o, Peygamber (ﷺ) için bir sevgi besliyordu, bu yüzden kendini ona evlenmek için sundu.\""
+    },
+    {
+      "id": 57,
+      "narrator": "Narrated Sahl bin Sa`d:",
+      "text": "Sahl bin Sa'd'dan rivayet edilmiştir: Bir kadın, Peygamber'e (evlilik için) kendini sundu. Bir adam ona dedi ki: \"Ey Allah'ın Elçisi (ﷺ)! (Eğer ona ihtiyacınız yoksa) onu bana ver.\" Peygamber (ﷺ) dedi ki: \"Senin neyin var?\" Adam dedi ki: \"Hiçbir şeyim yok.\" Peygamber (ﷺ) ona dedi: \"Git ve bir şey ara; hatta bir demir halka bile olsa.\" Adam gitti ve dönerek dedi ki: \"Hayır, hiçbir şey bulamadım, hatta bir demir halka bile; ama bu benim (izâr) bel örtüm, yarısı onun için.\" Onun üst giysisi yoktu. Peygamber (ﷺ) dedi ki: \"O, bel örtünle ne yapacak? Eğer onu giyersen, onun üzerinde hiçbir şey olmayacak; eğer o giyerse, senin üzerinde hiçbir şey olmayacak.\" Bunun üzerine adam oturdu ve uzun bir süre oturduktan sonra kalktı (gitmek için). Peygamber (ﷺ) onu (giderken) görünce geri çağırdı veya adam onun için çağrıldı ve ona dedi ki: \"Kur'an'dan ne kadar biliyorsun (ezbere)?\" Adam cevapladı: \"Şu sureyi ve şu sureyi (ezbere) biliyorum,\" sureleri isimlendirerek. Peygamber (ﷺ) dedi ki: \"Ben onu sana, bildiğin Kur'an için evlendirdim.\""
+    },
+    {
+      "id": 58,
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "Abdullah bin Ömer'den rivayet edilmiştir: Ömer bin Hattab dedi ki: \"Hafsa bint Ömer, (kocası) Khunais bin Hudhafa As-Sahmi'nin vefatından sonra dul kaldığında, o Peygamberin arkadaşlarından biriydi ve Medine'de vefat etti. Ben Osman bin Affan'a gittim ve Hafsa'yı (evlilik için) ona sundum. O dedi ki: \"Bunu düşüneceğim.\" Birkaç gün bekledim, sonra bana geldi ve dedi ki: \"Şu anda evlenmemin mümkün olmadığını düşünüyorum.\" Ömer devam etti: \"Abu Bekir As-Sıddık ile karşılaştım ve ona dedim ki: \"İstersen, kızım Hafsa'yı sana vereyim.\" Abu Bekir sessiz kaldı ve bana cevap vermedi. Ben ona Osman'dan daha fazla kızdım. Birkaç gün bekledim ve sonra Allah'ın Elçisi (ﷺ) onun elini istedi ve ben onu ona verdim. Daha sonra Abu Bekir ile karşılaştım, o dedi ki: \"Belki sen, Hafsa'yı bana sunduğunda ve ben sana cevap vermediğimde bana kızdın?\" Ben dedim: \"Evet.\" Abu Bekir dedi ki: \"Beni senin teklifine cevap vermekten alıkoyan tek şey, Allah'ın Elçisinin onu anmış olmasıdır; ve ben Allah'ın Elçisinin sırrını ifşa etmek istemedim. Eğer Allah'ın Elçisi onu reddetseydi, ben onu kabul ederdim.\""
+    },
+    {
+      "id": 59,
+      "narrator": "Narrated Zainab bint Salama:",
+      "text": "Zeynep bint Selama'dan rivayet edilmiştir: Ümmü Habibe, Allah'ın Elçisine (ﷺ) dedi ki: \"Durra bint Ebu Selama ile evlenmek istediğinizi duyduk.\" Allah'ın Elçisi (ﷺ) dedi ki: \"O, Ümmü Selama (annesinin) yanında evlenebilir mi? Ümmü Selama ile evlenmemiş olsam bile, onunla evlenmem benim için caiz olmaz; çünkü babası benim süt kardeşimdir.\""
+    },
+    {
+      "id": 60,
+      "narrator": "Ibn `Abbas said:",
+      "text": "İbn Abbas dedi ki: \"Evlilik niyetini belirtmek, dul kadına örneğin: \"Evlenmek istiyorum ve Allah'ın benim için salih bir kadın yaratmasını diliyorum,\" diyerek yapılır.\" Al-Kasım dedi ki: Dul kadına şöyle denebilir: \"Sana tüm saygım var ve seninle ilgileniyorum; Allah sana çok hayır getirecek,\" veya benzeri bir şey. 'Ata dedi ki: Niyetini belirtmeli ve bunu açıkça ifade etmemelidir. Şöyle denilebilir: \"Bir ihtiyacım var. Müjdeler olsun. Hamd olsun Allah'a; sen yeniden evlenmeye uygunsun.\" O (dul kadın) cevap olarak: \"Söylediklerini dinliyorum,\" diyebilir; ancak bir söz vermemelidir. Velayet sahibi, onun bilgisi olmadan (birine evlenmesi için) söz vermemelidir. Ancak, iddet döneminde birine evlenme sözü verirse ve o sonunda onunla evlenirse, boşanmayla ayrılmaları gerekmez (yani, evlilik geçerlidir)."
+    },
+    {
+      "id": 61,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) bana şöyle dedi: \"Seni bir rüyada bana gösterdiler. Bir melek seni bana getirdi, ipek bir örtüye sarılıydın ve bana, 'Bu senin eşin.' dedi. Ben örtüyü yüzünden kaldırdım ve işte oradaydın. Kendime dedim ki, 'Eğer bu Allah'tan ise, elbette olacaktır.'\""
+    },
+    {
+      "id": 62,
+      "narrator": "Narrated Sahl bin Sa`d:",
+      "text": "Sahl bin Sa'd'dan rivayet edilmiştir: Bir kadın Allah'ın Elçisi (ﷺ)'ne geldi ve dedi ki, \"Ey Allah'ın Elçisi (ﷺ)! Ben sana kendimi (evlilik için) sunmaya geldim.\" Allah'ın Elçisi (ﷺ) ona baktı. Onu dikkatlice inceledi ve bakışını ona sabitledi, sonra başını eğdi. Kadın onun bir şey söylemediğini görünce oturdu. Arkadaşlarından bir adam ayağa kalktı ve dedi ki, \"Ey Allah'ın Elçisi (ﷺ)! Eğer ona ihtiyacın yoksa, onu bana nikahla.\" Peygamber (ﷺ) dedi ki, \"Sunabileceğin bir şey var mı?\" Adam, \"Hayır, Allah'a yemin ederim, ey Allah'ın Elçisi (ﷺ)!\" dedi. Peygamber (ﷺ) ona, \"Ailene git ve bir şey bulmaya çalış.\" dedi. Adam gitti ve geri döndü, \"Hayır, Allah'a yemin ederim, ey Allah'ın Elçisi (ﷺ)! Hiçbir şey bulamadım.\" dedi. Peygamber (ﷺ) dedi ki, \"Tekrar git ve bir şey ara, hatta bir demir yüzük bile olsa.\" Gitti ve geri döndü, \"Hayır, Allah'a yemin ederim, ey Allah'ın Elçisi (ﷺ)! Hatta bir demir yüzük bile bulamadım, ama bu benim İzarım (bel örtüm).\" dedi. Üst giysisi yoktu. \"Onun yarısını ona veriyorum.\" dedi. Allah'ın Elçisi (ﷺ) dedi ki, \"O senin İzarınla ne yapacak? Eğer onu giyersen, onun üzerinde hiçbir şey olmayacak (çıplak kalacak); ve eğer o giyerse, o zaman senin üzerinde hiçbir şey olmayacak.\" Adam uzun bir süre oturdu ve sonra kalktı (gitmek için). Allah'ın Elçisi (ﷺ) onu giderken görünce geri çağrılmasını emretti. Geldiğinde, Peygamber (ﷺ) ona, \"Kur'an'dan ne kadar biliyorsun (ezbere)?\" diye sordu. Adam, \"Şu sureyi, bu sureyi ve şu sureyi biliyorum.\" dedi. Peygamber (ﷺ) dedi ki, \"Ezbere okuyabilir misin?\" Adam, \"Evet.\" dedi. Peygamber (ﷺ) dedi ki, \"Git, seni onunla evlendirdim, bildiğin Kur'an ile (Mahr olarak).\""
+    },
+    {
+      "id": 63,
+      "narrator": "Narrated 'Urwa bin Az-Zubair:",
+      "text": "Urve bin Zübeyr'den rivayet edilmiştir: Peygamber (ﷺ)'in eşi Aişe, ona İslam öncesi cahiliye döneminde dört tür evlilik olduğunu söyledi. Bir tür, günümüzdeki gibi, bir adamın başka birine bir kızın elini istemesi veya kızının elini istemesi ve ona Mahr vermesi ve sonra onunla evlenmesiydi. İkinci tür, bir adamın karısına, adet döneminden temizlendikten sonra, \"Şu adamı çağır ve onunla cinsel ilişkiye gir.\" demesiydi. Kocası ondan uzak durur ve o diğer adamla yatana kadar onunla asla yatmazdı. Kadın hamile kaldığında, kocası isterse onunla yatar. Kocası bunu, soylu bir çocuk sahibi olabilmek için yapardı. Bu tür evliliğe Al-Istibda' denirdi. Diğer bir tür evlilik, ondan az sayıda (on kişiden az) adamın bir araya gelip bir kadına girmesi ve hepsinin onunla cinsel ilişkiye girmesiydi. Eğer kadın hamile kalır ve bir çocuk doğurursa, doğumdan birkaç gün sonra hepsini çağırır ve hiçbiri gelmekten imtina etmezdi. Hepsi onun önünde toplandığında, onlara, \"Siz (hepiniz) ne yaptığınızı biliyorsunuz ve şimdi ben bir çocuk doğurdum. O, sizin çocuğunuzdur!\" diyerek istediği ismi verirdi ve çocuğu ona bağlardı ve o adam çocuğu kabul etmekten imtina edemezdi. Dördüncü tür evlilik, birçok insanın bir kadına girmesi ve o kadının gelen hiç kimseyi reddetmemesiydi. Onlar, kapılarında bayraklar asarak işaret koyan fahişelerdi ve isteyen herkes onlarla cinsel ilişkiye girebilirdi. Eğer onlardan biri hamile kalır ve bir çocuk doğurursa, o zaman bütün o adamlar onun için toplanır ve onlara, çocuğun babasını tanıyan Qa'if (çocuğun babasına benzerliğini tanıyan kişiler) çağrılır ve çocuk, tanıdıkları adamın peşine takılır ve ona bağlı kalır ve onun oğlu olarak anılırdı. Adam bunların hepsine itiraz etmezdi. Ama Muhammed (ﷺ) Hak ile gönderildiğinde, cahiliye döneminde gözlemlenen tüm evlilik türlerini, günümüzde insanların tanıdığı tür dışında, ortadan kaldırdı."
+    },
+    {
+      "id": 64,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: (Ayet hakkında): 'Ve size kitapta okunanlar hakkında, yetim kızlar hakkında, onlara belirlenen payları vermediğiniz ve yine de onlarla evlenmek istediğiniz.' (4.127) Bu ayet, bir adamın himayesinde olan ve onunla mal paylaşan, ama onunla evlenmek istemeyen ve başka birisiyle evlenmesini engelleyen kadın yetim hakkında."
+    },
+    {
+      "id": 65,
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "Abdullah bin Ömer'den rivayet edilmiştir: Hafsa, Ömer'in kızı, kocası İbn Hudhafa Es-Sahmi'nin vefat etmesiyle dul kaldığında, Ömer dedi ki, \"Ben Osman bin Affan ile karşılaştım ve ona bir teklif yaptım, 'İstersen, Hafsa'yı sana nikahlarım.' dedim. O, 'Düşüneceğim.' dedi. Birkaç gün bekledim, sonra bana geldi ve 'Şu anda evlenmeye karar vermedim.' dedi.\" Ömer ekledi, \"Sonra Ebu Bekir ile karşılaştım ve ona, 'İstersen, Hafsa'yı sana nikahlarım.' dedim.\""
+    },
+    {
+      "id": 66,
+      "narrator": "Narrated Al-Hasan:",
+      "text": "Hasan'dan rivayet edilmiştir: 'Onları engellemeyin' (2.232) ayeti ile ilgili olarak, Ma'qil bin Yasar bana bunun onunla ilgili olarak indirildiğini söyledi. Dedi ki, \"Kız kardeşimi bir adama verdim ve o onu boşadı, ve 'Idda (üç adet dönemi) günleri sona erdiğinde, adam tekrar geldi ve onun elini istedi, ama ben ona, 'Ben onu sana nikahladım ve onu senin yatağın yaptım ve sana onu verdim, ama sen onu boşadın. Şimdi tekrar onun elini mi istiyorsun? Hayır, Allah'a yemin ederim, o asla sana geri dönmeyecek!' dedim. O adam kötü bir adam değildi ve karısı ona geri dönmek istiyordu. Bunun üzerine Allah bu ayeti indirdi: 'Onları engellemeyin.' (2.232) Ben de dedim ki, 'Şimdi yapacağım (onu geri vermek), ey Allah'ın Elçisi (ﷺ).\" Böylece onu tekrar ona nikahladı."
+    },
+    {
+      "id": 67,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: (Onun ifadesi hakkında): 'Kadınlar hakkında sana soruyorlar. De ki: Allah onlara dair size talimat veriyor...' (4.127) Bu, bir adamın himayesinde olan ve onunla mal paylaşan, ama onunla evlenmek istemeyen ve başka birisiyle evlenmesini engelleyen kadın yetim hakkındadır. Bu nedenle Allah, böyle bir velinin bunu yapmasını yasakladı (yani onu evlenmekten alıkoymayı)."
+    },
+    {
+      "id": 68,
+      "narrator": "Narrated Sahl bin Sa`d:",
+      "text": "Sahl bin Sa'd'dan rivayet edilmiştir: Peygamber (ﷺ) ile otururken bir kadın ona geldi ve kendisini (evlilik için) sundu. Peygamber (ﷺ) ona baktı, gözlerini indirdi ve kaldırdı, ama cevap vermedi. Arkadaşlarından biri, \"Onu bana nikahla, ey Allah'ın Elçisi (ﷺ)!\" dedi. Peygamber (ﷺ) ona, \"Bir şeyin var mı?\" diye sordu. O, \"Hiçbir şeyim yok.\" dedi. Peygamber (ﷺ) dedi ki, \"Hatta bir demir yüzük bile mi?\" O, \"Hatta bir demir yüzük bile yok, ama giysimi ikiye böleceğim ve bir yarısını ona vereceğim.\" dedi. Peygamber (ﷺ) dedi ki, \"Hayır. Kur'an'dan (ezbere) bir şey biliyor musun?\" O, \"Evet.\" dedi. Peygamber (ﷺ) dedi ki, \"Git, seni onunla evlendirdim, bildiğin Kur'an ile (Mahr olarak).\""
+    },
+    {
+      "id": 69,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Peygamber (ﷺ) onu altı yaşında evlendirdi ve dokuz yaşında onunla birlikte oldu, ve sonra onunla dokuz yıl (yani, vefatına kadar) kaldı."
+    },
+    {
+      "id": 70,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Peygamber (ﷺ) onu altı yaşında evlendirdi ve dokuz yaşında onunla birlikte oldu. Hişam dedi ki: Aişe'nin Peygamber (ﷺ) ile dokuz yıl (yani, vefatına kadar) kaldığını duydum."
+    },
+    {
+      "id": 71,
+      "narrator": "Narrated Sahl bin Sa`d:",
+      "text": "Sahl bin Sa'd'dan rivayet edilmiştir: Bir kadın Allah'ın Elçisi (ﷺ)'ne geldi ve dedi ki, \"Kendimi (sana) sunuyorum (evlilik için).\" Uzun bir süre bekledi, sonra bir adam dedi ki, \"Eğer ona ihtiyacın yoksa, onu bana nikahla.\" Peygamber (ﷺ) dedi ki, \"Onun Mahr'ını ödeyebilmek için bir şeyin var mı?\" O, \"Yanımda sadece İzarım (bel örtüm) var.\" dedi. Peygamber (ﷺ) dedi ki, \"Eğer ona İzarını verirsen, giyecek bir İzarın kalmayacak, (o yüzden) git ve bir şey ara.\" O, \"Hiçbir şey bulamadım.\" dedi. Peygamber (ﷺ) dedi ki, \"Bir şey bulmaya çalış, hatta bir demir yüzük bile olsa.\" Ama o (bunu) bulamadı. Peygamber (ﷺ) ona, \"Kur'an'dan bir şey ezberledin mi?\" \"Evet.\" dedi, \"şu sure ve bu sure,\" diyerek o sureleri saydı. Peygamber (ﷺ) dedi ki, \"Onu bildiğin Kur'an ile (Mahr olarak) ona nikahladık.\""
+    },
+    {
+      "id": 72,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) dedi ki, \"Bir matron, ancak onun izni alındıktan sonra evlendirilebilir; ve bir kız, ancak onun izni alındıktan sonra evlendirilebilir.\" İnsanlar sordular, \"Ey Allah'ın Elçisi (ﷺ)! Onun iznini nasıl bilebiliriz?\" O, \"Susması (iznini gösterir).\" dedi."
+    },
+    {
+      "id": 73,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: \"Ey Allah'ın Elçisi (ﷺ)! Bir kız utangaçtır.\" dedim. O, \"Onun rızası (susması ile) ifade edilir.\" dedi."
+    },
+    {
+      "id": 74,
+      "narrator": "Narrated Khansa bint Khidam Al-Ansariya:",
+      "text": "Khansa bint Khidam El-Ensariye'den rivayet edilmiştir: Babası onu matronken evlendirdi ve o bu evliliği istemedi. Bunun üzerine Allah'ın Elçisi (ﷺ)'ne gitti ve o evliliği geçersiz kıldı."
+    },
+    {
+      "id": 75,
+      "narrator": "Narrated `Abdur-Rahman bin Yazid and Majammi bin Yazid:",
+      "text": "Abdurrahman bin Yazid ve Mucemmi bin Yazid'den rivayet edilmiştir: Yukarıdaki aynı Hadis: Bir adam Khidam, kızını (birine) rızası olmadan evlendirdi. 'Eğer yetim kızlarla adil davranamayacağınızdan korkuyorsanız, (seçtiğiniz) diğer kadınlarla evlenin.' (4.3) Ve eğer birisi bir kadının velisine, \"Beni şu kişiyle evlendir.\" derse ve veli sessiz kalır veya ona, \"Ne sunuyorsun?\" derse ve diğeri, \"Şu kadar Mahrım var.\" derse veya sessiz kalırsa, ardından veli, \"Ben onu sana nikahladım.\" derse, o zaman evlilik geçerlidir (yasal). Bu rivayet Sahl tarafından Peygamber (ﷺ)'in adına aktarılmıştır."
+    },
+    {
+      "id": 76,
+      "narrator": "Narrated 'Urwa bin Az-Zubair:",
+      "text": "Urve bin Zübeyr'den rivayet edilmiştir: O, Aişe'ye sordu, \"Ey annem! Bu ayet hangi bağlamda indirildi: 'Eğer yetim kızlarla adaletli davranamayacağınızdan korkarsanız (ayet sonuna kadar) sağ ellerinizin sahip olduğu (kızlar) için?' (4.3) Aişe şöyle dedi: \"Ey yeğenim! Bu, koruyucusu onun güzelliği ve servetiyle ilgilenen ve ona az bir veya indirilmiş mehirle evlenmek isteyen bir yetim kız hakkındaydı. Böyle koruyuculara, yetim kızlarla adaletli davranmadıkları ve tam mehir vermedikleri sürece evlenmeleri yasaklandı; ve onlara başka kadınlarla evlenmeleri emredildi.\" Aişe ekledi: \"(Sonra) insanlar Allah'ın Resulü'ne (ﷺ) talimatlar sordu, ardından Allah şöyle indirdi: 'Kadınlar hakkında sana soruyorlar... ve evlenmek istediğin kimseler hakkında.' (4.127) Böylece Allah, bu ayette onlara şunu bildirdi: Eğer bir yetim kızın serveti ve güzelliği varsa, onu evlenmek istiyorlar ve asil soyuna ve mehirin indirilmesine ilgi duyuyorlar; ama eğer o, servet ve güzellik eksikliği nedeniyle istenmiyorsa, onu bırakıyorlar ve başka bir kadınla evleniyorlar. Dolayısıyla, ona ilgi duymadıkları zaman onu bıraktıkları gibi, eğer ona evlenme arzuları varsa, adaletli davranmadıkları ve ona tam mehir vermedikleri sürece onunla evlenme hakları yoktur.\""
+    },
+    {
+      "id": 77,
+      "narrator": "Narrated Sahl:",
+      "text": "Sahl'den rivayet edilmiştir: Bir kadın Peygamber'e (ﷺ) geldi ve kendisini (evlilik için) sundu. O, \"Bu günlerde kadınlara ihtiyacım yok.\" dedi. Sonra bir adam, \"Ey Allah'ın Resulü (ﷺ)! Onu bana nikahlayın.\" dedi. Peygamber (ﷺ) ona sordu, \"Ne var?\" O, \"Hiçbir şeyim yok.\" dedi. Peygamber (ﷺ) dedi ki, \"Ona bir şey ver, hatta bir demir yüzük bile.\" O, \"Hiçbir şeyim yok.\" dedi. Peygamber (ﷺ) sordu, \"Kuran'dan ne kadar biliyorsun (ezbere)?\" O, \"Şu kadar ve şu kadar.\" dedi. Peygamber (ﷺ) dedi ki, \"Ben seni onunla, bildiğin Kuran ile nikahladım.\""
+    },
+    {
+      "id": 78,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn Ömer'den rivayet edilmiştir: Peygamber (ﷺ), bir kişinin başka kişiler arasında daha önce kararlaştırılmış bir pazarlığı iptal etmeye çalışmaması gerektiğini (daha yüksek bir fiyat teklif ederek) belirtti. Ve bir adam, zaten Müslüman kardeşiyle nişanlı olan bir kızın elini istememelidir, ancak ilk talip onu bırakırsa veya ona elini istemesi için izin verirse."
+    },
+    {
+      "id": 79,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) dedi ki, \"Başkaları hakkında şüphe etmekten sakının, çünkü şüphe en yanlış sözdür, ve birbirinize casusluk yapmayın, ve insanların başkalarının işlerine dair kötü konuşmalarını dinlemeyin, ve birbirinize düşmanlık beslemeyin, ama kardeş olun. Ve hiç kimse, zaten (Müslüman) kardeşine nişanlı olan bir kızın elini istememelidir, ama ilk talip evlenene veya onu bırakana kadar beklemelidir.\""
+    },
+    {
+      "id": 80,
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "Abdullah bin Ömer'den rivayet edilmiştir: \"Hafsa dul kaldığında,\" Ömer dedi ki, \"Ebu Bekir ile karşılaştım ve ona, 'İstersen Hafsa bint Ömer'i sana nikahlayacağım.' dedim. Birkaç gün bekledim, sonra Allah'ın Resulü (ﷺ) onun elini istedi. Daha sonra Ebu Bekir benimle karşılaştı ve 'Senin teklifinle ilgili geri dönmeme sebep olan tek şey, Allah'ın Resulü (ﷺ) onunla evlenmek istediğini bildiğim için, ve ben Allah'ın Resulü'nün sırrını asla açığa çıkaramam. Eğer onu bırakmış olsaydı, onu kabul ederdim.' dedi.\""
+    },
+    {
+      "id": 81,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn Ömer'den rivayet edilmiştir: İki adam doğudan geldi ve konuşmalar yaptı, Peygamber (ﷺ) dedi ki, \"Bazı etkileyici konuşmalar sihir etkisi taşır.\" (örneğin, bazı insanlar bir şeyi yapmayı reddeder ve sonra iyi bir hitabetçi onlara hitap eder ve sonra onların bu şeyi yapmayı kabul ettikleri görülür)"
+    },
+    {
+      "id": 82,
+      "narrator": "Narrated Ar-Rabi`:",
+      "text": "Ar-Rabi'den (Muavviz bin Afra'nın kızı) rivayet edilmiştir: Evliliğimin tamamlanmasından sonra, Peygamber (ﷺ) geldi ve benim yatağımda, şu an oturduğunuz kadar uzakta oturdu, ve küçük kızlarımız davulları çalmaya ve babamın Badr savaşında öldüğü için ağıtlar okumaya başladılar. Birisi dedi ki, \"Aramızda, yarın ne olacağını bilen bir Peygamber var.\" Bunun üzerine Peygamber dedi ki, \"Bu (söylemi) bırakın ve daha önce söylediğiniz ayetleri söylemeye devam edin.\""
+    },
+    {
+      "id": 83,
+      "narrator": "Narrated Anas:",
+      "text": "Enes'ten rivayet edilmiştir: Abdurrahman bin Avf, bir kadınla evlendi ve ona bir hurma çekirdeği ağırlığında altın verdi (mehir olarak). Peygamber (ﷺ) onun yüzündeki evlilik neşesi belirtilerini görünce ve ona bunun hakkında sorduğunda, o, \"Bir kadınla evlendim ve ona bir hurma çekirdeği ağırlığında altın verdim (mehir olarak).\" dedi."
+    },
+    {
+      "id": 84,
+      "narrator": "Narrated Sahl bin Sa`d As-Sa`idi:",
+      "text": "Sahl bin Sa'd As-Sa'idi'den rivayet edilmiştir: Ben, Allah'ın Resulü (ﷺ) ile birlikte insanlarla otururken, bir kadın ayağa kalktı ve \"Ey Allah'ın Resulü (ﷺ)! O, kendisini sana nikahladı; lütfen onun hakkında fikrini belirt.\" dedi. Peygamber ona hiçbir cevap vermedi. O tekrar ayağa kalktı ve \"Ey Allah'ın Resulü (ﷺ)! O, kendisini sana nikahladı; lütfen onun hakkında fikrini belirt.\" dedi. Peygamber (ﷺ) ona yine cevap vermedi. O üçüncü kez ayağa kalktı ve \"O, kendisini sana nikahladı; onun hakkında fikrini belirt.\" dedi. Bunun üzerine bir adam ayağa kalktı ve \"Ey Allah'ın Resulü (ﷺ)! Onu bana nikahlayın.\" dedi. Peygamber ona sordu, \"Bir şeyin var mı?\" O, \"Hayır.\" dedi. Peygamber (ﷺ) dedi ki, \"Git ve bir şey ara, hatta bir demir yüzük bile.\" Adam gitti ve aradı, sonra geri döndü ve \"Hiçbir şey bulamadım, hatta bir demir yüzük bile.\" dedi. Sonra Peygamber (ﷺ) dedi ki, \"Kuran'dan bir şey biliyor musun (ezbere)?\" O, \"Şu kadar ve şu kadar Sura biliyorum.\" dedi. Peygamber (ﷺ) dedi, \"Git! Ben seni onunla, bildiğin Kuran ile nikahladım.\""
+    },
+    {
+      "id": 85,
+      "narrator": "Narrated Sahl bin Sa`d:",
+      "text": "Sahl bin Sa'd'dan rivayet edilmiştir: Peygamber (ﷺ) bir adama dedi ki, \"Evlen, hatta (mehir olarak) bir demir yüzükle bile.\""
+    },
+    {
+      "id": 86,
+      "narrator": "Narrated `Uqba:",
+      "text": "Ukbe'den rivayet edilmiştir: Peygamber (ﷺ) dedi: \"En çok uyulması gereken şartlar, (kadınların) özel bölgelerinden yararlanma hakkı verdiğiniz şartlardır (yani, evlilik sözleşmesinin şartları).\""
+    },
+    {
+      "id": 87,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) dedi, \"Bir kadın (düğün zamanında) kız kardeşinin (yani, olası kocasının diğer eşi) boşanmasını istemesi, her şeyi kendisi için istemesi için caiz değildir, çünkü o, kendisi için yazılanı alacaktır.\""
+    },
+    {
+      "id": 88,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir: Abdurrahman bin Avf, Allah'ın Resulü (ﷺ) yanına geldi ve üzerinde Sufra (sarı parfüm) izleri vardı. Allah'ın Resulü (ﷺ) ona (bu izler hakkında) sordu. Abdurrahman bin Avf, bir Ensar kadını ile evlendiğini söyledi. Peygamber (ﷺ) sordu, \"Ona ne kadar mehir verdin?\" O, \"Bir hurma çekirdeği ağırlığında altın verdim.\" dedi. Allah'ın Resulü (ﷺ) ona dedi ki, \"Bir düğün ziyafeti ver, hatta bir koyunla bile.\""
+    },
+    {
+      "id": 89,
+      "narrator": "Narrated Anas:",
+      "text": "Enes'ten rivayet edilmiştir: Peygamber (ﷺ), Zeynep ile evlendiği zaman bir düğün ziyafeti sundu ve Müslümanlar için güzel bir yemek hazırladı. Sonra, evlenme geleneği gereği, Müminlerin annelerinin (yani, eşlerinin) ikamet yerlerine gitti, onlara hayır duaları etti ve onlar da ona hayır duaları ettiler. Sonra ayrıldı (ve geri döndü) ve iki adamın (hala orada oturduğunu) gördü. Böylece tekrar ayrıldı. Onun ayrılışını bildirdiğimi veya başka birinin ona bildirdiğini hatırlamıyorum."
+    },
+    {
+      "id": 90,
+      "narrator": "Narrated Anas:",
+      "text": "Enes'ten rivayet edilmiştir: Peygamber (ﷺ) Abdurrahman bin Avf'ın üzerinde Sufra (sarı parfüm) izlerini gördü ve dedi ki, \"Bu nedir?\" Abdurrahman, \"Bir kadınla evlendim ve ona bir hurma çekirdeği ağırlığında altın verdim (mehir olarak).\" dedi. Peygamber (ﷺ) ona dedi ki, \"Allah seni mübarek etsin: Bir düğün ziyafeti ver, hatta bir koyunla bile.\""
+    },
+    {
+      "id": 91,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Peygamber (ﷺ) benimle evlendiğinde, annem bana geldi ve beni, \"İnşallah hayırlı ve bereketli olursun\" diyen Ensar kadınlarının bulunduğu eve soktu."
+    },
+    {
+      "id": 92,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Peygamberlerden biri bir askeri sefere çıktı ve halkına şöyle dedi: 'Bir kadınla evlenip onunla nikahını tamamlamak isteyen bir adam benimle birlikte gelmesin.'\""
+    },
+    {
+      "id": 93,
+      "narrator": "Narrated 'Urwa:",
+      "text": "Urve'den rivayet edilmiştir: Peygamber (ﷺ) Aişe ile evlilik sözleşmesini altı yaşında yaptı ve onunla dokuz yaşında nikahını tamamladı ve Aişe, onunla dokuz yıl (yani vefatına kadar) birlikte kaldı."
+    },
+    {
+      "id": 94,
+      "narrator": "Narrated Anas:",
+      "text": "Enes'ten rivayet edilmiştir: Peygamber (ﷺ) Hayber ile Medine arasında bir yerde üç gün kaldı ve orada Safiye bint Huyay ile nikahını tamamladı. Müslümanları et yemeyen ve ekmek içermeyen bir ziyafete davet ettim. Peygamber (ﷺ) deriden yemek örtülerinin serilmesini emretti, ardından üzerine hurma, kuru yoğurt ve tereyağı konuldu ve bu, Peygamber'in walimasıydı. Müslümanlar, Safiye'nin onun eşi mi yoksa sağ elinin sahip olduğu bir cariye mi olacağını sordular. Sonra dediler ki, \"Eğer Peygamber (ﷺ) onu insanlardan gizlerse, o Peygamber'in eşidir; ama eğer gizlemezse, o bir cariyedir.\" Peygamber (ﷺ) ilerlediğinde, ona (devenin üzerinde) arkasında bir yer yaptı ve onu insanlardan gizledi."
+    },
+    {
+      "id": 95,
+      "narrator": "Narrated Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Peygamber (ﷺ) benimle evlendiğinde, annem beni (Peygamber'in) evine soktu ve beni şaşırtan tek şey, Allah'ın Elçisi (ﷺ)'nin sabah saatlerinde yanıma gelmesiydi."
+    },
+    {
+      "id": 96,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Cabir bin Abdullah'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Anmat'ı aldınız mı?\" Ben de, 'Ey Allah'ın Elçisi (ﷺ)! Anmat'ı nereden alabiliriz?' dedim. Peygamber (ﷺ) dedi ki, \"Yakında onu (Anmat) alacaksınız.\""
+    },
+    {
+      "id": 97,
+      "narrator": "Narrated 'Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: O, Ensar'dan bir adam için bir kadını gelin olarak hazırladı ve Peygamber şöyle dedi: \"Ey Aişe! Ensar eğlenceyi seviyor, nikah merasiminde eğlenceniz olmadı mı?\""
+    },
+    {
+      "id": 98,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir: \"Peygamber (ﷺ) annem Ümmü Süleym'in yanından geçtiğinde, ona girer ve selam verirdi. Enes devamla şöyle dedi: Bir gün Peygamber (ﷺ) Zeynep ile evlendiğinde, Ümmü Süleym bana, 'Allah'ın Elçisi'ne bir hediye verelim.' dedi. Ben de ona, 'Yap.' dedim. O da hurma, tereyağı ve kuru yoğurttan yapılan Haisa (tatlı) hazırladı ve benimle ona gönderdi. Ben onu ona götürdüm ve o, 'Bunu yere koy.' dedi ve isimlerini verdiği bazı adamları çağırmamı emretti ve karşılaştığım herkesi davet etmemi istedi. Ben de onun emrettiği gibi yaptım ve döndüğümde, evin kalabalık insanlarla dolu olduğunu gördüm ve Peygamber (ﷺ)'in Haisa'nın üzerinde elini tuttuğunu ve üzerine Allah'ın istediği her şeyi söylediğini gördüm. Sonra onlara onar onar çağırarak yemelerini söyledi ve onlara, 'Allah'ın adını anın ve her adam en yakındaki yemekten yesin.' dedi. Hepsi yemeklerini bitirdikten sonra, bazıları gitti ve birkaç kişi orada kalıp konuştu, bu da beni üzdü. Sonra Peygamber (ﷺ) eşlerinin ikamet yerlerine doğru çıktı ve ben de onun arkasından çıktım ve o insanların gittiğini söyledim. Sonra o geri döndü ve ikamet yerine girdi ve ben (onun) ikametinde iken perdeleri indirdi ve o, şu ayetleri okumaya başladı: 'Ey iman edenler! Peygamber'in evine, yemek için izin verilmeden girmeyin, (ve sonra) onun hazırlanması için erken girmeyin. Ama davet edildiğinizde girin ve yemek yedikten sonra, sohbet etmek için oturmadan dağılın. Şüphesiz bu (davranış) Peygamber'i rahatsız eder; o sizden (gitmenizi) istemekte çekingen davranır, ama Allah, gerçeği söylemekte çekinmez.' (33-53) Ebu Osman dedi ki: Enes, 'Ben Peygamber'e on yıl hizmet ettim.' dedi.\""
+    },
+    {
+      "id": 99,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: O, Asma'dan bir kolye ödünç aldı ve sonra kayboldu. Bunun üzerine Allah'ın Elçisi (ﷺ) arkadaşlarından bazılarını onu aramaya gönderdi. Bu arada, namaz vakti geldi ve onlar abdest almadan namazlarını kıldılar. Peygamber'e geldiklerinde, bu durumu ona şikayet ettiler, bunun üzerine Tayammum ile ilgili ayet indirildi. Usaid bin Hudayr dedi ki, \"(Ey Aişe!) Allah sana güzel bir mükafat versin, çünkü Allah'a yemin ederim ki, seninle ilgili hiçbir zorluk olmadı ki, Allah sana ondan bir çıkış yolu vermesin ve Müslümanlar için Allah'ın bereketlerini getirmesin.\""
+    },
+    {
+      "id": 100,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Eğer sizden biri, karısıyla cinsel ilişkiye girdiğinde, 'Bismillah, Allahım, beni Şeytandan ve Şeytanı bize verdiğin şeylerden uzak tut.' derse ve eğer çocuk sahibi olmaları takdir edilmişse, o zaman Şeytan ona asla zarar veremez.\""
+    },
+    {
+      "id": 101,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir: Allah'ın Elçisi (ﷺ) Medine'ye geldiğinde ben on yaşındaydım. Annem ve teyzelerim beni Peygamber (ﷺ)'e düzenli olarak hizmet etmem için teşvik ederdi ve ben ona on yıl hizmet ettim. Peygamber (ﷺ) vefat ettiğinde yirmi yaşındaydım ve Al-Hijab (kadınların örtünmesi) emrini, onun indirildiği zaman, diğer herkesten daha iyi biliyordum. Bu, Allah'ın Elçisi (ﷺ) Zeynep bint Cahş ile nikahını tamamladığında ilk kez indirildi. Güneş doğduğunda, Peygamber (ﷺ) bir damat olarak insanları ziyafete davet etti, böylece geldiler, yediler ve sonra hepsi gitti, sadece birkaç kişi Peygamber (ﷺ) ile uzun bir süre kaldı. Peygamber (ﷺ) kalktı ve dışarı çıktı, ben de onunla birlikte çıktım ki o insanlar da gitsin. Peygamber (ﷺ) ilerledi ve ben de öyle yaptım, ta ki Aişe'nin ikamet yerinin eşiğine geldi. O zaman bu insanların gitmiş olduğunu düşünerek geri döndü ve ben de onunla birlikte geri döndüm, Zeynep'e girdi ve bakın ki, hala oturuyorlardı ve gitmemişlerdi. Bunun üzerine Peygamber (ﷺ) tekrar gitti ve ben de onunla birlikte gittim. Aişe'nin ikamet yerinin eşiğine geldiğimizde, onların gitmiş olduğunu düşündü ve geri döndü, ben de onunla birlikte geri döndüm ve o insanların gittiğini buldum. Sonra Peygamber (ﷺ) benimle arasında bir perde çekti ve Al-Hijab ayetleri indirildi.\""
+    },
+    {
+      "id": 102,
+      "narrator": "Narrated Anas:",
+      "text": "Enes'ten rivayet edilmiştir: Abdurrahman bin Avf, bir Ensari kadınla evlendiğinde, Peygamber (ﷺ) ona, \"Ne kadar mehr verdin?\" diye sordu. Abdurrahman, \"Bir hurma çekirdeği ağırlığında altın verdim.\" dedi. Enes ekledi: \"Onlar (yani Peygamber (ﷺ) ve arkadaşları) Medine'ye vardıklarında, muhacirler Ensar'ın evlerinde kaldılar. Abdurrahman bin Avf, Sa'd bin Ar-Rabi'nin evinde kaldı. Sa'd, Abdurrahman'a, 'Mülkümü seninle paylaşacağım ve iki karımdan birini sana vereceğim.' dedi. Abdurrahman, 'Allah seni, karılarını ve mülkünü bereketlendirsin (ben buna ihtiyacım yok; ama lütfen bana pazar yolunu göster).' dedi. Böylece Abdurrahman pazara gitti ve orada bazı kuru yoğurt ve tereyağı ile ticaret yaparak kazanç elde etti ve (bir Ensari kadınla) evlendi. Peygamber (ﷺ) ona, 'Bir ziyafet ver, hatta bir koyunla bile olsa.' dedi.\""
+    },
+    {
+      "id": 103,
+      "narrator": "Narrated Anas:",
+      "text": "Enes'ten rivayet edilmiştir: Peygamber (ﷺ), eşlerinden herhangi birinin evlenme merasimi için Zeynep ile evlendiği kadar güzel bir düğün ziyafeti vermedi ve o ziyafet bir koyunla oldu."
+    },
+    {
+      "id": 104,
+      "narrator": "Narrated Anas:",
+      "text": "Enes'ten rivayet edilmiştir: Allah'ın Elçisi (ﷺ) Safiye'yi azat etti ve sonra onunla evlendi, onun mehrinin azat edilmesi olduğunu ve Hais (tereyağı, peynir ve hurmadan yapılan bir tatlı) ile bir düğün ziyafeti verdi."
+    },
+    {
+      "id": 105,
+      "narrator": "Narrated Anas:",
+      "text": "Enes'ten rivayet edilmiştir: Peygamber (ﷺ) bir kadınla (Zeynep) evlendiğinde, beni yemek için adamları davet etmek üzere gönderdi."
+    },
+    {
+      "id": 106,
+      "narrator": "Narrated Thabit:",
+      "text": "Thabit'ten rivayet edilmiştir: Zeynep bint Cahş'ın evliliği Anas'ın huzurunda zikredildi ve o şöyle dedi: \"Peygamber (ﷺ) hiçbir eşine evlenirken Zeynep'e yaptığı kadar güzel bir ziyafet vermedi. Sonra bir koyunla bir ziyafet verdi.\""
+    },
+    {
+      "id": 107,
+      "narrator": "Narrated Safiyya bint Shaiba:",
+      "text": "Safiye bint Şeybe'den rivayet edilmiştir: Peygamber (ﷺ) bazı eşleriyle evlenirken iki Mudd arpa ile ziyafet verdi. (1 Mudd = 1,75 kilogram)."
+    },
+    {
+      "id": 108,
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "Abdullah bin Ömer'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Sizden biri düğün ziyafetine davet edilirse, ona gitmelidir (daveti kabul etmelidir).\""
+    },
+    {
+      "id": 109,
+      "narrator": "Narrated Abu Musa:",
+      "text": "Ebu Musa'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Esirleri serbest bırakın, düğün ziyafetine daveti kabul edin ve hastaları ziyaret edin.\""
+    },
+    {
+      "id": 110,
+      "narrator": "Narrated Al-Bara' bin `Azib:",
+      "text": "Al-Bara' bin Azib'den rivayet edilmiştir: Peygamber (ﷺ) bize yedi şey yapmamızı emretti ve yedi şeyden de men etti. Bize hastaları ziyaret etmeyi, cenaze alayını takip etmeyi, hapşıran kimseye cevap vermeyi (yani, 'Yarhamuka-l-lah' demeyi), 'Elhamdülillah' dediğinde ona yardım etmeyi, mazlumlara yardım etmeyi, selam vermeyi ve düğün ziyafetine daveti kabul etmeyi emretti. Altın yüzük takmayı, gümüş kapları kullanmayı, Maiyathir (pamukla doldurulmuş ipek yastıklar), Qasiyya (Mısır'dan gelen ipek içeren keten elbiseler), Istibraq (kalın ipek) ve Dibaj (başka bir tür ipek) kullanmayı yasakladı. (Bkz. Hadis No. 539 ve 753)."
+    },
+    {
+      "id": 111,
+      "narrator": "Narrated Sahl bin Sa`d:",
+      "text": "Sahl bin Sa'd'dan rivayet edilmiştir: Ebu Usaid es-Sa'di, Allah'ın Elçisi (ﷺ) düğününe davet etti ve o gün gelin olan eşi onlara hizmet etti. Allah'ın Elçisi'ne (ﷺ) ne içki verdiğini biliyor musunuz? Onun için bir gece boyunca bazı hurmaları (suda) bekletti ve yemeğini bitirdiğinde ona o içkiyi verdi (suda bekletilmiş hurma)."
+    },
+    {
+      "id": 112,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: En kötü yemek, yalnızca zenginlerin davet edildiği düğün ziyafetidir, fakirler davet edilmez. Ve bir daveti reddeden (ziyafet) Allah'a ve O'nun Elçisine isyan etmiş olur."
+    },
+    {
+      "id": 113,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Eğer bana bir ayak yemeği daveti gelirse, onu kabul ederim; eğer bana bir ayak yemeği hediye edilirse, onu kabul ederim.\""
+    },
+    {
+      "id": 114,
+      "narrator": "Narrated Nafi`:",
+      "text": "Nafi'den rivayet edilmiştir: Abdullah bin Ömer şöyle dedi: \"Allah'ın Elçisi (ﷺ) şöyle dedi: 'Eğer evliliğe davet edilirseniz, daveti kabul edin.' \" İbn Ömer, düğün ziyafetine veya başka bir partiye davet edildiğinde, oruçlu olsa bile daveti kabul ederdi."
+    },
+    {
+      "id": 115,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir: Bir gün Peygamber (ﷺ) düğün partisinden gelen bazı kadınlar ve çocuklar gördü. Enerjik ve mutlu bir şekilde kalktı ve şöyle dedi: \"Vallahi! Siz (yani Ensar) benim için tüm insanlardan en sevimlisiniz.\""
+    },
+    {
+      "id": 116,
+      "narrator": "Narrated Aisha:",
+      "text": "Aişe'den (Peygamberin eşi) rivayet edilmiştir: Ben üzerinde resimler (hayvan resimleri) olan bir yastık aldım. Allah'ın Elçisi (ﷺ) onu görünce kapıda durdu ve içeri girmedi. Yüzünde hoşnutsuzluk belirtisini fark ettim ve dedim ki: \"Ey Allah'ın Elçisi (ﷺ)! Ben Allah'a ve O'nun Elçisine tövbe ediyorum. Ne günah işledim?\" Allah'ın Elçisi (ﷺ) dedi: \"Bu yastık nedir?\" Ben de: \"Sana oturman ve yaslanman için aldım.\" Allah'ın Elçisi (ﷺ) dedi: \"Bu resimlerin yapıcıları Kıyamet Günü cezalandırılacak ve onlara 'Yarattığınız şeye hayat verin (yani, bu resimlere)' denilecektir.\" Peygamber (ﷺ) ekledi: \"Rahmet Melekleri, içinde resimler (hayvan resimleri) bulunan bir eve girmezler.\""
+    },
+    {
+      "id": 117,
+      "narrator": "Narrated Sahl:",
+      "text": "Sahl'den rivayet edilmiştir: Ebu Usaid es-Sa'di evlendiğinde, Peygamberi (ﷺ) ve arkadaşlarını davet etti. Onlar için yemek hazırlayan ve getiren tek kişi eşi oldu. Bir taş kapta bazı hurmaları bir gece boyunca suda bekletti ve Peygamber (ﷺ) yemeğini bitirdiğinde ona o içkiyi sağladı (suda bekletilmiş hurma)."
+    },
+    {
+      "id": 118,
+      "narrator": "Narrated Sahl bin Sa`d:",
+      "text": "Sahl bin Sa'd'dan rivayet edilmiştir: Ebu Usaid es-Sa'di, Peygamberi (ﷺ) düğününe davet etti ve o gün ona eşi hizmet etti, o gelindi. O (veya Sahl dedi ki): \"Allah'ın Elçisi (ﷺ) için neyi suda beklettiğini biliyor musunuz? Onun için bir içme kabında bazı hurmaları (suda) bir gece boyunca bekletti.\""
+    },
+    {
+      "id": 119,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Kadın bir kaburga gibidir; eğer onu düzeltmeye çalışırsan, kırılır. O yüzden ondan faydalanmak istiyorsanız, hala biraz eğriliği varken yapın.\""
+    },
+    {
+      "id": 120,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Kim Allah'a ve Ahiret Günü'ne inanıyorsa, komşusuna zarar vermemelidir. Ve kadınlara dikkat etmenizi tavsiye ediyorum, çünkü onlar bir kaburgadan yaratılmıştır ve kaburganın en eğri kısmı üst kısmıdır; eğer onu düzeltmeye çalışırsanız, kırılır, eğer bırakırsanız, eğri kalır, bu yüzden kadınlara dikkat etmenizi tavsiye ediyorum.\""
+    },
+    {
+      "id": 121,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn `Umar'dan rivayet edilmiştir: Peygamber (ﷺ) döneminde, bazı İlahi vahiylerin bize inmesinden korktuğumuz için eşlerimizle rahatça ve serbestçe sohbet etmekten kaçınırdık. Ancak Peygamber (ﷺ) vefat ettikten sonra, onlarla rahatça ve serbestçe sohbet etmeye başladık."
+    },
+    {
+      "id": 122,
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "`Abdullah bin `Umar'dan rivayet edilmiştir: Peygamber (ﷺ) dedi ki: \"Hepiniz birer bekçisiniz ve hepiniz sorumlusunuz (emanetlerinizden). Bir yönetici bekçidir ve tebaası için sorumludur; bir adam ailesinin bekçisidir ve onlardan sorumludur; bir kadın kocasının evinin bekçisidir ve ondan sorumludur; bir köle efendisinin malının bekçisidir ve ondan sorumludur. Dikkat edin! Hepiniz bekçisiniz ve sorumlusunuz (emanetlerinizden).\""
+    },
+    {
+      "id": 123,
+      "narrator": "Narrated `Aisha:",
+      "text": "`Aişe'den rivayet edilmiştir: On bir kadın bir araya gelip kocalarının haberlerini gizlemeyeceklerine dair söz verdiler. İlk kadın şöyle dedi: \"Kocam, dağın tepesinde tutulmuş zayıf bir devenin eti gibidir; ne tırmanması kolaydır ne de et yağlıdır, bu yüzden onu almak için zahmet çekmeye değmez.\" İkincisi dedi ki: \"Kocamın haberini aktaramam, çünkü onu tarif edersem, tüm kusurlarını ve kötü huylarını saymak zorunda kalırım.\" Üçüncüsü dedi ki: \"Kocam, 'çok uzun'! Eğer onu tarif edersem (ve o bunu duyarsa) beni boşar, eğer susarsam, beni asılı bırakır (ne boşar ne de bana karı gibi muamele eder).\" Dördüncüsü dedi ki: \"Kocam, Tihama gecesi gibi (orta halli); ne sıcak ne soğuk; ondan korkmuyorum, ne de ondan memnun değilim.\" Beşincisi dedi ki: \"Kocam eve girdiğinde bir leopar (çok uyur), çıktığında ise bir aslan (çok övünür). Evde ne olduğunu sormaz.\" Altıncısı dedi ki: \"Eğer kocam yemek yerse, çok yer (tabakları boş bırakır), eğer içerse hiçbir şey bırakmaz; eğer uyursa, yalnızca yorganlarımızda yuvarlanır; ve benim hislerimi sormak için elini uzatmaz.\" Yedincisi dedi ki: \"Kocam bir zalim ya da zayıf ve aptaldır. Tüm kusurlar onda mevcuttur. Başınızı ya da bedeninizi yaralayabilir ya da her ikisini de yapabilir.\" Sekizincisi dedi ki: \"Kocam, bir tavşan gibi yumuşak ve Zarnab (güzel kokulu bir ot) gibi kokar.\" Dokuzuncusu dedi ki: \"Kocam, uzun bir kılıcı taşımak için uzun bir kayış takan cömert bir adamdır. Onun külü bol (yani misafirlerine cömerttir) ve evi insanlara yakındır (kolayca danışılabilir).\" Onuncusu dedi ki: \"Kocam Malik (sahip) ve Malik nedir? Malik, onun hakkında söyleyebileceğim her şeyden büyüktür. (O, aklıma gelebilecek tüm övgülerin ötesindedir). Onun develerinin çoğu evde tutulur (misafirler için kesilmeye hazır) ve sadece birkaç tanesi meraya çıkar. Develer, udun (ya da tef) sesini duyduklarında, misafirler için kesileceklerini anlarlar.\" On birincisi dedi ki: \"Kocam Abu Zar'dır ve Abu Zar hakkında ne söyleyebilirim? Bana birçok süs eşyası verdi ve kulaklarım onlarla ağırlaştı, kollarım şişti (yani şişmanladım). Ve beni mutlu etti, o kadar mutlu oldum ki kendimle gururlandım. Beni, sadece koyun sahibi olan ve yoksulluk içinde yaşayan ailemden aldı ve atları ve develeri olan saygın bir aileye getirdi. Ne söylesem, beni azarlamaz ya da hakaret etmez. Uyuduğumda, sabah geç saatlere kadar uyurum ve su (ya da süt) içtiğimde, doyana kadar içerim. Abu Zar'ın annesi ve Abu Zar'ın annesi hakkında ne denebilir? Onun yük torbaları her zaman yiyecek doluydu ve evi genişti. Abu Zar'ın oğlu hakkında ne denebilir? Yatağı, kınından çıkarılmış bir kılıç kadar dar ve dört aylık bir oğlak kolunu doyurur. Abu Zar'ın kızı, babasına ve annesine itaatkardır. O, iyi yapılı bir bedene sahiptir ve bu, kocasının diğer eşinin kıskanmasına neden olur. Abu Zar'ın (cariyesi) köle kızı hakkında ne denebilir? O, sırlarımızı açığa çıkarmaz, onları saklar, yiyeceklerimizi israf etmez ve evimizde her yere çöp bırakmaz.\" On birinci kadın ekledi: \"Bir gün, Abu Zar, hayvanlardan süt sağılırken dışarı çıktı ve iki leopar gibi iki oğlu olan bir kadını gördü. (Onu görünce) beni boşadı ve onunla evlendi. Daha sonra, hızlı ve yorulmaz bir ata binen, elinde mızrak tutan soylu bir adamla evlendim. Bana birçok şey verdi, ayrıca her çeşit hayvandan bir çift verdi ve 'Bunu ye, ey Um Zar, akrabalarına yiyecek ver' dedi.\" Ekledi: \"Yine de, ikinci kocamın bana verdiği tüm şeyler, Abu Zar'ın en küçük kabını bile dolduramadı.\" `Aişe daha sonra dedi ki: Allah'ın Elçisi (ﷺ) bana dedi ki: \"Ben sana, Abu Zar'ın karısı Um Zar'a olduğu gibiim.\""
+    },
+    {
+      "id": 124,
+      "narrator": "Narrated 'Urwa:",
+      "text": "'Urva'dan rivayet edilmiştir: Aişe dedi ki: \"Etyopyalılar küçük mızraklarıyla oynarken, Allah'ın Elçisi (ﷺ) beni arkasında sakladı ve ben (o gösteriyi) izledim ve kendi başıma izlemeye devam ettim.\" Böylece bir küçük kızın eğlenceyi dinleyebileceği yaşı tahmin edebilirsiniz."
+    },
+    {
+      "id": 125,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn `Abbas'tan rivayet edilmiştir: `Umar bin Al-Khattab'a, Allah'ın Elçisi'nin (ﷺ) eşlerinden iki kadın hakkında sormak için can atıyordum. Allah, 'Eğer siz iki (Peygamberin eşleri, yani Aişe ve Hafsa) Allah'a tövbe ederseniz, kalpleriniz gerçekten de (Peygamberin (ﷺ) sevdiğine karşı) eğilimlidir.' (66.4) `Umar Hac'ı gerçekleştirdikten sonra ben de onunla birlikte Hac'ı yaptım. (Yolda) `Umar, ihtiyaç gidermek için kenara gitti ve ben de onunla birlikte bir su kabı taşımak için kenara gittim. `Umar ihtiyaç gidermeyi bitirdiğinde, ellerine su döktüm ve abdest aldı. Sonra ona dedim: \"Ey Müminlerin Emiri! Peygamberin (ﷺ) eşlerinden iki kadın kimlerdi ki, Allah şöyle dedi: 'Eğer siz iki (Peygamberin eşleri) Allah'a tövbe ederseniz, kalpleriniz gerçekten de (Peygamberin (ﷺ) sevdiğine karşı) eğilimlidir.'?\" (66.4) O dedi ki: \"Senin soruna hayret ediyorum, Ey İbn `Abbas. Onlar Aişe ve Hafsa'ydı.\" Sonra `Umar hadisi anlatmaya devam etti ve dedi ki: \"Ben ve Beni Umaiyya bin Zaid'den bir Ensar komşum, `Awali-al-Medina'da yaşayan, Peygamber (ﷺ) ile dönüşümlü olarak ziyaret ederdik. O bir gün gider, ben başka bir günde giderdim. Gittiğimde, o gün olan İlahi Vahiy ve diğer şeyler hakkında ona haber getirirdim, o gittiğinde de benim için aynı şeyi yapardı. Biz, Kureyş halkı olarak kadınlarımız üzerinde üstünlük sağlardık, ama Ensar'a geldiğimizde, onların kadınlarının erkekleri üzerinde üstünlük sağladığını gördük, bu yüzden bizim kadınlarımız da Ensar kadınlarının yollarını öğrenmeye başladılar. Eşime bağırdım ve o da bana karşılık verdi ve onun bana karşılık vermesini istemedim. O bana dedi ki: 'Neden benim sana karşılık vermeme bu kadar şaşırıyorsun? Vallahi, Peygamberin (ﷺ) eşleri ona karşılık verir ve bazıları gün boyunca ona konuşmaz (geceye kadar).' Bu (konuşma) beni korkuttu ve ona dedim: 'Bunu yapan helak olacaktır!' Sonra giyinip Hafsa'nın yanına girdim ve ona dedim: 'Sizden biri Peygamberi (ﷺ) geceye kadar öfkeli tutar mı?' O dedi ki: 'Evet.' Ben dedim: 'Sen helak olmuş bir kaybedensin! Allah'ın Elçisi'nin (ﷺ) öfkesi yüzünden Allah'ın öfkesiyle helak olmaktan korkmuyor musun? O yüzden Peygamberden (ﷺ) daha fazla bir şey istemeyin ve ona karşılık vermeyin ve onunla konuşmaktan vazgeçmeyin. Bana neye ihtiyacınız varsa sorun ve komşunuzu (yani Aişe'yi) taklit etmeye kalkmayın, çünkü o sizden daha çekici ve Peygamber (ﷺ) için daha sevimlidir.\" `Umar ekledi: \"O zaman aramızda, (Ghassan kabilesinin) atlarını bize saldırmak için hazırladığına dair bir konuşma dolaşıyordu. Ensar arkadaşım, kendi gününde (şehre) gitti ve gece bize döndü ve kapımı şiddetle çaldı ve orada olup olmadığımı sordu. Korktum ve ona çıktım. O dedi ki: 'Bugün büyük bir şey oldu.' Ben sordum: 'Nedir? Ghassan halkı mı geldi?' O dedi ki: 'Hayır, ama (olan şey) daha büyük ve korkutucu: Allah'ın Elçisi (ﷺ) eşlerini boşadı.' `Umar ekledi: \"Peygamber (ﷺ) eşlerinden uzak durdu ve ben dedim: 'Hafsa helak olmuş bir kaybedendir.' Daha önce, bu (boşama) olayının yakın gelecekte olacağını düşünmüştüm. O yüzden giyindim ve sabah namazını Peygamber (ﷺ) ile kıldım ve sonra Peygamber; üst kat bir odaya girdi ve orada yalnız kaldı. Hafsa'nın yanına girdim ve onu ağlarken gördüm. Ben sordum: 'Seni ne ağlatıyor? Seni buna karşı uyarmadım mı? Peygamber (ﷺ) sizi boşadı mı?' O dedi ki: 'Bilmiyorum. İşte o, üst odada yalnız kalmış.' Dışarı çıktım ve minberin yanına oturdum ve etrafında bir grup insanın oturduğunu gördüm, bazıları ağlıyordu. Bir süre onlarla oturdum ama durumu daha fazla dayanamadım, bu yüzden Peygamberin bulunduğu üst odaya gittim ve ona, 'Umar'ın (girmesi için izin alır mısın?)' dedim. Köle içeri girdi, Peygamber (ﷺ) ile bu konuda konuştu ve geri döndü ve 'Peygamber (ﷺ) ile konuştum ve seni belirttim ama o sessiz kaldı.' Sonra geri döndüm ve minberin yanındaki insan grubuyla oturdum, ama durumu daha fazla dayanamadım ve tekrar köleye dedim: 'Umar için izin alır mısın?' O içeri gitti ve geri döndü ve 'Ona seni belirttim ama o sessiz kaldı.' Yine geri döndüm ve minberin yanındaki insan grubuyla oturdum, ama durumu daha fazla dayanamadım ve köleye dedim: 'Umar için izin alır mısın?' O içeri gitti ve bana geri döndü ve 'Ona seni belirttim ama o sessiz kaldı.' Çıkarken, bakın! Köle beni çağırdı ve 'Peygamber (ﷺ) sana izin verdi.' O zaman Allah'ın Elçisi (ﷺ) yanına girdim ve onu hurma yapraklarından yapılmış bir yatakta yattığını gördüm ve onunla arasında hiçbir örtü yoktu. Yapraklar onun yanına izler bırakmıştı ve bir deri yastığa yaslanıyordu. Ona selam verdim ve hala ayaktayken dedim: 'Ey Allah'ın Elçisi! Eşlerini boşadın mı?' Bana baktı ve 'Hayır.' dedi. Ben dedim: 'Allahü Ekber!' Ve sonra, hala ayaktayken, 'Ey Allah'ın Elçisi (ﷺ), söylediklerime dikkat eder misin? Biz, Kureyş halkı olarak kadınlarımız üzerinde güç sahibiydik, ama Medine'ye geldiğimizde, burada erkeklerin kadınları tarafından baskı altında olduğunu gördük.' Peygamber (ﷺ) gülümsedi ve sonra ona dedim: 'Ey Allah'ın Elçisi (ﷺ), söylediklerime dikkat eder misin? Hafsa'ya girdim ve ona dedim: 'Arkadaşını (Aişe'yi) taklit etmeye kalkma, çünkü o senden daha çekici ve Peygamber (ﷺ) için daha sevimlidir.' \" Peygamber (ﷺ) ikinci kez gülümsedi. Onun güldüğünü görünce oturdum. Sonra evinin etrafına baktım ve Allah'a yemin ederim ki, evinde önemli bir şey göremedim, sadece üç deri vardı, bu yüzden dedim: 'Ey Allah'ın Elçisi (ﷺ)! Allah'a dua et, takipçilerini zengin etsin, çünkü Persler ve Romalılar zenginleştirildi ve onlara (dünyanın zevkleri) verildi, oysa onlar Allah'a ibadet etmiyorlar.' Bunun üzerine Peygamber (ﷺ) yaslandığı yerden oturdu ve dedi: 'Sen böyle bir görüşte misin, Ey Al-Khattab'ın oğlu? İşte bunlar, bu dünyada iyi amellerinin karşılığını almış olan insanlardır.' Ben dedim: 'Ey Allah'ın Elçisi (ﷺ)! Allah'tan benim için bağışlanma iste.' Sonra Peygamber (ﷺ) Hafsa'nın `Aişe'ye açıkladığı hikaye yüzünden eşlerinden yirmi dokuz gün uzak durdu. Peygamber (ﷺ) demişti ki: 'Onlara (eşlerime) bir ay girmeyeceğim,' onlara karşı öfkesi yüzünden, Allah onu uyardığında. Yirmi dokuz gün geçtikten sonra, Peygamber (ﷺ) önce `Aişe'nin yanına girdi. `Aişe ona dedi: 'Ey Allah'ın Elçisi (ﷺ)! Bir ay bize girmeyeceğine dair yemin etmiştin, ama şimdi sadece yirmi dokuz gün geçti, çünkü ben onları bir bir sayıyordum.' Peygamber (ﷺ) dedi: 'Bu (mevcut) ay yirmi dokuz gündür.' `Aişe ekledi: 'Sonra Allah, seçenek ayetlerini indirdi. (2) Ve tüm eşlerinden önce bana sordu ve ben onu seçtim.' Sonra diğer eşlerine de seçenek verdi ve onlar da `Aişe'nin söylediğini söylediler.\" (1) Peygamber, belirli bir olay yüzünden belirli bir tür yiyecekten uzak durmaya karar vermişti, bu yüzden Allah onu bu konuda kınadı. Bazı eşleri bu kararı almasına neden oldu, bu yüzden onlardan bir ay uzak durdu. Bakınız Kur'an: (66.4)"
+    },
+    {
+      "id": 126,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) dedi ki: \"Bir kadın, kocası evdeyken (evde) izin almadan (nafile) oruç tutmamalıdır.\""
+    },
+    {
+      "id": 127,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) dedi ki: \"Bir adam, karısını kendisiyle yatmaya davet ederse ve o gelmeyi reddederse, o zaman melekler ona sabaha kadar lanet ederler.\""
+    },
+    {
+      "id": 128,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) dedi ki: \"Bir kadın, kocasının yatağını terk ederek geceyi geçirirse (onunla uyumazsa), o zaman melekler ona sabaha kadar lanet ederler.\""
+    },
+    {
+      "id": 129,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) dedi ki: \"Bir kadın, kocası evdeyken (nafile) oruç tutamaz; ve onun izni olmadan evine kimsenin girmesine izin vermemelidir; ve eğer onun malından (hayır amaçlı) harcama yaparsa, onun izni olmadan, o yararın yarısını alır.\""
+    },
+    {
+      "id": 130,
+      "narrator": "Narrated Usama:",
+      "text": "Usame'den rivayet edilmiştir: Peygamber (ﷺ) dedi ki: \"Cennetin kapısında durdum ve oraya girenlerin çoğunun fakir olduğunu gördüm, zenginler ise kapıda (hesap için) durduruldu. Ama ateşin arkadaşları ateşe götürülmek üzere emredildi. Sonra ateş"
+    },
+    {
+      "id": 131,
+      "narrator": "Narrated `Abdullah bin `Abbas:",
+      "text": "Narrated `Abdullah bin `Abbas: During the lifetime of Allah's Messenger (ﷺ), the sun eclipsed. Allah's Messenger (ﷺ) offered the prayer of (the) \neclipse) and so did the people along with him. He performed a long Qiyam (standing posture) during \nwhich Surat-al-Baqara could have been recited; then he performed a pro-longed bowing, then raised \nhis head and stood for a long time which was slightly less than that of the first Qiyam (and recited \nQur'an). Then he performed a prolonged bowing again but the period was shorter than the period of \nthe first bowing, then he stood up and then prostrated. Again he stood up, but this time the period of \nstanding was less than the first standing. Then he performed a prolonged bowing but of a lesser \nduration than the first, then he stood up again for a long time but for a lesser duration than the first. \nThen he performed a prolonged bowing but of lesser duration than the first, and then he again stood \nup, and then prostrated and then finished his prayer. By then the sun eclipse had cleared. \nThe Prophet (ﷺ) then said, \"The sun and the moon are two signs among the signs of Allah, and they do not \neclipse because of the death or birth of someone, so when you observe the eclipse, remember Allah \n(offer the eclipse prayer).\" They (the people) said, \"O Allah's Messenger (ﷺ)! We saw you stretching your \nhand to take something at this place of yours, then we saw you stepping backward.\" He said, \"I saw \nParadise (or Paradise was shown to me), and I stretched my hand to pluck a bunch (of grapes), and \nhad I plucked it, you would have eaten of it as long as this world exists. Then I saw the (Hell) Fire, \nand I have never before, seen such a horrible sight as that, and I saw that the majority of its dwellers \nwere women.\" The people asked, \"O Allah's Messenger (ﷺ)! What is the reason for that?\" He replied, \n\"Because of their ungratefulness.\" It was said. \"Do they disbelieve in Allah (are they ungrateful to \nAllah)?\" He replied, \"They are not thankful to their husbands and are ungrateful for the favors done to \nthem. Even if you do good to one of them all your life, when she seems some harshness from you, she \nwill say, \"I have never seen any good from you.' \""
+    },
+    {
+      "id": 132,
+      "narrator": "Narrated `Imran:",
+      "text": "Narrated `Imran: The Prophet (ﷺ) said, \"I looked at Paradise and saw that the majority of its residents were the poor; and I \nlooked at the (Hell) Fire and saw that the majority of its residents were women.\""
+    },
+    {
+      "id": 133,
+      "narrator": "Narrated `Abdullah bin `Amr bin Al-`As:",
+      "text": "Narrated `Abdullah bin `Amr bin Al-`As: Allah's Messenger (ﷺ) said, \"O `Abdullah! Have I not been formed that you fast all the day and stand in \nprayer all night?\" I said, \"Yes, O Allah's Messenger (ﷺ)!\" He said, \"Do not do that! Observe the fast \nsometimes and also leave them (the fast) at other times; stand up for the prayer at night and also sleep \nat night. Your body has a right over you, your eyes have a right over you and your wife has a right \nover you.\""
+    },
+    {
+      "id": 134,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "Narrated Ibn `Umar: The Prophet (ﷺ) said, \"All of you are guardians and are responsible for your wards. The ruler is a guardian \nand the man is a guardian of his family; the lady is a guardian and is responsible for her husband's \nhouse and his offspring; and so all of you are guardians and are responsible for your wards.\""
+    },
+    {
+      "id": 135,
+      "narrator": "Narrated Anas:",
+      "text": "Narrated Anas: Allah's Messenger (ﷺ) took an oath that he would not visit his wives for one month, and he sat in an upper \nroom belonging to him. Then, on the twenty ninth day he came down. It was said, \"O Allah's Messenger (ﷺ)! \nYou had taken an oath not to visit your wives for one month.\" He said, \"The (present) month is of \ntwenty-nine days.\""
+    },
+    {
+      "id": 136,
+      "narrator": "Narrated Um Salama:",
+      "text": "Um Salama'dan rivayet edilmiştir: Peygamber (ﷺ) bazı eşlerine bir ay boyunca girmeyeceğine dair yemin etti. Ancak yirmi dokuz gün geçtikten sonra sabah veya akşam onlara gitti. Kendisine, \"Ey Allah'ın Peygamberi! Bir ay boyunca onlara girmeyeceğine dair yemin etmiştin.\" denildi. O da, \"Ay yirmi dokuz gün olabilir.\" diye cevap verdi."
+    },
+    {
+      "id": 137,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Bir sabah Peygamber (ﷺ) eşlerinin ağladığını gördük ve her birinin yanında ailesi vardı. Ben camiye gittim ve oranın kalabalık olduğunu gördüm. Sonra Ömer bin Hattab geldi ve Peygamber (ﷺ) ile üst odasında görüştü. Ona selam verdi ama kimse cevap vermedi. Tekrar selam verdi ama yine kimse cevap vermedi. Sonra kapıcı onu çağırdı ve Peygamber'in yanına girdi ve sordu: \"Eşlerini boşadın mı?\" Peygamber, \"Hayır, ama onlara bir ay boyunca gitmeyeceğime dair yemin ettim.\" dedi. Böylece Peygamber (ﷺ) eşlerinden yirmi dokuz gün uzak kaldı ve sonra onlara girdi."
+    },
+    {
+      "id": 138,
+      "narrator": "Narrated `Abdullah bin Zam`a:",
+      "text": "Abdullah bin Zama'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Hiçbiriniz, eşini bir köle gibi dövmesin ve sonra günün sonunda onunla cinsel ilişkiye girmesin.\""
+    },
+    {
+      "id": 139,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Bir Ensari kadın, kızını evlendirdi ve kızının saçları dökülmeye başladı. Ensari kadınlar Peygamber (ﷺ) yanına geldiler ve durumu ona bildirdiler ve \"Kızımın kocası, onun sahte saç takmasını önerdi.\" dediler. Peygamber (ﷺ) şöyle dedi: \"Hayır, (bunu yapma) çünkü Allah, saçlarını yapay olarak uzatan kadınlara lanet eder.\""
+    },
+    {
+      "id": 140,
+      "narrator": "Narrated Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: 'Eğer bir kadın kocasının zulmünden veya terk etmesinden korkarsa...' (4.128) Ayeti, kocası onu yanında tutmak istemeyen, boşanmak ve başka bir kadınla evlenmek isteyen kadınla ilgilidir. O da ona şöyle der: 'Beni bırakma, boşama ve başka bir kadınla evlenme, ne bana harcama yap, ne de benimle yat.' Bu, Allah'ın şu ifadesiyle belirtilmiştir: 'İkisi arasında dostane bir uzlaşma sağlamakta bir sakınca yoktur ve (böyle bir) uzlaşma daha hayırlıdır.' (4.128)"
+    },
+    {
+      "id": 141,
+      "narrator": "Narrated Jabir:",
+      "text": "Cabir'den rivayet edilmiştir: Biz, Allah'ın Resulü (ﷺ) döneminde coitus interruptus uygulardık."
+    },
+    {
+      "id": 142,
+      "narrator": "Narrated Jabir:",
+      "text": "Cabir'den rivayet edilmiştir: Biz, Kur'an vahyedilirken coitus interruptus uygulardık. Cabir ekledi: Biz, Allah'ın Resulü (ﷺ) döneminde Kur'an vahyedilirken coitus interruptus uygulardık."
+    },
+    {
+      "id": 143,
+      "narrator": "Narrated Abu Sa`id Al-Khudri:",
+      "text": "Ebu Sa'id el-Hudri'den rivayet edilmiştir: Savaş ganimeti olarak kadın esirler aldık ve onlarla coitus interruptus yapıyorduk. Bunun hakkında Allah'ın Resulü (ﷺ) ile konuştuk ve o da, \"Gerçekten mi bunu yapıyorsunuz?\" diyerek soruyu üç kez tekrarladı, \"Kıyamet Günü'ne kadar var olması gereken hiçbir ruh yoktur ki var olmasın.\""
+    },
+    {
+      "id": 144,
+      "narrator": "Narrated al-Qasim:",
+      "text": "El-Kasım'dan rivayet edilmiştir: Aişe, Peygamber (ﷺ) bir yolculuğa çıkmayı düşündüğünde, eşleri arasında kura çekerdi (biriyle birlikte gitmek için). Bir yolculuğunda kura Aişe ve Hafsa'ya düştü. Gece olunca Peygamber (ﷺ) Aişe'nin yanında biner ve onunla konuşurdu. Bir gece Hafsa, Aişe'ye, \"Bu gece benim develerime binmez misin, ben de senin devene binerim, böylece birbirimizi görebiliriz?\" dedi. Aişe, \"Evet, (kabul ediyorum.)\" dedi. Böylece Aişe bindi ve sonra Peygamber (ﷺ) Hafsa'nın bindiği deveye doğru geldi. Hafsa'ya selam verdi ve sonra (yanında) devam etti, ta ki yolda indiler. Aişe onu kaybetti ve bu yüzden, indikleri zaman, ayaklarını İdhkhir'e koydu ve \"Ey Rabbim (Allah)! Beni sokmak için bir akrep veya yılan gönder, çünkü ben onu (Peygamberi (ﷺ)) suçlayamam.\" dedi."
+    },
+    {
+      "id": 145,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Sauda bint Zam'a, sırası benden (Aişe) vazgeçti, bu yüzden Peygamber (ﷺ) bana (Aişe) hem benim günümü hem de Sauda'nın gününü vermeye başladı."
+    },
+    {
+      "id": 146,
+      "narrator": "Narrated Anas:",
+      "text": "Enes'ten rivayet edilmiştir: Peygamber'in (ﷺ) sünneti, eğer birisi bir cariye ile evlenirse ve zaten bir matron eşi varsa, o zaman yedi gün o cariye ile kalmalıdır; eğer birisi bir matron ile evlenirse ve zaten bir cariye eşi varsa, o zaman üç gün onunla kalmalıdır."
+    },
+    {
+      "id": 147,
+      "narrator": "Narrated Anas:",
+      "text": "Enes'ten rivayet edilmiştir: Peygamber'in sünneti, eğer birisi bir cariye ile evlenirse ve zaten bir matron eşi varsa, o zaman yedi gün onunla kalmalı ve sonra sırayla devam etmelidir; eğer birisi bir matron ile evlenirse ve zaten bir cariye eşi varsa, o zaman üç gün onunla kalmalı ve sonra sırayla devam etmelidir."
+    },
+    {
+      "id": 148,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir: Peygamber (ﷺ) bir gecede tüm eşleriyle cinsel ilişkiye geçerdi ve o zaman dokuz eşi vardı."
+    },
+    {
+      "id": 149,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Allah'ın Resulü (ﷺ) her zaman 'Asr namazını bitirdikten sonra eşlerinin yanına girer ve onlardan biriyle kalırdı. Bir gün Hafsa'nın yanına gitti ve onla alışılmadık bir süre kaldı."
+    },
+    {
+      "id": 150,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Ölümcül hastalığı sırasında, Allah'ın Resulü (ﷺ) eşlerine, \"Yarın nerede kalayım? Yarın nerede kalayım?\" diye sorardı. Aişe'nin sırasını bekliyordu. Böylece tüm eşleri, onun istediği yerde kalmasına izin verdiler ve o, Aişe'nin evinde kaldı ve orada vefat etti. Aişe ekledi: O, benim evimdeki alışıldık sıramda vefat etti. Allah onu, başı benim göğsüm ile boynum arasında iken ve tükürüğü benim tükürüğümle karışmışken aldı."
+    },
+    {
+      "id": 151,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Ömer, Hafsa'nın yanına girdi ve dedi ki, \"Ey kızım! Allah'ın Resulü'nün (ﷺ) ona olan sevgisi yüzünden, güzelliğinden gururlanan birinin tavırlarına kapılma.\" 'O' derken Aişe'yi kastetti. Ömer ekledi, \"Sonra bunu Allah'ın Resulü'ne (ﷺ) söyledim ve o (bunu duyunca) güldü.\""
+    },
+    {
+      "id": 152,
+      "narrator": "Narrated Asma:",
+      "text": "Asma'dan rivayet edilmiştir: Bir kadın dedi ki, \"Ey Allah'ın Resulü (ﷺ)! Kocamın başka bir eşi var, bu yüzden onun bana vermediği bir şeyi (onu kızdırmak için) iddia etmek günah mı?\" Allah'ın Resulü (ﷺ) dedi ki, \"Verilmediği bir şeyi almış gibi davranan kimse, (yalancı) iki yalan elbise giyen kimse gibidir.\""
+    },
+    {
+      "id": 153,
+      "narrator": "Narrated `Abdullah bin Masud:",
+      "text": "Abdullah bin Mes'ud'dan rivayet edilmiştir: Peygamber (ﷺ) dedi ki, \"Allah'tan daha fazla غيرة (şeref) duyan kimse yoktur. Bu yüzden O, kötü eylemlerin (gayri meşru cinsel ilişki vb.) yapılmasını yasaklamıştır. Allah'tan daha fazla övülmek isteyen kimse yoktur.\""
+    },
+    {
+      "id": 154,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Allah'ın Resulü (ﷺ) dedi ki, \"Ey Muhammed'in takipçileri! Allah'tan daha fazla غيرة (şeref) duyan kimse yoktur, bu yüzden O, kullarının gayri meşru cinsel ilişki kurmasını yasaklamıştır. Ey Muhammed'in takipçileri! Eğer bildiğimi bilseydiniz, daha az güler ve daha çok ağlardınız!\""
+    },
+    {
+      "id": 155,
+      "narrator": "Narrated Asma':",
+      "text": "Asma'dan rivayet edilmiştir: Allah'ın Resulü (ﷺ) derken, \"Allah'tan daha fazla غيرة (şeref) duyan kimse yoktur.\" Ve Ebu Hureyre, Peygamber'in (aynı şeyi söylediğini) duyduğunu rivayet etmiştir."
+    },
+    {
+      "id": 156,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) dedi ki, \"Allah'ın غيرة (şeref) duygusu vardır ve bir mümin, Allah'ın yasakladığı bir şeyi yaptığında, Allah'ın غيرة (şeref) duygusu kabarır.\""
+    },
+    {
+      "id": 157,
+      "narrator": "Narrated Asma' bint Abu Bakr:",
+      "text": "Asma bint Ebu Bekir'den rivayet edilmiştir: Zübeyir benimle evlendiğinde, gerçek malı, kölesi veya başka bir şeyi yoktu; sadece kuyudan su çeken bir deve ve atı vardı. Atını yemle besler, su çeker ve su çekmek için kova diker, hamur hazırlarım ama ekmek pişirmeyi bilmezdim. Bu yüzden, Ensar komşularım benim için ekmek pişirirdi ve onlar onurlu kadınlardı. Zübeyir'in, Allah'ın Resulü (ﷺ) tarafından kendisine verilen arazisinden hurma çekirdeklerini başımda taşırdım ve bu arazi evimden iki üçte bir Farsakh (yaklaşık iki mil) uzaktaydı. Bir gün, başımda hurma çekirdekleriyle gelirken, Allah'ın Resulü (ﷺ) bazı Ensar insanlarıyla karşılaştım. Beni çağırdı ve (devesini diz çökmesi için yönlendirerek) \"İkh! İkh!\" dedi ki, arkasında binmemi sağlasın. Ben erkeklerle seyahat etmekten utandım ve Zübeyir'i ve onun غيرة (şeref) duygusunu hatırladım, çünkü o, en büyük غيرة (şeref) duygusuna sahip olanlardan biriydi. Allah'ın Resulü (ﷺ) benim utandığımı fark etti, bu yüzden ilerledi. Zübeyir'e geldim ve dedim ki, \"Başımda hurma çekirdekleriyle Allah'ın Resulü (ﷺ) ile karşılaştım ve yanında bazı arkadaşları vardı. Devesini diz çökmesi için yönlendirdi ki, bineyim ama onun huzurunda utandım ve senin غيرة (şeref) duygunu hatırladım.\" Bunun üzerine Zübeyir dedi ki, \"Allah'a yemin ederim ki, senin hurma çekirdeklerini taşıman (ve Peygamber'in (ﷺ) seni böyle görmesi) benim için onunla seyahat etmen kadar utanç verici.\" (Bu şekilde hizmet etmeye devam ettim) ta ki Ebu Bekir bana atıma bakması için bir hizmetçi gönderene kadar, o zaman özgürleşmiş gibi hissettim."
+    },
+    {
+      "id": 158,
+      "narrator": "Narrated Anas:",
+      "text": "Enes'ten rivayet edilmiştir: Peygamber (ﷺ) bir eşinin evindeyken, mümin annelerinden biri bir tabakta yemek gönderdi. Peygamber'in (ﷺ) bulunduğu evdeki eş, hizmetçinin eline vurdu ve tabak düştü, kırıldı. Peygamber (ﷺ) kırık parçaları topladı ve sonra tabakta bulunan yiyecekleri toplamaya başladı ve dedi ki, \"Annen (eşim) kıskandı.\" Sonra hizmetçiyi, bulunduğu evdeki eşten sağlam bir tabak getirilene kadar bekletti. Kırık tabakla birlikte, sağlam tabakla birlikte, kırılan tabak bulunduğu evde tutuldu."
+    },
+    {
+      "id": 159,
+      "narrator": "Narrated Jabir:",
+      "text": "Cabir'den rivayet edilmiştir: Peygamber (ﷺ) dedi ki, \"Cennete girdim ve bir saray gördüm ve bu sarayın kimin sarayı olduğunu sordum. Onlar (melekler) dediler ki, \"Bu saray Ömer bin Hattab'a aittir.\" İçeri girmeyi düşündüm, beni durduran tek şey senin غيرة (şeref) duygun hakkında bilgim oldu (ey Ömer).\" Ömer dedi ki, \"Ey Allah'ın Resulü (ﷺ)! Babam ve annem sana feda olsun! Ey Allah'ın Peygamberi! Senin yüzünden غيرة (şeref) duygumun zedelenmesini nasıl düşünebilirim?\""
+    },
+    {
+      "id": 160,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Resulü (ﷺ) ile otururken, (o) Allah'ın Resulü (ﷺ) dedi ki, \"Rüyamda bir kadının bir sarayın yanında abdest aldığını gördüm. 'Bu saray kimin?' diye sordum. 'Bu saray Ömer'e aittir.' denildi. Sonra onun غيرة (şeref) duygusunu hatırladım ve geri döndüm.\" Bunun üzerine Ömer o toplantıda ağlamaya başladı ve dedi ki, \"Ey Allah'ın Resulü (ﷺ)! Senin yüzünden غيرة (şeref) duygumun zedelenmesini nasıl düşünebilirim?\""
+    },
+    {
+      "id": 161,
+      "narrator": "Narrated Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Allah'ın Resulü (ﷺ) ona dedi ki, \"Benden memnun olduğun veya benden öfkelendiğin zamanı biliyorum.\" Ben dedim ki, \"Bunu nereden biliyorsun?\" O dedi ki, \"Benden memnun olduğunda, 'Hayır, Muhammed'in Rabbi hakkı için' dersin, ama benden öfkelendiğinde, 'Hayır, İbrahim'in Rabbi hakkı için' dersin.\" Bunun üzerine ben dedim ki, \"Evet (haklısın), ama Allah'a yemin ederim ki, ey Allah'ın Resulü (ﷺ), ben sadece senin adını bırakırım.\""
+    },
+    {
+      "id": 162,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Allah'ın Resulü (ﷺ) ile ilgili hiçbir eşime karşı Khadija kadar kıskanmadım, çünkü Allah'ın Resulü (ﷺ) onu sık sık hatırlayıp övüyordu ve Allah'ın Resulü'ne (ﷺ) cennette ona bir Qasab sarayı olacağı müjdelendi."
+    },
+    {
+      "id": 163,
+      "narrator": "Narrated Al-Miswar bin Makhrama:",
+      "text": "El-Misvar bin Makhrama'dan rivayet edilmiştir: Allah'ın Resulü (ﷺ) minberdeyken şöyle dedi: \"Banu Hişam bin Al-Mughira, kızlarını Ali bin Ebu Talib'e vermek için benden izin istediler, ama ben izin vermiyorum ve izin vermeyeceğim, ta ki Ali bin Ebu Talib, kızımı boşamadan onların kızını almaz, çünkü Fatıma benim bedenimin bir parçasıdır ve onun sevmediğini görmekten nefret ederim ve onu üzen şey, beni de üzer.\""
+    },
+    {
+      "id": 164,
+      "narrator": "Narrated Anas:",
+      "text": "Enes'ten rivayet edilmiştir: Size Allah'ın Resulü'nden (ﷺ) duyduğum bir hadisi anlatacağım ve bunu yalnızca ben anlatacağım. Allah'ın Resulü (ﷺ) şöyle dedi: \"Kıyametin alametlerinden bazıları şunlardır: Dini bilgi alınacak; genel cehalet (dini konularda) artacak; gayri meşru cinsel ilişki yaygınlaşacak; alkol tüketimi yaygınlaşacak. Erkeklerin sayısı azalacak, kadınların sayısı artacak, öyle ki elli kadın bir erkeğin bakımına muhtaç olacak.\""
+    },
+    {
+      "id": 165,
+      "narrator": "Narrated `Uqba bin 'Amir:",
+      "text": "Ukba bin Amir'den rivayet edilmiştir: Allah'ın Resulü (ﷺ) dedi ki, \"Kadınların yanına girmeye dikkat edin.\" Ensar'dan bir adam dedi ki, \"Ey Allah'ın Resulü! Eşin akrabaları (kocasının kardeşleri veya yeğenleri vb.) hakkında ne dersin?\" Peygamber (ﷺ) cevap verdi: \"Eşin akrabaları, ölümün ta kendisidir.\""
+    },
+    {
+      "id": 166,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Bir adam, bir kadınla yalnız kalmamalıdır; ancak bir Dhu-Muhram'ın yanında olursa.\" Bir adam ayağa kalkarak, \"Ey Allah'ın Resulü (ﷺ)! Eşim Hac yapmak üzere dışarı çıktı ve ben de şu kampanyaya (orduya) yazıldım.\" dedi. Peygamber (ﷺ) şöyle buyurdu: \"Dön ve eşinle birlikte Hac'ı yap.\""
+    },
+    {
+      "id": 167,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir: Bir Ensari kadın Peygamber (ﷺ)'e geldi ve o da onu kenara çekerek ona şöyle dedi: \"Vallahi, siz (Ensar) benim en sevdiğim insanlarsınız.\""
+    },
+    {
+      "id": 168,
+      "narrator": "Narrated Um Salama:",
+      "text": "Ümmü Seleme'den rivayet edilmiştir: Peygamber (ﷺ) benimle birlikteyken evde bir efemine adam vardı. Efemine adam, Ümmü Seleme'nin kardeşi Abdullah bin Ebi Ümeyye'ye şöyle dedi: \"Eğer Allah yarın seni Ta'if'i fethetmeye muvaffak kılarsa, sana Ghailan'ın kızını (evlenmek için) tavsiye ederim; çünkü o (o kadar şişmandır ki) sana döndüğünde dört kat et gösterir, arkasını döndüğünde sekiz kat et gösterir.\" Bunun üzerine Peygamber (ﷺ) bize şöyle dedi: \"Bu (efemine adam) artık sizin yanınıza girmemelidir.\""
+    },
+    {
+      "id": 169,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Peygamber (ﷺ) beni Rida'sı (üst beden örtüsü) ile örtüyordu, ben de caminin avlusunda oynayan Habeşlilere bakıyordum. (İzlemeye devam ettim) ta ki tatmin olana kadar. Bu olaydan, henüz ergenlik çağına girmemiş bir kız çocuğunun eğlenceden nasıl yararlanması gerektiği konusunda bir sonuç çıkarabilirsiniz."
+    },
+    {
+      "id": 170,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Bir gece Sa'da bint Zam'a bir ihtiyaç için dışarı çıktı ve Ömer onu gördü, tanıdı ve ona şöyle dedi: \"Vallahi, ey Sa'da! Bizden saklanamazsın.\" Bunun üzerine o, Peygamber (ﷺ)'e döndü ve bunu ona, benim evimde akşam yemeği yerken ve elinde etle kaplı bir kemik tutarken anlattı. Sonra ona vahiy geldi ve o durum sona erdiğinde, Peygamber (ﷺ) şöyle diyordu: \"Ey kadınlar! Allah size ihtiyaçlarınız için dışarı çıkma izni vermiştir.\""
+    },
+    {
+      "id": 171,
+      "narrator": "Narrated Salim's father:",
+      "text": "Salim'in babasından rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Eğer birinizin eşi camiye gitmek için izin isterse, onu yasaklamamalıdır.\""
+    },
+    {
+      "id": 172,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Amcam geldi ve içeri girmek için izin istedi, ama ben onu kabul etmedim, ta ki Allah'ın Resulü'ne bu konuda sorana kadar. O da, \"O senin amcan, o halde içeri girmesine izin ver.\" dedi. Ben, \"Ey Allah'ın Resulü (ﷺ)! Ben bir kadın tarafından emzirildim, bir erkek tarafından değil.\" dedim. Allah'ın Resulü (ﷺ) şöyle buyurdu: \"O senin amcan, o halde içeri girmesine izin ver.\" Bu, Al-Hijab (zorunlu örtünme) emri indirildikten sonra oldu. Kan bağı nedeniyle haram olan her şey, karşılık gelen süt emme ilişkileri nedeniyle de haramdır."
+    },
+    {
+      "id": 173,
+      "narrator": "Narrated `Abdullah bin Mas`ud:",
+      "text": "Abdullah bin Mes'ud'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Bir kadın, başka bir kadına bakmamalı veya ona dokunmamalıdır; onu kocasına, sanki gerçekten ona bakıyormuş gibi tarif etmemelidir.\""
+    },
+    {
+      "id": 174,
+      "narrator": "Narrated `Abdullah:",
+      "text": "Abdullah'tan rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Bir kadın, başka bir kadına bakmamalı veya ona dokunmamalıdır; onu kocasına, sanki gerçekten ona bakıyormuş gibi tarif etmemelidir.\""
+    },
+    {
+      "id": 175,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: (Peygamber) Davud'un oğlu Süleyman şöyle dedi: \"Bu gece yüz kadınla (eşlerimle) birlikte olacağım; her biri, Allah yolunda savaşacak bir erkek çocuk doğuracak.\" Bunun üzerine bir melek ona şöyle dedi: \"De ki: 'Eğer Allah dilerse.'\" Ama Süleyman bunu söylemedi ve söylemeyi unuttu. Sonra onlarla birlikte oldu ama hiçbiri çocuk doğurmadı, sadece biri yarım bir insan doğurdu. Peygamber (ﷺ) şöyle dedi: \"Eğer Süleyman: 'Eğer Allah dilerse' demiş olsaydı, Allah onun (yukarıdaki) arzusunu yerine getirirdi ve bu söz ona daha fazla ümit verirdi.\""
+    },
+    {
+      "id": 176,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Cabir bin Abdullah'tan rivayet edilmiştir: Peygamber (ﷺ) birinin gece ailesine dönmesini hoş karşılamadı (bir yolculuktan döndüğünde)."
+    },
+    {
+      "id": 177,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Cabir bin Abdullah'tan rivayet edilmiştir: Allah'ın Resulü (ﷺ) şöyle buyurdu: \"Eğer biriniz evinden uzun bir süre uzak kalırsa, gece ailesine dönmemelidir.\""
+    },
+    {
+      "id": 178,
+      "narrator": "Narrated Jabir:",
+      "text": "Cabir'den rivayet edilmiştir: Ben, Allah'ın Resulü (ﷺ) ile bir Gazve'deydim ve dönerken acele etmek istedim, ama yavaş bir deveye biniyordum. Arkadan bir binekli geldi. Arkama baktım ve binekli kişinin Allah'ın Resulü (ﷺ) olduğunu gördüm. O bana, \"Neden bu kadar acele ediyorsun?\" dedi. Ben de, \"Yeni evlendim.\" dedim. O, \"Bir kız mı yoksa dul bir kadın mı aldın?\" dedi. Ben, \"(Kız değil) ama dul bir kadın.\" dedim. O, \"Neden seninle oynayacak bir genç kızla evlenmedin?\" dedi. Sonra Medine'ye yaklaştığımızda ve girmeye hazırlanırken, Peygamber (ﷺ) şöyle dedi: \"Gece (gecenin ilk kısmında) evlerinize girmeden bekleyin ki, dağınık saçlı kadınlar saçlarını tarasın ve uzun süre kocaları olmayanlar da pubik kıllarını kessin.\" (Ravi Hashim dedi ki: Güvenilir bir ravi bana Peygamber (ﷺ)'in bu Hadis'te eklediğini söyledi: \"(Çocuk sahibi olmayı) hedefleyin! Çocuklar, ey Cabir!\")"
+    },
+    {
+      "id": 179,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Cabir bin Abdullah'tan rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Eğer gece (bir yolculuktan dönerken) şehrinize girerseniz, evinize girmeden önce, kocası evde olmayan kadın pubik kıllarını kesene ve dağınık saçlı kadınlar saçlarını tarayana kadar bekleyin.\" Allah'ın Resulü (ﷺ) ayrıca şöyle dedi: \"(Ey Cabir!) Çocuk sahibi olmayı hedefleyin, çocuk sahibi olmayı hedefleyin!\""
+    },
+    {
+      "id": 180,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Cabir bin Abdullah'tan rivayet edilmiştir: Biz Peygamber (ﷺ) ile bir Gazve'deydik ve dönerken Medine'ye yaklaşınca, yavaş bir deveye binerken acele etmek istedim. Bir binekli beni geçti ve deveyi mızrağıyla dürttü, bunun üzerine devem hızla koşmaya başladı. Arkama baktım ve binekli kişinin Allah'ın Resulü (ﷺ) olduğunu gördüm. Ben, \"Ey Allah'ın Resulü (ﷺ)! Ben yeni evlendim.\" dedim. O sordu, \"Evlendin mi?\" Ben de, \"Evet.\" dedim. O, \"Bir kız mı yoksa dul bir kadın mı?\" dedi. Ben, \"(Kız değil) ama dul bir kadın.\" dedim. O, \"Neden seninle oynayacak bir genç kızla evlenmedin?\" dedi. Medine'ye ulaştığımızda ve girmeye hazırlanırken, Peygamber (ﷺ) şöyle dedi: \"Gece erken evinize girmeden bekleyin ki, dağınık saçlı kadınlar saçlarını tarasın ve kocası uzak olan kadınlar pubik kıllarını kessin.\""
+    },
+    {
+      "id": 181,
+      "narrator": "Narrated Abu Hazim:",
+      "text": "Ebu Hazım'dan rivayet edilmiştir: İnsanlar, Uhud savaşındaki Allah'ın Elçisi'ne (ﷺ) uygulanan tedavi türü hakkında farklı görüşler bildirdiler. Bunun üzerine, Medine'de hayatta kalan tek Sahabi olan Sahl bin Sa'd As-Sa'id'e sordular. O da, \"Medine'de bunu benden daha iyi bilen kimse yok.\" diye cevap verdi. \"Fatıma, onun yüzündeki kanı yıkıyordu ve Ali, kalkanında su getiriyordu, sonra bir hurma dalı matı yakıldı ve (kül) yaraya yerleştirildi.\""
+    },
+    {
+      "id": 182,
+      "narrator": "Narrated `Abdur-Rahman bin `Abis:",
+      "text": "Abdurrahman bin Abis'ten rivayet edilmiştir: İbn Abbas'ın, bir adamın ona, \"İd al-Adha veya İd al-Fitr namazını Allah'ın Elçisi (ﷺ) ile birlikte kıldın mı?\" diye sorduğunu duydum. İbn Abbas, \"Evet, eğer onunla olan yakın ilişkim olmasaydı, bunu kılmam mümkün olmazdı.\" diye cevap verdi. (Bu, onun genç yaşından dolayıydı). İbn Abbas ayrıca, \"Allah'ın Elçisi (ﷺ) dışarı çıktı ve İd namazını kıldı, sonra hutbe verdi.\" dedi. İbn Abbas, Ezan (namaz çağrısı) veya İkame hakkında hiçbir şey söylemedi. \"Sonra Peygamber (ﷺ) kadınların yanına gitti ve onlara talimat verdi, dini nasihatlerde bulundu ve onlara sadaka vermelerini emretti. Onların, (küpe ve kolye gibi) takılarını çıkarmak için ellerini kulaklarına ve boyunlarına uzattıklarını ve (takıları) Bilal'e doğru attıklarını gördüm. Sonra Peygamber (ﷺ) Bilal ile birlikte evine döndü.\" dedi."
+    },
+    {
+      "id": 183,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Ebu Bekir bana nasihat etti ve yan tarafıma elini sokarak dürttü, o anda beni hareket etmekten alıkoyan tek şey, Allah'ın Elçisi'nin (ﷺ) başının uyluğumda olmasıydı."
+    }
+  ]
+}

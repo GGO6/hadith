@@ -1,0 +1,26 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 2,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Ibn Buraida reported that his father said:",
+      "text": "İbn Bureyde, babasından rivayet etmiştir: \"Necaşi, Peygamber'e (Allah ona salat ve selam eylesin) sade siyah bir ayakkabı verdi, o da giydi, ardından küçük abdest aldı ve üzerine meshetti.\""
+    },
+    {
+      "id": 2,
+      "narrator": "Al-Mughira ibn Shu'ba said:",
+      "text": "El-Muğira ibn Şu'ba dedi ki: \"Dihya, bir elbise giydi, böylece Peygamber (Allah ona salat ve selam eylesin) ayakkabıları delik olana kadar giydi, fakat bunların helal kesilmiş bir hayvanın derisinden yapılıp yapılmadığını bilmiyordu.\""
+    }
+  ]
+}

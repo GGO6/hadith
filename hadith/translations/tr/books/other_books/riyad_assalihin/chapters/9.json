@@ -1,0 +1,31 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 3,
+    "arabic": {
+      "title": "رياض الصالحين",
+      "author": "الإمام النووي"
+    },
+    "english": {
+      "title": "Riyad as-Salihin",
+      "author": "Imam an-Nawawi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Ibn `Umar (May Allah be pleased with them) reported:",
+      "text": "İbn `Umar (Allah ondan razı olsun) şöyle bildirmiştir: Allah'ın Elçisi (ﷺ) Ramazan'ın son on gününde itikafa girerdi."
+    },
+    {
+      "id": 2,
+      "narrator": "'Aishah (May Allah be pleased with her) reported:",
+      "text": "'Aişe (Allah ondan razı olsun) şöyle bildirmiştir: Peygamber (ﷺ) Ramazan'ın son on gecesinde mescitte itikafa girerdi; vefat edene kadar bu şekilde devam etti; ardından, eşleri de bu uygulamayı takip ettiler."
+    },
+    {
+      "id": 3,
+      "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+      "text": "Ebu Hureyre (Allah ondan razı olsun) şöyle bildirmiştir: Peygamber (ﷺ) her yıl (Ramazan'da) on gün itikafa girerdi; vefat ettiği yıl yirmi gün itikafa girdi."
+    }
+  ]
+}

@@ -1,0 +1,481 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 93,
+    "arabic": {
+      "title": "صحيح البخاري",
+      "author": "الإمام محمد بن إسماعيل البخاري"
+    },
+    "english": {
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Muhammad ibn Ismail al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Allah'ın yarattığı hiçbir hastalık yoktur ki, onun tedavisini de yaratmamış olsun.\""
+    },
+    {
+      "id": 2,
+      "narrator": "Narrated Rubai bint Mu`adh bin Afra:",
+      "text": "Rubai bint Mu`adh bin Afra'dan rivayet edilmiştir: Biz, Allah'ın Elçisi (ﷺ) ile birlikte askeri seferlere gider, insanlara su temin eder, onlara hizmet eder ve ölüleri ve yaralıları Medine'ye getirirdik."
+    },
+    {
+      "id": 3,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: (Peygamber (ﷺ) şöyle buyurdu:) \"Şifa üç şeydedir: Bir yudum bal, hacamat ve ateşle dağlama (kauterizasyon).\" Ama ben takipçilerime (kauterizasyon) ateşle dağlamayı yasakladım.\""
+    },
+    {
+      "id": 4,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Şifa üç şeydedir: Hacamat, bir yudum bal veya kauterizasyon (ateşle dağlama) ama ben takipçilerime kauterizasyonu (ateşle dağlamayı) yasakladım.\""
+    },
+    {
+      "id": 5,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Peygamber (ﷺ) tatlı yenilebilir şeyleri ve balı severdi."
+    },
+    {
+      "id": 6,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Cabir bin Abdullah'tan rivayet edilmiştir: Peygamber (ﷺ) şöyle derken duydum: \"Eğer ilaçlarınızda bir şifa varsa, o hacamat, bir yudum bal veya hastalığa uygun olan ateşle dağlamadır, ama ben (kauterize edilmekten) ateşle dağlanmayı sevmiyorum.\""
+    },
+    {
+      "id": 7,
+      "narrator": "Narrated Abu Sa`id Al-Khudri:",
+      "text": "Ebu Sa'id el-Hudri'den rivayet edilmiştir: Bir adam Peygamber (ﷺ)'e geldi ve \"Kardeşimde karın rahatsızlığı var.\" dedi. Peygamber (ﷺ) ona \"Ona bal içirsin.\" dedi. Adam ikinci kez geldi ve Peygamber (ﷺ) ona \"Ona bal içirsin.\" dedi. Üçüncü kez geldi ve Peygamber (ﷺ) \"Ona bal içirsin.\" dedi. Tekrar geldi ve \"Bunu yaptım.\" dedi. Peygamber (ﷺ) sonra \"Allah doğru söyledi, ama kardeşinin karnı yalan söyledi. Ona bal içirsin.\" dedi. Böylece ona bal içirdi ve şifa buldu."
+    },
+    {
+      "id": 8,
+      "narrator": "Narrated Anas:",
+      "text": "Anas'tan rivayet edilmiştir: Bazı insanlar hastalandı ve \"Ey Allah'ın Elçisi (ﷺ)! Bize barınak ve yiyecek ver.\" dediler. Sağlıklarına kavuşunca \"Medine'nin havası bize uygun değil.\" dediler. Bunun üzerine onları bazı dişi develeriyle Al-Harra'ya gönderdi ve \"Sütlerinden iç.\" dedi. Ama sağlığına kavuştuklarında Peygamber (ﷺ)'in çobanını öldürdüler ve develerini sürdüler. Peygamber (ﷺ) onların peşine bazı insanlar gönderdi. Sonra onların ellerini ve ayaklarını kestirdi ve gözlerini ısıtılmış demir parçalarıyla dağladı. Onlardan birinin, ölünceye kadar diliyle toprağı yaladığını gördüm."
+    },
+    {
+      "id": 9,
+      "narrator": "Narrated Anas:",
+      "text": "Anas'tan rivayet edilmiştir: Medine'nin iklimi bazı insanlara uygun gelmedi, bu yüzden Peygamber (ﷺ) onlara çobanını, yani develerini takip etmelerini ve sütlerini ve idrarlarını (bir ilaç olarak) içmelerini emretti. Böylece çobanı, yani develeri takip ettiler ve sütlerini ve idrarlarını içtiler, ta ki bedenleri sağlığına kavuşana kadar. Sonra çobanı öldürdüler ve develeri sürdüler. Haber Peygamber (ﷺ)'e ulaştığında, onların peşine bazı insanlar gönderdi. Getirildiklerinde, ellerini ve ayaklarını kestirdi ve gözlerini ısıtılmış demir parçalarıyla dağlattı."
+    },
+    {
+      "id": 10,
+      "narrator": "Narrated Khalid bin Sa`d:",
+      "text": "Halid bin Sa'd'dan rivayet edilmiştir: Biz dışarı çıktık ve Ghalib bin Abjar bize eşlik ediyordu. Yolda hastalandı ve Medine'ye vardığımızda hâlâ hasta idi. İbn Abi 'Atiq onu ziyarete geldi ve bize \"Onu kara kimyonu ile tedavi edin. Beş veya yedi tohum alın ve ezin (tozu yağ ile karıştırın) ve elde edilen karışımı her iki burun deliğine damlatın, çünkü Aişe bana Peygamber (ﷺ)'in şöyle söylediğini aktardı: 'Bu kara kimyonu, As-Sam hariç tüm hastalıklar için şifadır.' Aişe, 'As-Sam nedir?' dedi. O da, 'Ölüm.' dedi.\""
+    },
+    {
+      "id": 11,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ)'nin şöyle dediğini duydum: \"Kara kimyonda ölüm hariç tüm hastalıklar için şifa vardır.\""
+    },
+    {
+      "id": 12,
+      "narrator": "Narrated 'Urwa:",
+      "text": "Urve'den rivayet edilmiştir: Aişe, hasta olanlar ve ölü bir kişi için yas tutanlar için at-Talbina'yı tavsiye ederdi. Şöyle derdi: \"Allah'ın Elçisi (ﷺ)'nin şöyle söylediğini duydum: 'at-Talbina, hastanın kalbini rahatlatır, onu canlandırır ve bazı üzüntülerini ve kederlerini hafifletir.'\""
+    },
+    {
+      "id": 13,
+      "narrator": "Narrated Hisham's father:",
+      "text": "Hişam'ın babasından rivayet edilmiştir: Aişe, at-Talbina'yı tavsiye ederdi ve \"Hasta tarafından hoş karşılanmasa da faydalıdır.\" derdi."
+    },
+    {
+      "id": 14,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) hacamat yaptırdı ve onu hacamat yapan kişiye ücret ödedi ve sonra Su'ut (burunla koklanan ilaç) aldı."
+    },
+    {
+      "id": 15,
+      "narrator": "Narrated Um Qais bint Mihsan:",
+      "text": "Ümmü Kays bint Mihsan'dan rivayet edilmiştir: Peygamber (ﷺ)'in şöyle dediğini duydum: \"Hindistan tütsüsü ile tedavi edin, çünkü yedi hastalığa şifadır; boğaz rahatsızlığı olan biri tarafından koklanmalı ve plevra iltihabı çeken birinin ağzının bir tarafına konulmalıdır.\" Bir gün, yemek yemeyen bir oğlumla Allah'ın Elçisi (ﷺ)'e gittim ve çocuk ona idrarını yaptı, bunun üzerine su istedi ve idrarın üzerine su serpti."
+    },
+    {
+      "id": 16,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) oruçlu iken hacamat yaptırmıştır."
+    },
+    {
+      "id": 17,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) ihramda iken hacamat yaptırmıştır."
+    },
+    {
+      "id": 18,
+      "narrator": "Narrated Anas:",
+      "text": "Enes'ten rivayet edilmiştir: Hacamat yapan kişinin ücretleri hakkında sorulduğunda, 'Allah'ın Elçisi (ﷺ) Abd Taiba tarafından hacamat yaptırıldı, ona iki sa' yiyecek verdi ve efendileriyle onun için şefaat etti, böylece günlük ücretini düşürdüler. Sonra Peygamber (ﷺ) şöyle dedi: \"Kendinizi tedavi edebileceğiniz en iyi ilaçlar hacamat ve deniz tütsüsüdür.\" Ayrıca, \"Çocuklarınızı bademcik iltihabı için bademciklere veya damaklarına parmakla baskı yaparak eziyet etmeyin, bunun yerine tütsü kullanın.\" dedi."
+    },
+    {
+      "id": 19,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Cabir bin Abdullah'tan rivayet edilmiştir: Hastalığı sırasında Al-Muqanna'yı ziyarete gittim ve \"Hacamat yaptırmadan ayrılmayacağım, çünkü Allah'ın Elçisi (ﷺ) 'Hacamatda şifa vardır' dediğini duydum.\" dedim."
+    },
+    {
+      "id": 20,
+      "narrator": "Narrated `Abdullah bin Buhaina:",
+      "text": "Abdullah bin Buhayna'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) ihramda iken Mekke'ye giderken Lahl Jamal'da başının ortasına hacamat yaptırmıştır. İbn Abbas'tan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) başına hacamat yaptırmıştır."
+    },
+    {
+      "id": 21,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) ihramda iken Lahl Jamal adlı bir su yerinde yaşadığı bir hastalık için başına hacamat yaptırmıştır. İbn Abbas ayrıca şöyle demiştir: Allah'ın Elçisi, ihramda iken tek taraflı baş ağrısı için başına hacamat yaptırmıştır."
+    },
+    {
+      "id": 22,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Cabir bin Abdullah'tan rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"İlaçlarınızda herhangi bir hayır varsa, o da bir yudum bal, hacamat veya cauterization (kızartma)dır, ama ben (kızartılmayı) istemem.\""
+    },
+    {
+      "id": 23,
+      "narrator": "Narrated Ka`b bin Ujrah:",
+      "text": "Ka'b bin Ujrah'tan rivayet edilmiştir: Peygamber (ﷺ) Al-Hudaibiya döneminde bana geldi, ben bir tencerenin altına ateş yakıyordum ve başımdan bitler dökülüyordu. O dedi ki, \"Bitlerin seni rahatsız ediyor mu?\" Ben de \"Evet.\" dedim. O, \"Başını traş et ve üç gün oruç tut ya da altı fakiri doyur ya da bir koyun kes.\" dedi."
+    },
+    {
+      "id": 24,
+      "narrator": "Narrated Jabir:",
+      "text": "Cabir'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"İlaçlarınızda herhangi bir şifa varsa, o da hacamat veya cauterization (kızartma)dır, ama ben (kızartılmayı) istemem.\""
+    },
+    {
+      "id": 25,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) dedi ki: \"Milletler benim önümde gösterildi; bir veya iki peygamber birkaç takipçisiyle geçerken, bir peygamber yalnız geçiyordu. Sonra önümden büyük bir kalabalık geçti ve ben sordum, 'Onlar kim? Benim takipçilerim mi?' denildi ki, 'Hayır. Bu Musa ve onun takipçileridir.' Bana denildi ki, 'Ufka bak.' İşte! Ufku dolduran bir kalabalık vardı. Sonra bana denildi ki, 'Oraya ve oraya bak! İşte! Ufku dolduran bir kalabalık var.' Bana denildi ki, 'İşte bu senin ümmetindir, içlerinden yetmiş bin kişi hesapsız cennete girecektir.' Sonra Peygamber (ﷺ) evine girdi ve arkadaşlarına (yetmiş binin) kimler olduğunu söylemedi. Böylece insanlar bu konuyu konuşmaya başladılar ve dediler ki, 'Biz Allah'a inandık ve Elçisini takip ettik; dolayısıyla bu insanlar ya kendimiz ya da İslam döneminde doğan çocuklarımızdır, çünkü biz Cahiliye döneminde doğmuştuk.' Peygamber (ﷺ) bunu duyunca dışarı çıktı ve dedi ki: 'Bu insanlar, kendilerini ruqyaya tabi tutmayan, kötü veya iyi alametlere (kuşlardan vb.) inanmayan ve kendilerini (kızartma) yaptırmayanlardır, ama yalnızca Rabblerine tevekkül ederler.' O zaman 'Ukasha bin Muhsin dedi ki: 'Ben de onlardan mıyım, Ey Allah'ın Elçisi (ﷺ)?' Peygamber (ﷺ) dedi ki: 'Evet.' Sonra başka bir kişi ayağa kalktı ve 'Ben de onlardan mıyım?' dedi. Peygamber (ﷺ) 'Ukasha seni geçmiştir.' dedi.\""
+    },
+    {
+      "id": 26,
+      "narrator": "Narrated Um Salama:",
+      "text": "Ümmü Seleme'den rivayet edilmiştir: Bir kadının kocası öldü ve gözleri iltihaplandı, insanlar onun hikayesini Peygamber'e anlattılar. Ona, gözleri tehlikeye maruz kaldığı için kohl kullanmasının caiz olup olmadığını sordular. O dedi ki: \"Önceden, kocası vefat eden biriniz, kirli elbiseleriyle kötü bir evde (bir yıl) kalırdı ve bir köpek geçtiğinde, üzerine bir kürek dışkı atardı. Hayır, (belirlenen iddet süresini) dört ay on gün tutmalıdır.\""
+    },
+    {
+      "id": 27,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) dedi ki: \"(Hiçbir) 'Adva (hiçbir bulaşıcı hastalık Allah'ın izni olmadan geçmez), ne de kötü alamet (kuşlardan), ne de Hamah vardır, ne de Safar ayında kötü alamet vardır ve lepralıdan, aslan gibi kaçılmalıdır.\""
+    },
+    {
+      "id": 28,
+      "narrator": "Narrated Sa`id bin Zaid:",
+      "text": "Not: Çoğu alim, bunların kendiliğinden zarar vermediğini, ancak Allah'ın nihai kontrolünde olduğunu ve bunlarla ilgili korkulu batıl inançların yanlış olduğunu yorumlamaktadır."
+    },
+    {
+      "id": 29,
+      "narrator": "Narrated Ibn `Abbas and `Aisha:",
+      "text": "Said bin Zaid'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Trüfler, Manna gibidir (yani, insanın bakımına ihtiyaç duymadan doğal olarak büyür) ve suyu göz hastalıklarını iyileştirir.\""
+    },
+    {
+      "id": 30,
+      "narrator": "Narrated Um Qais:",
+      "text": "İbn Abbas ve Aişe'den rivayet edilmiştir: Ebu Bekir, Peygamber (ﷺ) öldüğünde onun alnından öptü. Aişe ekledi: \"Biz, onun bir yanına ilaç koyduk ama o, ilaç koymamamız için bize el işareti yaptı. Biz, 'O, hasta olduğu için ilaç istemiyor.' dedik. Ama kendine geldiğinde, 'Sizlere, benim ağzımın bir yanına ilaç koymayı yasaklamadım mı?' dedi. Biz, 'Biz, hastaların genelde ilaç istemediğini düşündük.' dedik. O, 'Evde bulunanlardan hiçbiri, benim gözetimimde, ağzımın bir yanına ilaç koymadan zorlanmayacak, sadece Al-‘Abbas, çünkü o sizin yaptığınızı görmedi.' dedi.\""
+    },
+    {
+      "id": 31,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe (Allah'ın Elçisi'nin eşi) şöyle rivayet etmiştir: Allah'ın Elçisi (ﷺ) hastalandığında ve durumu ciddileştiğinde, tüm eşlerinden benim evimde tedavi edilmesi için izin istedi ve onlar da izin verdiler. İki adamın desteğiyle dışarı çıktı ve ayakları Abbas ile başka bir adam arasında yere sürükleniyordu. (Rivayet eden, İbn Abbas'a şöyle dedi: Aişe'nin bahsetmediği diğer adamın kim olduğunu biliyor musun? Rivayet eden: Hayır. İbn Abbas: O Ali idi, dedi.) Aişe ekledi: Peygamber benim evime girdiğinde ve hastalığı ağırlaştığında, \"Üzerime yedi su tulumu dolusu su dökün (bağlama ipleri çözülmemiş olanlardan) ki insanlara bir nasihat verebileyim.\" dedi. Biz de onu Peygamber'in (ﷺ) eşi Hafsa'ya ait bir küvette oturttuk ve o su tulumlarından üzerine su dökmeye başladık, ta ki bize dur işareti yapana kadar. Sonra insanlara çıktı, onlara namaz kıldırdı ve önlerinde bir konuşma yaptı."
+    },
+    {
+      "id": 32,
+      "narrator": "Narrated Um Qais:",
+      "text": "Ümmü Kays şöyle rivayet etmiştir: Allah'ın Elçisi'ne (ﷺ) boğazında sorun olan bir oğlunu götürdü ve onun damak ve bademciklerini sıktı. Peygamber (ﷺ) şöyle dedi: \"Neden çocuklarınıza böyle acı çektiriyorsunuz? Bunun için Ud Al-Hindi (belirli bir Hint tütsüsü) kullanın, çünkü bu yedi hastalığı tedavi eder, bunlardan biri de plevradır.\""
+    },
+    {
+      "id": 33,
+      "narrator": "Narrated Abu Sa`id:",
+      "text": "Ebu Sa'id şöyle rivayet etmiştir: Bir adam Peygamber'e geldi ve 'Kardeşim ishal oldu.' dedi. Peygamber (ﷺ) 'Ona bal içirsin.' dedi. Adam tekrar geldi ve 'Ona içirdim ama bu durumu daha da kötüleştirdi.' dedi. Peygamber (ﷺ) 'Allah gerçeği söyledi, kardeşinin karnı yalan söyledi.' dedi. (Hadis No. 88'e bakınız)"
+    },
+    {
+      "id": 34,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre şöyle rivayet etmiştir: Allah'ın Elçisi (ﷺ) 'Adva (hastalıkların sağlıklı olanlara Allah'ın izni olmadan geçmesi) yoktur, ne de Safar, ne de Hama.' dedi. Bir bedevi ayağa kalkarak, 'Peki, benim develerim ne olacak? Onlar kumda geyik gibi, ama bir kuduz deve gelip onlarla karıştığında hepsi kuduz olur.' dedi. Peygamber (ﷺ) 'O zaman ilkine bu (kuduz) hastalığı kim bulaştırdı?' dedi."
+    },
+    {
+      "id": 35,
+      "narrator": "Narrated Um Oais:",
+      "text": "Ümmü Oais şöyle rivayet etmiştir: Allah'ın Elçisi'ne (ﷺ) boğazında sorun olan bir oğlunu götürdü ve onun bademciklerini sıktı. Peygamber (ﷺ) şöyle dedi: \"Allah'tan korkun! Neden çocuklarınıza böyle acı çektiriyorsunuz? Bunun için Ud Al-Hindi (belirli bir Hint tütsüsü) kullanın, çünkü bu yedi hastalığı tedavi eder, bunlardan biri de plevradır.\""
+    },
+    {
+      "id": 36,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Enes bin Malik şöyle rivayet etmiştir: Allah'ın Elçisi (ﷺ) bir Ansar ailesine zehirlenmiş kişileri ve kulak hastalığı çekenleri ruqyayla tedavi etmelerine izin verdi. Enes ekledi: Ben plevra için (kauterle) yakıldım, o zaman Allah'ın Elçisi (ﷺ) hala hayattaydı. Ebu Talha, Enes bin En-Nadr ve Zeyd bin Sabit bunu şahitlik etti ve beni kauterleyen Ebu Talha'ydı."
+    },
+    {
+      "id": 37,
+      "narrator": "Narrated Sahl bin Saud As-Sa`idi:",
+      "text": "Sahl bin Sa'd Es-Sa'idi şöyle rivayet etmiştir: Peygamber'in (ﷺ) başındaki miğfer kırıldığında ve yüzü kanla kaplandığında, ön dişi kırıldığında (Uhud savaşında), Ali suyu kalkanında getirirken Fatıma yüzündeki kanı yıkıyordu. Fatıma suyun kanı artırdığını görünce, bir palmiye yaprağından bir mat aldı, yaktı ve (yakılmış külü) Allah'ın Elçisi'nin yarasına yapıştırdı, bunun üzerine kanama durdu."
+    },
+    {
+      "id": 38,
+      "narrator": "Narrated Nazi':",
+      "text": "Nazi' şöyle rivayet etmiştir: Abdullah bin Ömer dedi ki: \"Peygamber (ﷺ) 'Ateş cehennemin sıcaklığındandır, onu suyla söndürün.' dedi.\" Nafi' ekledi: Abdullah şöyle derdi: \"Allah'ım! Bizi azaptan kurtar.\" (Ateşten muzdarip olduğunda.)"
+    },
+    {
+      "id": 39,
+      "narrator": "Narrated Fatima bint Al-Mundhir:",
+      "text": "Fatıma bint El-Mundhir şöyle rivayet etmiştir: Ateşten muzdarip bir kadın Asma bint Ebu Bekir'e getirildiğinde, o Allah'a dua eder ve sonra vücuduna, göğsüne biraz su serperdi ve \"Allah'ın Elçisi (ﷺ) bize ateşi suyla azaltmamızı emrederdi.\" derdi."
+    },
+    {
+      "id": 40,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe şöyle rivayet etmiştir: Peygamber (ﷺ) \"Ateş cehennemin sıcaklığındandır, ateşi suyla azaltın.\" dedi."
+    },
+    {
+      "id": 41,
+      "narrator": "Narrated Rafi` bin Khadij:",
+      "text": "Rafi' bin Hadiç şöyle rivayet etmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Ateş cehennemin sıcaklığındandır, ateşi suyla azaltın.\""
+    },
+    {
+      "id": 42,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Enes bin Malik şöyle rivayet etmiştir: Ukl ve Urayna kabilelerinden bazı insanlar Allah'ın Elçisi'ne (ﷺ) geldiler, İslam'ı kabul ettiler ve \"Ey Allah'ın Elçisi (ﷺ)! Biz hayvan sahipleriyiz ve hiç çiftçi olmadık.\" dediler ve Medine'nin ikliminin onlara uygun olmadığını düşündüler. Bunun üzerine Allah'ın Elçisi (ﷺ) onlara bazı develer ve bir çoban verilmesini emretti ve onlara o develerle dışarı çıkmalarını ve sütlerini ve idrarlarını içmelerini emretti. Onlar yola çıktılar, ancak Al-Harra adında bir yere vardıklarında İslam'a geçişlerinden sonra inkara döndüler, çobanı öldürdüler ve develeri sürüp götürdüler. Bu haber Peygamber'e (ﷺ) ulaştığında, onların peşine düştü (ve yakalandılar). Peygamber (ﷺ) gözlerinin sıcak demir çubuklarla dağlanmasını ve ellerinin kesilmesini emretti ve o halde Al-Harra'da bırakıldılar, ta ki o durumda öldüler."
+    },
+    {
+      "id": 43,
+      "narrator": "Narrated Saud:",
+      "text": "Sa'd şöyle rivayet etmiştir: Peygamber (ﷺ) \"Bir yerde veba çıktığını duyarsanız, oraya girmeyin; ama veba, bulunduğunuz bir yerde çıkarsa, o yerden çıkmayın.\" dedi."
+    },
+    {
+      "id": 44,
+      "narrator": "Narrated `Abdullah bin `Abbas:",
+      "text": "Abdullah bin Abbas şöyle rivayet etmiştir: Ömer bin Hattab Şam'a gitti ve Sargh'a ulaştığında, (Müslüman) ordunun komutanları Ebu Ubeyde bin Cerrah ve arkadaşları ona ulaştı ve Şam'da bir salgın çıktığını söylediler. Ömer dedi ki: \"Bana ilk göç edenleri çağırın.\" Ömer onları çağırdı, onlarla istişare etti ve Şam'da bir salgın çıktığını bildirdi. O insanlar farklı görüşler ortaya koydular. Bazıları, \"Bir amaç için çıktık ve bunu bırakmanın uygun olduğunu düşünmüyoruz.\" derken, diğerleri (Ömer'e) \"Sizinle birlikte başka insanlar ve Allah'ın Elçisi'nin (ﷺ) arkadaşları var, bu salgına onları götürmeyin.\" dediler. Ömer onlara, \"Beni şimdi bırakın.\" dedi. Sonra, \"Bana Ensar'ı çağırın.\" dedi. Onları çağırdım ve onlarla istişare etti ve göçmenlerin yolunu takip ettiler ve onlar gibi farklı görüşler ortaya koydular. Sonra onlara, \"Beni şimdi bırakın.\" dedi ve ekledi, \"Bana Mekke'nin Fethi yılı göç eden Kureyş'in yaşlılarını çağırın.\" Onları çağırdım ve onlar, \"İnsanlarla geri dönmenizi ve onları o (salgın) yere götürmemenizi tavsiye ediyoruz.\" şeklinde oybirliğiyle görüş bildirdiler. Bunun üzerine Ömer bir ilan yaptı: \"Sabah Medine'ye döneceğim, siz de aynı şekilde yapmalısınız.\" Ebu Ubeyde bin Cerrah (Ömer'e) \"Allah'ın takdirinden mi kaçıyorsun?\" dedi. Ömer, \"Keşke bunu başka biri söyleseydi, ey Ebu Ubeyde! Evet, biz Allah'ın takdirinden, Allah'ın takdirine kaçıyoruz. Eğer develerinizin iki yeri olan bir vadide olduğunu ve birinin yeşil, diğerinin kuru olduğunu düşünseniz, Allah takdir ettiyse sadece yeşil olan yerde otlatırdınız, ve eğer Allah takdir ettiyse sadece kuru olan yerde otlatırdınız.\" O sırada Abdurrahman bin Avf, bir iş nedeniyle gelmemişti, geldi ve \"Bu konuda bir bilgim var. Allah'ın Elçisi'ni (ﷺ) şöyle derken duydum: 'Bir yerde (veba) çıktığını duyarsanız, oraya gitmeyin; ama eğer bulunduğunuz bir yerde veba çıkarsa, ondan kaçmayın.' \" dedi. Ömer Allah'a şükretti ve Medine'ye döndü."
+    },
+    {
+      "id": 45,
+      "narrator": "Narrated `Abdullah bin 'Amir:",
+      "text": "Abdullah bin Amir şöyle rivayet etmiştir: Ömer Şam'a gitti ve Sargh'a ulaştığında, Şam'da bir salgın (veba) çıktığı haberini aldı. Abdurrahman bin Avf ona, \"Eğer bir yerde (veba) çıktığını duyarsanız, oraya gitmeyin; ama eğer bulunduğunuz bir yerde çıkarsa, ondan kaçmayın.\" dedi."
+    },
+    {
+      "id": 46,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Ne Mesih (Deccal) ne de veba Medine'ye girecektir.\""
+    },
+    {
+      "id": 47,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"(Vebadan) ölüm her Müslüman için şehitliktir.\""
+    },
+    {
+      "id": 48,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Karın hastalığından ölen (bir Müslüman) şehittir, vebadan ölen de şehittir.\""
+    },
+    {
+      "id": 49,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: (Peygamberin eşi) o, Allah'ın Elçisi (ﷺ) ile veba hakkında konuştu ve Allah'ın Elçisi (ﷺ) ona şöyle bildirdi: \"Veba, Allah'ın dilediği kimselere gönderdiği bir azaptı, fakat Allah onu müminler için bir bereket haline getirdi. Veba'nın patlak verdiği bir yerde sabreden hiç kimse yoktur ki, başına gelecek olanın yalnızca Allah'ın takdir ettiği şey olduğunu düşünmesin, fakat Allah ona şehitlik mükafatına benzer bir ödül verecektir.\""
+    },
+    {
+      "id": 50,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Peygamberin vefat hastalığı sırasında, Muavvizet (İkhlas ve Falaq sureleri) okur ve sonra nefesini vücudunun üzerine üflerdi. Hastalığı ağırlaştığında, ben de o iki sureyi okur ve nefesimi onun üzerine üfler, onun kendi eliyle vücuduna sürtmesini sağlardım. (Ma'mar, Zührî'ye: Peygamber (ﷺ) nasıl üflerdi diye sordu. Zührî: O, ellerine üfler ve sonra yüzüne geçirirdi, dedi.)"
+    },
+    {
+      "id": 51,
+      "narrator": "Narrated Abu Sa`id Al-Khudri:",
+      "text": "Ebu Sa'id el-Hudrî'den rivayet edilmiştir: Peygamber (ﷺ) arkadaşlarından bazıları, Arap kabilelerinden birine rastladılar ve o kabile onları misafir etmedi. O sırada, o kabile reisi bir yılan tarafından ısırıldı (veya akrep tarafından sokuldu). Onlar, (Peygamber (ﷺ) arkadaşlarına) \"Yanınızda herhangi bir ilaç veya Ruqya yapabilecek biri var mı?\" dediler. Peygamberin arkadaşları: \"Bizi misafir etmediniz, bu yüzden (reisinizi) tedavi etmeyeceğiz, ancak bunun için bize ücret ödeyeceksiniz.\" dediler. Bunun üzerine, bir sürü koyun vermeyi kabul ettiler. Onlardan biri (Peygamberin arkadaşlarından) Fatiha Suresini okumaya başladı ve tükürüğünü (yılan ısırığına) üfledi. Hasta iyileşti ve halkı onlara koyunları sundu, fakat onlar: \"Bunu almayacağız, önce Peygamber'e soralım (caiz mi diye).\" dediler. Onlar Peygamber'e sorduklarında, o gülümsedi ve şöyle dedi: \"Fatiha Suresi'nin bir Ruqya olduğunu nasıl biliyorsunuz? Alın (koyun sürüsünü) ve benim için bir pay ayırın.\""
+    },
+    {
+      "id": 52,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) arkadaşlarından bazıları, su bulunan bir yerde kalan bazı insanların yanından geçtiler ve o insanlardan biri akrep tarafından sokulmuştu. Su kenarında kalanlardan biri gelip Peygamberin arkadaşlarına, \"Aranızda Ruqya yapabilecek biri var mı? Çünkü su kenarında akrep tarafından sokulmuş bir kişi var.\" dedi. Bunun üzerine Peygamberin arkadaşlarından biri ona gitti ve bir koyun karşılığında Fatiha Suresini okudu. Hasta iyileşti ve adam koyunu arkadaşlarına getirdi, fakat onlar bunu hoş karşılamadılar ve \"Allah'ın Kitabını okumak için ücret aldınız.\" dediler. Medine'ye vardıklarında, \"Ey Allah'ın Elçisi (ﷺ)! (Bu kişi) Allah'ın Kitabını okumak için ücret aldı.\" dediler. Bunun üzerine Allah'ın Elçisi (ﷺ) şöyle dedi: \"Allah'ın Kitabı ile Ruqya yapmanın ücretini almak en çok hakkınızdır.\""
+    },
+    {
+      "id": 53,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Peygamber (ﷺ) bana veya başka birine, (bir tehlike olduğunda) nazardan Ruqya yapmamı emretti."
+    },
+    {
+      "id": 54,
+      "narrator": "Narrated Um Salama:",
+      "text": "Ümmü Seleme'den rivayet edilmiştir: Peygamber (ﷺ) evinde yüzünde siyah bir leke olan bir kızı gördü. O, \"O nazar etkisi altındadır; onu Ruqya ile tedavi et.\" dedi."
+    },
+    {
+      "id": 55,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Nazarın etkisi bir gerçektir.\" Ve dövme yapmayı yasakladı."
+    },
+    {
+      "id": 56,
+      "narrator": "Narrated Al-Aswad:",
+      "text": "El-Esved'den rivayet edilmiştir: Aişe'ye zehirli sokmalara (yılan ısırığı veya akrep sokması) Ruqya ile tedavi edilip edilemeyeceğini sordum. O, \"Peygamber (ﷺ) zehirli sokmaların Ruqya ile tedavi edilmesine izin verdi.\" dedi."
+    },
+    {
+      "id": 57,
+      "narrator": "Narrated `Abdul `Aziz:",
+      "text": "Abdul Aziz'den rivayet edilmiştir: Thabit ve ben Enes bin Malik'e gittik. Thabit, \"Ey Ebu Hamza! Hastayım.\" dedi. Bunun üzerine Enes, \"Seni Allah'ın Elçisi (ﷺ) ile Ruqya yapayım mı?\" dedi. Thabit, \"Evet,\" dedi. Enes, \"Ey Allah! İnsanların Rabbi, belayı gideren! (Lütfen) bu hastayı iyileştir, çünkü Sen şifayı verensin. Şifa veren yalnız Sensin; ardında hiçbir hastalık bırakmayan bir şifa.\""
+    },
+    {
+      "id": 58,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Peygamber (ﷺ) bazı eşlerine, hastalık yerinin üzerine sağ elini geçirerek tedavi eder ve \"Ey Allah, insanların Rabbi! Belayı gider ve hastayı iyileştir, çünkü Sen şifayı verensin. Senin şifandan başka hiçbir şifa fayda vermez; ardında hiçbir hastalık bırakmayan bir şifa.\""
+    },
+    {
+      "id": 59,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) Ruqya yaparken şöyle derdi: \"Ey insanların Rabbi! Belayı gider. Şifa Senin ellerindedir ve bunu (hastalığı) gideren yalnız Sensin.\""
+    },
+    {
+      "id": 60,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Peygamber (ﷺ) hastaya, \"Allah'ın adıyla, bizim topraklarımızın ve içimizden birinin tükürüğü hastamızı iyileştirir.\" derdi."
+    },
+    {
+      "id": 61,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) Ruqyasında \"Allah'ın adıyla\" derdi. \"Bizim ülkemizin toprağı ve içimizden bazılarının tükürüğü, Rabbimizin izniyle hastamızı iyileştirir.\" (biraz tükürükle) Ruqya ile tedavi ederken."
+    },
+    {
+      "id": 62,
+      "narrator": "Narrated Abu Qatada:",
+      "text": "Ebu Katade'den rivayet edilmiştir: Peygamber (ﷺ) şöyle derken duydum: \"İyi bir rüya Allah'tandır, kötü bir rüya ise Şeytan'dandır. Eğer sizden biri (bir rüyada) hoşlanmadığı bir şey görürse, kalktığında sol tarafına üç kez üflemesi ve Allah'tan onun şerrinden sığınması gerekir; o zaman ona zarar vermez.\""
+    },
+    {
+      "id": 63,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) yatağa girdiğinde, İhlas Suresi, Falaq Suresi ve Nas Suresi'ni okur, sonra avuçlarını üfleyip yüzüne ve ellerinin ulaşabildiği vücudunun diğer kısımlarına geçirirdi. Hastalandığında, bana onun için böyle yapmamı emrederdi."
+    },
+    {
+      "id": 64,
+      "narrator": "Narrated Abu Sa`id:",
+      "text": "Ebu Sa'id'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) ile birlikte olan bir grup sahabi bir yolculuğa çıktılar ve bir Arap kabilesinin yanına geldiler, onlardan misafir olmalarını istediler, ancak (kabile halkı) onları misafir etme konusunda reddetti. Sonra o kabile reisi bir yılan tarafından ısırıldı (ya da bir akrep tarafından sokuldu) ve ona her türlü tedavi uygulandı ama hepsi boşunaydı. Bazıları dedi ki: \"Sizden biri (yanlarında) bir şey faydalı bulursa, o gruba (o yolculara) gidecek misiniz?\" Onlara geldiler ve dediler ki: \"Ey grup! Liderimiz bir yılan tarafından ısırıldı (ya da bir akrep tarafından sokuldu) ve ona her şeyi denedik ama hiçbiri fayda etmedi. Sizden birinin faydalı bir şeyi var mı?\" İçlerinden biri cevap verdi: \"Evet, Allah'a yemin ederim ki, ben Ruqya ile tedavi etmeyi biliyorum. Ama, Allah'a yemin ederim ki, sizi misafir olarak kabul etmenizi istedik ama reddettiniz. Size Ruqya ile tedavi etmeyeceğim, ta ki bizim için bir ücret belirleyene kadar.\" Sonuç olarak, o yolculara bir sürü koyun vermeyi kabul ettiler. Adam onlarla (kabile halkı) gitti ve ısırığın üzerine tükürmeye ve Fatiha Suresi'ni okumaya başladı, ta ki hasta iyileşene ve sanki hiç hasta olmamış gibi yürümeye başladı. Kabile halkı onlara anlaştıkları ücreti ödediklerinde, bazıları (Peygamber'in sahabeleri) \"Dağıtın (koyunları).\" dediler. Ama Ruqya ile tedavi eden kişi, \"Bunu yapmayın, ta ki Allah'ın Elçisi'ne gidip olanları ona bildirelim ve ne emredeceğini görelim.\" dedi. Böylece Allah'ın Elçisi'ne (ﷺ) geldiler ve olayı ona anlattılar, o da dedi ki: \"Fatiha Suresi'nin Ruqya olduğunu nasıl biliyorsunuz? Doğru olanı yaptınız. (Sahip olduğunuzu) bölüştürün ve benim için de bir pay ayırın.\""
+    },
+    {
+      "id": 65,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Peygamber (ﷺ) bazı eşlerini hastalık yerinin üzerine sağ elini geçirerek tedavi eder ve \"Ey insanların Rabbi! Zorluğu kaldır ve şifa ver, çünkü Sen Şifacısın. Senin şifandan başka şifa yoktur, hiçbir hastalık bırakmayan bir şifa.\""
+    },
+    {
+      "id": 66,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Peygamber, fatal hastalığı sırasında ellerine üfleyip (vücuduna) geçirirken Mu'awwidhat'ı (Nas Suresi ve Falaq Suresi) okurdu. Hastalığı ağırlaştığında, ben onun için onları okur ve (ellerine) üfler ve ellerini vücuduna geçirmesine izin verirdim, çünkü bunun bereketi vardı. (Ma'mar, İbn Şihab'a: Nafth'ı nasıl yapardı? dedi. O da: \"Ellerine üfler ve sonra yüzüne geçirirdi.\" dedi.)"
+    },
+    {
+      "id": 67,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) bir gün bize çıktı ve şöyle dedi: \"Bazı milletler önümde gösterildi. Bir peygamber bir adamla, diğeri iki adamla, bir diğeri bir grup insanla, bir diğeri ise yanında kimse olmadan geçiyordu. Sonra ufukta büyük bir kalabalık gördüm ve onların benim takipçilerim olmasını diledim, ama bana 'Bu Musa ve takipçileridir.' denildi. Sonra bana 'Bak' denildi. Gözlerimi açtım ve ufku kaplayan büyük bir topluluk gördüm. 'Şu tarafa ve bu tarafa bak.' denildi. Böylece ufku kaplayan büyük bir kalabalık gördüm. Sonra bana 'Bunlar senin takipçilerin, aralarında hesap sorulmadan cennete girecek 70,000 kişi var.' denildi.\" Sonra insanlar dağıldı ve Peygamber (ﷺ) o 70,000 kişinin kim olduğunu söylemedi. Böylece Peygamber (ﷺ) sahabeleri bu konuda konuşmaya başladılar ve bazıları şöyle dedi: \"Biz, cahiliyet döneminde doğduk, ama sonra Allah'a ve Elçisine inandık. Ancak bu (70,000) kişilerin bizim neslimiz olduğunu düşünüyoruz.\" Bu konuşma Peygamber'e (ﷺ) ulaştı ve o da şöyle dedi: \"Bu (70,000), kötü bir alamet çıkaran (kuşlardan) değildir ve kendilerini damgalayarak tedavi olmazlar, Ruqya ile de tedavi olmazlar, sadece Rabbine güvenenlerdir.\" O zaman Ukasha bin Muhsin ayağa kalktı ve \"Ey Allah'ın Elçisi (ﷺ)! Ben onlardan mıyım?\" dedi. Peygamber (ﷺ) \"Evet.\" dedi. Sonra başka bir kişi ayağa kalktı ve \"Ben onlardan mıyım?\" dedi. Peygamber (ﷺ) \"Ukasha seni geçmiştir.\" dedi."
+    },
+    {
+      "id": 68,
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "Abdullah bin Ömer'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Ne 'Adwa (ne de bulaşıcı hastalık, Allah'ın izni olmadan başkalarına geçer) ne de Tiyara vardır, ama kötü bir alamet üç şeyde olabilir: bir kadın, bir ev veya bir hayvan.\""
+    },
+    {
+      "id": 69,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Tiyara yoktur ve en iyi alamet Fal'dır.\" Onlar sordular: \"Fal nedir?\" O da: \"Sizden birinin duyduğu (ve iyi bir alamet olarak kabul ettiği) güzel bir sözdür.\" dedi."
+    },
+    {
+      "id": 70,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Tiyara yoktur ve en iyi alamet Fal'dır.\" Birisi dedi ki: \"Fal nedir, ey Allah'ın Elçisi (ﷺ)?\" O da: \"Sizden birinin duyduğu (ve iyi bir alamet olarak kabul ettiği) güzel bir sözdür.\" dedi."
+    },
+    {
+      "id": 71,
+      "narrator": "Narrated Anas:",
+      "text": "Enes'ten rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Ne 'Adwa (ne de bulaşıcı hastalık, Allah'ın izni olmadan başkalarına geçer), ne de Tiyara vardır, ama ben iyi Fal'ı severim, yani güzel sözü.\""
+    },
+    {
+      "id": 72,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Ne 'Adwa vardır, ne de Tiyara, ne de Hama, ne de Safar.\""
+    },
+    {
+      "id": 73,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) Hudhail kabilesinden iki kadın hakkında hüküm verdi; birbirleriyle kavga etmişlerdi ve birisi diğerine bir taşla vurmuştu. Taş onun karnına isabet etti ve hamile olduğu için darbe, karnındaki çocuğu öldürdü. İkisi de davalarını Peygamber'e (ﷺ) getirdiler ve o da, karnındaki şey için kan bedelinin bir köle veya bir cariye olduğunu hükmetti. Ceza verilen kadının velisi dedi ki: \"Ey Allah'ın Elçisi (ﷺ)! Hiç içmemiş ve yememiş, konuşmamış ve ağlamamış bir varlık için ceza alacak mıyım? Böyle bir dava geçersiz olmalıdır.\" Bunun üzerine Peygamber (ﷺ) şöyle dedi: \"Bu, falcıların kardeşlerinden biridir.\""
+    },
+    {
+      "id": 74,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: İki kadın (kavga etti) ve birisi diğerine karnına bir taşla vurdu ve onu düşük yaptırdı. Peygamber (ﷺ) mağdurun ya bir köle ya da bir cariye (kan bedeli olarak) verilmesine hükmetti. İbn Şihab'dan rivayet edilmiştir: Sa'id bin Al-Musayyab şöyle dedi: \"Allah'ın Elçisi (ﷺ) hamile bir kadının karnındaki çocuğun öldürülmesi durumunda, failin anneye bir köle veya bir cariye vermesi gerektiğine hükmetti.\" Fail dedi ki: \"Hiç yememiş ve içmemiş, konuşmamış ve ağlamamış birini öldürdüğüm için nasıl ceza alabilirim? Böyle bir dava reddedilmelidir.\" Bunun üzerine Allah'ın Elçisi (ﷺ) şöyle dedi: \"O, kehanet edenlerin kardeşlerinden biridir.\""
+    },
+    {
+      "id": 75,
+      "narrator": "Narrated Abu Mas`ud:",
+      "text": "Ebu Mes'ud'dan rivayet edilmiştir: Peygamber (ﷺ) köpek fiyatının, fahişe kazancının ve falcının kazancının kullanılmasını yasakladı."
+    },
+    {
+      "id": 76,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Bazı insanlar Allah'ın Resulü'ne (ﷺ) falcılar hakkında sordular. O da, \"Onlar hiçbir şeydir.\" dedi. Onlar, \"Ey Allah'ın Resulü (ﷺ)! Bazen bize doğru çıkan bir şey söylerler.\" dediler. Allah'ın Resulü (ﷺ) dedi ki, \"Bir cin o doğru sözü kapar ve onu arkadaşının (falcının) kulağına döker (bir şeyi şişeye koyar gibi). Falcı daha sonra o söze yüz yalan karıştırır.\""
+    },
+    {
+      "id": 77,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Beni Züraik kabilesinden Labid bin el-A'sam adında bir adam, Allah'ın Resulü'ne (ﷺ) sihir yaptı. Bu yüzden Allah'ın Resulü (ﷺ) gerçekte yapmadığı bir şeyi yapmış gibi hayal etmeye başladı. Bir gün veya bir gece bizimle birlikteyken, Allah'a dua etti ve uzun süre dua ettikten sonra, \"Ey Aişe! Allah, sorduğum mesele hakkında bana bir şey bildirdi mi biliyor musun?\" dedi. Ben de, \"O nedir, ey Allah'ın Resulü (ﷺ)?\" dedim. O da, \"İki adam bana geldi; birisi başımın yanında, diğeri ayaklarımın yanında oturdu. Başımın yanındaki diğerine, 'Bu adamın hastalığı nedir?' diye sordu. Diğeri, 'O sihir etkisi altındadır.' diye cevap verdi. İlk adam sordu, 'Ona sihir yapan kimdir?' Diğeri, 'Labid bin el-A'sam.' diye cevap verdi. İlk adam sordu, 'Hangi malzeme kullanıldı?' Diğeri, 'Bir tarak ve ona yapışmış saçlar ile bir dişi hurma palmiyesinin poleninin derisi.' dedi. İlk adam sordu, 'O nerede?' Diğeri, '(O) Dharwan kuyusunda.' dedi.\" Bunun üzerine Allah'ın Resulü (ﷺ) bazı arkadaşlarıyla birlikte oraya gitti ve geri döndüğünde, \"Ey Aişe, suyun rengi, kına yapraklarının infüzyonuna benziyor. Yanındaki hurma ağaçlarının tepeleri, şeytanların başları gibi.\" dedi. Ben sordum, \"Ey Allah'ın Resulü (ﷺ)! Neden bunu (insanlara) göstermedin?\" O da, \"Allah beni iyileştirdiği için, insanların arasında kötülüğün yayılmasını istemedim.\" dedi. Sonra kuyunun toprakla doldurulmasını emretti."
+    },
+    {
+      "id": 78,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Resulü (ﷺ) dedi ki, \"Mubiqat'tan (şirk ve sihirden) sakının.\""
+    },
+    {
+      "id": 79,
+      "narrator": "Narrated Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Allah'ın Resulü'ne (ﷺ) sihir yapıldı, bu yüzden eşleriyle cinsel ilişkiye girdiğini düşünmeye başladı, oysa gerçekte böyle bir şey yoktu (Süfyan dedi ki: Bu, en zor sihir türüdür çünkü böyle bir etkiye sahiptir). Sonra bir gün, \"Ey Aişe, Allah'ın sorduğum mesele hakkında bana bir şey bildirdiğini biliyor musun?\" dedi. İki adam bana geldi; birisi başımın yanında, diğeri ayaklarımın yanında oturdu. Başımın yanındaki diğerine, \"Bu adamın hastalığı nedir?\" diye sordu. Diğeri, \"O sihir etkisi altındadır.\" diye cevap verdi. İlk adam sordu, \"Ona sihir yapan kimdir?\" Diğeri, \"Labid bin el-A'sam, Beni Züraik'ten bir adamdır, Yahudilerin bir dostu ve münafıktır.\" dedi. İlk adam sordu, \"Hangi malzeme kullanıldı?\" Diğeri, \"Bir tarak ve ona yapışmış saçlar.\" dedi. İlk adam sordu, \"O nerede?\" Diğeri, \"Dharwan kuyusundaki bir dişi hurma palmiyesinin poleninin derisi altında.\" dedi. Bunun üzerine Peygamber (ﷺ) o kuyuya gitti ve o şeyleri çıkardı ve \"O, bana (bir rüyada) gösterilen kuyu idi. Suyunun rengi, kına yapraklarının infüzyonuna benziyordu ve hurma ağaçları şeytanların başları gibi görünüyordu.\" dedi. Peygamber (ﷺ) ekledi, \"Sonra o şey çıkarıldı.\" Ben (Peygamber (ﷺ)'e) dedim, \"Neden kendini Nashra ile tedavi etmiyorsun?\" O da, \"Allah beni iyileştirdi; insanları arasında kötülüğün yayılmasını istemiyorum.\" dedi."
+    },
+    {
+      "id": 80,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Allah'ın Resulü'ne (ﷺ) sihir yapıldı, bu yüzden bir şey yaptığını hayal etmeye başladı, oysa gerçekte yapmamıştı. Bir gün benimle birlikteyken, Allah'a dua etti ve uzun süre dua ettikten sonra, \"Ey Aişe! Allah, sorduğum mesele hakkında bana bir şey bildirdi mi biliyor musun?\" dedi. Ben de, \"O nedir, ey Allah'ın Resulü (ﷺ)?\" dedim. O da, \"İki adam bana geldi; birisi başımın yanında, diğeri ayaklarımın yanında oturdu. Birisi, 'Bu adamın hastalığı nedir?' diye sordu. Diğeri, 'O sihir etkisi altındadır.' dedi. İlk adam sordu, 'Ona sihir yapan kimdir?' Diğeri, 'Labid bin el-A'sam, Beni Züraik'ten bir Yahudi.' dedi. (İlk adam) sordu, 'Bu nasıl yapıldı?' Diğeri, 'Bir tarak ve ona yapışmış saçlar ile bir dişi hurma palmiyesinin poleninin derisi.' dedi. İlk adam sordu, 'O nerede?' Diğeri, 'Dharwan kuyusunda.' dedi. Sonra Peygamber (ﷺ) bazı arkadaşlarıyla birlikte o kuyunun yanına gitti ve orada hurma ağaçları vardı. Sonra bana geri döndü ve, 'Vallahi o kuyunun suyu, kına yapraklarının infüzyonu gibi (kırmızıydı) ve hurma ağaçları şeytanların başları gibi görünüyordu.' dedi. Ben dedim, \"Ey Allah'ın Resulü (ﷺ)! O polen derisinden o malzemeleri çıkardın mı?\" O da, \"Hayır! Benim için Allah beni iyileştirdi ve ben insanların arasında kötülüğün yayılmasını istemedim.\" dedi. Sonra kuyunun toprakla doldurulmasını emretti ve o toprakla dolduruldu."
+    },
+    {
+      "id": 81,
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "Abdullah bin Ömer'den rivayet edilmiştir: İki adam doğudan geldi ve insanların etkileyici konuşmalarına hayret etti. Bunun üzerine Allah'ın Resulü (ﷺ) dedi ki, \"Bazı etkileyici konuşmalar sihir kadar etkilidir.\""
+    },
+    {
+      "id": 82,
+      "narrator": "Narrated Saud:",
+      "text": "Sa'd'dan rivayet edilmiştir: Peygamber (ﷺ) dedi ki, \"Eğer biri her sabah 'Ajwa hurması yerse, o gün akşama kadar zehir veya sihirden etkilenmeyecektir.\" (Başka bir ravi yedi hurma dedi)."
+    },
+    {
+      "id": 83,
+      "narrator": "Narrated Saud:",
+      "text": "Sa'd'dan rivayet edilmiştir: Allah'ın Resulü (ﷺ) şöyle dedi: \"Eğer biri sabah yedi 'Ajwa hurması yerse, o gün ne sihir ne de zehir ona zarar verecektir.\""
+    },
+    {
+      "id": 84,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) dedi ki, \"Ne 'Adwa (yani, Allah'ın izni olmadan bulaşıcı hastalık yoktur); ne de (Safar ayının) kötü bir alameti vardır; ne de Hama.\" Bir bedevi, \"Ey Allah'ın Resulü (ﷺ)! Kumda (çölde) geyik gibi görünen develer var, ama bir kuduz deve onlarla karıştığında hepsi kuduz olur.\" dedi. Bunun üzerine Allah'ın Resulü (ﷺ) dedi ki, \"O zaman kuduz hastalığını ilk kuduz deveye kim bulaştırdı?\""
+    },
+    {
+      "id": 85,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Resulü (ﷺ) dedi ki, \"Hastalık çeken hayvanlar (koyunlar, inekler, develer vb.) sağlıklı hayvanlarla karıştırılmamalıdır, (veya şöyle dedi: \"Bir hastayı sağlıklı bir kişiyle bir araya getirmeyin.\")\" (önlem olarak)."
+    },
+    {
+      "id": 86,
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "Abdullah bin Ömer'den rivayet edilmiştir: Allah'ın Resulü (ﷺ) dedi ki, \"Ne 'Adwa ne de Tiyara vardır ve kötü bir alamet sadece üç şeyde vardır: bir at, bir kadın ve bir ev.\""
+    },
+    {
+      "id": 87,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Resulü (ﷺ) dedi ki, \"Ne 'Adwa vardır.\" Ebu Hureyre ayrıca dedi ki: Peygamber (ﷺ) dedi ki, \"Hastalık çeken hayvanlar sağlıklı hayvanlarla karıştırılmamalıdır (veya şöyle dedi: \"Bir hastayı sağlıklı bir kişiyle bir araya getirmeyin.\") Ebu Hureyre ayrıca dedi ki: Allah'ın Resulü (ﷺ) dedi ki, \"Ne 'Adwa vardır.\" Bir bedevi ayağa kalktı ve dedi ki, \"Kumda develer geyik gibi görünür, ama bir kuduz deve onlarla karıştığında hepsi kuduz olur.\" Bunun üzerine Peygamber (ﷺ) dedi ki, \"O zaman kuduz hastalığını ilk kuduz deveye kim bulaştırdı?\""
+    },
+    {
+      "id": 88,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir: Peygamber (ﷺ) dedi ki, \"Ne 'Adwa ne de Tiyara vardır; ama ben Fal'ı severim.\" Onlar, \"Fal nedir?\" dediler. O da, \"İyi bir sözdür.\" dedi."
+    },
+    {
+      "id": 89,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Hayber fethedildiğinde, Allah'ın Resulü'ne (ﷺ) zehirli (kızartılmış) bir koyun sunuldu. Allah'ın Resulü, \"Bu bölgede bulunan tüm Yahudileri toplayın.\" dedi. (Toplandıklarında) Allah'ın Resulü onlara, \"Bir şey soracağım; bana doğruyu söyleyecek misiniz?\" dedi. Onlar, \"Evet, ey Ebu'l-Kasım!\" dediler. Allah'ın Resulü onlara, \"Babanız kimdir?\" dedi. Onlar, \"Babamız falan filan.\" dediler. Allah'ın Resulü, \"Yalan söylediniz; çünkü babanız falan filan.\" dedi. Onlar, \"Şüphesiz, sen doğru söyledin ve doğru olanı yaptın.\" dediler. O tekrar onlara, \"Eğer bir şey sorarsam, bana doğruyu söyleyecek misiniz?\" dedi. Onlar, \"Evet, ey Ebu'l-Kasım! Eğer yalan söylersek, sen bunu babamız hakkında bildiğin gibi bilirsin.\" dediler. Allah'ın Resulü sonra sordu, \"Ateşin (Cehennem) halkı kimdir?\" Onlar, \"Bir süre ateşte kalacağız, sonra siz (Müslümanlar) bizim yerimize geçeceksiniz.\" dediler. Allah'ın Resulü onlara, \"Siz orada alçaltıcı bir şekilde kalacaksınız. Vallahi, biz asla sizin yerinize geçmeyeceğiz.\" dedi. Sonra onlara tekrar sordu, \"Eğer bir şey sorarsam, bana doğruyu söyleyecek misiniz?\" dediler. \"Evet.\" dedi. O sordu, \"Bu kızartılmış koyuna zehiri koydunuz mu?\" Onlar, \"Evet.\" dediler. O sordu, \"Bunu yapmanıza ne sebep oldu?\" Onlar, \"Eğer sen bir yalancıysan, o zaman senden kurtulmuş olacağız; eğer sen bir peygambersen, bu sana zarar vermez.\" dediler."
+    },
+    {
+      "id": 90,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) dedi ki, \"Kim kasıtlı olarak bir dağdan kendini atar ve intihar ederse, o, (Cehennem) ateşine düşerek orada sürekli kalacaktır; ve kim zehir içip kendini öldürürse, o, elinde zehirle onu içerek (Cehennem) ateşinde sürekli kalacaktır; ve kim bir demir silah ile kendini öldürürse, o, o silahı elinde tutarak karnına saplayarak (Cehennem) ateşinde sürekli kalacaktır.\""
+    },
+    {
+      "id": 91,
+      "narrator": "Narrated Sa`d:",
+      "text": "Sa`d'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle buyurdu: \"Kim sabahleyin yedi 'Ajwa hurması yerse, o gün sihir veya zehirden etkilenmez.\""
+    },
+    {
+      "id": 92,
+      "narrator": "Narrated Abu Tha`laba Al-Khushani:",
+      "text": "Ebu Tha`laba Al-Khushani'den rivayet edilmiştir: Peygamber (ﷺ) dişleri olan yaban hayvanlarının yenmesini yasakladı. (Az-Zuhri dedi ki: Bu rivayeti ancak Şam'a gittiğimde duydum.) El-Leyth dedi ki: Yunus'tan rivayet edilmiştir: İbn Şihab'a sordum, \"Eşek sütü ile abdest alabilir miyiz veya onu içebilir miyiz, ya da yaban hayvanlarının safra veya develerin idrarını içebilir miyiz?\" O cevap verdi: \"Müslümanlar bunlarla tedavi olurlardı ve bunda bir zarar görmezlerdi. Eşek sütünün gelince, Allah'ın Elçisi (ﷺ) etlerinin yenmesini yasakladığını öğrendik, fakat sütlerinin içilmesinin caiz mi yoksa yasak mı olduğu konusunda bir bilgi almadık.\" Yaban hayvanlarının safrası hakkında ise, İbn Şihab dedi ki: \"Ebu İdris Al-Khaulani bana, Allah'ın Elçisi (ﷺ) dişleri olan her yaban hayvanının etinin yenmesini yasakladığını söyledi.\""
+    },
+    {
+      "id": 93,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle buyurdu: \"Eğer bir sinek sizlerden birinin kabına düşerse, onu tamamen (kabın içine) daldırsın ve sonra atsın, çünkü onun bir kanadında bir hastalık vardır ve diğerinde ise o hastalığın tedavisi (antidotu) vardır.\""
+    }
+  ]
+}

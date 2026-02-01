@@ -1,0 +1,36 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 4,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Anas said:",
+      "text": "Enes dedi ki: “Allah’ın Messenger’ının (Allah ona salat ve selam eylesin) kılıcının kabzası gümüşten yapılmıştı.”"
+    },
+    {
+      "id": 2,
+      "narrator": "Sa'id ibn Abi’l-Hasan al-Basri said:",
+      "text": "---"
+    },
+    {
+      "id": 3,
+      "narrator": "Hud (i.e. Ibn 'Abdi’llah ibn Sa'd) reports that his grandfather said:",
+      "text": "Sa'id ibn Abi’l-Hasan al-Basri dedi ki: “Allah’ın Messenger’ının (Allah ona salat ve selam eylesin) kılıcının kabzası gümüşten yapılmıştı.”"
+    },
+    {
+      "id": 4,
+      "narrator": "Ibn Sirin said:",
+      "text": "---"
+    }
+  ]
+}

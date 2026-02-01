@@ -1,0 +1,26 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 2,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "‘A’isha said (may Allah be well pleased with her):",
+      "text": "Aişe (Allah ondan razı olsun) dedi ki: \"Allah’ın Messenger’ı (Allah ona salat ve selam eylesin) üzerinde yattığı yatak, liflerle doldurulmuş derilerden yapılmıştı.\""
+    },
+    {
+      "id": 2,
+      "narrator": "Ja'far ibn Muhammad reported that his father said:",
+      "text": "Cafer ibn Muhammed, babasından rivayet etti: \"Aişe'ye soruldu: 'Allah’ın Messenger’ının (Allah ona salat ve selam eylesin) evinizdeki yatağı nasıldı?' O da dedi ki: 'Liflerle doldurulmuş derilerden yapılmıştı.' Hafsa'ya da soruldu: 'Allah’ın Messenger’ının (Allah ona salat ve selam eylesin) evinizdeki yatağı nasıldı?' O da dedi ki: 'Kaba yün kumaşından, uyumak için iki kat yaptığımız bir yataktı. Sonra bir gece dedim ki: ‘Eğer iki katı dört kat yapsaydık, onun için daha yumuşak olurdu,’ bu yüzden onu dört kat yaptık. Sonra sabah uyandığında, 'Bu gece benim için ne yaydınız?' dedi. O da: 'Biz dedik ki: ‘Bu senin yatağın, sadece dört kat yaptık. Daha yumuşak olacağını düşündük.’ O da: 'Onu eski haline getirin, çünkü yumuşaklığı bu gece benim namaz kılmamı engelledi!'\""
+    }
+  ]
+}

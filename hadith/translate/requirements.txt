@@ -1,0 +1,10 @@
+transformers>=4.36.0
+torch>=2.0.0
+sentencepiece
+sacremoses
+sentence-transformers
+openai>=1.0.0
+tqdm
+numpy
+scikit-learn
+flask>=2.0.0

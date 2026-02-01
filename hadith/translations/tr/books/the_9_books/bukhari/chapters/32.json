@@ -1,0 +1,71 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 11,
+    "arabic": {
+      "title": "صحيح البخاري",
+      "author": "الإمام محمد بن إسماعيل البخاري"
+    },
+    "english": {
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Muhammad ibn Ismail al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Abu Huraira'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Kim Ramazan ayını samimi bir imanla (yani inançla) ve Allah'tan bir ödül umarak oruç tutarsa, geçmişteki tüm günahları affedilir; kim de Kadir Gecesi'nde samimi bir imanla ve Allah'tan bir ödül umarak namaz kılarsa, onun da geçmişteki tüm günahları affedilir.\""
+    },
+    {
+      "id": 2,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn `Umar'dan rivayet edilmiştir: Peygamber (ﷺ) arkadaşlarından bazı erkeklerin rüyalarında Kadir Gecesi'nin Ramazan'ın son yedi gecesinde olduğunu gördüklerini söyledi. Allah'ın Elçisi (ﷺ) şöyle dedi: \"Görünüşe göre tüm rüyalarınız Kadir Gecesi'nin son yedi gecede olduğunu onaylıyor; kim onu aramak istiyorsa, Ramazan'ın son yedi gecesinde aramalıdır.\""
+    },
+    {
+      "id": 3,
+      "narrator": "Narrated Abu Salama:",
+      "text": "Abu Salama'dan rivayet edilmiştir: Abu Sa`id'e (Kadir Gecesi hakkında) sordum, o benim arkadaşım idi ve şöyle dedi: \"Peygamber (ﷺ) ile Ramazan ayının ortasında İ`tikaf (camiye çekilme) yaptık. Ramazan'ın 20. sabahında Peygamber (ﷺ) geldi ve bize hitap ederek, 'Kadir Gecesi'nin tarihini bana bildirdiler ama unutturdular; bu yüzden onu Ramazan'ın son on gecesinin tek gecelerinde arayın. (Rüyamda) kendimi çamur ve suda secde ederken gördüm (bir işaret olarak). O yüzden benimle birlikte İ`tikaf'ta bulunan herkes benimle birlikte geri dönmelidir (başka bir 10 gün için)' dedi ve biz geri döndük. O zaman gökyüzünde bulut yoktu ama aniden bir bulut geldi ve yağmur yağmaya başladı, caminin hurma yaprağı saplarından yapılmış çatısından yağmur suyu sızmaya başladı. Sonra namaz kılındı ve ben Allah'ın Elçisi (ﷺ) çamur ve suda secde ederken gördüm ve alnında çamur izlerini gördüm.\""
+    },
+    {
+      "id": 4,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Kadir Gecesi'ni Ramazan'ın son on gününün tek gecelerinde arayın.\""
+    },
+    {
+      "id": 5,
+      "narrator": "Narrated Abu Sa`id Al-Khudri:",
+      "text": "Abu Sa`id Al-Khudri'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) Ramazan'ın ortasında İ`tikaf yapardı ve yirmi gece geçtikten sonra 21. günde evine dönerdi; onunla birlikte İ`tikaf'ta bulunan insanlar da evlerine dönerdi. Ramazan'da, İ`tikaf yaptığı bir gece, evine döneceği gecede gece namazlarını kıldırdı ve sonra insanlara hitap ederek Allah'ın istediği her şeyi emretti ve şöyle dedi: \"Bu on gün (yani ortası için) İ`tikaf yapıyordum ama şimdi bu ayın son on günü için İ`tikaf yapmayı düşünüyorum; benimle birlikte İ`tikaf'ta bulunan herkes yerinde kalmalıdır. Gerçekten bu Gecenin (Kadir Gecesi) tarihini bana gösterdiler ama unuttum. O yüzden onu bu ayın son on gününün tek gecelerinde arayın. Rüyamda kendimi çamur ve suda secde ederken gördüm.\" 21. gecede gökyüzü bulutlarla kaplıydı ve yağmur yağdı, ve yağmur suyu Peygamber'in (ﷺ) namaz kıldığı yerin caminin çatısından sızmaya başladı. Ben kendi gözlerimle sabah namazını tamamladıktan sonra Peygamber'in (ﷺ) yüzü çamur ve suyla kaplı bir şekilde çıktığını gördüm."
+    },
+    {
+      "id": 6,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Kadir Gecesi'ni arayın.\""
+    },
+    {
+      "id": 7,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) Ramazan'ın son on gecesinde İ`tikaf yapardı ve şöyle derdi: \"Kadir Gecesi'ni Ramazan ayının son on gecesinde arayın.\""
+    },
+    {
+      "id": 8,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn `Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Kadir Gecesi'ni Ramazan'ın son on gecesinde arayın; son on geceden dokuz veya yedi veya beş gece kaldığında (yani 21, 23, 25. gecelerde).\""
+    },
+    {
+      "id": 9,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn `Abbas'tan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Kadir Gecesi, ayın (Ramazan) son on gecesinde, ya ilk dokuzunda ya da son (kalan) yedi gecesinde (bulunmaktadır).\" İbn `Abbas ekledi: \"Onu Ramazan'ın yirmi dördüncü gecesinde arayın.\""
+    },
+    {
+      "id": 10,
+      "narrator": "Narrated 'Ubada bin As-Samit:",
+      "text": "Ubade bin As-Samit'ten rivayet edilmiştir: Peygamber (ﷺ) Kadir Gecesi hakkında bize bilgi vermek için dışarı çıktı ama iki Müslüman birbirleriyle tartışıyordu. Bunun üzerine Peygamber (ﷺ) şöyle dedi: \"Kadir Gecesi hakkında size bilgi vermek için dışarı çıktım ama şu kişiler tartışıyordu, bu yüzden onun haberi alındı; yine de bu sizin iyiliğiniz içindir, o yüzden 29., 27. ve 25. gecelerde arayın.\""
+    },
+    {
+      "id": 11,
+      "narrator": "Narrated Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Ramazan'ın son on gününün başlamasıyla birlikte Peygamber (ﷺ) belini sıkı bağlardı (yani çok çalışırdı) ve tüm gece namaz kılar, ailesini de namaz için uyandırırdı."
+    }
+  ]
+}

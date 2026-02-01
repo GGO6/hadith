@@ -1,0 +1,36 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 4,
+    "arabic": {
+      "title": "الأدب المفرد",
+      "author": "الإمام البخاري"
+    },
+    "english": {
+      "title": "Al-Adab Al-Mufrad",
+      "author": "Imam al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Abu Hurayra reported that the Prophet, may Allah bless him and\ngrant him peace, asked Abu'l-Haytham:",
+      "text": "Ebu Hureyre, Allah'ın selamı ve bereketi üzerine olsun, Peygamber'in Ebu'l-Heytem'e sorduğunu bildirmiştir: \"Senin bir hizmetçin var mı?\" \"Hayır,\" diye cevap verdi. Peygamber, \"Esirlerimiz olduğunda bize gel,\" dedi. Peygamber'e, sadece iki esir getirildi. Ebu'l-Heytem ona geldi ve Peygamber, \"Onlardan birini seç,\" dedi. \"Bana seç, Allah'ın Resulü,\" diye cevap verdi. Peygamber, \"Danışılan kişi güven içindedir. Bu kişiyi al. Onu namaz kılarken gördüm. Ona iyi davran,\" dedi. Ebu'l-Heytem'in eşi, \"Sen, Peygamber'in onun hakkında söylediklerine, onu serbest bırakmadıkça uymayacaksın,\" dedi. \"O serbest,\" dedi. Peygamber, \"Allah, bir peygamber veya halife göndermedi ki, onun iki güvenilir arkadaşı olmasın: birisi ona doğru olanı yapmasını emreden ve kötü olanı yasaklayan, diğeri ise seni bozmaktan geri durmayandır. Kötü güvenilenden korunmuş olan, korunmuştur,\" dedi."
+    },
+    {
+      "id": 2,
+      "narrator": "",
+      "text": "Amir b. Dinar, \"İbn Abbas bu ayeti okudu: 'Onlarla o mesele hakkında danışın.' (3:159)\" dedi."
+    },
+    {
+      "id": 3,
+      "narrator": "",
+      "text": "Hasan, \"İnsanlar asla danışmadan en iyi olana yönlendirilmezler,\" dedi. Sonra, \"ve işlerini karşılıklı istişare ile yürütün,\" (42:38) ayetini okudu."
+    },
+    {
+      "id": 4,
+      "narrator": "",
+      "text": "Ebu Hureyre, Allah'ın selamı ve bereketi üzerine olsun, Peygamber'in şöyle dediğini bildirmiştir: \"Benden duymadığım sözleri bana atfeden, ateşteki yerini alsın. Kardeşine danıştığında ona yanlış bir tavsiye veren, onu aldatmış olur. Eğer birisi sağlam olmayan bir fetva verirse, o yanlış eylem, fetvayı verenin üzerindedir.\""
+    }
+  ]
+}

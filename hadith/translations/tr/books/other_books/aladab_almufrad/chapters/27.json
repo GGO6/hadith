@@ -1,0 +1,56 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 8,
+    "arabic": {
+      "title": "الأدب المفرد",
+      "author": "الإمام البخاري"
+    },
+    "english": {
+      "title": "Al-Adab Al-Mufrad",
+      "author": "Imam al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "",
+      "text": "'Aişe dedi ki: \"Biraz huysuz bir devede oturuyordum ve ona vurmaya başladım. Peygamber, Allah ona salat ve selam eylesin, 'Merhametli olmalısın. Bir şeyde merhamet olduğunda onu süsler, merhamet kaldırıldığında ise onu rezil eder.' dedi.\""
+    },
+    {
+      "id": 2,
+      "narrator": "",
+      "text": "Ebu Nadra dedi ki: \"Bizden biri, ya Jabir ya da Jubayr, 'Ben 'Umar'a, halife olduğu sırada, ihtiyaç duyduğum bir şey için gittim. Gece Medine'ye ulaştım ve doğrudan ona gittim. Ben akıllı ve hazır bir dille konuşan biriyim - ya da o, konuşma (yani hitabet) dedi. Bu dünyaya baktım ve ona pek değer vermedim. Onu hiçbir şeye değmez olarak terk ettim. 'Umar'ın yanında beyaz saçlı ve beyaz giysili bir adam vardı. Konuşmamı bitirdiğimde, 'Söylediklerin doğru, fakat bu dünyaya saldırın konusunda yanılıyorsun. Bu dünya nedir biliyor musun? Bu dünya, Ahiret'e ulaşmak için (ya da o, 'rızkımızın olduğu yer' dedi) bulunduğumuz yerdir. Ahiret'te ödüllendirileceğimiz amellerimizi içerir.' dedi. 'Bu dünyayı benden daha iyi bilen bir adam burada çalıştı.' dedi. Ben de, 'Amir al-Mu'minin, yanımızdaki bu adam kim?' diye sordum. O, 'Müslümanların efendisi, Ubayy ibn Ka'b.' diye cevap verdi.\""
+    },
+    {
+      "id": 3,
+      "narrator": "Al-Bara' b. `Azib said:",
+      "text": "Al-Bara' b. `Azib dedi ki: Allah'ın Resulü, ona selam olsun, \"Kibir kötülükten başka bir şey değildir.\" dedi."
+    },
+    {
+      "id": 4,
+      "narrator": "",
+      "text": "Hanash ibn al-Harith, babasının şöyle dediğini aktardı: \"Bizden birinin hamile bir kısrağı vardı, onu kesip, 'Bu atı binecek kadar uzun yaşar mıyım?' dedi. Sonra 'Umar'dan, Allah'ın bize verdiği rızka dikkat etmemiz gerektiğini bildiren bir mektup aldık, çünkü işte hala zaman var.\""
+    },
+    {
+      "id": 5,
+      "narrator": "",
+      "text": "Enes ibn Malik, Peygamberin, Allah ona salat ve selam eylesin, \"Eğer Kıyamet Saati gelirken elinde bir bitkinin filizi varsa ve onu dikmek mümkünse, onu dikmelisin.\" dediğini bildirdi."
+    },
+    {
+      "id": 6,
+      "narrator": "",
+      "text": "Davud ibn Abi Davud dedi ki: \"'Abdullah ibn Selam bana, 'Eğer genç hurma ağaçları dikerken Dajjal'ın çıktığını duyarsan, dikmek için geç kalmış sayılmazsın, çünkü insanların bundan sonra da geçim kaynağı olacak.' dedi.\""
+    },
+    {
+      "id": 7,
+      "narrator": "Abu Hurayra reported that the Prophet, may Allah bless him and\ngrant him peace, said, \"There are three supplications which are answered:",
+      "text": "Ebu Hureyre, Peygamberin, Allah ona salat ve selam eylesin, \"Üç dua vardır ki kabul edilir: Haksızlığa uğrayan kişinin duası, yolcunun duası ve bir ebeveynin çocuğu için yaptığı dua.\" dediğini bildirdi."
+    },
+    {
+      "id": 8,
+      "narrator": "",
+      "text": "Cabir, Peygamberin, Allah ona salat ve selam eylesin, minberde şöyle dediğini aktardı: \"Yemen'e baktı ve 'Ya Allah, onların kalplerini getir.' dedi, Irak'a baktı ve benzer bir şey söyledi. Her ufka baktı ve bunun gibi şeyler söyledi. 'Ya Allah, bize yerin mirasından rızık ver ve bizim mudd ve sa'ımızda bereket ver.' dedi.\""
+    }
+  ]
+}

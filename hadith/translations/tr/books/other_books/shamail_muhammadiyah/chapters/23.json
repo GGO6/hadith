@@ -1,0 +1,41 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 5,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Reported on the authority of Ibn al-Ka'b ibn Malik, that his father said:",
+      "text": "İbn al-Ka'b ibn Malik'ten rivayet edildiğine göre, babası şöyle dedi: \"Peygamber (Allah ona salat ve selam eylesin) parmaklarını üç kez yalardı.\""
+    },
+    {
+      "id": 2,
+      "narrator": "Anas said:",
+      "text": "Anas dedi ki: \"Peygamber (Allah ona salat ve selam eylesin) bir yemek yediğinde, üç parmağını yalardı.\""
+    },
+    {
+      "id": 3,
+      "narrator": "Abu Juhaifa said:",
+      "text": "Ebu Juhaifa dedi ki: \"Peygamber (Allah ona salat ve selam eylesin) şöyle dedi: 'Ben, bir desteğe yaslanarak yemek yemem!'\""
+    },
+    {
+      "id": 4,
+      "narrator": "Ibn al-Ka'b ibn Malik reported that his father said:",
+      "text": "İbn al-Ka'b ibn Malik, babasının şöyle dediğini rivayet etti: \"Allah’ın Elçisi (Allah ona salat ve selam eylesin) üç parmağıyla yemek yerdi ve sonrasında onları yalardı.\""
+    },
+    {
+      "id": 5,
+      "narrator": "Anas ibn Malik say:",
+      "text": "Anas ibn Malik şöyle der: \"Allah’ın Elçisi (Allah ona salat ve selam eylesin) için bazı kuru hurmalar getirildi ve onu açlıktan eğilmiş bir halde yerken gördüm.\""
+    }
+  ]
+}

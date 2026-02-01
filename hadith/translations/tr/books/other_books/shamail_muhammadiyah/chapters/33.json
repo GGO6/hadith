@@ -1,0 +1,31 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 3,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "'A’isha said (may Allah the Exalted be well pleased with her):",
+      "text": "Aişe (Allah ondan razı olsun) dedi ki: \"Allah’ın Messengerı (Allah ona salat ve selam eylesin) sizin gibi uzun uzun konuşmazdı. Aksine, arada duraklar verirdi ki, yanında oturanlar söylediklerini hatırlasınlar.”"
+    },
+    {
+      "id": 2,
+      "narrator": "Anas ibn Malik said:",
+      "text": "Enes ibn Malik dedi ki: \"Allah’ın Messengerı (Allah ona salat ve selam eylesin) her ifadeyi üç kez tekrar ederdi ki, kendisini anlaşılsın.”"
+    },
+    {
+      "id": 3,
+      "narrator": "Al-Hasan ibn 'Ali said (may Allah the Exalted be well pleased with him and his father):",
+      "text": "Hasan ibn Ali (Allah ondan ve babasından razı olsun) dedi ki: “İnsanları tarif etme konusunda yetenekli olan annemin kardeşi Hind ibn Ebi Hala’ya: ‘Bana Allah’ın Messengerının (Allah ona salat ve selam eylesin) konuşma tarzını tarif et!’ dedim. O da şöyle dedi: Allah’ın Messengerı (Allah ona salat ve selam eylesin) daima üzüntülere karşı duyarlı, düşünceli, dinlenmeden, uzun süre sessiz kalabilen biriydi. Gereksiz yere konuşmazdı. Konuşmasına 'Bismillahi ta'ala' ile başlar ve bitirirdi. Konuşması özlüydü, ne fazla ne de eksikti. Ne kaba ne de aşağılayıcıydı. En küçük bir nimeti övüp, onunla ilgili hiçbir yönünü eleştirmezdi. Yiyecek ve içecekten zevk alanları ne kınar ne de övgüde bulunurdu ve bu dünyadan dolayı öfkelenmezdi. Eğer hak ihlal edilirse, o kadar öfkelenirdi ki, yanlışlığı düzeltmekten başka bir şey yapamazdı. Kendi menfaati için öfkelenmezdi ya da kendini savunmazdı. Elini çağırırken, elinin tamamıyla işaret ederdi, hayrete düştüğünde elini çevirirdi, konuşurken elleriyle işaret ederdi ve sağ avucunu sol baş parmağının tabanına koyardı. Öfkelendiğinde yüzünü çevirir ve bakışını kaçırırdı, mutlu olduğunda ise gözlerini indirirdi. Gülümsemesi genellikle, dolu dolu beyaz dişlerini gösteren bir gülümseme şeklindeydi.”"
+    }
+  ]
+}

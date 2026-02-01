@@ -1,0 +1,26 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 2,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Abu Sa'id al-Khudri said:",
+      "text": "Ebu Sa'id el-Hudri dedi ki: \"O (Allah ona salat ve selam eylesin) iffetli bir kızın odasındaki kadar utangaçtı ve bir şeyi beğenmediğinde, bunu yüzündeki ifadeden anlardık.\""
+    },
+    {
+      "id": 2,
+      "narrator": "'A’isha said:",
+      "text": "Aişe dedi ki: \"Ben asla Allah'ın Resulü'nün (Allah ona salat ve selam eylesin) avret yerlerine bakmadım.\" (Ya da şöyle dedi: \"Ben asla Allah'ın Resulü'nün (Allah ona salat ve selam eylesin) avret yerlerini görmedim.\")"
+    }
+  ]
+}

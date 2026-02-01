@@ -1,0 +1,126 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 22,
+    "arabic": {
+      "title": "سنن أبي داود",
+      "author": "الإمام أبو داود السجستاني"
+    },
+    "english": {
+      "title": "Sunan Abu Dawud",
+      "author": "Imam Abu Dawud al-Sijistani"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Narrated AbuHurayrah:",
+      "text": "Abu Hurayra'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: Eğer birisi bir falcıya gider ve onun söylediklerine inanırsa (Musa'nın rivayetine göre), ya da eşi adetliyken onunla cinsel ilişkiye girerse, ya da eşinin anüsünden cinsel ilişkiye girerse, o kişinin Muhammad'a (ﷺ) indirilene dair hiçbir şeyi yoktur - Musaddad'ın rivayetine göre."
+    },
+    {
+      "id": 2,
+      "narrator": "Narrated Abdullah ibn Abbas:",
+      "text": "Abdullah ibn Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: Eğer birisi astroloji ile ilgili herhangi bir bilgi edinirse, o sihirin bir dalını edinmiş olur ve bu konuda devam ettikçe daha fazlasını elde eder."
+    },
+    {
+      "id": 3,
+      "narrator": "Narrated Zaid bin Khalid Al-Juhani:",
+      "text": "Zaid bin Khalid Al-Juhani'den rivayet edilmiştir: Allah'ın Messenger'ı (ﷺ) sabah namazını al-Hudaibiyyah'da, gece yağan yağmurdan sonra kıldırdı ve namazı bitirdikten sonra halka döndü ve dedi ki: Rabbinizin ne söylediğini biliyor musunuz? Onlar: Allah ve O'nun Elçisi en iyi bilir dediler. O da: Bu sabah benim kullarım arasında benden inanan ve inanmayan biri vardı. \"Allah'ın lütfu ve merhametiyle yağmur yağdı\" diyen, bana inanan ve yıldızlara inanmayan kişidir; ama \"Şu ve bu yıldızdan yağmur yağdı\" diyen, bana inanmayan ve yıldızlara inanan kişidir."
+    },
+    {
+      "id": 4,
+      "narrator": "Narrated Qabisah:",
+      "text": "Qabisah'tan rivayet edilmiştir: Allah'ın Messenger'ı (ﷺ) şöyle dediğini duydum: Kuşların uçuşundan fal bakmak, kötü alametler almak ve presomansi uygulamak, falcılıkla ilgilidir. Tarq: Kadınların taş attığı falcılık anlamında kullanılır. 'Iyafah: Çizgiler çizerek yapılan geomansi anlamına gelir."
+    },
+    {
+      "id": 5,
+      "narrator": "Narrated Muhammed b. Ja'far:",
+      "text": "Muhammed b. Ja'far'dan rivayet edilmiştir: 'Awf'tan: 'Iyafah, kuşları tehdit ederek uçurmak demektir. Tarq, yerde çizilen çizgiler anlamına gelir."
+    },
+    {
+      "id": 6,
+      "narrator": "Narrated Mu'awiyah b. al-Hakam al-Sulami:",
+      "text": "Mu'awiyah b. al-Hakam al-Sulami'den rivayet edilmiştir: Ben dedim: Allah'ın Messenger'ı! Aramızda çizgi çizerek fal bakan adamlar var. O da: Bir zamanlar çizgi çizen bir Peygamber vardı, eğer biri onun çizdiği gibi yaparsa, bu doğrudur dedi."
+    },
+    {
+      "id": 7,
+      "narrator": "Narrated Abdullah ibn Mas'ud:",
+      "text": "Abdullah ibn Mas'ud'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: Alamet almak şirktir; alamet almak şirktir. Bunu üç kez söyledi. Hepimizin biraz alameti vardır, ama Allah onu güvenle (O'na) kaldırır."
+    },
+    {
+      "id": 8,
+      "narrator": "Narrated Abu Hurairah:",
+      "text": "Abu Hurayra'dan rivayet edilmiştir: Allah'ın Messenger'ı (ﷺ) şöyle dedi: Aç bir karında enfeksiyon yoktur, kötü alamet yoktur, yılan yoktur ve hamah yoktur. Göçebe bir Arap sordu: Nasıl olur da develer kumda sanki gazelle gibi dururken, içlerine kuduz bir deve girdiğinde onlara kuduz bulaştırır? O da: İlkini kim enfekte etti?"
+    },
+    {
+      "id": 9,
+      "narrator": "Narrated Abu Hurairah:",
+      "text": "Ma'mar, al-Zuhri'den naklen dedi ki: Bir adam bana, Abu Hurayra'nın kendisine şöyle dediğini aktardı: Peygamber (ﷺ) şöyle dedi: Hasta bir deve, sağlıklı bir deve ile su içmeye getirilmemelidir. Adam daha sonra ona danıştı ve dedi: Bize Peygamber (ﷺ) 'Aç bir karında enfeksiyon yoktur, kötü alamet yoktur ve hamah yoktur' demedi mi? O da: Ben bunu sana iletmedim. Al-Zuhri dedi ki: Abu Salamah dedi: O bunu aktardı ve ben Abu Hurayra'nın bu hadis dışında başka bir hadisi unuttuğunu hiç duymadım."
+    },
+    {
+      "id": 10,
+      "narrator": "Narrated AbuHurayrah:",
+      "text": "Not: Çoğu âlim, bu şeylerin kendiliğinden doğaüstü veya gizli yollarla zarar vermediğini, ancak Allah'ın nihayetinde her şeyin kontrolünde olduğunu ve bu şeylere dair korkutucu batıl inançların yanlış olduğunu yorumlamaktadır."
+    },
+    {
+      "id": 11,
+      "narrator": "Abu Dawud said:",
+      "text": "Abu Hurayra'dan rivayet edilmiştir: Allah'ın Messenger'ı (ﷺ) şöyle dedi: Aç bir karında enfeksiyon yoktur, hamah yoktur, başka bir yağmur müjdecisi yoktur ve yılan yoktur."
+    },
+    {
+      "id": 12,
+      "narrator": "Muhammad b. al-Musaffa said to us on the authority of Baqiyyah. He said:",
+      "text": "Abu Hurayra'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: Ghul yoktur."
+    },
+    {
+      "id": 13,
+      "narrator": "Narrated Anas:",
+      "text": "Abu Davud dedi ki: Malik'e \"Safar\" kelimesinin anlamı soruldu. O da: Cahiliye dönemindeki Araplar, safar ayını (savaş için) helal kılarlardı. Bir yıl helal, diğer yıl haram kılarlardı. Peygamber (ﷺ) dedi ki: Safar yoktur."
+    },
+    {
+      "id": 14,
+      "narrator": "Narrated AbuHurayrah:",
+      "text": "Muhammad b. al-Musaffa, Baqiyyah'dan rivayet etti. O da: Muhammad b. Rashid'e hamah kelimesinin anlamını sordum. O da: Cahiliye dönemindeki Araplar, birisi öldüğünde ve gömüldüğünde, mezarından bir kuşun çıktığını söylerlerdi. Ben sordum: Safar ile neyi kastetti? O da: Cahiliye dönemindeki Arapların safardan kötü alamet aldıklarını duydum. Bu yüzden Peygamber (ﷺ) dedi ki: Safar yoktur. Muhammad (b. Rashid) dedi: Birinin karın ağrısı olduğunu duyduk. Onlar bunun enfeksiyon olduğunu söylediler. Bu yüzden o dedi ki: Safar yoktur."
+    },
+    {
+      "id": 15,
+      "narrator": "Narrated 'Ata:",
+      "text": "Anas'tan rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: Enfeksiyon yoktur ve kötü alamet yoktur, ben iyi bir alameti severim. İyi alamet, güzel bir sözdür."
+    },
+    {
+      "id": 16,
+      "narrator": "Narrated Urwah ibn Amir al-Qurashi:",
+      "text": "Urwah ibn Amir al-Qurashi'den rivayet edilmiştir: Peygamber (ﷺ) huzurunda fal almak söz konusu olduğunda, en iyi türün hayırlı fal olduğunu ve bunun bir Müslümanı geri çevirmediğini söyledi. Sizden biri hoşlanmadığı bir şey görürse, şöyle demelidir: \"Ya Allah, hayırları senden başka hiç kimse getiremez, şerleri de senden başka hiç kimse def edemez ve güç ve kuvvet yalnızca Allah'tadır.\""
+    },
+    {
+      "id": 17,
+      "narrator": "Narrated Buraydah ibn al-Hasib:",
+      "text": "Buraydah ibn al-Hasib'den rivayet edilmiştir: Peygamber (ﷺ) hiçbir şeyden fal almazdı, ancak bir elçi gönderdiğinde onun adını sorardı. Eğer bu hoşuna giderse, bundan dolayı sevinirdi ve bu sevinci yüzünden belli olurdu. Eğer ismini beğenmezse, bu durum yüzünden hoşnutsuzluğu yüzünden belli olurdu. Bir köye girdiğinde, köyün adını sorar ve eğer bu hoşuna giderse, bundan dolayı sevinirdi ve bu sevinci yüzünden belli olurdu. Ama eğer ismini beğenmezse, bu durum yüzünden hoşnutsuzluğu yüzünden belli olurdu."
+    },
+    {
+      "id": 18,
+      "narrator": "Narrated Sa'd ibn Malik:",
+      "text": "Sa'd ibn Malik'ten rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Hamâ, enfeksiyon ve kötü fal yoktur; bir şeyde kötü bir fal varsa, o bir ev, bir at ve bir kadındır.\""
+    },
+    {
+      "id": 19,
+      "narrator": "It was narrated from 'Abdullah bin 'Umar that the Messenger of Allah (ﷺ) said:",
+      "text": "'Abdullah bin 'Umar'dan rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle dedi: \"Bir fal, bir evde, bir kadında veya bir attadır.\""
+    },
+    {
+      "id": 20,
+      "narrator": "Yahya ibn Abdullah ibn Buhayr said that he was informed by one who had heard Farwah ibn Musayk tell that he said:",
+      "text": "Ebu Davud dedi ki: Bu rivayet, al-Harith b. Miskin'e okundu ve ben de buna şahit oldum. Ona, İbn Kasım'ın, Malik'e bir at ve bir evdeki kötü fal hakkında sorulduğunu söylediği aktarıldı. O da şöyle cevap verdi: \"İçinde insanların yaşadığı ve yok olduğu birçok ev vardır; yine başka insanlar orada yaşadı ve onlar da yok oldular. Bu, bildiğimiz kadarıyla bunun açıklamasıdır. Allah en iyi bilendir.\""
+    },
+    {
+      "id": 21,
+      "narrator": "Narrated Anas ibn Malik:",
+      "text": "Ebu Davud dedi ki: 'Umar (ra) şöyle dedi: \"Bir evdeki bir örtü, çocuk doğurmayan bir kadından daha hayırlıdır.\""
+    },
+    {
+      "id": 22,
+      "narrator": "Narrated Jabir ibn Abdullah:",
+      "text": "Yahya ibn Abdullah ibn Buhayr, Farwah ibn Musayk'ın şöyle dediğini duyan birinden haber aldığını söyledi: \"Allah'ın Elçisi! Bizim tarlalarımızın bulunduğu, ürünlerimizi yetiştirdiğimiz Abyan adında bir toprak var, ama burası çok sağlıksız.\" Peygamber (ﷺ) şöyle dedi: \"Bırak onu, çünkü hastalığa yakın olmaktan gelen yıkım vardır.\""
+    }
+  ]
+}

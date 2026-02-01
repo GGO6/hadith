@@ -1,0 +1,211 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 39,
+    "arabic": {
+      "title": "صحيح البخاري",
+      "author": "الإمام محمد بن إسماعيل البخاري"
+    },
+    "english": {
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Muhammad ibn Ismail al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'dan rivayet edilmiştir: Peygamber (ﷺ) bir kez on dokuz gün kaldı ve kısaltılmış namazlar kıldı. Biz de seyahat ettiğimizde (ve kaldığımızda) on dokuz gün boyunca namazı kısaltıyorduk, ama daha uzun bir süre seyahat ettiğimizde tam namaz kılıyorduk."
+    },
+    {
+      "id": 2,
+      "narrator": "Narrated Yahya bin 'Is-haq:",
+      "text": "Yahya bin İshak'tan rivayet edilmiştir: Anas'ın şöyle dediğini duydum: \"Peygamber (ﷺ) ile birlikte Medine'den Mekke'ye seyahat ettik ve Medine'ye dönene kadar her namaz için iki rek'at kıldık.\" Ben de \"Mekke'de bir süre kaldınız mı?\" dedim. O da \"Mekke'de on gün kaldık.\" diye cevap verdi."
+    },
+    {
+      "id": 3,
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "Abdullah bin Ömer'den rivayet edilmiştir: Mina'da Peygamber, Ebu Bekir ve Ömer ile birlikte namaz kıldım ve bu iki rek'at idi. Osman, halifeliğinin ilk günlerinde aynı şekilde yaptı, ama daha sonra tam namaz kılmaya başladı."
+    },
+    {
+      "id": 4,
+      "narrator": "Narrated Haritha bin Wahab:",
+      "text": "Haritha bin Vahab'dan rivayet edilmiştir: Peygamber (ﷺ) barış döneminde Mina'da bize iki rek'at namaz kıldırdı."
+    },
+    {
+      "id": 5,
+      "narrator": "Narrated `Abdur Rahman bin Yazid:",
+      "text": "Abdurrahman bin Yazid'ten rivayet edilmiştir: Mina'da İbn Affan'ın arkasında dört rek'at namaz kıldık. Abdullah bin Mes'ud bunun hakkında bilgilendirildi. O da üzgün bir şekilde, \"Gerçekten biz Allah'a aitiz ve gerçekten O'na döneceğiz.\" dedi. Ve ekledi: \"Mina'da Allah'ın Elçisi (ﷺ) ile iki rek'at namaz kıldım, aynı şekilde Ebu Bekir ve Ömer ile (halifelikleri sırasında).\" Ayrıca, \"İnşallah dört rek'attan iki tanesi Allah katında kabul olur.\" dedi."
+    },
+    {
+      "id": 6,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'dan rivayet edilmiştir: Peygamber (ﷺ) ve arkadaşları 4. Zilhicce sabahı Mekke'ye Talbiye getirerek (Ya Allah! Biz senin emirlerine itaat ediyoruz, çağrına icabet ediyoruz) ... Hac yapmak niyetiyle ulaştılar. Peygamber (ﷺ) arkadaşlarına Hac yerine Umre için ihrama girmelerini emretti, yanında Hadi (kurban) olanlar hariç."
+    },
+    {
+      "id": 7,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn Ömer'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Bir kadın, Dhi-Mahram (yani, ona asla evlenemeyeceği bir erkek, örneğin kardeşi, babası, dedesi vb.) veya kendi kocası olmadan üç günden fazla seyahat etmemelidir.\""
+    },
+    {
+      "id": 8,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn Ömer'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Bir kadın, Dhi-Mahram olmadan üç günden fazla seyahat etmemelidir.\""
+    },
+    {
+      "id": 9,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (s.a.v) şöyle dedi: \"Allah'a ve Ahiret Günü'ne inanan bir kadının, Mahram olmadan bir gün ve gece seyahat etmesi caiz değildir.\""
+    },
+    {
+      "id": 10,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir: Peygamber (s.a.v) ile Medine'de dört rek'at öğle namazı kıldım ve Dhul-Hulaifa'da iki rek'at kıldım. (yani, 'Asr namazını kısalttım)."
+    },
+    {
+      "id": 11,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: \"Namazlar ilk emredildiğinde her biri iki rek'at idi. Daha sonra yolculukta namaz olduğu gibi kaldı, ama seyahat etmeyenler için namazlar tamamlandı.\" Az-Zuhri dedi ki: \"Urve'ye Aişe'nin yolculukta neden tam namaz kıldığını sordum.\" O da \"O, Osman'ın yaptığı gibi yaptı.\" diye cevap verdi."
+    },
+    {
+      "id": 12,
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "Abdullah bin Ömer'den rivayet edilmiştir: \"Allah'ın Elçisi (ﷺ) Maghrib namazını geciktirirken, eğer yolculukta acele ediyorsa, onu İsha namazı ile birlikte kılardı.\" Salim rivayet etti: \"İbn Ömer, yolculukta acele ettiğinde aynı şekilde yapardı.\" Salim ekledi: \"İbn Ömer, Al-Muzdalifa'da Maghrib ve İsha namazlarını birlikte kılardı.\" Salim dedi ki: \"İbn Ömer, Maghrib namazını geciktirdi çünkü o sırada eşi Safiye bint Ebu Ubeyd'in vefat haberini aldı. Ben ona 'Namaz (vakti geldi).' dedim. O da 'Devam et.' dedi. Yine 'Namaz (vakti geldi).' dedim. O da 'Devam et.' dedi, ta ki iki veya üç mil kat ettik. Sonra indi, namaz kıldı ve 'Peygamber (ﷺ) yolculukta acele ettiğinde bu şekilde namaz kıldığını gördüm.' dedi. Abdullah (bin Ömer) ekledi: \"Peygamber acele ettiğinde Maghrib namazını geciktirir ve sonra üç rek'at (Maghrib) kılar, selam verir ve kısa bir süre bekledikten sonra İsha namazı için ikamet getirilirdi, o da iki rek'at kılar ve selam verirdi. Gece yarısına kadar hiçbir nafile namaz kılmazdı (Tahajjud'u kıldığı zaman).\""
+    },
+    {
+      "id": 13,
+      "narrator": "Narrated `Abdullah bin 'Amir from his father who said:",
+      "text": "Abdullah bin Amir'den, babasından rivayet edilmiştir: Peygamber (s.a.v) bindiği hayvan üzerinde (Rahila) hangi yöne dönse de namaz kıldığını gördüm."
+    },
+    {
+      "id": 14,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Cabir bin Abdullah'dan rivayet edilmiştir: Peygamber (ﷺ) binerken, Kıble yönü dışında bir yöne dönerek nafile namaz kılardı."
+    },
+    {
+      "id": 15,
+      "narrator": "Narrated Nafi`:",
+      "text": "Nafi'den rivayet edilmiştir: İbn Ömer (seyahat halindeyken) namazı ve vitri bindiği hayvan (Rahila) üzerinde kılardı. O, Peygamber (ﷺ)'in de böyle yaptığını söyledi."
+    },
+    {
+      "id": 16,
+      "narrator": "Narrated `Abdullah bin Dinar:",
+      "text": "Abdullah bin Dinar'dan rivayet edilmiştir: Seyahat ederken Abdullah bin Umar, gittiği her yönde işaretlerle dağının üzerinde namaz kılardı. Abdullah, Peygamber (ﷺ)'in de böyle yaptığını söyledi."
+    },
+    {
+      "id": 17,
+      "narrator": "Narrated 'Amir bin Rabi`a:",
+      "text": "Amir bin Rabi'a'dan rivayet edilmiştir: Peygamber (ﷺ)'i dağının üzerinde, karşısına çıkan her yönde başını sallayarak nafile namaz kılarken gördüm, fakat Allah'ın Elçisi (ﷺ) farz namazları asla böyle kılmazdı."
+    },
+    {
+      "id": 18,
+      "narrator": "Narrated Salim:",
+      "text": "Salim'den rivayet edilmiştir: Geceleyin Abdullah bin Umar, yolculuk sırasında hayvanının sırtında namaz kılar ve hangi yöne döndüğüne aldırış etmezdi. İbn Umar, \"Allah'ın Elçisi (ﷺ) her yöne dönecek şekilde dağının üzerinde nafile namaz kılardı ve witr namazını da orada kılardı ama farz namazı orada kılmazdı.\" dedi."
+    },
+    {
+      "id": 19,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Jabir bin Abdullah'dan rivayet edilmiştir: Peygamber (ﷺ), dağının üzerinde doğuya dönerek (nafile) namaz kılardı ve farz namaz kılmak istediğinde inip kıbleye dönerdi."
+    },
+    {
+      "id": 20,
+      "narrator": "Narrated Anas bin Seereen:",
+      "text": "Anas bin Seereen'den rivayet edilmiştir: Şam'dan dönen Anas bin Malik'i karşılamak için gittik ve onu 'Ainat-Tamr' adlı bir yerde bulduk. Onu, kıblenin sol tarafına dönerek eşeğin üzerinde namaz kılarken gördüm. Ona, \"Kıblanın dışında bir yöne doğru namaz kıldığını gördüm.\" dedim. O da, \"Eğer Allah'ın Elçisi (ﷺ)'ni bunu yaparken görmemiş olsaydım, bunu yapmazdım.\" diye cevap verdi."
+    },
+    {
+      "id": 21,
+      "narrator": "Narrated Hafs bin `Asim:",
+      "text": "Hafs bin Asim'den rivayet edilmiştir: İbn Umar bir yolculuğa çıktı ve \"Peygamber (ﷺ) ile birlikteydim ve yolculuk sırasında nafile namaz kılmadı, Allah da şöyle buyuruyor: 'Şüphesiz ki, Allah'ın Elçisi (ﷺ) sizin için güzel bir örnektir.'\" (33.21)"
+    },
+    {
+      "id": 22,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn Umar'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) ile birlikteydim ve yolculuk sırasında iki rekattan fazla namaz kılmadı. Ebu Bekir, Ömer ve Osman da aynı şekilde yaparlardı."
+    },
+    {
+      "id": 23,
+      "narrator": "Narrated Ibn Abu Laila:",
+      "text": "İbn Abu Laila'dan rivayet edilmiştir: Sadece Ümmü Hani, bize Peygamber (s.a.v)'in Duha (öğle namazı) kıldığını söyledi. O, \"Fetih günü, Peygamber (ﷺ) evimde yıkanmış ve sekiz rek'at namaz kılmıştı. Onun böyle hafif bir namaz kıldığını hiç görmemiştim ama tam secde ve rükû yapıyordu.\" dedi."
+    },
+    {
+      "id": 24,
+      "narrator": "",
+      "text": "Abdullah bin Amir'den rivayet edilmiştir ki, babası ona, Peygamber (s.a.v)'in geceleyin yolculukta dağının üzerinde her yöne dönecek şekilde nafile namaz kıldığını gördüğünü söylemiştir."
+    },
+    {
+      "id": 25,
+      "narrator": "Narrated Salim bin `Abdullah:",
+      "text": "Salim bin Abdullah'dan rivayet edilmiştir: İbn Umar, \"Allah'ın Elçisi (ﷺ) dağının üzerinde (taşıma aracında) her yöne dönecek şekilde işaretle nafile namaz kılardı.\" dedi. İbn Umar da aynı şekilde yapardı."
+    },
+    {
+      "id": 26,
+      "narrator": "Narrated Salim's father:",
+      "text": "Salim'in babasından rivayet edilmiştir: Peygamber (ﷺ) yolculukta acele ettiğinde her zaman Magrib ve İsha namazlarını bir arada kılardı."
+    },
+    {
+      "id": 27,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) yolculukta Zuhr ve Asr namazlarını bir arada kılar, ayrıca Magrib ve İsha namazlarını da bir arada kılardı. Anas bin Malik'den rivayet edilmiştir: Peygamber (ﷺ) yolculukta Magrib ve İsha namazlarını bir arada kılardı."
+    },
+    {
+      "id": 28,
+      "narrator": "Narrated Anas:",
+      "text": "Anas'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) yolculukta bu iki namazı bir arada kılardı, yani Magrib ve İsha namazlarını."
+    },
+    {
+      "id": 29,
+      "narrator": "Narrated Az-Zuhri:",
+      "text": "Az-Zuhri'den rivayet edilmiştir: Salim bana, \"Abdullah bin Umar, 'Allah'ın Elçisi (ﷺ)'nin yolculukta acele ettiğinde Magrib namazını İsha namazı ile birlikte kıldığını gördüm.' dedi.\" Salim, \"Abdullah bin Umar, yolculukta acele ettiğinde de aynı şekilde yapardı. İkama çağrısını yaptıktan sonra Magrib namazında üç rek'at kılar ve sonra selam verirdi. Kısa bir süre bekledikten sonra İsha namazı için ikama okur ve iki rek'at kılar, sonra selam verirdi. İki namaz arasında veya İsha namazından sonra nafile namaz kılmazdı, gece yarısı (Teheccüd namazı için) kalkana kadar.\" dedi."
+    },
+    {
+      "id": 30,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Anas bin Malik'den rivayet edilmiştir: Peygamber (ﷺ) öğleden önce bir yolculuğa çıktığında, Zuhr namazını Asr vaktine kadar geciktirir ve sonra birlikte kılardı; eğer güneş (öğle) vakti eğilmişse, Zuhr namazını kılar ve sonra yola çıkarak binerdi."
+    },
+    {
+      "id": 31,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir: Peygamber (ﷺ) öğleden önce bir yolculuğa çıktığında, Zuhr namazını 'Asr namazının vaktine kadar geciktirir ve sonra inip her ikisini birden kılardı; eğer güneş yolculuğa çıkmadan önce batarsa, Zuhr namazını kılar ve sonra yola çıkar."
+    },
+    {
+      "id": 32,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir: Peygamber (ﷺ) öğleden önce bir yolculuğa çıktığında, Zuhr namazını 'Asr namazının vaktine kadar geciktirir ve sonra inip her ikisini birden kılardı; eğer güneş yolculuğa çıkmadan önce batarsa, Zuhr namazını kılar ve sonra yola çıkar."
+    },
+    {
+      "id": 33,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) hastalığı sırasında evinde oturarak namaz kıldı ve insanlar arkasında ayakta namaz kıldılar; onlara oturmalarını işaret etti. Namazı bitirdiğinde, \"İmam'a uyulur; o rüku yaptığında siz de rüku yapmalısınız; o başını kaldırdığında siz de aynı şekilde yapmalısınız.\" dedi."
+    },
+    {
+      "id": 34,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir: Allah'ın Elçisi (ﷺ) bir atın üzerinden düştü ve sağ tarafı ya yaralandı ya da sıyrıldı, bu yüzden sağlığını sormak için yanına gittik. Namaz vakti geldi ve oturarak namaz kıldı, biz ise ayakta namaz kıldık. O, \"İmam'a uyulur; eğer o tekbir alırsa, siz de tekbir almalısınız; eğer rüku yaparsa, siz de rüku yapmalısınız; o başını kaldırdığında siz de aynı şekilde yapmalısınız ve eğer o: Sami`a l-lahu liman hamidah (Allah, kendisine hamd edenin sesini duyar) derse, siz de: Rabbana walakal-Hamd (Ey Rabbimiz! Bütün hamd Senindir.) demelisiniz.\" dedi. (Bkz. Hadis No. 656 Cilt 1)."
+    },
+    {
+      "id": 35,
+      "narrator": "Narrated `Imran bin Husain:",
+      "text": "İmrân bin Hüsayn'dan rivayet edilmiştir: (hemoroidi vardı) Ben Allah'ın Elçisi (ﷺ)ne oturarak namaz kılan bir adam hakkında sordum. O, \"Ayakta namaz kılmak daha iyidir ve oturarak namaz kılan, ayakta namaz kılanın sevabının yarısını alır; ve yatarak namaz kılan, oturarak namaz kılanın sevabının yarısını alır.\" dedi."
+    },
+    {
+      "id": 36,
+      "narrator": "Narrated `Abdullah bin Buraida:",
+      "text": "Abdullah bin Bureyde'den rivayet edilmiştir: İmrân bin Hüsayn hemoroidi vardı. Bir gün Ebu Mâmar, İmrân bin Hüsayn'dan rivayet etti ve \"Ben Peygamber (ﷺ)den oturarak namaz kılan bir kişi hakkında sordum. O, 'Ayakta namaz kılmak daha iyidir; ve oturarak namaz kılan, ayakta namaz kılanın sevabının yarısını alır; ve yatarak namaz kılan, oturarak namaz kılanın sevabının yarısını alır.' dedi.\" dedi."
+    },
+    {
+      "id": 37,
+      "narrator": "Narrated `Imran bin Husain:",
+      "text": "İmrân bin Hüsayn'dan rivayet edilmiştir: Hemoroidi vardı, bu yüzden Peygamber (ﷺ)ye namaz hakkında sordum. O, \"Ayakta namaz kıl ve eğer yapamazsan, oturarak namaz kıl ve eğer bunu da yapamazsan, yan tarafına yatarak namaz kıl.\" dedi."
+    },
+    {
+      "id": 38,
+      "narrator": "Narrated Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: (müminlerin annesi) Ben Allah'ın Elçisi (ﷺ)ni oturarak gece namazı kılarken, yaşlılığından başka hiç görmedim ve o oturarak okur, rüku yapmak istediğinde ayağa kalkar ve oturarak otuz veya kırk ayet okur (ayakta) ve sonra rüku yapardı."
+    },
+    {
+      "id": 39,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: (müminlerin annesi) Allah'ın Elçisi (ﷺ) (son günlerinde) oturarak namaz kılardı. O oturarak okur, okuma sırasında otuz veya kırk ayet kaldığında ayağa kalkar ve onları ayakta okur, sonra rüku yapar ve secde ederdi. Aynı şeyi ikinci rek'atta da yapardı. Namazı bitirdikten sonra bana bakar, eğer uyanıksam benimle konuşur, eğer uyuyorsam yanına yatarak dinlenirdi."
+    }
+  ]
+}

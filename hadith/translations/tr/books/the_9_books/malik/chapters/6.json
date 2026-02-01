@@ -1,0 +1,56 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 8,
+    "arabic": {
+      "title": "موطأ مالك",
+      "author": "الإمام مالك بن أنس"
+    },
+    "english": {
+      "title": "Muwatta Malik",
+      "author": "Imam Malik ibn Anas"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, o da İbn Şihab'dan, o da Urve b. az-Zübeyr'den, o da Peygamberin eşi Aişe'den, Allah ona salat ve selam eylesin, şöyle rivayet etti: Allah'ın Resulü, Allah ona salat ve selam eylesin, bir gece mescitte namaz kıldı ve insanlar da arkasında namaz kıldılar. Sonraki gece tekrar namaz kıldı ve daha fazla insan toplandı. Üçüncü veya dördüncü gece toplandılar ama Allah'ın Resulü, Allah ona salat ve selam eylesin, onlara çıkmadı. Sabah olunca, \"Sizin ne yaptığınızı gördüm ve size çıkmamı engelleyen tek şey, bunun sizin için farz hale gelmesinden korkmamdır.\" dedi. Bu olay Ramazan ayında gerçekleşti."
+    },
+    {
+      "id": 2,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, o da İbn Şihab'dan, o da Ebu Selame b. Abd ar-Rahman b. Avf'tan, o da Ebu Hureyre'den, Allah'ın Resulü, Allah ona salat ve selam eylesin, Ramazan'da insanları geceyi namazla geçirmeye teşvik ettiğini, ancak bunu kesin olarak emretmediğini rivayet etti. \"Ramazan'da geceyi namazla geçiren, güven ve umutla olursa, geçmişteki tüm günahları affedilecektir.\" derdi."
+    },
+    {
+      "id": 3,
+      "narrator": "",
+      "text": "İbn Şihab şöyle dedi: \"Allah'ın Resulü, Allah ona salat ve selam eylesin, bu gelenek devam ederken vefat etti ve bu gelenek Ebu Bekir'in halifeliği döneminde ve Ömer b. Hattab'ın halifeliğinin başında da sürdü.\""
+    },
+    {
+      "id": 4,
+      "narrator": "",
+      "text": "Malik, İbn Şihab'dan, o da Urve b. az-Zübeyr'den, Abd ar-Rahman b. Abd al-Qari'nin şöyle dediğini rivayet etti: \"Ramazan'da Ömer b. Hattab ile birlikte mescide çıktım ve orada insanlar gruplar halinde dağılmıştı. Bazı erkekler tek başlarına namaz kılıyor, bazıları ise küçük gruplar halinde namaz kılıyordu. Ömer dedi ki: 'Vallahi! Bu insanların bir okurun arkasında toplanmaları benim görüşüme göre daha iyi olur.' Bunun üzerine onları Ubayy b. Kab'ın arkasında topladı. Sonra bir başka gece onunla birlikte çıktım ve insanlar Kur'an okuyanlarının arkasında namaz kılıyordu. Ömer dedi ki: 'Bu yeni yol ne kadar güzel, ama uykuda kaçırdığınız şey, namazda izlediğinizden daha hayırlıdır.' Gece sonunda kastediyordu, insanlar ise gecenin başında namaz kılıyorlardı.\""
+    },
+    {
+      "id": 5,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, o da Muhammed b. Yusuf'tan, as-Sa'ib b. Yazid'in şöyle dediğini rivayet etti: \"Ömer b. Hattab, Ubayy b. Kab ve Tamim ad-Dari'ye insanlarla birlikte on bir rek'at namaz kılmalarını emretti. Kur'an okuyucu, Mi'in (orta boy surelerden oluşan bir grup) okuyarak bizlerin namazda bu kadar uzun süre ayakta durduğumuzdan dolayı değneklerimize yaslanmamıza neden oluyordu. Ve biz, tan yerinin ağarmasına kadar çıkmazdık.\""
+    },
+    {
+      "id": 6,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, o da Yazid b. Ruman'ın şöyle dediğini rivayet etti: \"İnsanlar, Ömer b. Hattab döneminde Ramazan'da yirmi üç rek'at namaz kılardı.\""
+    },
+    {
+      "id": 7,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, o da Da'ud b. el-Hüseyin'den, o da el-Araj'ın şöyle dediğini duyduğunu rivayet etti: \"Ramazan'da insanları hiç görmedim ki, kafirleri lanetlemiyor olsunlar.\" Ekledi: \"Kur'an okuyucu, sekiz rek'at namazda Bakara suresini okurdu ve eğer on iki rek'at okursa, insanlar onun kolaylık sağladığını düşünürdü.\""
+    },
+    {
+      "id": 8,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, o da Abdullah b. Ebu Bekir'in şöyle dediğini rivayet etti: \"Babamın şöyle dediğini duydum: 'Ramazan'da namazı bitirdik ve hizmetçiler, tan yerinin ağarmasından korkarak yemekleri aceleyle getirdiler.'\""
+    }
+  ]
+}

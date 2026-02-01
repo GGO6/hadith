@@ -1,0 +1,56 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 8,
+    "arabic": {
+      "title": "موطأ مالك",
+      "author": "الإمام مالك بن أنس"
+    },
+    "english": {
+      "title": "Muwatta Malik",
+      "author": "Imam Malik ibn Anas"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "",
+      "text": "Yahya bana Malik'ten aktardı ki, \"Toplumumuzda, bir adam cariyesini mudabbara yaptığında ve o da daha sonra çocuk doğurduğunda, eğer cariye, ona tadbir veren kişinin öncesinde ölürse, çocukları onun konumundadır. Onun için geçerli olan şartlar, onlar için de geçerlidir. Annenin ölümü onlara zarar vermez. Eğer onu mudabbara yapan kişi ölürse, eğer değerleri onun toplam mal varlığının üçte birinden azsa, serbest olurlar.\""
+    },
+    {
+      "id": 2,
+      "narrator": "",
+      "text": "Malik dedi ki, \"Doğumla anne olan her kadın için, emzirme ile anne olanın aksine, çocukları onun konumundadır. Eğer serbestse ve serbest kaldıktan sonra doğum yaparsa, çocukları serbesttir. Eğer mudabbara veya mukataba ise, ya da bir süre hizmetten sonra serbest bırakılmışsa, ya da bir kısmı serbestse ya da taahhüt edilmişse ya da umm walad ise, her bir çocuğu annesiyle aynı konumdadır. O serbest kaldığında serbest olurlar ve o köle olduğunda köle olurlar.\""
+    },
+    {
+      "id": 3,
+      "narrator": "",
+      "text": "Malik, hamile iken tadbir verilen mudabbara hakkında, \"Çocukları onun konumundadır. Bu, hamile iken cariyesini serbest bırakan bir adamın durumu ile de aynıdır ve onun hamile olduğunu bilmez.\" dedi."
+    },
+    {
+      "id": 4,
+      "narrator": "",
+      "text": "Malik dedi ki, \"Bu tür kadınlar hakkında sünnet, çocuklarının onları takip etmesi ve serbest bırakıldıklarında serbest kalmalarıdır.\""
+    },
+    {
+      "id": 5,
+      "narrator": "",
+      "text": "Malik dedi ki, \"Bir adam hamile bir cariye satın almışsa, cariye ve karnındaki çocuk, onu satın alan kişiye aittir, alıcı bunu şart koşsa da koşmasa da.\""
+    },
+    {
+      "id": 6,
+      "narrator": "",
+      "text": "Malik devam etti, \"Satıcının karnındaki şey hakkında bir istisna yapması helal değildir çünkü bu belirsiz bir işlemdir. Bu, onun fiyatını düşürür ve bunun ona ulaşacağını bilmez. Bu, sanki birinin annenin karnındaki cenini satması gibidir. Bu helal değildir çünkü belirsiz bir işlemdir.\""
+    },
+    {
+      "id": 7,
+      "narrator": "",
+      "text": "Malik, bir mukatabın veya mudabbarın bir cariye satın alıp onunla cinsel ilişkiye girmesi ve onun hamile kalıp doğum yapması durumunda, \"Her ikisinin de cariyeden olan çocukları onun konumundadır. O serbest kaldığında serbest olurlar ve o köle olduğunda köle olurlar.\" dedi."
+    },
+    {
+      "id": 8,
+      "narrator": "",
+      "text": "Malik dedi ki, \"O serbest kaldığında, umm walad, serbest bırakıldığında kendisine teslim edilen malının bir parçasıdır.\""
+    }
+  ]
+}

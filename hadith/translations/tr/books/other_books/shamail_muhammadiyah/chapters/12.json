@@ -1,0 +1,61 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 9,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "'Ali ibn Abi Talib said (may Allah be well pleased with him):",
+      "text": "Ali ibn Ebu Talib (Allah ondan razı olsun) dedi ki: “Peygamber (Allah ona salat ve selam eylesin) yüzüğünü sağ elinde takardı.”"
+    },
+    {
+      "id": 2,
+      "narrator": "Hammad ibn Salama said:",
+      "text": "Hammad ibn Selame dedi ki: \"İbn Ebu Rafi'yi sağ elinde yüzük takarken gördüm, bu konuda ona sordum ve o da: 'Abdullah ibn Ca'fer'in sağ elinde yüzük taktığını gördüm' dedi. 'Abdullah ibn Ca'fer de: 'Allah’ın Resulü (Allah ona salat ve selam eylesin) sağ elinde yüzük takardı' dedi.”"
+    },
+    {
+      "id": 3,
+      "narrator": "Abdullah ibn Ja'far said:",
+      "text": "Abdullah ibn Ca'fer dedi ki: “O (Allah ona salat ve selam eylesin) sağ elinde yüzük takardı.”"
+    },
+    {
+      "id": 4,
+      "narrator": "Jabir ibn ‘Abdi’llah said:",
+      "text": "Cabir ibn Abdullah dedi ki: \"Peygamber (Allah ona salat ve selam eylesin) sağ elinde yüzük takardı.”"
+    },
+    {
+      "id": 5,
+      "narrator": "‘As-Salt ibn 'Abdi’llah said:",
+      "text": "As-Salt ibn Abdullah dedi ki: “İbn Abbas sağ elinde süssüz bir yüzük takardı ve şöyle dedi: 'Allah’ın Resulü (Allah ona salat ve selam eylesin) sağ elinde yüzük takardı.'”"
+    },
+    {
+      "id": 6,
+      "narrator": "Ibn 'Umar said:",
+      "text": "İbn Ömer dedi ki: \"Peygamber (Allah ona salat ve selam eylesin) gümüş bir yüzük seçti ve taşını elinin avuç kısmına yakın olan kısmına yerleştirdi. Üzerine: 'Muhammed Allah’ın Resulüdür' yazdırdı ve kimsenin üzerine yazmasını yasakladı. Bu, Mu'aiqib'in Aris kuyusuna düşen yüzüğüdür.\""
+    },
+    {
+      "id": 7,
+      "narrator": "Ja'far ibn Muhammad reports that his father said:",
+      "text": "Ca'fer ibn Muhammed, babasının şöyle dediğini rivayet etti: \"El-Hasan ve el-Hüseyin, sol ellerinde yüzük takarlardı.\""
+    },
+    {
+      "id": 8,
+      "narrator": "Anas ibn Malik said:",
+      "text": "Enes ibn Malik dedi ki: “O (Allah ona salat ve selam eylesin) sağ elinde yüzük takardı.”"
+    },
+    {
+      "id": 9,
+      "narrator": "Ibn 'Umar said:",
+      "text": "İbn Ömer dedi ki: \"Allah’ın Resulü (Allah ona salat ve selam eylesin) altın bir yüzük seçti ve onu sağ elinde takardı. Bu nedenle insanlar altın yüzükler seçtiler, o da onu attı (Allah ona salat ve selam eylesin) ve: 'Bir daha asla takmayacağım!' dedi. Bu nedenle insanlar da yüzüklerini attılar.\""
+    }
+  ]
+}

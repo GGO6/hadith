@@ -1,0 +1,31 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 3,
+    "arabic": {
+      "title": "صحيح البخاري",
+      "author": "الإمام محمد بن إسماعيل البخاري"
+    },
+    "english": {
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Muhammad ibn Ismail al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Jabir bin Abdullah'dan rivayet edilmiştir: Allah'ın Messenger'ı (ﷺ) her bölünmemiş ortak şey (mülk) hakkında Şuf'a ile ilgili bir hüküm verdi. Ancak sınırlar belirlenirse (veya işaretlenirse) ya da yollar ve caddeler sabitlenirse, o zaman ön alım yoktur."
+    },
+    {
+      "id": 2,
+      "narrator": "Narrated `Amr bin Ash-Sharid:",
+      "text": "Amr bin Ash-Sharid'den rivayet edilmiştir: Sa'd bin Ebi Vakkas ile dururken, Al-Miswar bin Makhrama geldi ve omzuma elini koydu. Bu sırada, Peygamber'in (ﷺ) freed slave'i Abu Rafi' geldi ve Sa'd'dan evinde bulunan (iki) konutu satın almasını istedi. Sa'd, \"Vallahi, onları satın almayacağım.\" dedi. Al-Miswar, \"Vallahi, onları satın alacaksın.\" dedi. Sa'd, \"Vallahi, taksitle dört bin (Dirhem)den fazla ödeme yapmayacağım.\" diye cevap verdi. Abu Rafi' dedi ki, \"Bana beş yüz Dinar (için) teklif edildi ve eğer Peygamber'in (ﷺ) 'Komşunun yakınlığı nedeniyle başkalarından daha fazla hakkı vardır.' dediğini duymamış olsaydım, beş yüz Dinar (bir Dinar on Dirhem eder) teklif edilirken, dört bin (Dirhem) karşılığında sana vermek istemezdim.\" Böylece, onu Sa'd'a sattı."
+    },
+    {
+      "id": 3,
+      "narrator": "Narrated Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Ben dedim ki, \"Ey Allah'ın Messenger'ı (ﷺ)! İki komşum var ve onlara hangi hediyeyi vermem gerektiğini bilmek istiyorum.\" O, \"Kapısı sana daha yakın olanına ver.\" diye cevap verdi."
+    }
+  ]
+}

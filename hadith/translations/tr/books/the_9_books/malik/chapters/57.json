@@ -1,0 +1,26 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 2,
+    "arabic": {
+      "title": "موطأ مالك",
+      "author": "الإمام مالك بن أنس"
+    },
+    "english": {
+      "title": "Muwatta Malik",
+      "author": "Imam Malik ibn Anas"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "",
+      "text": "Malik, bana Abu'z-Zinad'dan, o da al-Araj'dan, o da Abu Hurayra'dan aktardı ki, Allah'ın Resulü, ona salat ve selam olsun, şöyle buyurmuştur: \"Âdemoğullarının yaktığı ateş, Cehennem ateşinin yetmişte biridir.\" Onlar dediler ki, \"Ey Allah'ın Resulü, bu ateş gerçekten yeter.\" O da şöyle dedi: \"O ateş, altmış dokuz kat daha büyüktür.\""
+    },
+    {
+      "id": 2,
+      "narrator": "",
+      "text": "Malik, bana amcası Abu Suhayl ibn Malik'ten, o da babasından aktardı ki, Abu Hurayra şöyle dedi: \"Sizce bu ateş, sizin ateşiniz gibi mi kırmızı? O, katrandan daha siyahtır.\""
+    }
+  ]
+}

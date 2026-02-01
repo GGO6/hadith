@@ -1,0 +1,46 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 6,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Anas ibn Malik said:",
+      "text": "Enes ibn Malik dedi ki: \"Allah’ın Messenger'ı (Allah ona salat ve selam eylesin) kendisinden kan aldırmak için hacamat yaptırmayı istedi. Ebu Taiba ona hacamat yaptı, bunun üzerine o da onun için iki ölçü yiyecek sipariş etti ve halkıyla konuştu, böylece ondan bazı vergilerini hafiflettiler. Ayrıca şöyle dedi: 'Hacamat, tıbbi tedavi sağlamak için en mükemmel yöntemdir.'\""
+    },
+    {
+      "id": 2,
+      "narrator": "Ali said:",
+      "text": "Ali dedi ki: “Peygamber (Allah ona salat ve selam eylesin) hacamat yaptırdı ve onun talimatıyla ben de hacamatçının ücretini verdim.”"
+    },
+    {
+      "id": 3,
+      "narrator": "Ibn Abbas said:",
+      "text": "İbn Abbas dedi ki: \"Peygamber (Allah ona salat ve selam eylesin) boyundaki iki damarın arasında ve omuzlarının arasında hacamat yaptırdı. Ayrıca hacamatçıya ücretini verdi, eğer hacamat haram olsaydı bunu yapmazdı.\""
+    },
+    {
+      "id": 4,
+      "narrator": "Ibn 'Umar said:",
+      "text": "İbn 'Umar dedi ki: \"Peygamber (Allah ona salat ve selam eylesin) bir hacamatçı çağırdı, o da ona hacamat yaptı. Sonra ona sordu: 'Vergin ne kadar?' O da: 'Üç ölçü tahıl,' dedi, bunun üzerine o vergisini bir ölçü azaltarak ona ücretini verdi.\""
+    },
+    {
+      "id": 5,
+      "narrator": "Anas ibn Malik said (may Allah be well pleased with him):",
+      "text": "Enes ibn Malik dedi ki (Allah ondan razı olsun): \"Allah’ın Messenger'ı (Allah ona salat ve selam eylesin) boyundaki iki damarın arasında ve üst sırtında hacamat yaptırırdı ve ayın on yedinci, on dokuzuncu ve yirmi birinci günlerinde hacamat yaptırırdı.\""
+    },
+    {
+      "id": 6,
+      "narrator": "Anas ibn Malik said:",
+      "text": "Enes ibn Malik dedi ki: \"Allah’ın Messenger'ı (Allah ona salat ve selam eylesin) Malal'de ihram halinde iken ayağının üstüne hacamat yaptırdı.\""
+    }
+  ]
+}

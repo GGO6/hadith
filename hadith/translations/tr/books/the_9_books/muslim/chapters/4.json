@@ -1,0 +1,1626 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 322,
+    "arabic": {
+      "title": "صحيح مسلم",
+      "author": "الإمام مسلم بن الحجاج"
+    },
+    "english": {
+      "title": "Sahih Muslim",
+      "author": "Imam Muslim ibn al-Hajjaj"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Ibn Umar reported:",
+      "text": "İbn Ömer bildirdi: Müslümanlar Medine'ye geldiklerinde toplandılar ve namaz vaktini öğrenmek istediler ama kimse onları çağırmadı. Bir gün bu konuyu tartıştılar ve bazıları: Hristiyanların çanına benzer bir şey kullanın, dediler; bazıları da: Yahudilerin borusunu kullanın, dediler. Ömer dedi ki: Neden insanları namaza çağıracak biri atanmasın? Allah'ın Elçisi (ﷺ) dedi ki: Ey Bilal, kalk ve (insanları) namaza çağır."
+    },
+    {
+      "id": 2,
+      "narrator": "Anas reported:",
+      "text": "Enes bildirdi: Bilal'e (Allah'ın Elçisi tarafından) ezanı iki kez, ikamede ise bir kez tekrar etmesi emredildi. Rivayet eden kişi: Bunu Ayyub'a söyledim, o da: \"Salat-i Kamat\" demekten başka, dedi."
+    },
+    {
+      "id": 3,
+      "narrator": "Anas b. Malik reported:",
+      "text": "Enes b. Malik bildirdi: Onlar (Sahabe) namaz vakitlerini herkesin tanıyacağı bir şeyle bilmek gerektiğini tartıştılar. Bazıları ateş yakılmasını veya çan çalınmasını önerdi. Ama Bilal'e ezanda iki kez, ikamede ise bir kez tekrar etmesi emredildi."
+    },
+    {
+      "id": 4,
+      "narrator": "This hadith is transmitted by Khalid Hadhdha with the same chain of transmitters (and the words are):",
+      "text": "Bu hadis, aynı nakil zinciriyle Khalid Hadhdha tarafından aktarılmıştır (ve sözler şunlardır): İnsanların çoğunluğu tartıştıklarında bilmelidirler, yukarıda al-Thaqafi tarafından rivayet edilen hadis gibi, \"İnsanlar ateş yakmalıdır\" sözleri hariç."
+    },
+    {
+      "id": 5,
+      "narrator": "Anas reported:",
+      "text": "Enes bildirdi: Bilal'e (Peygamber Efendi tarafından) ezanda iki kez, ikamede ise bir kez tekrar etmesi emredildi."
+    },
+    {
+      "id": 6,
+      "narrator": "Abu Mahdhura said that the Messenger of Allah (ﷺ) taught him Adhan like this:",
+      "text": "Ebu Mahdhura dedi ki: Allah'ın Elçisi (ﷺ) bana ezanı şöyle öğretti: Allah en büyüktür, Allah en büyüktür; ben şahitlik ederim ki Allah'tan başka ilah yoktur, ben şahitlik ederim ki Allah'tan başka ilah yoktur; ben şahitlik ederim ki Muhammed Allah'ın Elçisidir, ben şahitlik ederim ki Muhammed Allah'ın Elçisidir, ve tekrar edilmelidir: Ben şahitlik ederim ki Allah'tan başka ilah yoktur, ben şahitlik ederim ki Allah'tan başka ilah yoktur; ben şahitlik ederim ki Muhammed Allah'ın Elçisidir, ben şahitlik ederim ki Muhammed Allah'ın Elçisidir. Namaza gelin (iki kez). Kurtuluşa gelin (iki kez). İshak ekledi: Allah en büyüktür, Allah en büyüktür; Allah'tan başka ilah yoktur."
+    },
+    {
+      "id": 7,
+      "narrator": "Ibn Umar reported:",
+      "text": "İbn Ömer bildirdi: Allah'ın Elçisi (ﷺ) iki müezzin sahibi idi, Bilal ve Abdullah b. Ümmü Mektum, ki (sonuncusu) kördü."
+    },
+    {
+      "id": 8,
+      "narrator": "",
+      "text": "Bu hadis, Aişe'den başka bir nakil zinciriyle aktarılmıştır."
+    },
+    {
+      "id": 9,
+      "narrator": "A'isha reported:",
+      "text": "Aişe bildirdi: İbn Ümmü Mektum, Allah'ın Elçisi (ﷺ) emriyle ezan okurdu (halbuki) o kördü."
+    },
+    {
+      "id": 10,
+      "narrator": "",
+      "text": "Hişam tarafından böyle bir hadis aktarılmıştır."
+    },
+    {
+      "id": 11,
+      "narrator": "Anas b. Malik reported:",
+      "text": "Enes b. Malik bildirdi: Allah'ın Elçisi (ﷺ) düşmana saldırırdı, sabah olunca. Ezanı dinlerdi; eğer ezan duyarsa durur, aksi takdirde saldırıya geçerdi. Bir gün bir adamın \"Allah en büyüktür, Allah en büyüktür\" dediğini duyunca, Allah'ın Elçisi (ﷺ) şöyle dedi: O, al-Fıtr'a (İslam'a) tabi oluyor. Sonra onun \"Ben şahitlik ederim ki Allah'tan başka ilah yoktur\" dediğini duyunca, Allah'ın Elçisi (ﷺ) dedi ki: Sen ateşten (Cehennemden) çıktın. Ona baktılar ve onun bir keçi çobanı olduğunu gördüler."
+    },
+    {
+      "id": 12,
+      "narrator": "Abu Sa'id al-Khudri reported:",
+      "text": "Ebu Sa'id el-Hudri bildirdi: Ezanı duyduğunuzda, müezzinin söylediklerini tekrar edin."
+    },
+    {
+      "id": 13,
+      "narrator": "'Abdullah b. Amr b. al-As reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Abdullah b. Amr b. el-As, Allah'ın Elçisi (ﷺ) şöyle dedi: Müezzini duyduğunuzda, onun söylediklerini tekrar edin, sonra benim için bir dua edin; çünkü benim için dua eden herkes, Allah'tan on kat sevap alır; sonra benim için Allah'tan vesile isteyin, bu, Allah'ın kullarından yalnızca birine uygun olan cennetteki bir derecedir ve umarım o kişi ben olurum. Eğer biri benim için vesile istemekle bana gelirse, benim şefaatimden emin olacaktır."
+    },
+    {
+      "id": 14,
+      "narrator": "'Umar b. al-Khattab reported:",
+      "text": "Ömer b. el-Hattab bildirdi: Allah'ın Elçisi (ﷺ) dedi ki: Müezzin \"Allah en büyüktür, Allah en büyüktür\" dediğinde, sizden biri şöyle demelidir: \"Allah en büyüktür, Allah en büyüktür\"; (ve müezzin) \"Ben şahitlik ederim ki Allah'tan başka ilah yoktur\" dediğinde, biri şöyle demelidir: \"Ben şahitlik ederim ki Allah'tan başka ilah yoktur\"; ve o dediğinde: \"Ben şahitlik ederim ki Muhammed Allah'ın Elçisidir\", biri şöyle demelidir: \"Ben şahitlik ederim ki Muhammed Allah'ın Elçisidir.\" Müezzin \"Namaza gelin\" dediğinde, biri şöyle demelidir: \"Allah'tan başka güç ve kuvvet yoktur.\" Müezzin \"Kurtuluşa gelin\" dediğinde, biri şöyle demelidir: \"Allah'tan başka güç ve kuvvet yoktur.\" Ve müezzin \"Allah en büyüktür, Allah en büyüktür\" dediğinde, o zaman şöyle demelidir: \"Allah en büyüktür, Allah en büyüktür.\" Müezzin \"Allah'tan başka ilah yoktur\" dediğinde ve kalpten cevap veren biri \"Allah'tan başka ilah yoktur\" derse, o cennete girecektir."
+    },
+    {
+      "id": 15,
+      "narrator": "Sa'd b. Abu Waqqas reported:",
+      "text": "Sa'd b. Ebu Vakkas bildirdi: Allah'ın Elçisi (ﷺ) dedi ki: Müezzini duyduğunda, \"Ben şahitlik ederim ki Allah'tan başka ilah yoktur, O'nun ortağı yoktur ve Muhammed O'nun kulu ve Elçisidir; ben Allah'ı Rabbim, Muhammed'i Elçim ve İslam'ı dinim olarak kabul ediyorum\" diyenin günahları affedilecektir. İbn Rumh tarafından aktarılan rivayette sözler şunlardır: \"Müezzini duyduğunda, şüphesiz ben şahitlik ederim.\" Kütaybe, \"Ve ben\" sözünü anmamıştır."
+    },
+    {
+      "id": 16,
+      "narrator": "Yahya narrated it on the authority of his uncle that he had been sitting in the company of Mu'awiya b. Abu Sufyan when the Mu'adhdhin called (Muslims) to prayer. Mu'awiya said:",
+      "text": "Yahya, amcasının rivayetiyle, Muaviye b. Ebu Süfyan'ın yanında oturduğu sırada müezzinin (Müslümanları) namaza çağırdığını aktardı. Muaviye şöyle dedi: Ben, Allah'ın Resulü'nün (ﷺ) şöyle söylediğini duydum: Müezzinlerin, Kıyamet Günü en uzun boylu olanları olacaktır."
+    },
+    {
+      "id": 17,
+      "narrator": "Abu Sufyan reported it on the authority of Jabir that he had heard the Messenger of Allah (ﷺ) say:",
+      "text": "Ebu Süfyan, Jabir'den rivayet etti ki, Allah'ın Resulü'nün (ﷺ) şöyle dediğini işitmiş: Şeytan, ezan sesini duyduğunda, Rauha kadar uzak bir mesafeye kaçar. Süleyman dedi ki: Ben ona Rauha'yı sordum. O da: Medine'den otuz altı mil uzaklıktadır, diye cevap verdi."
+    },
+    {
+      "id": 18,
+      "narrator": "",
+      "text": "Ebu Muaviye, aynı rivayet zinciriyle A'maş'tan nakletti."
+    },
+    {
+      "id": 19,
+      "narrator": "Abu Huraira reported the Messenger of Allah (ﷺ) as saying:",
+      "text": "Ebu Hureyre, Allah'ın Resulü'nün (ﷺ) şöyle söylediğini bildirdi: Şeytan, ezan sesini duyduğunda geri döner ve duymamak için gaz çıkarır; fakat ezan sona erdiğinde geri döner ve (namaz kılanların) akıllarını karıştırır. İkama sesi duyulduğunda yine kaçar, ses kesildiğinde geri gelir ve (namazda duranların) akıllarını karıştırır."
+    },
+    {
+      "id": 20,
+      "narrator": "Abu Huraira reported:",
+      "text": "Ebu Hureyre bildirdi: Allah'ın Resulü (ﷺ) şöyle dedi: Müezzin ezan okuduğunda, Şeytan şiddetle geri kaçar."
+    },
+    {
+      "id": 21,
+      "narrator": "Suhail reported that his father sent him to Banu Haritha along with a boy or a man. Someone called him by his name from an enclosure. He (thenarrator) said:",
+      "text": "Suhail, babasının onu Banu Haritha'ya bir çocuk veya bir adamla gönderdiğini bildirdi. Birisi, bir çit içinden ismiyle ona seslendi. O (rivayet eden) dedi ki: Yanımdaki kişi çite doğru baktı ama hiçbir şey göremedi. Bunu babama söyledim. O da: Eğer böyle bir durumla karşılaşacağını bilseydim seni (oraya) asla göndermezdim, ama (unutma) böyle bir çağrı duyduğunda (şeytanlardan) ezan oku. Çünkü Ebu Hureyre'nin, Allah'ın Resulü'nün (ona selam olsun) şöyle dediğini işittiğimi duydum: Ezan okunduğunda, Şeytan şiddetle geri kaçar."
+    },
+    {
+      "id": 22,
+      "narrator": "Abu Huraira reported:",
+      "text": "Ebu Hureyre bildirdi: Resulullah (ﷺ) şöyle dedi: Ezan okunduğunda, Şeytan geri kaçar ve duymamak için gaz çıkarır; ezan sona erdiğinde geri döner. İkama okunduğunda, arkasını döner ve sona erdiğinde bir adamı oyalamak için geri döner, der ki: Şunu hatırla; bunu hatırla, o adamın aklında olmayan bir şeyle ilgili olarak, sonuçta ne kadar namaz kıldığını bilmez."
+    },
+    {
+      "id": 23,
+      "narrator": "A hadith like it has been narrated by Abu Huraira but for these words:",
+      "text": "Ebu Hureyre'nin benzeri bir hadisi rivayet ettiği ancak şu sözlerin olmadığını bildirdi: \"O (namaz kılan adam) ne kadar namaz kıldığını bilmez.\""
+    },
+    {
+      "id": 24,
+      "narrator": "Salim narrated it on the authority of his father who reported:",
+      "text": "Salim, babası aracılığıyla rivayet etti ki: Allah'ın Resulü'nü (ﷺ) namaza başlamadan önce ve rükûdan sonra, omuzlarının hizasında ellerini kaldırırken gördüm; fakat iki secde arasında ellerini kaldırmadı."
+    },
+    {
+      "id": 25,
+      "narrator": "",
+      "text": "İbn Ömer, Allah'ın Resulü'nün (ﷺ) namaza durduğunda ellerini omuzlarının hizasında kaldırdığını, sonra tekbir getirdiğini, rükûya varmak üzereyken yine aynı şekilde yaptığını, rükûdan kalktığında yine aynı şekilde yaptığını, fakat secdeden başını kaldırırken bunu yapmadığını bildirdi."
+    },
+    {
+      "id": 26,
+      "narrator": "",
+      "text": "Bu hadis, aynı rivayet zinciriyle el-Zuhri tarafından, İbn Juraij'in rivayetiyle aktarılmıştır. O, Allah'ın Resulü (ﷺ) namaza durduğunda ellerini omuzlarının hizasında kaldırdığını ve sonra tekbir getirdiğini söyledi."
+    },
+    {
+      "id": 27,
+      "narrator": "",
+      "text": "Ebu Kılabe, Malik b. Hüveyrith'i namazın başında ellerini kaldırırken, rükûdan önce ellerini kaldırırken ve rükûdan başını kaldırdıktan sonra ellerini kaldırırken gördüğünü bildirdi ve Allah'ın Resulü'nün (ﷺ) böyle yaptığını aktardı."
+    },
+    {
+      "id": 28,
+      "narrator": "Malik b. Huwairith reported:",
+      "text": "Malik b. Hüveyrith bildirdi: Allah'ın Resulü (ﷺ) tekbir getirirken (yani namaza başlarken) ellerini kulaklarının hizasında kaldırdı, sonra rükûda tekrar ellerini kulaklarının hizasında kaldırdı ve rükûdan sonra başını kaldırdığında: Allah, kendisini övenin duasını işitti, dedi ve yine (ellerini kulaklarının hizasında kaldırdı)."
+    },
+    {
+      "id": 29,
+      "narrator": "",
+      "text": "Bu hadis, Katada tarafından aynı rivayet zinciriyle aktarılmıştır; o, Allah'ın Resulü'nün (ﷺ) bunu (yani ellerini kaldırmayı) kulak loblarının hizasına kadar yaptığını gördüğünü bildirdi."
+    },
+    {
+      "id": 30,
+      "narrator": "Abu Salama reported:",
+      "text": "Ebu Selama bildirdi: Ebu Hureyre, onlara namaz kıldırdı ve rükûya girdiğinde ve kendisini kaldırdığında tekbir getirdi; namazı tamamladıktan sonra şöyle dedi: Vallahi, sizler arasında Resulullah'ın (ﷺ) namazına en çok benzeyen namazı kıldım."
+    },
+    {
+      "id": 31,
+      "narrator": "Abu Huraira reported:",
+      "text": "Abu Huraira rivayet etti: Allah'ın Elçisi (ﷺ) namaza kalktığında, ayakta iken tekbir (Allahu Ekber) derdi, sonra rükûya gittiğinde tekrar tekbir derdi. Rükûdan doğrulduğunda \"Allah, kendisine hamd edenin duasını kabul etti\" derdi, sonra ayakta iken \"Sana hamd ederiz, ey Rabbimiz\" derdi, secdeye giderken tekbir okurdu, başını kaldırdığında tekbir derdi, secdeye gittiğinde tekbir derdi, başını kaldırdığında yine tekbir derdi. Bunu namazı tamamlayana kadar yapardı ve iki rek'at sonunda oturuş pozisyonuna geçtikten sonra kalktığında da tekbir derdi. Abu Huraira dedi ki: Benim namazım, sizler arasında Allah'ın Elçisi'nin (ﷺ) namazına en iyi benzerliği taşımaktadır."
+    },
+    {
+      "id": 32,
+      "narrator": "Ibn al-Harith reported:",
+      "text": "İbn al-Harith rivayet etti: Abu Huraira'nın şöyle dediğini duymuştu: Allah'ın Elçisi (ﷺ) namaza kalktığında tekbir okudu, hadisin geri kalanı İbn Juraij'in aktardığı gibidir (yukarıda kaydedilmiştir), ancak Abu Huraira'nın \"Benim namazım, sizler arasında Allah'ın Elçisi'nin (ﷺ) namazına en iyi benzerliği taşımaktadır\" dediğini belirtmedi."
+    },
+    {
+      "id": 33,
+      "narrator": "Abu Salama b. 'Abd al-Rahman reported.. When Marwan appointed Abu Huraira as his deputy in Medina, he recited takbir whenever he got up for obligatory prayer, and the rest of the hadith is the same as transmitted by Ibn Juraij (but with the addition of these words):",
+      "text": "Abu Salama b. 'Abd al-Rahman rivayet etti: Marwan, Abu Huraira'yı Medine'de vekil olarak atadığında, farz namaz için kalktığında tekbir okurdu, hadisin geri kalanı İbn Juraij'in aktardığı gibidir (ancak bu sözlerin eklenmesiyle): Namazı selam ile tamamladıktan sonra, camideki insanlara döndü ve dedi ki..."
+    },
+    {
+      "id": 34,
+      "narrator": "Abu Salama reported that Abu Huraira recited takbir in prayer on all occasions of rising and kneeling. We said:",
+      "text": "Abu Salama, Abu Huraira'nın namazda kalkma ve rükû pozisyonlarında her durumda tekbir okuduğunu bildirdi. Biz dedik ki: Ey Abu Huraira, bu tekbir nedir? O dedi ki: Şüphesiz bu, Allah'ın Elçisi'nin (ﷺ) namazıdır."
+    },
+    {
+      "id": 35,
+      "narrator": "",
+      "text": "Suhail, babasından rivayet etti ki: Abu Huraira, namazda her kalkma ve eğilme durumunda tekbir okurdu ve Allah'ın Elçisi'nin (ﷺ) de böyle yaptığını nakletti."
+    },
+    {
+      "id": 36,
+      "narrator": "Mutarrif reported:",
+      "text": "Mutarrif rivayet etti: Ben ve 'Imran b. Husain, 'Ali b. Ebu Talib'in arkasında namaz kıldık. Secdeye gittiğinde tekbir okudu, başını kaldırdığında tekbir okudu ve oturuş pozisyonundan kalkarken tekbir okudu (iki rek'at sonunda). Namazımızı bitirdiğimizde, 'Imran elimi tuttu ve dedi ki: O (Hz. Ali) namazı Muhammed (ﷺ) gibi kıldırdı ya da dedi ki: Gerçekten de bana Muhammed'in (selam üzerine olsun) namazını hatırlattı."
+    },
+    {
+      "id": 37,
+      "narrator": "'Ubada b. as-Samit reported from the Messenger of Allah (may peace be upon him ):",
+      "text": "'Ubada b. as-Samit, Allah'ın Elçisi'nden (selam üzerine olsun) rivayet etti: Fatiha'yı okumayan kimse, namazını kılmış sayılmaz."
+    },
+    {
+      "id": 38,
+      "narrator": "Ubada b. as-Samit reported:",
+      "text": "Ubada b. as-Samit rivayet etti: Allah'ın Elçisi (ﷺ) dedi ki: Umm al-Qur'an'ı okumayan kimse, namazını kılmış sayılmaz."
+    },
+    {
+      "id": 39,
+      "narrator": "Mahmud b. al-Rabi', on whose face the Messenger of Allah (ﷺ) squirted water from the well, reported on the authority of 'Ubada b. as- Samit that the Messenger of Allah (ﷺ) said:",
+      "text": "Mahmud b. al-Rabi', yüzüne Allah'ın Elçisi (ﷺ) kuyu suyunu sıçrattığı kişi, 'Ubada b. as-Samit'ten rivayet etti ki: Allah'ın Elçisi (ﷺ) dedi ki: Umm al-Qur'an'ı okumayan kimse, namazını kılmış sayılmaz."
+    },
+    {
+      "id": 40,
+      "narrator": "This hadith has also been transmitted by Ma'mar from al-Zuhri with the same chain of transmitters with the addition of these words:",
+      "text": "Bu hadis, Ma'mar tarafından al-Zuhri'den aynı raviler zinciriyle \"ve biraz daha\" ifadesi eklenerek aktarılmıştır."
+    },
+    {
+      "id": 41,
+      "narrator": "Abu Huraira reported:",
+      "text": "Abu Huraira rivayet etti: Allah'ın Elçisi (ﷺ) dedi ki: Kim namaz kılar fakat Umm al-Qur'an'ı okumazsa, o namaz eksiktir ve tamam değildir. Abu Huraira'ya denildi ki: Bazen imamın arkasındayız. O dedi ki: İçten oku, çünkü Allah'ın Elçisi'nin (ﷺ) Allah Teala'nın şöyle dediğini duyduğunu işitmişti: \"Namazı, Benimle kulum arasında iki parçaya ayırdım ve kulum istediğini alacaktır. Kul \"Hamd, alemlerin Rabbi olan Allah'a\" dediğinde, Allah Teala \"Kulum Beni övdü\" der. Kul \"Merhamet eden, bağışlayan\" dediğinde, Allah Teala \"Kulum Beni övdü\" der. Kul \"Hesap gününün sahibi\" dediğinde, O \"Kulum Beni yüceltti\" der. Bazen de şöyle derdi: \"Kulum (işlerini) Bana emanet etti.\" Kul \"Sadece Sana ibadet ederiz ve sadece Sen'den yardım dileriz\" dediğinde, O (Allah) \"Bu, Benimle kulum arasındadır ve kulum istediğini alacaktır.\" Kul \"Bizi doğru yola ilet, kendilerine nimet verdiklerinin yoluna, gazaba uğramışların ve sapmışların yoluna değil\" dediğinde, O (Allah) \"Bu, Benim kulum içindir ve kulum istediğini alacaktır.\" Sufyan dedi ki: 'Ala b. 'Abd al-Rahman b. Ya'qub bunu bana aktardı, ben ona gittiğimde hastalık nedeniyle evinde kapalıydı ve ben ona bunu sordum."
+    },
+    {
+      "id": 42,
+      "narrator": "It is naratted on the authority of Abu Huraira that he had heard the Messenger of Allah (ﷺ) say:",
+      "text": "Abu Huraira'dan rivayet edildi ki, Allah'ın Elçisi (ﷺ) şöyle dedi: Kim namaz kılarsa ama içinde Umm al-Qur'an okumazsa, hadisin geri kalanı Sufyan'ın aktardığı gibidir ve bu hadisteki sözler şunlardır: \"Allah Teala dedi: Namaz, Benimle kulum arasında iki parçaya ayrılmıştır. Bir yarısı Benim, diğer yarısı kulum içindir.\""
+    },
+    {
+      "id": 43,
+      "narrator": "Abu Huraira reported:",
+      "text": "Abu Huraira rivayet etti: Allah'ın Elçisi (ﷺ) dedi ki: Kim namazını kılar fakat al-Kitab'ın açılış bölümünü okumazsa, namazı eksiktir. Bunu üç kez tekrarladı."
+    },
+    {
+      "id": 44,
+      "narrator": "Abu Huraira reported:",
+      "text": "Abu Huraira rivayet etti: Allah'ın Elçisi (ﷺ) dedi ki: Al-Fatiha okumadan namaz kılan kimse, namaz kılmış sayılmaz. Abu Huraira şöyle dedi: (Allah'ın Elçisi'nin) yüksek sesle okuduğu namazda, biz de sizin için yüksek sesle okuduk; (ve) içten okuduğu namazda, biz de sizin için içten okuduk (Kutsal Peygamber'in namazına pratik bir örnek vermek için)."
+    },
+    {
+      "id": 45,
+      "narrator": "'Ata' narrated on the authority of Abu Huraira who said that one should recite (al-Fatiha) in every (rak'ah of) prayer. What we heard (i. e. recitation) from the Messenger of Allah (ﷺ), we made you listen to that. And that which he (recited) inwardly, we (recited) inwardly for you. A person said to him:",
+      "text": "'Ata', Abu Huraira'dan rivayet etti ki, her (rek'at) namazda (al-Fatiha) okunmalıdır. Allah'ın Elçisi'nden (ﷺ) duyduğumuz (yani okuma), sizi dinletmek için yaptık. Ve o (içten) okuduğunda, biz de sizin için içten okuduk. Bir kişi ona dedi ki: Eğer Umm al-Qur'an'ı (Fatiha Suresi) okumadan hiçbir şey eklemezsem, namazım eksik olur mu? O (Abu Huraira) dedi ki: Eğer buna ekleme yaparsan (Fatiha Suresi'ne bazı ayetler ekleyerek) bu senin için daha iyidir. Ama sadece onunla (Fatiha Suresi) yetinirsen, bu senin için yeterlidir."
+    },
+    {
+      "id": 46,
+      "narrator": "'Ata' reported it on the authority of Abu Huraira who said:",
+      "text": "'Ata', Abu Huraira'dan rivayet etti ki, o şöyle dedi: Namazın her (rak'atında) Fatiha Suresi'nin okunması esastır. (O okuma) ki biz onu Allah'ın Resulü'nden (ﷺ) dinledik, biz de sizi ona dinlettik. Ve o ki, içten okudu, biz de içten sizin için okuduk. Ve Umm al-Qur'an'ı okuyan kimse için (namazı tamamlamak için) yeterlidir, ve ona ek yapan (Fatiha Suresi'ne başka ayetler ekleyen) için daha faziletlidir."
+    },
+    {
+      "id": 47,
+      "narrator": "Abu Huraira reported:",
+      "text": "Abu Huraira rivayet etti: Allah'ın Resulü (ﷺ) mescide girdi ve orada bir kişi de girdi ve namaz kıldı, sonra gelip Allah'ın Resulü'ne (ﷺ) selam verdi. Allah'ın Resulü (ﷺ) selamını aldı ve dedi ki: Geri dön ve namaz kıl, çünkü sen namazı kılmadın. O, daha önce kıldığı gibi tekrar namaz kıldı ve Allah'ın Resulü'ne (ﷺ) geldi ve selam verdi. Allah'ın Resulü (ﷺ) selamı aldı ve dedi ki: Geri dön ve namaz kıl, çünkü sen namazı kılmadın. Bu (namazı tekrar etme) üç kez yapıldı. Bunun üzerine kişi dedi: Seni hak ile gönderen Allah'a yemin ederim ki, bundan daha iyi ne yapabilirim, lütfen bana öğret. O (Peygamber) dedi: Namaza kalktığında, tekbir getir, sonra Kur'an'dan elinden geldiğince oku, sonra rükû yap ve o pozisyonda sessiz kal, sonra kendini kaldır ve ayakta dur; sonra secde et ve o pozisyonda sessiz kal; sonra kendini kaldır ve otur; ve bunu tüm namazlarında yap."
+    },
+    {
+      "id": 48,
+      "narrator": "Abu Huraira reported:",
+      "text": "Abu Huraira rivayet etti: Bir kişi mescide girdi ve Allah'ın Resulü (ﷺ) mescitte bir köşede oturuyordu, ve hadisin geri kalanı yukarıda belirtilenle aynıdır, ancak bu eklemeyle: \"Namaza kalktığında, abdestini tam al ve sonra Kıble'ye dön ve tekbir getir (Allah o Akbar = Allah en büyüktür).\""
+    },
+    {
+      "id": 49,
+      "narrator": "lmrin b. Husain reported:",
+      "text": "İmrân b. Husain rivayet etti: Allah'ın Resulü (ﷺ) bize Zuhr veya 'Asr namazı kıldırdı. (Namazı bitirdikten sonra) dedi ki: Kim benim arkamda (şu ayeti) okudu: Sabbih Isma Rabbik al-a'la (Rabbini, en yüce olanın adını tesbih et)? Bunun üzerine bir kişi dedi: Ben okudum, ama ben sadece iyilik istemiştim. İçinizden birinin benimle (okuduğum şeyde) tartıştığını hissettim, dedi Peygamber (ﷺ)."
+    },
+    {
+      "id": 50,
+      "narrator": "'Imran b. Husain reported:",
+      "text": "İmrân b. Husain rivayet etti: Allah'ın Resulü (ﷺ) Zuhr namazını kıldı ve bir kişi onun arkasında Sabbih Isma Rabbik al-a'la (Rabbini, en yüce olanın adını tesbih et) okudu. O (Peygamber) namazı bitirdiğinde dedi ki: Aranızdan kim (yukarıda belirtilen ayeti) okudu ya da kim okuyucuydu? Bir kişi dedi: Ben okudum. Bunun üzerine o (Peygamber) dedi: İçinizden birinin benimle (okuduğum şeyde) tartıştığını düşündüm."
+    },
+    {
+      "id": 51,
+      "narrator": "This hadith has been narrated by Qatada with the same chain of transmitters that the Messenger of Allah (ﷺ) observed Zuhr prayer and said:",
+      "text": "Bu hadisi Qatada, aynı rivayet zinciriyle nakletmiştir ki, Allah'ın Resulü (ﷺ) Zuhr namazını kıldı ve dedi: İçinizden birinin benimle (okuduğum şeyde) tartıştığını hissettim."
+    },
+    {
+      "id": 52,
+      "narrator": "Anas reported:",
+      "text": "Anas rivayet etti: Ben, Allah'ın Resulü (ﷺ) ile birlikte ve Abu Bekir, Ömer ve Osman (Allah hepsinden razı olsun) ile namaz kıldım, ama onların hiçbirinin Bismillah-ir-Rahman-ir-Rahim'i yüksek sesle okuduğunu duymadım."
+    },
+    {
+      "id": 53,
+      "narrator": "Shu'ba reported it with the same chain of transmitters. with she addition of these words:",
+      "text": "Şu'ba, aynı rivayet zinciriyle bunu nakletti. Bu sözlerin eklenmesiyle: \"Ben Qatada'ya dedim: Anas'tan bunu duydun mu? O olumlu yanıt verdi ve ekledi: Biz ona bunun hakkında soru sormuştuk.\""
+    },
+    {
+      "id": 54,
+      "narrator": "'Abda reported:",
+      "text": "'Abda rivayet etti: 'Umar b. al-Khattab bu sözleri yüksek sesle okurdu: Subhanak Allahumma wa bi hamdika wa tabarakasmuka wa ta'ala jadduka wa la ilaha ghairuka ve ne başlangıçta ne de sonunda Bismillah ir-Rahman-ir-Rahim'i (yüksek sesle) okumazdı."
+    },
+    {
+      "id": 55,
+      "narrator": "",
+      "text": "Abu Talha'dan rivayet edildi ki, o Anas b. Malik'in bunu anlattığını duymuştur."
+    },
+    {
+      "id": 56,
+      "narrator": "Anas reported:",
+      "text": "Anas rivayet etti: Bir gün Allah'ın Resulü (ﷺ) aramızda oturuyordu ve uykuya daldı. Sonra başını kaldırdı ve gülümseyerek: Bir Sura bana yeni indi, dedi ve sonra okudu: Allah'ın adıyla, merhamet eden, bağışlayan. Gerçekten biz sana Kauthar'ı verdik. O halde Rabbin için namaz kıl ve kurban kes. Şüphesiz düşmanın kesilmiştir (iyilikten). Sonra o (Peygamber) dedi: Kauthar'ın ne olduğunu biliyor musunuz? Biz dedik: Allah ve Resulü en iyi bilir. Peygamber (ﷺ) dedi: O (Kauthar), Rabbimin, yüce ve şanlı olanın, bana vaat ettiği bir kanaldır ve içinde bolca hayır vardır. O, bir havuzdur ve benim ümmetim Kıyamet Günü ona gelecektir ve oradaki kaplar yıldızların sayısı kadar olacaktır. Bir kul oradan çevrilecektir. Bunun üzerine ben derim ki: Rabbim, o benim ümmetimden biridir, ve O (Rab) der ki: Sen onun İslam'da senin ardından yenilikler çıkardığını bilmiyorsun. İbn Hucur bu hadise şu eklemeyi yaptı: \"O (Peygamber) mescitte aramızda oturuyordu ve O (Allah) dedi: (Sen bilmiyorsun) onun senin ardından ne yenilikler çıkardığını.\""
+    },
+    {
+      "id": 57,
+      "narrator": "Mukhtar b. Fulful reported that he had heard Anas b. Malik say that the Messenger of Allah (ﷺ) dozed off, and the rest of the hadith is the same as transmitted by Mus-hir except for the words that he (the Holy Prophet) said:",
+      "text": "Mukhtar b. Fulful, Anas b. Malik'in Allah'ın Resulü (ﷺ) uykuya daldığını söylediğini duyduğunu bildirdi ve hadisin geri kalanı Mus-hir tarafından nakledilenle aynıdır, ancak o (Peygamber) dedi: O (Kauthar), Rabbimin yüce ve şanlı olanın cennette bana vaat ettiği bir kanaldır. Üzerinde bir tank vardır, ama yıldızların sayısı kadar kaplardan bahsetmedi."
+    },
+    {
+      "id": 58,
+      "narrator": "Wa'il b. Hujr reported:",
+      "text": "Vail b. Hucur rivayet etti: Allah'ın Resulü (ﷺ) namaza başlarken ellerini kaldırdı ve tekbir getirdi, ve Hammam'a (rivayetçi) göre, elleri kulaklarının hizasında kaldırıldı. O (Peygamber) sonra ellerini elbisesine sardı ve sağ elini sol elinin üzerine koydu. Rükû yapmaya hazırlandığında, ellerini elbiseden çıkardı, sonra onları kaldırdı, sonra tekbir getirdi ve rükû yaptı, ve (dikey pozisyona döndüğünde) dedi: \"Allah, kendisini övenin duasını kabul eder.\" Ve secde ettiğinde, iki avucu arasında secde etti."
+    },
+    {
+      "id": 59,
+      "narrator": "`Abdullah (b. Mas`ud) said:",
+      "text": "Abdullah (b. Mes'ud) dedi: Allah'ın Resulü (ﷺ) arkasında namaz kılarken biz: Allah'a selam, falana selam dedik. Bir gün Allah'ın Resulü (ﷺ) bize dedi ki: Gerçekten Allah kendisi Selam'dır. Sizden biri namazda oturduğunda, şöyle demelidir: Sözlerle, ibadetlerle ve tüm hayırlı şeyler Allah'a aittir. Selam sana, Ey Peygamber, ve Allah'ın merhameti ve bereketleri. Selam bize ve Allah'ın salih kullarına, çünkü bunu söylediğinde, bu her salih kulun göklerde ve yerde ulaşır. (Ve daha sonra şöyle de): Ben şehadet ederim ki Allah'tan başka ilah yoktur ve ben şehadet ederim ki Muhammed O'nun Resulüdür. Sonra dilediği herhangi bir duayı seçebilir ve yapabilir."
+    },
+    {
+      "id": 60,
+      "narrator": "Shu'ba has narrated this on the authority of Mansur with the same chain of transmitters, but he made no mention of this:",
+      "text": "Şu'ba, bu hadisi Mansur'dan aynı zincirle nakletti, ancak bu ifadeyi eklemedi: \"Sonra dilediği herhangi bir duayı seçebilir.\""
+    },
+    {
+      "id": 61,
+      "narrator": "This hadith has been narrated on the authority of Mansur with the same chain of transmitters and he made a mention of this:",
+      "text": "Bu hadis, Mansur'un rivayetiyle aynı isnadla nakledilmiştir ve o, şunları söylemiştir: \"O zaman, hoşuna giden veya istediği herhangi bir dua seçebilir.\""
+    },
+    {
+      "id": 62,
+      "narrator": "Abdullah b. Mas'ud reported:",
+      "text": "Abdullah b. Mes'ud şöyle bildirmiştir: Biz, Peygamber (ﷺ) ile namazda oturuyorduk ve hadisin geri kalanı Mansur'un naklettiği gibidir. O (aynı zamanda) şöyle dedi: (tahiyyatı okuduktan sonra) istediği herhangi bir dua seçebilir."
+    },
+    {
+      "id": 63,
+      "narrator": "Ibn Mas'ud is reported to have said:",
+      "text": "İbn Mes'ud'un şöyle dediği rivayet edilmiştir: Allah'ın Messenger'ı (ﷺ) bana, elimi avuçlarının içine alarak tahiyyatı öğretti, tıpkı Kur'an'dan bir sureyi öğrettiği gibi ve yukarıda nakledildiği gibi aktardı."
+    },
+    {
+      "id": 64,
+      "narrator": "Ibn `Abbas reported:",
+      "text": "İbn Abbas şöyle bildirmiştir: Allah'ın Messenger'ı (ﷺ) bize tahiyyatı, Kur'an'dan bir sureyi öğrettiği gibi öğretirdi ve şöyle derdi: \"Sözlerle yapılan tüm ibadetler ve hayırlı şeyler Allah'a aittir. Selam sana, Ey Peygamber, Allah'ın rahmeti ve bereketleri üzerine olsun. Selam bize ve Allah'ın salih kullarına olsun. Şahitlik ederim ki Allah'tan başka ilah yoktur ve şahitlik ederim ki Muhammed Allah'ın Messenger'ıdır.\" İbn Rumh'un rivayetinde (sözler şunlardır): \"Kur'an'ı bize öğrettiği gibi.\""
+    },
+    {
+      "id": 65,
+      "narrator": "Tawus narrated it on the authority of Ibn 'Abbas that he said:",
+      "text": "Tavus, İbn Abbas'tan naklederek şöyle dedi: Allah'ın Messenger'ı (ﷺ) bize tahiyyatı, Kur'an'dan bir sureyi öğrettiği gibi öğretirdi."
+    },
+    {
+      "id": 66,
+      "narrator": "Hattan b. `Abdullah al-Raqashi reported:",
+      "text": "Hattan b. Abdullah el-Rakaşi şöyle bildirmiştir: Abu Musa el-Aş'ari ile namaz kıldım ve o, oturduğunda, halktan biri şöyle dedi: \"Namaz, takva ve zekat ile farz kılındı.\" O (rivayet eden) dedi ki: Abu Musa selam verdikten sonra namazı bitirdi ve (halkın) yüzüne döndü ve dedi ki: \"Aranızdan kim böyle bir şey söyledi?\" Halk arasında bir sessizlik oldu. Tekrar dedi ki: \"Aranızdan kim böyle bir şey söyledi?\" Halk arasında yine bir sessizlik oldu. O (Abu Musa) dedi ki: \"Hattan, belki sen söyledin.\" O (Hattan) dedi ki: \"Hayır. Ben söylemedim. Bu yüzden senin benden rahatsız olacağından korktum.\" Halktan biri dedi ki: \"Ben söyledim ve bunda başka bir niyetim yoktu.\" Abu Musa dedi ki: \"Namazlarınızda ne okumanız gerektiğini bilmiyor musunuz? Şüphesiz ki Allah'ın Messenger'ı (ﷺ) bize hitap etti ve namazın tüm yönlerini açıkladı ve nasıl doğru bir şekilde namaz kılacağımızı öğretti.\" O (Peygamber) dedi ki: \"Namaz kıldığınızda, safınızı düzeltin ve aranızdan birini imam olarak tayin edin. O takbiri okuduğunda, siz de takbiri okuyun ve o: 'Gazaba uğramışlardan ve sapmışlardan değiliz' dediğinde, 'Amin' deyin. Allah, size karşılık verir. Ve o (imam) takbiri okuduğunda, siz de takbiri okuyun, çünkü imam sizin önünüzde rükû yapar ve sizin önünüzde doğrulur. Sonra Allah'ın Messenger'ı (ﷺ) dedi ki: \"Biri diğerine eşittir.\" Ve o: \"Allah, kendisini övenin duasını işitir\" dediğinde, siz de şöyle demelisiniz: \"Ey Allah, bizim Rabbimiz, sana hamd olsun, çünkü yüce ve aziz olan Allah, Allah'ın Messenger'ı (ﷺ) aracılığıyla bize vahiyle bildirmiştir ki Allah, kendisini övenin duasını işitir.\" Ve o (imam) takbiri okuduğunda ve secdeye gittiğinde, siz de takbiri okuyun ve secdeye gidin, çünkü imam sizin önünüzde secde eder ve sizin önünüzde doğrulur. Allah'ın Messenger'ı (ﷺ) dedi ki: \"Biri diğerine eşittir.\" Ve o (imam) tahiyyat için oturduğunda, aranızdan her birinin ilk sözleri şöyle olmalıdır: \"Sözlerle yapılan tüm ibadetler ve hayırlı şeyler Allah'a aittir. Selam sana, Ey Peygamber, Allah'ın rahmeti ve bereketleri üzerine olsun. Selam bize ve Allah'ın salih kullarına olsun. Şahitlik ederim ki Allah'tan başka ilah yoktur ve şahitlik ederim ki Muhammed O'nun Messenger'ıdır.\""
+    },
+    {
+      "id": 67,
+      "narrator": "Qatada has narrated a hadith like this with another chain of transmitters. In the hadith transmitted by Jarir on the authority of Sulaiman, Qatada's further words are:",
+      "text": "Katade, başka bir isnadla benzer bir hadisi nakletmiştir. Sulaiman'dan Jarir aracılığıyla nakledilen hadiste Katade'nin ek sözleri şunlardır: \"Kur'an (namazda) okunduğunda, sessiz olmalısınız\" ve (aşağıdaki sözler) başka hiç kimse tarafından rivayet edilmemiştir, sadece Abu Kamil, Abu 'Awina'dan işittiği gibi (sözler şunlardır): \"Şüphesiz ki Allah, Allah'ın Messenger'ı (ﷺ) aracılığıyla bu sözü vahiyle bildirmiştir: Allah, kendisini övenin duasını işitir.\" Abu İshak (İmam Müslim'in öğrencisi) dedi ki: \"Abu Bekir, Abu Nadr'ın kız kardeşinin bu hadisi (eleştirel olarak) tartıştığını söyledi.\" İmam Müslim dedi ki: \"Sulaiman'dan daha güvenilir bir hadis ravisi bulabilir misin?\" Abu Bekir ona (İmam Müslim'e) dedi ki: \"Abu Hureyre tarafından rivayet edilen hadise ne dersin, yani Kur'an okunduğunda sessiz olmalısınız?\" O (Abu Bekir tekrar) dedi ki: \"O zaman neden bunu (derlemenizde) dahil etmediniz?\" O (İmam Müslim) dedi ki: \"Ben, güvenilir olduğunu düşündüğüm her hadisi dahil etmedim; sadece Muhaddithler arasında üzerinde ittifak edilen (güvenilir) hadisleri kaydettim.\""
+    },
+    {
+      "id": 68,
+      "narrator": "This hadith has been transmitted by Qatida with the same chain of transmitters (and the words are):",
+      "text": "Bu hadis, Katida tarafından aynı isnadla nakledilmiştir (ve sözler şunlardır): \"Yüce ve aziz olan Allah, bunu O'nun Messenger'ı (ona selam olsun) aracılığıyla bildirmiştir: Allah, kendisini övenin duasını işitir.\""
+    },
+    {
+      "id": 69,
+      "narrator": "Abdullah b. Zaid-he who was shown the call (for prayer in a dream) narrated it on the authority of Abu Mas'ud al-Ansari who said:",
+      "text": "Abdullah b. Zaid - dua çağrısını (rüyada) gören - Abu Mas'ud el-Ensari'den şöyle nakletmiştir: Biz, Sa'id b. Ubeyde'nin yanında oturuyorduk, o sırada Allah'ın Messenger'ı (ﷺ) bize geldi. Başir b. Sa'd dedi ki: \"Allah, bize seni mübarek kılmamızı emretti. Ey Allah'ın Messenger'ı! Ama seni nasıl mübarek kılmalıyız?\" O (rivayet eden) dedi ki: \"Allah'ın Messenger'ı (ﷺ) sessiz kaldı (ve biz onun sessizliğinden o kadar endişelendik ki, ona sormamış olmayı dilerdik). Sonra Allah'ın Messenger'ı (ﷺ) dedi ki: \"Beni mübarek kılmak için şöyle de: 'Ey Allah, Muhammed'e ve onun ehline, İbrahim'in ehline mübarek kıldığın gibi mübarek kıl. Muhammed'e ve onun ehline, İbrahim'in ehline dünyada verdiğin nimetleri ver. Şüphesiz ki sen, övülmeye ve yüceltilmeye layıksın'; ve selam, bildiğiniz gibi.\""
+    },
+    {
+      "id": 70,
+      "narrator": "Ibn Abi Laila reported:",
+      "text": "İbn Abi Leyla şöyle bildirmiştir: Ka'b b. Ucra bana rastladı ve dedi: \"Sana bir hediye vermeyeyim mi?\" (ve ekledi): \"Allah'ın Messenger'ı (ﷺ) bize geldi ve biz dedik ki: \"Sana selam vermeyi öğrendik; (lütfen bize) seni nasıl mübarek kılacağımızı söyle.\" O (Peygamber) dedi: \"Şöyle de: 'Ey Allah, Muhammed'e ve ailesine, İbrahim'in ailesine mübarek kıldığın gibi mübarek kıl. Şüphesiz ki sen, övülmeye ve yüceltilmeye layıksın, Ey Allah.'\""
+    },
+    {
+      "id": 71,
+      "narrator": "A hadith like this has been narrated by Mis'ar on the authority of al-Hakam, but in the hadith transmitted by Mis'ar these words are not found:",
+      "text": "Mis'ar, el-Hakam'dan benzer bir hadisi nakletmiştir, ancak Mis'ar tarafından nakledilen hadiste bu sözler bulunmamaktadır: \"Sana bir hediye vermeyeyim mi?\""
+    },
+    {
+      "id": 72,
+      "narrator": "A hadith like this has been narrated by al-Hakam except that he said:",
+      "text": "el-Hakam tarafından benzer bir hadis nakledilmiştir, ancak o: \"Muhammed'i (ﷺ) mübarek kıl\" demiştir ve \"Ey Allah\" dememiştir."
+    },
+    {
+      "id": 73,
+      "narrator": "Abu Humaid as-Sa'idi reported:",
+      "text": "Abu Humaid es-Sa'idi şöyle bildirmiştir: Onlar (Peygamber'in arkadaşları) dediler: \"Ey Allah'ın Apostle'ı, seni nasıl mübarek kılmalıyız?\" O (Peygamber) şöyle cevap verdi: \"Şöyle de: 'Ey Allah! Muhammed'e, eşlerine ve nesline, İbrahim'e mübarek kıldığın gibi mübarek kıl. Muhammed'e, eşlerine ve nesline, İbrahim'in ailesine verdiğin nimetleri ver; sen, övülmeye ve yüceltilmeye layıksın.'\""
+    },
+    {
+      "id": 74,
+      "narrator": "Abu Huraira reported:",
+      "text": "Abu Huraira bildirmiştir: Allah'ın Messenger'ı (ﷺ) dedi ki: \"Beni bir kez mübarek kılan, Allah onu on kez mübarek kılar.\""
+    },
+    {
+      "id": 75,
+      "narrator": "Abu Huraira reported:",
+      "text": "Abu Huraira bildirmiştir: Allah'ın Messenger'ı (ﷺ) dedi ki: \"İmam: 'Allah, kendisini övenin duasını işitir' dediğinde, siz de: 'Ey Allah, Rabbimiz, sana hamd olsun' demelisiniz; çünkü eğer birinin söyledikleri, meleklerin söyledikleriyle örtüşürse, geçmiş günahları affedilecektir.\""
+    },
+    {
+      "id": 76,
+      "narrator": "",
+      "text": "Bu hadisi, Abu Huraira başka bir rivayet zinciriyle nakletmiştir."
+    },
+    {
+      "id": 77,
+      "narrator": "Abu Huraira reported:",
+      "text": "Abu Huraira rivayet etti: Allah'ın Messenger'ı (ﷺ) şöyle buyurdu: İmam \"Amin\" dediğinde \"Amin\" deyin, çünkü eğer birinin \"Amin\" demesi meleklerin \"Amin\" demesiyle eş zamanlı olursa, geçmiş günahları affedilecektir."
+    },
+    {
+      "id": 78,
+      "narrator": "Abu Huraira said:",
+      "text": "Abu Huraira dedi ki: Allah'ın Messenger'ından (ﷺ) Malik'in naklettiği gibi bir hadis işittim, ancak o, Şihab'ın sözlerini anmadı."
+    },
+    {
+      "id": 79,
+      "narrator": "Abu Huraira reported:",
+      "text": "Abu Huraira rivayet etti: Allah'ın Messenger'ı (ﷺ) şöyle buyurdu: Sizden biri namazda \"Amin\" dediğinde, gökyüzündeki melekler de \"Amin\" derler ve (birinin) \"Amin\"i (diğerinin) \"Amin\"iyle eş zamanlı olursa, onun önceki günahları affedilir."
+    },
+    {
+      "id": 80,
+      "narrator": "Abu Harare reported:",
+      "text": "Abu Huraira rivayet etti: Allah'ın Messenger'ı (ﷺ) şöyle buyurdu: Sizden biri \"Amin\" dediğinde ve gökyüzündeki melekler de \"Amin\" derse ve (birinin) \"Amin\"i (diğerinin) \"Amin\"iyle eş zamanlı olursa, onun önceki günahları affedilir."
+    },
+    {
+      "id": 81,
+      "narrator": "",
+      "text": "'Bu hadisi, Ma'mar Hammam b. Munabbih'ten, o da Abu Huraira'dan, o da Allah'ın Messenger'ından (ﷺ) nakletmiştir."
+    },
+    {
+      "id": 82,
+      "narrator": "Abu Huraira reported:",
+      "text": "Abu Huraira rivayet etti: Allah'ın Messenger'ı (ﷺ) şöyle buyurdu: Okuyucu (İmam) \"Gazaba uğramışların ve sapmışların yolu değil\" dediğinde, arkasındaki kişi \"Amin\" derse ve onun \"Amin\"i gökyüzündekilerin \"Amin\"iyle eş zamanlı olursa, onun önceki günahları affedilir."
+    },
+    {
+      "id": 83,
+      "narrator": "Anas b. Malik reported:",
+      "text": "Anas b. Malik rivayet etti: Allah'ın Messenger'ı (ﷺ) bir atın üzerinden düştü ve sağ tarafı yaralandı. Biz, namaz vakti geldiğinde onun sağlık durumunu sormak için yanına gittik. O, oturarak bize namaz kıldırdı ve biz de onun arkasında oturarak namaz kıldık. Namazı bitirdiğinde şöyle dedi: İmam, yalnızca takip edilmek için görevlendirilmiştir; bu yüzden o tekbir aldığında siz de alın; o secde ettiğinde siz de secde edin; o kalktığında siz de kalkın ve o \"Allah, kendisini övenin duasını işitir\" dediğinde, siz de \"Rabbimiz, sana hamd olsun\" deyin. O oturarak dua ettiğinde, hepiniz oturarak dua etmelisiniz."
+    },
+    {
+      "id": 84,
+      "narrator": "Anas b. Malik reported:",
+      "text": "Anas b. Malik rivayet etti: Allah'ın Messenger'ı (ﷺ) bir atın üzerinden düştü ve yaralandı, ve o, oturarak bize namaz kıldırdı. Hadisin geri kalanı aynıdır."
+    },
+    {
+      "id": 85,
+      "narrator": "Anas b. Malik reported:",
+      "text": "Anas b. Malik rivayet etti: Allah'ın Messenger'ı (ﷺ) bir atın üzerinden düştü ve sağ tarafı yaralandı. Hadisin geri kalanı aynıdır, ancak bu sözler eklenmiştir: \"O (İmam) ayakta namaz kıldığında, siz de öyle yapmalısınız.\""
+    },
+    {
+      "id": 86,
+      "narrator": "Anas reported:",
+      "text": "Anas rivayet etti: Allah'ın Messenger'ı (ﷺ) bir ata bindi ve düştü, sağ tarafı yaralandı. Hadisin geri kalanı aynıdır ve (bu sözler) içindedir: \"O (İmam) ayakta namaz kıldığında, siz de ayakta namaz kılmalısınız.\""
+    },
+    {
+      "id": 87,
+      "narrator": "Anas b. Malik reported:",
+      "text": "Anas b. Malik rivayet etti: Allah'ın Messenger'ı (ﷺ) atından düştü ve sağ tarafı yaralandı. Hadisin geri kalanı aynıdır. Bu hadiste Yunus ve Malik tarafından nakledilen eklemeler yoktur."
+    },
+    {
+      "id": 88,
+      "narrator": "'A'isha reported:",
+      "text": "'A'isha rivayet etti: Allah'ın Messenger'ı (ﷺ) hastalandı ve bazı Ashabı onun sağlık durumunu sormak için yanına geldi. Allah'ın Messenger'ı (ﷺ) oturarak namaz kıldı, o sırada (Ashabı) onun arkasında ayakta namaz kıldılar. O (Peygamber) onlara el hareketiyle oturmalarını işaret etti ve onlar (namazda) oturdular. Namazı bitirdikten sonra (Peygamber) şöyle dedi: İmam, takip edilmek için görevlendirilmiştir, bu yüzden o rükûya gittiğinde siz de rükû yapın, o kalktığında siz de kalkın ve o (İmam) oturarak dua ettiğinde, siz de oturarak dua edin."
+    },
+    {
+      "id": 89,
+      "narrator": "",
+      "text": "Bu hadis, Hişam b. 'Urwa tarafından aynı rivayet zinciriyle nakledilmiştir."
+    },
+    {
+      "id": 90,
+      "narrator": "Jabir reported:",
+      "text": "Cabir rivayet etti: Allah'ın Messenger'ı (ﷺ) hastaydı ve biz onun arkasında oturarak namaz kıldık. Ve Ebu Bekir, insanlara tekbirini duyuruyordu. Bize yöneldiğinde, bizi ayakta görünce (oturmamız için) bir işaretle yönlendirdi. Böylece oturduk ve onunla birlikte oturarak namaz kıldık. Selam verdikten sonra şöyle dedi: Bu sırada Persler ve Romalılar gibi bir davranışta bulunmaya yaklaşmıştınız. Onlar, krallarının önünde otururken ayakta dururlar, bu yüzden bunu yapmayın; İmamlarınıza uyun. Eğer ayakta namaz kılarlarsa, siz de öyle yapmalısınız, eğer oturarak namaz kılarlarsa, siz de oturarak namaz kılmalısınız."
+    },
+    {
+      "id": 91,
+      "narrator": "Jabir said:",
+      "text": "Cabir dedi ki: Allah'ın Resulü (ﷺ) namaz kıldırdı ve Ebu Bekir arkasındaydı. Allah'ın Resulü (ﷺ) tekbir getirdiğinde, Ebu Bekir de onu bize duyurmak için tekbir getirdi. Hadisin geri kalanı, Leys tarafından rivayet edilen gibidir."
+    },
+    {
+      "id": 92,
+      "narrator": "Abu Huraira reported:",
+      "text": "Ebu Hureyre bildirdi: Allah'ın Resulü (ﷺ) dedi ki: İmam, takip edilmek üzere tayin edilmiştir, bu yüzden onunla ihtilafa düşmeyin. O tekbir getirdiğinde siz de tekbir getirin; o rükûya gittiğinde siz de rükûya gidin ve o: \"Allah, kendisini övenin sözünü işitir\" dediğinde, siz de: \"Ey Allah, Rabbimiz, sana hamd olsun\" deyin. Ve o secde ettiğinde siz de secde edin, o oturarak dua ettiğinde hepiniz oturarak dua edin."
+    },
+    {
+      "id": 93,
+      "narrator": "",
+      "text": "Bu hadisin benzeri, Hammam b. Munabbih tarafından Ebu Hureyre'den Allah'ın Resulü (ﷺ) aracılığıyla rivayet edilmiştir."
+    },
+    {
+      "id": 94,
+      "narrator": "Abu Huraira reported:",
+      "text": "Ebu Hureyre bildirdi: Allah'ın Resulü (ﷺ) bize (iman esaslarını) öğretirken dedi ki: İmamdan öne geçmeye çalışmayın, o tekbir getirdiğinde siz de tekbir getirin, o: \"Ne de olsa sapıklardan değildir\" dediğinde, siz de Amin deyin, o rükûya gittiğinde siz de rükûya gidin ve o: \"Allah, kendisini övenin sözünü işitir\" dediğinde: \"Ey Allah, Rabbimiz, sana hamd olsun\" deyin."
+    },
+    {
+      "id": 95,
+      "narrator": "Abu Huraira reported from the Messenger of Allah (ﷺ) (a hadith) like it, except the words:",
+      "text": "Ebu Hureyre, Allah'ın Resulü (ﷺ) tarafından benzeri bir hadisi rivayet etti, ancak: \"Ne de olsa sapıklardan değildir, Amin deyin\" sözlerini ekledi: \"Ve ondan önce kalkmayın.\""
+    },
+    {
+      "id": 96,
+      "narrator": "Abu Huraira reported:",
+      "text": "Ebu Hureyre bildirdi: Allah'ın Resulü (ﷺ) dedi ki: Şüphesiz ki İmam bir kalkan gibidir, o oturarak dua ettiğinde siz de oturarak dua edin. Ve o: \"Allah, kendisini övenin sözünü işitir\" dediğinde: \"Ey Allah, Rabbimiz, sana hamd olsun\" deyin. Ve yerin halkının sözleri, göklerin varlıklarının (meleklerin) sözüyle senkronize olduğunda, tüm önceki günahlar affedilecektir."
+    },
+    {
+      "id": 97,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) saying:",
+      "text": "Ebu Hureyre, Allah'ın Resulü (ﷺ) şöyle dedi: İmam, takip edilmek üzere tayin edilmiştir. O tekbir getirdiğinde siz de tekbir getirin, o rükûya gittiğinde siz de rükûya gidin ve o: \"Allah, kendisini övenin sözünü işitir\" dediğinde: \"Ey Allah, Rabbimiz, sana hamd olsun\" deyin. O ayakta dua ettiğinde siz de ayakta dua edin. O oturarak dua ettiğinde hepiniz oturarak dua edin."
+    },
+    {
+      "id": 98,
+      "narrator": "Ubaidullah b. Abdullah reported:",
+      "text": "Ubeydullah b. Abdullah bildirdi: 'Aişe'yi ziyaret ettim ve Allah'ın Resulü (ﷺ) hastalığı hakkında bilgi vermesini istedim. O da kabul etti ve dedi ki: Resul (ﷺ) ciddi şekilde hastaydı ve insanlara dua edip etmediklerini sordu. Biz: Hayır, seni bekliyorlar, Allah'ın Resulü dedik. O (Peygamber) dedi: Bana küvette biraz su koyun. Biz de öyle yaptık ve o (Peygamber) yıkanmaya başladı; ve hareket etmekte zorlandığında bayıldı. Kendine geldiğinde tekrar: İnsanlar dua etti mi? diye sordu. Biz: Hayır, seni bekliyorlar, Allah'ın Resulü dedik. O (Peygamber) tekrar: Küvette bana biraz su koyun dedi. Biz de öyle yaptık ve o yıkanmaya başladı, ama hareket etmekte zorlandığında bayıldı. Kendine geldiğinde: İnsanlar dua etti mi? diye sordu. Biz: Hayır, seni bekliyorlar, Allah'ın Resulü dedik. O dedi: Küvette bana biraz su koyun. Biz de öyle yaptık ve o yıkanmaya başladı ve hareket etmekte zorlandığında bayıldı. Kendine geldiğinde: İnsanlar dua etti mi? diye sordu. Biz: Hayır, seni bekliyorlar, Allah'ın Resulü dedik. O ('Aişe) dedi: İnsanlar camide kalıyor ve Allah'ın Resulü'nün son (gece) namazını kıldırmasını bekliyorlardı. O ('Aişe) dedi: Allah'ın Resulü (ﷺ) Ebu Bekir'e insanlara namaz kıldırmasını emretti. Elçi geldiğinde, ona (Ebu Bekir'e): Allah'ın Resulü (ﷺ) seni insanlara namaz kıldırmanı emretti dedi. Ebu Bekir, çok duygusal bir adamdı ve Ömer'e namaz kıldırmasını istedi. Ömer dedi: Sen buna daha layıksın. Ebu Bekir o günlerde namazları kıldırdı. Sonrasında Allah'ın Resulü (ﷺ) biraz rahatladı ve iki adamın desteğiyle dışarı çıktı, bunlardan biri el-‘Abbas'tı, öğle namazına gitti. Ebu Bekir insanlara namaz kıldırıyordu. Ebu Bekir onu görünce geri çekilmek istedi, ancak Allah'ın Resulü (ﷺ) ona geri çekilmemesini söyledi. İki (arkadaşına) onu yanına oturtmasını söyledi (Ebu Bekir'in yanına). Onu Ebu Bekir'in yanına oturttular. Ebu Bekir, Resul'ün (ﷺ) namazını takip ederek ayakta namaz kıldı ve insanlar da Ebu Bekir'in namazını takip ederek ayakta namaz kıldılar. Resul (ﷺ) oturuyordu. Ubeydullah dedi: 'Abdullah b. 'Abbas'ı ziyaret ettim ve: 'Aişe'nin Resul'ün (ﷺ) hastalığı hakkında söylediklerini sana ileteyim mi? dedim. O da: Devam et dedi. Ona 'Aişe'nin rivayet ettiği şeyi ilettim. O, hiçbirine itiraz etmedi, sadece 'Aişe'nin el-‘Abbas ile birlikte olan adamın adını verip vermediğini sordu. Ben: Hayır dedim. O da: O 'Ali'ydi dedi."
+    },
+    {
+      "id": 99,
+      "narrator": "'A'isha reported:",
+      "text": "'Aişe bildirdi: Allah'ın Resulü (ﷺ) ilk olarak Maimuna'nın evinde hastalandı. Hastalığı sırasında, eşlerinden izin istedi ve benim (Aişe'nin) evimde kalmak istedi. Onlar da ona izin verdiler. O ('Aişe) anlattı: O (Peygamber) el-Fadl b. 'Abbas'ın üzerine elini koyarak ve diğer elinde başka bir kişiyle (zayıflıktan dolayı) ayakları yere sürüklenerek dışarı çıktı. Ubeydullah dedi: Bu hadisi 'Abdullah b. 'Abbas'a anlattım ve o da: 'Aişe'nin adını anmadığı adamın kim olduğunu biliyor musun? dedi. O da: Hayır dedi. 'İbn 'Abbas: O 'Ali'ydi dedi."
+    },
+    {
+      "id": 100,
+      "narrator": "'A'isha, the wife of the Apostle (ﷺ), said:",
+      "text": "'Aişe, Allah'ın Resulü'nün (ﷺ) eşi, dedi ki: Allah'ın Resulü (ﷺ) hastalandığında ve hastalığı ciddi hale geldiğinde, eşlerinden benim evimde kalmak için izin istedi. Onlar da ona izin verdiler. O, (Aişe'nin dairesinden) dua için iki kişi tarafından desteklenerek dışarı çıktı. (O kadar zayıftı ki) ayakları yere sürükleniyordu ve 'Abbas b. 'Abd al-Muttalib ve başka bir kişi tarafından destekleniyordu. Ubeydullah dedi: 'Aişe'nin söylediklerini 'Abdullah (b. 'Abbas) ile paylaştım. 'Abdullah b. 'Abbas: 'Aişe'nin adını anmadığı adamın kim olduğunu biliyor musun? dedi. Ben: Hayır dedim. İbn 'Abbas: O 'Ali'ydi dedi."
+    },
+    {
+      "id": 101,
+      "narrator": "'A'isha, the wife of the Messenger of Allah (ﷺ), said:",
+      "text": "'Aişe, Allah'ın Resulü'nün (ﷺ) eşi, dedi ki: Allah'ın Resulü'nü (ﷺ) (Ebu Bekir'i imam olarak atamaktan) vazgeçirmeye çalıştım ve bu konudaki ısrarım, insanların onun (Peygamberin) yerine geçecek olan adamı sevmeyeceklerinden endişe ettiğim için değildi. İnsanların, onun yerine geçecek olan kişiye karşı batıl inanç besleyeceklerinden korktum. Bu nedenle, Allah'ın Resulü'nün (ﷺ) bu konuda Ebu Bekir'i bir kenara bırakmasını istedim."
+    },
+    {
+      "id": 102,
+      "narrator": "'A'isha reported:",
+      "text": "'Aişe bildirdi: Allah'ın Resulü (ﷺ) evime geldiğinde, Ebu Bekir'in insanlara namaz kıldırmasını emret dedi. 'Aişe anlattı: Ben: Allah'ın Resulü, Ebu Bekir çok duygusal bir adamdır; Kur'an okurken gözyaşlarını tutamaz; bu yüzden başka birini namaz kıldırması için emret. Vallahi, benim için rahatsız edici olan tek şey, insanların Allah'ın Resulü'nün (ﷺ) yerine geçecek olan kişi hakkında kötü bir işaret alacakları düşüncesidir. İki veya üç kez (babamı imam olarak atamasından) vazgeçirmeye çalıştım, ama o Ebu Bekir'in insanlara namaz kıldırmasını emretti ve: Siz kadınlar, Yusuf'un etrafında toplananlar gibisiniz dedi."
+    },
+    {
+      "id": 103,
+      "narrator": "'A'isha reported:",
+      "text": "'Aişe bildirdi: Allah'ın Resulü (ﷺ) yatağa kapandığında, Bilal ona dua için çağırmak üzere geldi. O (Peygamber) dedi: Ebu Bekir'in insanlara namaz kıldırmasını iste. O ('Aişe) bildirdi: Ben: Allah'ın Resulü, Ebu Bekir çok duygusal bir adamdır, onun yerinde durduğunda o kadar duygulanır ki, insanlara hiçbir şey duyuramaz (okuması, namazdaki takipçilerine duyulmaz). Umar'a dua kıldırmasını emret. O (Peygamber) dedi: Ebu Bekir'in insanlara namaz kıldırmasını iste. O ('Aişe) dedi: Hafsa'dan, Ebu Bekir'in çok duygusal bir adam olduğunu ve onun yerinde durduğunda insanlara hiçbir şey duyuramayacağını iletmesini istedim. Umar'a dua kıldırmasını emret. Hafsa bu (Aişe'nin mesajını) ona (Peygamber) iletti. Allah'ın Resulü (ﷺ) dedi: (Siz, Yusuf'un etrafında toplanan kadınlar gibisiniz.) Ebu Bekir'in insanlara namaz kıldırmasını emret. O ('Aişe) bildirdi: Böylece Ebu Bekir'e insanlara namaz kıldırması emredildi. Namaz başladığında, Allah'ın Resulü (ﷺ) biraz rahatladı; ayağa kalktı ve iki kişi tarafından desteklenerek hareket etti ve ayakları yere sürüklendi (aşırı zayıflıktan). 'Aişe bildirdi: O (Peygamber) camiye girdiğinde, Ebu Bekir onun (gelişini) gördü. Geri çekilmek üzereydi, ama Allah'ın Resulü (ﷺ) elinin hareketiyle ona yerinde durmasını söyledi. Allah'ın Resulü (ﷺ) geldi ve Ebu Bekir'in sol tarafında oturdu. O ('Aişe) bildirdi: Allah'ın Resulü (ﷺ) insanlara oturarak namaz kıldırıyordu. Ebu Bekir, Resul'ün (ﷺ) namazını ayakta takip ediyordu ve insanlar da Ebu Bekir'in namazını takip ediyorlardı."
+    },
+    {
+      "id": 104,
+      "narrator": "A'mash reported:",
+      "text": "A'maş bildirdi: Allah'ın Resulü (ﷺ) hastalandığında ve bu hastalıktan vefat ettiğinde, İbn Mus-hir tarafından rivayet edilen hadisteki sözler şunlardır: Allah'ın Resulü (ﷺ) getirildiğinde, Ebu Bekir'in yanına oturtuldu ve Resul (ﷺ) insanlara namaz kıldırdı ve Ebu Bekir onlara tekbiri duyuruyordu; 'İsa tarafından rivayet edilen hadiste ise: \"Allah'ın Resulü (ﷺ) oturdu ve insanlara namaz kıldırdı ve Ebu Bekir onun yanındaydı ve o (tekbiri) insanlara duyuruyordu.\""
+    },
+    {
+      "id": 105,
+      "narrator": "`A'isha reported:",
+      "text": "'Aişe bildirdi: Allah'ın Resulü (ﷺ) hastalığı sırasında insanlara namaz kıldırmasını Ebu Bekir'e emretti ve o da insanlara namaz kıldırdı. 'Urve dedi ki: Allah'ın Resulü (ﷺ) rahatladı ve (camiye) gitti ve Ebu Bekir insanlara namaz kıldırıyordu. Ebu Bekir onu görünce geri çekilmek istedi, ama Allah'ın Resulü (ﷺ) ona olduğu yerde kalmasını işaret etti. Allah'ın Resulü (ﷺ) Ebu Bekir'in yanına oturdu. Ebu Bekir, Allah'ın Resulü'nün (ﷺ) namazını takip ederek dua etti ve insanlar da Ebu Bekir'in namazını takip ederek dua ettiler."
+    },
+    {
+      "id": 106,
+      "narrator": "Anas b. Malik reported, Abu Bakr led them in prayer due to the illness of the Messenger of Allah (ﷺ) of which be died. It was a Monday and they stood in rows for prayer. The Messenger of Allah (ﷺ) drew aside the curtain of ('A'isha's) apartment and looked at us while he was standing, and his (Prophet's) face was (as bright) as the paper of the Holy Book. The Messenger of Allah (ﷺ) felt happy and smiled. And we were confounded with joy while in prayer due to the arrival (among our midst) of the Messenger of Allah (ﷺ), Abu Bakr stepped back upon his heels to say prayer in a row perceiving that the Messenger of Allah (ﷺ) had come out for prayer. The Messenger of Allah (ﷺ) with the help of his hand signed to them to complete their prayer. The Messenger of Allah (ﷺ) went back (to his apartment) and drew the curtain. He (the narrator) said:",
+      "text": "Anas b. Malik rivayet etti: Allah'ın Resulü (ﷺ) hastalığı nedeniyle, vefatından önce, onlara namaz kıldırmak için Ebu Bekir'i öne geçirdi. O gün pazartesiydi ve namaz için saf saf dizildiler. Allah'ın Resulü (ﷺ) Aişe'nin dairesinin perdesini araladı ve ayakta dururken bize baktı, yüzü Kuran'ın sayfası gibi parlaktı. Allah'ın Resulü (ﷺ) mutlu oldu ve gülümsedi. Biz, Allah'ın Resulü (ﷺ) aramızda olduğu için namazda sevinçten şaşkınlık içindeydik; Ebu Bekir, Allah'ın Resulü (ﷺ) namaza çıkmış olduğunu görünce, geri adım atarak safın arkasında namaz kılmak istedi. Allah'ın Resulü (ﷺ) elinin işaretiyle onlara namazlarını tamamlamalarını işaret etti. Allah'ın Resulü (ﷺ) geri döndü ve perdenin arkasına geçti. O (rivayet eden) dedi ki: Allah'ın Resulü (ﷺ) o gün vefat etti."
+    },
+    {
+      "id": 107,
+      "narrator": "Anas reported:",
+      "text": "Anas rivayet etti: Allah'ın Resulü (ﷺ) ile (ölümünden önce) son gördüğüm bakış, pazartesi günü perdenin aralandığı zamandı. Salih tarafından rivayet edilen hadis mükemmel ve tamdır."
+    },
+    {
+      "id": 108,
+      "narrator": "",
+      "text": "Bu hadis, Anas b. Malik'in rivayetiyle başka bir isnat zinciri üzerinden aktarılmıştır."
+    },
+    {
+      "id": 109,
+      "narrator": "Anas reported:",
+      "text": "Anas rivayet etti: Allah'ın Resulü (ﷺ) bize üç gün gelmedi. Namaz başlamak üzereyken, Ebu Bekir öne geçti (namazı kıldırmak için) ve Allah'ın Resulü (ﷺ) perdenin arkasını kaldırdı. Allah'ın Resulü (ﷺ) yüzü bize göründüğünde, onun yüzünden daha sevimli bir şey bulamadık. Allah'ın Resulü (ﷺ) elinin işaretiyle Ebu Bekir'e öne geçmesini işaret etti. Allah'ın Resulü (ﷺ) daha sonra perdenin arkasına geçti ve vefat edene kadar onu göremedik."
+    },
+    {
+      "id": 110,
+      "narrator": "Abu Musa reported:",
+      "text": "Ebu Musa rivayet etti: Allah'ın Resulü (ﷺ) hastalandığında ve hastalığı ciddi hale geldiğinde, insanlara namaz kıldırması için Ebu Bekir'i görevlendirdi. Bunun üzerine Aişe şöyle dedi: \"Allah'ın Resulü, Ebu Bekir duygusal bir insandır; senin yerinde durduğunda (o kadar duygulanır ki) insanlara namaz kıldırmakta zorlanır.\" O (Kutsal Peygamber) dedi ki: \"Ebu Bekir'e insanlara namaz kıldırmasını emrediyorsun, ve ekledi: \"Siz Yusuf'un kadın arkadaşları gibisiniz.\" Böylece Ebu Bekir, Allah'ın Resulü (ﷺ) hayatta iken bu hastalık döneminde namaz kıldırdı."
+    },
+    {
+      "id": 111,
+      "narrator": "Sahl b. Sa'd al-Sa'idi reported:",
+      "text": "Sahl b. Sa'd el-Sa'idi rivayet etti: Allah'ın Resulü (ﷺ) Beni Amr b. Auf kabilesine barış sağlamak için gitti ve o sırada namaz vaktiydi. Müezzin Ebu Bekir'e geldi ve dedi: \"Eğer tekbir getirirsem namazı kıldırır mısın?\" Ebu Bekir, \"Evet.\" dedi. O (rivayet eden) dedi ki: Ebu Bekir namaza başladı. İnsanlar namaz kılarken, Allah'ın Resulü (ﷺ) oraya geldi ve insanların arasından geçerek bir safın içine girdi. İnsanlar alkışlamaya başladılar, ancak Ebu Bekir namazda buna dikkat etmedi. İnsanlar daha çok alkışlayınca, Ebu Bekir dikkatini verdi ve Allah'ın Resulü (ﷺ) orada olduğunu gördü. (Geri adım atmaya hazırlanırken) Allah'ın Resulü (ﷺ) ona yerinde kalmasını işaret etti. Ebu Bekir ellerini kaldırdı ve Allah'a, Allah'ın Resulü (ﷺ) ona emrettiği için hamd etti, ardından Ebu Bekir geri adım attı ve safın ortasında durdu, Allah'ın Resulü (ﷺ) öne geçti ve namazı kıldırdı. Namaz bitince, o (Kutsal Peygamber) dedi: \"Ey Ebu Bekir, seni o yerde durmaktan alıkoyan neydi?\" Ebu Bekir dedi: \"Abu Kuhafa'nın oğlu, Allah'ın Resulü (ﷺ) önünde namaz kıldırmayı uygun görmez.\" Allah'ın Resulü (ﷺ) etrafındaki insanlara dedi: \"Neden bu kadar şiddetle alkışladığınızı gördüm? Namazda bir şey olursa, 'Subhanallah' deyin; çünkü bunu söylediğinizde dikkat çekersiniz, alkış ise kadınlar içindir.\""
+    },
+    {
+      "id": 112,
+      "narrator": "This hadith is transmitted by Sahl b. Sa'd in the same way as narrated by Malik, with the exception of these words:",
+      "text": "Bu hadis, Sahl b. Sa'd tarafından Malik'in rivayet ettiği şekilde aktarılmıştır, ancak bu kelimeler hariç: \"Ebu Bekir ellerini kaldırdı ve Allah'a hamd etti ve geri adım atarak safın içine girdi.\""
+    },
+    {
+      "id": 113,
+      "narrator": "Sahl b. Sa'd al-Sa'idi reported:",
+      "text": "Sahl b. Sa'd el-Sa'idi rivayet etti: Allah'ın Resulü (ﷺ) Beni Amr b. 'Auf'a barış sağlamak için gitti. Hadisin geri kalanı aynıdır, ancak bu kelimelerin eklenmesiyle: \"Allah'ın Resulü (ﷺ) geldi ve sıraların arasından geçerek birinci safa geldi ve Ebu Bekir geri adım attı.\""
+    },
+    {
+      "id": 114,
+      "narrator": "Mughira b. Shu'ba reported that he participated In the expedition of Tabuk along with the Messenger of Allah (ﷺ). The Messenger of Allah (ﷺ) went out to answer the call of nature before the morning prayer. and I carried along with him a jar (full of water). When the Messenger of Allah (ﷺ) came back to me (after relieving himself). I began to pour water upon his hands out of the jar and he washed his hands three times, then washed his face three times. He then tried to tuck up the sleeves of his cloak upon his forearms but since the sleeves were tight he inserted his hands in the cloak and then brought out his forearms up to the elbow below the cloak, and then wiped over his shoes and then moved on. Mughira said:",
+      "text": "Mughirah b. Şu'ba rivayet etti: Tabuk seferine Allah'ın Resulü (ﷺ) ile birlikte katıldım. Allah'ın Resulü (ﷺ) sabah namazından önce ihtiyacını gidermek için dışarı çıktı ve ben de onunla birlikte bir su kabı taşıdım. Allah'ın Resulü (ﷺ) geri döndüğünde, ben de onun ellerine su dökmeye başladım ve o ellerini üç kez yıkadı, sonra yüzünü üç kez yıkadı. Daha sonra, elbiselerinin kollarını dirseklerine kadar yukarı kaldırmaya çalıştı, ancak kolları dar olduğu için ellerini elbisesinin içine soktu ve dirseklerine kadar elbiseyi yukarı çekti, ardından ayakkabılarını sildi ve yola devam etti. Mughirah dedi ki: Ben de onunla birlikte insanlara geldiğimde, onların 'Abd al-Rahman b. 'Auf'un imamlığında namaz kıldıklarını gördüm. Allah'ın Resulü (ﷺ) iki rekattan bir rekata yetişti ve insanlarla birlikte son rek'atı kıldı. Abd al-Rahman b. 'Auf selam verdiğinde, Allah'ın Resulü (ﷺ) namazı tamamlamak için ayağa kalktı. Bu, Müslümanları korkuttu ve çoğu Allah'ı tesbih etmeye başladı. Allah'ın Resulü (ﷺ) namazını bitirdiğinde, onlara döndü ve şöyle dedi: \"İyi yaptınız\" veya sevinçle \"Doğru yaptınız, namazınızı vaktinde kıldınız.\""
+    },
+    {
+      "id": 115,
+      "narrator": "This hadith is narrated by Hamza b. Mughira by another chain of trans- mitters (but with the addition of these words):",
+      "text": "Bu hadis, Hamza b. Mughirah tarafından başka bir isnat zinciriyle rivayet edilmiştir (ancak bu kelimelerin eklenmesiyle): \"Abd al-Rahman b. 'Auf'u geri tutmaya karar verdim, ama Allah'ın Resulü (ﷺ) 'Bırak onu' dedi.\""
+    },
+    {
+      "id": 116,
+      "narrator": "Abu Huraira reported:",
+      "text": "Ebu Hureyre rivayet etti: Allah'ın Resulü (ﷺ) dedi: \"Allah'ı tesbih etmek erkekler içindir, alkış ise kadınlar içindir (namazda bir şey olduğunda).\" Harmala, rivayetinde İbn Şihab'ın kendisine şöyle söylediğini ekledi: \"Bazı alimlerin Allah'ı tesbih ettiğini ve bir işaret yaptığını gördüm.\""
+    },
+    {
+      "id": 117,
+      "narrator": "",
+      "text": "Bu hadis, Ebu Hureyre'den başka bir isnat zinciriyle aktarılmıştır."
+    },
+    {
+      "id": 118,
+      "narrator": "",
+      "text": "Bu hadis, Muhammed b. Rafi', Ebu'l-Razzaq, Ma'mar, Hammam aracılığıyla Ebu Hureyre'den, \"namaz\" kelimesinin eklenmesiyle aktarılmıştır."
+    },
+    {
+      "id": 119,
+      "narrator": "Abu Huraira reported:",
+      "text": "Ebu Hureyre rivayet etti: Bir gün Allah'ın Resulü (ﷺ) namaz kıldırdı. Sonra (sahabelerine) dönerek dedi: \"Ey insanlar, neden namazınızı düzgün kılmıyorsunuz? Namazı kılan, namazını kendisi için kıldığını görmüyor mu? Vallahi, ben arkamda gördüğüm gibi önümde de görüyorum.\""
+    },
+    {
+      "id": 120,
+      "narrator": "Abu Huraira reported:",
+      "text": "Ebu Hureyre rivayet etti: Allah'ın Resulü (ﷺ) dedi: \"Sadece Kıble'ye mi bakıyorum? Vallahi, rükû ve secdeleriniz benim gözümden gizli değil. Gerçekten onları arkamdan da görüyorum.\""
+    },
+    {
+      "id": 121,
+      "narrator": "Anas b. Malik reported. The Messenger of Allah (ﷺ) said:",
+      "text": "Anas b. Malik rivayet etti. Allah'ın Elçisi (ﷺ) şöyle dedi: Rükû ve secdeyi güzelce yapın. Vallahi, ben sizi arkamda bile görürüm, ya da şöyle dedi: (Sizi) rükû veya secde ederken arkamda görüyorum."
+    },
+    {
+      "id": 122,
+      "narrator": "Anas reported:",
+      "text": "Anas rivayet etti: Allah'ın Elçisi (ﷺ) şöyle dedi: Rükû ve secdeyi güzelce tamamlayın. Vallahi, ben sizi arkamda, rükû ve secde ettiğinizde nasıl gördüğümü görüyorum."
+    },
+    {
+      "id": 123,
+      "narrator": "Anas reported:",
+      "text": "Anas rivayet etti: Allah'ın Elçisi (ﷺ) bir gün bize namaz kıldırdı. Namazı tamamladıktan sonra yüzünü bize döndü ve şöyle dedi: Ey insanlar, ben sizin İmamınızım, bu yüzden rükû ve secdede, ayakta ve selam verirken beni geçmeyin, çünkü ben sizi önümde ve arkamda görüyorum. Sonra şöyle dedi: Muhammed'in hayatı elinde olan Allah'a yemin ederim ki, eğer benim gördüğümü görebilseydiniz, az güler, çok ağlardınız. Onlar: Ey Allah'ın Elçisi, ne gördünüz? dediler. O: Cennet ve cehennemi gördüm, diye cevap verdi."
+    },
+    {
+      "id": 124,
+      "narrator": "",
+      "text": "Bu hadisi Anas başka bir raviden aktarır ve Jarir'in rivayetinde \"yüz çevirmek\" ifadesi geçmez."
+    },
+    {
+      "id": 125,
+      "narrator": "Abu Huraira reported:",
+      "text": "Ebu Hureyre rivayet etti: Allah'ın Elçisi (ﷺ) şöyle dedi: İmamdan (secde) başını kaldıran adam, Allah'ın onun başını bir eşeğin başına çevireceğinden korkmuyor mu?"
+    },
+    {
+      "id": 126,
+      "narrator": "Abu Huraira reported:",
+      "text": "Ebu Hureyre rivayet etti: Allah'ın Elçisi (ﷺ) şöyle dedi: İmamdan önce başını kaldıran adam, Allah'ın onun yüzünü bir eşeğin yüzüne çevireceğinden korkmuyor mu?"
+    },
+    {
+      "id": 127,
+      "narrator": "This hadith has been narrated by Abu Huraira by another chain of transmitters except for the words narrated by Rabi' b. Muslim:",
+      "text": "Bu hadisi Ebu Hureyre başka bir raviden aktarmıştır, ancak Rabi' b. Müslim'in rivayetinde \"Allah onun yüzünü bir eşeğin yüzü gibi yapabilir\" ifadesi geçmez."
+    },
+    {
+      "id": 128,
+      "narrator": "Jabir b. Samura reported:",
+      "text": "Cabir b. Semura rivayet etti: Allah'ın Elçisi (ﷺ) şöyle dedi: Namazda gökyüzüne bakan insanlar bundan kaçınmalıdır, aksi takdirde gözlerini kaybederler."
+    },
+    {
+      "id": 129,
+      "narrator": "Abu Huraira reported:",
+      "text": "Ebu Hureyre rivayet etti: İnsanlar, namazda dua ederken gökyüzüne bakmaktan kaçınmalıdır, aksi takdirde gözleri alınır."
+    },
+    {
+      "id": 130,
+      "narrator": "Jabir b. Samura reported:",
+      "text": "Cabir b. Semura rivayet etti: Allah'ın Elçisi (ﷺ) bize geldi ve şöyle dedi: \"Nasıl oluyor da ellerinizi inatçı atların kuyrukları gibi kaldırıyorsunuz? Namazda sakin olun.\" O (raviyi) dedi: Sonra tekrar bize geldi ve bizi (daireler halinde) otururken gördü. Dedi ki: \"Nasıl oluyor da sizi ayrı gruplar halinde görüyorum?\" O (raviyi) dedi: Tekrar bize geldi ve şöyle dedi: \"Neden kendinizi Rabbinin huzurunda meleklerin yaptığı gibi saf haline getirmiyorsunuz?\" Biz: Ey Allah'ın Elçisi, melekler Rablerinin huzurunda nasıl saf tutar? dedik. O (Peygamber) dedi: \"Onlar ilk safları tamamlar ve saf içinde birbirine yakın dururlar.\""
+    },
+    {
+      "id": 131,
+      "narrator": "",
+      "text": "Bu hadisi A'maş aynı senedle rivayet etmiştir."
+    },
+    {
+      "id": 132,
+      "narrator": "Jabir b. Samura reported:",
+      "text": "Cabir b. Semura rivayet etti: Allah'ın Elçisi (ﷺ) ile namaz kıldığımızda, \"Selamun Aleyküm ve Allah'ın Rahmeti, selamun aleyküm ve Allah'ın Rahmeti\" diyerek iki yandan el işareti yaptık. Bunun üzerine Allah'ın Elçisi (sallallahu aleyhi ve sellem) şöyle dedi: \"Ellerinizle inatçı atların kuyrukları gibi işaret yapıyorsunuz? Birinin elini uyluğuna koyması ve sonra sağdaki kardeşine selam vermesi, ardından soldaki kardeşine selam vermesi yeterlidir.\""
+    },
+    {
+      "id": 133,
+      "narrator": "Jabir b. Samura reported:",
+      "text": "Cabir b. Semura rivayet etti: Allah'ın Elçisi (ﷺ) ile namaz kıldık ve selam verirken ellerimizle \"Selamun Aleyküm, selamun aleyküm\" diyerek işaret yaptık. Allah'ın Elçisi (ﷺ) bize döndü ve şöyle dedi: \"Neden ellerinizle inatçı atların kuyrukları gibi işaret yapıyorsunuz? Sizden biri namazda selam verdiğinde sadece arkadaşına yüzünü dönecek ve el ile işaret yapmayacaktır.\""
+    },
+    {
+      "id": 134,
+      "narrator": "Abu Mas'ud reported:",
+      "text": "Ebu Mes'ud rivayet etti: Allah'ın Elçisi (sallallahu aleyhi ve sellem) namazda omuzlarımıza dokunur ve şöyle derdi: \"Düz durun, düzensiz olmayın, çünkü kalplerinizde ayrılıklar olur. Sizden sakin ve akıllı olanlar yanımda olsun, sonra onlardan sonra gelenler, sonra onlardan sonra gelenler. Ebu Mes'ud dedi: Günümüzde aranızda çok ayrılık var.\""
+    },
+    {
+      "id": 135,
+      "narrator": "",
+      "text": "Bu hadisi İbn Uyaina aynı senedle rivayet etmiştir."
+    },
+    {
+      "id": 136,
+      "narrator": "Abdullah b. Mas'ud reported:",
+      "text": "Abdullah b. Mes'ud rivayet etti: Allah'ın Elçisi (ﷺ) dedi ki: Sakin ve ihtiyatlı olanlar yanımda olsun, sonra onlara yakın olanlar (bunu üç kez söyledi) ve pazarların gürültüsünden sakının."
+    },
+    {
+      "id": 137,
+      "narrator": "Anas b. Malik reported:",
+      "text": "Enes b. Malik rivayet etti: Allah'ın Elçisi (ﷺ) dedi ki: Sıralarınızı düzeltin, çünkü bir sıranın düzeltilmesi, namazın kemalinden bir parçadır."
+    },
+    {
+      "id": 138,
+      "narrator": "Anas b. Malik reported:",
+      "text": "Enes b. Malik rivayet etti: Allah'ın Elçisi (ﷺ) dedi ki: Sıraları tamamlayın, çünkü ben arkamdan sizi görebiliyorum."
+    },
+    {
+      "id": 139,
+      "narrator": "Hammam b. Munabbih reported:",
+      "text": "Hammam b. Münabbih rivayet etti: Bu, bize Ebu Hureyre tarafından Allah'ın Elçisi (ﷺ) ile aktarılmıştır ve birkaç hadis zikrederken şöyle dedi: (Allah'ın Elçisi bize şöyle talimat verdi): Namazda sıraları kurun, çünkü bir sıranın (düz) yapılması, namazın faziletlerinden biridir."
+    },
+    {
+      "id": 140,
+      "narrator": "Nu'man b. Bashir reported:",
+      "text": "Numan b. Beşir rivayet etti: Allah'ın Elçisi (ﷺ) dedi ki: Sıralarınızı düzeltin, yoksa Allah aranızda ihtilaf yaratır."
+    },
+    {
+      "id": 141,
+      "narrator": "Nu'man b. Bashir reported:",
+      "text": "Numan b. Beşir rivayet etti: Allah'ın Elçisi (sallallahu aleyhi ve sellem) sıralarımızı düzeltirdi, sanki bir ok düzeltir gibi, ta ki bunu ondan öğrendiğimizi görünceye kadar. Bir gün dışarı çıktı, (namaz için) ayakta durdu ve \"Allah en büyüktür\" demek üzereyken, sıradan dışarıda göğsü çıkan bir adam gördü, bu yüzden şöyle dedi: \"Allah'ın kulları, sıralarınızı düzeltin yoksa Allah aranızda ihtilaf yaratır.\""
+    },
+    {
+      "id": 142,
+      "narrator": "",
+      "text": "Ebu Awana bu hadisi aynı rivayet zinciriyle aktardı."
+    },
+    {
+      "id": 143,
+      "narrator": "Abu Huraira reported:",
+      "text": "Ebu Hureyre rivayet etti: Allah'ın Elçisi (ﷺ) dedi ki: Eğer insanlar ezan ve birinci sıradaki faziletin ne olduğunu bilselerdi ve bu fırsatları ancak kura çekerek elde edebileceklerini bilselerdi, kesinlikle bunu yaparlardı. Ve eğer birinci tekbirde (namaza) katılmanın ne kadar faziletli olduğunu bilselerdi, birbirleriyle yarışırlardı. Ve eğer gece namazı ve sabah namazının ne kadar faziletli olduğunu bilselerdi, kesinlikle sürünerek bile gelseydiler."
+    },
+    {
+      "id": 144,
+      "narrator": "Abu Sa'id al-Khudri reported:",
+      "text": "Ebu Sa'id el-Hudri rivayet etti: Allah'ın Elçisi (ﷺ) arkadaşlarının arka tarafa gitme eğilimini görünce onlara şöyle dedi: İleri gelin ve benim peşimi takip edin, ardından gelenler de sizin peşinizi takip etsin. İnsanlar geri durmaya devam edecekler, ta ki Allah onları en arka sıraya koyuncaya kadar."
+    },
+    {
+      "id": 145,
+      "narrator": "Abu Sa'id al-Khudri reported:",
+      "text": "Ebu Sa'id el-Hudri rivayet etti: Allah'ın Elçisi (ﷺ) caminin en arkasında insanları gördü, ardından (yukarıda bahsedilen hadis) nakledildi."
+    },
+    {
+      "id": 146,
+      "narrator": "Abu Huraira reported:",
+      "text": "Ebu Hureyre rivayet etti: Allah'ın Elçisi (ﷺ) dedi ki: Eğer siz bilseydiniz, ya da eğer onlar bilseydi, birinci sıralardaki (fazilet) ne kadar büyükse, (onları doldurmak için) kura çekimi yapılırdı; ve İbn Harb dedi ki: Birinci sırayı (doldurmak için) kura çekimi yapılırdı."
+    },
+    {
+      "id": 147,
+      "narrator": "It was narrated from Abu Huraira that the Messenger of Allah (ﷺ) said:",
+      "text": "Ebu Hureyre'den rivayet edildi ki, Allah'ın Elçisi (ﷺ) dedi ki: Erkekler için en iyi sıralar birinci sıralardır, en kötüleri ise son sıralardır; kadınlar için en iyi sıralar son sıralardır ve en kötüleri ise birinci sıralardır."
+    },
+    {
+      "id": 148,
+      "narrator": "",
+      "text": "Bu hadis, Suhail tarafından aynı rivayet zinciriyle nakledilmiştir."
+    },
+    {
+      "id": 149,
+      "narrator": "Sahl b. Sa'd reported:",
+      "text": "Sahl b. Sa'd rivayet etti: Ben, erkeklerin alt giysilerinin uçlarını boyunlarına bağlayarak, çocuklar gibi, kumaş sıkıntısından dolayı Allah'ın Elçisi (ﷺ) arkasında namaz kıldıklarını gördüm. Bir müezzin şöyle dedi: Ey kadınlar, erkekler başlarını kaldırmadan başlarınızı kaldırmayın."
+    },
+    {
+      "id": 150,
+      "narrator": "Salim narrated it from his father ('Abdullah b. Umar) that the Messenger of Allah (ﷺ) said:",
+      "text": "Salim, babasından (Abdullah b. Ömer) nakletti ki, Allah'ın Elçisi (ﷺ) dedi ki: Kadınlar camiye gitmek için izin istediklerinde, onları engellemeyin."
+    },
+    {
+      "id": 151,
+      "narrator": "Abdullah b. Umar reported:",
+      "text": "Abdullah b. Umar şöyle bildirmiştir: Allah'ın Messenger'ını (ﷺ) şöyle derken duydum: Kadınlarınızın izin istediğinde camiye gitmelerini engellemeyin. Bilal b. Abdullah dedi ki: Vallahi, kesinlikle engelleyeceğiz. Bunun üzerine Abdullah b. Umar ona döndü ve daha önce hiç duymadığım kadar sert bir şekilde onu uyardı. O (Abdullah b. Umar) dedi ki: Ben size Allah'ın Messenger'ından (ﷺ) gelenleri aktarıyorum, siz ise (cesaretle) diyorsunuz ki: Vallahi, kesinlikle engelleyeceğiz."
+    },
+    {
+      "id": 152,
+      "narrator": "Ibn 'Umar reported:",
+      "text": "İbn 'Umar şöyle bildirmiştir: Allah'ın Messenger'ı (ﷺ) dedi ki: Allah'ın kadın kullarını camiye gitmekten engellemeyin."
+    },
+    {
+      "id": 153,
+      "narrator": "lbn Umar reported:",
+      "text": "İbn 'Umar şöyle bildirmiştir: Allah'ın Messenger'ını (ﷺ) şöyle derken duydum: Kadınlarınız camiye gitmek için izin istediklerinde, onlara izin verin."
+    },
+    {
+      "id": 154,
+      "narrator": "Ibn 'Umar reported:",
+      "text": "İbn 'Umar şöyle bildirmiştir: Allah'ın Messenger'ı (ﷺ) dedi ki: Kadınların gece camiye gitmelerini engellemeyin. Bir çocuk Abdullah b. Umar'a dedi ki: Onların dışarı çıkmalarına asla izin vermeyeceğiz, kötü bir duruma düşmesinler. O (rivayet eden) dedi ki: İbn Umar ona sert bir şekilde çıkıştı ve dedi ki: Ben Allah'ın Messenger'ının (ﷺ) bunu söylediğini söylüyorum, ama sen diyorsun ki: Biz izin vermeyeceğiz!"
+    },
+    {
+      "id": 155,
+      "narrator": "",
+      "text": "Bu hadisi A'maş, aynı isnatla rivayet etmiştir."
+    },
+    {
+      "id": 156,
+      "narrator": "Ibn 'Umar reported:",
+      "text": "İbn 'Umar şöyle bildirmiştir: Kadınların gece camiye gitmelerine izin verin. Oğluna Waqid denirdi, dedi ki: O zaman onlar fitne çıkaracaklar. O (rivayet eden) dedi ki: Oğlunun göğsüne vurdu ve dedi ki: Ben size Allah'ın Messenger'ının (ﷺ) hadisini aktarıyorum, sen ise diyorsun ki: Hayır!"
+    },
+    {
+      "id": 157,
+      "narrator": "Ibn Umar reported:",
+      "text": "İbn 'Umar şöyle bildirmiştir: Allah'ın Messenger'ı (ﷺ) dedi ki: Kadınları camilerden mahrum etmeyin, izin istediklerinde. Bilal dedi ki: Vallahi, kesinlikle engelleyeceğiz. Abdullah dedi ki: Ben Allah'ın Messenger'ının (ﷺ) bunu söylediğini söylüyorum, sen ise diyorsun ki: Kesinlikle engelleyeceğiz!"
+    },
+    {
+      "id": 158,
+      "narrator": "Zainab Thaqafiya reported:",
+      "text": "Zeynep bint Thaqafi şöyle bildirmiştir: Allah'ın Messenger'ı (ﷺ) dedi ki: Sizden herhangi bir kadın 'İsha' namazına katıldığında, o gece parfüm sürmemelidir."
+    },
+    {
+      "id": 159,
+      "narrator": "Zainab, the wife of Abdullah (b. 'Umar), reported:",
+      "text": "Abdullah b. 'Umar'ın eşi Zeynep şöyle bildirmiştir: Allah'ın Messenger'ı (ﷺ) bize dedi ki: Sizden herhangi bir kadın camiye geldiğinde, parfüm sürmemelidir."
+    },
+    {
+      "id": 160,
+      "narrator": "Abu Huraira said:",
+      "text": "Ebu Hureyre dedi ki: Allah'ın Messenger'ı (ﷺ) dedi ki: Kim (kadın) parfüm sürerse, 'İsha' namazına katılmasın."
+    },
+    {
+      "id": 161,
+      "narrator": "'Amra, daughter of Abd al-Rahmin, reported:",
+      "text": "Amra bint Abd al-Rahman şöyle bildirmiştir: Ben Aişe'yi, Allah'ın Messenger'ının (ﷺ) eşi, şöyle derken duydum: Eğer Allah'ın Messenger'ı (ﷺ) kadınların (hayatlarına) kattığı yeni şeyleri görseydi, kesinlikle onları camiye gitmekten men ederdi, tıpkı Beni İsrail kadınlarının men edildiği gibi."
+    },
+    {
+      "id": 162,
+      "narrator": "",
+      "text": "Bu hadisi Yahya b. Sa'id, aynı isnatla rivayet etmiştir."
+    },
+    {
+      "id": 163,
+      "narrator": "Ibn 'Abbas reported:",
+      "text": "İbn 'Abbas şöyle bildirmiştir: (Allah) Azim ve Celil'in kelamı: \"Ve namazını ne yüksek sesle oku, ne de alçak sesle\" (İsra, 110) ayeti, Allah'ın Messenger'ı (sallallahu aleyhi ve sellem) Mekke'de gizlendiği sırada nazil olmuştur. O, arkadaşlarına namaz kıldırdığında sesini yükseltiyordu (Kur'an'ı okurken). Müşrikler bunu duyduğunda, Kur'an'a ve onu indiren Allah'a ve getiren kişiye sövdüler. Bunun üzerine Allah, Yüce, Elçisine (ﷺ) dedi: Namazını o kadar yüksek sesle okuma ki, müşrikler senin tilavetini işitebilsin ve (okumayı) o kadar alçak sesle de okuma ki, arkadaşların duyamasın. Onlara Kur'an'ı duyur, ama yüksek sesle okuma ve bu ikisi arasında bir orta yol tut. Yüksek ve alçak ses arasında oku."
+    },
+    {
+      "id": 164,
+      "narrator": "'A'isha reported that so far as these words of (Allah) Glorious and High are concerned:",
+      "text": "Aişe, (Allah) Azim ve Celil'in şu kelimeleri hakkında şöyle bildirmiştir: \"Ve namazını ne yüksek sesle oku, ne de alçak sesle\" (İsra, 110) dua (du'a) ile ilgilidir."
+    },
+    {
+      "id": 165,
+      "narrator": "",
+      "text": "Bu hadisi Hişam, aynı isnatla rivayet etmiştir."
+    },
+    {
+      "id": 166,
+      "narrator": "Ibn 'Abbas reported with regard to the words of Allah, Great and Glorious:",
+      "text": "İbn Abbas, Allah'ın, Azîz ve Celil olan, \"Ona dilini hareket ettirme\" (İnşirah, 16) ayeti hakkında şöyle bildirmiştir: Cebrail, vahyi getirdiğinde (Peygamber Efendimiz) dilini ve dudaklarını hareket ettirdi (onu hemen ezberlemek için). Bu onun için zor bir şeydi ve yüzünden belli oluyordu. Sonra Allah, Yüce, bu ayeti indirdi: \"Ona dilini hareket ettirme, acele etme. Şüphesiz onu toplamak ve okumak bize aittir\" (İnşirah, 16), yani: Gerçekten onu kalbinde korumak ve (sana) okuma yeteneği vermek bize aittir. Onu biz okuduğumuzda sen de onu okuyacaksın ve onun okunuşunu takip edeceksin. O (Allah) dedi ki: \"Biz onu indirdik, o halde dikkatlice dinleyin. Şüphesiz onun tefsiri bize aittir.\" Yani, onu senin dilinle ifade edeceğiz. Cebrail, Peygamber Efendimize geldiğinde, o sessiz kaldı ve Cebrail gittiğinde, Allah'ın ona vaat ettiği gibi okudu."
+    },
+    {
+      "id": 167,
+      "narrator": "Ibn Abbas reported with regard to the words:",
+      "text": "İbn Abbas, \"Ona dilini hareket ettirme, acele etme\" sözleri hakkında şöyle bildirmiştir: Allah'ın Elçisi (ﷺ) bunu zor buldu ve dudaklarını hareket ettirdi. İbn Abbas bana (Sa'id b. Jubair) dedi: Ben de tıpkı Allah'ın Elçisi (ﷺ) gibi hareket ettiriyorum. Sa'id dedi: Ben de tıpkı İbn Abbas gibi hareket ettiriyorum ve dudaklarını hareket ettirdi. Allah, Yüce, bu ayeti indirdi: \"Ona dilini hareket ettirme, acele etme. Onu toplamak ve okumak bize aittir\" (Kur'an, İnşirah, 16). O dedi: Kalbinde korunması ve sonra okuman. Biz onu okuduğumuzda, sen de onun okunuşunu takip et. O dedi: Dinleyin ve sessiz olun, sonra onu okumanız bize aittir. Cebrail, Allah'ın Elçisi (ﷺ) geldiğinde, onu dikkatlice dinledi ve Cebrail gittiğinde, Allah'ın Elçisi (ﷺ) onun okuduğu gibi okudu."
+    },
+    {
+      "id": 168,
+      "narrator": "Ibn 'Abbas reported:",
+      "text": "İbn Abbas bildirdi: Allah'ın Elçisi (ﷺ) ne Cinlere Kur'an okudu ne de onları gördü. Allah'ın Elçisi (ﷺ) bazı Sahabeleriyle 'Ukaz pazarına gitmek üzere dışarı çıktı. O zaman, şeytanlarla gökyüzü arasındaki haberler arasında engeller oluşmuştu ve onlara alevler atılmıştı. Şeytan kendi kavmine döndü ve dediler: Size ne oldu? Onlar: Bizimle gökyüzü arasındaki haberler arasında engeller oluştu. Üzerimize alevler atıldı, dediler. Onlar: Bu, önemli bir olaydan başka bir şey olamaz. O halde, doğudaki ve batıdaki yerleri dolaşın ve gökyüzü ile aramızda neden engeller oluştuğunu öğrenin. Böylece yola çıktılar ve doğu ve batı taraflarını dolaştılar. Bazıları Tihama'ya doğru gitti ve o, 'Ukaz pazarına giden bir nakhl (hurma ağacı)ydı ve o (Peygamber Efendimiz) sabah namazında arkadaşlarına imamlık ediyordu. Kur'an'ı duyduklarında, dikkatlice dinlediler ve dediler: İşte bu, bizimle gökyüzü arasındaki haberler arasında engel olan şeydir. Kavmine döndüler ve dediler: Ey kavmimiz, doğru yola yönlendiren garip bir Kur'an dinledik; ona iman ediyoruz ve asla Rabbimizle kimseyi ortak koşmayacağız. Ve Allah, Yüce ve Celil, Elçisi Muhammed'e (ﷺ) şöyle vahyetti: \"Bana, bir grup Cin'in onu dinlediği vahyedildi\" (Kur'an, 72:1)."
+    },
+    {
+      "id": 169,
+      "narrator": "Dawud reported from 'Amir who said:",
+      "text": "Davud, Amir'den rivayet etti ki, ben 'Alqama'ya, İbn Mes'ud'un Allah'ın Elçisi (ﷺ) ile Cinlerin gecesinde (Peygamberin onlarla buluştuğu gece) olup olmadığını sordum. O (İbn Mes'ud) dedi: Hayır, ama bir gece Allah'ın Elçisi (ﷺ) ile birlikteydik ve onu kaybettik. Vadilerde ve tepelerde onu aradık ve dedik: Ya Cinler tarafından alındı ya da gizlice öldürüldü. O (rivayet eden) dedi: İnsanların geçirebileceği en kötü geceyi geçirdik. Şafak vakti, Hiri' tarafında geldiğini gördük. O (rivayet eden) bildirdi: Dedik: Ey Allah'ın Elçisi, seni kaybettik ve seni aradık ama bulamadık ve insanların geçirebileceği en kötü geceyi geçirdik. O (Peygamber Efendimiz) dedi: Cinler adına bana bir davetçi geldi ve onunla birlikte gittim ve onlara Kur'an okudum. O (rivayet eden) dedi: Sonra bizimle birlikte gitti ve onların izlerini ve kömürlerinin izlerini gösterdi. Onlar (Cinler) Allah'ın Elçisine (ﷺ) rızıkları hakkında sordular ve o dedi: \"Üzerinde Allah'ın adı anılan her kemik sizin rızkınızdır. Elinize düştüğünde etle kaplı olacaktır ve (develerin) dışkısı hayvanlarınız için yemdir.\" Allah'ın Elçisi (ﷺ) dedi: \"Bunlarla istinca etmeyin, çünkü bunlar kardeşlerinizin (Cinlerin) yiyeceğidir.\""
+    },
+    {
+      "id": 170,
+      "narrator": "This hadith has been reported by Dawud with the same chain of transmitters up to the word (s):",
+      "text": "Bu hadisi Davud, \"Onların kömür izleri\" sözlerine kadar aynı isnatla rivayet etmiştir. Şa'bi dedi ki: Onlar (Cinler) rızıkları hakkında sordular ve bunlar Cezire Cinleridir, hadisin sonuna kadar ve Şa'bi'nin sözleri Abdullah'ın hadisiyle doğrudan aktarılmıştır."
+    },
+    {
+      "id": 171,
+      "narrator": "This hadith has been narrated on the authority of 'Abdullah from the Apostle (ﷺ) up to the words:",
+      "text": "Bu hadisi 'Abdullah'dan, Elçi (ﷺ) üzerinden \"Kömür izleri\" sözlerine kadar rivayet edilmiştir, ancak sonrasını zikretmemiştir."
+    },
+    {
+      "id": 172,
+      "narrator": "Abdullah (b. Mas'ud) said:",
+      "text": "Abdullah (b. Mes'ud) dedi: Ben Allah'ın Elçisi (ﷺ) ile değildim ama onunla olmayı çok isterdim."
+    },
+    {
+      "id": 173,
+      "narrator": "Ma'n reported.. I heard it from my father who said:",
+      "text": "Ma'n bildirdi... Babamdan duydum ki: Ben Masruq'a, Allah'ın Elçisine (ﷺ) Kur'an'ı duydukları geceyi kimin bildirdiğini sordum. O dedi ki: Senin baban, İbn Mes'ud, bana bunun hakkında bir ağaç bildirdi."
+    },
+    {
+      "id": 174,
+      "narrator": "Abu Qatada reported:",
+      "text": "Ebu Katade bildirdi: Allah'ın Elçisi (ﷺ) bize namaz kıldırdı ve öğle ve ikindi namazlarının ilk iki rekatında Fatiha Suresi ve iki (başka) sure okudu. Bazen ayetleri bize duyuracak kadar yüksek sesle okurdu. İlk rekatı ikinci rekatından daha uzun tutardı. Sabah namazında da benzer şekilde hareket ederdi."
+    },
+    {
+      "id": 175,
+      "narrator": "Abu Qatada reported it on the authority of his father:",
+      "text": "Ebu Katade, babası aracılığıyla bildirdi: Allah'ın Elçisi (ﷺ) öğle ve ikindi namazlarının ilk iki rekatında kitabın açılış bölümünü ve başka bir sureyi okurdu. Bazen ayetleri bize duyuracak kadar yüksek sesle okurdu ve son iki rekatında sadece Fatiha Suresi okurdu."
+    },
+    {
+      "id": 176,
+      "narrator": "Abu Sa'id al-Khudri reported:",
+      "text": "Ebu Said el-Hudri bildirdi: Biz, Allah'ın Elçisi (ﷺ) öğle ve ikindi namazlarında ne kadar süre ayakta durduğunu tahmin ederdik ve ilk iki rekatta Alif Lam Mim, Tanzil, yani as-Secde'yi okumak için durduğu süreyi tahmin ederdik. Son iki rekatta bu sürenin yarısı kadar durduğunu tahmin ederdik; ikindinin ilk iki rekatında da öğlenin son iki rekatında durduğu kadar durduğunu ve ikindinin son iki rekatında bu sürenin yarısı kadar durduğunu tahmin ederdik. Ebu Bekir, rivayetinde Alif Lam Mim, Tanzil'den bahsetmemiş, ancak otuz ayet okumak için durduğu kadar süre dedi."
+    },
+    {
+      "id": 177,
+      "narrator": "Abu Sa'id al-Khudri reported:",
+      "text": "Ebu Said el-Hudri bildirdi: Allah'ın Elçisi (ﷺ) öğle namazının ilk iki rekatında her rekatta yaklaşık otuz ayet okurdu ve son iki rekatta on beş ayet veya (ilk rekatın) yarısı kadar ve ikindi namazının ilk iki rekatında her rekatta on beş ayet okurdu ve son iki rekatta da ilk rekatların yarısı kadar."
+    },
+    {
+      "id": 178,
+      "narrator": "Jabir b. Samura reported:",
+      "text": "Cabir b. Semura bildirdi: Kufe halkı, Ömer b. Hattab'a Sa'd hakkında şikayette bulundular ve onun namazından bahsettiler. Ömer onu çağırdı. O (Ömer) ona, insanların namazını beğenmediğini söyledi. O dedi: Ben onları Allah'ın Elçisi (ﷺ) namazına uygun olarak kıldırıyorum. İçinde herhangi bir eksiklik yok. İlk iki (rekatta) daha uzun duruyorum ve son iki rekatta kısaltıyorum. Bunun üzerine Ömer şöyle dedi: Bu, senin hakkında düşündüğüm şeydi, Ey Ebu İshak."
+    },
+    {
+      "id": 179,
+      "narrator": "",
+      "text": "Bu hadisi Ebu el-Malik, aynı isnatla rivayet etmiştir."
+    },
+    {
+      "id": 180,
+      "narrator": "Jabir b. Samura reported:",
+      "text": "Cabir b. Semura bildirdi: Ömer, Sa'd'a dedi: Her konuda, hatta namazda bile sana şikayette bulunuyorlar. O (Sa'd) dedi: İlk iki (rekatta) uzun duruyorum ve son iki rekatta kısaltıyorum ve Allah'ın Elçisi (ﷺ) namazına uymakta hiçbir ihmalim yok. O (Ömer) şöyle dedi: Bu, senden beklenen bir şeydir ya da, bu senin hakkında düşündüğüm şeydir."
+    },
+    {
+      "id": 181,
+      "narrator": "This hadith is narrated by Jabir b. Samura but with the addition of these words:",
+      "text": "Bu hadis, Jabir b. Samura tarafından rivayet edilmiştir, ancak şu sözlerin eklenmesiyle: \"(Sa'd dedi): Bu bedeviler bana namaz öğretmeye kalkışıyorlar.\""
+    },
+    {
+      "id": 182,
+      "narrator": "Abu Sa'id al-Khudri reported:",
+      "text": "Abu Sa'id al-Khudri bildirdi: Öğle namazı başlardı ve biri al-Baqi'ye giderdi, ihtiyacını giderdikten sonra abdest alır ve gelirken, Allah'ın Resulü (ﷺ) birinci rek'atında olurdu, çünkü onu çok uzatırdı."
+    },
+    {
+      "id": 183,
+      "narrator": "Qaz'a reported:",
+      "text": "Qaz'a bildirdi: Abu Sa'id al-Khudri'ye geldim ve etrafında insanlar vardı. İnsanlar ondan ayrıldığında, ben: Bu insanların sana sorduğu şeyleri sormayacağım, Allah'ın Resulü'nün (ﷺ) namazı hakkında sormak istiyorum, dedim. O (Abu Sa'id) dedi ki: Bununla senin için hayır yok. Ancak o (Qaz'a) talebini tekrarladı. Sonra dedi ki: Öğle namazı başlardı ve bizden biri Baqi'ye giderdi, ihtiyacını giderdikten sonra evine gelir, abdest alır ve camiye giderdi, ve (orada) Allah'ın Resulü (ﷺ) birinci rek'atında bulurdu."
+    },
+    {
+      "id": 184,
+      "narrator": "Abdullah b. Sa'id reported:",
+      "text": "Abdullah b. Sa'id bildirdi: Allah'ın Resulü (ﷺ) bize Mekke'de sabah namazını kıldırdı ve Müminlerin Suresi'ni (xxiii) okumaya başladı, ancak Musa ve Harun'un (ayet 45) veya İsa'nın (ayet 50) anıldığı yere geldiğinde, bir öksürük onu etkisi altına aldı ve rükûya gitti. Orada Abdullah b. Sa'ib de vardı ve Abd al-Razzaq tarafından rivayet edilen hadiste (sözler şunlardır): Okumayı kesti ve rükûya gitti."
+    },
+    {
+      "id": 185,
+      "narrator": "'Amr b. Huwairith reported:",
+      "text": "'Amr b. Huwairith bildirdi: Allah'ın Resulü'nün (ﷺ) sabah namazında \"Ve geceye yemin ederim ki\" (ixxxi. 17) okuduğunu duydum."
+    },
+    {
+      "id": 186,
+      "narrator": "Qutba b. Malik reported:",
+      "text": "Qutba b. Malik bildirdi: Namaz kıldım ve Allah'ın Resulü (ﷺ) bunu kıldırdı ve \"Kaf. (I.). Şanlı Kur'an'a yemin ederim\" diyerek okumaya başladı, \"ve uzun hurma ağaçları\" (l. 10) ayetine kadar okudu. Tekrar etmek istedim ama anlamını takip edemedim."
+    },
+    {
+      "id": 187,
+      "narrator": "Qutba b. Malik reported that he had heard the Messenger of Allah (ﷺ) reciting in the morning prayer this:",
+      "text": "Qutba b. Malik, Allah'ın Resulü'nün (ﷺ) sabah namazında şu ayeti okuduğunu bildirdi: \"Ve uzun hurma ağaçları, çiçek salkımları üst üste yığılmış\" (Al-Qur'an 50:10)."
+    },
+    {
+      "id": 188,
+      "narrator": "Ziyad b. 'Ilaqa reported it on the authority of his uncle that he said the morning prayer with the Messenger of Allah (ﷺ) and he recited in the first rak'ah:",
+      "text": "Ziyad b. 'Ilaqa, amcasından rivayet etti ki, Allah'ın Resulü (ﷺ) ile sabah namazını kıldı ve birinci rek'atta \"Ve uzun hurma ağaçları, çiçek salkımları üst üste yığılmış\" (l. 10) veya belki de Surah Kaf okudu."
+    },
+    {
+      "id": 189,
+      "narrator": "Jabir b. Samura reported:",
+      "text": "Jabir b. Samura bildirdi: Allah'ın Resulü (ﷺ) sabah namazında \"Kaf. Şanlı Kur'an'a yemin ederim\" okurdu ve namazı sonrasında kısaltırdı."
+    },
+    {
+      "id": 190,
+      "narrator": "Simak asked Jabir b. Samura about the prayer of the Apostle (ﷺ). He said:",
+      "text": "Simak, Jabir b. Samura'ya Resul'ün (ﷺ) namazı hakkında sordu. O dedi ki: O (Peygamber) namazı kısaltırdı ve o zaman bu insanlar gibi namaz kılmazdı, ve bana Allah'ın Resulü'nün (ﷺ) \"Kaf. Şanlı Kur'an'a yemin ederim\" okuduğunu ve benzer uzunlukta bir pasaj okuduğunu bildirdi."
+    },
+    {
+      "id": 191,
+      "narrator": "Jabir b. Samura reported:",
+      "text": "Jabir b. Samura bildirdi: Allah'ın Resulü (ﷺ) öğle namazında \"Geceye yemin ederim ki\" (xcii.) okurdu ve ikindi namazında da böyle, ancak sabah namazını (öğle ve ikindi namazlarına kıyasla) uzatırdı."
+    },
+    {
+      "id": 192,
+      "narrator": "Jabir b. Samura reported:",
+      "text": "Jabir b. Samura bildirdi: Allah'ın Resulü (ﷺ) öğle namazında \"Sabah namazında en yüce Rabbinin adını tesbih et\" (lxxxvii.) ayetini daha uzun okurdu."
+    },
+    {
+      "id": 193,
+      "narrator": "Abu Barza reported:",
+      "text": "Abu Barza bildirdi: Allah'ın Resulü (ﷺ) sabah namazında altmış ile yüz ayet arasında okurdu."
+    },
+    {
+      "id": 194,
+      "narrator": "Abu Barza Aslami reported:",
+      "text": "Abu Barza Aslami bildirdi: Allah'ın Resulü (ﷺ) sabah namazında altmış ile yüz ayet arasında okurdu."
+    },
+    {
+      "id": 195,
+      "narrator": "Ibn Abbas reported:",
+      "text": "İbn Abbas bildirdi: Umm al-Fadl, al-Harith'in kızı, onun \"İyiliği yaymak için gönderilenlere yemin ederim\" (lxxvii.) ayetini okuduğunu duydu. (Bunun üzerine) o şöyle dedi: Ey oğlum, bu sureyi okuduğunla bana hatırlattın, bu, Allah'ın Resulü'nden (ﷺ) duyduğum son sureydi ve o, akşam namazında bunu okumuştu."
+    },
+    {
+      "id": 196,
+      "narrator": "This hadith has been narrated by Zuhri with the same chain of transmitters but with this addition:",
+      "text": "Bu hadis, Zuhri tarafından aynı nakil zinciriyle ancak şu eklemeyle rivayet edilmiştir: \"Ve o, bundan sonra ölümüne kadar oyuncuyu yönetmedi.\""
+    },
+    {
+      "id": 197,
+      "narrator": "Jubair b. Mut'im reported:",
+      "text": "Cübeyir b. Mut'im bildirdi: Allah'ın Elçisi (ﷺ) akşam namazında Tur Suresi'ni (lii) okuduğunu duydum."
+    },
+    {
+      "id": 198,
+      "narrator": "",
+      "text": "Bu hadis, Zuhri tarafından aynı nakil zinciriyle rivayet edilmiştir."
+    },
+    {
+      "id": 199,
+      "narrator": "'Adi reported:",
+      "text": "'Adi bildirdi: Al-Bara'ı, Allah'ın Elçisi (ﷺ) tarafından bir yolculukta gece namazı kılarken ve iki rek'atından birinde: \"İncir ve Zeytin'e\" (Süre xcv.) okuduğunu duydum."
+    },
+    {
+      "id": 200,
+      "narrator": "Al-Bara' b. 'Azib reported that he said prayer with the Messenger of Allah (ﷺ) and he recited:",
+      "text": "Al-Bara' b. 'Azib, Allah'ın Elçisi (ﷺ) ile namaz kıldığını ve \"İncir ve Zeytin'e\" okuduğunu bildirdi."
+    },
+    {
+      "id": 201,
+      "narrator": "Al-Bara' b. 'Azib reported:",
+      "text": "Al-Bara' b. 'Azib bildirdi: Allah'ın Elçisi (ﷺ) gece namazında \"İncir ve Zeytin'e\" okudu ve ondan daha güzel bir ses duymadım."
+    },
+    {
+      "id": 202,
+      "narrator": "Jabir reported that Mu'adh b. Jabal used to pray with the Apostle (ﷺ), then came and led his people in prayer. One night he said the night prayer with the Messenger of Allah (ﷺ). He then came to his people and led them in prayer beginning with Surat al-Baqara. A man turned aside, pronounced the taslim (salutation for concluding the prayer), then prayed alone and departed. The people said to him:",
+      "text": "Cabir bildirdi ki, Mu'adh b. Cebel, Elçi (ﷺ) ile namaz kılıyordu, sonra geldi ve halkını namaza yönetti. Bir gece Allah'ın Elçisi (ﷺ) ile gece namazı kıldı. Sonra halkına geldi ve onlara namaza başlarken Bakara Suresi ile başladı. Bir adam yan tarafa döndü, selam verdi (namazı bitirirken), sonra yalnız başına namaz kıldı ve ayrıldı. Halk ona: \"Sen münafık mı oldun?\" dediler. O da: \"Allah'a yemin ederim ki olmadım, ama kesinlikle Allah'ın Elçisi (ﷺ) yanına gideceğim ve bunu ona bildireceğim.\" dedi. Sonra Allah'ın Elçisi (ﷺ) yanına geldi ve şöyle dedi: \"Allah'ın Elçisi, biz sulama için kullanılan develere bakıyoruz ve gündüz çalışıyoruz. Mu'adh seninle gece namazı kıldı. Sonra geldi ve Bakara Suresi ile başladı.\" Allah'ın Elçisi (ﷺ) Mu'adh'a döndü ve şöyle dedi: \"İnsanları denemek için mi oradasın? Şunu oku ve şunu oku (ve şu sureyi).\" Cabir'den, Sufyan'ın rivayetine göre, O (Peygamber) şöyle demiştir: \"Güneş ve onun sabah aydınlığına\" (Süre xci), \"Aydınlığa\" (Süre xciii), \"Gece yayıldığında\" (Süre xcii) ve \"Yüce Rabb'inin adını tesbih et\" (Süre lxxxii)."
+    },
+    {
+      "id": 203,
+      "narrator": "Jabir reported:",
+      "text": "Cabir bildirdi: \"Mu'adh b. Cebel el-Ensari, gece namazında arkadaşlarını uzattı. İçimizden bir kişi (cemaatten ayrılarak) namaz kıldı. Mu'adh buna dair bilgi aldı ve onun münafık olduğunu belirtti. Bu (yorum) adama iletildiğinde, o da Allah'ın Elçisi (ﷺ) yanına gitti ve Mu'adh'ın söylediklerini ona bildirdi. Bunun üzerine Allah'ın Elçisi (ﷺ) ona şöyle dedi: \"Mu'adh, insanları denemek mi istiyorsun? İnsanları namaza yönettiğinde, 'Güneş ve onun sabah aydınlığına' (Süre ash-Shams), 'Yüce Rabb'inin adını tesbih et' (Süre al-A`la) ve 'Rabbinin adıyla oku' (Süre al-`Alaq) ve 'Gece yayıldığında' (Süre al-Lail) oku.\""
+    },
+    {
+      "id": 204,
+      "narrator": "Jabir b. 'Abdullah reported:",
+      "text": "Cabir b. Abdullah bildirdi: Mu'adh b. Cebel, Allah'ın Elçisi (ﷺ) ile gece namazı kıldı ve sonra halkına geri döndü ve onları bu namazda yönetti."
+    },
+    {
+      "id": 205,
+      "narrator": "Jabir b. Abdullah reported:",
+      "text": "Cabir b. Abdullah bildirdi: Mu'adh, Allah'ın Elçisi (ﷺ) ile gece namazı kıldı. Sonra halkının camisine geldi ve onlara namaz kıldırdı."
+    },
+    {
+      "id": 206,
+      "narrator": "Abu Mas'ud al-Ainsari reported:",
+      "text": "Ebu Mes'ud el-Ensari bildirdi: Bir kişi Allah'ın Elçisi (ﷺ) yanına geldi ve şöyle dedi: \"Ben, sabah namazından uzak duruyorum, çünkü o (şu kişi) bizi çok uzun tutuyor.\" O gün Allah'ın Elçisi (ﷺ) vaaz verirken hiç bu kadar öfkeli görmedim. Dedi ki: \"Ey insanlar, bazılarınız insanları korkutuyor. Sizden biri insanları namaza yönettiğinde, kısa tutmalıdır; çünkü arkasında zayıf, yaşlı ve acil işleri olan insanlar var.\""
+    },
+    {
+      "id": 207,
+      "narrator": "",
+      "text": "Bu hadis, Hashalm tarafından rivayet edilen bir hadis gibi, İsmail'den aynı nakil zinciriyle rivayet edilmiştir."
+    },
+    {
+      "id": 208,
+      "narrator": "Abu Huraira reported:",
+      "text": "Ebu Hureyre bildirdi: Allah'ın Elçisi (ﷺ) dedi ki: \"Sizden biri insanları namaza yönettiğinde, kısa tutmalıdır; çünkü aralarında gençler, yaşlılar, zayıflar ve hastalar vardır. Ama sizden biri yalnız başına namaz kılarsa, istediği kadar uzatabilir.\""
+    },
+    {
+      "id": 209,
+      "narrator": "Hammam b. Munabbih reported:",
+      "text": "Hammam b. Munabbih bildirdi: Bu, Ebu Hureyre'nin bize Muhammed Allah'ın Elçisi (ﷺ) üzerinden aktardığıdır ve (bu rivayetlerden bazılarını) anlattı ve bunlardan biri şudur: Allah'ın Elçisi (ﷺ) dedi ki: \"Sizden biri insanları namaza yönettiğinde, onu kısaltmalıdır; çünkü aralarında yaşlılar vardır ve aralarında zayıflar vardır, ama yalnız başına namaz kılarsa, istediği kadar uzatabilir.\""
+    },
+    {
+      "id": 210,
+      "narrator": "Abu Huraira reported:",
+      "text": "Ebu Hureyre bildirdi: Allah'ın Elçisi (ﷺ) dedi ki: \"Sizden biri insanları namaza yönettiğinde, onu kısaltmalıdır; çünkü aralarında zayıflar, hasta olanlar ve işleri olanlar vardır.\""
+    },
+    {
+      "id": 211,
+      "narrator": "",
+      "text": "Ebu Bekir b. Abd al-Rahman, Ebu Hureyre'den, Allah'ın Elçisi (ﷺ) şöyle söylediğini duyduğunu bildirdi: \"Yaşlılar\" kelimesini \"hasta\" kelimesi yerine kullandı."
+    },
+    {
+      "id": 212,
+      "narrator": "Uthman b. Abu'l-'As at-Thaqafi reported:",
+      "text": "Osman b. Ebu'l-As et-Thağafi bildirdi: Allah'ın Elçisi (ﷺ) ona şöyle dedi: Halkını namaza yönlendir. Ben dedim ki: Allah'ın Elçisi, içimde bir şey (rahatsız edici) hissediyorum. O (Kutsal Peygamber) beni yanına çağırdı, önümde oturttu ve elini göğsüme, meme uçlarımın arasına koydu. Sonra, dönmemi söyleyerek elini sırtıma, omuzlarımın arasına koydu. Sonra dedi ki: Halkın imamı ol. Halkın imamı olan, kısa olmalıdır; çünkü aralarında yaşlılar, hastalar, zayıflar ve işleri olan insanlar vardır. Ama sizden biri yalnız başına namaz kılarsa, istediği gibi kılabilir."
+    },
+    {
+      "id": 213,
+      "narrator": "Uthman b. Abu'l-'As reported:",
+      "text": "Osman b. Ebu'l-As bildirdi: Allah'ın Elçisi (ﷺ) bana son olarak şunu emretti: İnsanları namaza yönlendirirken kısa ol."
+    },
+    {
+      "id": 214,
+      "narrator": "Anas reported:",
+      "text": "Enes bildirdi: Allah'ın Elçisi (ﷺ) namazda kısa ve mükemmel olurdu."
+    },
+    {
+      "id": 215,
+      "narrator": "Anas reported:",
+      "text": "Enes bildirdi: Allah'ın Elçisi (ﷺ) namazı kısa ve mükemmel olanlardandı."
+    },
+    {
+      "id": 216,
+      "narrator": "Anas reported:",
+      "text": "Enes bildirdi: Allah'ın Elçisi (ﷺ) arkasında namaz kıldığım en kısa ve en mükemmel imamdan daha fazlasını görmedim."
+    },
+    {
+      "id": 217,
+      "narrator": "Anas reported:",
+      "text": "Enes bildirdi: Allah'ın Elçisi (ﷺ), bir çocuğun annesiyle birlikte ağladığını namazda duyduğunda, kısa bir sure veya küçük bir sure okurdu."
+    },
+    {
+      "id": 218,
+      "narrator": "Anas b. Malik reported the Messenger of Allah (ﷺ) having said:",
+      "text": "Enes b. Malik, Allah'ın Elçisi (ﷺ) şöyle dediğini bildirdi: Namaza başladığımda onu uzun tutmayı niyet ederim, ama bir çocuğun ağladığını duyarım; o zaman annesinin duyguları nedeniyle onu kısaltırım."
+    },
+    {
+      "id": 219,
+      "narrator": "Al-Bara' b. 'Azib reported:",
+      "text": "El-Bara' b. Azib bildirdi: Muhammed'in (ﷺ) namazını izledim ve Kıyam'ını (ayakta duruşunu), rükûsunu, rükûdan sonra tekrar ayakta duruşunu, secdesini, iki secde arasındaki oturuşunu ve selamdan sonra secdesini ve oturuşunu, bunların hepsinin birbirine yakın olduğunu gördüm."
+    },
+    {
+      "id": 220,
+      "narrator": "Hakam reported:",
+      "text": "Hakam bildirdi: Kufa'da Zaman b. el-Aş'ath adında bir adam hâkimiyet sürüyordu; o, Ebu Ubeyde b. Abdullah'a insanları namaza yönlendirmesini emretti ve o da buna göre insanları yönlendiriyordu. Rükûdan sonra başını kaldırdığında, benim bu duayı okuyabileceğim kadar ayakta duruyordu: \"Ey Allah! Rabbimiz! Sana, gökleri ve yeri dolduracak övgü, ve bunların dışında hoşnut olacağın her şeyle hamd olsun. Sen her türlü övgü ve yüceliğe layıksın. Senin verdiğini hiç kimse engelleyemez ve senin engellediğini de hiç kimse veremez. Büyüklerin büyüklüğü senin karşısında hiçbir işe yaramaz.\" Hakam (rivayet eden) dedi ki: Bunu Abd al-Rahman b. Ebu Laila'ya anlattım; o da El-Bara' b. Azib'in, Allah'ın Elçisi'nin (ﷺ) namazı ve rükûsunun, rükûdan başını kaldırmasının, secdesinin ve iki secde arasındaki oturuşunun (tüm bu eylemlerin) birbirine yakın olduğunu söylediğini duyduğunu bildirdi. Bunu 'Ar b. Murrah'a anlattım; o da: \"İbn Ebu Laila'yı (namaz kılarken) gördüm, ama onun namazı böyle değildi.\" dedi."
+    },
+    {
+      "id": 221,
+      "narrator": "Hakam reported:",
+      "text": "Hakam bildirdi: Matar b. Naciye Kufa'da hâkimiyet sürdüğünde Ebu Ubeyde'ye insanları namaza yönlendirmesini emretti; hadisin geri kalanı aynıdır."
+    },
+    {
+      "id": 222,
+      "narrator": "Thabit reported it on the authority of Anas:",
+      "text": "Sabit, Enes'ten rivayet etti: Sizi namaza yönlendirirken namazda hiçbir şeyi kısaltmam. Ben, Allah'ın Elçisi'nin (ﷺ) bizi yönlendirirken nasıl kıldığını görüyorum. O (Sabit) dedi ki: Enes, sizin yaptığınızı görmediğim bir şey yapardı; rükûdan başını kaldırdığında o kadar uzun dururdu ki, \"Unuttu\" denilirdi. Ve secdeden başını kaldırdığında, o pozisyonda o kadar kalırdı ki, birisi \"İkinci secde için rükû yapmayı unuttu\" derdi."
+    },
+    {
+      "id": 223,
+      "narrator": "Thabit reported it on the authority of Anas:",
+      "text": "Sabit, Enes'ten rivayet etti: Allah'ın Elçisi'nin (ﷺ) arkasında kıldığım kadar hafif ve mükemmel bir namaz kıldığımı hiç hatırlamıyorum. Allah'ın Elçisi'nin (ﷺ) namazı dengeliydi. Ebu Bekir'in namazı da dengeliydi. Umar b. el-Hattab zamanında sabah namazını uzatıyordu. Allah'ın Elçisi (ﷺ) \"Allah, kendisine hamd edenin duasını işitir\" dediğinde, o ayakta duruyordu; biz \"Unuttu\" dedik. Sonra secde etti ve iki secde arasında oturdu; biz \"Unuttu\" dedik."
+    },
+    {
+      "id": 224,
+      "narrator": "Al-Bara' (b. 'Azib), and he was no liar (but a truthful Companion of the Holy Prophet), reported:",
+      "text": "El-Bara' (b. Azib), yalan söylemeyen (ama Kutsal Peygamber'in doğru bir Sahabesi) olarak bildirdi: Allah'ın Elçisi'nin (ﷺ) arkasında namaz kılardık. O (Kutsal Peygamber) başını kaldırdığında, hiç kimse sırtını eğmezdi; ta ki Allah'ın Elçisi (ﷺ) alnını yere koyuncaya kadar. Sonra onun arkasında secdeye giderlerdi."
+    },
+    {
+      "id": 225,
+      "narrator": "Al-Bara' reported, and he was no liar:",
+      "text": "El-Bara' bildirdi ve o yalan söylemeyen biriydi: Allah'ın Elçisi (ﷺ) \"Allah, kendisine hamd edenin duasını işitir\" dediğinde, hiçbiri sırtını eğmedi; ta ki o (Kutsal Peygamber) secde etti; sonra biz de secdeye gittik."
+    },
+    {
+      "id": 226,
+      "narrator": "Al-Bara' reported:",
+      "text": "Al-Bara' bildirdi: Onlar (Sahabe) Allah'ın Elçisi (ﷺ) ile namaz kıldılar ve o (Kutsal Peygamber) rükûya gittiğinde, onlar da rükûya gittiler. Rükûdan başını kaldırdığında \"Allah, kendisine hamd edenin duasını kabul etti\" dedi ve biz, yüzünü yere koyduğunu görene kadar ayakta kaldık, ardından onu takip ettik."
+    },
+    {
+      "id": 227,
+      "narrator": "Al-Bara' reported:",
+      "text": "Al-Bara' bildirdi: Biz Allah'ın Elçisi (ﷺ) ile (namazda) iken, hiçbiri arkasını eğmedi, ta ki onun secde ettiğini görene kadar. Zuhayr ve diğerleri \"ta ki onu secde ederken gördük\" şeklinde bildirdi."
+    },
+    {
+      "id": 228,
+      "narrator": "'Amr b. Huraith reported:",
+      "text": "'Amr b. Huraith bildirdi: Ben, Allah'ın Elçisi (ﷺ) arkasında sabah namazını kıldım ve onun \"Hayır, ben yıldızları, yollarında koşan ve batanları şahit tutuyorum\" (Kur'an, 81:15-16) okuduğunu duydum ve hiçbiri rükûya kadar eğilmedi."
+    },
+    {
+      "id": 229,
+      "narrator": "('Abdullah b ) Ibn Abi Aufa reported:",
+      "text": "('Abdullah b.) İbn Abi Aufa bildirdi: Allah'ın Elçisi (ﷺ) rükûdan başını kaldırdığında \"Allah, kendisine hamd edenin duasını kabul etti\" dedi. \"Ey Allah! Rabbimiz! Sana, gökleri ve yeri dolduracak hamd olsun ve bunların dışında da hoşuna gidecek şeyleri dolduracak hamd olsun.\""
+    },
+    {
+      "id": 230,
+      "narrator": "'Abdullah b. Aufa reported:",
+      "text": "'Abdullah b. Aufa bildirdi: Allah'ın Elçisi (ﷺ) bu duayı okumayı alışkanlık haline getirmişti: \"Ey Allah! Rabbimiz! Sana, gökleri ve yeri dolduracak hamd olsun ve bunların dışında da hoşuna gidecek şeyleri dolduracak hamd olsun.\""
+    },
+    {
+      "id": 231,
+      "narrator": "Abdullah b. Abu Aufa reported that the Messenger of Allah (ﷺ) used to recite (this supplication):",
+      "text": "Abdullah b. Abu Aufa bildirdi ki, Allah'ın Elçisi (ﷺ) (bu duayı) okumayı alışkanlık haline getirmişti: \"Ey Allah! Rabbimiz! Sana, gökleri ve yeri dolduracak hamd olsun ve bunların dışında da hoşuna gidecek şeyleri dolduracak hamd olsun. Ey Allah! Beni karla, dolu suyu ve soğuk suyla temizle; ey Allah! Beni günahlardan ve hatalardan, beyaz bir elbisenin kirden temizlendiği gibi temizle.\""
+    },
+    {
+      "id": 232,
+      "narrator": "This hadith with the same chain of transmitters has been narrated by Shu'ba, and in the narration of Mu'adh the words are:",
+      "text": "Bu hadisi aynı isnat zinciriyle Şu'ba nakletmiştir ve Mu'adh'ın rivayetinde \"beyaz elbisenin pislikten temizlenmesi gibi\" şeklinde geçmektedir, Yazid'in rivayetinde ise \"kirden\" şeklindedir."
+    },
+    {
+      "id": 233,
+      "narrator": "Abu Sa'id al-Khudri reported:",
+      "text": "Ebu Sa'id el-Hudri bildirdi: Allah'ın Elçisi (ﷺ) rükûdan başını kaldırdığında şöyle dedi: \"Ey Allah! Rabbimiz! Sana, gökleri ve yeri dolduracak hamd olsun ve bunların dışında da hoşuna gidecek şeyleri dolduracak hamd olsun. Ey, sen övgüye ve yüceliğe layıksın, bir kulun söyleyebileceği en güzel şeyleri söylemekte en layık olan sensin, hepimiz senin kullarındayız, senin verdiklerini kimse geri alamaz ve senin geri aldıklarını kimse veremez, zenginlik senin yanında zengin bir kimseye fayda sağlamaz.\""
+    },
+    {
+      "id": 234,
+      "narrator": "Ibn Abbas reported:",
+      "text": "İbn Abbas bildirdi: Allah'ın Elçisi (ﷺ) rükûdan başını kaldırdığında şöyle dedi: \"Ey Allah! Rabbimiz! Sana, gökleri ve yeri dolduracak hamd olsun ve bunların arasında olanları ve bunların dışında da hoşuna gidecek şeyleri dolduracak hamd olsun. Her türlü övgü ve yücelik sana aittir. Senin verdiklerini kimse geri alamaz, senin geri aldıklarını kimse veremez. Ey yüce olan! Senin yanında büyüklük bir anlam ifade etmez.\""
+    },
+    {
+      "id": 235,
+      "narrator": "Ibn Abbas reported from the Messenger of Allah (ﷺ) the words:",
+      "text": "İbn Abbas, Allah'ın Elçisi (ﷺ) tarafından \"ve bunların dışında hoşuna gidecek şeyleri dolduracak\" sözlerini bildirdi ve dua metninin sonraki kısmını anmadı."
+    },
+    {
+      "id": 236,
+      "narrator": "Ibn 'Abbas reported:",
+      "text": "İbn 'Abbas bildirdi: Allah'ın Elçisi (ﷺ) perdeleri araladı ve (o gördü) insanların Ebu Bekir'in arkasında sıralar halinde (namaz kıldıklarını). Ve şöyle dedi: \"Peygamberlik müjdesinden geriye hiçbir şey kalmadı, sadece bir Müslümanın gördüğü veya bir başkasına gösterilen iyi rüyalar kaldı. Ve rükûda Kur'an okumamın yasaklandığını biliniz. Rükûda, yüce ve aziz olan Rabbimizi tesbih edin ve secde ederken dua etmeye gayret edin, çünkü dualarınızın kabul edilmesi uygun olur.\""
+    },
+    {
+      "id": 237,
+      "narrator": "'Abdullah b. 'Abbas reported:",
+      "text": "'Abdullah b. 'Abbas bildirdi: Allah'ın Elçisi (ﷺ) perdeleri araladı ve başı hastalık nedeniyle sarılıydı. \"Ey Allah, ben (Mesajını) iletmedim mi?\" dedi. (Bunu) üç kez tekrarladı. Peygamberlik müjdesinden hiçbir şey kalmadı, sadece bir salih kulun gördüğü veya bir başkasına gösterilen iyi rüyalar kaldı. Sonra Sufyan tarafından rivayet edilen hadisi anlattı."
+    },
+    {
+      "id": 238,
+      "narrator": "'Ali b. Abi Talib reported:",
+      "text": "'Ali b. Abi Talib bildirdi: Allah'ın Elçisi (ﷺ) bana rükû ve secde halinde (Kur'an) okumayı yasakladı."
+    },
+    {
+      "id": 239,
+      "narrator": "'Ali b. Abi Talib reported:",
+      "text": "'Ali b. Abi Talib bildirdi: Allah'ın Elçisi (ﷺ) rükû ve secde halinde Kur'an okumayı yasakladı."
+    },
+    {
+      "id": 240,
+      "narrator": "'Ali b. Abi Talib reported:",
+      "text": "'Ali b. Abi Talib bildirdi: Allah'ın Elçisi (ﷺ) rükû ve secde halinde (Kur'an) okuma konusunda bana yasak koydu ve ben sana yasakladığını söylemiyorum."
+    },
+    {
+      "id": 241,
+      "narrator": "'Ali reported:",
+      "text": "Ali rivayet etti: Sevgilim (Peygamberimiz) bana (Kur'an'ı) rükû ve secde halinde okumamı yasakladı."
+    },
+    {
+      "id": 242,
+      "narrator": "This hadith has been narrated by some other narrators, Ibn 'Abbas and others, and they all reported that 'Ali said:",
+      "text": "Bu hadisi bazı diğer raviler de rivayet etmiştir; İbn Abbas ve diğerleri, hepsi Ali'nin şöyle dediğini bildirmiştir: Allah'ın Elçisi (ﷺ) bana Kur'an'ı rükû ve secde halinde okumamı yasakladı. Onların rivayetinde, secde halinde bu (okuma)dan men edilme de geçmektedir; bu, Zuhri, Zaid b. Aslam, el-Vahid b. Kathir ve Davud b. Kays tarafından aktarılmıştır."
+    },
+    {
+      "id": 243,
+      "narrator": "",
+      "text": "Bu hadis Ali'den aktarılmıştır, ancak \"secde halinde\" ifadesine yer verilmemiştir."
+    },
+    {
+      "id": 244,
+      "narrator": "Ibn 'Abbas reported:",
+      "text": "İbn Abbas rivayet etti: Rükû halindeyken (Kur'an'ı) okumam yasaklandı ve raviler zincirinde Ali'nin adı geçmemektedir."
+    },
+    {
+      "id": 245,
+      "narrator": "Abu Huraira reported:",
+      "text": "Ebu Hureyre rivayet etti: Allah'ın Elçisi (ﷺ) şöyle buyurdu: Bir kulun Rabbine en yakın olduğu an, secde halindedir; bu durumda dua edin."
+    },
+    {
+      "id": 246,
+      "narrator": "Abu Huraira reported:",
+      "text": "Ebu Hureyre rivayet etti: Allah'ın Elçisi (ﷺ) secde ederken şöyle derdi: Ey Rabbim, bütün günahlarımı, küçük ve büyük, ilk ve son, açık ve gizli affet."
+    },
+    {
+      "id": 247,
+      "narrator": "'A'isha reported:",
+      "text": "Aişe rivayet etti: Allah'ın Elçisi (sallallahu aleyhi ve sellem) rükû ve secde ederken sık sık şöyle derdi: \"Sana hamd olsun, ey Allah'ım, Rabbimiz, ve seni tesbih ederim, ey Allah'ım, beni affet,\" böylece Kur'an'daki (emre) uymuş olurdu."
+    },
+    {
+      "id": 248,
+      "narrator": "'A'isha reported that the Messenger of Allah (ﷺ) before his death recited often:",
+      "text": "Aişe, Allah'ın Elçisi (ﷺ) vefatından önce sık sık şu ayeti okuduğunu bildirdi: \"Sana hamd olsun, ve seninle af dilerim ve sana dönerim.\" O şöyle dedi: Ey Allah'ın Elçisi, bu sözleri neden okuduğunu görüyorum? O da: \"Ümmetimde bir işaret verildi; onu görünce bu (tesbih) sözlerini söyledim,\" dedi ve işaret şuydu: \"Allah'ın yardımı ve zaferi geldi...\" ayetin sonuna kadar."
+    },
+    {
+      "id": 249,
+      "narrator": "'A'isha reported:",
+      "text": "Aişe rivayet etti: Allah'ın Elçisi (ﷺ) bu ayetlerin indirilmesinden sonra: \"Allah'ın yardımı ve zaferi geldi.\" ifadesini gördüğümde, onun duasını yapmadan veya içinde \"Sana hamd olsun, ey Rabbim, ve seni tesbih ederim, ey Allah'ım, beni affet\" demeden namaz kıldığını hiç görmedim."
+    },
+    {
+      "id": 250,
+      "narrator": "'A'isha reported:",
+      "text": "Aişe rivayet etti: Allah'ın Elçisi (ﷺ) sık sık şu sözleri okurdu: \"Sana hamd olsun, ey Allah, ve seninle af dilerim ve sana dönerim.\" O şöyle dedi: Ey Allah'ın Elçisi, \"subhanallahi bihamdihi astagfirullahi watubuilaih\" sözünü sık sık tekrar ettiğini görüyorum. Bunun üzerine o şöyle dedi: \"Rabbim, Ümmetimde bir işaret göreceğimi bildirdi; onu görünce bu sözleri sıkça okurum: 'Sana hamd olsun, ey Allah, ve seninle af dilerim ve sana dönerim.' Gerçekten onu gördüm (bu ayet) indiğinde: 'Allah'ın yardımı ve zaferi geldi, Mekke'nin zaferini işaret etti ve insanları Allah'ın dinine topluca girdiğini gördün, Rabbini tesbih et ve ondan af dile. Şüphesiz O, merhametiyle döner.'\""
+    },
+    {
+      "id": 251,
+      "narrator": "Ibn Juraij reported:",
+      "text": "İbn Juraij rivayet etti: 'Ata'ya sordum: Namazda rükû halindeyken ne okursun? O da: \"Sana hamd olsun, ey Allah, ve seninle af dilerim, senden başka ilah yoktur.\" dedi. Abd Mulaika'nın oğlu, Aişe'den (şöyle) rivayet etti: Bir gece Allah'ın Elçisi (ﷺ)'ni (yatakta) göremedim. Belki diğer eşlerinden birine gitmiştir diye düşündüm. Onu aradım ve sonra geri döndüm ve (onu) rükû veya secde halinde buldum, \"Sana hamd olsun, ey Allah, ve seninle af dilerim, senden başka ilah yoktur.\" diyordu. Ben de: \"Babam ve annem sana feda olsun,\" dedim. Ben başka bir mesele hakkında düşünüyordum, o ise başka bir şeyle meşguldü."
+    },
+    {
+      "id": 252,
+      "narrator": "'A'isha reported:",
+      "text": "Aişe rivayet etti: Bir gece Allah'ın Elçisi (ﷺ)'ni yatakta bulamadım ve onu ararken elim secde halindeyken ayaklarının tabanına değdi; ayakları yukarıdaydı ve şöyle diyordu: \"Ey Allah, gazabından rızana sığınırım, cezanından affına sığınırım ve senden sana (gazabından) sığınırım. Senin hamdini sayamam. Sen, kendini övdüğün gibisin.\""
+    },
+    {
+      "id": 253,
+      "narrator": "'A'isha reported that the Messenger of Allah (may peace he upon him) used to pronounce while bowing and prostrating himself:",
+      "text": "Aişe, Allah'ın Elçisi (sallallahu aleyhi ve sellem)'in rükû ve secde ederken şöyle dediğini bildirdi: \"Her türlü yücelik, her türlü kutsallık, meleklerin ve ruhun Rabbi.\""
+    },
+    {
+      "id": 254,
+      "narrator": "",
+      "text": "Bu hadis Aişe'den başka bir raviler zinciriyle aktarılmıştır."
+    },
+    {
+      "id": 255,
+      "narrator": "Ma'dan b. Talha reported:",
+      "text": "Ma'dan b. Talha rivayet etti: Allah'ın Elçisi (ﷺ)'nin azatlısı Thauban ile karşılaştım ve bana, eğer yaparsam Allah'ın beni cennete kabul edeceği bir ameli söylemesini istedim ya da Allah'ın en çok sevdiği ameli sordum. O cevap vermedi. Tekrar sordum, yine cevap vermedi. Üçüncü kez sordum, o da: \"Ben Allah'ın Elçisi (ﷺ)'ne bunu sordum ve o da: 'Allah'a sık sık secde et; çünkü bir secde yapmadan, senin için bir derece yükseltilmeyecek ve bir günahın silinmeyecek,' dedi,\" diye cevap verdi. Ma'dan, sonra Ebu'd-Derda ile karşılaştığını ve ona sorduğunda, Thauban'ın verdiği benzer bir cevabı aldığını söyledi."
+    },
+    {
+      "id": 256,
+      "narrator": "Rabi'a b. Ka'b said:",
+      "text": "Rabi'a b. Ka'b dedi ki: Bir gece Allah'ın Elçisi (ﷺ) ileydim. Ona su ve ihtiyaç duyduğu şeyleri getirdim. Bana dedi ki: İste (istediğin her şeyi). Ben dedim ki: Cennet'te seninle birlikte olmayı istiyorum. O (Peygamberimiz) dedi ki: Ya da bunun dışında bir şey. Ben dedim ki: Bu kadar yeter. O dedi ki: O zaman, bu hedefe ulaşman için, sık sık secdeye kapanarak bana yardım et."
+    },
+    {
+      "id": 257,
+      "narrator": "Ibn 'Abbas reported:",
+      "text": "İbn 'Abbas bildirdi: Allah'ın Elçisi (ﷺ) yedi (kemik) üzerinde secde etmesi emredildi ve saçını ve elbiselerini geri katlaması yasaklandı. Ve Ebu Rabi' tarafından aktarılan rivayette (şöyle denir): \"yedi kemik üzerinde ve saçımı ve elbisemi geri katlamam yasaklandı.\" Ebu'l-Rabi'ye göre (yedi kemik şunlardır): Eller, dizler ve ayakların (uçları) ve alın."
+    },
+    {
+      "id": 258,
+      "narrator": "Ibn 'Abbas reported from the Messenger of Allah (ﷺ):",
+      "text": "İbn 'Abbas, Allah'ın Elçisi'nden (ﷺ) şöyle bildirdi: Yedi kemik üzerinde secde etmem emredildi ve elbisemi veya saçımı geri katlamamam söylendi."
+    },
+    {
+      "id": 259,
+      "narrator": "Ibn 'Abbas reported:",
+      "text": "İbn 'Abbas bildirdi: Allah'ın Elçisi (ﷺ) yedi (kemik) üzerinde secde etmesi emredildi ve saçını ve elbiselerini geri katlaması yasaklandı."
+    },
+    {
+      "id": 260,
+      "narrator": "Ibn Abbas reported that the Messenger of Allah (ﷺ) said:",
+      "text": "İbn Abbas bildirdi ki, Allah'ın Elçisi (ﷺ) dedi: Yedi kemik üzerinde secde etmem emredildi: \"alın,\" ve sonra elini burnuna, ellerine, ayaklarına ve ayakların uçlarına doğru işaret etti; ve elbiseleri ve saçları geri katlamamız yasaklandı."
+    },
+    {
+      "id": 261,
+      "narrator": "Ibn Abbas reported:",
+      "text": "İbn Abbas bildirdi: Allah'ın Elçisi (ﷺ) dedi: Yedi (kemik) üzerinde secde etmem emredildi ve saçımı ve elbisemi geri katlamam yasaklandı. (Yedi kemik şunlardır): alın, burun, eller, dizler ve ayaklar."
+    },
+    {
+      "id": 262,
+      "narrator": "It was narrated from Al-'Abbas bin 'Abdul Muttalib that he heard the Messenger of Allah (ﷺ) say:",
+      "text": "Al-'Abbas b. 'Abdul Muttalib'ten rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle dedi: \"Bir kişi secde ettiğinde, vücudunun yedi parçası üzerinde secde eder: Yüzü, elleri, dizleri ve ayakları.\""
+    },
+    {
+      "id": 263,
+      "narrator": "Abdullah b. Abbas reported that he saw 'Abdullah b. al-Harith observing the prayer and (his hair) was plaited behind his head. He ('Abdullah b. 'Abbas) stood up and unfolded them. While going back (from the prayer) he met Ibn 'Abbas and said to him:",
+      "text": "Abdullah b. Abbas bildirdi ki, 'Abdullah b. al-Harith'in namaz kıldığını ve (saçının) başının arkasında örgülü olduğunu gördü. O ('Abdullah b. 'Abbas) ayağa kalktı ve onları açtı. Namazdan dönerken İbn 'Abbas ile karşılaştı ve ona: Neden başıma dokundun? dedi. O (İbn 'Abbas) cevap verdi: (Örgülü saçla namaz kılan kişi) arkasında elleri bağlı olan birine benzer."
+    },
+    {
+      "id": 264,
+      "narrator": "Anas reported:",
+      "text": "Anas bildirdi: Allah'ın Elçisi (ﷺ) dedi: Secdede ölçülü olun ve içinizden hiç kimse ön kollarını (yere) bir köpek gibi uzatmasın."
+    },
+    {
+      "id": 265,
+      "narrator": "This hadith has been narrated by Shu'ba with the same chain of transmitters. And in the hidith transmitted by Ibn Ja'far (the words are):",
+      "text": "Bu hadisi Şu'ba aynı isnat zinciriyle aktarmıştır. Ve İbn Ja'far tarafından aktarılan hadiste (şöyle denir): \"İçinizden hiç kimse ön kollarını bir köpeğin uzattığı gibi uzatmasın.\""
+    },
+    {
+      "id": 266,
+      "narrator": "Al-Bira' (b. 'Azib) reported:",
+      "text": "Al-Bira' (b. 'Azib) bildirdi: Allah'ın Elçisi (ﷺ) dedi: Secde ettiğinizde, ellerinizin avuçlarını yere koyun ve dirseklerinizi kaldırın."
+    },
+    {
+      "id": 267,
+      "narrator": "'Abdullah b. Malik ibn Bujainah reported:",
+      "text": "'Abdullah b. Malik ibn Bujainah bildirdi: Peygamber (ﷺ) secde ettiğinde, kollarını yayarak koltuk altlarının beyazlığı görünür hale geliyordu."
+    },
+    {
+      "id": 268,
+      "narrator": "This hadith has been narrated by Ja'far b. Rabi' with the same chain of transmitters. And in the narration transmitted by 'Amr b. al-Harith (the words are):",
+      "text": "Bu hadisi Ja'far b. Rabi' aynı isnat zinciriyle aktarmıştır. Ve 'Amr b. al-Harith tarafından aktarılan rivayette (şöyle denir): \"Allah'ın Elçisi (ﷺ) secde ettiğinde, kollarını yayarak koltuk altlarının beyazlığı görünür hale geliyordu.\" Ve al-Laith tarafından aktarılan rivayette (şöyle denir): \"Allah'ın Elçisi (ﷺ) secde ettiğinde, kollarını koltuk altlarından yayarak beyazlıklarını gördüm.\""
+    },
+    {
+      "id": 269,
+      "narrator": "Maimuna reported:",
+      "text": "Maimuna bildirdi: Allah'ın Elçisi (ﷺ) secde ettiğinde, eğer bir kuzu kollarının arasından geçmek isterse, geçebilirdi."
+    },
+    {
+      "id": 270,
+      "narrator": "Maimuna, the wife of the Messenger of Allah (ﷺ), reported:",
+      "text": "Allah'ın Elçisi (ﷺ)nin eşi Maimuna bildirdi: Allah'ın Elçisi (ﷺ) secde ettiğinde, kollarını yaydı, yani o kadar ayırdı ki, koltuk altlarının beyazlığı arkasından görünür hale geldi ve oturduğunda (Jalsa için) sol uyluğuna yaslandı."
+    },
+    {
+      "id": 271,
+      "narrator": "Maimuna daughter of Harith reported:",
+      "text": "Maimuna binti Harith rivayet etti: Allah'ın Resulü (ﷺ) secde ettiğinde, ellerini o kadar açıyordu ki, arkadan bakıldığında koltuk altları görünüyordu. Vaki' dedi ki: Bu, onların beyazlığıdır."
+    },
+    {
+      "id": 272,
+      "narrator": "'A'isha reported:",
+      "text": "'A'isha rivayet etti: Allah'ın Resulü (ﷺ) namaza tekbir (Allahu Ekber demek) ile başlar ve \"Hamd, âlemlerin Rabbi olan Allah'a aittir.\" ayetini okurdu. Rükûya gittiğinde ne başını yukarıda tutar ne de aşağı eğerdi, ama bu iki aşama arasında tutardı; rükûdan sonra başını kaldırdığında, ayakta dik durmadan secde etmezdi; secdeden sonra başını kaldırdığında, oturmadan tekrar secde etmezdi. Her iki rek'atta tahiyyatı okurdu; sol ayağını yere düz basar, sağ ayağını kaldırırdı; şeytanın topuklarının üzerine oturma şeklini yasakladı ve insanlara vahşi bir hayvan gibi kollarını açmayı yasakladı. Namazı taslim ile bitirirdi."
+    },
+    {
+      "id": 273,
+      "narrator": "Musa b. Talha reported it on the authority of his father:",
+      "text": "Musa b. Talha, babasından rivayet etti: Allah'ın Resulü (ﷺ) dedi ki: Sizden biri önüne bir şey, mesela bir eyerin arkasını koyduğunda, yanından geçenlere aldırış etmeden namaz kılmalıdır."
+    },
+    {
+      "id": 274,
+      "narrator": "Musa b. Talha reported on the authority of his father:",
+      "text": "Musa b. Talha, babasından rivayet etti: Biz namaz kılarken hayvanlar önümüzde geçiyordu. Bunu Allah'ın Resulü'ne (ﷺ) söyledik ve o dedi ki: Eğer önünüzde bir eyerin arkası gibi bir şey varsa, önünüzden geçenlere zarar gelmez. İbn Numair dedi ki: Önünden geçen kimseye zarar gelmez."
+    },
+    {
+      "id": 275,
+      "narrator": "'A'isha reported:",
+      "text": "'A'isha rivayet etti: Allah'ın Resulü (ﷺ) bir ibadet edenin sutrası hakkında soruldu; o da: \"Eyerin arkası kadar\" dedi."
+    },
+    {
+      "id": 276,
+      "narrator": "'A'isha reported:",
+      "text": "'A'isha rivayet etti: Allah'ın Resulü (ﷺ) Tabuk seferinde ibadet edenin sutrası hakkında soruldu; o da: \"Eyerin arkası gibi\" dedi."
+    },
+    {
+      "id": 277,
+      "narrator": "Ibn Umar reported:",
+      "text": "İbn Umar rivayet etti: Allah'ın Resulü (ﷺ) 'İd günü dışarı çıktığında, önüne bir mızrak dikilmesini emretti ve o mızrağın yönüne doğru namaz kıldı, insanlar da arkasında durdu. Bunu yolculukta da yaptı ve bu yüzden emirler onu taşıdılar."
+    },
+    {
+      "id": 278,
+      "narrator": "Ibn Umar reported:",
+      "text": "İbn Umar rivayet etti: Allah'ın Resulü (ﷺ) sutra kurdu ve Ebu Bekir dedi ki: O, demir uçlu bir mızrak dikti ve o mızrağın yönüne doğru namaz kıldı. İbn Ebu Şeybe buna ilave yaptı: \"Ubaidullah, bunun bir mızrak olduğunu söyledi.\""
+    },
+    {
+      "id": 279,
+      "narrator": "Ibn 'Umar said:",
+      "text": "İbn 'Umar dedi ki: Allah'ın Resulü (ﷺ) devesini (Kabe'ye) doğru yönlendirir ve namazı onun yönüne doğru kılardı."
+    },
+    {
+      "id": 280,
+      "narrator": "Ibn 'Umar reported:",
+      "text": "İbn 'Umar rivayet etti: Allah'ın Resulü (ﷺ) devesine doğru namaz kılardı. İbn Numair dedi ki: Allah'ın Resulü (ﷺ) deveyi yönüne doğru namaz kıldı."
+    },
+    {
+      "id": 281,
+      "narrator": "Abu Juhaifa reported it on the authority of his father:",
+      "text": "Ebu Juhaifa, babasından rivayet etti: Ben, Allah'ın Resulü (ﷺ) ile Mekke'de buluştum ve o, o sırada al-Abtah'ta bir kırmızı deri çadırdaydı. Bilal, onun için abdest suyu ile dışarı çıktı. (O sudan) bazıları aldı (bazıları alamadı) ve (alanlar) kendilerini onunla ovdular. Sonra Allah'ın Resulü (ﷺ) üzerine kırmızı bir örtü ile dışarı çıktı ve ben bacaklarının beyazlığını görüyordum. Rivayet eden kişi dedi ki: O (Peygamber) abdest aldı, Bilal ezan okudu ve ben onun ağzını takip ettim (sağa ve sola dönerken) sağda ve solda: \"Namaza gelin, kurtuluşa gelin.\" dedi. Sonra onun için (yere) bir mızrak dikildi. O öne geçti ve iki rek'at Zuhr namazı kıldı, önünden bir eşek ve bir köpek geçti, bunlar engellenmedi. Sonra iki rek'at 'Asr namazı kıldı ve Medine'ye dönene kadar iki rek'at daha kıldı."
+    },
+    {
+      "id": 282,
+      "narrator": "Abu Juhaifa reported on the authority of his father:",
+      "text": "Ebu Juhaifa, babasından rivayet etti: Ben, Allah'ın Resulü (ﷺ) Mekke'de al-Abtah'ta bir kırmızı deri çadırda gördüm. Bilal'in (Allah'ın Resulü'nün bıraktığı) abdest suyunu aldığını gördüm ve insanların o abdest suyunu almak için birbirleriyle yarıştıklarını gördüm. Eğer birisi ondan alırsa, kendisini onunla ovuyordu, almayı başaramayan ise arkadaşının elinden biraz nem alıyordu. Sonra Bilal'in bir değnek alıp yere diktiğini gördüm, ardından Allah'ın Resulü (ﷺ) hızlıca kırmızı bir örtü ile dışarı çıktı ve insanları o değneğe doğru iki rek'at namaz kıldırdı, ben insanların ve hayvanların o değneğin önünden geçtiğini gördüm."
+    },
+    {
+      "id": 283,
+      "narrator": "'Aun b. Abu Juhaifa narrated from the Messenger of Allah (ﷺ) on the authority of his father a hadith like that of Sufyan, and 'Umar b. Abu Za'ida made this addition:",
+      "text": "'Aun b. Ebu Juhaifa, babasından Allah'ın Resulü (ﷺ) ile ilgili Sufyan'ın hadisi gibi bir hadisi nakletti ve 'Umar b. Ebu Za'ida buna ilave yaptı: Bazıları suyu almakta diğerlerinden üstün olmaya çalıştı ve Malik b. Mighwal tarafından nakledilen hadiste (şöyle denir): Öğle vakti olduğunda, Bilal dışarı çıktı ve (insanları) (öğle) namazına çağırdı."
+    },
+    {
+      "id": 284,
+      "narrator": "Abu Juhaifa reported:",
+      "text": "Ebu Juhaifa rivayet etti: Allah'ın Resulü (ﷺ) öğle vakti al-Batha'ya doğru gitti, abdest aldı ve iki rek'at Zuhr namazı, iki rek'at 'Asr namazı kıldı ve önünde bir mızrak vardı. Şu'ba dedi ki ve Aun, babası Ebu Juhaifa'dan bu ilaveyi yaptı: Kadın ve eşek onun arkasından geçti."
+    },
+    {
+      "id": 285,
+      "narrator": "Shu'ba narrated the same on the basis of two authorities and in the hadith transmitted by Hakam (the words are):",
+      "text": "Şu'ba, iki rivayet kaynağına dayanarak aynı şeyi nakletti ve Hakam tarafından nakledilen hadiste (şöyle denir): İnsanlar, onun (Peygamber'in) abdestinden kalan suyu almaya başladılar."
+    },
+    {
+      "id": 286,
+      "narrator": "Ibn 'Abbas reported:",
+      "text": "İbn Abbas rivayet etti: Ben bir eşekle binerek geldim ve ergenlik çağının eşiğindeydim, Resulullah (ﷺ) Mina'da insanlara namaz kıldırıyordu. Safın önünden geçtim, indim, eşeği otlatmaya gönderdim ve safa katıldım, kimse buna itiraz etmedi."
+    },
+    {
+      "id": 287,
+      "narrator": "Abdullah b. Abbas reported that he came riding on a donkey, and the Messenger of Allah (ﷺ) was leading the people in prayer at Mina on the occasion of the Farewell Pilgrimage and (the narrator) reported:",
+      "text": "Abdullah b. Abbas rivayet etti ki, bir eşekle binerek geldi ve Resulullah (ﷺ) Veda Haccı sırasında Mina'da insanlara namaz kıldırıyordu. Eşek safın önünden geçti, sonra ondan indi ve insanlarla birlikte safa katıldı."
+    },
+    {
+      "id": 288,
+      "narrator": "This hadith has been narrated by Ibn 'Uyaina on the authority of al-Zuhri with the same chain of transmitters and he reported:",
+      "text": "Bu hadisi İbn 'Uyaina, al-Zuhri'den aynı isnatla rivayet etti ve şöyle bildirdi: Allah'ın Elçisi (ﷺ) Arafat'ta namaz kılıyordu."
+    },
+    {
+      "id": 289,
+      "narrator": "This hadith has been reported by Ma'mar on the authority of al-Zuhri with the came chain of transmitters, but here no mention has been made of Mina or 'Arafa, and he said:",
+      "text": "Bu hadisi Ma'mar, al-Zuhri'den aynı isnatla rivayet etti, ancak burada Mina veya Arafat'tan bahsedilmedi ve şöyle dedi: Bu Veda Haccı sırasında veya Fetih Günü'nde oldu."
+    },
+    {
+      "id": 290,
+      "narrator": "Abu Sa'id al-Khudri reported that the Messenger of Allah (ﷺ) said:",
+      "text": "Ebu Sa'id el-Hudri rivayet etti ki, Resulullah (ﷺ) şöyle buyurdu: Sizden biri namaz kıldığında, önünden kimsenin geçmesine izin vermemelidir (eğer bir sutra yoksa) ve onu mümkün olduğunca uzaklaştırmaya çalışmalıdır, ama eğer gitmeyi reddederse, onu zorla geri çevirmelidir; çünkü o bir şeytandır."
+    },
+    {
+      "id": 291,
+      "narrator": "Abu Salih al-Samman reported:",
+      "text": "Ebu Salih el-Samman rivayet etti: Size, Ebu Sa'id el-Hudri'den duyduğum ve gördüğüm şeyi aktarıyorum: Bir gün Ebu Sa'id ile birlikteydim ve o, insanlardan gizlenmesini sağlayan bir şeye yönelerek Cuma namazı kılıyordu. Banu Mu'ait'ten bir genç oraya geldi ve önünden geçmeye çalıştı; Ebu Sa'id onu göğsüne vurarak geri çevirdi. Genç etrafa bakındı ama başka bir geçiş yolu bulamayınca Ebu Sa'id'in önünden geçmeye tekrar teşebbüs etti. Ebu Sa'id, onu ilk vuruşundan daha güçlü bir şekilde göğsüne vurarak geri çevirdi. Genç ayağa kalktı ve Ebu Sa'id ile boğuştu. Sonra orada insanlar toplandı. Genç dışarı çıktı ve Marwan'a giderek başına gelenleri şikayet etti. Ebu Sa'id de Marwan'a gitti. Marwan ona: Seninle yeğenin arasında ne oldu ki, sana şikayet etti? dedi. Ebu Sa'id: Ben, Resulullah (ﷺ)'dan şöyle duyduğumu söyledim: Sizden biri, insanlardan gizlenmesini sağlayan bir şeye yönelerek namaz kıldığında ve biri önünden geçmeye çalışırsa, onu geri çevirmelidir; ama eğer reddederse, zorla engellenmelidir; çünkü o bir şeytandır."
+    },
+    {
+      "id": 292,
+      "narrator": "'Abdullah b. 'Umar reported that the Messenger of Allah (ﷺ) said:",
+      "text": "Abdullah b. 'Umar rivayet etti ki, Resulullah (ﷺ) şöyle buyurdu: Sizden biri namaz kıldığında, önünden kimsenin geçmesine izin vermemelidir ve eğer reddederse, o zaman zorla engellenmelidir; çünkü onunla bir şeytan vardır."
+    },
+    {
+      "id": 293,
+      "narrator": "",
+      "text": "Bu hadisi İbn Umar, başka bir isnatla rivayet etmiştir."
+    },
+    {
+      "id": 294,
+      "narrator": "Busr b Sa'id reported that Zaid b Khalid al-Juhani sent him to Abu Juhaim in order to ask him what he had heard from the Messenger of Allah (ﷺ) with regard to the passer in front of the worshipper. Abu Juhaim reported that the Messenger of Allah (ﷺ) said:",
+      "text": "Busr b. Sa'id rivayet etti ki, Zaid b. Khalid el-Cuhani onu Ebu Juhaim'e gönderdi ve Resulullah (ﷺ)'dan, ibadet edenin önünden geçen kimse hakkında duyduğu şeyi sordu. Ebu Juhaim, Resulullah (ﷺ)'ın şöyle buyurduğunu bildirdi: Eğer birisi namaz kılan bir adamın önünden geçerse, üstlendiği sorumluluğu bilseydi, onun önünden geçmektense kırk yıl ayakta durmayı tercih ederdi. Ebu Nadr dedi ki: Kırk gün mü, ay mı yoksa yıl mı söylediğini bilmiyorum."
+    },
+    {
+      "id": 295,
+      "narrator": "",
+      "text": "Bu hadisi Ebu Juhaim el-Ensari'den başka bir isnatla rivayet edilmiştir."
+    },
+    {
+      "id": 296,
+      "narrator": "Sahl b. Sa'd al-Si'idi reported:",
+      "text": "Sahl b. Sa'd el-Si'idi rivayet etti: Resulullah (ﷺ)'ın namaz kıldığı yer ile duvar arasında, bir keçinin geçebileceği bir boşluk vardı."
+    },
+    {
+      "id": 297,
+      "narrator": "Salama b. Akwa' reported:",
+      "text": "Selame b. Akva' rivayet etti: O, (camide) Kur'an nüshalarının saklandığı yeri aradı ve orada Allah'ı tesbih etti. Rivayet eden, Resulullah (ﷺ)'ın o yeri aradığını ve o yerin minber ile kıble arasında, bir keçinin geçebileceği bir yer olduğunu belirtti."
+    },
+    {
+      "id": 298,
+      "narrator": "Yazid reported:",
+      "text": "Yezid rivayet etti: Selame, Kur'an nüshalarının saklandığı yerin yanındaki sütunun yanında namaz kılmak istedi. Ona: Ey Ebu Muslim, bu sütunun yanında namaz kılmak için çabaladığını görüyorum, dedim. O da: Ben, Resulullah (ﷺ)'ın onun yanında namaz kılmaya çalıştığını gördüm, dedi."
+    },
+    {
+      "id": 299,
+      "narrator": "Abu Dharr reported:",
+      "text": "Ebu Dharr rivayet etti: Resulullah (ﷺ) şöyle buyurdu: Sizden biri namaz için ayağa kalktığında, önünde bir eyerin sırtına eşit bir şey varsa onu kapatmalıdır; eğer önünde (bir şey) yoksa, namazı, bir eşek, kadın ve siyah köpek geçerse kesilir. Ben de: Ey Ebu Dharr, siyah köpeğin kırmızı köpekten ve sarı köpekten ayıran özelliği nedir? dedim. O da: Ey yeğenim, ben de Resulullah (ﷺ)'a senin sorduğun gibi sordum, o da: Siyah köpek bir şeytandır, dedi."
+    },
+    {
+      "id": 300,
+      "narrator": "",
+      "text": "Bu hadisi Humaid b. Hilal, Yunus'tan rivayet etmiştir."
+    },
+    {
+      "id": 301,
+      "narrator": "Abu Huraira reported:",
+      "text": "Ebu Hureyre rivayet etti: Allah'ın Elçisi (ﷺ) dedi ki: Bir kadın, bir eşek ve bir köpek namazı bozar, fakat bir eyerin sırtı gibi bir şey buna karşı koruma sağlar."
+    },
+    {
+      "id": 302,
+      "narrator": "'A'isha reported:",
+      "text": "Aişe rivayet etti: Peygamber (ﷺ) gece namaz kılarken, ben onunla Kıble arasında bir ceset gibi yatıyordum."
+    },
+    {
+      "id": 303,
+      "narrator": "'A'isha reported:",
+      "text": "Aişe rivayet etti: Allah'ın Elçisi (ﷺ) gece boyunca bütün namazını (Teheccüd namazı) kıldı, ben de onunla Kıble arasında yatıyordum. Witr (namazı) kılmak istediğinde beni uyandırdı ve ben de witr (namazı) kıldım."
+    },
+    {
+      "id": 304,
+      "narrator": "'Urwa b. Zubair reported:",
+      "text": "Urve b. Zübeyr rivayet etti: Aişe sordu: Namazı ne bozar? Biz de: Kadın ve eşek dedik. Bunun üzerine o şöyle dedi: Kadın çirkin bir hayvan mı? Ben Allah'ın Elçisi (ﷺ) önünde bir ceset gibi yatıyordum ve o namaz kılıyordu."
+    },
+    {
+      "id": 305,
+      "narrator": "Masruq reported:",
+      "text": "Mesruk rivayet etti: Aişe'ye, bir köpeğin, bir eşeğin ve bir kadının (ibadet edenin önünden geçmesi durumunda) namazı geçersiz kıldığı söylendi. Bunun üzerine Aişe dedi: Bizi eşekler ve köpeklerle bir tuttunuz. Vallahi ben Allah'ın Elçisi (ﷺ) namaz kılarken, yatak arasında onunla Kıble arasında yatıyordum. İhtiyaç hissettiğimde, Resulullah'ı rahatsız etmemek için (yatak) ayaklarının altından sessizce çıktım."
+    },
+    {
+      "id": 306,
+      "narrator": "Al-Aswad reported that 'A'isha said:",
+      "text": "El-Esved, Aişe'nin şöyle dediğini rivayet etti: Bizi köpekler ve eşeklerle eşit kıldınız, oysa ben yatakta yatıyordum ve Allah'ın Elçisi (ﷺ) oraya geldi, yatağın ortasında durdu ve namaz kıldı. O durumda üzerimdeki örtüyü çıkarmak istemedim, bu yüzden yatak ayaklarının önünden sessizce uzaklaştım ve böylece örtüden çıktım."
+    },
+    {
+      "id": 307,
+      "narrator": "'A'isha reported:",
+      "text": "Aişe rivayet etti: Ben Allah'ın Elçisi (ﷺ) önünde, ayaklarım onunla Kıble arasında yatarken uyuyordum. Secdeye gittiğinde beni sıktı ve ben de ayaklarımı çektim, ayağa kalktığında ise uzattım. O zaman evlerde lamba yoktu, dedi."
+    },
+    {
+      "id": 308,
+      "narrator": "Maimuna, the wife of the Apostle (ﷺ), reported:",
+      "text": "Maimune, Allah'ın Elçisi'nin (ﷺ) eşi, rivayet etti: Allah'ın Elçisi (ﷺ) namaz kıldı ve ben (onun karşısında) adet halindeydim. Secdeye gittiğinde bazen elbiseleri bana değiyordu."
+    },
+    {
+      "id": 309,
+      "narrator": "'A'isha reported:",
+      "text": "Aişe rivayet etti: Allah'ın Elçisi (ﷺ) gece namaz kıldı ve ben onun yanında adet halindeydim, üzerimde bir örtü vardı, örtünün bir kısmı onun yanındaydı."
+    },
+    {
+      "id": 310,
+      "narrator": "Abu Huraira reported:",
+      "text": "Ebu Hureyre rivayet etti: Bir soru soran, Allah'ın Elçisi'ne (ﷺ) tek bir elbiseyle namaz kılmanın mümkün olup olmadığını sordu. O (Peygamber) dedi ki: Sizden her birinin iki elbisesi var mı?"
+    },
+    {
+      "id": 311,
+      "narrator": "",
+      "text": "Bu hadisi Ebu Hureyre, başka bir raviden benzer şekilde rivayet etmiştir."
+    },
+    {
+      "id": 312,
+      "narrator": "Abu Huraira reported:",
+      "text": "Ebu Hureyre rivayet etti: Bir kişi Allah'ın Elçisi'ne (ﷺ) hitap ederek dedi ki: Bizden biri tek bir elbiseyle namaz kılabilir mi? O dedi: Hepinizin iki elbisesi var mı?"
+    },
+    {
+      "id": 313,
+      "narrator": "Abu Huraira reported:",
+      "text": "Ebu Hureyre rivayet etti: Allah'ın Elçisi (ﷺ) dedi ki: Sizden hiç kimse, omuzlarına hiçbir parçası gelmeyen tek bir elbiseyle namaz kılmamalıdır."
+    },
+    {
+      "id": 314,
+      "narrator": "Umar b. Abu Salama reported:",
+      "text": "Ömer b. Ebu Selama rivayet etti: Allah'ın Elçisi'ni (ﷺ) Umm Selama'nın evinde tek bir elbiseyle namaz kılarken gördüm, iki ucunu omuzlarına yerleştiriyordu."
+    },
+    {
+      "id": 315,
+      "narrator": "",
+      "text": "Bu hadisi Hişam b. Urve, aynı raviler zinciriyle rivayet etmiştir, fakat (bu farkla) mutavassıh kelimesi kullanılmıştır, mushtamilan kelimesi değil."
+    },
+    {
+      "id": 316,
+      "narrator": "'Umar b. Abu Salama reported:",
+      "text": "'Umar b. Ebu Selame şöyle rivayet etmiştir: Allah'ın Messenger'ını (ﷺ) Umm Selame'nin evinde, uçları birbirine geçmiş tek bir elbiseyle namaz kılarken gördüm."
+    },
+    {
+      "id": 317,
+      "narrator": "Umar b. Abu Salama reported:",
+      "text": "'Umar b. Ebu Selame şöyle rivayet etmiştir: Allah'ın Messenger'ını (ﷺ) uçları birbirine geçmiş tek bir elbiseyle namaz kılarken gördüm. 'İsa b. Hammad ekledi: \"Omuzlarına yerleştirerek\"."
+    },
+    {
+      "id": 318,
+      "narrator": "Jabir reported:",
+      "text": "Cabir şöyle rivayet etmiştir: Allah'ın Messenger'ını (ﷺ) iki ucunu birbirine geçirmiş tek bir elbiseyle namaz kılarken gördüm."
+    },
+    {
+      "id": 319,
+      "narrator": "This hadith has been narrated by Sufyan with the same chain of transmitters and in the hadith transmitted by Numair the words are:",
+      "text": "Bu hadis Sufyan tarafından aynı raviler zinciriyle rivayet edilmiştir ve Numair'in rivayetinde geçen sözler şunlardır: \"Allah'ın Messenger'ına (ﷺ) seslendim.\""
+    },
+    {
+      "id": 320,
+      "narrator": "Abu Zubair reported that he saw Jabir b. 'Abdullah praying in a single garment crossing Its ends even though he had the garments, and Jabir said:",
+      "text": "Ebu Zübeyr, Cabir b. Abdullah'ı, uçları birbirine geçmiş tek bir elbiseyle namaz kılarken gördüğünü bildirmiştir; oysa elbiseleri vardı. Cabir dedi ki: Allah'ın Messenger'ını (ﷺ) böyle yaparken gördü."
+    },
+    {
+      "id": 321,
+      "narrator": "Abu Sa'id al Khudri reported:",
+      "text": "Ebu Sa'id el-Hudri şöyle rivayet etmiştir: Resulullah'ı (ﷺ) ziyaret ettim ve onun secde ettiği bir kamış halının üzerinde namaz kıldığını gördüm. Ayrıca uçları birbirine geçmiş tek bir elbiseyle namaz kıldığını gördüm."
+    },
+    {
+      "id": 322,
+      "narrator": "This hadith has been narrated by A'mash with the came chain of transmitters, and in the narration of Abu Karaib the words are:",
+      "text": "Bu hadis A'maş tarafından aynı raviler zinciriyle rivayet edilmiştir ve Ebu Karaib'in rivayetinde geçen sözler şunlardır: \"Uçlarını omuzlarına yerleştirerek\"; Ebu Bekir ve Suvaid tarafından rivayet edilen sözler ise: \"Uçları birbirine geçmiş olarak\"."
+    }
+  ]
+}

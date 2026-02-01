@@ -1,0 +1,86 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 14,
+    "arabic": {
+      "title": "سنن النسائي",
+      "author": "الإمام أحمد بن شعيب النسائي"
+    },
+    "english": {
+      "title": "Sunan an-Nasai",
+      "author": "Imam Ahmad ibn Shuayb an-Nasai"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Hilal bin Al-'Ala' informed us:",
+      "text": "Hilal bin Al-'Ala' bize haber verdi: \"Babam bize aktardı: Ubaidullah -o, İbn 'Amr'dır- Sufyan'dan, İbn Abi Najih'den, Tawus'tan, Zaid bin Thabit'ten, Peygamber'in şöyle söylediğini aktardı: 'Ar-Ruqba caizdir.'\""
+    },
+    {
+      "id": 2,
+      "narrator": "Muhammad bin 'Ali bin Maimun informed us, he said:",
+      "text": "Muhammad bin 'Ali bin Maimun bize haber verdi, dedi ki: \"Muhammad -o, İbn Yusuf'dur- bize aktardı, dedi ki: 'Sufyan, İbn Abi Najih'den, Tawus'tan, bir adamdan, Zaid bin Thabit'ten, Peygamber'in Ruqba'nın verildiği kişiye ait olduğunu hükmettiğini aktardı.'\""
+    },
+    {
+      "id": 3,
+      "narrator": "Zakariyya bin Yahya informed us, he said:",
+      "text": "Zakariyya bin Yahya bize haber verdi, dedi ki: \"Abdul-Jabbar bin Al-'Ala' bize aktardı, dedi ki: 'Sufyan, İbn Abi Najih'den, Tawus'tan, belki de İbn 'Abbas'tan, onun şöyle dediğini aktardı: Ruqba yoktur ve Ruqba'ya dayanarak hediye verenin hediyesi, onun mal varlığının bir parçasıdır.'\""
+    },
+    {
+      "id": 4,
+      "narrator": "Zaid narrated from Abu Az-Zubair, from Tawus, from Ibn 'Abbas that the Messenger of Allah said:",
+      "text": "Zaid, Abu Az-Zubair'den, Tawus'tan, İbn 'Abbas'tan, Allah'ın Elçisi'nin şöyle söylediğini aktardı: \"Ruqba'ya dayanarak malınızı vermeyin, çünkü bu şekilde hediye verenin hediyesi, onu verdiği kişiye aittir.\""
+    },
+    {
+      "id": 5,
+      "narrator": "Hajjaj narrated from Abu Az-Zubair, from Tawus, from Ibn 'Abbas, who said:",
+      "text": "Hajjaj, Abu Az-Zubair'den, Tawus'tan, İbn 'Abbas'tan, onun şöyle dediğini aktardı: \"Allah'ın Elçisi şöyle dedi: 'Umra (ömür boyu hediye) verildiği kişi için caizdir, Ruqba ise verildiği kişi için caizdir ve hediyesini geri alan kimse, kusmuğuna geri dönen kimse gibidir.'\""
+    },
+    {
+      "id": 6,
+      "narrator": "Sufyan narrated from Abu Az-Zubair, from Tawus, from Ibn 'Abbas, who said:",
+      "text": "Sufyan, Abu Az-Zubair'den, Tawus'tan, İbn 'Abbas'tan, onun şöyle dediğini aktardı: \"'Umra ve Ruqba aynıdır.'\""
+    },
+    {
+      "id": 7,
+      "narrator": "(A different chain) from Sufyan, from Abu Az-Zubair, from Tawus, from Ibn 'Abbas, who said:",
+      "text": "(Farklı bir senet) Sufyan'dan, Abu Az-Zubair'den, Tawus'tan, İbn 'Abbas'tan, onun şöyle dediğini aktardı: \"Ruqba ve 'Umra caiz değildir; 'Umra'ya dayanarak bir şey verilen kimse, o şey ona aittir ve Ruqba'ya dayanarak bir şey verilen kimse, o şey de ona aittir.\""
+    },
+    {
+      "id": 8,
+      "narrator": "(A different chain) from Hajjaj, from Abu Az-Zubair, from Tawus, from Ibn 'Abbas, who said:",
+      "text": "(Farklı bir senet) Hajjaj'dan, Abu Az-Zubair'den, Tawus'tan, İbn 'Abbas'tan, onun şöyle dediğini aktardı: \"'Umra ve Ruqba uygun değildir. 'Umra veya Ruqba'ya dayanarak bir şey veren kimse, onu verdiği kişiye aittir, hem yaşamında hem de ölümünden sonra.\" Hanzalah bunu Mursal olarak aktardı."
+    },
+    {
+      "id": 9,
+      "narrator": "Hanzalah narrated that he heard Tawus say:",
+      "text": "Hanzalah, Tawus'un şöyle dediğini duyduğunu aktardı: \"Allah'ın Elçisi şöyle dedi: 'Ruqba caiz değildir. Ruqba'ya dayanarak bir şey verilen kimse, onun mal varlığının bir parçasıdır.'\""
+    },
+    {
+      "id": 10,
+      "narrator": "Sufyan narrated from Ibn Abi Najih, from Tawus, from Zaid bin Thabit, who said:",
+      "text": "Sufyan, İbn Abi Najih'den, Tawus'tan, Zaid bin Thabit'ten, onun şöyle dediğini aktardı: \"Allah'ın Elçisi şöyle dedi: 'Umra (ömür boyu verilen hediye) mal varlığının bir parçasıdır.'\""
+    },
+    {
+      "id": 11,
+      "narrator": "Sufyan narrated from Ibn Tawus, from his father, from Hujr Al-Madari, from Zaid, who said:",
+      "text": "Sufyan, İbn Tawus'dan, babasından, Hujr Al-Madari'den, Zaid'den, onun şöyle dediğini aktardı: \"Allah'ın Elçisi şöyle dedi: 'Umra (ömür boyu verilen hediye) mirasçınındır.'\""
+    },
+    {
+      "id": 12,
+      "narrator": "Ma'mar narrated from Ibn Tawus, from his father, from Hujr Al-Madari, from Zaid bin Thabit, from Prophet, who said:",
+      "text": "Ma'mar, İbn Tawus'dan, babasından, Hujr Al-Madari'den, Zaid bin Thabit'ten, Peygamber'den, onun şöyle dediğini aktardı: \"'Umra (ömür boyu verilen hediye) caizdir.'\""
+    },
+    {
+      "id": 13,
+      "narrator": "Ma'mar narrated from 'Amr bin Dinar, from Tawus, from Zaid bin Thabit, that the Prophet said:",
+      "text": "Ma'mar, 'Amr bin Dinar'dan, Tawus'tan, Zaid bin Thabit'ten, Peygamber'in şöyle dediğini aktardı: \"'Umra (ömür boyu verilen hediye) mirasçınındır.\""
+    },
+    {
+      "id": 14,
+      "narrator": "(A different chain) from Ma'mar who said:",
+      "text": "(Farklı bir senet) Ma'mar'dan, o şöyle dedi: \"Ben 'Amr bin Dinar'ın, Tawus'tan, Hujr Al-Madari'den, Zaid bin Thabit'ten, Allah'ın Elçisi'nin şöyle dediğini aktardığını duydum: \"'Umra (ömür boyu verilen hediye) mirasçınındır.\" Ve Allah en iyi bilendir.\""
+    }
+  ]
+}

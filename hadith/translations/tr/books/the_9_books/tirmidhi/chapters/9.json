@@ -1,0 +1,806 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 158,
+    "arabic": {
+      "title": "سنن الترمذي",
+      "author": "الإمام محمد بن عيسى الترمذي"
+    },
+    "english": {
+      "title": "Jami at-Tirmidhi",
+      "author": "Imam Muhammad ibn Isa at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Sa'eed bin Abi Sa'eed Al Maqbury narrated:",
+      "text": "Sa'eed bin Abi Sa'eed Al Maqbury rivayet etti: \"Abu Shuraih Al-Adawi, Amr bin Sa'eed Mekkah'a asker gönderirken ona şöyle dedi: 'Ey Amr! Mekkah'ın Fethi'nden sonraki gün, Allah'ın Resulü'nün ne söylediğini sana aktarmama izin ver. Kulaklarım bunu duydu, kalbim bunu iyice anladı ve kendi gözlerimle, Peygamber'in Allah'ı övüp yücelttikten sonra şöyle dediğini gördüm: \"Şüphesiz Allah, en Yüce olan, Mekkah'ı bir haram kıldı, onu insanlar haram kılmadı. Bu nedenle, Allah'a ve Ahiret Günü'ne iman eden bir insanın orada kan dökmesi veya ağaçlarını kesmesi helal değildir. Eğer biri, Allah'ın Resulü'nü orada savaşmak için bir bahane olarak kullanmaya çalışırsa, ona de ki: 'Şüphesiz Allah, Resulüne izin verdi, ama sana izin vermedi.' Allah bunu sadece bir günün birkaç saatine benim için helal kıldı, ve bugün onun kutsallığı, önceden olduğu gibi geri dönmüştür. O halde, hazır olan, yok olanlara iletsin.\" Abu Shuraih'e soruldu: \"Amr bin Sa'eed'in sana cevabı neydi?\" O da şöyle dedi: \"Bu konuda senden daha bilgiliyim, ey Abu Shuraih! Haram, isyan eden bir kişiye, cinayet işleyen bir kişiye veya kanunsuzluktan kaçan bir kişiye koruma sağlamaz.\""
+    },
+    {
+      "id": 2,
+      "narrator": "Abdullah (bin Mas'ud) narrated that:",
+      "text": "Abdullah (bin Mes'ud) rivayet etti ki: Allah'ın Resulü şöyle dedi: \"Hac ile Umre arasında dönüşümlü olarak yapın; çünkü bu ikisi, demir, altın ve gümüşten pisliği gideren körük gibi, fakirliği ve günahları ortadan kaldırır - ve makbul Hac'ın karşılığı cennetten başka bir şey değildir.\""
+    },
+    {
+      "id": 3,
+      "narrator": "Abu Hurairah narrated that :",
+      "text": "Abu Hurairah rivayet etti ki: Allah'ın Resulü şöyle dedi: \"Kim Allah için Hac yapar ve ne cinsel ilişkiye girer ne de herhangi bir günah işlerse, onun geçmiş günahları affedilecektir.\""
+    },
+    {
+      "id": 4,
+      "narrator": "Ali narrated that :",
+      "text": "Ali rivayet etti ki: Allah'ın Resulü şöyle dedi: \"Kim Allah'ın Evine götürecek maddi imkânlara ve ulaşım aracına sahipse ve Hac yapmazsa, onun Yahudi veya Hristiyan olarak ölmesi önemli değildir. Çünkü Allah, Kitabında şöyle buyurmuştur: 'Hac, insanlığın Allah'a karşı borcudur; bu, yolculuğa gücü yeten herkes içindir.'\""
+    },
+    {
+      "id": 5,
+      "narrator": "Ibn Umar narrated:",
+      "text": "İbn Umar rivayet etti: \"Bir adam Peygamber'e geldi ve dedi ki: 'Ey Allah'ın Resulü! Hac'ı farz kılan nedir?' O da şöyle dedi: 'Maddi imkânlar ve ulaşım aracı.'\""
+    },
+    {
+      "id": 6,
+      "narrator": "Ali bin Abi Talib narrated:",
+      "text": "Ali bin Abi Talib rivayet etti: \"Allah, 'Hac, insanlığın Allah'a karşı borcudur; bu, yolculuğa gücü yeten herkes içindir.' ayetini indirdiğinde, onlar: 'Ey Allah'ın Resulü! Bu her yıl mı?' diye sordular. O suskun kaldı. Bunun üzerine: 'Ey Allah'ın Resulü! Bu her yıl mı?' dediler. O da: 'Hayır. Eğer evet deseydim, farz kılınmış olurdu.' dedi. Bunun üzerine Allah, 'Ey iman edenler! Açıkça size zarar verebilecek şeyleri sormayın.' ayetini indirdi.\""
+    },
+    {
+      "id": 7,
+      "narrator": "Jabir bin Abdullah narrated:",
+      "text": "Cabir bin Abdullah rivayet etti: \"Peygamber, Hac'ı üç kez yaptı. Hicretinden önce iki kez Hac yaptı ve hicretten sonra bir kez Hac yaptı ve bunlar Umre ile birlikteydi. Altmış üç kurbanlık hayvan (Budn) getirdi ve Ali, onların geri kalanıyla Yemen'den geldi; aralarında, burnunda gümüş bir halka olan Abu Cehil'in bir devesi vardı. O (Allah'ın Resulü) onları kesip, her birinin bir parçasının pişirilmesini emretti ve et suyundan içti.\""
+    },
+    {
+      "id": 8,
+      "narrator": "Qatadah narrated:",
+      "text": "Katade rivayet etti: \"Ben Anas bin Malik'e dedim ki: 'Peygamber kaç kez Hac yaptı?' O da: 'Bir Hac yaptı ve dört Umre yaptı: Bir Umre Dhul-Qa'dah'da; Hudeybiye Umresi, Hac ile birlikteki Umre ve Huneyn savaş ganimetlerini paylaştığında Al-Ji'irranah'tan bir Umre.' dedi.\""
+    },
+    {
+      "id": 9,
+      "narrator": "Ibn Abbas narrared:",
+      "text": "İbn Abbas rivayet etti: \"Allah'ın Resulü dört Umre yaptı: Hudeybiye Umresi, bir sonraki yıl (yani) Dhul-Qa'dah'da Kısas Umresi, Al-Ji'irranah'tan üçüncü Umre ve dördüncüsü Hac'ı ile birlikteydi.\""
+    },
+    {
+      "id": 10,
+      "narrator": "Jabir bin Abdullah narrated:",
+      "text": "Cabir bin Abdullah rivayet etti: \"Peygamber Hac yapmak istediğinde, bunu insanlara duyurdu ve onlar (ona katılmak için) toplandılar. Al-Baida'ya ulaştığında ihrama girdi.\""
+    },
+    {
+      "id": 11,
+      "narrator": "Ibn Umar narrated:",
+      "text": "İbn Umar rivayet etti: \"Al-Baida, Allah'ın Resulü hakkında yalan söyledikleri yer. Vallahi! Allah'ın Resulü, Talbiyah'a ancak mescidin yakınında, ağaçların yanında başladı.\""
+    },
+    {
+      "id": 12,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "İbn Abbas rivayet etti: \"Peygamber, Salat'tan sonra Talbiyah'a başladı.\""
+    },
+    {
+      "id": 13,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe rivayet etti: \"Allah'ın Resulü, İfrad Hac'ını yaptı.\""
+    },
+    {
+      "id": 14,
+      "narrator": "Anas narrated:",
+      "text": "Anas rivayet etti: \"Peygamber'in şöyle dediğini duydum: (Labbaika Bi'umratin wa Hajjah) 'Buradayım, Umre ve Hac için.'\""
+    },
+    {
+      "id": 15,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "İbn Abbas rivayet etti: \"Allah'ın Resulü Tamattu yaptı, Abu Bekir, Ömer ve Osman da öyle yaptı. Bunu yasaklayan ilk kişi Muaviye'dir.\""
+    },
+    {
+      "id": 16,
+      "narrator": "Muhammad bin Abdullah bin Al-Harith bin Nawfal narrated that:",
+      "text": "Muhammed bin Abdullah bin Al-Harith bin Nawfal, Sa'd bin Abi Waqas ve Ad-Dahhak bin Kays'ın \"Umre'den Hac'a kadar Tamattu\" hakkında konuşurken duyduğunu nakletmiştir. Ad-Dahhak bin Kays şöyle dedi: \"Bunu ancak Allah'ın emrini bilmeyen biri yapar.\" Sa'd dedi ki: \"Ey yeğenim, söylediklerin ne korkunç!\" Bunun üzerine Ad-Dahhak (bin Kays) dedi: \"Gerçekten Ömer bin Hattab bunu yasakladı.\" Sa'd dedi ki: \"Allah'ın Resulü bunu yaptı ve biz de onunla birlikte yaptık.\""
+    },
+    {
+      "id": 17,
+      "narrator": "Salim bin Abdullah narrated that :",
+      "text": "Salim bin Abdullah, Şam'dan bir adamın Abdullah bin Ömer'e Umre'den Hac'a kadar Tamattu hakkında sorduğunu nakletti. Abdullah bin Ömer dedi ki: \"Bu helaldir.\" Şam'dan gelen adam dedi ki: \"Ama baban bunu yasakladı.\" Abdullah bin Ömer dedi ki: \"Emir, babamı takip etmek mi yoksa Allah'ın Resulü'nü takip etmek mi?\" Adam dedi ki: \"Elbette Allah'ın Resulü'nü takip etmek.\" Bunun üzerine Abdullah bin Ömer dedi ki: \"Gerçekten Allah'ın Resulü bunu yaptı.\""
+    },
+    {
+      "id": 18,
+      "narrator": "Ibn Umar narrated:",
+      "text": "İbn Ömer nakletti: \"Peygamber, Telbiye için şu şekilde derdi: 'Labbaik Allahumma labbaik. Labbaik la sharika laka labbaik. Innal-hamda wan-ni'mata laka wal-mulk, la sharika laka.' (Ey Allah! Senin çağrına icabet ediyorum! Senin çağrına icabet ediyorum. Senin ortağın yok. Senin çağrına icabet ediyorum. Bütün övgü, şükür ve nimetler Senindir. Bütün saltanat Senindir. Ve Seninle birlikte hiçbir ortak yoktur.)\""
+    },
+    {
+      "id": 19,
+      "narrator": "Nafi` narrated:",
+      "text": "Nafi' nakletti: İbn Ömer telbiye okuduğunda şöyle devam ederdi: \"Labbaik Allahumma labbaik. Labbaik la sharika laka labbaik. Innal-hamda wan-ni'mata laka wal-mulk, la sharika laka.\" (Ey Allah! Senin çağrına icabet ediyorum! Senin çağrına icabet ediyorum, Senin ortağın yok, Senin çağrına icabet ediyorum. Bütün övgü, şükür ve nimetler Senindir. Ve Seninle birlikte hiçbir ortak yoktur.) Dedi ki: \"Abdullah bin Ömer şöyle derdi: 'Bu, Allah'ın Resulü'nün Telbiyesidir.' Kendisi, Allah'ın Resulü'nün Telbiyesinden sonra şu ifadeyi eklerdi: 'Labbaik labbaika wa-sa'daik, wal-khayru fi yadaik. Labbaika war-raghba'u ilaika wal-amal.' (Senin çağrına icabet ediyorum, emirlerine itaat ediyorum, bütün hayır Senin ellerindedir. Senin çağrına icabet ediyorum ve istekler ve ameller Senindir.)\""
+    },
+    {
+      "id": 20,
+      "narrator": "Abu Bakr As-Siddiq narrated that:",
+      "text": "Ebu Bekir Es-Sıddık nakletti: Allah'ın Resulüne soruldu: \"Hangi Hac en faziletlisidir?\" O da şöyle dedi: \"Seslerin yükseldiği (Al-Ajj) ve kanların aktığı (Ath-Thajj) Hac.\""
+    },
+    {
+      "id": 21,
+      "narrator": "Sahl bin Sa'd narrated that :",
+      "text": "Sahl bin Sa'd nakletti: Allah'ın Resulü şöyle dedi: \"Telbiye okuyan bir Müslüman yoktur ki - sağında ve solunda, yeryüzünün sonuna kadar, buradan oraya - taşlar, ağaçlar veya çamur telbiye okumasın.\""
+    },
+    {
+      "id": 22,
+      "narrator": "Khallad bin As-Sa'ib (bin Khalad) narrated from his father:",
+      "text": "Khallad bin Es-Sa'ib (bin Khalad) babasından nakletti: Babası şöyle dedi: \"Allah'ın Resulü şöyle dedi: 'Cebrail bana geldi ve arkadaşlarıma İhlal veya Telbiye ile seslerini yükseltmelerini emretmemi söyledi.'\""
+    },
+    {
+      "id": 23,
+      "narrator": "Zaid bin Thabit narrated from his father :",
+      "text": "Zaid bin Sabit babasından nakletti: Babası, Peygamberin İhlal için elbiselerini çıkardığını ve gusül aldığını gördüğünü söyledi."
+    },
+    {
+      "id": 24,
+      "narrator": "Ibn Umar narrated that:",
+      "text": "İbn Ömer nakletti: Bir adam dedi ki: \"Ey Allah'ın Resulü! İhramımıza nereden başlamalıyız?\" O da dedi ki: \"Medineli insanlar İhramlarını Dhul-Hulaifah'tan, Şam'dan gelenler Al-Juhfah'tan, Necd'den gelenler ise Qarn'dan başlar.\" Ve o (İbn Ömer) dedi ki: \"Ve Yemen halkı Yalamlam'dan başlar.\""
+    },
+    {
+      "id": 25,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "İbn Abbas nakletti: \"Peygamber, Al-Aqiq'i batı halkı için Miqat yaptı.\""
+    },
+    {
+      "id": 26,
+      "narrator": "Ibn Umar narrated:",
+      "text": "İbn Ömer nakletti: \"Bir adam ayağa kalktı ve dedi ki: 'Ey Allah'ın Resulü! Al-Haram'da hangi elbiseleri giymemizi emredersin?' Allah'ın Resulü dedi: 'Gömlek, pantolon, hırka, sarık giymeyin, Khuff dışında; eğer sandalet bulamazsa Khuff giysin, ama bileklerin altından kesilsin. Ve safran veya Wars ile dokunmuş herhangi bir kumaş giymeyin. İhramda olan kadın yüzünü örtmeyecek, eldiven giymeyecek.'\""
+    },
+    {
+      "id": 27,
+      "narrator": "Ibn Abbas narrated that:",
+      "text": "İbn Abbas nakletti: \"Muhrim bir İzâr bulamazsa, pantolon giysin, eğer sandalet bulamazsa, Khuff giysin.\""
+    },
+    {
+      "id": 28,
+      "narrator": "Ya'la bin Umayyah narrated:",
+      "text": "Ya'la bin Umayyah nakletti: \"Allah'ın Resulü, ihramda olan bir bedeviyi gördü ve ona örtüsünü çıkarmasını emretti.\""
+    },
+    {
+      "id": 29,
+      "narrator": "Ya'la bin Umayyah narrated:",
+      "text": "Ya'la bin Umayyah, no. 835'e benzer bir hadis nakletti, ancak farklı bir isnad ile."
+    },
+    {
+      "id": 30,
+      "narrator": "Aishah narrated that :",
+      "text": "Aişe nakletti: \"Allah'ın Resulü şöyle dedi: 'Haramda öldürülebilecek beş Fawasiq vardır: fare, akrep, karga, şahin ve dikenli köpek.'\""
+    },
+    {
+      "id": 31,
+      "narrator": "Abu Sa'eed narrated that:",
+      "text": "Ebu Sa'id rivayet etti ki: Peygamber şöyle dedi: \"Mührim, yırtıcı hayvanı, kuduz köpeği, fareyi, akrebi, kızıl şahin ve kuzgunu öldürebilir.\""
+    },
+    {
+      "id": 32,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "İbn Abbas rivayet etti: \"Allah'ın Elçisi, ihramdayken hacamat yaptırdı.\""
+    },
+    {
+      "id": 33,
+      "narrator": "Nubaih bin Wahb narrated:",
+      "text": "Nübeyh bin Vahb rivayet etti: \"İbn Ma'mar, oğlunu evlendirmek istedi. Beni, Hac sezonunun amiri olan Aban bin Osman'a gönderdi. Ona gittim ve dedim ki: 'Kardeşin oğlunu evlendirmek istiyor ve senin bunu şahitlik etmeni istiyor.' O da dedi ki: 'Sanırım o sadece kaba bir bedevidir; gerçekten de mührim evlenemez ve başkalarını evlendiremez.'\" - ya da benzeri bir şey söyledi - sonra Uthman'dan benzeri bir rivayet aktardı (Peygamber'den)."
+    },
+    {
+      "id": 34,
+      "narrator": "Abu Rafi narrated:",
+      "text": "Ebu Rafi rivayet etti: \"Allah'ın Elçisi, Maimuna ile Halal iken evlendi ve onunla Halal iken birlikte kaldım, ben de onların arasında elçi oldum.\""
+    },
+    {
+      "id": 35,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "İbn Abbas rivayet etti: \"Peygamber, Maimuna ile mührimken evlendi.\""
+    },
+    {
+      "id": 36,
+      "narrator": "(Another chain) that Ibn Abbas narrated:",
+      "text": "(Başka bir isnadla) İbn Abbas rivayet etti: \"Peygamber, Maimuna ile mührimken evlendi.\""
+    },
+    {
+      "id": 37,
+      "narrator": "(Another chain) that Ibn Abbas narrated:",
+      "text": "(Başka bir isnadla) İbn Abbas rivayet etti: \"Peygamber, Maimuna ile mührimken evlendi.\""
+    },
+    {
+      "id": 38,
+      "narrator": "Yazid bin Al-Asamm narrated about Maimunah:",
+      "text": "Yezid bin El-Asamm, Maimuna hakkında rivayet etti: \"Allah'ın Elçisi, onunla Halal iken evlendi ve onunla Halal iken birlikte kaldı. O, Sarif'te vefat etti ve biz onu, onunla birlikte kaldığı çadırın (yerinde) defnettik.\""
+    },
+    {
+      "id": 39,
+      "narrator": "Jabir bin Abdullah narrated that:",
+      "text": "Cabir bin Abdullah rivayet etti ki: Peygamber şöyle dedi: \"Siz ihramdayken kara avı sizin için helaldir, yeter ki onu avlamış olmayın - ya da - sizin için avlanmamış olsun.\""
+    },
+    {
+      "id": 40,
+      "narrator": "Abu Qatadah narrated that:",
+      "text": "Ebu Katade rivayet etti ki: O, Peygamber ile birlikteydi ve Mekke yollarından birine geldiğinde bazı sahabeler mührim, o (Ebu Katade) ise mührim değildi. Bir yaban eşeği gördü, atına bindi, arkadaşlarından kırbaç vermelerini istedi ama reddettiler, sonra mızrağını vermelerini istedi ve yine reddettiler. O da (kendisi) onu alıp vurdu ve öldürdü. Peygamberin bazı arkadaşları onu yedi, bazıları ise reddetti. Peygamber'e yetiştiklerinde bu konuda sordular ve o şöyle dedi: \"Bu, Allah'ın size yedirdiği bir yiyecektir.\""
+    },
+    {
+      "id": 41,
+      "narrator": "(Another chain that) Abu Qatadah narrated:",
+      "text": "(Başka bir isnadla) Ebu Katade rivayet etti: Yaban eşeği hakkında, ve bu, Ebu En-Nadr'ın rivayetinin benzeridir, ancak Zaid bin Aslam'ın rivayetinde Allah'ın Elçisi şöyle dedi: \"Yanınızda onun etinden bir şey kaldı mı?\""
+    },
+    {
+      "id": 42,
+      "narrator": "Ibn Abbas narrated that:",
+      "text": "İbn Abbas rivayet etti ki: Es-S'ab bin Cethame, Allah'ın Elçisi'nin Al-Abva veya Bawaddan'dan geçtiğini bildirdi. O (Es-S'ab), ona bir yaban eşeği verdi ama o bunu reddetti. Allah'ın Elçisi, yüzünde bir üzüntü gördüğünde şöyle dedi: \"Seni reddetmeyiz ama biz ihramdayız.\""
+    },
+    {
+      "id": 43,
+      "narrator": "Abu Hurairah narrated:",
+      "text": "Ebu Hureyre rivayet etti: \"Hac veya Umre sırasında Allah'ın Elçisi ile birlikteydik ve bir çekirge sürüsüyle karşılaştık. Onlara kırbaçlarımızla vurduk ve değneklerimizi kullandık, Peygamber şöyle dedi: 'Onu yiyin, çünkü bu deniz avıdır.'\""
+    },
+    {
+      "id": 44,
+      "narrator": "Ibn Abi Ammar said:",
+      "text": "İbn Ebi Ammar dedi ki: \"Cabir bin Abdullah'a sordum: 'Sırtlan av mıdır?' O dedi ki: 'Evet.'\" Dedi ki: \"Ben de: 'Yenilebilir mi?' dedim. O da: 'Evet.' dedi.\" Dedi ki: \"Ben de: 'Allah'ın Elçisi bunu söyledi mi?' dedim. O da: 'Evet.' dedi.\""
+    },
+    {
+      "id": 45,
+      "narrator": "Ibn Umar narrated:",
+      "text": "İbn Ömer rivayet etti: \"Peygamber, Mekke'ye Fakhkh'ta girdiğinde gusül aldı.\""
+    },
+    {
+      "id": 46,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe rivayet etti: \"Peygamber Mekkeye geldiğinde, yüksek tarafından girdi ve alçak tarafından çıktı.\""
+    },
+    {
+      "id": 47,
+      "narrator": "Ibn Umar narrated:",
+      "text": "İbn Ömer rivayet etti: \"Peygamber Mekkeye gündüz vakti girdi.\""
+    },
+    {
+      "id": 48,
+      "narrator": "Al-Muhajir Al-Makki said:",
+      "text": "El-Muhacir El-Mekki dedi ki: \"Câbir bin Abdullah'a, Kâbe'yi gördüğünde bir adamın ellerini kaldırması hakkında soruldu. O da: 'Biz Allah Resulü ile Hac yaptık ve bunu yaptık.' dedi.\""
+    },
+    {
+      "id": 49,
+      "narrator": "Jabir narrated:",
+      "text": "Câbir rivayet etti: \"Peygamber Mekkeye vardığında, Mescide girdi ve Hacerü'l-Esved'e dokundu, sonra sağa gitti ve üç döngü Raml (hızlı yürüyüş) yaptı ve dört döngü yürüdü. Sonra Mâkâm'a geldi ve: 'İbrahim'in Mâkâmını namaz kılmak için bir yer edinin.' dedi. Sonra Mâkâm onunla Kâbe arasında iken iki Rek'at namaz kıldı. Sonra iki Rek'at namazdan sonra Hacerü'l-Esved'e dokunmak için geldi, sonra As-Safa'ya gitti - sanırım - dedi ki: 'Şüphesiz As-Safa ve El-Marwah, Allah'ın sembollerindendir.'\""
+    },
+    {
+      "id": 50,
+      "narrator": "Jabir narrated:",
+      "text": "Câbir rivayet etti: \"Peygamber Hacerü'l-Esved'den Hacerü'l-Esved'e üç döngü Raml yaptı ve dört döngü yürüdü.\""
+    },
+    {
+      "id": 51,
+      "narrator": "Abu Tufail narrated:",
+      "text": "Ebu Tüfeyl rivayet etti: \"İbn Abbas ile birlikteydim ve Muaviye hiçbir köşeyi dokunmadan geçmiyordu. Bunun üzerine İbn Abbas ona: 'Peygamber Hacerü'l-Esved ve Yemen köşesi dışında hiçbir yere dokunmazdı.' dedi. Muaviye de: 'Kâbe'nin dokunulmaz bir yeri yoktur.' dedi.\""
+    },
+    {
+      "id": 52,
+      "narrator": "Ibn Ya'la narrated from his father:",
+      "text": "İbn Ya'la babasından rivayet etti: \"Peygamber, Kâbe'yi Mudtabi'an tavaf etti ve üzerinde bir Burd vardı.\""
+    },
+    {
+      "id": 53,
+      "narrator": "Abbas bin Rabi'ah said:",
+      "text": "Abbas bin Rabia dedi ki: \"Umar bin Hattab'ı Hacerü'l-Esved'i öperken ve: 'Ben seni öpüyorum, senin sadece bir taş olduğunu bildiğim halde, eğer Allah Resulü seni öperken görmemiş olsaydım, seni öpmezdim.' derken gördüm.\""
+    },
+    {
+      "id": 54,
+      "narrator": "Az-Zubair bin Arabi narrated:",
+      "text": "Zübeyir bin Arabi rivayet etti: \"Bir adam İbn Ömer'e Hacerü'l-Esved'e dokunmak hakkında sordu, o da: 'Peygamberi onu dokunurken ve öperken gördüm.' dedi. Adam da: 'Eğer Kâbe etrafında bir kalabalık olursa ne dersin ve eğer insanlar beni ezip geçerse ne dersin?' İbn Ömer: 'Ne dersin'i Yemen'de bırak. Ben Peygamberi onu dokunurken ve öperken gördüm.' dedi.\""
+    },
+    {
+      "id": 55,
+      "narrator": "Jabir narrated:",
+      "text": "Câbir rivayet etti: \"Peygamber Mekkeye vardığında, Kâbe etrafında yedi döngü tavaf etti. Sonra Mâkâm'a geldi ve: 'İbrahim'in Mâkâmını namaz kılmak için bir yer edinin.' dedi. Sonra Mâkâm'ın arkasında namaz kıldı. Sonra Hacerü'l-Esved'e dokunmak için geldi. Sonra: 'Allah'ın başladığıyla başlayalım.' dedi. Böylece As-Safa'dan başladı ve: 'Şüphesiz As-Safa ve El-Marwah, Allah'ın sembollerindendir.' diye okudu.\""
+    },
+    {
+      "id": 56,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "İbn Abbas rivayet etti: \"Allah Resulü sadece Kâbe'nin Sa'i'sini ve As-Safa ile El-Marwah arasında Sa'i yaptı ki bu da putperestlere gücünü göstermektir.\""
+    },
+    {
+      "id": 57,
+      "narrator": "Kathir bin Jumhan said:",
+      "text": "Kethir bin Cumhan dedi ki: \"İbn Ömer'i Sa'i yerinde yürürken gördüm, bu yüzden ona: 'As-Safa ile El-Marwah arasında Sa'i yerinde mi yürüyorsun?' dedim. O da: 'Eğer Sa'i yaparsam, bu Allah Resulü'nün orada Sa'i yaptığını gördüğüm içindir, eğer yürüyorsam, bu da Allah Resulü'nün yürüdüğünü gördüğüm içindir. Ben de yaşlı bir adamım.' dedi.\""
+    },
+    {
+      "id": 58,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "İbn Abbas rivayet etti: \"Peygamber, binek üzerinde tavaf yaptı, Hacerü'l-Esved köşesine geldiğinde, ona işaret etti.\""
+    },
+    {
+      "id": 59,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "İbn Abbas rivayet etti: \"Kim Kâbe etrafında elli kez tavaf ederse, annesinin onu doğurduğu gün gibi günahlarından arınmış olur.\""
+    },
+    {
+      "id": 60,
+      "narrator": "Ayyub As-Sakhtiyani said:",
+      "text": "Eyyub Es-Sakhtiyani dedi ki: \"Abdullah bin Sa'id bin Cübeyr'i babasından daha iyi kabul ederdik ve onun da Abdullah bin Sa'id bin Cübeyr adında bir kardeşi vardı ki o da ondan rivayette bulunmuştur.\""
+    },
+    {
+      "id": 61,
+      "narrator": "Jubair bin Mut'im narrated that :",
+      "text": "Jubair bin Mut'im rivayet etti ki: Peygamber şöyle dedi: \"Ey Banu Abd Manaf! Bu Ev'in etrafında Tawaf yapanı ve Salat kılanı engellemeyin, gece veya gündüz hangi saatte olursa olsun.\""
+    },
+    {
+      "id": 62,
+      "narrator": "Jabir bin Abdullah narrated:",
+      "text": "Jabir bin Abdullah rivayet etti: Tawaf'ın iki Rek'atında, Allah'ın Elçisi iki İhlas Suresi'ni okudu: \"De ki: Ey kâfirler!\" ve: \"De ki: O, Allah'tır, (tek) olan.\""
+    },
+    {
+      "id": 63,
+      "narrator": "Ja'far bin Muhammad narrated from his father:",
+      "text": "Ja'far bin Muhammed babasından rivayet etti: Tawaf'ın iki Rek'atında \"De ki: Ey kâfirler!\" ve \"De ki: O, Allah'tır, (tek) olan.\" okunmasını tavsiye ettiğini düşündü."
+    },
+    {
+      "id": 64,
+      "narrator": "Zaid bin Uthai said:",
+      "text": "Zaid bin Uthai dedi ki: Ali'ye sordum: \"Seninle ne ile gönderildi?\" O dedi ki: \"Dört şey ile: Cennete yalnızca Müslüman ruhu girecek. Hiç kimse bu Ev'in etrafında çıplak Tawaf yapmayacak. Müslümanlar ve putperestler bu yıldan sonra (Mekke'de) bir araya gelmeyecek. Ve Peygamber ile arasında bir ahit olan kimse, ahdi süresince geçerlidir; süresi olmayan için ise dört ay olacaktır.\""
+    },
+    {
+      "id": 65,
+      "narrator": "Zaid bin Uthai said:",
+      "text": "Zaid bin Uthai dedi ki: (Başka bir isnad) ve dediler ki: \"Zaid bin Yuthai\" ve bu daha doğrudur."
+    },
+    {
+      "id": 66,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe rivayet etti: \"Peygamber, yüzünde bir sevinç ifadesi ile benden ayrıldı ve bana döndüğünde hüzünlüydü. Ben de bunu sordum, o da: 'Kabe'ye girdim, ve bunu yapmamış olmayı dilerdim. Ümmetimin benim ardından bunu takip edeceğinden korkuyorum.' dedi.\""
+    },
+    {
+      "id": 67,
+      "narrator": "Ibn Umar narrated from Bilal:",
+      "text": "İbn Ömer, Bilal'den rivayet etti: \"Peygamber, Kabe'nin içinde Salat kıldı.\" İbn Abbas ise dedi ki: \"O, içinde Salat kılmadı, ama Tekbir getirdi.\""
+    },
+    {
+      "id": 68,
+      "narrator": "Al-Aswad bin Yazid narrated that:",
+      "text": "El-Esved bin Yazid rivayet etti ki: İbn Az-Zubair ona dedi: \"Bana, Müminlerin Annesi'nin (gizlice) sana bildirdiği şeylerden rivayet et.\" - Aişe'yi kastederek - o da dedi ki: \"O, bana Allah'ın Elçisi'nin şöyle dediğini rivayet etti: 'Eğer halkınız İslam öncesi cehalet dönemine yakın olmasaydı, Kabe'yi yıkar ve iki kapı ile yeniden inşa ederdim.' Dedi ki: \"İbn Az-Zubair iktidara geldiğinde, onu yıktı ve iki kapı ile yeniden inşa etti.\""
+    },
+    {
+      "id": 69,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe rivayet etti: \"Ben, Ev'e girip içinde Salat kılmak istedim, bunun üzerine Allah'ın Elçisi beni elimden tutarak Hicr'e koydu ve dedi ki: 'Ev'e girmek istiyorsan Hicr'de Salat kıl. Çünkü burası Ev'in bir parçasıdır, ama halkınız Kabe'yi inşa ettiklerinde bunu önemsiz gördü ve Ev'in dışına koydu.'\""
+    },
+    {
+      "id": 70,
+      "narrator": "Ibn Abbas narrated that:",
+      "text": "İbn Abbas rivayet etti ki: Allah'ın Elçisi şöyle dedi: \"Hacerü'l-Esved, Cennetten indi ve süt kadar beyazdı, sonra Adem'in çocuklarının günahlarıyla karardı.\""
+    },
+    {
+      "id": 71,
+      "narrator": "Abdullah bin Amr narrated that :",
+      "text": "Abdullah bin Amr rivayet etti ki: Allah'ın Elçisi'nin şöyle dediğini işitti: \"Şüphesiz, köşe ve Makam, Cennetin korundumlarından iki korundumdur. Allah onların ışıklarını aldı, eğer ışıkları alınmasaydı doğu ile batı arasını aydınlatırlardı.\""
+    },
+    {
+      "id": 72,
+      "narrator": "Ata reported that Ibn Abbas narrated:",
+      "text": "Ata, İbn Abbas'tan rivayet etti: \"Allah'ın Elçisi, Mina'da Zuhr, Asr, Maghrib, İsha ve Fajr'da bize Salat kıldırdı, sonra sabah Arafat'a gitti.\""
+    },
+    {
+      "id": 73,
+      "narrator": "Al-Hakam reported from Miqsam, that Ibn Abbas narrated:",
+      "text": "El-Hakem, Miqsam'dan rivayet etti ki, İbn Abbas şöyle dedi: Peygamber, Mina'da Zuhr ve Fajr'ı kıldı, sonra sabah Arafat'a gitti."
+    },
+    {
+      "id": 74,
+      "narrator": "Aishah said:",
+      "text": "Aişe dedi ki: \"Biz dedik: 'Ey Allah'ın Elçisi! Mina'da seni gölgelendirecek bir yapı inşa edelim mi?' O dedi: 'Hayır, Mina, gelen herkes için bir dinlenme yeridir.'\""
+    },
+    {
+      "id": 75,
+      "narrator": "Harithah bin Wahb said:",
+      "text": "Harithah bin Wahb dedi ki: \"Mina'da Peygamber ile iki Rek'at kıldım ve insanlar her zamankinden daha emniyetliydiler.\""
+    },
+    {
+      "id": 76,
+      "narrator": "Amr bin Dinar narrated from Amr bin Abdulah bin Safwan, that Yazid bin Shaiban said:",
+      "text": "Amr bin Dinar, Amr bin Abdullah bin Safwan'dan rivayet etti, Yazid bin Shaiban şöyle dedi: \"İbn Mirba Al-Ansari bize geldi, biz de yerlerimizde duruyorduk\" (Amr bin Sinar şöyle dedi:) Amr'ın (bin Abdullah) işaret ettiği yer uzaktı - \"ve dedi ki: 'Ben, size, Allah'ın Resulü tarafından gönderilen bir elçiyim. Hac ritüellerinize devam edin, çünkü gerçekten de İbrahim'in bıraktığı bir mirası takip ediyorsunuz.'\""
+    },
+    {
+      "id": 77,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe rivayet etti: \"Kureyş ve dinlerini takip edenler - onlara Al-Hums denirdi - Al-Muzdalifah'ta durur ve derlerdi ki: 'Biz Allah'ın halkıyız.' Diğerleri Arafat'ta dururdu, bunun üzerine Allah Azze ve Celle şöyle vahyetti: 'İnsanların ayrıldığı yerden ayrılın.'\""
+    },
+    {
+      "id": 78,
+      "narrator": "Ali bin Abi Talib, may Allah be pleased with him, narrated:",
+      "text": "Ali bin Ebi Talib, Allah ondan razı olsun, rivayet etti: \"Allah'ın Resulü Arafat'ta durdu ve dedi ki: 'Burası Arafah'tır ve durma yeridir. Arafat'ın tamamı durma yeridir.' Sonra güneş batarken ayrıldı ve Usame bin Zeyd'i biner olarak aldı, elini hareket ettirerek, halk da develerini sağa sola vurarak yakalamaya çalışıyordu, o da dedi ki: 'Ey insanlar! Sakin olun.' Sonra Cem'e geldi ve orada iki namazı birleştirerek kıldı. Sabah olunca, Quzah'a gitti ve orada durdu ve dedi ki: 'Burası Quzah'dır ve durma yeridir, Cem'in tamamı durma yeridir.' Sonra Vadi Muhassir'e kadar gitti. Orada dişi devesini sürdü ve o, vadiyi geçene kadar koştu. Sonra durdu ve Al-Fadl'ı biner olarak aldı ve Cemre'ye taş atmaya gitti. Sonra Al-Manhar'a gitti ve dedi ki: 'Burası Al-Manhar'dır ve Mina'nın tamamı kurban kesme yeridir.' Khath'am'dan bir genç kız ona bir hüküm sormak için geldi, dedi ki: 'Gerçekten babam yaşlı bir adamdır ve Allah Hac'ı farz kılana kadar yaşamıştır, ben onun için Hac yaparsam sevap alır mı?' O da dedi: 'Babana Hac yap.' O da Al-Fadl'ın boynunu çevirdi. Bunun üzerine Al-Abbas dedi ki: 'Ey Allah'ın Resulü! Neden kuzeninin boynunu çevirdin?' O da dedi: 'Bir genç adam ve bir genç kadın gördüm, ve onlar Şeytan'dan güvende değillerdi.' Bir adam ona geldi ve dedi ki: 'Ey Allah'ın Resulü! Ben (Tawaf) Al-Ifadah'ı tıraş olmadan yaptım.' O da dedi: 'Tıraş ol, bir sakınca yoktur' - ya da: 'Kısalt, bir sakınca yoktur.' O da dedi: 'Başka biri geldi ve dedi ki: 'Ey Allah'ın Resulü! Ben taş atmadan önce kurban kestim.' O da dedi: 'Taş at, bir sakınca yoktur.' Sonra Kabe'ye gidip etrafında Tawaf yaptı, sonra Zemzem'e gitti ve dedi ki: 'Ey Abdul-Muttalib'in kabilesi! Eğer insanlar üzerinize hücum etmeyecek olsalardı, onu kaldırırdım.'\""
+    },
+    {
+      "id": 79,
+      "narrator": "Jabir narrated:",
+      "text": "Cabir rivayet etti: \"Peygamber Vadi Muhassir'den aceleyle geçti.\" Bişr (rivayet edenlerden biri) ekledi: \"O, Cem'den sakin bir şekilde ayrıldı ve onlara (halk) sakin olmalarını emretti.\" Ve Ebu Nuaym (rivayet edenlerden biri) ekledi: \"Ve onlara taşlamayı çakıl gibi şeylerle yapmalarını emretti.\" Ve dedi ki: \"Belki bu yıldan sonra sizi göremeyeceğim.\""
+    },
+    {
+      "id": 80,
+      "narrator": "Abdullah bin Malik narrated:",
+      "text": "Abdullah bin Malik rivayet etti: \"İbn Ömer Cem'de (Muzdalifah) namaz kıldı, iki namazı İkame ile birleştirdi ve dedi ki: 'Ben, Allah'ın Resulü'nün burada aynı şeyi yaptığını gördüm.'\""
+    },
+    {
+      "id": 81,
+      "narrator": "(Another chain) that Sa'eed bin Jubair narrated :",
+      "text": "(Başka bir zincir) Sa'id bin Cubeyr'in, İbn Ömer'den, Peygamber'den benzer şekilde rivayet etti."
+    },
+    {
+      "id": 82,
+      "narrator": "Abdur-Rahman bin Ya'mar narrated that:",
+      "text": "Abdurrahman bin Ya'mar rivayet etti: Najd sakinlerinden bazıları Arafat'ta Allah'ın Resulü'ne geldiler. Onlar ona sorular soruyorlardı, o da bir çağırıcıyı ilan etmesi için emretti: \"Hac Arafat'tır. Gece, Fajr vaktinden önce Cem'e gelen kimse, Hac'a katılmıştır. Mina günleri üçtür, kim iki günden sonra acele ederse, onun üzerine bir günah yoktur, kim de gecikirse, onun üzerine bir günah yoktur.\" Muhammed dedi: \"Yahya ekledi: 'Ve bunu ilan etmesi için bir biner aldı.'\""
+    },
+    {
+      "id": 83,
+      "narrator": "Abdur-Rahman bin Ya'mar narrated:",
+      "text": "Abdurrahman bin Ya'mar rivayet etti: (Başka bir zincir) benzer bir rivayetle (no. 889)."
+    },
+    {
+      "id": 84,
+      "narrator": "Urwah bin Mudarris bin Aws bin Harithah bin Lam At-Ta'i narrated:",
+      "text": "Urve bin Mudarris bin Avs bin Harithah bin Lam At-Ta'i rivayet etti: \"Ben, Allah'ın Resulü'ne Al-Muzdalifah'ta namaz için gittiğimde, o namaza gitmişti. Dedim ki: 'Ey Allah'ın Resulü! Tai kabilesinin iki dağından geldim, binerimi yıpratıp kendimi tüketerek. Vallahi! Hiçbir Habl (kum tepeciği) bırakmadım, durmadan geçtim. O halde benim için Hac var mı?' Allah'ın Resulü dedi ki: 'Kim bu namazımıza katılır ve bizimle burada durursa, gece veya bir önceki günde Arafat'ta durduysa, o Hac'ını tamamlamış ve Tafath'ını yerine getirmiştir.'\""
+    },
+    {
+      "id": 85,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "İbn Abbas rivayet etti: \"Allah'ın Resulü, gece Cem'den Thaqal (yük) ile beni gönderdi.\""
+    },
+    {
+      "id": 86,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "İbn Abbas rivayet etti: \"Peygamber, ailesinin zayıf olanlarını öne aldı ve dedi ki: 'Güneş doğmadan önce Jamrah'a taş atmayın.'\""
+    },
+    {
+      "id": 87,
+      "narrator": "Jabir narrated:",
+      "text": "Cabir rivayet etti: \"Peygamber, An-Nahr günü sabah ışığında taş atardı, sonraki günlerde ise güneşin zirvesinden sonra yapardı.\""
+    },
+    {
+      "id": 88,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "İbn Abbas rivayet etti: \"Peygamber, güneş doğmadan önce ayrıldı.\""
+    },
+    {
+      "id": 89,
+      "narrator": "Amr bin Maimun narrated:",
+      "text": "Amr bin Maimun rivayet etti: \"Biz Cem'de dururken, Ömer bin Al-Hattab dedi ki: 'Putperestler güneş doğmadan ayrılmazdı ve derlerdi ki: \"Güneş Thabir'e doğsun.\" Ve gerçekten de Allah'ın Resulü onlara karşı çıktı.' Ömer, güneş doğmadan ayrıldı.\""
+    },
+    {
+      "id": 90,
+      "narrator": "Jabir narrated:",
+      "text": "Cabir rivayet etti: \"Ben, Allah'ın Resulü'nün Jimar'a Al-Khadhaf için çakıl gibi şeylerle taş attığını gördüm.\""
+    },
+    {
+      "id": 91,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "İbn Abbas rivayet etti: \"Allah'ın Elçisi, güneş zenit noktasını geçtiğinde Jimar'ı taşladı.\""
+    },
+    {
+      "id": 92,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "İbn Abbas rivayet etti: \"Peygamber, An-Nahr Günü'nde Jamrah'ı binerken taşladı.\""
+    },
+    {
+      "id": 93,
+      "narrator": "Ibn Umar narrated:",
+      "text": "İbn Umar rivayet etti: \"Peygamber, Jimar'ı taşlarken hem gidiş hem dönüşte yürürdü.\""
+    },
+    {
+      "id": 94,
+      "narrator": "Abdur-Rahman bin Yazid narrated:",
+      "text": "Abdur-Rahman bin Yazid rivayet etti: \"Abdullah, Jamrat Al-Aqabah'ı taşlamak için vadiye gitti, Kabe'ye yöneldi ve Jamrah'ı güney duvarında taşlamaya başladı. Sonra yedi çakıl taşıyla taşladı ve her bir çakıl taşı ile 'Allahu Ekber' dedi. Sonra şöyle dedi: 'Allah'tan başka ilah olmayan Allah'a yemin ederim. İşte bu, Surat Al-Baqarah'ın indirildiği kişiye taş atılan yerdir.'\""
+    },
+    {
+      "id": 95,
+      "narrator": "Aishah narrated that:",
+      "text": "Aişe rivayet etti: \"Peygamber şöyle dedi: 'Jimar'ı taşlamak ve As-Safa ile Al-Marwah arasında Sa'i yapmak, yalnızca Allah'ın zikrinin tesisi içindir.'\""
+    },
+    {
+      "id": 96,
+      "narrator": "Qudamah bin Abdullah said:",
+      "text": "Kudame bin Abdullah dedi ki: \"Peygamber'i dişi devesinin üzerinde Jimar'ı taşlarken gördüm; ne vurma vardı, ne kalabalık, ne de: 'Dikkat et! Dikkat et!'\""
+    },
+    {
+      "id": 97,
+      "narrator": "Jabir narrated:",
+      "text": "Cabir rivayet etti: \"Biz, Al-Hudaibiyah yılı boyunca Allah'ın Elçisi ile birlikte kesim yaptık: yedi kişi için bir inek, yedi kişi için bir Badanah.\""
+    },
+    {
+      "id": 98,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "İbn Abbas rivayet etti: \"Peygamber ile bir yolculukta (Adha Günü'nde) idik, yedi kişi bir inekte, on kişi de bir devede ortak olduk.\""
+    },
+    {
+      "id": 99,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "İbn Abbas rivayet etti: \"Peygamber, Dhul-Hulaifah'ta iki sandaletin üzerine çiçek taktı ve Hadi'yi sağ tarafında işaretledi, ardından kanını temizledi.\""
+    },
+    {
+      "id": 100,
+      "narrator": "Ibn Umar narrated:",
+      "text": "İbn Umar rivayet etti: \"Peygamber, Hadi'sini Qudaid'de satın aldı.\""
+    },
+    {
+      "id": 101,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe rivayet etti: \"Peygamber'in Hadi'si için çiçekleri ben ördüm, sonra o ihrama girmedi ve hiçbir kıyafetten kaçınmadı.\""
+    },
+    {
+      "id": 102,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe rivayet etti: \"Ben, Allah'ın Elçisi'nin tüm Hadi'si için çiçekleri ördüm, bunlar koyunlardı, sonra o ihrama girmedi.\""
+    },
+    {
+      "id": 103,
+      "narrator": "Najiyah Al-Khuza'i (the Companion of the Messenger of Allah) said:",
+      "text": "Naciye el-Huza'i (Allah'ın Elçisi'nin Sahabesi) dedi ki: \"Ben dedim: 'Ey Allah'ın Elçisi! Hadi'den hasta olanlarla ne yapılmalı?' O dedi ki: 'Onları kes, sonra sandaletlerini kanlarına batır, sonra bırak ki insanlar onlardan yiyebilsin.'\""
+    },
+    {
+      "id": 104,
+      "narrator": "Anas bin Malik narrated:",
+      "text": "Enes bin Malik rivayet etti: Peygamber, bir adamın Badanah'ını sürdüğünü görünce ona dedi: \"Biner misin?\" Adam dedi: \"Ey Allah'ın Elçisi! Bu bir Badanah.\" Üçüncü veya dördüncü kez ona: \"Biner misin? Ve sana yazıklar olsun!\" dedi."
+    },
+    {
+      "id": 105,
+      "narrator": "Anas bin Malik narrted:",
+      "text": "Enes bin Malik rivayet etti: \"Allah'ın Elçisi, Jamrah'ı taşladıktan sonra kurbanını kesti, sonra berbere başının sağ tarafını sundu ve o da orayı traş etti, sonra (saçları) Ebu Talha'ya verdi. Sonra sol tarafı ona sundu ve o da orayı traş etti. Sonra dedi ki: 'Saçları insanlar arasında dağıt.'\""
+    },
+    {
+      "id": 106,
+      "narrator": "Ibn Umar narrated that:",
+      "text": "İbn Ömer, Allah'ın Resulü'nün şöyle söylediğini nakletti: \"Allah, tıraş olanlara merhamet etsin.\" bunu bir veya iki kez tekrar ettikten sonra, \"Ve kısaltanlara da.\" dedi."
+    },
+    {
+      "id": 107,
+      "narrator": "Ali narrated:",
+      "text": "Ali, \"Allah'ın Resulü, bir kadının başını tıraş etmesini yasakladı.\" diye nakletti."
+    },
+    {
+      "id": 108,
+      "narrator": "(Another chain) with similar (as no. 914) from Khilas:",
+      "text": "(Başka bir isnat) Khilas'tan benzer (no. 914 ile) ama \"Ali'den\" demedi."
+    },
+    {
+      "id": 109,
+      "narrator": "Abdullah bin Amr narrated:",
+      "text": "Abdullah bin Amr, \"Bir adam, Allah'ın Resulü'ne: 'Ben kesimden önce tıraş oldum.' dedi. O da: 'Kes, zarar yok.' dedi. Başka bir adam ona: 'Taşlamadan önce kurban kestim.' dedi. O da: 'Taşla, zarar yok.' dedi.\" diye nakletti."
+    },
+    {
+      "id": 110,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe, \"Ben, Allah'ın Resulü'ne ihrama girmeden önce misk ile parfüm sürdüm ve Kurban Bayramı günü Beyt'in etrafında tavaf etmeden önce.\" diye nakletti."
+    },
+    {
+      "id": 111,
+      "narrator": "Al-Fadl bin Abbas narrated:",
+      "text": "El-Fadl bin Abbas, \"Ben, Allah'ın Resulü ile birlikte Jam'dan Mina'ya binen bir arkadaşım. O, Jamrat Al-Aqabah'a taş atana kadar Talbiyah söylemeyi bırakmadı.\" diye nakletti."
+    },
+    {
+      "id": 112,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "İbn Abbas, (Peygamberin): \"Umre sırasında (Kara) Taş'a dokunduğunda Talbiyah söylemeyi durdururdu.\" diye nakletti."
+    },
+    {
+      "id": 113,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe, \"Peygamber, ziyaret tavafını geceye erteledi.\" diye nakletti."
+    },
+    {
+      "id": 114,
+      "narrator": "Ibn Umar narrated:",
+      "text": "İbn Ömer, \"Peygamber, Ebu Bekir, Ömer ve Osman Al-Abtah'ta kamp kurarlardı.\" diye nakletti."
+    },
+    {
+      "id": 115,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "İbn Abbas, \"At-Tahsib bir şey değildir, sadece Allah'ın Resulü'nün kamp kurduğu bir yerdir.\" diye nakletti."
+    },
+    {
+      "id": 116,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe, \"Allah'ın Resulü, Al-Abtah'ta yalnızca ayrılışını kolaylaştırdığı için kamp kurdu.\" diye nakletti."
+    },
+    {
+      "id": 117,
+      "narrator": "Jabir bin Abdullah narrated:",
+      "text": "Cabir bin Abdullah, \"Bir kadın, Allah'ın Resulü'ne bir çocuğunu kaldırarak: 'Ey Allah'ın Resulü! Bu çocuk için Hac var mı?' dedi. O da: 'Evet, ve sen de mükafat alacaksın.' dedi.\" diye nakletti."
+    },
+    {
+      "id": 118,
+      "narrator": "As-Sa'ib bin Yazid narrated:",
+      "text": "Es-Sa'ib bin Yazid, \"Babam, beni Allah'ın Resulü ile birlikte Veda Hac'ına götürdü, ben yedi yaşındaydım.\" diye nakletti."
+    },
+    {
+      "id": 119,
+      "narrator": "(Another chain) from Jabir bin Abdullah:",
+      "text": "(Başka bir isnat) Cabir bin Abdullah'tan: Peygamberden, benzer (Hadis-i Muhammed bin Tarif no. 924)."
+    },
+    {
+      "id": 120,
+      "narrator": "Jabir narrated:",
+      "text": "Cabir, \"Peygamber ile Hac yaptığımızda kadınlar için Talbiyah söyler, erkek çocuklar için taş atardık.\" diye nakletti."
+    },
+    {
+      "id": 121,
+      "narrator": "Al-Fadl bin Abbas narrated:",
+      "text": "Al-Fadl bin Abbas rivayet etti: \"Khath'am'dan bir kadın dedi ki: 'Ey Allah'ın Resulü! Babam, Allah Hac'ı farz kılana kadar yaşadı ve yaşlı bir adam, develerin sırtında oturacak durumda değil.' Bunun üzerine o (sav) dedi: 'Onun adına Hac yap.'\""
+    },
+    {
+      "id": 122,
+      "narrator": "Abdullah bin Buraidah narrated from his father who said:",
+      "text": "Abdullah bin Buraidah, babasından rivayet etti ki: \"Bir kadın Peygamber'e geldi ve dedi ki: 'Annem vefat etti ve Hac yapmadı, onun adına Hac yapmalı mıyım?' O dedi ki: 'Evet, onun adına Hac yap.'\""
+    },
+    {
+      "id": 123,
+      "narrator": "Abu Razin Al-Uqaili narrated:",
+      "text": "Abu Razin Al-Uqaili rivayet etti: \"Peygamber'e gittim ve dedim: 'Ey Allah'ın Resulü! Babam yaşlı bir adam, ne Hac ne de Umre yapabilir, ne de bir yolculuğa çıkabilir.' O dedi: 'Baban adına Hac yap ve Umre'yi de yerine getir.'\""
+    },
+    {
+      "id": 124,
+      "narrator": "Jabir narrated that:",
+      "text": "Jabir rivayet etti ki: Peygamber'e Umre'nin farz olup olmadığı soruldu. O dedi: \"Hayır. Ama Umre yaparsanız, bu daha faziletlidir.\""
+    },
+    {
+      "id": 125,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "İbn Abbas rivayet etti: \"Peygamber dedi ki: 'Umre, Kıyamet Günü'ne kadar Hac'a dahil edilmiştir.'\""
+    },
+    {
+      "id": 126,
+      "narrator": "Abu Hurairah narrated that\nthe Messenger of Allah\nsaid:",
+      "text": "Abu Hurairah rivayet etti ki, Allah'ın Resulü dedi: \"Umre, Umre'ye kadar olan günahları affeder ve makbul Hac'ın karşılığı cennetten başka bir şey değildir.\""
+    },
+    {
+      "id": 127,
+      "narrator": "Amr bin Aws narrated from Abdur-Rahman bin Abi Bakr:",
+      "text": "Amr bin Aws, Abdur-Rahman bin Abi Bakr'dan rivayet etti: \"Peygamber, Abdur-Rahman bin Abi Bakr'a Aişe'yi At-Tan'im'den Umre yapması için (eşlik etmesini) emretti.\""
+    },
+    {
+      "id": 128,
+      "narrator": "Muharrish Al-Kabi narrated:",
+      "text": "Muharrish Al-Kabi rivayet etti: \"Allah'ın Resulü, Umre için gece Al-Ji'irranah'tan ayrıldı, sonra gece Mekkeler'e girdi ve Umre'sini yaptı. Sonra oradan gece ayrıldı, sabah Al-Ji'irranah'ta, sanki geceyi orada geçirmiş gibi bulundu. Sabah güneş zirve noktasını geçtiğinde Sarif'in ortasından ayrıldı ve Sarif'in ortasından bir yoldan geldi. İşte bu yüzden Umre'si insanlardan gizli kaldı.\""
+    },
+    {
+      "id": 129,
+      "narrator": "Urwah said:",
+      "text": "Urvah dedi ki: İbn Umar'a soruldu: \"Allah'ın Resulü Umre'yi hangi ayda yaptı?\" O dedi: \"Recep ayında.\" Bunun üzerine Aişe dedi: \"Allah'ın Resulü, yanında olmadan Umre yapmadı - yani İbn Umar ile - ve hiç bir zaman Recep ayında Umre yapmadı.\""
+    },
+    {
+      "id": 130,
+      "narrator": "Ibn Umar narrated:",
+      "text": "İbn Umar rivayet etti: \"Peygamber, dört kez Umre yaptı, bunlardan biri Recep ayında idi.\""
+    },
+    {
+      "id": 131,
+      "narrator": "Al-Bara narrated:",
+      "text": "Al-Bara rivayet etti: \"Peygamber, Dhul-Qa'dah ayında Umre yaptı.\""
+    },
+    {
+      "id": 132,
+      "narrator": "Umm Ma'qil narrated that:",
+      "text": "Umm Ma'qil rivayet etti ki: \"Peygamber dedi: 'Ramazan ayında Umre, Hac'a eşittir.'\""
+    },
+    {
+      "id": 133,
+      "narrator": "Ikrimah narrated from Al-Hajjaj bin Amr who narrated that:",
+      "text": "İkrime, Al-Haccaj bin Amr'dan rivayet etti ki: \"Allah'ın Resulü dedi: 'Kim bir kırık yaşar veya topal olursa, o (ihramdan çıkar) ve başka bir Hac yapması gerekir.' Ben (İkrime) bunu Abu Hurairah ve İbn Abbas'a söyledim, onlar da: 'Doğru söyledi.' dediler.\""
+    },
+    {
+      "id": 134,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "İbn Abbas rivayet etti: \"Duba'ah bint Az-Zubair, Peygamber'e geldi ve dedi: 'Ey Allah'ın Resulü! Hac yapmak istiyorum, şart koymalı mıyım?' O dedi: 'Evet.' O da sordu: 'Peki, nasıl demeliyim?' O dedi: 'De ki: \"Labbaik Allahumma labbaika mahilli minal Ard haithu tahbisuni (Ey Allah, çağrına icabet ettim, çağrına icabet ettim, beni nerede durdurursan orada ihramdan çıkarım).\"'"
+    },
+    {
+      "id": 135,
+      "narrator": "Salim narrated that :",
+      "text": "Salim rivayet etti ki: \"Babası, Hac sırasında şart koymayı sevmezdi ve derdi ki: 'Peygamberinizin sünneti sizin için yeterli değil mi?'\""
+    },
+    {
+      "id": 136,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe (radıyallahu anha) rivayet etti: \"Resulullah'a Safiyye bint Huyai'nin Mina günlerinde adet gördüğü bildirildi, o da: 'Bizi (yola çıkmaktan) alıkoyacak mı?' dedi. Onlar: 'O (Tavaf) Al-İfada yaptı.' dediler. Resulullah da: 'O zaman bir sakınca yok.' dedi.\""
+    },
+    {
+      "id": 137,
+      "narrator": "Ibn Umar said:",
+      "text": "İbn Ömer (radıyallahu anhu) dedi ki: \"Kim Kabe'ye Hac yaparsa, son eylemi Kabe'de olsun, adet gören kadınlar hariç. Resulullah onlara (çıkmalarına) izin verdi.\" (Sahih Mawquf)"
+    },
+    {
+      "id": 138,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe (radıyallahu anha) rivayet etti: \"Adet gördüm, bu yüzden Peygamber bana Kabe etrafında Tavaf hariç tüm ibadetleri yerine getirmemi emretti.\""
+    },
+    {
+      "id": 139,
+      "narrator": "Ibn Abbas narrated :",
+      "text": "İbn Abbas (radıyallahu anhu) rivayet etti: (Peygamber şöyle dedi): \"Loğusa ve adet gören kadınlar, Ghusl almalı, İhrama girmeli ve Kabe etrafında Tavaf hariç tüm ibadetleri yerine getirmelidirler, ta ki temizlenene kadar.\""
+    },
+    {
+      "id": 140,
+      "narrator": "Al-Harith bin Abdullah bin Aws said:",
+      "text": "Haris bin Abdullah bin Evs dedi ki: \"Peygamber'in şöyle dediğini duydum: 'Kim bu Kabe'ye Hac veya Umre yaparsa, son eylemi Kabe'de olsun.' Bunun üzerine Ömer: 'Ellerinize yazıklar olsun! Bunu Resulullah'tan duydunuz ama bize bildirmediniz mi?' dedi.\""
+    },
+    {
+      "id": 141,
+      "narrator": "Jabir narrated:",
+      "text": "Cabir (radıyallahu anhu) rivayet etti: \"Resulullah Hac ve Umre için Karan yaptı, bu yüzden ikisi için bir Tavaf yaptı.\""
+    },
+    {
+      "id": 142,
+      "narrator": "Ibn Umar narrated that:",
+      "text": "İbn Ömer (radıyallahu anhu) rivayet etti ki: Resulullah şöyle dedi: \"Kim Hac ve Umre için İhrama girerse, ikisi için bir Tavaf ve bir Sa'y yapması kabul edilir, ta ki ikisi için İhramdan çıkana kadar.\""
+    },
+    {
+      "id": 143,
+      "narrator": "Al-Ala bin Al-Hadrami narrated :",
+      "text": "Ala bin El-Hadrami rivayet etti: (Peygamber şöyle dedi): \"Muhacir, ibadetlerini yerine getirdikten sonra Mekkede üç gün kalabilir.\""
+    },
+    {
+      "id": 144,
+      "narrator": "Ibn Umar said:",
+      "text": "İbn Ömer (radıyallahu anhu) dedi ki: \"Peygamber bir savaştan, Hac'dan veya Umre'den eve döndüğünde, bir arazi parçasına veya yükseltiye geldiğinde 'Allahu Ekber' (Allah en büyüktür) derdi üç kez, sonra: 'La İlahe İllallah Vahdehu La Şerike Leh, Lehül-Mülk ve Lehül-Hamdu ve Huve Ala Kulli Şey'in Kadir. Tevbede bulunanlar, ibadet edenler, Rabbimiz için seyahat edenler ve hamd edenleriz. Allah vaadini doğru söyledi, kullarına yardım etti ve birlik olan düşmanları yendi.' derdi.\""
+    },
+    {
+      "id": 145,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "İbn Abbas (radıyallahu anhu) rivayet etti: \"Resulullah ile bir yolculukta idik, bir adamın devesinden düştüğünü, boynunun kırıldığını ve öldüğünü gördü, o bir Muhrim idi. Resulullah şöyle dedi: 'Onu su ve sidr ile yıkayın, elbiseleriyle kefenleyin ve başını örtmeyin. Çünkü o, Kıyamet Günü Talbiyah söyleyerek diriltilecektir.'\""
+    },
+    {
+      "id": 146,
+      "narrator": "Nubaih bin Wahb narrated that :",
+      "text": "Nübeyh bin Vahb rivayet etti ki: Umar bin Ubeydullah bin Ma'mar, Muhrim iken gözlerinden şikayet ediyordu. Aban bin Osman'a sordu, o da: \"Aloe ile sargı yap, çünkü Uthman bin Affan'ın Resulullah'ın şöyle dediğini duyduğunu işittim: 'Aloe ile sargı yap.'\" dedi."
+    },
+    {
+      "id": 147,
+      "narrator": "Abdur-Rahman bin Abu Laila narrated from Ka'b bin Ujrah that:",
+      "text": "Abdurrahman bin Ebu Leyla, Ka'b bin Ucra'dan rivayet etti ki: Peygamber, Mekkeye girmeden önce Hudaibiyah'da iken yanından geçti ve o bir Muhrim idi. Yemek pişirme tenceresinin altında ateş yakmıştı ve başında bitler düşüyordu. Peygamber: \"Bu bitler seni rahatsız mı etti?\" dedi. O da: \"Evet.\" dedi. Peygamber: \"Tıraş ol ve altı fakiri bir Faraq ile doyur.\" dedi. Bir Faraq üç Sa'dır - \"ya da üç gün oruç tut, ya da bir kurban kes.\" İbn Ebi Neccih (rivayet edenlerden biri) dedi ki: \"Ya da bir koyun kes.\""
+    },
+    {
+      "id": 148,
+      "narrator": "Abi Al-Baddah bin Adi narrated from his father:",
+      "text": "Ebu'l-Beddah bin Adi, babasından rivayet etti: \"Peygamber, çobanlara bir gün taşlamalarına ve bir gün bırakmalarına izin verdi.\""
+    },
+    {
+      "id": 149,
+      "narrator": "Abi Al-Baddah bin Asim bin Adi narrated from his father:",
+      "text": "Ebu'l-Beddah bin Asim bin Adi, babasından rivayet etti: \"Resulullah, Mina'daki kamp alanında bulunan deve çobanlarına, An-Nahr Günü'nde taşlamalarına ve An-Nahr Günü'nden sonraki iki günün taşlamasını bir günde toplamalarına izin verdi.\" Malik dedi ki: \"Sanırım ilk gün için şöyle dedi: 'Yola çıkma gününde taşlasınlar.'\""
+    },
+    {
+      "id": 150,
+      "narrator": "Anas bin Malik narrated:",
+      "text": "Enes bin Malik rivayet etti: \"Ali, Yemen'den Resulullah'a döndüğünde: 'Talbiyah'ı ne için niyet ettin?' dedi. O da: 'Resulullah'ın bunun için ilan ettiğini düşündüm.' dedi. Bunun üzerine o (s.a.v): 'Eğer yanımda Hadi olmasaydı, İhramdan çıkardım.' dedi.\""
+    },
+    {
+      "id": 151,
+      "narrator": "Ali narrated:",
+      "text": "Ali rivayet etti: \"Ben Allah'ın Elçisi'ne Al-Hajj Al-Akbar günü hakkında sordum ve o şöyle dedi: 'An-Nahr Günü.'\""
+    },
+    {
+      "id": 152,
+      "narrator": "Ali narrated:",
+      "text": "Ali rivayet etti: \"Al-Hajj Al-Akbar günü An-Nahr Günüdür.\""
+    },
+    {
+      "id": 153,
+      "narrator": "Ibn Ubaid bin Umair narrated from his father:",
+      "text": "İbn Ubaid bin Umair babasından rivayet etti: \"İbn Umar iki köşeye sarılmıştı (benim daha önce hiçbir Sahabe'nin böyle yaptığını görmediğim bir şekilde) ben de dedim ki: 'Ey Abu Abdur-Rahman! Sen iki köşeye, daha önce hiçbir Sahabe'nin yapmadığı bir şekilde sarılıyorsun.' O da dedi ki: 'Bunu yapıyorum çünkü Allah'ın Elçisi'nin şöyle söylediğini duydum: \"Onlara dokunmak günahları affettirir.\" Ve onun şöyle söylediğini duydum: \"Bu Ev'in etrafında yedi kez tavaf eden ve bunu sayan kimse, sanki bir köle azat etmiş gibidir.\" Ve onun şöyle söylediğini duydum: \"Bir ayağını indirmeden, diğerini kaldırmadan Allah, ondan bir günahı siler ve ona bir sevap yazar.\"\""
+    },
+    {
+      "id": 154,
+      "narrator": "Ibn Abbas narrated that :",
+      "text": "İbn Abbas rivayet etti ki: Peygamber şöyle dedi: \"Evin etrafında tavaf, Salat'a benzer, tek farkı, onun sırasında konuşulmasıdır. Kim orada konuşursa, sadece iyi şeyler söylesin.\""
+    },
+    {
+      "id": 155,
+      "narrator": "Ibn Abbas narrated that:",
+      "text": "İbn Abbas rivayet etti ki: Allah'ın Elçisi (Kara) Taş hakkında şöyle dedi: \"Vallahi! Allah, onu Kıyamet Günü iki gözüyle kaldıracak; görecek ve bir diliyle konuşacak, ona dokunanı gerçek olarak şahitlik edecektir.\""
+    },
+    {
+      "id": 156,
+      "narrator": "Ibn Umar narrated:",
+      "text": "İbn Umar rivayet etti: \"Peygamber, ihramda iken hoş kokulu olmayan (Ghair Muqattat) yağ sürerdi.\""
+    },
+    {
+      "id": 157,
+      "narrator": "Hisham bin Urwah narrated :",
+      "text": "Hişam bin Urvah babasından Aişe hakkında rivayet etti ki, Aişe bazı Zemzem suyu taşırdı ve şöyle derdi: \"Gerçekten Allah'ın Elçisi bunu taşırdı.\""
+    },
+    {
+      "id": 158,
+      "narrator": "Abdul-Aziz bin Rufai narrated:",
+      "text": "Abdul-Aziz bin Rufai rivayet etti: \"Ben Anas bin Malik'e dedim ki: 'Bana, Allah'ın Elçisi'nin Tarwiyah Günü öğle namazını nerede kıldığını anladığın bir şey anlat.' O da dedi ki: 'Mina'da.' 'Peki, o ayrılış günü ikindi namazını nerede kıldı?' dedim. O da dedi ki: 'Al-Abtab'da.' Sonra dedi ki: 'Siz de liderlerinizin yaptığını yapın.'\""
+    }
+  ]
+}

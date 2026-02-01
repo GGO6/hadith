@@ -1,0 +1,81 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 13,
+    "arabic": {
+      "title": "صحيح البخاري",
+      "author": "الإمام محمد بن إسماعيل البخاري"
+    },
+    "english": {
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Muhammad ibn Ismail al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Narrated `Abdullah bin Mas`ud:",
+      "text": "Abdullah bin Mes'ud'dan rivayet edilmiştir: Peygamber (ﷺ) Mekke'de Necm Suresi'ni (53) okudu ve okurken secde etti, onunla birlikte olanlar da secde etti, yalnızca bir ihtiyar bir avuç küçük taş veya toprak alıp alnına kaldırarak, \"Bu benim için yeterlidir.\" dedi. Sonradan onu bir kafir olarak öldürülmüş gördüm."
+    },
+    {
+      "id": 2,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Cuma günleri Peygamber (ﷺ) Fajr namazında birinci rekatta Elif Lam Mim Tanzil-As-Secde'yi ve ikinci rekatta Hal ata 'alal-insani, yani İnsan Suresi'ni (LXXVI) okurdu."
+    },
+    {
+      "id": 3,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Sa'd'ın secdesi farz değildir ama Peygamber (ﷺ) onu okurken secde ettiğini gördüm."
+    },
+    {
+      "id": 4,
+      "narrator": "Narrated `Abdullah bin Mas`ud:",
+      "text": "Abdullah bin Mes'ud'dan rivayet edilmiştir: Peygamber (ﷺ) Necm Suresi'ni (53) okudu ve okurken secde etti, bütün insanlar da secde etti ve insanlar arasında bir adam bir avuç taş veya toprak alıp yüzüne kaldırdı ve \"Bu benim için yeterlidir.\" dedi. Sonradan onu bir kafir olarak öldürülmüş gördüm."
+    },
+    {
+      "id": 5,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) Necm Suresu'nu okurken ben de secde ettim, onunla birlikte Müslümanlar, putperestler, cinler ve bütün insanlar secde etti."
+    },
+    {
+      "id": 6,
+      "narrator": "Narrated `Ata' bin Yasar:",
+      "text": "Ata' bin Yasar'dan rivayet edilmiştir: Zaid bin Sabit'e secde hakkında sordum, o da Peygamber'den önce Necm Suresi'ni okuduğunu ancak Peygamber'in secde etmediğini söyledi."
+    },
+    {
+      "id": 7,
+      "narrator": "Narrated Zaid bin Thabit:",
+      "text": "Zaid bin Sabit'ten rivayet edilmiştir: Peygamber'den önce Necm Suresi'ni okudum, ama o secde etmedi."
+    },
+    {
+      "id": 8,
+      "narrator": "Narrated Abu Salma:",
+      "text": "Ebu Selma'dan rivayet edilmiştir: Ebu Hureyre'yi İdhas-Sama' Un-Shaqqat'ı okurken gördüm ve okurken secde etti. Ebu Hureyre'ye, \"Secde ettiğini görmedim mi?\" dedim. Ebu Hureyre, \"Eğer Peygamber (ﷺ) secde ettiğini görmemiş olsaydım, ben de secde etmezdim.\" dedi."
+    },
+    {
+      "id": 9,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn Umar'dan rivayet edilmiştir: Peygamber (ﷺ) secde içeren bir sure okuduğunda secde ederdi ve biz de aynı şekilde yapardık, bazılarımız (kalabalık nedeniyle) secde edecek yer bulamazdı."
+    },
+    {
+      "id": 10,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn Umar'dan rivayet edilmiştir: Peygamber (ﷺ) As-Secde Suresi'ni okuduğunda ve biz de onunla birlikteyken, o secde ederdi ve biz de onunla birlikte secde ederdik, bazılarımız (kalabalık nedeniyle) alnımızı koyacak yer bulamazdı."
+    },
+    {
+      "id": 11,
+      "narrator": "Narrated Rabi`a:",
+      "text": "Rabi'a'dan rivayet edilmiştir: Ömer bin Hattab, bir Cuma günü minberde Nahl Suresi'ni okudu ve secde ayetine geldiğinde minberden indi ve secde etti, insanlar da secde etti. Bir sonraki Cuma Ömer bin Hattab aynı sureyi okudu ve secde ayetine geldiğinde, \"Ey insanlar! Hutbede secde ayetlerini okuduğumuzda, kim secde ederse doğru yapar, ama secde etmeyen için günah yoktur.\" dedi. Ve Ömer o gün secde etmedi. İbn Umar ekledi: \"Allah, okuma secdesini farz kılmamıştır ama istersek yapabiliriz.\""
+    },
+    {
+      "id": 12,
+      "narrator": "Narrated Abu Rafi`:",
+      "text": "Ebu Rafi'den rivayet edilmiştir: İsha namazını Ebu Hureyre'nin arkasında kıldım ve o İdhas-Sama' Un-Shaqqat'ı okudu ve secde etti. Ben de, \"Bu nedir?\" dedim. Ebu Hureyre, \"Ben Abul-Kasım'ın arkasında secde ettim ve onu gördüğüm sürece aynı şekilde yapacağım.\" dedi."
+    },
+    {
+      "id": 13,
+      "narrator": "Narrated Ibn `Umar.:",
+      "text": "İbn Umar'dan rivayet edilmiştir: Peygamber (ﷺ) secde ayeti içeren sureyi okuduğunda secde ederdi ve biz de secde ederdik, bazılarımız secde edecek yer bulamazdı."
+    }
+  ]
+}

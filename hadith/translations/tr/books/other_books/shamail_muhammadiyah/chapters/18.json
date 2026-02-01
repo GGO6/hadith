@@ -1,0 +1,31 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 3,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Abu Huraira said:",
+      "text": "Ebu Hureyre dedi ki: \"Allah'ın Elçisi'ni (Allah ona salat ve selam eylesin) gördüğümden daha güzel bir şey görmedim. Yüzünde güneş gibi bir parlaklık vardı. Allah'ın Elçisi'nden (Allah ona salat ve selam eylesin) daha hızlı yürüyen birini de görmedim. Yer, onun için sanki katlanmış gibiydi. Bizim çok çaba sarf etmemiz gerekirken, o hiçbir strese maruz kalmıyordu.\""
+    },
+    {
+      "id": 2,
+      "narrator": "Ibrahim ibn Muhammad, one of the offspring of 'Ali ibn Abi Talib, told me:",
+      "text": "---"
+    },
+    {
+      "id": 3,
+      "narrator": "Ali ibn Abi Talib said (may Allah ennoble his countenance):",
+      "text": "İbrahim ibn Muhammed, Ali ibn Ebi Talib'in soyundan biri, bana şöyle söyledi: \"Ali, Peygamber'i (Allah ona salat ve selam eylesin) tarif ederken dedi ki: 'O yürüdüğünde, sanki bir yokuş aşağı iniyormuş gibi hareket ediyordu.'\""
+    }
+  ]
+}

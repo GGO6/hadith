@@ -1,0 +1,756 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 148,
+    "arabic": {
+      "title": "سنن الترمذي",
+      "author": "الإمام محمد بن عيسى الترمذي"
+    },
+    "english": {
+      "title": "Jami at-Tirmidhi",
+      "author": "Imam Muhammad ibn Isa at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Ibn `Umar narrated that:",
+      "text": "İbn `Umar, Peygamber'in şöyle dediğini nakletmiştir: \"Salat, temizlenmeden kabul edilmez, Ghulul'dan da sadaka verilmez.\""
+    },
+    {
+      "id": 2,
+      "narrator": "Abu Hurairah narrated that :",
+      "text": "Hannad, rivayetinde \"temizlenmeden\" ifadesini eklemiştir."
+    },
+    {
+      "id": 3,
+      "narrator": "'Ali narrated that :",
+      "text": ""
+    },
+    {
+      "id": 4,
+      "narrator": "Jabir bin 'Abdullah, may Allah be pleased with them, narrated that :",
+      "text": "Abu Hurairah, Allah'ın Messenger'inin şöyle dediğini nakletmiştir: \"Bir Müslüman veya mümin, yüzünü yıkayarak Wudu' aldığında, gözleriyle baktığı her kötü şey suyla birlikte çıkar - ya da suyun son damlasıyla, ya da benzeri bir ifade ile - ve ellerini yıkadığında, elleriyle yaptığı her kötü şey suyla birlikte çıkar - ya da suyun son damlasıyla - ta ki günahlardan arınmış hale gelir.\""
+    },
+    {
+      "id": 5,
+      "narrator": "Anas bin Malik said:",
+      "text": "'Ali, Peygamber'in şöyle dediğini nakletmiştir: \"Salatın anahtarı temizliktir, taharimi Takbir'dir ve tahlili Taslim'dir.\""
+    },
+    {
+      "id": 6,
+      "narrator": "Anas bin Malik said:",
+      "text": "Jabir bin 'Abdullah, Allah'ın Messenger'inin şöyle dediğini nakletmiştir: \"Cennetin anahtarı Salat'tır ve Salat'ın anahtarı Wudu'dur.\""
+    },
+    {
+      "id": 7,
+      "narrator": "'Aishah,  said:",
+      "text": "Anas bin Malik dedi ki: \"Peygamber tuvalete girdiğinde 'Ya Allah! Gerçekten Senden sığınırım.' derdi.\" Şu'bah (rivayet edenlerden biri) dedi ki: \"Bir başka zaman 'Al-Khubthi ve Al-Khabā'ith'ten Senden sığınırım.' dedi. Ya da: 'Al-Khubthi ve Al-Khaba'ith.'\""
+    },
+    {
+      "id": 8,
+      "narrator": "Abu Ayyub Al-Ansari narrated that :",
+      "text": "Anas bin Malik dedi ki: \"Peygamber tuvalete girdiğinde 'Ya Allah! Gerçekten Senden Al-Khubith ve Al-Khaba'ith'ten sığınırım.' derdi.\""
+    },
+    {
+      "id": 9,
+      "narrator": "Jabir bin Abdullah said:",
+      "text": "'Aişe dedi ki: \"Peygamber tuvaletten çıktığında 'Ghufranak.' derdi.\""
+    },
+    {
+      "id": 10,
+      "narrator": "Abu Qatadah narrated that :",
+      "text": "Abu Ayyub Al-Ansari, Allah'ın Messenger'inin şöyle dediğini nakletmiştir: \"Sizden biri dışkılamak üzere geldiğinde, hiçbiri dışkılarken Kıble'ye dönmesin, ne de olsa idrar yaparken. Ve sırtınızı ona dönmeyin, ama doğu veya batı tarafınıza dönün.\""
+    },
+    {
+      "id": 11,
+      "narrator": "Ibn 'Umar said:",
+      "text": "Jabir bin Abdullah dedi ki: \"Peygamber, idrar yaparken Kıble'ye dönmemizi yasakladı. Sonra onu, vefatından bir yıl önce Kıble'ye dönerken gördüm.\""
+    },
+    {
+      "id": 12,
+      "narrator": "Aishah said:",
+      "text": "Abu Katadah, Peygamber'in Kıble'ye dönerek idrar yaptığını gördüğünü nakletmiştir. Kutaibah bunu bize nakletti, dedi ki: \"İbn Lahi'ah bize bilgi verdi.\" Jabir'in Hadisi, İbn Lahi'ah'ın Hadisinden daha doğrudur. İbn Lahi'ah, Hadis âlimlerine göre zayıftır. Yahya bin Sa'eed Al-Qattan ve diğerleri tarafından zayıf olarak değerlendirilmiştir."
+    },
+    {
+      "id": 13,
+      "narrator": "Hudhaifah narrated:",
+      "text": "İbn 'Umar dedi ki: \"Bir gün Hafsa'nın evine çıktım ve Peygamber'in, Kâbe'ye sırtını dönerek Şam'a doğru idrar yaptığını gördüm.\""
+    },
+    {
+      "id": 14,
+      "narrator": "Anas, may Allah Most High be pleased with him, said:",
+      "text": "Aişe dedi ki: \"Sana Peygamber'in ayakta idrar yaptığını nakleden kimseye inanma; o, ancak çömelerek idrar yapardı.\""
+    },
+    {
+      "id": 15,
+      "narrator": "Abdullah bin Abu Qatadah narrated from his father:",
+      "text": "Hudhaifah şöyle nakletmiştir: \"Allah'ın Messenger'i insanların kullandığı bir atık alanına geldi, orada ayakta idrar yaptı. Ben ona Wudu' için su getirdim. Sonra ondan uzaklaşmak için ayrıldım, ama beni çağırdı ve arkasında olmamı istedi. Böylece Wudu aldı ve çorabının üzerine meshetti.\""
+    },
+    {
+      "id": 16,
+      "narrator": "Abdur-Rahman bin Yazld said, :",
+      "text": "Abdur-Rahman bin Yazid dedi ki: \"Onlar Salman'a, 'Peygamberin sana her şeyi öğretti, hatta dışkılama hakkında mı?' dediler. Salman da, 'Evet. Bize dışkılarken ve idrar yaparken Kıble'ye dönmeyi, istinca için sağ elimizi kullanmayı, istinca için üç taşın altında kalmayı ve dışkı veya kemik kullanmayı yasakladı.' dedi.\""
+    },
+    {
+      "id": 17,
+      "narrator": "Abdullah said:",
+      "text": "Abdullah dedi ki: \"Allah'ın Resulü dışkılamak için dışarı çıktı. Sonra 'Bana üç taş getirin.' dedi. Ben de iki taş ve bir parça dışkı ile geldim. O iki taşı aldı, dışkıyı bıraktı. 'Bu Riks'tir (bir pislik veya kirli şeydir).' dedi.\""
+    },
+    {
+      "id": 18,
+      "narrator": "Abdullah bin Mas'ud narrated that :",
+      "text": "Abdullah bin Mes'ud rivayet etti ki: Allah'ın Resulü dedi ki: \"Dışkı ile istinca yapmayın, kemik ile de yapmayın. Çünkü bu, cinler arasında kardeşleriniz için bir yiyecektir.\""
+    },
+    {
+      "id": 19,
+      "narrator": "Aishah said:",
+      "text": "Aişe dedi ki: \"Kocalarınızı su ile temizlenmeye teşvik edin, çünkü ben onlardan çok utanıyorum ve Allah'ın Resulü bunu yapardı.\""
+    },
+    {
+      "id": 20,
+      "narrator": "Al-Mughirah bin Shu'bah said:",
+      "text": "El-Mughirah bin Şu'bah dedi ki: \"Ben Peygamber ile bir yolculuktaydım. Peygamber dışkılamak zorunda kaldı, bu yüzden uzaklaştı.\""
+    },
+    {
+      "id": 21,
+      "narrator": "Abdullah bin Mughaffal narrated that :",
+      "text": "Abdullah bin Mughaffal rivayet etti ki: Peygamber, bir adamın banyo alanında idrar yapmasını yasakladı. Ve dedi ki: \"Bu sadece şüpheye yol açar.\" Bu konuda \"Peygamberin Sahabelerinden bir adamdan\" rivayetler vardır."
+    },
+    {
+      "id": 22,
+      "narrator": "Abu Hurairah narrated that :",
+      "text": "Ebu Hureyre rivayet etti ki: Allah'ın Resulü dedi ki: \"Eğer bu benim ümmetim için zor olmasaydı, her namazda Siwak kullanmalarını emrederdim.\""
+    },
+    {
+      "id": 23,
+      "narrator": "Zaid bin Khalid Al-Juhani said :",
+      "text": "Zaid bin Halid el-Cuhani dedi ki: \"Allah'ın Resulü'nün şöyle dediğini duydum: 'Eğer bu benim ümmetim için zor olmasaydı, her namazda Siwak kullanmalarını ve İsha namazını gecenin üçüncü kısmına kadar ertelemelerini emrederdim.' Dedi ki: Zaid bin Halid, namaza camide katılırdı ve Siwak'ı kulağında, bir yazıcının kaleminin bulunduğu yerden taşırdı. Dişlerini temizlemeden namaza kalkmazdı, sonra onu yerine geri koyardı.\""
+    },
+    {
+      "id": 24,
+      "narrator": "Abu Hurairah reported that the :",
+      "text": "Ebu Hureyre bildirdi ki: Peygamber dedi ki: \"Sizden biri gece uyandığında, elini kabın içine sokmasın; önce iki veya üç kez su döksün, çünkü elinin geceyi nerede geçirdiğini bilmez.\""
+    },
+    {
+      "id": 25,
+      "narrator": "Rabah bin Abdur-Rahman bin Abi Sufyan bin Huwaitib narrated from his grandmother, from her father; she said (that he said):",
+      "text": "Rabah bin Abdur-Rahman bin Ebu Süfyan, büyükannesinden, onun babasından rivayet etti; o da (şöyle dedi): \"Allah'ın Resulü'nün şöyle dediğini duydum: 'Üzerinde Allah'ın ismi anılmayan bir abdest yoktur.'\""
+    },
+    {
+      "id": 26,
+      "narrator": "Rabah Bin Abdur-Rahman bin Abu Sufyan bin Huwaitib narrated :",
+      "text": "Rabah bin Abdur-Rahman bin Ebu Süfyan, büyükannesinden, Sa'id bin Zayd'in kızı, onun babasından, Peygamber'den aynı şekilde rivayet etti."
+    },
+    {
+      "id": 27,
+      "narrator": "Salamah bin Qais narrated that :",
+      "text": "Salamah bin Kays rivayet etti ki: Allah'ın Resulü dedi ki: \"Abdest aldığınızda, burnunuza su çekin ve üfleyin, ve küçük taşlarla (pisliği temizlerken) tek sayı yapın.\""
+    },
+    {
+      "id": 28,
+      "narrator": "Abdullah bin Zaid said:",
+      "text": "Abdullah bin Zayd dedi ki: \"Ben Peygamber'in bir el ile ağzını çalkaladığını ve burnuna su çektiğini gördüm, bunu üç kez yaptı.\""
+    },
+    {
+      "id": 29,
+      "narrator": "Hassan bin Bilal said:",
+      "text": "Hasan bin Bilal dedi ki: \"Ben Ammar bin Yasir'in abdest aldığını gördüm, elini sakalından geçirdi. Ona denildi ki - ya da o dedi ki - 'Sakalından geçiyor musun?' O da dedi ki: 'Beni ne engelleyebilir ki? Gerçekten Allah'ın Resulü'nü sakalından geçerken gördüm.'\""
+    },
+    {
+      "id": 30,
+      "narrator": "(In another narration) Ammar narrated :",
+      "text": "(Başka bir rivayette) Ammar, Peygamber'den aynı şekilde rivayet etti."
+    },
+    {
+      "id": 31,
+      "narrator": "'Uthman bin Affan narrated that :",
+      "text": "Osman bin Affan rivayet etti ki: \"Peygamber sakalını geçerdi.\""
+    },
+    {
+      "id": 32,
+      "narrator": "Abdullah bin Zaid narrated that:",
+      "text": "Abdullah bin Zaid rivayet etti ki: \"Allah'ın Elçisi, elleriyle başını meshetti; ön kısmını ve arka kısmını geçerek. Ön kısmından başlayarak boynunun arkasına kadar gitti. Sonra ellerini tekrar başlangıç noktasına getirdi. Ardından ayaklarını yıkadı.\""
+    },
+    {
+      "id": 33,
+      "narrator": "Ar-Rubay' bint Mu'awwidh bin Afra' narrated:",
+      "text": "Ar-Rubay' bint Mu'awwidh bin Afra' rivayet etti ki: \"Peygamber başını iki kez meshetti: Ön kısmından başlayarak arka kısmına, ardından ön kısmına ve her iki kulağını dışarıdan ve içeriden meshetti.\""
+    },
+    {
+      "id": 34,
+      "narrator": "Ar-Rubayy bint Mu'awidh bin Afra narrated that :",
+      "text": "Ar-Rubayy bint Mu'awidh bin Afra rivayet etti ki: \"Peygamberi abdest alırken gördüm. Dedi ki: 'O, başını, ön kısmını ve arka kısmını, şakaklarını ve kulaklarını bir kez meshetti.'\""
+    },
+    {
+      "id": 35,
+      "narrator": "'Abdullah bin Zaid narrated that :",
+      "text": "Abdullah bin Zaid rivayet etti ki: \"Peygamberi abdest alırken gördüm ve başını, ellerinden kalan su ile meshetti.\""
+    },
+    {
+      "id": 36,
+      "narrator": "Ibn 'Abbas narrated:",
+      "text": "İbn Abbas rivayet etti ki: \"Peygamber başını ve kulaklarını; dışını ve içini meshetti.\" (Sahih)"
+    },
+    {
+      "id": 37,
+      "narrator": "Abu Umamah narrated:",
+      "text": "Ebu Ümameh rivayet etti ki: \"Peygamber abdest aldı; yüzünü üç kez yıkadı, ellerini üç kez yıkadı, başını meshetti ve dedi ki: 'Kulaklar başın bir parçasıdır.'\""
+    },
+    {
+      "id": 38,
+      "narrator": "Asim bin Laqit bin Sabirah narrated from his father that :",
+      "text": "Asim bin Laqit bin Sabirah babasından rivayet etti ki: \"Peygamber Muhammed dedi ki: 'Abdest alırken parmakların arasını yıkayın.'\""
+    },
+    {
+      "id": 39,
+      "narrator": "Ibn Abbas narrated that :",
+      "text": "İbn Abbas rivayet etti ki: \"Allah'ın Elçisi dedi ki: 'Abdest alırken ellerinizin parmaklarının ve ayak parmaklarınızın arasını yıkayın.'\""
+    },
+    {
+      "id": 40,
+      "narrator": "Al-Mustawrid bin Shaddad Al-Fihri said :",
+      "text": "Al-Mustawrid bin Şeddad El-Fihri dedi ki: \"Peygamberi abdest alırken ayak parmaklarının üzerine serçe parmağıyla yaptığını gördüm.\""
+    },
+    {
+      "id": 41,
+      "narrator": "Abu Hurairah narrated that :",
+      "text": "Ebu Hureyre rivayet etti ki: \"Peygamber dedi ki: 'Topukları ateşten koruyun!'\""
+    },
+    {
+      "id": 42,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "İbn Abbas rivayet etti ki: \"Peygamber her uzvu için bir kez abdest aldı.\""
+    },
+    {
+      "id": 43,
+      "narrator": "Abu Hurairah narrated:",
+      "text": "Ebu Hureyre rivayet etti ki: \"Peygamber her uzvu için iki kez abdest aldı.\""
+    },
+    {
+      "id": 44,
+      "narrator": "Ali narrated that:",
+      "text": "Ali rivayet etti ki: \"Peygamber her uzvu için üç kez abdest aldı.\""
+    },
+    {
+      "id": 45,
+      "narrator": "Thabit bin Abi Safiyyah said, :",
+      "text": "Sabit bin Ebi Safiye dedi ki: \"Abu Cafer'e sordum: 'Jabir sana şunu rivayet etti mi: \"Peygamber her uzvu için bir kez, iki kez ve üç kez abdest aldı?\"' Dedi ki: 'Evet.'\""
+    },
+    {
+      "id": 46,
+      "narrator": "Thabit bin Abi Safiyyah said, :",
+      "text": "Thabit bin Abi Safiyyah dedi ki: \"Ben Abu Ca'fer'e sordum: 'Jabir sana şöyle nakletti mi: \"Peygamber her defasında bir kez abdest aldı?\" O da: \"Evet.\" dedi.\""
+    },
+    {
+      "id": 47,
+      "narrator": "Abdullah bin Zaid narrated that:",
+      "text": "Abdullah bin Zaid şöyle nakletti: \"Peygamber abdest aldı. Yüzünü üç kez yıkadı, ellerini her birini iki kez yıkadı, başını meshetti ve ayaklarını yıkadı.\""
+    },
+    {
+      "id": 48,
+      "narrator": "Abu Hayyah narrated:",
+      "text": "Abu Hayyah şöyle nakletti: \"Ali'nin abdest aldığını gördüm. Elleri temizleyene kadar yıkadı, sonra ağzını üç kez çalkaladı, burnuna su çekip üç kez üfledi, yüzünü üç kez yıkadı ve ön kollarını üç kez yıkadı. Başını bir kez meshetti, sonra ayaklarını bileklerine kadar yıkadı. Sonra ayağa kalktı, abdestinden kalan suyu alıp ayakta içti. Sonra dedi ki: 'Size Allah'ın Elçisi'nin nasıl abdest aldığını göstermek istedim.'\""
+    },
+    {
+      "id": 49,
+      "narrator": "Abd Khair related a narration similar to that of Abu Hayyah, :",
+      "text": "Abd Khair, Ali'den (no. 48) benzer bir rivayet aktardı. Ancak Abd Khair'in rivayetinde şu eklemeler bulunmaktadır: \"Temizliğini tamamladıktan sonra, abdestinden kalan suyu eline alıp içiyordu.\""
+    },
+    {
+      "id": 50,
+      "narrator": "Abu Hurairah narrated that :",
+      "text": "Abu Hurairah şöyle nakletti: \"Peygamber dedi ki: 'Cebrail bana geldi ve şöyle dedi: 'Ey Muhammed! Abdest aldığında Nadh (namaz) kıl.'\""
+    },
+    {
+      "id": 51,
+      "narrator": "Abu Hurairah narrated that :",
+      "text": "Abu Hurairah şöyle nakletti: \"Allah'ın Elçisi dedi ki: 'Size Allah'ın günahlarınızı sileceği ve derecelerinizi yükselteceği şeyi haber vereyim mi?' Onlar: 'Elbette, Allah'ın Elçisi!' dediler. O da: 'Zorlukta abdest almak, mescitlere çok adım atmak ve namazdan sonra namazı beklemek işte budur Ribat.'\""
+    },
+    {
+      "id": 52,
+      "narrator": "Qutaibah said in his narration:",
+      "text": "Kutaibah, rivayetinde şöyle dedi: \"İşte bu Ribat, bu Ribat, bu Ribat.\" üç kez tekrar etti."
+    },
+    {
+      "id": 53,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe şöyle nakletti: \"Allah'ın Elçisi'nin abdest aldıktan sonra silinmek için kullandığı bir bez vardı.\""
+    },
+    {
+      "id": 54,
+      "narrator": "Muadh bin Jabal narrated:",
+      "text": "Muadh bin Cebel şöyle nakletti: \"Peygamberin abdest alırken, yüzünü elbisesinin kenarıyla sildiğini gördüm.\" Abu Eisa dedi ki: Bu hadis garip olup, senedi zayıftır. Rişdin bin Sa'd ve Abdurrahman bin Ziyad bin An'um Al İfriki hadis açısından zayıftır. Peygamberin Sahabelerinden ve sonrakilerden bazı ilim sahipleri, abdestten sonra havlu kullanmayı caiz gördüler. Bunu hoş karşılamayanlar ise, sadece \"Abdest tartılır.\" sözü açısından hoş karşılamadılar. Bu, Sa'id bin Al-Musayyib ve Az-Zuhri'den rivayet edilmiştir. Muhammed bin Humaid bize rivayet etti, Cerir bize rivayet etti, dedi ki: Ali bin Mücahid bana, o da benim için güvenilirdir, dedi ki: Tha'labah'dan Az-Zuhri'den, o da dedi ki: \"Havlu, sadece abdestten sonra hoş karşılanmaz çünkü abdest tartılır.\""
+    },
+    {
+      "id": 55,
+      "narrator": "Umar bin Al-Khattab narrated that :",
+      "text": "Ömer bin Al-Hattab şöyle nakletti: \"Allah'ın Elçisi dedi ki: 'Kim abdest alır, abdestini güzelce alır, sonra derse: (Eşhedü en la ilahe illallah, vahdehu la şerike leh, ve eşhedü enne Muhammeden abduhu ve rasuluhu, Allahümme c'alni minat tawwabin, ve c'alni minel mutatahhirin) 'Ben şahitlik ederim ki, Allah'tan başka ibadet edilecek yoktur, O'nun ortağı yoktur. Ve ben şahitlik ederim ki, Muhammed O'nun elçisi ve kuludur. Ey Allah! Beni tövbe edenlerden eyle ve beni temizlenenlerden eyle.' O zaman ona cennetin sekiz kapısı açılır, dilediği kapıdan girebilir.\""
+    },
+    {
+      "id": 56,
+      "narrator": "Safinah narrated:",
+      "text": "Safine şöyle nakletti: \"Peygamber bir Mudd ile abdest alır, bir Sa ile de gusül alırdı.\""
+    },
+    {
+      "id": 57,
+      "narrator": "Ubayy bin Ka'b narrated that :",
+      "text": "Ubayy bin Ka'b şöyle nakletti: \"Peygamber dedi ki: 'Şüphesiz abdest için bir Şeytan vardır ki, adı \"AI-Walahan\"dır. Su hakkında şüpheye düşmekten sakının.'\""
+    },
+    {
+      "id": 58,
+      "narrator": "Anas narrated that :",
+      "text": "Enes şöyle nakletti: \"Peygamber her namaz için abdest alırdı, ister temiz olsun ister olmasın.\""
+    },
+    {
+      "id": 59,
+      "narrator": "It has been related in a narration from Ibn Umar that :",
+      "text": "İbn Ömer'den gelen bir rivayette şöyle denilmiştir: \"Kim abdest alırsa, temiz bir haldeyken, Allah onun için on sevap yazar.\""
+    },
+    {
+      "id": 60,
+      "narrator": "Amr bin Amir Al-Ansari narrated that he heard Anas bin Malik saying:",
+      "text": "Amr bin Amir Al-Ensari, Enes bin Malik'in şöyle dediğini duyduğunu nakletti: \"Peygamber her namaz için abdest alırdı.\" Ben de: \"Peki sen ne yapardın?\" dedim. O da: \"Hadath (abdest bozan bir şey) işlemediğimiz sürece tek bir abdest ile bütün namazları kılardım.\" dedi."
+    },
+    {
+      "id": 61,
+      "narrator": "Sulaiman bin Buraidah narrated that his father said:",
+      "text": "Süleyman bin Bureydah, babasından şöyle nakletmiştir: \"Peygamber, her Salat için abdest alırdı. Fetih yılı boyunca, bir abdestle tüm namazları kıldı ve mestlerinin üzerine meshetti. Bunun üzerine Ömer dedi ki: 'Daha önce yapmadığın bir şey mi yaptın?' O da: 'Bunu bilerek yaptım.'\""
+    },
+    {
+      "id": 62,
+      "narrator": "Maimunah said:",
+      "text": "Maimunah dedi ki: \"Ben ve Allah'ın Resulü, cünüplük için bir kapla gusül alırdık.\""
+    },
+    {
+      "id": 63,
+      "narrator": "Abu Hajib narrated from a man from Banu Ghifar who said:",
+      "text": "Ebu Hacib, Banu Gifar'dan bir adamdan şöyle nakletti: \"Peygamber, bir kadının temizlenmesinden kalan (su)yu kullanmayı yasakladı.\""
+    },
+    {
+      "id": 64,
+      "narrator": "A1-Hakim bin Amr AI-Ghifari narrated that:",
+      "text": "Al-Hakim bin Amr Al-Ghifari şöyle nakletti: \"Peygamber, bir adamın bir kadının temizlenmesinden kalan (su) ile abdest almasını yasakladı.\" Ya da şöyle dedi: \"Onun içtiği (su)dan.\""
+    },
+    {
+      "id": 65,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "İbn Abbas şöyle nakletti: \"Peygamber'in eşlerinden biri bir kâse ile gusül aldı. Allah'ın Resulü bununla abdest almak istedi, o da: 'Ey Allah'ın Resulü! Ben cünübüm.' dedi. Bunun üzerine o: 'Şüphesiz, su cünüp olmaz.' dedi.\""
+    },
+    {
+      "id": 66,
+      "narrator": "Abu Sa'eed AI-Khudri narrated:",
+      "text": "Ebu Sa'id Al-Khudri şöyle nakletti: \"Denildi ki, 'Ey Allah'ın Resulü! Buda'ah kuyusunun suyunu abdest almak için kullanabilir miyiz? O kuyu, adet kanı bezleri, köpeklerin etleri ve çürümüş şeylerin atıldığı bir kuyu.' Allah'ın Resulü dedi ki: 'Şüphesiz su temizdir, onu kirletmeyen bir şey yoktur.'\""
+    },
+    {
+      "id": 67,
+      "narrator": "Ibn Umar narrated:",
+      "text": "İbn Ömer şöyle nakletti: \"Ben, Allah'ın Resulü'nün açık alanlardaki su hakkında sorulurken duyduğumu işittim, yırtıcı hayvanlar ve canavarlar ona gelir.\" O dedi ki: 'Su iki kullah olduğunda, kir taşımaz.'\""
+    },
+    {
+      "id": 68,
+      "narrator": "Abu Hurairah narrated that :",
+      "text": "Ebu Hureyre şöyle nakletti: \"Peygamber dedi ki: 'Sizden hiçbiri durgun suya idrar yapmasın, sonra onunla abdest almasın.'\""
+    },
+    {
+      "id": 69,
+      "narrator": "Abu Hurairah narrated:",
+      "text": "Ebu Hureyre şöyle nakletti: \"Bir adam Allah'ın Resulü'ne sordu: 'Ey Allah'ın Resulü! Biz denizlerde seyahat ediyoruz ve yanımızda sadece az su taşıyoruz. Eğer onu abdest almak için kullanırsak, susuz kalacağız. O halde deniz suyuyla abdest alabilir miyiz?' Allah'ın Resulü dedi ki: 'Onun suyu temizdir ve onun ölüsü helaldir.'\""
+    },
+    {
+      "id": 70,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "İbn Abbas şöyle nakletti: \"Peygamber, iki mezarın yanından geçti. Dedi ki: 'Bu ikisi azap çekiyor. Ve büyük bir şeyden dolayı azap çekmiyorlar. Bu olan, idrarından korunmuyordu. Diğeri ise gıybet yapıyordu.'\""
+    },
+    {
+      "id": 71,
+      "narrator": "Umm Qais bin Mihsan narrated:",
+      "text": "Ümmü Kays bin Mihsan şöyle nakletti: \"Ben, henüz yemek yemeyen bir oğlumla Peygamber'in yanına girdim. O, üzerine idrar yaptı, bunun üzerine Peygamber su istedi ve üzerine serpti.\""
+    },
+    {
+      "id": 72,
+      "narrator": "Anas narrated:",
+      "text": "Enes şöyle nakletti: \"Urainah'tan bazı insanlar Medine'ye geldiler ve iklimden rahatsız oldular. Bunun üzerine Allah'ın Resulü onlara hayırdan bazı develer gönderdi. Onlara: 'Sütünden ve idrarından için.' dedi. Sonra, Allah'ın Resulü'nün gönderdiği deveciyi öldürdüler ve develeri şiddetle sürüp, İslam'dan döndüler. Peygamber onlara geldi, ellerini ve ayaklarını karşıt taraflardan kestirdi, gözlerini markaladı ve onları Al-Harrah'a attı.\" Enes dedi ki: \"Böylece, onların birini toprakla ağzıyla kazarken gördüm, ta ki öldüler.\""
+    },
+    {
+      "id": 73,
+      "narrator": "Anas bin Malik narrated:",
+      "text": "Enes bin Malik şöyle nakletti: \"Allah'ın Resulü, deveciyi gözünden vurdukları için onların gözlerini çıkardı.\" Ebu 'Eisa dedi ki: Bu hadis garibdir. Onun dışında bunu zikreden kimseyi bilmiyoruz, yalnızca bu şeyhten, Yezid bin Zurai'den. Ve bu, Allah'ın: 'Ve yaralar, eşit olarak karşılık görür.' ayetiyle uyumludur. Muhammed bin Sirin'in şöyle söylediği rivayet edilmiştir: 'Peygamber, bunu onlara, yasaklanan cezalar indirilmeden önce yaptı.'\""
+    },
+    {
+      "id": 74,
+      "narrator": "Abu Hurairah narrated that :",
+      "text": "Ebu Hureyre şöyle nakletti: \"Allah'ın Resulü dedi ki: 'Ses veya koku olmadıkça abdest yoktur.'\""
+    },
+    {
+      "id": 75,
+      "narrator": "Abu Hurairah narrated that :",
+      "text": "Ebu Hureyre şöyle nakletti: \"Allah'ın Resulü dedi ki: 'Sizden biri mescitteyken, arka tarafında bir rüzgar hissederse, ses duymadan veya koku almadan çıkmasın.'\""
+    },
+    {
+      "id": 76,
+      "narrator": "Abu Hurairah narrated that :",
+      "text": "Abu Hurayra rivayet etti ki: Peygamber şöyle dedi: \"Şüphesiz Allah, biriniz hades (abdest bozma) durumundayken, namazını kabul etmez, ta ki abdest alsın.\""
+    },
+    {
+      "id": 77,
+      "narrator": "Ibn Abbas narrated that :",
+      "text": "İbn Abbas rivayet etti ki: Peygamberi secde pozisyonunda uyurken gördüm, öyle ki horladı veya hırıltı çıkardı. Sonra namaz kılmak için ayağa kalktı. Ben de dedim ki: \"Ey Allah'ın Elçisi! Uyuyor muydun?\" O da dedi ki: \"Yalnızca sırt üstü yatan için abdest almak gereklidir. Çünkü sırt üstü yatanın eklemleri gevşer.\""
+    },
+    {
+      "id": 78,
+      "narrator": "Anas bin Malik narrated:",
+      "text": "Enes bin Malik rivayet etti: \"Allah'ın Elçisi'nin arkadaşları uyur, sonra namaz kılmak için ayağa kalkarlardı. Abdest almazlardı.\""
+    },
+    {
+      "id": 79,
+      "narrator": "Abu Hurairah narrated that :",
+      "text": "Abu Hurayra rivayet etti ki: Allah'ın Elçisi şöyle dedi: \"Ateşin dokunduğu şeyden abdest almak gereklidir, hatta bu bir peynir parçası bile olsa.\""
+    },
+    {
+      "id": 80,
+      "narrator": "Jabir narrated:",
+      "text": "Cabir rivayet etti: \"Allah'ın Elçisi dışarı çıktı ve ben de onunla birlikteydim. Ensar'dan bir kadının yanına girdi. O, bir koyun kesti ve o da ondan yedi; ardından olgun hurmalarla dolu bir sepet getirdi ve o da ondan yedi. Sonra öğle namazı için abdest aldı ve namaz kıldı. Namazını bitirdikten sonra, kadın ona koyunun kalanından bir şey getirdi. O da onu yedi, sonra ikindi namazını kıldı ve abdest almadı.\""
+    },
+    {
+      "id": 81,
+      "narrator": "Al-Bara bin Azib narrated:",
+      "text": "Al-Bara bin Azib rivayet etti: Allah'ın Elçisi'ne deve eti için abdest alıp almayacağı soruldu. O da: \"Onun için abdest alın.\" dedi. Koyun eti yedikten sonra abdest alıp almayacağı soruldu. O da: \"Onun için abdest almayın.\" dedi."
+    },
+    {
+      "id": 82,
+      "narrator": "Busrah bint Safwan narrated that :",
+      "text": "Busra bint Safvan rivayet etti ki: Peygamber şöyle dedi: \"Kim penisine dokunursa, abdest almadıkça namaz kılmasın.\""
+    },
+    {
+      "id": 83,
+      "narrator": "Busrah narrated :",
+      "text": "Busra, Peygamber'den benzer bir rivayet aktardı (no. 82)."
+    },
+    {
+      "id": 84,
+      "narrator": "Busrah narrated that :",
+      "text": "Busra, Peygamber'in benzer bir hadis söylediğini rivayet etti."
+    },
+    {
+      "id": 85,
+      "narrator": "Qais bin Talq bin Ali -  Al-Hanafi narrated from his father, that:",
+      "text": "Kays bin Talq bin Ali - El-Hanefi, babasından rivayet etti ki: Peygamber şöyle dedi: \"Bu, onun etinden başka bir şey mi?\" veya \"Onun bir parçası mı?\""
+    },
+    {
+      "id": 86,
+      "narrator": "Urwah narrated from Aishah that:",
+      "text": "Urve, Aişe'den rivayet etti ki: \"Peygamber, eşlerinden birini öptü, sonra namaza gitti ve abdest almadı.\" O (Urve) dedi ki: \"Ben de 'Senden başka kimdi?' dedim.\" \"O da güldü.\""
+    },
+    {
+      "id": 87,
+      "narrator": "Madan bin Abi Talhah narrated from Abu Ad-Darda that :",
+      "text": "Medan bin Ebu Talha, Ebu Derda'dan rivayet etti ki: \"Allah'ın Elçisi kusunca abdest aldı.\" Sonra Şam'daki bir mescitte Thawban ile karşılaştım ve bunu ona söyledim. O da: \"Doğru söyledi, ben onun abdest alması için su döktüm.\" dedi."
+    },
+    {
+      "id": 88,
+      "narrator": "Abdullah bin Mas'ud narrated:",
+      "text": "Abdullah bin Mes'ud rivayet etti: \"Peygamber bana sordu: 'İdavahında (su tulumunda) ne var?' Ben de: 'Nabidh.' dedim. O da: 'Hurmanın faydalı ve suyun temiz olduğunu söyledi.' Sonra onunla abdest aldı.\""
+    },
+    {
+      "id": 89,
+      "narrator": "Ibn Abbas narrated :",
+      "text": "İbn Abbas rivayet etti: Peygamber süt içti. Sonra ağzını çalkalamak için su istedi. Sonra dedi ki: \"Şüphesiz bunda yağ vardır.\" Bu konu hakkında Sahl bin Sa'd As-Sa'idi ve Ümmü Seleme'den rivayetler vardır. Ebu Eysa dedi ki: Bu hadis Hasan Sahih'tir. Bazı ilim ehli, süt içtikten sonra ağzı çalkalamanın gerekliliği görüşündedir ve bu bizim için tavsiye edilen bir şeydir. Bazıları ise süt içtikten sonra ağzı çalkalamanın gerekliliği görüşünde değildir."
+    },
+    {
+      "id": 90,
+      "narrator": "Ibn Umar narrated:",
+      "text": "İbn Ömer rivayet etti: \"Bir adam Peygamber'e (Selam) selam verdi, o da idrar yapıyordu, bu yüzden ona cevap vermedi.\""
+    },
+    {
+      "id": 91,
+      "narrator": "Abu Hurairah narrated that :",
+      "text": "Ebu Hureyre, Peygamber'in şöyle dediğini nakletmiştir: \"Köpeğin içtiği kabı yedi kez yıkayın; bunlardan birincisi veya sonuncusu toprakla olsun. Kedi içtiğinde ise bir kez yıkayın.\""
+    },
+    {
+      "id": 92,
+      "narrator": "Humaidah bint Ubaid bin Rifa'ah narrated:",
+      "text": "Humaidah bint Ubaid bin Rifa'ah, \"Kabşah bint Ka'b bin Malik - o, İbn Ebi Katade ile evliydi - şöyle nakletti: 'Abu Katade onu ziyaret etti, ben de onun için abdest almak üzere su döktüm.' Kabşah dedi ki: 'Bir kedi içmek için geldi, o da kabı alçaltarak kedinin içmesine izin verdi.' Kabşah dedi: 'Beni ona bakarken görünce, \"Ey yeğenim! Buna mı şaşırdın?\" dedi. Ben de evet dedim. O da: \"Şüphesiz Allah'ın Elçisi, 'O pis değildir, sadece aranızda dolaşanlardan biridir' dedi.\"\""
+    },
+    {
+      "id": 93,
+      "narrator": "Hammam bin AI-Harith narrated:",
+      "text": "Hammam bin Al-Harith, \"Câriir bin Abdullah, idrarını yaptı, sonra da üstüne mestinin üzerine meshetti. Kendisine, 'Bunu mu yapıyorsun?' diye soruldu. O da, 'Allah'ın Elçisi bunu yaparken gördüm, beni ne engelleyebilir ki?' diye cevap verdi.\" Bu konuda Ömer, Ali, Hudeyfe, El-Mugire, Bilal, Sa'd, Ebu Eyyub, Selman, Bureydah, Amr bin Umeyye, Enes, Sahl bin Sa'd, Ya'la bin Murrah, Ubade bin Es-Samit, Usame bin Şarik, Ebu Ümame, Cabir, Usame bin Zeyd ve İbn Ubade'den rivayetler vardır. Onlar onu İbn İmara ve Ubey bin İmara olarak anıyorlar."
+    },
+    {
+      "id": 94,
+      "narrator": "It has been related from Sahr bin Hawshah that he said:",
+      "text": "Sahr bin Hawşah'tan şöyle rivayet edilmiştir: \"Câriir bin Abdullah'ı abdest alırken gördüm ve mestinin üzerine meshetti. Bunun hakkında kendisine sordum. O da, 'Ben Allah'ın Elçisi'ni abdest alırken mestinin üzerine meshederken gördüm.' dedi. Ben de ona, 'Bu, Maide Suresi inmeden önce mi yoksa sonra mı?' dedim. O da, 'Ben Maide'den sonra İslam'ı kabul ettim.' diye cevap verdi.\" Kütübe bunu bize rivayet etti; (şöyle) dedi: Halid bin Ziyad Et-Tirmizi, Muqatil bin Hayyan'dan, Şahr bin Hawşah'tan, Câriir'den rivayet etti. Dedi ki: Baqiyyah, İbrahim bin Adham'dan, Muqatil bin Hayyan'dan, Şahr bin Hawşah'tan, Câriir'den rivayet etti. Bu Hadis açıklayıcıdır, çünkü mestin üzerine meshetmeyi sevmeyen bazıları, Peygamber'in iki mestinin üzerine meshetmesinin Maide Suresi'nin inmesinden önce olduğunu yorumlamaktadır. Ancak bu Hadis'te Câriir, Peygamber'in Maide Suresi'nin inmesinden sonra mestinin üzerine meshettiğini belirtmektedir."
+    },
+    {
+      "id": 95,
+      "narrator": "Khuzaimah bin Thabit narrated:",
+      "text": "Huzeyme bin Sabit, \"Peygamber'e mestin üzerine meshetmek hakkında soruldu. O da: 'Seyahat eden için üç (gün), yerleşik olan için bir gündür.' dedi.\""
+    },
+    {
+      "id": 96,
+      "narrator": "Safwan bin Assal narrated:",
+      "text": "Safvan bin Es-Sal, \"Seyahat ederken, Allah'ın Elçisi bize mestlerimizi üç gün ve gece çıkarmamamızı emrederdi, sadece cünüplük için, ama dışkı, idrar ve uyku için değil.\" dedi."
+    },
+    {
+      "id": 97,
+      "narrator": "AI-Mughirah bin Shu'bah narrated:",
+      "text": "El-Mugire bin Şu'be, \"Peygamber mestin üzerine ve altına meshetti.\" diye nakletmiştir."
+    },
+    {
+      "id": 98,
+      "narrator": "AI-Mughirah bin Shu'bah narrated:",
+      "text": "El-Mugire bin Şu'be, \"Peygamber'i mestinin üzerine meshederken gördüm: üst kısımlarında.\" diye nakletmiştir."
+    },
+    {
+      "id": 99,
+      "narrator": "Al-Mughirah bin Shu`bah narrated:",
+      "text": "El-Mugire bin Şu'be, \"Peygamber abdest aldı ve çoraplarının ve terliklerinin üzerine meshetti.\" diye nakletmiştir."
+    },
+    {
+      "id": 100,
+      "narrator": "Ibn Al-Mughirah bin Shu'bah narrated from his father:",
+      "text": "İbn El-Mugire bin Şu'be, babasından şöyle nakletmiştir: \"Peygamber abdest aldı ve mestin üzerine ve 'imame'ye meshetti.\" Ebu Bekir (rivayet edenlerden biri) dedi ki: \"Ve gerçekten bunu İbn El-Mugire'den duydum.\""
+    },
+    {
+      "id": 101,
+      "narrator": "BilaI narrated:",
+      "text": "Bilal, \"Peygamber mestin ve kimar üzerine meshetti.\" diye nakletmiştir."
+    },
+    {
+      "id": 102,
+      "narrator": "Abu Ubaidah bin Muttammad bin Ammar bin Yasir said:",
+      "text": "Ebu Ubeyde bin Muttammad bin Ammar bin Yasir, \"Mest üzerine meshetmek hakkında Cabir bin Abdullah'a sordum. O da, 'Ey yeğenim! Bu sünnettir.' dedi.\""
+    },
+    {
+      "id": 103,
+      "narrator": "Ibn 'Abbas narrated that his maternal aunt Maimunah said:",
+      "text": "İbn Abbas, annesi Maimunah'dan şöyle rivayet etmiştir: \"Ben, Peygamber'in cünüplük için gusül alması için su hazırladım. O da kabı sol eliyle çevirerek (bir miktar su) sağ eline döktü. Sonra ellerini yıkadı. Sonra elini kabın içine sokarak cinsel organına su döktü, ardından ellerini duvara veya yere sürdü. Sonra ağzını çalkaladı ve burnuna su alıp üfleyerek yıkadı, yüzünü ve ön kollarını yıkadı. Sonra başına üç kez su döktü, ardından vücudunun geri kalanına su döktü, sonra bulunduğu yerden hareket ederek ayaklarını yıkadı.\""
+    },
+    {
+      "id": 104,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe, \"Allah'ın Elçisi cünüplük için gusül almak istediğinde, önce ellerini kabın içine sokmadan yıkar, sonra cinsel organını yıkar ve namaz için abdest alırdı. Sonra saçlarını suyla ıslatır, ardından başına üç kez su dökerdi.\" diye nakletmiştir."
+    },
+    {
+      "id": 105,
+      "narrator": "Umm Salamah narrated :",
+      "text": "Ümmü Seleme, \"Ben dedim: 'Ey Allah'ın Elçisi! Ben başımda sıkı örgüler olan bir kadınım, gusül almak için bunları çözmeli miyim?' O da: 'Hayır. Sadece başının üzerine üç avuç su dökmen yeterlidir, sonra vücudunun geri kalanına su dökerek temizlenirsin.' ya da 'O zaman temizlenmiş olursun.' dedi.\""
+    },
+    {
+      "id": 106,
+      "narrator": "Abu Hurairah narrated that :",
+      "text": "Abu Hurayra'nın rivayetine göre, Peygamber şöyle dedi: \"Her bir kılların altında cinsel pislik vardır, bu yüzden (tüm) kılları yıka ve deriyi temizle.\""
+    },
+    {
+      "id": 107,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe rivayet etti: \"Peygamber, Ghusl'den sonra Wudu almazdı.\""
+    },
+    {
+      "id": 108,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe rivayet etti: \"Sünnetli olan sünnetli ile karşılaştığında, kesinlikle Ghusl gereklidir. Ben ve Allah'ın Elçisi bunu yaptık, bu yüzden Ghusl aldık.\""
+    },
+    {
+      "id": 109,
+      "narrator": "Aishah narrated that :",
+      "text": "Aişe'nin rivayetine göre, Peygamber şöyle dedi: \"Sünnetli olan sünnetli ile karşılaştığında Ghusl gereklidir.\""
+    },
+    {
+      "id": 110,
+      "narrator": "Ubayy bin Ka'b narrated:",
+      "text": "Ubeyy bin Ka'b rivayet etti: \"Su, su içindir,\" sadece İslam'ın başında izin verilmişti. Sonra yasaklandı.\""
+    },
+    {
+      "id": 111,
+      "narrator": "Ma'mar narrated :",
+      "text": "Ma'mar, Az-Zuhri'den bu isnadla benzer bir rivayet aktardı."
+    },
+    {
+      "id": 112,
+      "narrator": "Ibn 'Abbas said:",
+      "text": "İbn Abbas dedi ki: \"'Su, su içindir' sadece ıslak rüya ile ilgilidir.\""
+    },
+    {
+      "id": 113,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe rivayet etti: \"Peygamber'e ıslaklık bulan bir adam soruldu ve ıslak rüya gördüğünü hatırlamıyordu. O da şöyle dedi: 'Ghusl almalıdır.' Ve (kendisine) ıslak rüya gören ama ıslaklık bulamayan bir adam soruldu, o da şöyle dedi: 'Ondan Ghusl gerekmez.' Ümmü Seleme dedi ki: 'Ey Allah'ın Elçisi! Kadın bunu gördüğünde Ghusl alması gerekir mi?' O da cevap verdi: 'Evet. Şüphesiz kadınlar erkeklerin ortaklarıdır.'\""
+    },
+    {
+      "id": 114,
+      "narrator": "Ali narrated:",
+      "text": "Ali rivayet etti: \"Peygamber'e Al-Madhi hakkında sordum. O da şöyle dedi: 'Al-Madhi için Wudu, Al-Mani için Ghusl gereklidir.'\""
+    },
+    {
+      "id": 115,
+      "narrator": "Sahl bin Hunaif said:",
+      "text": "Sahl bin Hüneyf dedi ki: \"Al-Madhi'den dolayı şiddetli ve rahatsız edici bir durum yaşıyordum. Bu yüzden sık sık Ghusl alıyordum. Bunu Allah'ın Elçisine söyledim ve bunun hakkında sordum. O da: 'Bunun için sadece Wudu alman yeterlidir.' dedi. Ben de: 'Ey Allah'ın Elçisi! Peki, bu kıyafetlerime bulaşırsa ne olacak?' dedim. O da: 'Bunun için bir avuç su alıp, nerede dokunduğunu gördüğün yere serpmek yeterlidir.' dedi.\""
+    },
+    {
+      "id": 116,
+      "narrator": "Hammam bin AI-Harith narrated:",
+      "text": "Hammam bin Al-Harith rivayet etti: \"Aişe, bir misafire uyuması için sarı bir örtü verdi. O, ıslak rüya gördü ve ıslak rüyanın izleri üzerinde olduğu için ona göndermeye utanıyordu. Bu yüzden onu (yıkayarak) suya daldırdı, sonra ona gönderdi. Aişe dedi ki: 'Neden bizim giysimizi mahvetti? Parmaklarıyla kazıması yeterli olurdu. Bazen Allah'ın Elçisinin giysisinden parmaklarımla kazıdığım olurdu.'\""
+    },
+    {
+      "id": 117,
+      "narrator": "Sulaiman bin Yasar narrated from Aishah, that :",
+      "text": "Süleyman bin Yesar, Aişe'den rivayet etti ki: \"O, Allah'ın Elçisinin giysisinden Mani'yi yıkadı.\""
+    },
+    {
+      "id": 118,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe rivayet etti: \"Allah'ın Elçisi, Junub halde uyurdu ve suya (Ghusl yapmaya) dokunmadan.\""
+    },
+    {
+      "id": 119,
+      "narrator": "Abu Ishaq:",
+      "text": "Ebu İshak: Ebu İshak aracılığıyla benzer bir rivayet (no. 118) vardır."
+    },
+    {
+      "id": 120,
+      "narrator": "Umar narrated that :",
+      "text": "Ömer rivayet etti ki: \"Peygamber'e sordum: 'Birimiz Junub halde uyuyabilir mi?' O da cevap verdi: 'Evet, Wudu alırsa.'\""
+    },
+    {
+      "id": 121,
+      "narrator": "Abu Hurairah narrated that :",
+      "text": "Ebu Hureyre, Peygamber'in onunla cünüpken karşılaştığını nakletti. O şöyle dedi: \"Ben gusül almak için ayrıldım.\" Sonra geri döndü ve \"Nereye gittin?\" ya da \"Neredeydin?\" dedi. Ben de \"Cünüp idim.\" dedim. O da \"Şüphesiz mümin kirlenmez.\" dedi."
+    },
+    {
+      "id": 122,
+      "narrator": "Umm Salamah narrated:",
+      "text": "Ümmü Seleme, Ümmü Süleym bint Milhan'ın Peygamber'e geldiğini ve şöyle dediğini nakletti: \"Ey Allah'ın Resulü! Şüphesiz Allah, hakikatten utanmaz. Yani bir kadın, bir erkeğin gördüğü gibi rüyasında bir şey gördüğünde gusül alması mı gereklidir?\" O da \"Evet. Eğer su (ıslaklık) bulursa, gusül almalıdır.\" dedi. Ümmü Seleme şöyle dedi: \"Ben ona dedim: 'Ey Ümmü Süleym! Kadınları rezil ettin!'\""
+    },
+    {
+      "id": 123,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe, \"Bazen Peygamber, cünüplükten gusül alır, sonra benden ısınmak için gelir, beni tutar ve gusül almazdı.\" diye nakletti."
+    },
+    {
+      "id": 124,
+      "narrator": "Abu Dharr narrated that :",
+      "text": "Ebu Zerr, Allah'ın Resulü'nün şöyle dediğini nakletti: \"Temiz ve saf toprak, Müslüman için bir temizleyicidir; hatta suyu on yıl bulamazsa bile. Sonra su bulursa, onu (temizlik için) derisine kullanmalıdır. Çünkü bu daha iyidir.\""
+    },
+    {
+      "id": 125,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe, \"Fatıma bint Ebi Hübeyş, Peygamber'e geldi ve 'Ey Allah'ın Resulü! Ben sürekli kanama yaşayan bir kadınım ve temizlenemiyorum. Salatımı terk mi etmeliyim?' dedi. O da 'Hayır. Bu sadece bir kan damarındır, adet değildir. Adetin başladığında Salatı terk et. Ve bittiğinde, kanı üzerinden yıka ve Salat kıl.' dedi.\""
+    },
+    {
+      "id": 126,
+      "narrator": "Adiyy bin Thabit narrated from his father, that :",
+      "text": "Adiyy bin Thabit, babasından nakletti ki: Peygamber, Mustahadah hakkında şöyle dedi: \"Adet günlerinde Salatı terk etsin, sonra gusül alsın, her Salat için abdest alsın, oruç tutsun ve Salat kılsın.\""
+    },
+    {
+      "id": 127,
+      "narrator": "A similar narration as no. 120. :",
+      "text": "No. 120 ile benzer bir rivayet: Ebu Eysa dedi ki: Şarik, bu Hadisi Ebu'l-Yakzan'dan tek başına nakletmiştir. Ben Muhammed (İbn İsmail el-Buhari) ile bu Hadis hakkında konuştum. Dedim ki: \"Adiyy bin Thabit, babasından, dedesinden; Adiyy'in dedesinin adı nedir?\" Ama Muhammed onun adını bilmiyordu. Ve ben Muhammed'e Yahya bin Ma'in'in adının Dinar olduğunu söylediğini belirttim, o da ona itiraz etmedi. Ahmed ve İshak, Mustahadah hakkında şöyle dediler: Eğer her namaz için gusül alırsa, bu onun için daha ihtiyatlıdır, ve eğer her namaz için abdest alırsa, bu da onun için kabul edilebilir, ve eğer bir gusül ile iki namazı birleştirirse, bu da kabul edilebilir."
+    },
+    {
+      "id": 128,
+      "narrator": "Hamnah bint Jahsh narrated:",
+      "text": "Hamne bint Cahş, \"Şiddetli ve aşırı bir kanama durumum vardı. Bu yüzden Peygamber'e gidip ona bilgi vermek ve bu konuda sormak istedim. Onu kız kardeşim Zeynep bint Cahş'ın evinde buldum. Dedim ki, 'Ey Allah'ın Resulü! Şiddetli ve aşırı bir kanama yaşıyorum. Bunun için ne yapmamı emredersiniz, bu oruç tutmamı ve Salat kılmamı engeller mi?' O da 'Kendine bir pamuk parçası bağla, kanama geçer.' dedi. Ben de 'Ondan daha fazlası var.' dedim. O da 'Sıkı bağla.' dedi. Ben de 'Ondan daha fazlası var.' dedim. O da 'O zaman bir bez kullan.' dedi. Ben de, 'Ondan daha fazlası var. Çok fazla akıyor.' dedim. Peygamber şöyle dedi: 'Sana iki şeyden birini emredeceğim, hangisini yaparsan, bu senin için kabul edilecektir. Hangi birini yapabileceğini bilmelisin.' Sonra şöyle dedi: 'Bu sadece Şeytan'dan bir darbedir. Altı veya yedi gün adet gör, Allah bilir, sonra gusül al. Temizlendiğini gördüğünde, yirmi üç veya yirmi dört gece ve gündüz Salat kıl. Salat kıl ve oruç tut, bu senin için kabul edilecektir. Bunu (yapabilirsen) diğer adet gören kadınlar gibi yap. Eğer (yapamazsan) öğleyi geciktirip akşamı acele edersen, gusül aldıktan sonra öğle ve akşamı birleştir. Sonra akşamı geciktirip yatsıyı acele et, sonra gusül al ve iki namazı birleştir. Bunu (yapabilirsen) yap. Sonra sabah namazı ile gusül al ve namaz kıl. Bunu yap, eğer yapabiliyorsan oruç tut.' Sonra Allah'ın Resulü şöyle dedi: 'Bu iki şeyden benim için tercih edilen budur.'\""
+    },
+    {
+      "id": 129,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe, \"Ümmü Habibe bint Cahş, Allah'ın Resulü'nden bir fetva istedi. 'Sürekli kanama yaşıyorum, bu yüzden temizlenemiyorum. Salatı terk mi etmeliyim?' dedi. O da 'Hayır, bu sadece bir kan damarındır. Gusül al, sonra namaz kıl.' dedi. Böylece her namaz için gusül alırdı.\""
+    },
+    {
+      "id": 130,
+      "narrator": "Mu'adhah narrated that :",
+      "text": "Mu'azah, Aişe'ye bir kadının \"Adet günlerinde birimiz namazlarını kaza etmemeli mi?\" diye sorduğunu nakletti. O da \"Sen Haruriyye'den misin? Şüphesiz biz adet görürdük ve kaza etmemiz emredilmezdi.\" dedi."
+    },
+    {
+      "id": 131,
+      "narrator": "Ibn Umar narrated that :",
+      "text": "İbn Ömer, Peygamber'in şöyle dediğini nakletti: \"Adet gören kadın, Kur'an'dan hiçbir şey okumaz - ne de cünüp olan.\" Bu konuda Ali'den de bir rivayet vardır."
+    },
+    {
+      "id": 132,
+      "narrator": "Aishah narrated that:",
+      "text": "Aişe, \"Adet gördüğümde, Allah'ın Resulü bana bir bel sarması giymemi emretti, sonra da benimle oynaşırdı.\" diye nakletti."
+    },
+    {
+      "id": 133,
+      "narrator": "Abdullah bin Sa'd narrated:",
+      "text": "Abdullah bin Sa'd, Peygamber'e adet gören bir kadınla yemek yemeyi sordum. O da \"Onunla ye.\" dedi."
+    },
+    {
+      "id": 134,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe, \"Allah'ın Resulü bana 'Bana mescidden khumra getir.' dedi. Ben de 'Adet görüyorum.' dedim. O da 'Şüphesiz adetinin senin elinde değil.' dedi.\""
+    },
+    {
+      "id": 135,
+      "narrator": "Abu Hurairah narrated that :",
+      "text": "Ebu Hureyre, Peygamber'in şöyle dediğini nakletti: \"Kim adet gören bir kadınla cinsel ilişkiye girerse, ya da bir kadının anüsüne girerse, bir falcıya danışırsa, o, Muhammed'e indirilene küfretmiş olur.\""
+    },
+    {
+      "id": 136,
+      "narrator": "Ibn Abbas narrated that :",
+      "text": "İbn Abbas rivayet etti ki: Peygamber, eşi adetliyken onunla cinsel ilişkiye giren bir adam hakkında şöyle dedi: \"O, yarım Dinar sadaka vermelidir.\""
+    },
+    {
+      "id": 137,
+      "narrator": "Ibn Abbas narrated that :",
+      "text": "İbn Abbas rivayet etti ki: Peygamber şöyle dedi: \"Kan kırmızı olduğunda bir Dinar verin. Ve kan sarı olduğunda yarım Dinar verin.\""
+    },
+    {
+      "id": 138,
+      "narrator": "Asma' bint Abu Bakr narrated that :",
+      "text": "Asma' bint Ebu Bekir rivayet etti ki: Bir kadın Peygamber'e adet kanı ile temas eden bir giysi hakkında sordu. Bunun üzerine Allah'ın Elçisi şöyle dedi: \"Onu çıkar, ov, sonra durula ve içinde namaz kıl.\""
+    },
+    {
+      "id": 139,
+      "narrator": "Umm Salamah narrated:",
+      "text": "Ümmü Selame rivayet etti: \"Allah'ın Elçisi döneminde nifas bekleme süresi kırk gündü. Biz yüzlerimizi kırmızımsı kahverengi örtülerle kapatırdık.\""
+    },
+    {
+      "id": 140,
+      "narrator": "Anas narrated:",
+      "text": "Enes rivayet etti: \"Allah'ın Elçisi, kadınlarının yanına bir Ghusl ile giderdi.\""
+    },
+    {
+      "id": 141,
+      "narrator": "Abu Sa'eed Al-Khudri narrated that :",
+      "text": "Ebu Said el-Hudri rivayet etti ki: Peygamber şöyle dedi: \"Sizden biri eşine geldiğinde, tekrar (ilişkiye) girmek isterse, aralarında abdest alsın.\""
+    },
+    {
+      "id": 142,
+      "narrator": "Hisham bin Urwah narrated from his father, (Urwah) from Abdullah bin AI-Arqam. :",
+      "text": "Hişam bin Urve, babasından (Urve) Abdullah bin Al-Arqam'dan rivayet etti: \"Namaz için durduğunda, o (Abdullah bin Al-Arqam) bir adamı elinden tutup öne götürdü, o (Abdullah) insanların önündeydi ve şöyle dedi: 'Ben Allah'ın Elçisi'nin şöyle söylediğini duydum: \"Namaz için durduğunda ve birinizin ihtiyacı olduğunu hissederse, önce ihtiyacını gidermelidir.\"'"
+    },
+    {
+      "id": 143,
+      "narrator": "Abdur-Rahman bin Awf's Umm Walad said, :",
+      "text": "Abdurrahman bin Avf'ın cariyesi dedi ki: \"Ümmü Selame'ye dedim ki: 'Gerçekten ben uzun etekli bir kadınım ve pis yerlerde yürürüm.' O da dedi ki: 'Allah'ın Elçisi şöyle dedi: \"Sonrasında gelen şeyle temizlenir.\"'"
+    },
+    {
+      "id": 144,
+      "narrator": "Ammar bin Yasir narrated that :",
+      "text": "Ammar bin Yasir rivayet etti ki: Peygamber ona yüzünü ve iki avucunu ovmasını emretti."
+    },
+    {
+      "id": 145,
+      "narrator": "Ikrimah narrated that :",
+      "text": "İkrime rivayet etti ki: İbn Abbas'a teyemmüm hakkında soruldu. O da şöyle dedi: \"Allah, Kitabında abdestten bahsettiğinde şöyle dedi: 'Yüzlerinizi ve ellerinizi (kollarınızı) dirseklere kadar yıkayın.' Ve teyemmüm hakkında şöyle dedi: 'Yüzlerinizi ve ellerinizi ovun.' Ve şöyle dedi: 'Erkek hırsız ve kadın hırsız; ellerini kesin.' Kesme sünneti iki el içindir. Yani sadece yüz ve ellerdir, bu da teyemmümdür.\""
+    },
+    {
+      "id": 146,
+      "narrator": "Ali narrated:",
+      "text": "Ali rivayet etti: \"Allah'ın Elçisi, Junub olmadığı sürece her durumda Kur'an okurdu.\""
+    },
+    {
+      "id": 147,
+      "narrator": "Abu Hurairah narrated:",
+      "text": "Ebu Hureyre rivayet etti: \"Bir bedevi, Peygamber otururken mescide girdi. Namaz kıldı, sonra bitirdiğinde şöyle dedi: 'Ey Allah! Bana ve Muhammed'e merhamet et, bizimle birlikte olan hiç kimseye merhamet etme.' Peygamber ona döndü ve dedi ki: 'Sınırlı bir şeyi sınırsız hale getirdin.' Çok geçmeden mescitte idrar yapmaya başladı. İnsanlar ona koştu. Ama Peygamber şöyle dedi: 'Üzerine bir kova su dökün - ya da - bir bardak su dökün.' Sonra dedi ki: 'Sen insanlara kolaylık sağlamak için gönderildin; onlara zorluk çıkarmak için gönderilmedin.'\""
+    },
+    {
+      "id": 148,
+      "narrator": "Anas bin Malik narrated similar to this (no. 147).:",
+      "text": "Enes bin Malik, buna benzer bir rivayette bulundu (no. 147): 'Abdullah bin Mes'ud, İbn Abbas ve Vatilah bin Al-Asqa'dan bu konuda rivayetler vardır."
+    }
+  ]
+}

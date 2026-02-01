@@ -1,0 +1,46 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 6,
+    "arabic": {
+      "title": "الأدب المفرد",
+      "author": "الإمام البخاري"
+    },
+    "english": {
+      "title": "Al-Adab Al-Mufrad",
+      "author": "Imam al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "",
+      "text": "Mujahid'den rivayet edilmiştir ki, İbn 'Umar hayvanların birbirleriyle dövüştürülmesini hoş görmemiştir."
+    },
+    {
+      "id": 2,
+      "narrator": "",
+      "text": "Jabir ibn 'Abdullah, Allah'ın elçisi, ona salat ve selam olsun, \"Gece sessizleştiğinde sık sık dışarı çıkmayın. Allah'ın dışarı gönderdiği hayvanları vardır. Bir köpeğin havladığını veya bir eşeğin anırdığını duyan, lanetli Şeytandan Allah'a sığınsın. Onlar sizin göremediğinizi görürler.\" dediğini bildirmiştir."
+    },
+    {
+      "id": 3,
+      "narrator": "",
+      "text": "Jabir ibn 'Abdullah, Allah'ın elçisi, ona salat ve selam olsun, \"Gece köpek havlaması veya eşek anırması duyduğunuzda, Allah'a sığının. Onlar sizin göremediğinizi görürler. Kapıları kapatın ve onların üzerine Allah'ın adını anın. Allah'ın adı anılmış bir kapıyı Şeytan açamaz. Sonra kapları örtün, su tulumlarını bağlayın ve kapları kapatın.\" dediğini bildirmiştir."
+    },
+    {
+      "id": 4,
+      "narrator": "",
+      "text": "Jabir, Allah'ın elçisinin (ﷺ) \"Sakinlikten sonra dışarı çıkmayı sınırlayın, çünkü gerçekten Allah'ın dağıttığı yaratıklar vardır. Eğer köpeklerin havladığını veya eşeklerin anırdığını duyarsanız, o zaman Şeytandan Allah'a sığının.\" dediğini aktarmıştır."
+    },
+    {
+      "id": 5,
+      "narrator": "",
+      "text": "Ebu Hureyre, Allah'ın elçisi, ona salat ve selam olsun, \"Gece bir horozun ötüşünü duyduğunuzda, o bir meleği görmüştür. Onun bereketini Allah'tan isteyin. Eğer gece bir eşeğin anırdığını duyarsanız, o bir şeytan görmüştür, bu yüzden şeytandan Allah'a sığının.\" dediğini bildirmiştir."
+    },
+    {
+      "id": 6,
+      "narrator": "",
+      "text": "Anas ibn Malik, bir adamın Allah'ın elçisinin, ona salat ve selam olsun, huzurunda pirelere lanet ettiğini ve Allah'ın elçisinin, ona salat ve selam olsun, \"Onlara lanet etmeyin. Bir pire, peygamberlerden birini namaz için uyandırdı.\" dediğini aktarmıştır."
+    }
+  ]
+}

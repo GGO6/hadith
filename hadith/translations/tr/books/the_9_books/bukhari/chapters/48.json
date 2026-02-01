@@ -1,0 +1,56 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 8,
+    "arabic": {
+      "title": "صحيح البخاري",
+      "author": "الإمام محمد بن إسماعيل البخاري"
+    },
+    "english": {
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Muhammad ibn Ismail al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Narrated Anas:",
+      "text": "Anas'tan rivayet edilmiştir: Şüphesiz, Peygamber (ﷺ) zırhını arpa karşılığında ipotek etti. Bir gün, Peygamber (ﷺ)'e üzerine eritilmiş yağ konmuş arpa ekmeği getirdim ve onun şöyle dediğini duydum: \"Muhammed'in ailesinin, sabah ve akşam yemekleri için sadece bir Sa (yiyecek, arpa vb.) vardı, oysa dokuz evdiler.\""
+    },
+    {
+      "id": 2,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Peygamber (ﷺ) sınırlı bir süre için borç olarak bazı yiyecek maddeleri satın aldı ve bunun için zırhını ipotek etti."
+    },
+    {
+      "id": 3,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Cabir bin Abdullah'tan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Kim Ka'b bin Eşref'i öldürecek? O, Allah'a ve Elçisine zarar verdi.\" Muhammed bin Mesleme (ayağa kalktı ve) dedi ki: \"Ben onu öldüreceğim.\" Böylece, Muhammed bin Mesleme Ka'b'a gitti ve \"Bir veya iki Wasq yiyecek tahılına ihtiyacım var.\" dedi. Ka'b, \"Kadınlarınızı bana ipotek edin.\" dedi. Muhammed bin Mesleme, \"Kadınlarımızı nasıl ipotek edebiliriz, sen Arapların en yakışıklısısın?\" dedi. O da, \"O zaman oğullarınızı bana ipotek edin.\" dedi. Muhammed, \"Oğullarımızı nasıl ipotek edebiliriz, insanlar onları bir veya iki Wasq yiyecek tahılı için ipotek ettik diye kötüleyecekler? Bu bizim için utanç verici. Ama silahlarımızı sana ipotek edeceğiz.\" dedi. Böylece, Muhammed bin Mesleme ona bir sonraki sefer geleceğine dair söz verdi. Onlar (Muhammed bin Mesleme ve arkadaşları) söz verdikleri gibi ona geldiler ve onu öldürdüler. Sonra Peygamber (ﷺ)'e gidip durumu anlattılar."
+    },
+    {
+      "id": 4,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"İpotekli hayvana, üzerine harcadığı şeyler nedeniyle binebilir ve süt veren hayvanın sütünü, ipotekli olduğu sürece içebilir.\""
+    },
+    {
+      "id": 5,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"İpotekli hayvan, beslenildiği sürece biniş için kullanılabilir ve süt veren hayvanın sütü, üzerine harcanan miktara göre içilebilir. Hayvana binen veya sütünü içen, masrafları karşılamalıdır.\""
+    },
+    {
+      "id": 6,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) bir Yahudi'den bazı yiyecek maddeleri satın aldı ve ona zırhını ipotek etti."
+    },
+    {
+      "id": 7,
+      "narrator": "Narrated Ibn Abu Mulaika:",
+      "text": "İbn Ebu Mulaika'dan rivayet edilmiştir: İbn Abbas'a bir mektup yazdım ve o da bana, Peygamber (ﷺ)'in davalıdan yemin etmesini istemiş olduğunu yazdı."
+    },
+    {
+      "id": 8,
+      "narrator": "Narrated Abu Wail:",
+      "text": "Ebu Vail'den rivayet edilmiştir: Abdullah (bin Mes'ud) şöyle dedi: \"Birinin başkasının malını almak için yalan yere yemin etmesi durumunda, Allah'a kavuştuğunda Allah ona öfkeli olacaktır.\" Allah, bunu teyit eden şu ayeti indirdi: --\"Şüphesiz! Allah'ın ahdi ve yeminleri karşılığında küçük bir kazanç satın alanlar... acı bir azap vardır.\" (3.77) Al-Aş'ath bin Kays bize geldi ve \"Abdurrahman (yani İbn Mes'ud) size ne söylüyordu?\" diye sordu. Biz de ona hikayeyi anlattık. Bunun üzerine o, \"Gerçek söyledi. Bu ayet benimle ilgili olarak indirildi. Bir adamla bir kuyu hakkında bir anlaşmazlığım vardı ve meseleyi Allah'ın Elçisi (ﷺ)'ne götürdük. Allah'ın Elçisi (ﷺ) bana, 'İddianı desteklemek için iki şahit getir; aksi takdirde davalı yemin etme hakkına sahiptir.' dedi. Ben de, 'Davalı yalan yere yemin etmekten çekinmeyecek.' dedim. Allah'ın Elçisi (ﷺ) daha sonra, 'Birinin başkasının malını almak için yalan yere yemin etmesi durumunda, Allah'a kavuştuğunda Allah ona öfkeli olacaktır.' dedi. Allah, bunu teyit eden ayeti indirdi.\" Al-Aş'ath daha sonra şu ayeti okudu: --\"Şüphesiz! Allah'ın ahdi ve yeminleri karşılığında küçük bir kazanç satın alanlar... (onlar için) acı bir azap vardır!\" (3.77) (Bkz. Hadis No. 546)"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 1,
+    "arabic": {
+      "title": "مشكاة المصابيح",
+      "author": "الخطيب التبريزي"
+    },
+    "english": {
+      "title": "Mishkat al-Masabih",
+      "author": "Al-Khatib al-Tabrizi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "‘Umar b. al-Khattab, for whom God’s good pleasure is prayed, reported God’s Messenger, to whom may God’s blessings and safe-keeping be granted, as saying:",
+      "text": "'Umar b. al-Khattab, Allah'ın rızası için dua edilen, Allah'ın Elçisi'nden, Allah'ın ona salat ve selamı olsun, şöyle dediğini bildirmiştir: “Ameller niyetlere göre değerlendirilir. Her kişi, yalnızca niyet ettiği şeyi elde eder. Eğer bir kişinin hicreti Allah'a ve O'nun Elçisi'ne ise, hicreti Allah'a ve O'nun Elçisi'ne olur; fakat eğer hicreti, ulaşmayı hedeflediği bir dünya işine veya evlendiği bir kadına ise, hicreti, hicret ettiği şeyedir.”"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 10,
+    "arabic": {
+      "title": "الأدب المفرد",
+      "author": "الإمام البخاري"
+    },
+    "english": {
+      "title": "Al-Adab Al-Mufrad",
+      "author": "Imam al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "",
+      "text": "Abu Hurayra dedi ki, \"Allah'ın Resulü, Allah ona salat ve selam eylesin, yeni hurmalar getirildiğinde, 'Ya Allah! Şehrimizi ve mudd ve sa'ımızı bereketlendir, bereket üzerine bereket.' dedi. Sonra yanındaki çocukların en küçüğüne bir tane verirdi.\""
+    },
+    {
+      "id": 2,
+      "narrator": "",
+      "text": "'Amr ibn Shu'ayb, dedesinden rivayet etti ki, Allah'ın Resulü, Allah ona salat ve selam eylesin, \"Bizim çocuklarımıza merhamet etmeyen ve yaşlılarımıza haklarını tanımayan bizden değildir.\" dedi."
+    },
+    {
+      "id": 3,
+      "narrator": "",
+      "text": "Ya'la ibn Murra dedi ki, \"Peygamber ile birlikte çıktık, Allah ona salat ve selam eylesin, yemeğe davet edildik. Hüseyin yolda oynuyordu ve Peygamber, Allah ona salat ve selam eylesin, insanlarla yarıştı ve sonra kollarını açtı. Çocuk bu tarafa ve o tarafa koşmaya başladı ve Peygamber onu yakalayana kadar güldürdü. Bir elini çenesinin altına, diğerini başının üzerine koydu ve sonra onu kucakladı. Sonra Peygamber, Allah ona salat ve selam eylesin, 'Hüseyin benden ve ben Hüseyin'denim. Allah, Hasan ve Hüseyin'i seveni sever. Onlar benim seçkin soyumdandır.' dedi.\""
+    },
+    {
+      "id": 4,
+      "narrator": "",
+      "text": "Bukayr, 'Abdullah ibn Ja'far'ın Zeynep'e, 'Umar ibn Abi Salama'nın kızı, iki yaşında iken öptüğünü gördüğünü bildirdi."
+    },
+    {
+      "id": 5,
+      "narrator": "",
+      "text": "Al-Hasan dedi ki, \"Ailenden yalnızca eşin veya küçük bir kız dışında kimsenin saçına bakmaktan kaçınırsan, öyle yap.\""
+    },
+    {
+      "id": 6,
+      "narrator": "",
+      "text": "Yusuf ibn 'Abdullah ibn Sallam dedi ki, \"Allah'ın Resulü, Allah ona salat ve selam eylesin, bana Yusuf adını verdi ve beni odasında oturttu ve başımı okşadı.\""
+    },
+    {
+      "id": 7,
+      "narrator": "",
+      "text": "'A'isha dedi ki, \"Peygamberin, Allah ona salat ve selam eylesin, huzurunda bebeklerle oynardım ve arkadaşlarım da benimle oynardı. Allah'ın Resulü, Allah ona salat ve selam eylesin, içeri girdiğinde, onlar ondan saklanırdı ve o da onları benimle oynamaya çağırırdı, böylece onlar benimle oynardı.\""
+    },
+    {
+      "id": 8,
+      "narrator": "",
+      "text": "Abu'l-'Ajlan al-Muharibi dedi ki, \"İbn az-Zubayr ordusunda iken, bir kuzenim vefat etti ve bir devenin Allah yolunda kullanılmasını vasiyet etti. Oğluna, 'Deveyi bana ver, çünkü ben İbn az-Zubayr ordusundaydım.' dedim. O da, 'Hadi İbn 'Umar'a gidelim ve bu konuyu ona soralım.' dedi. İbn 'Umar'a gittik ve o dedi ki, 'Abu 'Abdu'r-Rahman, babam vefat etti ve bir devenin Allah yolunda kullanılmasını vasiyet etti. Bu benim kuzenim, İbn az-Zubayr ordusunda. Deveyi ona vermeli miyim?' İbn 'Umar cevap verdi, 'Oğlum, Allah yolunda her hayırlı iş vardır. Eğer baban devesini Allah yoluna adadıysa, putperestlere karşı sefer yapan Müslümanların olduğunu görüyorum, o halde deveyi onlara ver. Bu adam (Abu'l-'Ajlan) ve arkadaşları, insanları yönetme yetkisini kullanmak isteyen bir toplumun evlatlarıdır.'\""
+    },
+    {
+      "id": 9,
+      "narrator": "",
+      "text": "Jarir, Peygamberin, Allah ona salat ve selam eylesin, \"Allah Teala, diğer insanlara merhamet etmeyen kimseye merhamet etmeyecektir.\" dediğini bildirdi."
+    },
+    {
+      "id": 10,
+      "narrator": "",
+      "text": "'Umar'ın, \"Merhamet etmeyen kimseye merhamet edilmeyecektir. Affetmeyen kimse affedilmeyecektir. Bağışlamayan kimse bağışlanmayacak veya korunmayacaktır.\" dediği duyuldu."
+    }
+  ]
+}

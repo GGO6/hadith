@@ -1,0 +1,426 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 82,
+    "arabic": {
+      "title": "صحيح مسلم",
+      "author": "الإمام مسلم بن الحجاج"
+    },
+    "english": {
+      "title": "Sahih Muslim",
+      "author": "Imam Muslim ibn al-Hajjaj"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Ebu Hureyre, Allah'ın Elçisi (ﷺ) şöyle derken bildirmiştir: Kıyamet Günü, iri bir kişi getirilecektir ve Allah katında bir sivrisineğin ağırlığı kadar bile bir yük taşıyamayacaktır. \"Ve Kıyamet Günü için onlara bir denge kurmayacağız\" (18:105)."
+    },
+    {
+      "id": 2,
+      "narrator": "Abdullah b. Mas'ud reported that a Jewish scholar came to Allah's Apostle (may peace he upon him) and said:",
+      "text": "Abdullah b. Mes'ud, bir Yahudi âliminin Allah'ın Elçisi'ne (ona selam olsun) geldiğini ve şöyle dediğini bildirmiştir: Muhammed, ya da Ebu'l-Kasım, gerçekten Yüce ve Şanlı Allah, Kıyamet Günü gökleri bir parmak üzerinde, yeri bir parmak üzerinde, dağları ve ağaçları bir parmak üzerinde, okyanusu ve nemli toprağı bir parmak üzerinde tutacak ve aslında tüm yaratılışı bir parmak üzerinde tutacak ve sonra onları sarsarak: \"Ben sizin Rabbinizim, ben sizin Rabbinizim\" diyecek. Bunun üzerine Allah'ın Elçisi (ﷺ) gülümseyerek o âlimin söylediklerini tasdik etti. Sonra bu ayeti okudu: \"Onlar Allah'a, O'na layık olduğu şekilde saygı göstermezler; ve Kıyamet Günü tüm dünya O'nun elinde olacak ve gök sağ elinde dürülmüş olacaktır. O'na şan olsun! Ve O, onların ortak koştuklarından yücedir\" (Zümer:67)."
+    },
+    {
+      "id": 3,
+      "narrator": "This hadlth has been narrated on the authority of Mansur with the same chain of truemittm (and the words are):",
+      "text": "Bu hadis, Mansur'un rivayetiyle aynı isnatla aktarılmıştır (ve sözler şunlardır): Bir Yahudi âlimi Allah'ın Elçisi'ne (ﷺ) geldi. Hadisin geri kalanı aynıdır, ancak \"sonra onları sarsacak\" ifadesi geçmez. Ama şu ekleme vardır: \"Ben Allah'ın Elçisi'ni (ﷺ) o kadar gülümserken gördüm ki, ön dişleri görünüyordu ve o (Yahudi âlimini) tasdik ediyordu; sonra Allah'ın Elçisi (ﷺ) şu ayeti okudu: \"Onlar Allah'a, O'na layık olduğu şekilde saygı göstermezler\" (39:67)."
+    },
+    {
+      "id": 4,
+      "narrator": "Abdullah reported that a person from the People of the Book came to Allah's Apostle (may peace he upon him) and said:",
+      "text": "Abdullah, Kitap Ehli'nden bir kişinin Allah'ın Elçisi'ne (ona selam olsun) geldiğini ve şöyle dediğini bildirmiştir: Ebu'l-Kasım, gerçekten Allah gökleri bir parmak üzerinde, yerleri bir parmak üzerinde, ağaçları ve nemli toprağı bir parmak üzerinde tutar ve aslında tüm yaratılışı bir parmak üzerinde tutar ve sonra: \"Ben Kralım, ben Kralım\" der. O (rivayet eden) ayrıca şöyle dedi: Allah'ın Elçisi'ni (ﷺ) gülümserken gördüm, ön dişleri görünüyordu ve sonra şu ayeti okudu: \"Onlar Allah'ın kudretini gerçek ölçüsüyle ölçmezler\" (39:67)."
+    },
+    {
+      "id": 5,
+      "narrator": "",
+      "text": "Bu hadis, A'maş'ın rivayetiyle aynı isnatla aktarılmıştır, ancak kelimelerde hafif bir farklılık vardır."
+    },
+    {
+      "id": 6,
+      "narrator": "Abu Huraira reported Allah's Apostle (ﷺ) as saying:",
+      "text": "Ebu Hureyre, Allah'ın Elçisi'nin (ﷺ) şöyle dediğini bildirmiştir: Yüce ve Şanlı Allah, Kıyamet Günü yeri elinde tutacak ve göğü sağ elinde dürüp: \"Ben Rabbinim; dünyanın hükümdarları nerede?\" diyecek."
+    },
+    {
+      "id": 7,
+      "narrator": "Abdullah b. 'Umar reported Allah's Messenger (ﷺ) saying:",
+      "text": "Abdullah b. 'Umar, Allah'ın Elçisi'nin (ﷺ) şöyle dediğini bildirmiştir: Yüce ve Şanlı Allah, Kıyamet Günü gökleri katlayacak ve sonra onları sağ eline koyacak ve: \"Ben Rabbinim; nerede kibirli olanlar, nerede gururlananlar (bugün)?\" diyecek. Yeri de (sol eline koyarak) katlayacak ve: \"Ben Rabbinim; nerede kibirli olanlar, nerede gururlananlar (bugün)?\" diyecek."
+    },
+    {
+      "id": 8,
+      "narrator": "Abdullah b. Miqsam reported that he saw Abdullah b. Umar as he narrated Allah's Messenger (ﷺ) as saying:",
+      "text": "Abdullah b. Miqsam, Abdullah b. 'Umar'ı, Allah'ın Elçisi'nin (ﷺ) şöyle dediğini anlatırken gördüğünü bildirmiştir: Yüce ve Şanlı Allah, gökleri ve yeri elinde tutacak ve: \"Ben Allah'ım\" diyecek. Sonra parmaklarını sıkarak açacak ve: \"Ben sizin Rabbinizim\" diyecek. Orada bir şeyden dolayı minberin altından bir hareket gördüm. Ve (bu hareketi o kadar hissettim ki) kendime dedim: Allah'ın Elçisi (ﷺ) üzerinde olduğu için düşmemesi gerek."
+    },
+    {
+      "id": 9,
+      "narrator": "Abdullah b. Miqsam reported that 'Abdullah b. 'Umar reported:",
+      "text": "Abdullah b. Miqsam, Abdullah b. 'Umar'ın şöyle bildirdiğini aktarmıştır: Allah'ın Elçisi'ni (ﷺ) minberde gördüm ve Yüce ve Şanlı Allah'ın gökleri ve yeri elinde tutacağını söylüyordu. Hadisin geri kalanı aynıdır."
+    },
+    {
+      "id": 10,
+      "narrator": "Abu Huraira reported that Allah's Messenger (ﷺ) took hold of my hands and said:",
+      "text": "Ebu Hureyre, Allah'ın Elçisi'nin (ﷺ) ellerimi tutarak şöyle dediğini bildirmiştir: Yüce ve Şanlı Allah, toprağı Cumartesi günü yarattı, dağları Pazar günü yarattı, ağaçları Pazartesi günü yarattı, iş gerektiren şeyleri Salı günü yarattı, ışığı Çarşamba günü yarattı, hayvanları Perşembe günü yaydı ve Adem'i (ona selam olsun) Cuma günü 'Asr'dan sonra yarattı; Cuma'nın son saatinde, yani öğle ile akşam arasında. Bu hadis başka bir isnatla aktarılmıştır."
+    },
+    {
+      "id": 11,
+      "narrator": "Sahl b. Sa'd reported that Allah's Messenger (ﷺ) said:",
+      "text": "Sahl b. Sa'd, Allah'ın Elçisi'nin (ﷺ) şöyle dediğini bildirmiştir: İnsanlar, Kıyamet Günü beyaz bir düzlemde toplanacaklar; bu düzlem, beyaz ekmek gibi kırmızımsı bir tonda olacak ve kimse için herhangi bir işaret olmayacaktır."
+    },
+    {
+      "id": 12,
+      "narrator": "'A'isha reported:",
+      "text": "Aişe, Allah'ın Elçisi'ne (ﷺ) Yüce ve Şanlı Allah'ın sözleri hakkında sordum: \"O gün yer başka bir yerle değiştirilecektir ve gök başka bir gökle değiştirilecektir\" (İbrahim:48), (ve sordum:) (Allah'ın Elçisi), o gün insanlar nerede olacak? O dedi ki: \"Onlar Sirat'ta olacaklar.\""
+    },
+    {
+      "id": 13,
+      "narrator": "Abu al-Sa'id Khudri reported Allah's Messenger (ﷺ) as saying that the earth would turn to be one single bread on the Day of Resurrection and the Almighty would turn it in His hand as one of you turns a loaf while on a journey. It would be a feast arranged in the honour of the people of Paradise. He (the narrator) further narrated that a person from among the Jews came and he said:",
+      "text": "Ebu Sa'id el-Hudri, Allah'ın Elçisi'nin (ﷺ) Kıyamet Günü yerin tek bir ekmek haline geleceğini ve Yüce Allah'ın onu elinde, birinizin yolculukta bir ekmeği çevirir gibi çevireceğini söylediğini bildirmiştir. Bu, cennet ehli onuruna düzenlenmiş bir ziyafet olacaktır. O (rivayet eden) ayrıca, Yahudilerden birinin geldiğini ve şöyle dediğini aktarmıştır: Ebu'l-Kasım, merhamet eden Rabbiniz sizden razı olsun! Kıyamet Günü cennet ehli onuruna düzenlenen ziyafetten size haber verebilir miyim? O dedi: \"Yap, elbette.\" Dedi ki: \"Yer tek bir ekmek haline gelecektir.\" Sonra Allah'ın Elçisi (ﷺ) bize döndü ve gülerek molar dişleri görünür hale geldi. Sonra tekrar dedi: \"Ona ne ile tatlandıracaklarını haber verebilir miyim?\" Dedi: \"Yap, elbette.\" Dedi ki: \"Onların tatlandırması balık ve et olacaktır.\" Peygamberin (ﷺ) arkadaşları: \"Bu balam nedir?\" dediler. O dedi: \"Sığır ve balık, bunların aşırı karaciğerlerinden yetmiş bin kişi yiyebilecektir.\""
+    },
+    {
+      "id": 14,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Ebu Hureyre, Allah'ın Elçisi'nin (ﷺ) şöyle dediğini bildirmiştir: Eğer on Yahudi âlimi bana tabi olursa, yeryüzünde İslam'ı kabul etmeyen bir Yahudi kalmayacaktır."
+    },
+    {
+      "id": 15,
+      "narrator": "`Abdullah (b. Mas`ud) reported:",
+      "text": "Abdullah (b. Mes'ud) bildirdi: Allah'ın Elçisi (ﷺ) ile birlikte bir tarım arazisinde yürüyordum ve O (Peygamber) bir tahta desteğiyle yürüyor, bir grup Yahudi O'na rastladı. Bazıları diğerlerine: \"Ona Ruh hakkında sorun\" dediler. Onlar: \"Bu konuda neyi sorguluyorsunuz? O'na sorabileceğiniz bir şey olabilir ki, cevabını beğenmeyebilirsiniz\" dediler. Onlar: \"Sorun\" dediler. Böylece içlerinden biri O'na ruh hakkında sordu. Allah'ın Elçisi (ﷺ) sessiz kaldı ve cevap vermedi ve vahiy kendisine inmekte olduğunu anladım, bu yüzden yerimde durdum ve bu vahiy ona indi: \"Sana ruhu soruyorlar. De ki: Ruh, Rabbimin emriyle (oluşur); ve bilginizden yalnızca çok az bir şey verilmiştir\" (İsra:58)."
+    },
+    {
+      "id": 16,
+      "narrator": "Abdullah reported:",
+      "text": "Abdullah bildirdi: Ben, Allah'ın Elçisi (ﷺ) ile Medine'nin bir tarlasında yürüyordum. Hadisin geri kalanı aynıdır, ancak kelimelerde hafif bir farklılık vardır."
+    },
+    {
+      "id": 17,
+      "narrator": "",
+      "text": "Abdullah bildirdi ki, Allah'ın Elçisi (ﷺ) bahçedeki bir ağaca yaslanmıştı. Hadisin geri kalanı aynıdır, ancak kelimelerde hafif bir farklılık vardır."
+    },
+    {
+      "id": 18,
+      "narrator": "Khabbab reported that Al-`As b. Wa'il owed debt to me. I came to him in order to demand that. He said:",
+      "text": "Khabbab bildirdi ki, Al-`As b. Wa'il bana borçlu idi. Bunu talep etmek için yanına gittim. O dedi ki: \"Muhammed'i yalanlamadıkça sana asla geri ödemeyeceğim.\" Ben de dedim ki: \"Sen öldükten sonra dirilene kadar Muhammed'i asla yalanlamayacağım.\" O dedi ki: \"Öldükten sonra dirildiğimde, mülkümü ve çocuklarımı geri aldığımda borcunu ödeyeceğim.\" Vaki` dedi ki: \"Bu şekilde Al-A`mash rivayet etti ve bu vesileyle şu ayet indirildi: 'Görmedin mi, ayetlerimize inanmayan ve: 'Elbette bana mal ve çocuk verilecek' diyen kimseyi?' (xix, 77) 'O, yalnız olarak bize gelecektir.' (xix, 80) ayetlerine kadar.\""
+    },
+    {
+      "id": 19,
+      "narrator": "",
+      "text": "Bu hadis, Khabbab'dan başka bir isnat zinciriyle rivayet edilmiştir ve kelimeleri şöyledir: \"Ben, İslam'dan önce demirci olarak çalışıyordum. 'As b. Wa'il için bir iş yaptım ve ücretimi almak için yanına gittim.\""
+    },
+    {
+      "id": 20,
+      "narrator": "Anas b. Malik reported that Abu Jahl said:",
+      "text": "Anas b. Malik bildirdi ki, Ebu Cehil dedi ki: \"Ey Allah, eğer o doğruysa, o zaman gökten üzerimize taş yağdır ya da bize şiddetli bir azap ver!\" Ve bu vesileyle şu ayet indirildi: \"Allah, sen onların arasında bulunduğun sürece onlara azap etmeyecektir. Ve Allah, onlar bağışlanma diledikleri sürece onlara azap etmeyecektir. Ve neden Allah, onlara azap etmesin ki, onlar insanları kutsal mescide gelmekten alıkoyuyorlar...\" (viii. 34) ayetinin sonuna kadar."
+    },
+    {
+      "id": 21,
+      "narrator": "Abu Huraira reported that Abu Jahl asked (people) whether Muhammad placed his face (on the ground) in their presence. It was said to him:",
+      "text": "Ebu Hureyre bildirdi ki, Ebu Cehil (insanlara) Muhammed'in (ﷺ) onların huzurunda yüzünü yere koyup koymadığını sordu. Ona: \"Evet.\" denildi. O dedi ki: \"Lat ve Uzza'ya yemin ederim ki, eğer onu böyle yaparken görsem, boynunu ezerim ya da yüzünü toprakla sıvarım.\" O, Allah'ın Elçisi (ﷺ) namaz kılarken yanına geldi ve boynunu ezmeyi düşündü (ve insanlar der ki) ona yaklaştı ama geri döndü ve elleriyle bir şeyi itmeye çalıştı. Ona: \"Seninle ne oluyor?\" denildi. O dedi ki: \"Benimle onun arasında bir ateş ve korku ve kanatlar var.\" Bunun üzerine Allah'ın Elçisi (ona selam olsun) dedi ki: \"Eğer o bana yaklaşsaydı, melekler onu parçalara ayırırdı.\" Sonra Allah, Yüce ve Gloriyous, şu ayeti indirdi - (rivayetçi) dedi ki: \"Abu Hureyre tarafından rivayet edilen hadis mi yoksa başka bir kaynaktan kendisine ulaştırılan bir şey mi olduğunu bilmiyoruz: 'Hayır, insan gerçekten aşırı, çünkü kendisini yeterli görmektedir. Şüphesiz dönüş, senin Rabbindendir. Dua eden bir kulun namaz kıldığında onu engelleyen kimseyi gördün mü? Eğer o doğru yolda ise, ya da takvayı emrediyorsa onu gördün mü? Eğer o yalanlıyorsa ve yüz çeviriyorsa? Allah'ın gördüğünü bilmez mi? Hayır, eğer durmazsa, onu bir yalan ve günahkâr bir saç telinden yakalayacağız. O zaman kendi meclisini çağırsın. Biz de cehennemin bekçilerini çağıracağız. Hayır! Ona itaat etme.' (lcvi, 6-19). (Aksine, secde et.) Ubaidullah bu eklemeyi yaptı: \"Bu olaydan sonra (secde) emredildi ve İbn Abd al-Ala bu eklemeyi yaptı ki, 'Nadiyah' ile kendi halkını kastetti.\""
+    },
+    {
+      "id": 22,
+      "narrator": "Masruq reported:",
+      "text": "Masruq bildirdi: Abdullah'ın yanında oturuyorduk ve o yataktaydı ki bir kişi geldi ve dedi ki: \"Kinda kapılarında bir hikaye anlatıcısı olan Abd Abd al-Rabmin, 'duman' ile ilgili ayetin, gelecek olanı ifade ettiğini ve bu dumanın kafirlerin nefesini keseceğini ve müminlere soğuk vereceğini söylüyor.\" Bunun üzerine Abdullah kalktı ve öfkeyle dedi: \"Ey insanlar, Allah'tan korkun ve aranızda yalnızca bildiğinizi söyleyin ve bilmediğiniz şeyleri söylemeyin ve sadece şöyle desin: 'Allah en iyi bilgiyi bilir, çünkü aranızda en iyi bilgiyi O bilir.' Bilmediği şeyi söylemesi ona yakışmaz. Allah bunun en iyi bilgisidir. Gerçekten Yüce ve Gloriyous Allah, Peygamberine (ﷺ) şöyle demesini emretti: 'Sizden hiçbir karşılık istemiyorum ve sizi sıkıntıya sokan ben değilim.' Ve Allah'ın Elçisi (ﷺ) insanların dinden döndüğünü görünce dedi ki: 'Ey Allah, onlara Yusuf'un başına gelen yedi kıtlık gibi yedi kıtlık gönder.' Böylece onlara öyle bir kıtlık geldi ki, her şeylerini yemek zorunda kaldılar, açlıktan derileri ve ölü bedenleri yemek zorunda kaldılar ve her biri gökyüzüne baktı ve bir duman gördü. Ve Ebu Süfyan geldi ve dedi: 'Muhammed, sen bize Allah'a itaat etmeyi ve akrabalık bağlarını güçlendirmeyi emretmeye geldin, oysa senin halkın mahvoldu; onlar için Allah'a dua et.' Bunun üzerine Yüce ve Gloriyous Allah, 'Gözle görülen bir dumanın geleceği günü bekle ki, bu insanlar için ağır bir azap olacaktır' ayetini indirdi ve 'kötülüğe döneceksiniz' sözlerine kadar. (Eğer bu ayet ahiret azabını ifade ediyorsa) ahiret azabının önlenip önlenemeyeceği (Kur'an'ın belirttiği gibi): 'O gün onları en şiddetli bir şekilde yakalayacağız; şüphesiz intikam alacağız.' (xliv. 16)? Hadisteki yakalama, Badr Günü'nü ifade eder. Ve duman, yakalama, kaçınılmazlık ve Roma'nın işaretleri açısından, artık geçmişte kalmış şeylerdir.\""
+    },
+    {
+      "id": 23,
+      "narrator": "Masruq reported that there came to Abdullah a person and said:",
+      "text": "Masruq bildirdi ki, Abdullah'a bir kişi geldi ve dedi ki: \"Camiye bıraktım bir adam var ki, Kur'an'ı kendi görüşüne göre açıklıyor ve bu ayeti açıkladı: 'O yüzden gökyüzü açık bir duman getirdiği günü bekleyin.' Diyor ki, Kıyamet Günü insanlara bir duman gelecek ve nefeslerini kesecek ve onlara soğuk verecek.\" Abdullah dedi ki: \"Kim bilgi sahibiyse bir şey söylesin ve kim bilgi sahibi değilse sadece 'Allah en iyi bilendir' desin. Bu, bir kişinin bilmediği şey hakkında 'en iyi bilen Allah'tır' demesi gerektiğini yansıtır. Gerçek şu ki, Kureyş Allah'ın Elçisine (ﷺ) isyan ettiğinde, Allah'a dua etti ki, onlara Yusuf'un başına gelen kıtlık ve açlık gibi bir kıtlık gönderilsin. Ve o kadar zor durumda kaldılar ki, bir kişi gökyüzüne baksa, gökyüzü ile arasında bir duman gibi bir şey görüyordu ve o kadar zor durumda kaldılar ki, kemikleri yemeye başladılar ve bir kişi Allah'ın Elçisine (ﷺ) geldi ve dedi: 'Allah'ın Elçisi, Mudar kabilesi için bağışla, çünkü halkı mahvoldu.' Elçi (ﷺ) dedi: 'Mudar için mi? Sen çok cesursun, ama onlar için Allah'a dua etti.' Bunun üzerine şu ayet indirildi: 'Azabı biraz kaldıracağız, ama kesinlikle kötülüğe dönecekler.' (xliv. 15). (Rivayetçi) dedi ki: Onlara bir yağmur yağdı. Onlara biraz rahatlık geldiğinde, daha önceki durumlarına geri döndüler ve Yüce ve Gloriyous Allah şu ayeti indirdi: 'O yüzden gökyüzü açık bir duman getirdiği günü bekleyin. Bu, en şiddetli bir şekilde yakaladığımız gün ağır bir azaptır; şüphesiz, intikam alacağız.' Ve bu (yakalama) Badr Savaşı'nı ifade ediyordu.\""
+    },
+    {
+      "id": 24,
+      "narrator": "Abdullah said that five signs have (become things) of the past (and have proved the truth of the Holy Prophet):",
+      "text": "Abdullah dedi ki: \"Beş işaret (geçmişte kalmış) ve Peygamberin (s.a.v) doğruluğunu kanıtlamıştır: (Dumanla) kuşanma, (Mekkelilere yönelik) kaçınılmaz (ceza) Badr'da, (Roma'nın) zaferi, (Mekkelilerin) (şiddetli) yakalanması ve (Ay'ın) yarılması.\""
+    },
+    {
+      "id": 25,
+      "narrator": "",
+      "text": "Bu hadis, aynı isnat zinciriyle A'mash'tan rivayet edilmiştir."
+    },
+    {
+      "id": 26,
+      "narrator": "Ubayy b. Ka'b reported that the words of Allah, the Exalted and Glorious:",
+      "text": "Ubayy b. Ka'b bildirdi ki, Yüce ve Gloriyous Allah'ın sözleri: \"Onlara elbette daha şiddetli azaptan önce daha hafif azabı tattıracağız ki, belki dönerler.\" (xxxii. 21) bu dünyanın azaplarını ifade etmektedir. (Roma'nın) zaferi, (Mekkelilerin) yakalanması veya duman. Ve Şalba, yakalama veya duman konusunda şüphe içindeydi."
+    },
+    {
+      "id": 27,
+      "narrator": "Abu Ma'mar reported on the authority of Abdullah that the moon was split up during lifetime by Allah's Messenger (ﷺ) in two parts and Allah's Messenger (ﷺ) said:",
+      "text": "Ebu Ma'mar, Abdullah'dan rivayet etti ki, Ay, Allah'ın Elçisi (ﷺ) tarafından hayatta iken iki parçaya yarıldı ve Allah'ın Elçisi (ﷺ) dedi ki: \"Buna şahitlik edin.\""
+    },
+    {
+      "id": 28,
+      "narrator": "This hadith has been transmitted on the authority of Abdullah b. Mas'ud (who said):",
+      "text": "Bu hadis, Abdullah b. Mas'ud'un (şöyle dediği) rivayetiyle aktarılmıştır: Biz, Allah'ın Elçisi (ﷺ) ile Mina'daydık, o Ay ikiye yarıldı. Parçalardan biri dağın arkasındaydı ve diğeri dağın bu tarafındaydı. Allah'ın Elçisi (ona selam olsun) bize dedi ki: \"Buna şahitlik edin.\""
+    },
+    {
+      "id": 29,
+      "narrator": "'Abdullah b. Mas'ud reported that the moon was split up in two parts during the lifetime of Allah's Messenger (ﷺ). The mountain covered one of its parts and one part of it was above the mountain and Allah's Messenger (ﷺ) said:",
+      "text": "'Abdullah b. Mas'ud bildirdi ki, Ay, Allah'ın Elçisi (ﷺ) döneminde iki parçaya yarıldı. Dağ, onun bir parçasını kapladı ve bir parçası dağın üstündeydi ve Allah'ın Elçisi (ﷺ) dedi ki: \"Buna şahitlik edin.\""
+    },
+    {
+      "id": 30,
+      "narrator": "",
+      "text": "Başka bir isnat zinciri bu hadisin benzerini bildirmiştir."
+    },
+    {
+      "id": 31,
+      "narrator": "",
+      "text": "Bu hadis, Şu'ba'nın rivayetiyle, kelime açısından hafif bir farklılıkla aktarılmıştır."
+    },
+    {
+      "id": 32,
+      "narrator": "",
+      "text": "Anas, Mekke halkının Allah'ın Messenger'ından (ﷺ) kendilerine (bazı) ayetler (mucizeler) göstermesini talep ettiğini ve O'nun ayı ikiye yararak bunu iki kez gösterdiğini bildirmiştir. Bu hadis, Anas'ın başka bir rivayet zinciriyle aktarılmıştır."
+    },
+    {
+      "id": 33,
+      "narrator": "Anas reported that the moon was split up in two parts and in the hadith recorded in Abu Dawud, the words are:",
+      "text": "Anas, ayın iki parçaya ayrıldığını bildirmiştir ve Ebu Davud'da kaydedilen hadisteki ifadeler şunlardır: \"Ay, Allah'ın Messenger'ının (ﷺ) hayatında iki parçaya ayrıldı.\""
+    },
+    {
+      "id": 34,
+      "narrator": "",
+      "text": "İbn Abbas, ayın Allah'ın Messenger'ının (ona selam olsun) hayatında yarıldığını bildirmiştir."
+    },
+    {
+      "id": 35,
+      "narrator": "Abu Musa reported that Allah's Messenger (ﷺ) said:",
+      "text": "Ebu Musa, Allah'ın Messenger'ının (ﷺ) şöyle söylediğini aktardı: \"En rahatsız edici şeyleri dinlemekte Allah, Yüce ve Şanlı olan'dan daha sabırlı olan yoktur. O'na ortak koşulmakta ve (baba)lık atfedilmektedir, ama buna rağmen O, onları (insanları) korur ve rızıklarını sağlar.\" Bu hadis, Ebu Musa'nın rivayetiyle, kelime açısından hafif bir farklılıkla aktarılmıştır."
+    },
+    {
+      "id": 36,
+      "narrator": "",
+      "text": "Abdullah b. Kays, Allah'ın Messenger'ından (ﷺ) en rahatsız edici şeyleri dinlemekte Allah, Yüce olan'dan daha sabırlı olan yoktur, diye bildirmiştir. O'na rakipler ortak koşarlar, O'na oğulluk atfederler, ama buna rağmen O, onlara rızık sağlar, güven verir ve onlara birçok şey ihsan eder."
+    },
+    {
+      "id": 37,
+      "narrator": "Anas b. Malik reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Anas b. Malik, Allah'ın Messenger'ının (ﷺ) şöyle söylediğini bildirmiştir: \"Yüce ve Yüksek olan Allah, Kıyamet Günü en az işkenceye maruz kalacak olan kişiye şöyle diyecek: Eğer tüm dünya zenginliklerine sahip olsaydın, fidye olarak gitmeyi ister miydin? O da: Evet, diyecek. Allah ona: Sen Adem'in lohusunda iken, benden hiçbir şeyi ortak koşmamanı istemiştim, daha kolay bir şey istemiştim.\" (Rivayetçi der ki): \"Sanırım O da şöyle dedi: Seni cehenneme sokmayacağım ama sen isyan ettin ve beni başkalarına ilah olarak atfettin.\""
+    },
+    {
+      "id": 38,
+      "narrator": "This hadith has been narrated on the authority of Anas b. Malik through another chain of transmitters, but with a slight variation of wording (and the words are):",
+      "text": "Bu hadis, Anas b. Malik'in başka bir rivayet zinciriyle aktarılmıştır, ancak kelime açısından hafif bir farklılıkla (ve ifadeler şunlardır): \"Onu cehenneme sokacağım.\" (Bundan sonraki ifadeler) belirtilmemiştir."
+    },
+    {
+      "id": 39,
+      "narrator": "Anas b. Malik reported that Allah's Messenger (may peace be u n him) said:",
+      "text": "Anas b. Malik, Allah'ın Messenger'ının (ona selam olsun) şöyle dediğini bildirmiştir: \"Kıyamet Günü, inkârcılara şöyle denilecek: Eğer tüm yeryüzünü dolduracak kadar altına sahip olsaydınız, onu ödeyerek özgürlüğünüzü sağlamak ister miydiniz? O da: Evet, diyecek. Bunun üzerine ona şöyle denilecek: Sizden daha kolay bir şey istendi (ama buna dikkat etmediniz).\""
+    },
+    {
+      "id": 40,
+      "narrator": "Anas reported this hadlth through another chain of transmitters and the words are:",
+      "text": "Anas, bu hadisi başka bir rivayet zinciriyle aktarmış ve ifadeler şunlardır: \"Ona şöyle denilecek: Yalan söyledin; senden istenen, bundan çok daha kolaydı (Allah'ın birliğine inanmak).\""
+    },
+    {
+      "id": 41,
+      "narrator": "Anas b. Malik reported that a person said:",
+      "text": "Anas b. Malik, bir kişinin şöyle dediğini bildirmiştir: \"Allah'ın Messenger'ı, inkârcılar Kıyamet Günü (yüzleriyle) sürünerek nasıl toplanacak?\" Bunun üzerine O şöyle dedi: \"Onları ayakları üzerinde yürütmeye kudreti yeten, Kıyamet Günü onları (yüzleriyle) süründürmeye kudreti yetmez mi?\" Katâde dedi ki: \"Elbette, öyledir.\" (O, yemin etti): \"Rabbimizin kudretiyle.\""
+    },
+    {
+      "id": 42,
+      "narrator": "Anas b. Malik reported that Allah's Messenger (ﷺ) said that one amongst the denizens of Hell who had led a life of ease and plenty amongst the people of the world would be made to dip in Fire only once on the Day of Resurrection and then it would be said to him:",
+      "text": "Anas b. Malik, Allah'ın Messenger'ının (ﷺ) şöyle dediğini bildirmiştir: \"Cehennem halkından, dünyada rahat ve bolluk içinde yaşamış bir kişi, Kıyamet Günü sadece bir kez ateşe daldırılacak ve sonra ona şöyle denilecek: Ey Adem oğlu, bir rahatlık buldun mu, herhangi bir maddi nimet elde ettin mi? O da: Vallahi, hayır, Rabbim. Sonra dünyada en sefil hayatı yaşamış olan cennet halkından bir kişi getirilecek ve o cennette bir kez daldırılacak ve ona şöyle denilecek: Ey Adem oğlu, herhangi bir zorlukla karşılaştın mı? Yoksa sana herhangi bir sıkıntı düştü mü? O da: Vallahi, hayır, Rabbim, ben hiçbir zorlukla karşılaşmadım ve hiçbir sıkıntı yaşamadım.\""
+    },
+    {
+      "id": 43,
+      "narrator": "Anas b. Malik reported that Allah's Messenger (ﷺ) said:",
+      "text": "Anas b. Malik, Allah'ın Messenger'ının (ﷺ) şöyle söylediğini bildirmiştir: \"Şüphesiz ki Allah, bir müminin erdemleri konusunda ona zulmetmez. O, bu dünyada ona (nimetini) ihsan eder ve ahirette ona mükafat verir. İnkârcı hakkında ise, o, kendi için yaptığı erdemlerin karşılığını bu dünyada tatacaktır, öyle ki ahiret geldiğinde, kendisine mükafat verilecek bir erdem bulamayacaktır.\""
+    },
+    {
+      "id": 44,
+      "narrator": "Anas b. Malik reported that Allah's Messenger (ﷺ) thus told him:",
+      "text": "Anas b. Malik, Allah'ın Messenger'ının (ﷺ) ona şöyle dediğini bildirmiştir: \"Bir inkârcı iyi bir iş yaptığında, bu dünyada onun karşılığını tatmaktadır. Mümin hakkında ise, Allah, onun erdemlerinin mükafatını ahiret için saklar ve ona O'na itaatine göre rızık verir.\""
+    },
+    {
+      "id": 45,
+      "narrator": "",
+      "text": "Bu hadis, Anas b. Malik'in başka bir rivayet zinciriyle aktarılmıştır."
+    },
+    {
+      "id": 46,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Ebu Hureyre, Allah'ın Elçisi (ﷺ) şöyle buyurduğunu nakletti: Müminin benzeri, rüzgarın bir yanından diğerine savurduğu (duran) bir ekin gibidir; aynı şekilde mümin her zaman (musibetlerin darbelerini) alır. Münafığın benzeri ise, kökünden sökülmeden hareket etmeyen bir servidir."
+    },
+    {
+      "id": 47,
+      "narrator": "",
+      "text": "Bu hadis, Zuhri'nin rivayetiyle aynı isnat zinciri üzerinden, ancak kelime farklılığı ile nakledilmiştir."
+    },
+    {
+      "id": 48,
+      "narrator": "",
+      "text": "Ka'b, Allah'ın Elçisi (ﷺ) şöyle buyurduğunu aktardı: Müminin benzeri, rüzgar tarafından sarsılan ve sonra eski yerine dönen ama köklerinde duran bir ekin gibidir. Kafir ise, köklerinde duran ve hiçbir şeyin sarsamadığı ama bir (şiddetli darbe ile) kökünden sökülen bir servidir."
+    },
+    {
+      "id": 49,
+      "narrator": "",
+      "text": "Ka'b b. Malik, babasından naklen, müminin benzerinin duran bir ekin olduğunu bildirdi. Rüzgar bazen onu sallar, bazen kaldırır ve sonra o, belirlenen sonuna ulaşır. Münafığın benzeri ise, hiçbir şeyden etkilenmeyen ama bir defada kökünden sökülen bir servidir."
+    },
+    {
+      "id": 50,
+      "narrator": "",
+      "text": "Bu hadis, birkaç başka isnat zinciri ile nakledilmiştir; biri \"kafir benzeri\" derken, diğeri önceki hadisin kelimeleri ile uyumludur."
+    },
+    {
+      "id": 51,
+      "narrator": "",
+      "text": "Bu hadis, İbn Ka'b'ın başka bir isnat zinciri ile nakledilmiştir ama \"kafir benzeri, bir servidir\" şeklindedir."
+    },
+    {
+      "id": 52,
+      "narrator": "'Abdullah b. Umar reported that Allah's Messenger (ﷺ) said:",
+      "text": "Abdullah b. Ömer, Allah'ın Elçisi (ﷺ) bir gün, \"Bana yaprakları solmayan bir ağaç söyleyin, bu bir Müslüman gibidir; o ağaç nedir?\" dedi. İnsanlar ormanın ağaçlarını düşünmeye başladılar. Abdullah, bunun hurma ağacı olabileceğini düşündü ama bunu söylemekte tereddüt etti. (Sahabeler) sonra dediler ki: \"Allah'ın Elçisi, bize o ağaç nedir, lütfen söyle.\" Bunun üzerine o, \"O, hurma ağacıdır.\" dedi. Ben bunu Ömer'e söyledim, o da \"Eğer bunun hurma ağacı olduğunu söyleseydin, bu sözün benim için şu ve bu şeylerden daha değerli olurdu.\" dedi."
+    },
+    {
+      "id": 53,
+      "narrator": "Ibn Umar reported that Allah's Messenger (ﷺ) one day said to his Companions:",
+      "text": "İbn Ömer, Allah'ın Elçisi (ﷺ) bir gün, \"Bana bir müminle benzerlik gösteren bir ağaç söyleyin.\" dedi. İnsanlar ormanın (farklı) ağaçlarını anmaya başladılar. İbn Ömer, aklıma ya da kalbime yerleşti ki bu, hurma ağacını işaret ediyordu. Bunu söylemeye karar verdim ama orada yaşlıların bulunmasından dolayı bunu yapamadım. Onlar (görüşlerini ifade ettikten sonra) sessizliğe büründüklerinde, Allah'ın Elçisi (ﷺ) \"O, hurma ağacıdır.\" dedi."
+    },
+    {
+      "id": 54,
+      "narrator": "Mujahid said:",
+      "text": "Mücahid dedi ki: \"İbn Ömer ile Medine'ye kadar birlikte bulundum ama ondan Allah'ın Elçisi (ﷺ) hakkında sadece bir hadis duydum.\" Ve şöyle dedi: \"Allah'ın Elçisi (ﷺ) huzurundaydık ki ona bir hurma çekirdeği getirildi. Hadisin geri kalanı aynıdır.\""
+    },
+    {
+      "id": 55,
+      "narrator": "Mujahid reported:",
+      "text": "Mücahid bildirdi: \"İbn Ömer'in, Allah'ın Elçisi (ﷺ) için hurma çekirdeği getirildiğini duyduğunu işittim. Hadisin geri kalanı aynıdır.\""
+    },
+    {
+      "id": 56,
+      "narrator": "Ibn Umar reported:",
+      "text": "İbn Ömer, Allah'ın Elçisi (ﷺ) ile birlikte olduğumuzda, \"Bana bir Müslümanla benzerlik gösteren ve yaprakları solmayan bir ağaç söyleyin.\" dedi. İbrahim, belki İmam Müslim'in böyle söylediğini belirtti: \"O sürekli meyve verir.\" Ama ben, İbn Ömer'in, \"Hurma ağacı olabileceğini düşündüm, ama Ebu Bekir ve Ömer'in sessiz kaldığını görünce, bir şey söylemenin uygun olmadığını düşündüm.\" dedi. Ömer, \"Eğer bunu söyleseydin, bu benim için şu ve bu şeylerden daha değerli olurdu.\" dedi."
+    },
+    {
+      "id": 57,
+      "narrator": "Jabir reported:",
+      "text": "Cabir, Allah'ın Elçisi (ﷺ) şöyle buyurduğunu işitti: \"Şüphesiz, şeytan, Arabistan yarımadasında ibadet edenlerin kendisine ibadet edeceği umudunu tamamen kaybetmiştir, ama onların arasında fitne tohumları ekme umudunu taşımaktadır.\""
+    },
+    {
+      "id": 58,
+      "narrator": "",
+      "text": "Bu hadis, A'maş'ın rivayetiyle aynı isnat zinciri üzerinden nakledilmiştir."
+    },
+    {
+      "id": 59,
+      "narrator": "Jabir reported:",
+      "text": "Cabir, Allah'ın Elçisi (ﷺ) şöyle buyurduğunu işitti: \"İblis'in tahtı okyanusun üzerindedir ve insanları denemek için (farklı bölgelere) birlikler gönderir ve onun gözünde en önemli figür, fitne tohumlarını ekmede en kötü olanıdır.\""
+    },
+    {
+      "id": 60,
+      "narrator": "Jabir reported that Allah's Messenger (ﷺ) said:",
+      "text": "Cabir, Allah'ın Elçisi (ﷺ) şöyle buyurduğunu bildirdi: \"İblis, tahtını suyun üzerine koyar; sonra fitne yaratmak için birlikler gönderir; ona en yakın olanlar, fitne çıkarmada en kötü olanlardır. Onlardan biri gelir ve der ki: 'Ben şunu ve bunu yaptım.' O da der ki: 'Sen hiçbir şey yapmadın.' Sonra onlardan biri gelir ve der ki: 'Ben şunu ve bunu yapmadım ki bir koca ile bir karı arasında fitne tohumlarını ektim.' Şeytan ona yaklaşır ve der ki: 'Sen iyi yaptın.' A'maş dedi ki: Sonra onu kucaklar.\""
+    },
+    {
+      "id": 61,
+      "narrator": "Jabir reported that Allah's Apostle (may peace be upqn him) said:",
+      "text": "Cabir, Allah'ın Elçisi'nin (ona selam olsun) şöyle söylediğini bildirdi: Şeytan, insanları denemek için kendi ordularını gönderir ve onun gözünde en yüksek rütbeye sahip olan, fitne tohumlarını en çok eken kişidir."
+    },
+    {
+      "id": 62,
+      "narrator": "Abdullah b. Mas'ud reported that Allah's Messenger (ﷺ) said:",
+      "text": "Abdullah b. Mes'ud, Allah'ın Elçisi'nin (ﷺ) şöyle söylediğini bildirdi: İçinizde cinlerden (şeytan) bir yardımcı olmayan kimse yoktur. Onlar (Sahabe) dediler ki: Allah'ın Elçisi, seninle de mi? Bunun üzerine o şöyle dedi: Evet, ama Allah bana ona karşı yardım ediyor ve bu yüzden onun elinden güvendeim ve o bana sadece iyilik için emretmektedir."
+    },
+    {
+      "id": 63,
+      "narrator": "",
+      "text": "Bu hadis, Mansiir'in aynı nakil zinciri ile ancak kelime değişikliği ile rivayet edilmiştir."
+    },
+    {
+      "id": 64,
+      "narrator": "A'isha the wife of Allah's Apostle (ﷺ), reported that one day Allah's Messenger (ﷺ) came out of her (apartment) during the night and she felt jealous. Then he came and he saw me (in what agitated state of mind) I was. He said:",
+      "text": "Allah'ın Elçisi'nin (ﷺ) eşi A'işe, bir gün Allah'ın Elçisi'nin (ﷺ) gece onun (daireden) çıktığını ve kıskandığını bildirdi. Sonra o geldi ve benim (ne kadar huzursuz bir durumda) olduğumu gördü. O şöyle dedi: A'işe, sana ne oldu? Kıskanıyor musun? Bunun üzerine o şöyle dedi: Benim gibi bir kadının, senin gibi bir kocaya karşı kıskanmaması nasıl mümkün olabilir? Bunun üzerine Allah'ın Elçisi (ﷺ) şöyle dedi: Senin şeytanın sana gelmiş. O da dedi ki: Allah'ın Elçisi, benimle birlikte bir şeytan mı var? O şöyle dedi: Evet. Ben (A'işe) tekrar dedim: Herkesin yanında bir şeytan mı var? O şöyle dedi: Evet. Ben (A'işe) tekrar dedim: Allah'ın Elçisi, seninle de mi? O şöyle dedi: Evet, ama Rabbim bana ona karşı yardım etti ve bu yüzden onun şerrinden tamamen güvendeyim."
+    },
+    {
+      "id": 65,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Ebu Hureyre, Allah'ın Elçisi'nin (ﷺ) şöyle söylediğini bildirdi: İçinizden hiç kimse, sadece amelleri nedeniyle kurtuluşa ulaşamaz. Bir kişi dedi ki: Allah'ın Elçisi, sen de mi? Bunun üzerine o şöyle dedi: Evet, ben de değilim, ancak Allah beni merhametiyle kuşatır, ama siz ölçülü davranmalısınız. Bu hadis, Bukair b. el-Aşajj aracılığıyla kelime değişikliği ile rivayet edilmiştir."
+    },
+    {
+      "id": 66,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Ebu Hureyre, Allah'ın Elçisi'nin (ﷺ) şöyle söylediğini bildirdi: Sadece amelleriyle cennete girebilecek kimse yoktur. Ona denildi ki: Ve, Allah'ın Elçisi, sen de mi? Bunun üzerine o şöyle dedi: Ben de değilim, ancak Rabbim beni merhametiyle kuşatır."
+    },
+    {
+      "id": 67,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Ebu Hureyre, Allah'ın Elçisi'nin (ﷺ) şöyle söylediğini bildirdi: İçinizde hiç kimse, sadece amelleriyle kurtuluşa ulaşamaz. Onlar (Sahabe) dediler: Allah'ın Elçisi, sen de mi? O (Peygamber) şöyle dedi: Ben de değilim, ancak Allah beni merhametiyle kuşatır ve bana af verir. İbn 'Aun, elini başına işaret ederek şöyle dedi: Ben de değilim, ancak Allah beni bağışlaması ve merhametiyle kuşatır."
+    },
+    {
+      "id": 68,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Ebu Hureyre, Allah'ın Elçisi'nin (ﷺ) şöyle söylediğini bildirdi: İçinizde hiç kimse, sadece amelleriyle kurtuluşa ulaşamaz. Onlar dediler: Allah'ın Elçisi, sen de mi? Bunun üzerine o şöyle dedi: Ben de değilim, ancak Allah'ın merhameti benim üzerime gelmelidir."
+    },
+    {
+      "id": 69,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Ebu Hureyre, Allah'ın Elçisi'nin (ﷺ) şöyle söylediğini bildirdi: İçinizden hiç kimse, sadece amelleriyle cennete giremez. Onlar dediler: Allah'ın Elçisi, sen de mi? Bunun üzerine o şöyle dedi: Ben de değilim, ancak Allah beni lütfu ve merhametiyle kuşatmalıdır."
+    },
+    {
+      "id": 70,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Ebu Hureyre, Allah'ın Elçisi'nin (ﷺ) şöyle söylediğini bildirdi: Amellerde ölçülü olun (ve eğer mümkün değilse, ölçüye yakın olmaya çalışın) ve anlayın ki, içinizden hiç kimse, sadece amelleriyle kurtuluşa ulaşamaz. Onlar dediler: Allah'ın Elçisi, sen de mi? Bunun üzerine o şöyle dedi: Ben de değilim, ancak Allah beni merhameti ve lütfu ile kuşatmalıdır."
+    },
+    {
+      "id": 71,
+      "narrator": "",
+      "text": "Bu hadis, Cabir aracılığıyla başka bir nakil zinciri ile rivayet edilmiştir."
+    },
+    {
+      "id": 72,
+      "narrator": "",
+      "text": "Bu hadis, A'mash aracılığıyla iki başka nakil zinciri ile benzer şekilde rivayet edilmiştir. Ancak kelimeler aynıdır."
+    },
+    {
+      "id": 73,
+      "narrator": "This hadith has been narrated on the authority of Abu Huraira through another chain of transmitters with this addition:",
+      "text": "Bu hadis, Ebu Hureyre aracılığıyla başka bir nakil zinciri ile \"Onlara müjde verin\" ilavesiyle rivayet edilmiştir."
+    },
+    {
+      "id": 74,
+      "narrator": "Jabir reported:",
+      "text": "Cabir, Allah'ın Elçisi'nin (ﷺ) şöyle söylediğini duyduğunu bildirdi: İçinizden hiç kimse, sadece iyi amelleri nedeniyle cennete giremez ve ateşten kurtulamaz, ben de değilim, ancak Allah'ın merhameti nedeniyle."
+    },
+    {
+      "id": 75,
+      "narrator": "A'isha, the wife of Allah's Apostle (ﷺ), reported that Allah's Messenger (ﷺ) used to say:",
+      "text": "A'işe, Allah'ın Elçisi'nin (ﷺ) şöyle söylediğini bildirdi: Amellerde ölçülü olun ve eğer bunu mükemmel bir şekilde başaramazsanız, elinizden geleni yapmaya çalışın (bu ölçü idealine ulaşmak için) ve bilin ki, hiç kimse sadece amelleriyle cennete giremeyecek. Onlar (Peygamber'in Sahabeleri) dediler: Allah'ın Elçisi, sen de mi? Bunun üzerine o şöyle dedi: Ben de değilim, ancak Allah beni merhametiyle kuşatır ve bilin ki, Allah'ın en çok sevdiği amel, sürekli yapılan küçük ameldir."
+    },
+    {
+      "id": 76,
+      "narrator": "This hadith has been narrated on the authority of Musa b. `Uqba with the same chain of transmitters and he did not make a mention of:",
+      "text": "Bu hadis, Musa b. `Uqba'nın rivayetiyle aynı isnadla nakledilmiştir ve \"Mutlu ol\" ifadesini zikretmemiştir."
+    },
+    {
+      "id": 77,
+      "narrator": "Mughira b. Shu'ba reported that Allah's Apostle (ﷺ) worshipped so much that his feet were swollen. It was said to him:",
+      "text": "Mugīra b. Şu'be, Allah'ın Elçisi (ﷺ) o kadar çok ibadet etti ki, ayakları şişti. Kendisine: (Neden bu kadar zorluk çekiyorsun, oysa ki) Allah senin geçmiş ve gelecekteki günahlarını affetti? denildi. Bunun üzerine o: \"Ben de bir şükredici kul (Allah'a) olmamalı mıyım?\" dedi."
+    },
+    {
+      "id": 78,
+      "narrator": "This hadith has been transmitted on the authority of Mughira b. Shu'ba and the words are:",
+      "text": "Bu hadis, Mugīra b. Şu'be aracılığıyla aktarılmıştır ve sözleri şöyledir: Allah'ın Elçisi (ﷺ) o kadar uzun süre ayakta namaz kıldı ki, ayakları şişti. Onlar (ashab) dediler ki: Şüphesiz, Allah senin önceki ve sonraki günahlarını affetti. Bunun üzerine o: \"Ben de bir şükredici kul (Allah'a) olmamalı mıyım?\" dedi."
+    },
+    {
+      "id": 79,
+      "narrator": "A'isha reported that when Allah's Messenger (ﷺ) occupied himself in prayer, he observed such a (long) qiyam (posture of standing in prayer) that his feet were swollen. A'isha said:",
+      "text": "A'işe, Allah'ın Elçisi (ﷺ) namazla meşgul olduğunda, o kadar uzun bir qiyam (namazda ayakta durma) yaptı ki, ayakları şişti. A'işe dedi ki: \"Allah'ın Elçisi, sen bunu yapıyorsun (oysa ki) senin önceki ve sonraki günahların affedildi?\" Bunun üzerine o: \"A'işe, ben de bir şükredici kul (Allah'a) olmamalı mıyım?\" dedi."
+    },
+    {
+      "id": 80,
+      "narrator": "Shaqiq reported:",
+      "text": "Şakik, Abdullah (b. Mes'ud) kapısında oturuyorduk ve onun (dışarı çıkıp bize vaaz vermesini) bekliyorduk. Bu sırada yanımızdan Yezid b. Muaviye an-Nakha'i geçti. Dedik ki: \"Ona (Abdullah b. Mes'ud) burada bulunduğumuzu bildir.\" O içeri girdi ve Abdullah b. Mes'ud hemen dışarı çıkıp bize dedi ki: \"Burada bulunduğunuzdan bana haber verildi ama dışarı çıkmamı engelleyen tek şey, sizi sıkmak istememdir (vaazlarla kafanızı doldurmak istemem). Zira Allah'ın Elçisi (ﷺ) bazı günlerde bize vaaz vermekten çekinirdi, bunun sıkıcı olabileceğinden korktuğu için.\""
+    },
+    {
+      "id": 81,
+      "narrator": "",
+      "text": "Bu hadis, 'Abdullah aracılığıyla başka rivayet zincirleriyle nakledilmiştir."
+    },
+    {
+      "id": 82,
+      "narrator": "Shaqiq b. Wi'il reported that 'Abdullah used to give us sermon on every Thursday. A person said:",
+      "text": "Şakik b. Wi'il, 'Abdullah'ın her Perşembe bize vaaz verdiğini bildirdi. Bir kişi dedi ki: \"Abu 'Abd al-Rahman, senin konuşmalarını seviyoruz ve seni dinlemek için can atıyoruz, bu yüzden her gün bize vaaz vermeni istiyoruz.\" Bunun üzerine o: \"Her gün size konuşmamı engelleyen tek şey, sıkılmanızdır. Allah'ın Elçisi (ﷺ) bazı günlerde vaaz vermekten çekinirdi (sıkılacağımızdan korktuğu için).\" dedi."
+    }
+  ]
+}

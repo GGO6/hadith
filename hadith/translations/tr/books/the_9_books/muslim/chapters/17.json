@@ -1,0 +1,436 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 84,
+    "arabic": {
+      "title": "صحيح مسلم",
+      "author": "الإمام مسلم بن الحجاج"
+    },
+    "english": {
+      "title": "Sahih Muslim",
+      "author": "Imam Muslim ibn al-Hajjaj"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "'A'isha (Allah be pleased with her) reported tha Allah's Messenger (ﷺ) was with her and she heard the voice of a person seeking permission to enter the house of Hafsa. 'A'isha (Allah he pleased with her) said:",
+      "text": "'A'işe (Allah ondan razı olsun) şöyle rivayet etmiştir: Allah'ın Elçisi (ﷺ) benimle birlikteydi ve Hafsa'nın evine girmek için izin isteyen bir kişinin sesini duydu. 'A'işe (Allah ondan razı olsun) dedi ki: Allah'ın Elçisi, o sizin evinize girmek için izin isteyen kişidir, bunun üzerine Allah'ın Elçisi (ﷺ) dedi ki: Sanırım o, falan filan (Hafsa'nın süt amcası). 'A'işe dedi ki: Allah'ın Elçisi, eğer falan filan (süt amcası) hayatta olsaydı, benim evime girebilir miydi? Allah'ın Elçisi (ﷺ) dedi ki: Evet. Süt emme, kan bağı ile haram kılınan şeyleri haram kılar."
+    },
+    {
+      "id": 2,
+      "narrator": "'A'isha (Allah be pleased with her) reported Allah's Messenger (ﷺ) as saying:",
+      "text": "'A'işe (Allah ondan razı olsun) Allah'ın Elçisi (ﷺ) şöyle derken rivayet etmiştir: \"Süt emme ile haram kılınan şey, doğum ile haram kılınan şeydir.\""
+    },
+    {
+      "id": 3,
+      "narrator": "",
+      "text": "Yukarıdaki hadis başka bir isnat ile rivayet edilmiştir."
+    },
+    {
+      "id": 4,
+      "narrator": "",
+      "text": "'A'işe (Allah ondan razı olsun) şöyle rivayet etmiştir: Aflah, benim süt amcam olan Abu'l-Qu'ais'in kardeşi, geldi ve gizlilik (hijab) uygulandıktan sonra benden izin istedi. Onu içeri almayı reddettim. Allah'ın Elçisi (ﷺ) geldiğinde, ona yaptığım şeyi bildirdim. O da bana, ona izin vermemi emretti (çünkü süt babasının kardeşi de onun amcasıydı)."
+    },
+    {
+      "id": 5,
+      "narrator": "'A'isha (Allah be pleased with her) reported:",
+      "text": "'A'işe (Allah ondan razı olsun) şöyle rivayet etmiştir: Aflah b. Abu Qulais, benim süt amcam olarak yanıma geldi; hadisin geri kalanı aynıdır (ama bu eklemeyle): \"Ben ('A'işe) dedim ki: Beni emziren kadın, erkek değil, bunun üzerine o (Allah'ın Elçisi) dedi ki: Ellerin ya da sağ elin toprakla kirlensin (yanıldın).\""
+    },
+    {
+      "id": 6,
+      "narrator": "'A'isha (Allah be pleased with her) reported that there came Aflah the brother, of Abu'l-Qu'ais, who sought her permission (to enter) after seclusion was instituted, and AbuQu'ais was the father of 'A'isha by reason of fosterage. 'A'isha said:",
+      "text": "'A'işe (Allah ondan razı olsun) şöyle rivayet etmiştir: Aflah, Abu'l-Qu'ais'in kardeşi, gizlilik uygulandıktan sonra benden izin istedi ve Abu'l-Qu'ais, 'A'işe'nin süt babasıdır. 'A'işe dedi ki: Vallahi, Aflah'a izin vermem, Allah'ın Elçisi (ﷺ) için görüşünü sormadan olmaz; çünkü Abu Qulais beni emzirmedi, ama eşi beni emzirdi. 'A'işe (Allah ondan razı olsun) dedi ki: Allah'ın Elçisi (ﷺ) içeri girdiğinde, ben dedim: Allah'ın Elçisi, Aflah, Abu'l-Qulais'in kardeşidir; o, benden izin istemeye geldi. Ona izin vermeyi istemedim, ta ki senin görüşünü alana kadar. Bunun üzerine Allah'ın Elçisi (ﷺ) dedi ki: Ona izin ver. 'Urva dedi ki: İşte bu yüzden 'A'işe, kan bağı ile haram kılınan şeylerin, süt emme ile de haram kılındığını söylerdi."
+    },
+    {
+      "id": 7,
+      "narrator": "This hadith has been narrated on the authority of Zuhri with the same chain of transmitters (that 'A'isha said):",
+      "text": "Bu hadis, Zuhri'nin rivayetiyle aynı isnatla aktarılmıştır (ki 'A'işe dedi ki): Aflah, Abu'l-Qulais'in kardeşi (Allah ondan razı olsun) geldi ve ondan izin istedi, hadisin geri kalanı aynıdır (sadece şu sözler hariç: Kutsal Peygamber) dedi ki: \"O senin amcan. Ellerin toprakla kirlensin.\" Abu'l-Qulais, 'A'işe'yi emziren kadının kocasıydı (Allah ondan razı olsun)."
+    },
+    {
+      "id": 8,
+      "narrator": "'A'isha (Allah be pleased with her) reported:",
+      "text": "'A'işe (Allah ondan razı olsun) şöyle rivayet etmiştir: Süt amcam bana geldi ve (eve girmek için) izin istedi, ama ben ona izin vermedim, ta ki Allah'ın Elçisi (ﷺ) için görüşünü alana kadar. Allah'ın Elçisi (ﷺ) geldiğinde, ben ona dedim: Süt amcam benden izin istedi (eve girmek için), ama ben ona izin vermedim, bunun üzerine Allah'ın Elçisi (ﷺ) dedi ki: Amcanı içeri al. Ben ('A'işe) dedim: Beni emziren kadın, erkek değil. (Ama o) dedi ki: O senin amcan, onu içeri al."
+    },
+    {
+      "id": 9,
+      "narrator": "This hadith has been narrated on the authority of Hisham with the same chain of transmitters (and the words are):",
+      "text": "Bu hadis, Hişam'ın rivayetiyle aynı isnatla aktarılmıştır (ve sözler şunlardır): \"Abu'l-Qu'ais'in kardeşi, ona ('A'işe) (eve girmek için) izin istedi. Geri kalanı aynıdır."
+    },
+    {
+      "id": 10,
+      "narrator": "",
+      "text": "Bu hadis, Hişam'ın rivayetiyle aynı isnatla aktarılmıştır, ancak kelimelerde hafif bir değişiklik vardır."
+    },
+    {
+      "id": 11,
+      "narrator": "'A'isha (Allah be pleased with her) reported:",
+      "text": "'A'işe (Allah ondan razı olsun) şöyle rivayet etmiştir: Süt amcam Abu'l Ja'd (Aflah'ın künyesi) benden izin istedi, ben de reddettim. (Hişam bana, Abu'l-Ja'd'ın aslında Abu'l-Qu'ais olduğunu söyledi). Allah'ın Elçisi (ﷺ) geldiğinde, ben ('A'işe) ona bunu bildirdim. O da: Neden ona izin vermedin? Sağ elin ya da ellerin toprakla kirlensin, dedi."
+    },
+    {
+      "id": 12,
+      "narrator": "'A'isha (Allah be pleased with her) reported that her foster-uncle whose name was Aflah sought permission from her (to enter the house) but she observed seclusion from him, and informed Allah's Messenger (ﷺ) who said to her:",
+      "text": "'A'işe (Allah ondan razı olsun) şöyle rivayet etmiştir: Süt amcam Aflah, benden (eve girmek için) izin istedi ama ben ondan gizlilik uyguladım ve Allah'ın Elçisi (ﷺ) ile bunu paylaştım. O da bana dedi ki: Ondan gizlenme, çünkü o süt akrabandır; tıpkı kan bağı ile akraba olduğu gibi."
+    },
+    {
+      "id": 13,
+      "narrator": "'A'isha (Allah be pleased with her) reported:",
+      "text": "'A'işe (Allah ondan razı olsun) şöyle rivayet etmiştir: Aflah b. Qu'ais benden (eve girmek için) izin istedi, ama ben ona izin vermedim. O da bana (mesaj göndererek) dedi ki: Ben senin amcanım (şu anlamda) ki, kardeşimin eşi seni emzirdi, (ama yine de) ona izin vermedim. Allah'ın Elçisi (ﷺ) geldi ve ben ona bunu bildirdim, o da dedi ki: O girebilir (evine), çünkü o senin amcan."
+    },
+    {
+      "id": 14,
+      "narrator": "'Ali (Allah be pleased with him) reported having said this:",
+      "text": "'Ali (Allah ondan razı olsun) şöyle dedi: Allah'ın Elçisi, neden eşini Kureyş'ten seçiyorsun, ama bizleri (en yakın akrabalarınızı) göz ardı ediyorsun? Bunun üzerine o dedi ki: Benim için uygun bir eşin var mı? Ben dedim: Evet, Hamza'nın kızı, bunun üzerine Allah'ın Elçisi (ﷺ) dedi ki: O benim için helal değil, çünkü o benim süt kardeşimin kızıdır."
+    },
+    {
+      "id": 15,
+      "narrator": "",
+      "text": "Bu hadis, A'maş'ın rivayetiyle aynı isnatla aktarılmıştır."
+    },
+    {
+      "id": 16,
+      "narrator": "Ibn Abbas (Allah be pleased with them) reported:",
+      "text": "İbn Abbas (Allah ondan razı olsun) şöyle bildirmiştir: O'na (Peygamber Efendimiz) Hamza'nın kızı ile evlenmesi teklif edildi. Bunun üzerine O şöyle dedi: O benim süt kardeşimin kızı olduğu için benim için helal değildir; zira süt kardeşliği ile nesep ilişkisi açısından haram olan şeyler aynıdır."
+    },
+    {
+      "id": 17,
+      "narrator": "",
+      "text": "Bu hadisin benzeri Hammam, Sa'id, Bişr b. Ömer'den, ancak kelimelerde küçük bir farklılıkla rivayet edilmiştir."
+    },
+    {
+      "id": 18,
+      "narrator": "Umm Salama (Allah be pleased with her), the wife of Allah's Apostle (ﷺ), said:",
+      "text": "Ümmü Seleme (Allah ondan razı olsun), Allah'ın Elçisi'nin (ﷺ) eşi, şöyle dedi: Allah'ın Elçisi'ne (ﷺ) şöyle denildi: Hamza'nın kızı senin için uygun bir eş değil mi? Ya da şöyle denildi: Hamza, Abdülmuttalib'in oğlu ile evlenmeyi neden düşünmüyorsun? Bunun üzerine O şöyle dedi: Hamza benim süt kardeşimdir."
+    },
+    {
+      "id": 19,
+      "narrator": "Umm Habiba, the daughter of AbuSufyan, reported:",
+      "text": "Ümmü Habibe, Ebu Süfyan'ın kızı, şöyle bildirmiştir: Allah'ın Elçisi (ﷺ) bana geldi ve ben O'na şöyle dedim: Ebu Süfyan'ın kızı ile evlenmeye niyetin var mı? O (Peygamber Efendimiz) dedi ki: O zaman ne yapmalıyım? Ben dedim: Onunla evlen. O dedi ki: Bunu ister misin? Ben dedim: Ben senin tek eşin değilim; bu yüzden kız kardeşimi hayırda seninle birleştirmek istiyorum. O dedi ki: O benim için helal değildir. Ben dedim: Bana, Durra bint Ebu Selame ile evlenme teklif ettiğini söylediler. O dedi ki: Ümmü Seleme'nin kızı mı demek istiyorsun? Ben dedim: Evet. O dedi ki: O benim üvey kızım olmasaydı bile, benim için helal olmazdı; çünkü o benim süt kardeşimin kızıdır. Thuwaiba, beni ve onun babasını emzirmiştir. Bu yüzden bana kızlarını ve kız kardeşlerini evlenme teklifi etme."
+    },
+    {
+      "id": 20,
+      "narrator": "",
+      "text": "Bu hadisin Hişam'dan aynı isnat zinciri ile rivayet edildiği bildirilmiştir."
+    },
+    {
+      "id": 21,
+      "narrator": "Umm Habiba, the wife of Allah's Apostle (ﷺ), reported that she said to Allah's Messenger (ﷺ):",
+      "text": "Ümmü Habibe, Allah'ın Elçisi'nin (ﷺ) eşi, Allah'ın Elçisi'ne (ﷺ) şöyle dediğini bildirmiştir: Allah'ın Elçisi, kız kardeşim 'Azza ile evlen, bunun üzerine Allah'ın Elçisi (ﷺ) dedi ki: Bunu ister misin? O dedi ki: Evet, Allah'ın Elçisi, ben senin tek eşin değilim ve benimle hayırda birleşen kişinin kız kardeşim olmasını istiyorum. Bunun üzerine Allah'ın Elçisi (ﷺ) dedi ki: Bu benim için helal değildir. Ben dedim: Allah'ın Elçisi, Durra bint Ebu Selame ile evlenmeyi düşündüğünü konuştuk. O (Peygamber Efendimiz) dedi: Ebu Selame'nin kızı mı demek istiyorsun? O dedi ki: Evet, bunun üzerine Allah'ın Elçisi (sallallahu aleyhi ve sellem) dedi: O benim üvey kızım olmasaydı bile, benim için helal olmazdı; çünkü o benim süt kardeşimin kızıdır. Thuwaiba, beni ve Ebu Selame'yi de emzirmiştir; bu yüzden bana kızlarını ve kız kardeşlerini evlenme teklifi etme."
+    },
+    {
+      "id": 22,
+      "narrator": "",
+      "text": "Yukarıdaki hadis, 'Azza ismi geçmeden başka zincirlerden de rivayet edilmiştir; bunlar arasında Yazid b. Ebu Habib'in zinciri de vardır."
+    },
+    {
+      "id": 23,
+      "narrator": "'A'isha (Allah be pleased with her), Suwaid and Zubair reported Allah's Apostle (ﷺ) as saying:",
+      "text": "'Aişe (Allah ondan razı olsun), Suveyd ve Zübeyir, Allah'ın Elçisi'nin (ﷺ) şöyle dediğini bildirmiştir: Bir veya iki emzirme (evliliği) haram kılmaz."
+    },
+    {
+      "id": 24,
+      "narrator": "Umm al-Fadl reported:",
+      "text": "Ümmü Fadl, Allah'ın Elçisi'nin (ﷺ) evinde bulunduğu sırada bir bedevinin geldiğini ve şöyle dediğini bildirmiştir: Allah'ın Elçisi, benim bir eşim vardı ve onun dışında bir başka eşle evlendim, ve ilk eşim, yeni evlendiğim eşimi bir veya iki kez emzirdiğini iddia etti. Bunun üzerine Allah'ın Elçisi (ﷺ) dedi ki: Bir veya iki emzirme (evliliği) haram kılmaz."
+    },
+    {
+      "id": 25,
+      "narrator": "Umm Fadl (Allah be pleased with her) reported that a person from Banu 'Amir b. Sa'sa said:",
+      "text": "Ümmü Fadl (Allah ondan razı olsun) şöyle bildirmiştir: Banu Amir b. Sa'sa'dan bir kişi Allah'ın Elçisi'ne (ﷺ) sordu: Bir emzirme (evliliği) haram kılar mı? O dedi ki: Hayır."
+    },
+    {
+      "id": 26,
+      "narrator": "Umm Fadl (Allah be pleased with her) reported that Allah's Apostle (ﷺ) said:",
+      "text": "Ümmü Fadl (Allah ondan razı olsun) Allah'ın Elçisi'nin (ﷺ) şöyle dediğini bildirmiştir: Bir veya iki kez emzirmek, evliliği haram kılmaz."
+    },
+    {
+      "id": 27,
+      "narrator": "",
+      "text": "İbn Bişr'den rivayet edilen hadiste iki emzirme geçmektedir ve İbn Ebu Şeybe bunu kelimelerde küçük bir farklılıkla rivayet etmiştir."
+    },
+    {
+      "id": 28,
+      "narrator": "Umm Fadl (Allah be pleased with her) reported Allah's Apostle (may peace be'apon him) having said this:",
+      "text": "Ümmü Fadl (Allah ondan razı olsun) Allah'ın Elçisi'nin (sallallahu aleyhi ve sellem) bunu söylediğini bildirmiştir: Bir veya iki emzirme (evliliği) haram kılmaz."
+    },
+    {
+      "id": 29,
+      "narrator": "Umm Fadl (Allah be pleased with her) reported that a person asked Allah's Apostle (ﷺ):",
+      "text": "Ümmü Fadl (Allah ondan razı olsun) Allah'ın Elçisi'ne (ﷺ) bir kişinin sorduğunu bildirmiştir: Bir emzirme (evliliği) haram kılar mı? O dedi ki: Hayır."
+    },
+    {
+      "id": 30,
+      "narrator": "",
+      "text": "'Aişe (Allah ondan razı olsun) şöyle bildirmiştir: Kuran-ı Kerim'de on açık emzirmenin evliliği haram kıldığına dair bir ayet indirilmişti, sonra bu beş emzirmeyle abroge edildi ve Allah'ın Elçisi (ﷺ) vefat etti ve bu, o zamandan önce Kuran'da (ve Müslümanlar tarafından) okunuyordu."
+    },
+    {
+      "id": 31,
+      "narrator": "'Amra reported that she heard 'A'isha (Allah he pleased with her) discussing fosterage which (makes marriage) unlawful; and she ('A'isha) said:",
+      "text": "'Amra, 'A'isha (Allah ondan razı olsun) ile süt emzirme konusunu tartışırken duyduğunu bildirdi; ve 'A'isha dedi ki: Kuran-ı Kerim'de on açık süt emzirme ayeti indirildi, ardından beş açık (süt emzirme) ayeti."
+    },
+    {
+      "id": 32,
+      "narrator": "",
+      "text": "Bu tür hadisler, 'A'isha tarafından başka bir raviden aktarılmıştır."
+    },
+    {
+      "id": 33,
+      "narrator": "' A'isha (Allah be pleased with her) reported that Sahla bint Suhail came to Allah's Apostle (may peace be eupon him) and said:",
+      "text": "'A'isha (Allah ondan razı olsun) bildirdi ki, Sahla bint Suhail, Allah'ın Elçisi'ne (ona selam olsun) geldi ve dedi ki: Allah'ın Elçisi, Salim'in (bir dost) evimize girmesiyle birlikte, Abu Hudhaifa'nın yüzünde (tiksinti belirtileri) görüyorum. Bunun üzerine Allah'ın Elçisi (ﷺ) dedi: Onu emzir. O da dedi: Onu nasıl emzirebilirim, o bir yetişkin adam? Allah'ın Elçisi (ﷺ) gülümsedi ve dedi: Zaten onun genç bir adam olduğunu biliyorum. 'Amr, bu rivayetinde onun Bedir Savaşı'na katıldığını eklemiştir ve İbn 'Umar'ın rivayetinde (sözler) şunlardır: Allah'ın Elçisi (ﷺ) güldü."
+    },
+    {
+      "id": 34,
+      "narrator": "'A'isha (Allah be pleased with her) reported that Salim, the freed slave of Abu Hadhaifa, lived with him and his family in their house. She (i. e. the daughter of Suhail came to Allah's Apostle (ﷺ) and said:",
+      "text": "'A'isha (Allah ondan razı olsun) bildirdi ki, Salim, Abu Hudhaifa'nın azatlı kölesi, onun ve ailesinin evinde yaşamaktaydı. O (yani Suhail'in kızı) Allah'ın Elçisi'ne (ﷺ) geldi ve dedi ki: Salim, erkeklerin eriştiği gibi (buluğa erdi) ve onların anladığı şeyleri anlıyor, ve o evimize serbestçe giriyor, ancak ben, Abu Hudhaifa'nın kalbinde bir şeyin (rahatsızlık) olduğunu hissediyorum. Bunun üzerine Allah'ın Elçisi (ﷺ) ona dedi: Onu emzir, böylece ona haram olursun ve Abu Hudhaifa'nın kalbinde hissettiği (rahatsızlık) kaybolur. O geri döndü ve dedi: Öyleyse onu emzirdim ve Abu Hudhaifa'nın kalbinde olan şey kayboldu."
+    },
+    {
+      "id": 35,
+      "narrator": "Ibn Abu Mulaika reported that al-Qasim b. Muhammad b. Abu Bakr had narrated to him that 'A'isha (Allah be pleased with her) reported that Sahla bint Suhail b. 'Amr came to Allah's Apostle (ﷺ) and said:",
+      "text": "İbn Abu Mulaika bildirdi ki, el-Kasım b. Muhammed b. Abu Bekir, ona 'A'isha (Allah ondan razı olsun) tarafından bildirildiğini aktardı ki, Sahla bint Suhail b. 'Amr, Allah'ın Elçisi'ne (ﷺ) geldi ve dedi ki: Allah'ın Elçisi, Salim (Abu Hudhaifa'nın azatlı kölesi) bizim evimizde yaşıyor ve o erkeklerin eriştiği gibi (buluğa erdi) ve erkeklerin anladığı gibi bilgi edindi, bunun üzerine o dedi: Onu emzir ki, senin için haram olsun. O (İbn Abu Mulaika) dedi ki: Korkudan (bu hadisi) bir yıl kadar anlatmaktan kaçındım. Sonra el-Kasım ile karşılaştım ve ona dedim: Bana bir hadis aktardın ki, ben onu (kimseye) anlatmadım. O dedi: O nedir? Ben de ona bildirdim, bunun üzerine o dedi: 'A'isha (Allah ondan razı olsun) bunu bana aktardı diye benim adıma anlat."
+    },
+    {
+      "id": 36,
+      "narrator": "Umm Salama said to 'A'isha (Allah be pleased with her):",
+      "text": "Umm Salama, 'A'isha'ya (Allah ondan razı olsun) dedi ki: Ergenlik eşiğinde bir genç sana geliyor. Ancak ben, onun bana gelmesini istemiyorum, bunun üzerine 'A'isha (Allah ondan razı olsun) dedi: Allah'ın Elçisi'nde (ﷺ) senin için bir örnek görmüyor musun? O ayrıca dedi ki: Abu Hudhaifa'nın eşi dedi ki: Allah'ın Elçisi, Salim bana geliyor ve şimdi o bir (büyümüş) kişi, ve Abu Hudhaifa'nın onun hakkında aklında bir şey var, bunun üzerine Allah'ın Elçisi (ﷺ) dedi: Onu emzir (böylece o senin süt çocuğun olur) ve böylece sana (serbestçe) gelebilir."
+    },
+    {
+      "id": 37,
+      "narrator": "Zainab daughter of Abu Salama reported:",
+      "text": "Zeynep bint Abu Salama bildirdi: Umm Salama, Allah'ın Elçisi'nin (ona selam olsun) eşi, 'A'isha'ya dedi ki: Vallahi, ben, süt emzirme dönemini geçmiş bir genç tarafından görünmek istemiyorum, bunun üzerine o ('A'isha) dedi: Neden böyle? Sahla bint Suhail, Allah'ın Elçisi'ne (ﷺ) geldi ve dedi: Allah'ın Elçisi, vallahi, Salim'in (eve girmesi nedeniyle) Abu Hudhaifa'nın yüzünde (tiksinti belirtileri) görüyorum, bunun üzerine Allah'ın Elçisi (ﷺ) dedi: Onu emzir. O (Sahla bint Suhail) dedi: O bir yetişkin. Ama o (tekrar) dedi: Onu emzir, ve bu, Abu Hudhaifa'nın yüzündeki (tiksinti ifadesini) ortadan kaldırır. O dedi: (Bunu yaptım) ve vallahi, Abu Hudhaifa'nın yüzünde (herhangi bir tiksinti belirtisi) görmedim."
+    },
+    {
+      "id": 38,
+      "narrator": "Umm Salama, the wife of Allah's Apostle (ﷺ), used to say that all wives of Allah's Apostle (ﷺ) disclaimed the idea that one with this type of fosterage (having been suckled after the proper period) should come to them. and said to 'A'isha:",
+      "text": "Umm Salama, Allah'ın Elçisi'nin (ﷺ) eşi, derdi ki, Allah'ın Elçisi'nin (ﷺ) tüm eşleri, bu tür bir süt emzirme (doğru dönemde emzirildikten sonra) ile birinin onlara gelmesini reddetti ve 'A'isha'ya dedi: Vallahi, biz bunu sadece Salim için Allah'ın Elçisi'nin (ﷺ) verdiği bir tür müsaade olarak görüyoruz ve bu tür bir süt emzirme ile (evlerimize) kimsenin girmesine izin verilmeyecek ve bu görüşe katılmıyoruz."
+    },
+    {
+      "id": 39,
+      "narrator": "'A'isha (Allah be pleased with her) reported:",
+      "text": "'A'isha (Allah ondan razı olsun) bildirdi: Allah'ın Elçisi (ﷺ) beni ziyaret ettiğinde, yanımda bir adam oturuyordu ve o durumdan hoşlanmıyormuş gibi görünüyordu. Ve yüzünde öfke belirtileri gördüm ve dedim: Allah'ın Elçisi, o benim süt kardeşimdir, bunun üzerine o dedi: Süt emzirme yoluyla kardeşlerinizin kimler olduğunu düşünün, çünkü süt emzirme açlıkla (yani bebeklikte) olur."
+    },
+    {
+      "id": 40,
+      "narrator": "",
+      "text": "Bu hadis, Abu al-Ahwas aracılığıyla başka bir raviden ve kelimelerde hafif bir değişiklikle aktarılmıştır."
+    },
+    {
+      "id": 41,
+      "narrator": "Abu Sa'id al-Khudri (Allah her pleased with him) reported that at the Battle of Hanain Allah's Messenger (ﷺ) sent an army to Autas and encountered the enemy and fought with them. Having overcome them and taken them captives, the Companions of Allah's Messenger (may peace te upon him) seemed to refrain from having intercourse with captive women because of their husbands being polytheists. Then Allah, Most High, sent down regarding that:",
+      "text": "Abu Sa'id al-Khudri (Allah ondan razı olsun) bildirdi ki, Huneyn Savaşı'nda Allah'ın Elçisi (ﷺ) Autas'a bir ordu gönderdi ve düşmanla karşılaştı ve onlarla savaştı. Onları yendikten ve esir aldıktan sonra, Allah'ın Elçisi'nin (ona selam olsun) arkadaşları, kocaları müşrik olduğu için esir kadınlarla cinsel ilişkiye girmekten kaçınıyorlardı. Bunun üzerine Allah, Yüce, bu konuda indirdi: \"Ve evli kadınlar, sağ ellerinizin sahip olduğu (iv. 24)\" (yani 'iddet süreleri sona erdiğinde onlar sizin için helaldir)."
+    },
+    {
+      "id": 42,
+      "narrator": "Abu Sa'id al-Khudri (Allah be pleased with him) reported that Allah's Apostle (ﷺ) sent a small army. The rest of the hadith is the same except this that he said:",
+      "text": "Abu Sa'id al-Khudri (Allah ondan razı olsun) bildirdi ki, Allah'ın Elçisi (ﷺ) küçük bir ordu gönderdi. Hadisin geri kalanı aynıdır, sadece o dedi ki: Onlardan sağ ellerinizin sahip olduğu şeyler sizin için helaldir; ve 'iddet süreleri sona erdiğinde demedi."
+    },
+    {
+      "id": 43,
+      "narrator": "This hadith has been reported on the authority of AbuSa'id (al-Khudri) (Allah be pleased with him) through another chain of transmitters and the words are:",
+      "text": "Bu hadis, Abu Sa'id (al-Khudri) (Allah ondan razı olsun) aracılığıyla başka bir raviden aktarılmıştır ve sözler şunlardır: Autas günü, kocaları olan (kadın) esirler alındı. Bu ayet indirildiğinde (onlarla) cinsel ilişkiye girmekten korktular: \"Ve evli kadınlar, sağ ellerinizin sahip olduğu (iv. 24)\"."
+    },
+    {
+      "id": 44,
+      "narrator": "",
+      "text": "Aynı şekilde, yukarıdaki hadis başka bir zincirle aktarılmıştır."
+    },
+    {
+      "id": 45,
+      "narrator": "",
+      "text": "Katade, aynı zincirle benzer bir hadis bildirdi."
+    },
+    {
+      "id": 46,
+      "narrator": "'A'isha (Allah be pleased with her) reported:",
+      "text": "'A'işe (Allah ondan razı olsun) şöyle rivayet etmiştir: Sa'd b. Ebu Vakkas ve Abd b. Zam'a (Allah onlardan razı olsun) bir genç çocuk üzerinde tartıştılar. Sa'd dedi ki: \"Ey Allah'ın Resulü, o benim kardeşim 'Utbe b. Ebu Vakkas'ın oğludur, çünkü o bunu açıkça belirtti. Ona benzerliğine bak.\" Abd b. Zam'a dedi ki: \"Ey Allah'ın Resulü, o benim kardeşimdir, çünkü o babamın cariyesinden doğmuştur.\" Allah'ın Resulü (ﷺ) benzerliğine baktı ve 'Utbe ile açık bir benzerlik buldu. (Ama) dedi ki: \"O senindir, ey Abd (b. Zam'a), çünkü çocuk, doğduğu yatağa atfedilir ve zina eden için recm vardır. Sauda bint Zam'a, ondan örtünmelisin.\" Böylece Sauda'yı hiç görmedi."
+    },
+    {
+      "id": 47,
+      "narrator": "A hadith like this is narrated on the authority of Ibn 'Uyaiyna and Ma'mar (and the words are):",
+      "text": "Bu gibi bir hadis, İbn 'Uyaiyna ve Ma'mar'dan rivayet edilmiştir ve sözleri şunlardır: \"Çocuk, doğduğu yatağa atfedilir;\" ama şunu belirtmediler: \"Zina eden için recm vardır.\""
+    },
+    {
+      "id": 48,
+      "narrator": "Abu Huraira (Allah be pleased with him) reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Ebu Hureyre (Allah ondan razı olsun) Allah'ın Resulü (ﷺ) şöyle dediğini rivayet etmiştir: \"Çocuk, doğduğu yatağa atfedilir ve zina eden için recm vardır.\""
+    },
+    {
+      "id": 49,
+      "narrator": "",
+      "text": "Bu gibi bir hadis, Ebu Hureyre'den rivayet edilmiştir."
+    },
+    {
+      "id": 50,
+      "narrator": "'A'isha (Allah be pleased with her) reported:",
+      "text": "'A'işe (Allah ondan razı olsun) şöyle rivayet etmiştir: Allah'ın Resulü (ﷺ) bana geldi, yüzü parlıyordu ve dedi ki: \"O Mujazziz'in Zaid b. Haritha ve Usame b. Zaid'e bir göz attığını gördün mü, sonra da: 'Ayaklarının bazı özellikleri birbirine benziyor' dedi.\""
+    },
+    {
+      "id": 51,
+      "narrator": "'A'isha (Allah be pleased with her) reported:",
+      "text": "'A'işe (Allah ondan razı olsun) şöyle rivayet etmiştir: Bir gün Allah'ın Resulü (ﷺ) bana geldi, yüzü parlıyordu ve dedi ki: \"A'işe, Mujazziz al-Mudliji'yi görmüyor musun? (O) evime girdi ve Usame ile Zaid'i başları örtülü bir örtüyle gördü, ama ayakları görünüyordu ve dedi ki: \"Bu ayaklar birbirine benziyor.\""
+    },
+    {
+      "id": 52,
+      "narrator": "'A'isha (Allah be pleased with her) reported:",
+      "text": "'A'işe (Allah ondan razı olsun) şöyle rivayet etmiştir: Bir yüzcü (bizim evimize) geldi ve Allah'ın Resulü (ﷺ) oradaydı, Usame b. Zaid ve Zaid b. Haritha ikisi de uyuyorlardı, ve o (yüzcü) dedi ki: \"Bu ayaklar birbirine benziyor.\" Allah'ın Resulü (ﷺ) bunu duyduğuna memnun oldu ve 'A'işe'ye (Allah ondan razı olsun) bunu bildirdi."
+    },
+    {
+      "id": 53,
+      "narrator": "A hadith like this has been narrated on the authority of Zuhri and Yunus said:",
+      "text": "Bu gibi bir hadis, Zuhri'den rivayet edilmiştir ve Yunus dedi ki: \"Mujazziz bir yüzcüydü.\""
+    },
+    {
+      "id": 54,
+      "narrator": "'Abd al-Malik b. Abu Bakr b. Abd al-Rahman b. al-Harith b. Hisham reported on the authority of his father from Umm Salama (Allah be pleased with her) that when Allah's Messenger (ﷺ) married Umm Salama, he stayed with her for three nights, and said:",
+      "text": "Abd al-Malik b. Ebu Bekir b. Abd al-Rahman b. al-Harith b. Hişam, babası aracılığıyla Umm Salama'dan (Allah ondan razı olsun) rivayet etti ki, Allah'ın Resulü (ﷺ) Umm Salama ile evlendiğinde, onunla üç gece kaldı ve dedi ki: \"Kocan açısından senin için bir eksiklik yok. İstersen seninle bir hafta kalabilirim, ama bir hafta kalırsam, o zaman tüm eşlerimle de bir hafta kalmam gerekecek.\""
+    },
+    {
+      "id": 55,
+      "narrator": "Ibn Abu Bakr b. Abd al-Rahman reported that when Allah's Messenger (ﷺ) married Umm Salama and she stayed with him (during the night), and it was dawn, he (the Holy Prophet) said to her:",
+      "text": "İbn Ebu Bekir b. Abd al-Rahman, Allah'ın Resulü (ﷺ) Umm Salama ile evlendiğinde ve o (gece) onunla kaldığında, sabah olunca, o (Peygamber) ona dedi ki: \"Kocan açısından senin için bir eksiklik yok. Eğer istersen seninle bir hafta kalabilirim, istersen üç (gece) kalabilirim, sonra sırayla seni ziyaret ederim.\" O da dedi ki: \"Üç (gece) kal.\""
+    },
+    {
+      "id": 56,
+      "narrator": "Abu Bakr b. 'Abd al-Rahman reported that when Allah's Messenger (ﷺ) married Umm Salama and he visited her, and when he intended to come out, she caught hold of his cloth. whereupon Allah's Messenger (ﷺ) said:",
+      "text": "Ebu Bekir b. Abd al-Rahman, Allah'ın Resulü (ﷺ) Umm Salama ile evlendiğinde ve onu ziyaret ettiğinde, dışarı çıkmayı düşündüğünde, o onun elbiselerinden tuttu. Bunun üzerine Allah'ın Resulü (ﷺ) dedi ki: \"Eğer istersen, seninle kalma süremi uzatabilirim, ama o zaman diğer eşlerimle de aynı süreyi geçirmem gerekecek.\" Bekar kadın için (kocası) onunla bir hafta kalmalıdır, daha önce evlenmiş kadın için ise üç gün."
+    },
+    {
+      "id": 57,
+      "narrator": "",
+      "text": "Bu gibi bir hadis, İbn Humaid'den rivayet edilmiştir."
+    },
+    {
+      "id": 58,
+      "narrator": "Umm Salama (Allah be pleased with her) reported that Allah's Messenger (ﷺ) married her, and he (the narrator) made mention of so many things in this connection (and one of them was this) that he said:",
+      "text": "Umm Salama (Allah ondan razı olsun) Allah'ın Resulü (ﷺ) ile evlendiğini ve bu konuda birçok şeyin zikredildiğini (ve bunlardan birinin) şu olduğunu rivayet etmiştir: \"Eğer seninle bir hafta geçirmemi istersen, o zaman diğer eşlerimle de bir hafta geçirmem gerekecek.\""
+    },
+    {
+      "id": 59,
+      "narrator": "Anas b. Malik reported:",
+      "text": "Enes b. Malik şöyle rivayet etmiştir: \"Eğer birisi zaten bir eşi olan bir adam, bakire ile evlenirse, onunla yedi gece kalmalıdır (ve sonra diğer eşine dönmelidir), ama eğer bakire ile evli olan birisi, daha önce evlenmiş bir kadınla evlenirse, onunla üç gece kalmalıdır.\" Halid (rivayet edenlerden biri) dedi ki: \"Eğer bunu doğrudan Peygamber'e (ﷺ) izafe edebilseydim, doğruyu söylemiş olurdum, ama o (Hadrat Enes) dedi ki: \"Bu gelenektir.\""
+    },
+    {
+      "id": 60,
+      "narrator": "Abu Qilaba reported on the authority of Anas:",
+      "text": "Ebu Kılabe, Enes'ten rivayet etti: \"Bakire ile evlendikten sonra onunla bir hafta kalmak sünnettir.\" Halid (rivayet edenlerden biri) dedi ki: \"Eğer istersem, bunu Peygamber'e (ﷺ) izafe edebilirim.\""
+    },
+    {
+      "id": 61,
+      "narrator": "Anas (Allah be pleased with him) reported that Allah's Apostle (ﷺ) had nine wives. So when he divided (his stay) with them, the turn of the first wife did not come but on the ninth (day). They (all the wives) used to gather every night in the house of one where he had to come (and stay that night). It was (the night when he had to stay) in the house of 'A'isha (Allah be pleased with her), when Zainab came there. He (the Holy Prophet) stretched his hand towards her (Zainab), whereupon she ('A'isha) said:",
+      "text": "Anas (Allah ondan razı olsun) rivayet etti ki, Allah'ın Elçisi (ﷺ) dokuz eşi vardı. Onlarla (geçirdiği süreyi) paylaştığında, ilk eşinin sırası ancak dokuzuncu günde geldi. (Tüm eşleri) her gece, onun (o gece kalacağı) birinin evinde toplanırlardı. 'A'işe (Allah ondan razı olsun) evinde kalması gereken gece, Zeynep oraya geldi. O (Peygamber) ona (Zeynep'e) elini uzattı, bunun üzerine o ('A'işe) dedi ki: Bu Zeynep. Allah'ın Elçisi (ﷺ) elini geri çekti. İkisi arasında bir tartışma oldu ve sesleri yükseldi (ve o sırada) ikama namaz için okundu. Abu Bekir geldi ve seslerini duydu ve dedi: Allah'ın Elçisi, (lütfen) namaza gel, ve onların ağızlarına toprak at. Bunun üzerine Peygamber (ﷺ) dışarı çıktı. 'A'işe dedi ki: Allah'ın Elçisi (ﷺ) namazını bitirdiğinde, Abu Bekir de gelir ve o da (bu tür durumlarda yaptığı gibi, yani azarlayarak) yapardı. Allah'ın Elçisi (ﷺ) namazını bitirdiğinde, ona Abu Bekir geldi ve ona sert sözlerle konuştu ve dedi ki: Böyle mi davranıyorsun?"
+    },
+    {
+      "id": 62,
+      "narrator": "'A'isha (Allah be pleased with her) reported:",
+      "text": "---"
+    },
+    {
+      "id": 63,
+      "narrator": "A hadith like this has been transmitted on the authority of Hisham with the same chain of narrators (and the words are):",
+      "text": "'A'işe (Allah ondan razı olsun) rivayet etti: Sauda bint Zam'a'dan daha çok beni seven bir kadın bulamadım. Onun gibi tutkulu olmayı dilerdim. Yaşlandığında, Allah'ın Elçisi (ﷺ) ile geçireceği günü 'A'işe'ye devretti. Dedi ki: Günümü sana devrettim. Bunun üzerine Allah'ın Elçisi (ﷺ) 'A'işe'ye iki gün ayırdı; kendi günü (sırası geldiğinde) ve Sauda'nın günü."
+    },
+    {
+      "id": 64,
+      "narrator": "'A'isha (Allah be pleased with her) reported:",
+      "text": "---"
+    },
+    {
+      "id": 65,
+      "narrator": "Hisham reported on the authority of his father that 'A'isha (Allah be pleased with her) used to say:",
+      "text": "Hişam'dan benzer bir hadis, aynı raviler zinciri ile aktarılmıştır (ve sözler şunlardır): Sauda yaşlandığında (hadisin geri kalanı aynıdır) ve Şarik'in rivayetinde (şu sözlerin eklenmesi vardır: \"O, benim (Allah'ın Elçisi) evlendiğim ilk kadındır.\")"
+    },
+    {
+      "id": 66,
+      "narrator": "'Ata related that when they were with Ibn 'Abbas (Allah be pleased with them) at the funeral of Maimuna In Sarif, Ibn 'Abbas (Allah be pleased with them) said:",
+      "text": "---"
+    },
+    {
+      "id": 67,
+      "narrator": "",
+      "text": "'A'işe (Allah ondan razı olsun) rivayet etti: Allah'ın Elçisi'ne (ﷺ) kendini sunan kadınlara karşı kıskançlık hissettim ve dedim: Sonra Allah, Yüce ve Glorifık, bu ayeti indirdi: \"Dilediğinizi erteleyebilir, dilediğinizi alabilirsiniz; ve eğer ayırdığınız birini istiyorsanız (sizde bir günah yoktur)\" (xxxiii. 51). Ben ('A'işe) dedim: Görünüşe göre Rabbiniz arzunuzu yerine getirmekte acele ediyor."
+    },
+    {
+      "id": 68,
+      "narrator": "Abu Huraira (Allah be pleased with him) reported Allah's Messenger (ﷺ) as saying:",
+      "text": "---"
+    },
+    {
+      "id": 69,
+      "narrator": "Jabir b. 'Abdullah (Allah be pleased with them) reported:",
+      "text": "Hişam, babasından rivayet etti ki, 'A'işe (Allah ondan razı olsun) şöyle derdi: Kadın bir erkeğe kendini sunmaktan utanmaz mı? Sonra Allah, Yüce ve Glorifık, bu ayeti indirdi: \"Dilediğinizi erteleyebilir ve dilediğinizi alabilirsiniz.\" Ben ('A'işe) dedim: Görünüşe göre Rabbiniz arzunuzu yerine getirmekte acele ediyor."
+    },
+    {
+      "id": 70,
+      "narrator": "Jabir b. 'Abdullah (Allah be pleased with them) reported:",
+      "text": "---"
+    },
+    {
+      "id": 71,
+      "narrator": "Jabir b. 'Abdullah (Allah be pleased with them) reported:",
+      "text": "'Ata, Maimuna'nın cenazesinde İbn Abbas (Allah onlardan razı olsun) ile birlikte olduklarında, İbn Abbas (Allah onlardan razı olsun) şöyle dedi: Bu, Allah'ın Elçisi'nin (ﷺ) eşidir; bu yüzden onu kaldırdığınızda, sarsmayın veya rahatsız etmeyin, nazik olun, çünkü Allah'ın Elçisi (ﷺ) dokuz eşe sahipti, sekizi ile zamanını paylaştı, ancak birine zaman ayırmadı. 'Ati dedi ki: Zaman ayırmadığı kişi, Huyayy b. Akhtab'ın kızı Safiye idi."
+    },
+    {
+      "id": 72,
+      "narrator": "Jabir b. 'Abdullah (Allah be pleased with them) reported Allah's Messenger (ﷺ) said to me:",
+      "text": "---"
+    },
+    {
+      "id": 73,
+      "narrator": "Jabir b. 'Abdullah (Allah be pleased with them) reported:",
+      "text": "İbn Juraij, aynı raviler zinciri ile bir hadis aktardı ve o (Hadrat Maimuna) Medine'de ölen son kadındır."
+    },
+    {
+      "id": 74,
+      "narrator": "Jabir b. 'Abdullah (Allah be pleased with him) reported:",
+      "text": "---"
+    },
+    {
+      "id": 75,
+      "narrator": "Jabir b. 'Abdullah (Allah be pleased with them) reported:",
+      "text": "Ebu Hureyre (Allah ondan razı olsun) rivayet etti ki, Allah'ın Elçisi (ﷺ) şöyle buyurdu: Bir kadın dört sebepten dolayı evlenebilir: malı, durumu, güzelliği ve dini için, bu yüzden dini olanı seçmeye çalışın, elleriniz toprakla kaplansın."
+    },
+    {
+      "id": 76,
+      "narrator": "'Abdullah b. Amr reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Abdullah b. Amr, Allah'ın Elçisi (ﷺ) şöyle buyurduğunu bildirmiştir: Bütün dünya bir rızık, dünyanın en hayırlı rızkı ise salih kadındır."
+    },
+    {
+      "id": 77,
+      "narrator": "Abu Huraira (Allah be pleased with him) reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Ebu Hureyre (Allah ondan razı olsun) Allah'ın Elçisi (ﷺ) şöyle buyurduğunu bildirmiştir: Kadın, bir kaburgaya benzer. Onu düzeltmeye çalıştığınızda, onu kırarsınız. Eğer onu yalnız bırakırsanız, ondan faydalanırsınız ve onun eğriliği kalır."
+    },
+    {
+      "id": 78,
+      "narrator": "",
+      "text": "Bu şekilde bir hadis başka bir raviden de rivayet edilmiştir."
+    },
+    {
+      "id": 79,
+      "narrator": "Abu Huraira (Allah be pleased with him) reported:",
+      "text": "Ebu Hureyre (Allah ondan razı olsun) şöyle bildirmiştir: Kadın bir kaburgadan yaratılmıştır ve sizin için asla düzeltilemeyecektir; eğer ondan faydalanmak istiyorsanız, eğriliğiyle birlikte ondan faydalanın. Eğer onu düzeltmeye çalışırsanız, onu kırarsınız ve onu kırmak, onu boşamak demektir."
+    },
+    {
+      "id": 80,
+      "narrator": "Abu Huraira (Allah be pleased with him) reported Allah's Apostle (ﷺ) as saying:",
+      "text": "Ebu Hureyre (Allah ondan razı olsun) Allah'ın Elçisi (ﷺ) şöyle buyurduğunu bildirmiştir: Allah'a ve ahirete iman eden bir kimse, bir meseleye şahit olduğunda, ya güzel sözler söylesin ya da susmalıdır. Kadınlara karşı nazik olun; çünkü kadın bir kaburgadan yaratılmıştır ve kaburganın en eğri yeri üst kısmıdır. Eğer onu düzeltmeye çalışırsanız, onu kırarsınız ve eğer onu bırakırsanız, eğriliği orada kalır. Bu yüzden kadınlara karşı nazik olun."
+    },
+    {
+      "id": 81,
+      "narrator": "Abu Huraira (Allah be pleased with him) reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Ebu Hureyre (Allah ondan razı olsun) Allah'ın Elçisi (ﷺ) şöyle buyurduğunu bildirmiştir: İman eden bir adam, iman eden bir kadını sevemez; eğer onun bir özelliğinden hoşlanmazsa, başka bir özelliğinden hoşlanacaktır."
+    },
+    {
+      "id": 82,
+      "narrator": "",
+      "text": "Bu şekilde bir hadis Ebu Hureyre (Allah ondan razı olsun) aracılığıyla rivayet edilmiştir."
+    },
+    {
+      "id": 83,
+      "narrator": "Abu Huraira (Allah be pleased with him) reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Ebu Hureyre (Allah ondan razı olsun) Allah'ın Elçisi (ﷺ) şöyle buyurduğunu bildirmiştir: Havva olmasaydı, kadın kocasına asla ihanet etmezdi."
+    },
+    {
+      "id": 84,
+      "narrator": "Hammam b. Munabbih said:",
+      "text": "Hammam b. Munabbih dedi ki: Bunlar, Ebu Hureyre (Allah ondan razı olsun) tarafından Allah'ın Elçisi (ﷺ)’nden bize rivayet edilen bazı hadislerdir ve bunlardan biri şudur: Allah'ın Elçisi (ﷺ) şöyle buyurdu: Eğer Beni İsrail olmasaydı, yiyecek bozulmazdı ve yemek kötüleşmezdi; eğer Havva olmasaydı, bir kadın kocasına asla ihanet etmezdi."
+    }
+  ]
+}

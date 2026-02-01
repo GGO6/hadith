@@ -1,0 +1,36 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 4,
+    "arabic": {
+      "title": "رياض الصالحين",
+      "author": "الإمام النووي"
+    },
+    "english": {
+      "title": "Riyad as-Salihin",
+      "author": "Imam an-Nawawi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+      "text": "Ebu Hureyre (Allah ondan razı olsun) rivayet etti: Miraç Gecesi'nde (İsra Gecesi) Peygamber (ﷺ) iki içki kabı ile karşılaştı: biri şarapla dolu, diğeri ise sütle doluydu. Onlara baktı. Sonra sütle dolu kabı aldı. Bunun üzerine Cebrail (a.s) dedi ki: \"Elhamdülillah (Allah'a hamd olsun) ki seni, Fıtrat'a (yani İslami Tevhid; İslam'ın saf doğası) uygun olanla doğru yola iletti. Eğer şarabı seçseydin, kavmin sapıtacaktı.\"."
+    },
+    {
+      "id": 2,
+      "narrator": "Abu Hurairah (May Allah be pleased with him) reported:",
+      "text": "Ebu Hureyre (Allah ondan razı olsun) rivayet etti: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Her önemli mesele, Elhamdülillah (Allah'a hamd olsun) ile başlamazsa, eksik kalır.\"."
+    },
+    {
+      "id": 3,
+      "narrator": "Abu Musa Al-Ash'ari (May Allah be pleased with him) reported:",
+      "text": "Ebu Musa el-Eş'ari (Allah ondan razı olsun) rivayet etti: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Bir kulun çocuğu öldüğünde, Yüce Allah meleklerine sorar: 'Kulumun çocuğunun canını aldınız mı?' Onlar evet derler. Sonra sorar: 'Kalbinin meyvesini aldınız mı?' Onlar evet derler. Bunun üzerine sorar: 'Kulum ne söyledi?' Onlar derler: 'O seni övdü ve dedi ki: İnna lillahi ve inna ileyhi raji'un (Biz Allah'a aitiz ve O'na döneceğiz).' Allah der ki: 'Kulum için Cennet'te bir ev inşa edin ve adını Bait-ul-Hamd (Övgü Evi) koyun.'\"."
+    },
+    {
+      "id": 4,
+      "narrator": "Anas bin Malik (May Allah be pleased with him) reported:",
+      "text": "Enes bin Malik (Allah ondan razı olsun) rivayet etti: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Allah, bir lokma yiyecek alıp bir yudum su içtiğinde 'Elhamdülillah (Allah'a hamd olsun)' diyen kulundan razı olur.\"."
+    }
+  ]
+}

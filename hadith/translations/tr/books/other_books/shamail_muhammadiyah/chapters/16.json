@@ -1,0 +1,41 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 5,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Jabir said:",
+      "text": "Cabir dedi ki: “Peygamber (Allah ona salat ve selam eylesin) Fetih Günü Mekke'ye siyah bir sarıkla girdi.”"
+    },
+    {
+      "id": 2,
+      "narrator": "'Amr ibn Huraith reported that his father said:",
+      "text": "Amr ibn Huraith, babasının şöyle dediğini bildirdi: \"Ben, Allah'ın Elçisi'nin (Allah ona salat ve selam eylesin) başında siyah bir sarık gördüm.\""
+    },
+    {
+      "id": 3,
+      "narrator": "'Amr ibn Huraith reported that his father said:",
+      "text": "Amr ibn Huraith, babasının şöyle dediğini bildirdi: \"Peygamber (Allah ona salat ve selam eylesin) siyah bir sarıkla insanlara hitap etti.\""
+    },
+    {
+      "id": 4,
+      "narrator": "Ibn 'Umar said:",
+      "text": "İbn Ömer dedi ki: \"Peygamber (Allah ona salat ve selam eylesin) sarık sardığında, sarığını omuzları arasında sarkıtırdı.\""
+    },
+    {
+      "id": 5,
+      "narrator": "Ibn 'Abbas said:",
+      "text": "İbn Abbas dedi ki: “Peygamber (Allah ona salat ve selam eylesin) dasma’ olan bir sarıkla insanlara hitap etti.”"
+    }
+  ]
+}

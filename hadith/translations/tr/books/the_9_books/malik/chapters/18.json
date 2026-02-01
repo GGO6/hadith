@@ -1,0 +1,346 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 66,
+    "arabic": {
+      "title": "موطأ مالك",
+      "author": "الإمام مالك بن أنس"
+    },
+    "english": {
+      "title": "Muwatta Malik",
+      "author": "Imam Malik ibn Anas"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Nafi'den, Abdullah ibn Umar'dan, Allah'ın Resulü'nün, ona salat ve selam olsun, bir zaman Ramazan'dan bahsettiğini ve \"Yeni ayı görmeden oruca başlamayın ve yeni ayı görmeden orucu da bozmayın. Eğer yeni ay sizden gizlenirse, o zaman (ne zaman olması gerektiğini) hesaplayın.\" dediğini aktardı."
+    },
+    {
+      "id": 2,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abdullah ibn Dinar'dan, Abdullah ibn Umar'dan, Allah'ın Resulü'nün, ona salat ve selam olsun, \"Bir ay yirmi dokuz gündür. Oruca başlamayın veya orucu bozmayın, yeni ayı görmeden. Eğer yeni ay sizden gizlenirse, o zaman (ne zaman olması gerektiğini) hesaplayın.\" dediğini aktardı."
+    },
+    {
+      "id": 3,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Thawr ibn Zayd ad-Dili'den, Abdullah ibn Abbas'tan, Allah'ın Resulü'nün, ona salat ve selam olsun, bir zaman Ramazan'dan bahsettiğini ve \"Oruca başlamayın veya orucu bozmayın, yeni ayı görmeden. Eğer yeni ay sizden gizlenirse, o zaman tam otuz gün tamamlayın.\" dediğini aktardı."
+    },
+    {
+      "id": 4,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Uthman ibn Affan zamanında bir gün yeni ayın öğleden sonra görüldüğünü ve Uthman'ın akşam gelene kadar orucunu bozmadığını duyduğunu aktardı."
+    },
+    {
+      "id": 5,
+      "narrator": "",
+      "text": "Yahya, Malik'in, Ramazan'ın yeni ayını yalnız başına gören birinin oruca başlaması gerektiğini ve o günün Ramazan'dan olduğunu biliyorsa orucunu bozmaması gerektiğini söylediğini duyduğunu aktardı. Ayrıca, \"Şevval'in yeni ayını yalnız başına gören birinin orucunu bozmaması gerekir, çünkü aralarındaki birinin orucu bozmasına dair güvenilirlikleri sorgulanır. Böyle insanlar yeni ayı gördüklerinde, 'Yeni ayı gördük' demelidirler. Gündüz Şevval'in yeni ayını gören kimse orucunu bozmasın, o günün geri kalanında orucuna devam etsin. Çünkü bu, gerçekten de gelecek gecenin yeni ayıdır.\" dediğini aktardı."
+    },
+    {
+      "id": 6,
+      "narrator": "",
+      "text": "Yahya, Malik'in, \"Eğer insanlar Fıtır günü oruç tutuyorlarsa ve bunun hala Ramazan olduğunu düşünüyorlarsa ve kesin bir delil onlara ulaşırsa ki Ramazan'ın yeni ayı bir gün önce görülmüştür ve şimdi otuz birinci güne girmişlerdir, o zaman o gün oruçlarını, haber kendilerine ulaştığı anda, ne zaman olursa olsun bozmaları gerekir. Ancak, güneşin batmaya başladığı zaman haber gelirlerse, id namazını kılmazlar.\" dediğini aktardı."
+    },
+    {
+      "id": 7,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Nafi'den, Abdullah ibn Umar'ın \"Sadece sabahdan önce oruç tutma niyetinde bulunan kimse (gerçekten) oruç tutar.\" dediğini aktardı."
+    },
+    {
+      "id": 8,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Ibn Shihab'dan, A'işe ve Hafsa'nın, Allah'ın Resulü'nün, ona salat ve selam olsun, bunu da söylediklerini aktardı."
+    },
+    {
+      "id": 9,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abu Hazim ibn Dinar'dan, Sahl ibn Sad as Saidi'den, Allah'ın Resulü'nün, ona salat ve selam olsun, \"İnsanlar orucu çabuk açtıkları sürece hayırda kalacaklardır.\" dediğini aktardı."
+    },
+    {
+      "id": 10,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abd ar-Rahman ibn Harmala al-Aslami'den, Said ibn al-Musayyab'dan, Allah'ın Resulü'nün, ona salat ve selam olsun, \"İnsanlar orucu çabuk açtıkları sürece hayırda kalacaklardır.\" dediğini aktardı."
+    },
+    {
+      "id": 11,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Ibn Shihab'dan, Humayd ibn Abd ar-Rahman'dan, Umar ibn al-Khattab ve Uthman ibn Affan'ın, akşam karardığında, oruçlarını bozmadan önce maghrib namazı kıldıklarını, bunun Ramazan'da olduğunu aktardı."
+    },
+    {
+      "id": 12,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abdullah ibn Abd ar-Rahman ibn Mamar al-Ansari'den, Abu Yunus, A'işe'nin kölesi, A'işe'den, bir adamın kapıda durup Allah'ın Resulü'ne, ona salat ve selam olsun, \"Ya Resulallah, ben sabah junub olarak uyanıyorum, büyük bir ritüel kirliliği içinde ve oruç tutmak istiyorum.\" dediğini, Allah'ın Resulü'nün, ona salat ve selam olsun, \"Ben de sabah junub olarak uyanıyorum ve oruç tutmak istiyorum, bu yüzden gusül alıyorum ve oruç tutuyorum.\" dediğini aktardı. Adam ona, \"Sen bizim gibi değilsin. Allah, geçmişteki ve gelecekteki tüm günahlarını affetti.\" dedi. Allah'ın Resulü, ona salat ve selam olsun, öfkelendi ve \"Vallahi, Allah'tan en çok korkan ve O'na karşı en bilgili olanım.\" dedi."
+    },
+    {
+      "id": 13,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abd Rabbih ibn Said'den, Abu Bakr ibn Abd ar-Rahman ibn al-Harith ibn Hisham'dan, A'işe ve Umm Salama'nın, Allah'ın Resulü'nün, ona salat ve selam olsun, Ramazan'da cinsel ilişkiden dolayı sabah junub olarak uyanıp oruç tuttuğunu aktardıklarını duyduğunu aktardı."
+    },
+    {
+      "id": 14,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Sumayy, Abu Bakr ibn Abd ar-Rahman ibn al-Harith ibn Hisham'ın kölesinden, onun Abu Bakr ibn Abd ar-Rahman ibn al-Harith ibn Hisham'ın, \"Babam ve ben Marwan ibn al-Hakam ile birlikteydik, o Medine'nin emiriydi ve birisi ona Abu Hurayra'nın, 'Eğer bir kimse sabah junub olarak uyanırsa, o gün orucu bozmuştur.' dediğini aktardı. Marwan, 'Vallahi, Abdar-Rahman, iki ümmi'l-müminin, A'işe ve Umm Salama'ya gitmeli ve onlara bunu sormalısın.' dedi."
+    },
+    {
+      "id": 15,
+      "narrator": "",
+      "text": "Abd ar-Rahman, A'işe'yi ziyaret etti ve ben de onunla birlikteydim. Ona selam verdi ve sonra, 'Ümmi'l-müminin, Marwan ibn al-Hakam ile birlikteydik ve birisi ona Abu Hurayra'nın, 'Eğer bir kimse sabah junub olarak uyanırsa, o gün orucu bozmuştur.' dediğini aktardı. A'işe, 'Abd ar-Rahman, Abu Hurayra'nın dediği gibi değil. Allah'ın Resulü'nün, ona salat ve selam olsun, yaptığı şeyden hoşlanmıyor musun?' dedi. Abd ar-Rahman, 'Hayır, vallahi.' dedi. A'işe, 'Ben şahitlik ederim ki Allah'ın Resulü, ona salat ve selam olsun, sabah junub olarak cinsel ilişkiden uyanır ve o gün oruç tutardı.' dedi."
+    },
+    {
+      "id": 16,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Yahya ibn Said'den, Atika bint Zayd ibn Amr ibn Nufayl'in, Umar ibn al-Khattab'ın eşi, oruçlu olduğu zaman Umar ibn al-Khattab'ın başını öptüğünü ve onun ona bunu yapmamasını söylemediğini rivayet etti."
+    },
+    {
+      "id": 17,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abu'n-Nadr, Umar ibn Ubaydullah'ın kölesinden, A'isha bint Talha'nın ona, bir gün A'isha, Peygamber'in eşi, oruçlu olan kocasının yanına geldiğini ve onu orada ziyaret ettiğini söylediğini rivayet etti. (O, Abdullah ibn Abd ar-Rahman ibn Abi Bakras-Siddiq'ti.) A'isha ona, \"Karına yaklaşmanı, onu öpmeni ve onunla şakalaşmanı ne engelliyor?\" dedi. O da, \"Oruçluyken onu öpebilir miyim?\" dedi. A'isha, \"Evet,\" dedi."
+    },
+    {
+      "id": 18,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Zayd ibn Aslam'dan, Abu Hurayra ve Sad ibn Abi Waqqas'ın oruçlu olan birinin öpmesine izin verildiğini söylediklerini rivayet etti."
+    },
+    {
+      "id": 19,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, A'isha'nın, Peygamber'in, Allah ona salat ve selam eylesin, oruçlu iken öptüğünü söylediğinde, \"Sizden kim, Peygamber'in kendisini kontrol etme konusunda daha yeteneklidir?\" dediğini duyduğunu rivayet etti."
+    },
+    {
+      "id": 20,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Hisham ibn Urwa ibn az-Zubayr'ın, \"Oruçlu olan insanlar için öpmenin hayra davet ettiğini düşünmüyorum,\" dediğini aktardı."
+    },
+    {
+      "id": 21,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Zayd ibn Aslam'dan, Ata ibn Yasar'dan, Abdullah ibn Abbas'a oruçlu iken insanların öpmesi hakkında sorulduğunda, yaşlılar için buna izin verdiğini, ancak gençler için hoş karşılamadığını söylediğini rivayet etti."
+    },
+    {
+      "id": 22,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Nafi'den, Abdullah ibn Umar'ın oruçlu olanların öpmesini ve okşamasını yasakladığını rivayet etti."
+    },
+    {
+      "id": 23,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Ibn Shihab'dan, Ubaydullah ibn Abdullah ibn Utba ibn Masud'dan, Abdullah ibn Abbas'tan, Peygamber'in, Allah ona salat ve selam eylesin, fetih yılı Ramazan'da Mekke'ye gittiğini ve al-Kadid'e ulaşana kadar oruç tuttuğunu, ardından orucunu açtığını ve diğer herkesin de öyle yaptığını rivayet etti. İnsanlar, Peygamber'in en son ne yaptıysa ona göre hareket ederlerdi."
+    },
+    {
+      "id": 24,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Sumayy, Abu Bakr ibn Abd ar-Rahman'ın kölesinden, Abu Bakr ibn Abd ar-Rahman'dan, Peygamber'in, Allah ona salat ve selam eylesin, fetih yılı yaptığı yolculukta herkesin orucunu açmasını emrettiğini, \"Düşmanınıza karşı güçlü olun,\" derken, Peygamber'in oruç tutmaya devam ettiğini rivayet etti. Abu Bakr, bu bilgiyi kendisine ileten kişinin, \"Peygamber'i, Allah ona salat ve selam eylesin, al-Arj'de başına su dökerken gördüm, ya susuzluktan ya da sıcaktan. Sonra birisi Peygamber'e, Allah ona salat ve selam eylesin, 'Peygamberim, bir grup insan seninle oruç tutmaya devam etti,' dedi. Sonra Peygamber al-Kadid'de iken, bir içme kabı istedi ve içti, herkes de orucunu açtı,\" dediğini aktardı."
+    },
+    {
+      "id": 25,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Humayd at-Tawil'den, Anas ibn Malik'in, \"Bir zamanlar Peygamber'le, Allah ona salat ve selam eylesin, Ramazan'da seyahat ettik ve oruçlu olanlar oruç tutmayanları kınamadı, oruç tutmayanlar da oruç tutanları kınamadı,\" dediğini rivayet etti."
+    },
+    {
+      "id": 26,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Hisham ibn Urwa'dan, babasından, Hamza ibn Amr al-Aslami'nin bir gün Peygamber'e, Allah ona salat ve selam eylesin, \"Peygamberim, ben oruç tutan bir adamım. Seyahat ederken oruç tutabilir miyim?\" dediğini, Peygamber'in de, \"İstersen oruç tutabilirsin, istersen orucunu açabilirsin,\" dediğini rivayet etti."
+    },
+    {
+      "id": 27,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Nafi'den, Abdullah ibn Umar'ın seyahat ederken oruç tutmadığını rivayet etti."
+    },
+    {
+      "id": 28,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Hisham ibn Urwa'nın, \"Babam Urwa, Ramazan'da seyahat ederdi ve biz de onunla seyahat ederdik, o oruç tutarken biz orucumuzu açardık ve bize oruç tutmamızı söylemezdi,\" dediğini aktardı."
+    },
+    {
+      "id": 29,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Umar ibn al-Khattab'ın, Ramazan'da seyahat ederken günün başında Medine'ye ulaşacağını bildiğinde oruçlu olarak yolculuk yaptığını duyduğunu rivayet etti."
+    },
+    {
+      "id": 30,
+      "narrator": "",
+      "text": "Yahya, Malik'in, \"Seyahat eden birisi, günün ilk kısmında halkına ulaşacağını biliyorsa ve oraya vardığında sabah ezanı okunursa, orada oruçlu olmalıdır,\" dediğini aktardı."
+    },
+    {
+      "id": 31,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Ata ibn Abdullah al-Horasani'den, Said ibn al-Musayyab'ın şöyle dediğini aktardı: \"Bir bedevi, Allah'ın Resulü'ne, Allah ona salat ve selam eylesin, göğsünü döverek ve saçlarını yolup, 'Ben mahvoldum.' diyerek geldi. Allah'ın Resulü, Allah ona salat ve selam eylesin, 'Neden böyle?' dedi. O da, 'Ramazan'da oruçlu iken eşimle cinsel ilişkiye girdim.' dedi. Allah'ın Resulü, Allah ona salat ve selam eylesin, ona, 'Bir köle azat edebiliyor musun?' diye sordu, adam 'Hayır.' dedi. Sonra, 'Bir develerini sadaka olarak verebilir misin?' diye sordu, adam 'Hayır.' dedi. 'Otur.' dedi ve birisi Allah'ın Resulü'ne, Allah ona salat ve selam eylesin, büyük bir hurma sepeti getirdi. O da adama, 'Bunu al ve sadaka olarak dağıt.' dedi. Adam, 'Benden daha muhtaç olan yok.' dedi, (Allah'ın Resulü, Allah ona salat ve selam eylesin) 'Onları ye ve cinsel ilişkiye girdiğin gün için bir gün oruç tut.' dedi.\" Malik, Ata'nın, Said ibn al-Musayyab'a o sepetin içinde kaç hurma olduğunu sorduğunu ve onun \"On beş ile yirmi arasında.\" dediğini aktardı."
+    },
+    {
+      "id": 32,
+      "narrator": "",
+      "text": "Malik dedi ki: \"Bilgili insanların, Allah'ın Resulü'nün, Allah ona salat ve selam eylesin, Ramazan'da gündüz eşleriyle cinsel ilişkiye giren bir adam için belirttiği kefaretin, Ramazan orucunu kaza eden birinin, eşleriyle cinsel ilişkiye girerek orucunu bozması durumunda gerekli olmadığını söylediklerini duydum. O sadece o günü kaza etmelidir.\" Malik dedi ki: \"Bu konu hakkında duyduğum şeylerin en çok hoşuma gidenidir.\""
+    },
+    {
+      "id": 33,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Nafi'den, Abdullah ibn Umar'ın oruçlu iken hacamat yaptırdığını aktardı. Nafi dedi ki: \"Sonra bunu yapmayı bıraktı ve oruçlu iken hacamat yaptırmadı, orucunu açmadan önce.\""
+    },
+    {
+      "id": 34,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, İbn Şihab'dan, Sad ibn Abi Waqqas ve Abdullah ibn Umar'ın oruçlu iken hacamat yaptırdıklarını aktardı."
+    },
+    {
+      "id": 35,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Hişam ibn Urva'dan, babasının oruçlu iken hacamat yaptırdığını ve sonra orucunu açmadığını aktardı. Hişam ekledi: \"Onun oruçlu iken hacamat yaptırdığını sadece oruçlu iken gördüm.\" Malik dedi ki: \"Hacamat, oruçlu olan birinin zayıf düşmesinden korkulduğu için hoş karşılanmaz; eğer bu olmasa, hoş karşılanmazdı. Ramazan'da hacamat yaptıran ve orucunu açmayan bir adamın bir şey borçlu olduğunu düşünmüyorum ve hacamat yaptırdığı gün için orucunu kaza etmesi gerektiğini söylemiyorum, çünkü hacamat, oruçlu olan birinin orucunun tehlikeye girmesi durumunda hoş karşılanmaz. Hacamat yaptıran ve akşam oruç tutacak kadar sağlıklı olan birinin de bir şey borçlu olduğunu düşünmüyorum, ne de o gün için orucunu kaza etmesi gerektiğini.\""
+    },
+    {
+      "id": 36,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Hişam ibn Urva'dan, babasından, Peygamberin eşi A'işe'nin, Allah ona salat ve selam eylesin, \"Aşura günü, Kureyş'in cahiliye döneminde oruç tuttuğu bir gündü ve Allah'ın Resulü, Allah ona salat ve selam eylesin, cahiliye döneminde de oruç tutardı. Sonra Allah'ın Resulü, Allah ona salat ve selam eylesin, Medine'ye geldiğinde oruç tuttu ve oruç tutulmasını emretti. Sonra Ramazan farz kılındı ve bu, Aşura'nın yerine farz oldu, ama kim isterse oruç tutar, kim istemezse oruç tutmaz.\" dediğini aktardı."
+    },
+    {
+      "id": 37,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, İbn Şihab'dan, Humayd ibn Abd ar-Rahman ibn Awf'ın, Muaviye ibn Abi Sufyan'ın Aşura günü, haccını yaptığı yıl, minberden şöyle dediğini duyduğunu aktardı: \"Medine halkı, alimleriniz nerede? Allah'ın Resulü, Allah ona salat ve selam eylesin, bu gün hakkında 'Bu Aşura günüdür ve bunun orucu sizlere farz kılınmamıştır. Ben oruç tutuyorum, ve sizden kim oruç tutmak isterse tutabilir, kim de istemezse tutmak zorunda değildir.' dediğini duydum.\""
+    },
+    {
+      "id": 38,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Umar ibn al-Khattab'ın al-Harith ibn Hisham'a şu mesajı gönderdiğini duydu: \"Yarın Aşura günü, oruç tut ve ailene de oruç tutmalarını söyle.\""
+    },
+    {
+      "id": 39,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Muhammad ibn Yahya ibn Habban'dan, al-Araj'dan, Abu Hurayra'nın, Allah'ın Resulü'nün, Allah ona salat ve selam eylesin, iki günde oruç tutmayı yasakladığını, bunların Fıtır ve Adha günü olduğunu aktardığını duydu."
+    },
+    {
+      "id": 40,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, bilgili insanların, \"Allah'ın Resulü'nün, Allah ona salat ve selam eylesin, oruç tutmayı yasakladığı günlerde, yani Mina günleri, Adha günü ve Fıtır günü oruç açıldığı sürece sürekli oruç tutmanın bir zararı yoktur.\" dediğini duydu. Malik dedi ki: \"Bu konu hakkında duyduğum şeylerin en çok hoşuma gidenidir.\""
+    },
+    {
+      "id": 41,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Nafi'den, Abdullah ibn Umar'ın, Allah'ın Resulü'nün, Allah ona salat ve selam eylesin, iki günden fazla oruç tutmayı yasakladığını ve arada orucunu açmadan oruç tutmanın caiz olmadığını aktardığını duydu. Onlar, \"Ama Allah'ın Resulü, siz wisal yapıyorsunuz.\" dediler. O da, \"Ben sizin gibi değilim. Bana yemek ve içecek veriliyor.\" diye cevap verdi."
+    },
+    {
+      "id": 42,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abu'z-Zinad'dan, al-Araj'dan, Abu Hurayra'nın, Allah'ın Resulü'nün, Allah ona salat ve selam eylesin, \"Wisaldan sakının. Wisaldan sakının.\" dediğini aktardığını duydu. Onlar, \"Ama siz wisal yapıyorsunuz, Allah'ın Resulü.\" dediler. O da, \"Ben sizin gibi değilim. Rabbim bana yemek ve içecek veriyor.\" diye cevap verdi."
+    },
+    {
+      "id": 43,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, \"Bir insanın, birini yanlışlıkla öldürdüğü veya dhihar boşaması nedeniyle iki ay arka arkaya oruç tutması gerektiği durumda, hastalanıp orucunu açmak zorunda kalması durumunda, eğer hastalığından iyileşip oruç tutacak kadar güçlenirse, bunu geciktirmemesi gerektiğini, orucuna kaldığı yerden devam etmesi gerektiğini duyduğumu aktardı. Benzer şekilde, birini yanlışlıkla öldürdüğü için oruç tutması gereken bir kadın, adet döneminden sonra temizlendiğinde orucunu yeniden başlatmayı geciktirmemelidir. O da orucuna kaldığı yerden devam etmelidir. Allah'ın Kitabı'na göre, iki ay arka arkaya oruç tutması gereken hiç kimse, hastalık veya adet gibi bir sebep olmadan orucunu açamaz. Seyahat edip orucunu açmamalıdır.\" Malik dedi ki: \"Bu konu hakkında duyduğum en iyi şey budur.\""
+    },
+    {
+      "id": 44,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, \"Bilgili insanlardan duyduğum şey, bir adamın oruç tutmasını çok zorlaştıran ve onu yıpratan bir hastalığa yakalanması durumunda, orucunu açabileceğidir. Bu, namazda da hastalar için geçerlidir; ayakta durmak onlara çok zor ve yorucu gelir (ve Allah, kuldan daha iyi bilir ki bu onun için bir mazerettir ve gerçekten tarif edilemez). Eğer adam bu durumda ise oturarak namaz kılar ve Allah'ın dini kolaylıktır. Allah, yolcunun seyahat ederken orucunu açmasına izin vermiştir ve o, hasta birinden daha fazla oruç tutma gücüne sahiptir. Allah, yüce kitabında, 'İçinizden kim hasta veya yolculukta olursa, (başka günlerde) oruç tutmalıdır.' demiştir ve böylece Allah, yolcunun seyahat ederken orucunu açmasına izin vermiştir ve o, hasta birinden daha fazla oruç tutma kapasitesine sahiptir.\" dediğini aktardı."
+    },
+    {
+      "id": 45,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Said ibn al-Musayyab'a, bir adamın bir ay oruç tutma vaadiyle oruç tutup tutamayacağını sorduğunu ve Said'in, \"Önce vaadini yerine getirmelidir, sonra gönüllü oruç tutmalıdır.\" dediğini aktardı. Malik dedi ki: \"Bunu Sulayman ibn Yasar'dan da duydum.\" Malik dedi ki: \"Eğer birisi, bir köle azat etme, oruç tutma veya sadaka verme veya bir deve verme vaadiyle ölürse ve vasiyetinde, vaadinin yerine getirilmesini mirasından istemişse, o zaman sadaka veya deve bağışı, mirasının üçte birinden alınır. Bu, diğer vasiyetlere tercih edilir, benzer şeyler hariç, çünkü vaadiyle ona farz kılınmıştır ve bu, gönüllü bağışlar için geçerli değildir. (Vaatler ve gönüllü bağışlar) mirasının sınırlı bir üçte birinden karşılanır, tamamından değil, çünkü eğer ölen kişi tüm mirasını tasarruf etme özgürlüğüne sahip olursa, kendisine farz kılınan şeyleri (yani vaadlerini) yerine getirmeyi geciktirebilir. Böylece ölüm geldiğinde ve miras mirasçıların eline geçtiğinde, böyle şeyleri (yani vaadlerini) kimsenin talep etmediği şekilde vasiyet etmiş olur (borçlar gibi). Eğer (mülkünü serbestçe tasarruf etme hakkı) ona tanınsaydı, bu şeyleri (yani vaadlerini) ölümüne yakın bir zamanda geciktirip belirleyebilir ve tüm mirasını alabilir. Bunu yapmamalıdır.\""
+    },
+    {
+      "id": 46,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abdullah ibn Ömer'in birisine \"Birisi başkası için oruç tutabilir mi, yoksa başkası için namaz kılabilir mi?\" diye sorulduğunu ve onun \"Hiç kimse başkası için oruç tutamaz veya namaz kılamaz.\" diye cevap verdiğini aktardı."
+    },
+    {
+      "id": 47,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Zeyd ibn Aslam'dan, kardeşi Halid ibn Aslam'dan, Ömer ibn el-Hattab'ın bir gün bulutlu bir günde orucunu açtığını, akşamın geldiğini ve güneşin battığını düşündüğünü aktardı. Sonra bir adam ona geldi ve \"Ameer al-muminin, güneş çıktı.\" dedi. Ömer, \"Bu kolay bir mesele. Bu bizim çıkarımımızdı (ijtihad).\" dedi. Malik, \"Bizim düşündüğümüze göre, Allah en iyi bilendir, 'Bu kolay bir mesele' derken kastedilen, orucu telafi etmekti ve bunun ne kadar az bir çaba gerektirdiği ve ne kadar kolay olduğu idi. O, 'Yerine başka bir gün oruç tutarız.' demek istiyordu.\" dedi."
+    },
+    {
+      "id": 48,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Nafi'den, Abdullah ibn Ömer'in \"Ramazan'da hastalık veya seyahat nedeniyle orucu bozan birisi, kaçırdığı günleri peş peşe telafi etmelidir.\" dediğini aktardı."
+    },
+    {
+      "id": 49,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Nafi'den, Abdullah ibn Abbas ile Ebu Hureyre'nin Ramazan'da kaçırılan günlerin telafisi hakkında farklı düşündüklerini aktardı. Birisi bunların ayrı ayrı yapılması gerektiğini, diğeri ise peş peşe yapılması gerektiğini söyledi. Hangisinin ayrı ayrı yapılması gerektiğini bilmedi."
+    },
+    {
+      "id": 50,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Nafi'den, Abdullah ibn Ömer'in \"Eğer birisi oruçlu iken kendini kusturursa, bir günü telafi etmesi gerekir, ama eğer kusmaktan kaçınamazsa, hiçbir şey telafi etmesi gerekmez.\" dediğini aktardı."
+    },
+    {
+      "id": 51,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Yahya ibn Said'den, Said ibn el-Musayyib'in Ramazan'da kaçırılan günlerin telafisi hakkında sorulduğunu ve Said'in \"Ramazan'da kaçırılan günlerin peş peşe telafi edilmesini en çok seviyorum, ayrı ayrı değil.\" dediğini aktardı. Yahya, Malik'in Ramazan'da kaçırdığı günleri ayrı ayrı telafi eden biri hakkında \"Onları tekrar etmesine gerek yok. Yaptığı yeterlidir.\" dediğini duyduğunu aktardı. Ancak, peş peşe yapmasının tercih edilir olduğunu belirtti. Malik, \"Ramazan'da veya başka bir farz oruçta dikkatsizce veya unutkanlıkla yiyip içen kimse, yerine başka bir gün oruç tutmalıdır.\" dedi."
+    },
+    {
+      "id": 52,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Humayd ibn Oays el-Mekki'nin \"Kabe etrafında tavaf ederken Mujahid ile birlikteydim, bir adam ona geldi ve kefaret günlerinin peş peşe tutulup tutulamayacağını sordu. Ben de 'Evet, istenirse ayrı ayrı tutulabilir.' dedim. Mujahid, 'Ayrı ayrı tutulmamalıdır, çünkü Ubayy ibn Kab'ın okumasında bunlar üç peş peşe gün olarak geçmektedir.' dedi.\" şeklinde aktardığını söyledi. Malik, \"En çok sevdiğim, Allah'ın Kur'an'da belirttiği gibi, bunların peş peşe tutulmasıdır.\" dedi. Malik, Ramazan'da oruç tutmaya başlayan bir kadının, adet döneminin dışında olmasına rağmen taze kan (yani adet kanı değil) akması durumunda ne yapması gerektiği sorulduğunda, \"Bu kan adet kanı gibidir. Onu gördüğünde orucunu bozmalı ve ardından kaçırdığı günleri telafi etmelidir. Sonra, kan tamamen durduğunda gusül almalı ve oruç tutmalıdır.\" dedi. Malik, Ramazan'ın son gününde Müslüman olan birinin tüm Ramazan'ı telafi edip etmemesi gerektiği sorulduğunda, \"Geçmiş günlerden hiçbirini telafi etmesine gerek yok. O günden itibaren oruç tutmaya başlar. En çok sevdiğim, Müslüman olduğu gün orucunu telafi etmesidir.\" dedi."
+    },
+    {
+      "id": 53,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, İbn Şihab'dan, Peygamber'in (s.a.v.) eşleri A'işe ve Hafsa'nın bir sabah gönüllü olarak oruç tutmaya başladıklarını ve sonra onlara yiyecek verildiğini ve bununla oruçlarını açtıklarını aktardı. Sonra Allah'ın Elçisi (s.a.v.) içeri girdi. A'işe, \"Hafsa, benim sözümü beklemeden - babası Ömer'e çekti - 'Ey Allah'ın Elçisi, A'işe ve ben sabah gönüllü olarak oruç tutmaya başladık ve sonra bize yiyecek verildi ve bununla orucumuzu açtık.' dedi. Allah'ın Elçisi (s.a.v.) 'Yerine başka bir gün oruç tutun.' dedi.\" şeklinde aktardı."
+    },
+    {
+      "id": 54,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, \"Gönüllü oruç sırasında dikkatsizce veya unutkanlıkla yiyip içen kimse, orucunu tekrar etmesine gerek yoktur, ama o gün boyunca oruç tutmaya devam etmelidir.\" dediğini aktardı. \"Eğer birisi gönüllü oruç tutarken beklenmedik bir durumla karşılaşırsa ve orucunu bozarsa, eğer bu bir sebepten dolayı olmuşsa, orucunu tekrar etmesine gerek yoktur, sadece orucunu bozmak için karar verdiği için değil. Ben, birisi bir akıntı nedeniyle durmak zorunda kaldığında gönüllü bir namazı tekrar etmesi gerektiğini düşünmüyorum.\" Malik, \"Birisi herhangi bir doğru eyleme (salih ameller) başlamışsa, namaz, oruç ve hac gibi, ya da benzeri gönüllü nitelikteki doğru eylemleri tamamlayana kadar durmamalıdır. Eğer tekbir getirirse, iki rekât namaz kılana kadar durmamalıdır. Eğer oruç tutuyorsa, o günün orucunu tamamlayana kadar orucunu bozma hakkına sahip değildir. Eğer ihrama girerse, haccını tamamlayana kadar geri dönmemelidir, ve eğer tavafa başlarsa, Kabe etrafında yedi kez dönene kadar durmamalıdır. Birisi bu eylemlerden herhangi birine başladıktan sonra, onları tamamlayana kadar durmamalıdır, ancak hastalık veya başka bir mazeret gibi bir durum olursa affedilir. Çünkü Allah, Teala, Kitabında 'Ve beyaz ip, siyah ipten size belirgin oluncaya kadar yiyin ve için, sonra akşam oluncaya kadar orucu tamamlayın.' (Bakara 2:187) demektedir, bu yüzden orucunu Allah'ın söylediği gibi tamamlamalıdır. Allah, Teala, 'Haccı ve umreyi Allah için tamamlayın.' demektedir, bu yüzden birisi farz haccını (önceki bir zamanda) yaptıktan sonra gönüllü bir hacca ihrama girerse, haccına başladıktan sonra onu bırakıp ihramdan çıkamaz. Gönüllü bir eyleme başlayan herkes, onu tamamlamalıdır, tıpkı farz bir eylemin tamamlanması gerektiği gibi. Bu, duyduğum en iyi şeydir.\" dedi."
+    },
+    {
+      "id": 55,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Anas ibn Malik'in yaşlandığında ve oruç tutamayacak durumda olduğunda fidye ödediğini duyduğunu aktardı. Malik, \"Bunun zorunlu olduğunu düşünmüyorum, ama en çok sevdiğim, bir adamın yeterince güçlü olduğunda oruç tutmasıdır. Kim fidye verirse, her gün için bir mudd yiyecek vermelidir, Peygamber'in (s.a.v.) muddunu kullanarak.\" dedi."
+    },
+    {
+      "id": 56,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abdullah ibn Ömer'in, eğer oruç zor gelirse ve çocuğu için endişeleniyorsa, hamile bir kadının ne yapması gerektiği sorulduğunda, \"Oruç bozulmalı ve her gün için bir mudd buğday vermelidir, Peygamber'in (s.a.v.) muddunu kullanarak.\" dediğini aktardı. Malik, \"İlim ehli, onun kaçırdığı her gün için telafi etmesi gerektiğini düşünmektedir, çünkü Allah, Teala ve Celal, 'Ve sizden kim hasta veya yolculukta olursa, diğer günlerden eşit sayıda oruç tutsun.' demektedir ve hamileliğini ve çocuğu için endişesini bir hastalık olarak değerlendirmektedir.\" dedi."
+    },
+    {
+      "id": 57,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abd ar-Rahman ibn al-Qasim'den, babasının \"Eğer birisi Ramazan'da oruç tutmadığı günleri telafi etmesi gerekiyorsa ve bunu bir sonraki Ramazan gelmeden yapmazsa, oysa bunu yapacak kadar güçlü ise, her kaçırdığı gün için bir mudd buğdayla bir fakiri doyurmalıdır ve ayrıca borçlu olduğu günleri de oruç tutmalıdır.\" dediğini aktardı. Yahya, Malik'ten, Said ibn Jubayr'den de aynı şeyi duyduğunu aktardı."
+    },
+    {
+      "id": 58,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Yahya ibn Said'den, Ebu Selama ibn Abd ar-Rahman'ın A'işe'nin, Peygamber'in (s.a.v.) eşi, \"Ramazan'dan telafi etmem gereken günler vardı ve onları Şaban gelene kadar yapamazdım.\" dediğini aktardığını söyledi."
+    },
+    {
+      "id": 59,
+      "narrator": "",
+      "text": "Yahya related to me from Malik from Abd ar-Rahman ibn al-Qasim\nthat his father used to say, \"If someone has to make up for days not\nfasted in Ramadan and does not do them before the next Ramadan comes\nalthough he is strong enough to do so, he should feed a poor man with\na mudd of wheat for every day that he has missed, and he has to fast\nthe days he owes as well.\"\n\n\nYahya related to me from Malik\nthat he had heard the same thing from Said ibn Jubayr."
+    },
+    {
+      "id": 60,
+      "narrator": "",
+      "text": "Yahya related to me from Malik from Yahya ibn Said from Abu\nSalama ibn Abd ar-Rahman that he heard A'isha, the wife of the\nProphet, may Allah bless him and grant him peace, say, \"I used to have\nto make up days from Ramadan and not be able to do them until Shaban\ncame.\""
+    },
+    {
+      "id": 61,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, insanların Ramazan orucunu kastederek Şaban'da şüpheli bir günde oruç tutmamalarını söylediklerini duyduğunu aktardı. Onlar, o günde oruç tutan kişinin, yeni ayı görmeden bunu yapması durumunda, daha sonra Ramazan'ın bir parçası olduğu anlaşılırsa o günü kaza etmesi gerektiğini düşündüler. O günde nafile oruç tutmanın bir sakıncası olmadığını belirttiler."
+    },
+    {
+      "id": 62,
+      "narrator": "",
+      "text": "Malik dedi ki: \"Bizim yaptığımız budur ve benim gördüğüm, şehrimizdeki ilim sahiplerinin yaptığıdır.\""
+    },
+    {
+      "id": 63,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 64,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abu'n Nadr'dan, Umar ibn Ubaydullah'ın kölesi, Abu Salama ibn Abd ar-Rahman'dan, A'işe'nin, Allah'ın ona rahmet eylemesi için, Peygamber'in eşi olarak şöyle dediğini aktardı: \"Allah'ın Elçisi, Allah ona salat ve selam eylesin, o kadar uzun süre oruç tutardı ki, asla oruç tutmayacak gibi düşünürdük; ve o kadar uzun süre oruç tutmazdı ki, asla tekrar oruç tutmayacak gibi düşünürdük. Allah'ın Elçisi'ni, Allah ona salat ve selam eylesin, Ramazan dışında tam bir ay oruç tutarken hiç görmedim ve Şaban'da yaptığı kadar bir ayda daha fazla oruç tuttuğunu hiç görmedim.\""
+    },
+    {
+      "id": 65,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 66,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abu'z Zinad'dan, al-A'raj'dan, Abu Hurayra'dan, Allah'ın Elçisi'nin, Allah ona salat ve selam eylesin, şöyle dediğini aktardı: \"Oruç sizin için bir korumadır, bu yüzden oruçlu olduğunuzda, ahlaksız veya aptalca davranmayın; eğer biri sizinle tartışır veya size hakaret ederse, 'Ben oruçluyum. Ben oruçluyum.' deyin.\""
+    }
+  ]
+}

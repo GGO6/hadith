@@ -1,0 +1,691 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 135,
+    "arabic": {
+      "title": "سنن الترمذي",
+      "author": "الإمام محمد بن عيسى الترمذي"
+    },
+    "english": {
+      "title": "Jami at-Tirmidhi",
+      "author": "Imam Muhammad ibn Isa at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Narrated 'Ali:",
+      "text": "Ali'den rivayet edilmiştir: Allah'ın Resulü (ﷺ) şöyle buyurmuştur: \"Bir Müslümanın diğer bir Müslümana karşı altı hakkı vardır: Onunla karşılaştığında selam vermek, davet ettiğinde davetini kabul etmek, hapşırdığında ona cevap vermek, hastalandığında ziyaret etmek, vefat ettiğinde cenazesine katılmak ve kendisi için sevdiği şeyleri onun için de sevmektir.\""
+    },
+    {
+      "id": 2,
+      "narrator": "Narrated Abu Hurairah:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Resulü (ﷺ) şöyle buyurmuştur: \"Müminin diğer bir mümine karşı altı hakkı vardır: Hastalandığında onu ziyaret etmek, vefat ettiğinde cenazesine katılmak, davet ettiğinde davetini kabul etmek, onunla karşılaştığında selam vermek, hapşırdığında ona cevap vermek ve yokken onun için hayır dilemek, varken de hayır dilemek.\""
+    },
+    {
+      "id": 3,
+      "narrator": "Narrated Hadrami, the freed slave of the family of Al-Jarud:",
+      "text": "Hadrami, Al-Jarud ailesinin azatlısı, Nafi'den rivayet etmiştir: \"Bir adam İbn 'Umar'ın yanında hapşırdı ve 'Elhamdülillah ve selamun ala Resulillah' dedi. Bunun üzerine İbn 'Umar şöyle dedi: 'Ben de Elhamdülillah ve selamun ala Resulillah derim, fakat bu Allah'ın Resulü (ﷺ) bize öğrettiği şey değil. O bize şöyle demeyi öğretti: 'Elhamdülillah 'ala kulli hal.'\""
+    },
+    {
+      "id": 4,
+      "narrator": "Narrated Abu Musa:",
+      "text": "Ebu Musa'dan rivayet edilmiştir: Yahudiler, Peygamber (ﷺ) huzurunda hapşırır ve onun 'Yarhamukumullah' demesini umarlardı. Bunun üzerine o şöyle dedi: 'Yahdikumullahu ve yuslihu balakum.'\""
+    },
+    {
+      "id": 5,
+      "narrator": "Narrated Salim bin 'Ubaid:",
+      "text": "Salim bin 'Ubaid'den rivayet edilmiştir: Bir grup insanla seyahatteydim, içlerinden bir adam hapşırdı ve 'Selamünaleyküm' dedi. Bunun üzerine o (Salim) şöyle dedi: \"'Aleyküm ve 'Aleyküm ve annene.\" Adamın rahatsız olduğu anlaşıldı, bunun üzerine şöyle dedi: \"Ben sadece Peygamber (ﷺ) ne dedi ise onu söyledim; Peygamber (ﷺ) huzurunda bir adam hapşırdı ve 'Selamünaleyküm' dedi, Peygamber (ﷺ) de 'Aleyküm ve annene' dedi. Sizden biri hapşırdığında 'Elhamdülillahi Rabbil-âlemin' desin, ona cevap veren de 'Yarhamukallah' desin ve o da 'Yaghfirullah li walakum' desin.\""
+    },
+    {
+      "id": 6,
+      "narrator": "Narrated Abu Ayyub:",
+      "text": "Ebu Eyyub'dan rivayet edilmiştir: Allah'ın Resulü (ﷺ) şöyle buyurmuştur: \"Sizden biri hapşırdığında 'Elhamdülillahi 'ala kulli hal' desin. Cevap veren de 'Yarhamukallah' desin. Ona da 'Yahdikumullahu ve yuslihu balakum' desin.\""
+    },
+    {
+      "id": 7,
+      "narrator": "(Another chain) with similar narration.\nHe  said:",
+      "text": "(Benzer bir isnad) O şöyle dedi: Bu hadisi İbn Abi Leyla'dan Şu'be böyle rivayet etti ve 'Ebu Eyyub'dan Peygamber (ﷺ) dedi' dedi. İbn Abi Leyla bu rivayette karışıklık yaptı, bazen 'Ebu Eyyub'dan Peygamber (ﷺ) dedi' bazen de 'Ali'den Peygamber (ﷺ) dedi' şeklinde söyledi, anlam olarak benzerdi."
+    },
+    {
+      "id": 8,
+      "narrator": "",
+      "text": "(Başka bir isnad) Ali'den Peygamber (ﷺ) ile benzer anlamda."
+    },
+    {
+      "id": 9,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir: İki adam Peygamber (ﷺ) huzurunda hapşırdı; o, bunlardan birine cevap verdi, diğerine cevap vermedi. Cevap verilmeyen kişi şöyle dedi: \"Ey Allah'ın Resulü! Sen bu kişiye cevap verdin, bana cevap vermedin?\" Bunun üzerine Allah'ın Resulü (ﷺ) şöyle dedi: \"O, Allah'ı övdü, sen ise O'nu övmedin.\""
+    },
+    {
+      "id": 10,
+      "narrator": "Narrated Iyas bin Salamah:",
+      "text": "İyas bin Selameh'ten rivayet edilmiştir: Babasından: \"Bir adam, Allah'ın Resulü (ﷺ) huzurunda hapşırdı, ben de oradaydım, Allah'ın Resulü (ﷺ) 'Yarhamukallah' dedi. Sonra ikinci ve üçüncü kez hapşırdı. Bunun üzerine Allah'ın Resulü (ﷺ) 'Bu adam soğuk algınlığı geçiriyor.' dedi.\""
+    },
+    {
+      "id": 11,
+      "narrator": "(Another chain) from Iyas bin Salamah from his father, from the Prophet (ﷺ) with similar narration, except that he said to him the third time:",
+      "text": "(Başka bir isnad) İyas bin Selameh'ten babasından, Peygamber (ﷺ) ile benzer rivayet, fakat üçüncü kez ona 'Sen soğuk algınlığı geçiriyorsun.' dedi. Bu, İbn Al-Mubarak'ın rivayetinden daha doğrudur."
+    },
+    {
+      "id": 12,
+      "narrator": "",
+      "text": "Şu'be, bu hadisi İkrime bin Ammar'dan rivayet etti ve bu, Yahya bin Sa'id'in rivayetine benzer. (Bunu destekleyen bir isnad.)"
+    },
+    {
+      "id": 13,
+      "narrator": "And 'Abdur-Rahman bin Mahdi reported it from 'Ikrimah bin 'Ammar and it is similar to the narration of Ibn Al-Mubarak, but he said to him the third time:",
+      "text": "Abdürrahman bin Mahdi, bunu İkrime bin Ammar'dan rivayet etti ve bu, İbn Al-Mubarak'ın rivayetine benzer, fakat ona üçüncü kez 'Sen soğuk algınlığı geçiriyorsun.' dedi. (Bunu destekleyen bir isnad.)"
+    },
+    {
+      "id": 14,
+      "narrator": "Narrated 'Umar bin Ishaq bin Abi Talhah:",
+      "text": "Ömer bin İshak bin Ebi Talha'dan rivayet edilmiştir: Annesinden, dedesinden, o şöyle dedi: \"Allah'ın Resulü (ﷺ) şöyle buyurdu: 'Hapşıran kişiye üç kez cevap verin. Eğer daha fazla hapşırırsa, isterseniz cevap verin, istemezseniz vermeyin.'\""
+    },
+    {
+      "id": 15,
+      "narrator": "Narrated Abu Hurairah:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) hapşırdığında, yüzünü el veya giysisiyle kapatır ve sesi onunla bastırırdı."
+    },
+    {
+      "id": 16,
+      "narrator": "Narrated Abu Hurairah:",
+      "text": "Abu Hurayra'dan rivayet edilmiştir: Allah'ın Resulü (ﷺ) şöyle buyurmuştur: \"Hapşırmak Allah'tandır, esnemek ise Şeytandandır. Sizden biri esnediğinde, ağzını elinin parmaklarıyla kapatsın. Çünkü 'Ah, Ah' dediğinde, Şeytan onun açılışından içten güler.\""
+    },
+    {
+      "id": 17,
+      "narrator": "Narrated Abu Hurairah:",
+      "text": "Abu Hurayra'dan rivayet edilmiştir: Allah'ın Resulü (ﷺ) şöyle buyurmuştur: \"Şüphesiz Allah hapşırmayı sever, esnemeyi ise sevmez. Sizden biri hapşırdığında 'Elhamdülillah (Tüm övgüler Allah'a aittir)' derse, onu duyan herkesin 'Yarhamukallah (Allah seni rahmetine alsın)' demesi hakkıdır. Esneme konusunda ise, sizden biri esnediğinde, bunu mümkün olduğunca bastırmalı ve 'Hah Hah' dememelidir; çünkü bu yalnızca Şeytan'ın onunla alay etmesindendir.\""
+    },
+    {
+      "id": 18,
+      "narrator": "Narrated Abu Yaqzan:",
+      "text": "Abu Yaqzan'dan rivayet edilmiştir: 'Adi - ki o İbn Thabit'tir - babasından, dedesinden: \"Hapşırmak, uyuklamak ve esnemek, Salat esnasında, adet, kusma ve burun kanamaları Şeytandandır.\""
+    },
+    {
+      "id": 19,
+      "narrator": "Narrated Ibn 'Umar:",
+      "text": "İbn Ömer'den rivayet edilmiştir: Allah'ın Resulü (ﷺ) şöyle buyurmuştur: \"Sizden biri, kardeşini yerinden kaldırıp onun yerine oturmasın.\""
+    },
+    {
+      "id": 20,
+      "narrator": "Narrated Ibn 'Umar:",
+      "text": "İbn Ömer'den rivayet edilmiştir: Allah'ın Resulü (ﷺ) şöyle buyurmuştur: \"Sizden biri, kardeşini yerinden kaldırıp onun yerine oturmasın.\""
+    },
+    {
+      "id": 21,
+      "narrator": "Narrated Wahb bin Hudaifah:",
+      "text": "Wahb bin Hudayfa'dan rivayet edilmiştir: Allah'ın Resulü (ﷺ) şöyle buyurmuştur: \"Bir adam, kendi yerine daha çok hak sahibidir. Eğer bir ihtiyacı için yerinden kalkarsa ve geri dönerse, o zaman kendi yerine daha çok hak sahibidir.\""
+    },
+    {
+      "id": 22,
+      "narrator": "Narrated 'Abdullah bin 'Amr:",
+      "text": "Abdullah bin Amr'dan rivayet edilmiştir: Allah'ın Resulü (ﷺ) şöyle buyurmuştur: \"Bir adamın, iki kişiyi izni olmadan ayırması helal değildir.\""
+    },
+    {
+      "id": 23,
+      "narrator": "Narrated Abu Miljaz:",
+      "text": "Abu Miljaz'dan rivayet edilmiştir: Bir adam bir dairenin ortasında oturdu, bunun üzerine Hudayfa şöyle dedi: \"Muhammed'in (ﷺ) diliyle lanet olsun - ya da - Allah'ın laneti, dairenin ortasında oturan kimse üzerinedir.\""
+    },
+    {
+      "id": 24,
+      "narrator": "Narrated Anas:",
+      "text": "Enes'ten rivayet edilmiştir: \"Onlar için Allah'ın Resulünden (ﷺ) daha sevimli bir kimse yoktu.\" \"Onu gördüklerinde ayağa kalkmazlardı, çünkü onun bunu sevmediğini biliyorlardı.\""
+    },
+    {
+      "id": 25,
+      "narrator": "Narrated Abu Miljaz:",
+      "text": "Abu Miljaz'dan rivayet edilmiştir: Muaviye dışarı çıktı ve Abdullah bin Zübeyr ile İbn Safvan onu gördüklerinde ayağa kalktılar, bunun üzerine o şöyle dedi: \"Oturun, Allah'ın Resulü (ﷺ) şöyle buyurdu: 'Kim, insanların ayakta karşılamasını isterse, ateşte yerini alsın.'\""
+    },
+    {
+      "id": 26,
+      "narrator": "Narrated Abu Hurairah:",
+      "text": "Abu Hurayra'dan rivayet edilmiştir: Allah'ın Resulü (ﷺ) şöyle buyurmuştur: \"Beş şey Fıtrattandır: Kasık kıllarını kesmek, sünnet olmak, bıyığı kısaltmak, koltuk altı kıllarını yolmak ve tırnakları kesmek.\""
+    },
+    {
+      "id": 27,
+      "narrator": "Narrated 'Aishah:",
+      "text": "Aişe'den rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurmuştur: \"On şey Fıtrattandır: Bıyığı kısaltmak, sakalı bırakmak, siwak kullanmak, burnu su ile temizlemek, tırnakları kesmek, parmak eklemlerini yıkamak, koltuk altı kıllarını yolmak, kasık kıllarını traş etmek ve su ile istinca yapmak.\""
+    },
+    {
+      "id": 28,
+      "narrator": "Narrated Anas:",
+      "text": "Enes'ten rivayet edilmiştir: Peygamber (ﷺ) onlara tırnak kesme, bıyık alma ve kasık kıllarını traş etme zamanını her kırk gecede bir olarak belirlemiştir."
+    },
+    {
+      "id": 29,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir: \"Bıyık kısaltma, tırnak kesme, kasık kıllarını traş etme ve koltuk altı kıllarını yolma zamanını belirledi - bunu kırk günden fazla bırakmamamız gerektiğini söyledi.\""
+    },
+    {
+      "id": 30,
+      "narrator": "Narrated Ibn 'Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: \"Peygamber (ﷺ) bıyığını kısaltır ya da alırdı, İbrahim Halilur-Rahman da bunu yapardı.\""
+    },
+    {
+      "id": 31,
+      "narrator": "Narrated Zaid bin Arqam:",
+      "text": "Zaid bin Arqam'dan rivayet edilmiştir: Allah'ın Resulü (ﷺ) şöyle buyurdu: \"Sakalıyla oynamayan bizden değildir.\""
+    },
+    {
+      "id": 32,
+      "narrator": "Narrated 'Amr bin Shu'aib:",
+      "text": "'Amr bin Shu'aib'den, babasından, dedesinden rivayet edilmiştir ki, Peygamber (ﷺ) sakalından, hem genişliğinden hem de uzunluğundan alırdı."
+    },
+    {
+      "id": 33,
+      "narrator": "Narrated Ibn 'Umar:",
+      "text": "İbn 'Umar'dan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle buyurdu: \"Bıyığı kısaltın ve sakalı bırakın.\""
+    },
+    {
+      "id": 34,
+      "narrator": "Narrated Ibn 'Umar:",
+      "text": "İbn 'Umar'dan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) bıyığı kısaltmayı ve sakalı bırakmayı emretmiştir."
+    },
+    {
+      "id": 35,
+      "narrator": "Narrated 'Abbad bin Tamim:",
+      "text": "'Abbad bin Tamim'den, amcasından rivayet edilmiştir ki, Peygamber (ﷺ) mescidde sırt üstü yatarak bir ayağını diğerinin üzerine koyarken gördüm."
+    },
+    {
+      "id": 36,
+      "narrator": "Narrated Jabir:",
+      "text": "Cabir'den rivayet edilmiştir: \"Allah'ın Resulü (ﷺ) Ishtimal As-Samma'yı, bir giysi içinde Al-Ihtiba'yı ve bir adamın sırt üstü yatarak bir ayağını diğerinin üzerine koymasını yasakladı.\""
+    },
+    {
+      "id": 37,
+      "narrator": "Narrated Jabir:",
+      "text": "Cabir'den rivayet edilmiştir: \"Allah'ın Resulü (ﷺ) Ishtimal As-Samma'yı, bir giysi içinde Al-Ihtiba'yı ve bir adamın sırt üstü yatarak bir ayağını diğerinin üzerine koymasını yasakladı.\""
+    },
+    {
+      "id": 38,
+      "narrator": "Narrated Abu Hurairah:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) bir adamın karnına yatarak uzandığını görünce şöyle dedi: \"Gerçekten böyle yatmak Allah katında sevilmez.\""
+    },
+    {
+      "id": 39,
+      "narrator": "Narrated Bahz bin Hakim:",
+      "text": "Bahz bin Hakim'den rivayet edilmiştir: \"Babam, dedemden rivayet etti, o da şöyle dedi: 'Ben dedim ki: \"Ey Allah'ın Resulü! 'Awrah'ımız hakkında neyi örtmemiz, neyi örtmememiz gerekir?\" O da şöyle dedi: \"Eşinden veya sağ elinin sahip olduğu şeyden başka 'Awrah'ını koru.\" Ben de: \"Ya bir adam bir başka adamla?\" dedim. O da: \"Eğer kimsenin görmemesini sağlayabiliyorsan, öyle yap.\" Ben de: \"Ya bir adam yalnızken?\" dedim. O da: \"Allah'tan utanmaya en layık olan O'dur.\"'"
+    },
+    {
+      "id": 40,
+      "narrator": "Narrated Jabir bin Samurah:",
+      "text": "Cabir bin Samurah'dan rivayet edilmiştir: \"Ben, Allah'ın Resulü (ﷺ)'nü bir yastık üzerine sol tarafına yaslanırken gördüm.\""
+    },
+    {
+      "id": 41,
+      "narrator": "Narrated Jabir bin Samurah:",
+      "text": "Cabir bin Samurah'dan rivayet edilmiştir: \"Ben, Peygamber (ﷺ)'i bir yastık üzerine yaslanırken gördüm.\""
+    },
+    {
+      "id": 42,
+      "narrator": "Narrated Abu Mas'ud:",
+      "text": "Ebu Mes'ud'dan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle buyurdu: \"Bir adam kendi hükümranlığında yönetilmez ve evindeki onur yeri izni olmadan oturulmaz.\""
+    },
+    {
+      "id": 43,
+      "narrator": "Narrated 'Abdullah bin Buraidah:",
+      "text": "'Abdullah bin Buraidah'dan rivayet edilmiştir: \"Babam Buraidah'ın şöyle dediğini duydum: 'Ben Peygamber (ﷺ) ile yürüyordum, bir adam ona bir eşekle geldi, o da: \"Ey Allah'ın Resulü! Binebilirsin\" dedi ve adam arka tarafa geçti. Allah'ın Resulü (ﷺ) şöyle dedi: \"Hayvanının önünde oturmak senin daha çok hakkındır, eğer onu benim için ayırmazsan.\" Adam: \"Ben onu senin için ayırdım.\" dedi. O da: 'Bindi.'\""
+    },
+    {
+      "id": 44,
+      "narrator": "Narrated Jabir:",
+      "text": "Cabir'den rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle dedi: \"Anmatınız var mı?\" Ben de: \"Anmatı nereden bulacağız?\" dedim. O da: \"Yakında Anmatınız olacak.\" dedi. O da: \"Ben eşime derdim ki: 'Anmatını gözümün önünden kaldır.' Ama o da: 'Allah'ın Resulü (ﷺ) \"Gerçekten yakında Anmatınız olacak\" demedi mi?' dedi. O da: \"Bunu bıraktım.\" dedi."
+    },
+    {
+      "id": 45,
+      "narrator": "Narrated Iyas bin Salamah:",
+      "text": "İyas bin Salamah'dan, babasından rivayet edilmiştir ki: \"Ben Allah'ın Peygamberi (ﷺ) ile Al-Hasan ve Al-Hüseyin'i, onun gri katırında, Peygamber (ﷺ)'in odasına kadar götürdüm; biri önünde, diğeri arkasında.\""
+    },
+    {
+      "id": 46,
+      "narrator": "Narrated Jabir bin 'Abdullah:",
+      "text": "Jabir bin Abdullah'dan rivayet edilmiştir: \"Ben Allah'ın Resulü'ne (ﷺ) istemeden bakış hakkında sordum, o da bana bakışımı çevirmemi emretti.\""
+    },
+    {
+      "id": 47,
+      "narrator": "Narrated Ibn Buraidah:",
+      "text": "İbn Buraidah'dan rivayet edilmiştir: babasından (Peygamber (ﷺ)'den) şöyle dedi: \"Ey Ali! Bir bakışı başka bir bakışla takip etme, ilk senin içindir, ama sonraki senin için değildir.\""
+    },
+    {
+      "id": 48,
+      "narrator": "Narrated Nabhan the freed slave of Umm Salamah:",
+      "text": "Nabhan, Ümmü Seleme'nin azatlı kölesi olarak rivayet etmiştir: İbn Şihab'a, Ümmü Seleme'nin ona anlattığına göre, o ve Maimunah Allah'ın Resulü (ﷺ) ile birlikteydiler, o şöyle dedi: \"Onunla birlikteyken, İbn Ümmü Mektum geldi ve ona girdi, bu da bizim için örtünmenin emredildiği zamandı. Bunun üzerine Allah'ın Resulü (ﷺ) dedi ki: 'Ona karşı örtünün.' Ben de dedim ki: 'Ey Allah'ın Resulü! O, bizi göremeyecek kadar kör değil mi?' Allah'ın Resulü (ﷺ) dedi ki: 'Siz de mi körsünüz ki, onu göremiyorsunuz?'\""
+    },
+    {
+      "id": 49,
+      "narrator": "Narrated Dhakwan:",
+      "text": "Dhakwan'dan rivayet edilmiştir: Amr bin Al-'As'ın azatlı kölesinden, Amr bin Al-'As'ın ona Asma bint Umais'e girmek için izin istemesi üzerine, onun izin verdiğini söyledi. İhtiyacını tamamladıktan sonra, Amr bin Al-'As'ın azatlı kölesi bunun hakkında sordu, o da şöyle dedi: \"Gerçekten Peygamber (ﷺ) bize -ya da- kadınlara, kocalarının izni olmadan girmemizi yasakladı.\""
+    },
+    {
+      "id": 50,
+      "narrator": "Narrated Usamah bin Zaid, and Sa'eed bin Zaid bin 'Amr bin Nufail:",
+      "text": "Usamah bin Zaid ve Sa'eed bin Zaid bin 'Amr bin Nufail'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Benden sonra insanlar arasında kadınlardan daha zararlı bir Fitne bırakmadım.\""
+    },
+    {
+      "id": 51,
+      "narrator": "",
+      "text": "Benzer bir rivayet ile başka bir isnad"
+    },
+    {
+      "id": 52,
+      "narrator": "Narrated Humaid bin 'Abdur-Rahman:",
+      "text": "Humaid bin 'Abdur-Rahman'dan rivayet edilmiştir: O, Muaviye'nin Medine'de bir hutbe verirken şöyle dediğini duydu: \"Ey Medineliler! Bilginleriniz nerede? Allah'ın Resulü (ﷺ)'nün bu saç örgülerinden (saç) yasakladığını ve 'İsrailoğulları yalnızca kadınları bunları kullandığında helak oldular.' dediğini duydum.\""
+    },
+    {
+      "id": 53,
+      "narrator": "Narrated 'Abdullah:",
+      "text": "Abdullah'dan rivayet edilmiştir: Peygamber (ﷺ) dövme yapan kadınlara ve dövme yaptırmak isteyen kadınlara lanet etti, yüzlerinden güzelleşmek amacıyla Allah'ın yaratılışını değiştiren kadınlara lanet etti."
+    },
+    {
+      "id": 54,
+      "narrator": "Narrated Ibn 'Umar:",
+      "text": "İbn 'Umar'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Allah'ın laneti, saçını uzatan kadınlar ve saçını uzatmak isteyen kadınlar, dövme yapan kadınlar ve dövme yaptırmak isteyen kadınlar üzerinedir.\""
+    },
+    {
+      "id": 55,
+      "narrator": "",
+      "text": "(Başka bir isnad) benzer bir rivayet ile"
+    },
+    {
+      "id": 56,
+      "narrator": "Narrated Ibn 'Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: \"Allah'ın Resulü (ﷺ) erkekleri taklit eden kadınlara ve kadınları taklit eden erkeklere lanet etti.\""
+    },
+    {
+      "id": 57,
+      "narrator": "Narrated Ibn 'Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: \"Allah'ın Resulü (ﷺ) kadınsı davranan erkeklere ve erkeksi davranan kadınlara lanet etti.\""
+    },
+    {
+      "id": 58,
+      "narrator": "Narrated Abu Musa:",
+      "text": "Ebu Musa'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Her göz zina eder, ve bir kadın parfüm kullanıp bir topluluğun yanından geçerse, o da işte böyle bir zina eden gibidir.\""
+    },
+    {
+      "id": 59,
+      "narrator": "Narrated Abu Hurairah:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Resulü (ﷺ) şöyle dedi: \"Erkekler için koku, kokusu belli olan ve rengi gizli olandır; kadınlar için ise, rengi belli olan ve kokusu gizli olandır.\" (Yani evden çıkarken, önceki bölümde belirtildiği gibi. Kocası yanında ise, kadın güzel parfüm kullanabilir.)"
+    },
+    {
+      "id": 60,
+      "narrator": "",
+      "text": "Anlamca benzer başka bir rivayet."
+    },
+    {
+      "id": 61,
+      "narrator": "Narrated 'Imran bin Husain:",
+      "text": "İmrân bin Hüsayn'dan rivayet edilmiştir: \"Peygamber (ﷺ) şöyle buyurdu: 'Şüphesiz erkekler için en güzel koku, kokusu açık olan ve rengi gizli olandır; kadınlar için en güzel koku ise, rengi açık olan ve kokusu gizli olandır.' Ve Mitharatil-Urjawan'ı yasakladı (Mitharah, bir tür eyer örtüsüydü. Bazı âlimler bunun ipekten yapılmış belirli bir tür kumaş olduğunu söylerler ve daha önce 1760 numara altında geçmiştir. Al-Urjawan hakkında ihtilaf vardır, belki de kırmızı olan her şeyi ifade eder, yani Kırmızı Mitahrah, Tuhfat Al-Ahwadhi'ye bakınız).\""
+    },
+    {
+      "id": 62,
+      "narrator": "Narrated Thumamah bin 'Abdullah:",
+      "text": "Thumamah bin Abdullah'dan rivayet edilmiştir: \"Anas parfümü reddetmezdi, ve Anas şöyle dedi: 'Şüphesiz Peygamber (ﷺ) parfümü reddetmezdi.'\""
+    },
+    {
+      "id": 63,
+      "narrator": "Narrated Ibn 'Umar:",
+      "text": "İbn 'Umar'dan rivayet edilmiştir: \"Allah'ın Elçisi (ﷺ) şöyle buyurdu: 'Üç şey vardır ki, bunlar reddedilmez: Yastıklar, yağlar ve süt.'\""
+    },
+    {
+      "id": 64,
+      "narrator": "Narrated Abu 'Uthman An-Nahdi:",
+      "text": "Ebu 'Uthman En-Nahdi'den rivayet edilmiştir: \"Allah'ın Elçisi (ﷺ) şöyle buyurdu: 'Sizden birine bir parfüm verildiğinde onu reddetmeyin, çünkü bu cennetten gelmektedir.'\""
+    },
+    {
+      "id": 65,
+      "narrator": "Narrated 'Abdullah:",
+      "text": "Abdullah'dan rivayet edilmiştir: \"Allah'ın Elçisi (ﷺ) şöyle buyurdu: 'Bir kadın, bir kadına o kadar dokunmamalıdır ki, onu kocasına bakıyormuş gibi tarif edebilsin.'\""
+    },
+    {
+      "id": 66,
+      "narrator": "Narrated 'Abdur-Rahman bin Abi Sa'eed \nfrom his father who said:",
+      "text": "Abdurrahman bin Ebi Sa'id'den, babasından rivayet edilmiştir: \"Allah'ın Elçisi (ﷺ) şöyle buyurdu: 'Bir adam, bir adamın 'Awrah'ına bakmamalıdır, ve bir kadın, bir kadının 'Awrah'ına bakmamalıdır. Bir adam, bir giysi altında bir adamla yalnız kalmamalıdır, ve bir kadın, bir giysi altında bir kadınla yalnız kalmamalıdır.'\""
+    },
+    {
+      "id": 67,
+      "narrator": "Narrated Bahz bin Hakim:",
+      "text": "Bahz bin Hakim'den, babasından, dedesinden rivayet edilmiştir: \"Ben dedim: 'Ey Allah'ın Peygamberi! Bizim 'Awrah'ımız hakkında neyi örtmemiz, neyi bırakmamız gerekir?' O şöyle dedi: 'Kendinizi örtün, sadece eşinizden veya sağ elinizin sahip olduğu şeyden başka.' Ben dedim: 'Ey Allah'ın Elçisi! Peki, bazı insanlar birbirlerinin yanında olduğunda ne olacak?' O şöyle dedi: 'Eğer kimsenin görmesine izin vermeyecek durumda iseniz, o zaman görmesine izin vermeyin.' Ben dedim: 'Ey Allah'ın Peygamberi! Peki, birimiz yalnız kaldığında ne olacak?' O şöyle dedi: 'Allah, insanların utanılacaklarından daha fazla utanılmayı gerektirir.'\""
+    },
+    {
+      "id": 68,
+      "narrator": "Narrated Zur'ah bin Muslim bin Jardah Al-Aslami:",
+      "text": "Zur'ah bin Muslim bin Jardah El-Eslemî'den, dedesi Jarhad hakkında rivayet edilmiştir: \"Peygamber (ﷺ) Jarhad'ın yanından geçerken uyluğu açıkta kalmıştı, o da şöyle dedi: 'Şüphesiz uyluk 'Awrah'dır.'\""
+    },
+    {
+      "id": 69,
+      "narrator": "Narrated 'Abdullah bin Jardah Al-Aslami:",
+      "text": "Abdullah bin Jardah El-Eslemî'den, babasından, Peygamber (ﷺ) şöyle buyurdu: \"Uyluk 'Awrah'dır.\""
+    },
+    {
+      "id": 70,
+      "narrator": "Narrated Ibn 'Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: \"Peygamber (ﷺ) şöyle buyurdu: 'Uyluk 'Awrah'dır.'\""
+    },
+    {
+      "id": 71,
+      "narrator": "Narrated Abu Az-Zinad:",
+      "text": "Ebu Az-Zinâd'dan: \"İbn Jarhad, babasından bana bildirdi ki, Peygamber (ﷺ) yanından geçerken uyluğu açıkta kalmıştı, o da şöyle dedi: 'Uyluğunu ört, çünkü şüphesiz o 'Awrah'dır.'\""
+    },
+    {
+      "id": 72,
+      "narrator": "Narrated Salih bin Abi Hassan:",
+      "text": "Salih bin Ebi Hasan'dan: \"Sa'id bin Musayyab'ın şöyle dediğini duydum: 'Şüphesiz Allah Tayyib'dir (güzel) ve O, Tayyib olanı sever; O, Nazif'dir (temiz) ve O, temizliği sever; O, Karim'dir (cömert) ve O, cömertliği sever. Öyleyse temizleyin' - sanırım şöyle dedi - 'avlularınızı, ve Yahudilere benzemeyin.'\" Dedi ki: \"Bunu Muhacir bin Mismar'a söyledim, o da şöyle dedi: 'Amir bin Sa'd, bunu babasından, Peygamber (ﷺ) den rivayet etti, benzer şekilde, fakat 'Avlularınızı temizleyin' demedi.\""
+    },
+    {
+      "id": 73,
+      "narrator": "Narrated Abu Muhayyah:",
+      "text": "Ebu Muhayyah'dan: Laith, Nafi, İbn 'Umar'dan, Allah'ın Elçisi (ﷺ) şöyle buyurdu: \"Açıkta kalmaktan sakının! Şüphesiz sizinle birlikte, yalnızca dışkılama yerinde ve bir adam karısına girdiğinde sizden ayrılanlar vardır. Onlardan utanın ve onlara saygı gösterin.\""
+    },
+    {
+      "id": 74,
+      "narrator": "Narrated Jabir:",
+      "text": "Cabir'den rivayet edilmiştir: \"Peygamber (ﷺ) şöyle buyurdu: 'Kim Allah'a ve Ahiret Günü'ne inanıyorsa, karısının Hamam'a girmesine izin vermemelidir; kim Allah'a ve Ahiret Günü'ne inanıyorsa, Hamam'a İzar olmadan girmemelidir. Ve kim Allah'a ve Ahiret Günü'ne inanıyorsa, içki dolaşan bir yaygıda oturmamalıdır.'\""
+    },
+    {
+      "id": 75,
+      "narrator": "Narrated Abu 'Udhrah :",
+      "text": "Ebu 'Udhrah'dan: 'Aişe'den, Peygamber (ﷺ) erkekler ve kadınların Hamamlar'dan (Hammam'ın çoğulu) yasaklandığını, sonra erkekler için İzar ile izin verildiğini söyledi.'"
+    },
+    {
+      "id": 76,
+      "narrator": "Narrated Abu Al-Malih Al-Hudhali:",
+      "text": "Ebu Malih el-Hudhali'den rivayet edilmiştir: Hims'ten veya Şam halkından bazı kadınlar Aişe'ye girdiler, o da: \"Siz, kadınlarının Hamam'a girdiği kadınlar mısınız? Ben Allah'ın Elçisi'nin (ﷺ) şöyle dediğini duydum: 'Kendi kocası dışında başka bir yerde kadın elbiselerini çıkarmaz, aksi takdirde kendisi ile Rabbi arasında perdeyi yırtmış olur.'\""
+    },
+    {
+      "id": 77,
+      "narrator": "Narrated Ibn 'Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: \"Ebu Talha'nın şöyle dediğini duydum: 'Ben Allah'ın Elçisi'nin (ﷺ) şöyle dediğini duydum: \"Melekler, içinde köpek veya resim bulunan bir eve girmezler.\"'"
+    },
+    {
+      "id": 78,
+      "narrator": "Narrated Ishaq bin 'Abdullah bin Abi Talhah:",
+      "text": "İshak bin Abdullah bin Ebu Talha'dan rivayet edilmiştir: Rafi' bin İshak ona şöyle bildirdi: \"Ben ve Abdullah bin Ebu Talha, Ebu Said el-Hudri'yi ziyaret etmek için yanına girdik. Ebu Said dedi ki: 'Allah'ın Elçisi (ﷺ) bize bildirdi: \"Melekler, içinde resim veya resim bulunan bir eve girmezler.\"'"
+    },
+    {
+      "id": 79,
+      "narrator": "Narrated Abu Hurairah:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Cebrail bana geldi ve dedi ki: \"Gerçekten ben geçen gece sana gelmiştim, fakat girdiğim evde kapıda erkek resimleri olduğu ve perdede resimler bulunduğu ve evde bir köpek olduğu için giremedim. O halde git ve kapıdaki resmin başını kes, böylece ağaç kütüğü gibi olsun, git ve perdeyi kes ve üzerine oturulacak iki yastık yap, git ve köpeği dışarı at.\" Allah'ın Elçisi (ﷺ) bunu yaptı ve köpek, Hüseyin veya Hasan'a ait bir yavru köpekti, onun eşyalarının altındaydı, bu yüzden onu dışarı atmasını emretti.\""
+    },
+    {
+      "id": 80,
+      "narrator": "Narrated 'Abdullah bin 'Amr:",
+      "text": "Abdullah bin Amr'dan rivayet edilmiştir: \"Bir adam iki kırmızı elbise giymiş olarak yanımdan geçti. O, Peygamber'e (ﷺ) selam verdi ama o selamı geri dönmedi.\""
+    },
+    {
+      "id": 81,
+      "narrator": "Narrated 'Ali bin Abi Talib:",
+      "text": "Ali bin Ebu Talib'den rivayet edilmiştir: \"Allah'ın Elçisi (ﷺ) altın yüzüğü, elmas, mithar ve bira içmeyi yasakladı.\""
+    },
+    {
+      "id": 82,
+      "narrator": "Narrated Al-Bara bin 'Azib:",
+      "text": "Al-Bara bin Azib'den rivayet edilmiştir: \"Allah'ın Elçisi (ﷺ) bize yedi şey emretti ve yedi şeyden de yasakladı. Bize cenazeyi takip etmeyi, hastayı ziyaret etmeyi, hapşırana cevap vermeyi, daveti kabul etmeyi, mazlumun yardımına koşmayı, yemin eden kişiye yardım etmeyi ve selamı geri vermeyi emretti. Yedi şeyden de yasakladı: Altın yüzük, altın halkalar, gümüş kaplar, ipek giymek, dibac, istabraç ve elmas.\""
+    },
+    {
+      "id": 83,
+      "narrator": "Narrated Samurah bin Jundab:",
+      "text": "Semurah bin Cundab'dan rivayet edilmiştir: \"Allah'ın Elçisi (ﷺ) şöyle dedi: 'Beyaz giyin, çünkü gerçekten o çok saf ve temizdir, ölülerinizi onunla kefenleyin.'\""
+    },
+    {
+      "id": 84,
+      "narrator": "Narrated Jabir Bin Samurah:",
+      "text": "Cabir bin Semurah'dan rivayet edilmiştir: \"Ben, Peygamber'i (ﷺ) açık bir gecede gördüm, o zaman Allah'ın Elçisi'ne (ﷺ) ve aya baktım, o kırmızı bir hullah giymişti ve bana aya göre daha güzel görünüyordu.\""
+    },
+    {
+      "id": 85,
+      "narrator": "Shu'bah and Ath-Thawri reported it from Abu Ishaq from Al-Bara bin 'Azib who said:",
+      "text": "Şu'bah ve Es-Savri, Ebu İshak'tan, Al-Bara bin Azib'den rivayet ettiler ki: \"Ben, Allah'ın Elçisi'nde (ﷺ) kırmızı bir hullah gördüm.\" (Başka bir rivayet zinciri.)"
+    },
+    {
+      "id": 86,
+      "narrator": "Narrated Abu Rimthah:",
+      "text": "Ebu Rimthah'tan rivayet edilmiştir: \"Ben, Allah'ın Elçisi'ni iki yeşil burud giymiş olarak gördüm.\""
+    },
+    {
+      "id": 87,
+      "narrator": "Narrated 'Aishah:",
+      "text": "Aişe'den rivayet edilmiştir: \"Allah'ın Elçisi (ﷺ) sabahleyin siyah saçtan yapılmış bir mirtle dışarı çıktı.\""
+    },
+    {
+      "id": 88,
+      "narrator": "Narrated 'Abdullah bin Hassan:",
+      "text": "Abdullah bin Hasan'dan rivayet edilmiştir: Büyükanneleri Safiyye bint Ulaibe ve Dhuheybah bint Ulaibe ona, Qailah bint Makhramah'dan - onlar onun süt anneleri ve Qailah, babalarının büyükannesi - şöyle dediler: \"Biz, Allah'ın Elçisi'ne (ﷺ) geldik\" ve hadisi tam olarak anlattı; \"ta ki güneş doğduğunda bir adam geldi, o da: 'Selamun Aleyk O Allah'ın Elçisi!' dedi. Bunun üzerine Allah'ın Elçisi (ﷺ) dedi: 'Ve Aleyk Selam ve Rahmetullah' ve onun üzerinde iki yırtık kumaş vardı, safranla boyanmış ve solmuştu, elinde de küçük bir hurma dalı vardı.\""
+    },
+    {
+      "id": 89,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir: \"Allah'ın Elçisi (ﷺ) erkekler için safranı yasakladı.\""
+    },
+    {
+      "id": 90,
+      "narrator": "Narrated Ya'la bin Murrah:",
+      "text": "Ya'la bin Murrah'tan rivayet edilmiştir: \"Peygamber (ﷺ) bir adamın kılık kıyafetini gördü ve dedi: 'Git ve onu yıka, sonra yıka, bir daha kullanma.'\""
+    },
+    {
+      "id": 91,
+      "narrator": "Narrated The freed slave of Asma:",
+      "text": "Asma'nın azatlı kölesi tarafından rivayet edilmiştir: İbn 'Umar dedi ki: \"Ben 'Umar'ın, Peygamber (ﷺ) şöyle dediğini duyduğunu işittim: 'Dünyada ipek giyen, Ahiret'te onu giyemeyecektir.'\""
+    },
+    {
+      "id": 92,
+      "narrator": "Narrated Al-Miswar bin Makhramah:",
+      "text": "Al-Miswar bin Makhramah tarafından rivayet edilmiştir: \"Allah'ın Elçisi (ﷺ) bazı örtüler dağıttı ama Makhramah'a hiçbir şey vermedi. Makhramah dedi ki: 'Ey oğlum! Allah'ın Elçisi'ne gidelim.' Ben de onunla gittim. O dedi ki: 'İçeri gir ve benim için onu çağır.' Ben de onun için Peygamberi (ﷺ) çağırdım, sonra Peygamber (ﷺ) dışarı çıktı ve örtülerden birini giyiyordu. O (ﷺ) dedi ki: 'Bunu senin için sakladım.' O dedi ki: 'Ona baktı ve dedi ki: 'Makhramah memnun.'\""
+    },
+    {
+      "id": 93,
+      "narrator": "Narrated 'Amr bin Shu'aib:",
+      "text": "'Amr bin Shu'aib tarafından rivayet edilmiştir: babasından, dedesinden: \"Allah'ın Elçisi (ﷺ) dedi ki: 'Şüphesiz Allah, kulları üzerindeki nimetlerinin sonuçlarını görmeyi sever.'\""
+    },
+    {
+      "id": 94,
+      "narrator": "Narrated Ibn Buraidah:",
+      "text": "İbn Buraidah tarafından rivayet edilmiştir: babasından: \"En-Necashi, Peygamber (ﷺ) için iki siyah sade khuff (ayakkabı) verdi. O da onları giydi, sonra abdest aldı ve üzerlerine meshetti.\""
+    },
+    {
+      "id": 95,
+      "narrator": "Narrated 'Amr bin Shu'aib:",
+      "text": "'Amr bin Shu'aib tarafından rivayet edilmiştir: babasından, dedesinden: \"Peygamber (ﷺ) gri saçları yolmayı yasakladı. Ve dedi ki: 'Bu, Müslümanın ışığıdır.'\""
+    },
+    {
+      "id": 96,
+      "narrator": "Narrated Abu Hurairah:",
+      "text": "Ebu Hureyre tarafından rivayet edilmiştir: \"Allah'ın Elçisi (ﷺ) dedi ki: 'Danışılan kişi emanet edilmiştir.'\""
+    },
+    {
+      "id": 97,
+      "narrator": "Narrated Umm Salamah:",
+      "text": "Ümmü Seleme tarafından rivayet edilmiştir: \"Allah'ın Elçisi (ﷺ) dedi ki: 'Danışılan kişi emanet edilmiştir.'\""
+    },
+    {
+      "id": 98,
+      "narrator": "Narrated Salim and Hamzah, the sons of 'Abdullah bin 'Umar:",
+      "text": "Salim ve Hamza, Abdullah bin 'Umar'ın oğulları tarafından rivayet edilmiştir: babalarından, Allah'ın Elçisi (ﷺ) dedi ki: \"Kötü işaret üçtür: Bir kadın, bir ev ve bir (binen) hayvan.\""
+    },
+    {
+      "id": 99,
+      "narrator": "Narrated 'Abdullah:",
+      "text": "'Abdullah tarafından rivayet edilmiştir: \"Allah'ın Elçisi (ﷺ) dedi ki: 'Eğer aranızda üç kişi varsa, o zaman iki kişi arkadaşlarını dışlayarak konuşmasın.'\""
+    },
+    {
+      "id": 100,
+      "narrator": "Narrated Isma'il bin Abi Khalid:",
+      "text": "İsmail bin Ebi Halid tarafından rivayet edilmiştir: Ebu Cuhayfa dedi ki: \"Ben Allah'ın Elçisi (ﷺ) beyaz ve griye dönmüş olarak gördüm. Al-Hasan bin 'Ali ona en çok benzeyenidir. Bizim için on üç genç dişi deveyi vaad etti, biz de onları almak için gittik. Geldiğimizde o, bize hiçbir şey vermeden vefat etmişti. Bunun üzerine Ebu Bekir (halife olduğunda) dedi ki: 'Eğer Allah'ın Elçisi (ﷺ) kimseye bir vaatte bulunduysa, o kişi ortaya çıksın.' Ben de bunu ona bildirmek için ayağa kalktım ve onlara verilmesini emretti.\""
+    },
+    {
+      "id": 101,
+      "narrator": "Narrated Isma'il bin Abi Khalid:",
+      "text": "İsmail bin Ebi Halid tarafından rivayet edilmiştir: Ebu Cuhayfa dedi ki: \"Ben Peygamberi (ﷺ) gördüm ve Al-Hasan bin 'Ali ona en çok benzeyenidir.\""
+    },
+    {
+      "id": 102,
+      "narrator": "Narrated 'Ali:",
+      "text": "'Ali tarafından rivayet edilmiştir: \"Peygamber (ﷺ) her iki ebeveynini (yani 'Babam ve annem senin uğruna fidye olsun' ifadesinde her ikisini de) Sa'd bin Ebi Vakkas'tan başka hiç kimse için anmadım.\""
+    },
+    {
+      "id": 103,
+      "narrator": "Narrated 'Ali:",
+      "text": "'Ali tarafından rivayet edilmiştir: \"Allah'ın Elçisi (ﷺ) her iki ebeveynini sadece Sa'd bin Ebi Vakkas için anmıştır. Uhud Günü'nde dedi ki: 'At! Babam ve annem senin uğruna fidye olsun.' Ve ona dedi ki: 'At! Ey genç.'\""
+    },
+    {
+      "id": 104,
+      "narrator": "Narrated Sa'd bin Abi Waqqas:",
+      "text": "Sa'd bin Ebi Vakkas tarafından rivayet edilmiştir: \"Allah'ın Elçisi (ﷺ) Uhud Günü'nde bana her iki ebeveynini anmıştır.\""
+    },
+    {
+      "id": 105,
+      "narrator": "Narrated Anas:",
+      "text": "Enes tarafından rivayet edilmiştir: Peygamber (ﷺ) ona dedi ki: \"Ey küçük oğlum.\""
+    },
+    {
+      "id": 106,
+      "narrator": "Narrated 'Amr bin Shu'aib:",
+      "text": "Amr bin Shu'aib'den, babasından, dedesinden rivayet edilmiştir ki, Peygamber (ﷺ) çocuğun yedinci günde isimlendirilmesini, ondan zararların kaldırılmasını ve Al-'Aqq'ı (saçın kesilmesi ve 'Aqiqah için hayvanın kesilmesi) emretmiştir."
+    },
+    {
+      "id": 107,
+      "narrator": "Narrated Ibn 'Umar:",
+      "text": "İbn 'Umar'dan rivayet edilmiştir ki, Peygamber (ﷺ) şöyle buyurmuştur: \"Allah katında en sevimli isimler 'Abdullah' ve 'Abdur-Rahman'dır.\""
+    },
+    {
+      "id": 108,
+      "narrator": "Narrated Ibn 'Umar:",
+      "text": "İbn 'Umar'dan rivayet edilmiştir ki, Peygamber (ﷺ) şöyle buyurmuştur: \"Allah katında en sevimli isimler 'Abdullah' ve 'Abdur-Rahman'dır.\""
+    },
+    {
+      "id": 109,
+      "narrator": "Narrated 'Umar :",
+      "text": "Ömer'den rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurmuştur: \"Rafi, Barakah ve Yasar isimlerini vermeyi yasaklıyorum.\""
+    },
+    {
+      "id": 110,
+      "narrator": "Narrated Samurah bin Jundab:",
+      "text": "Samurah bin Jundab'dan rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurmuştur: \"Oğlunuza Rabah, Aflah, Yasar ve Najih isimlerini vermeyin ki, 'Orada mı?' denildiğinde 'Hayır.' denilsin.\""
+    },
+    {
+      "id": 111,
+      "narrator": "Narrated Al-A'raj:",
+      "text": "El-A'raj'dan rivayet edilmiştir ki, Ebu Hureyre ona şunu iletmiştir: Peygamber (ﷺ) şöyle buyurmuştur: \"Kıyamet Günü Allah katında en aşağılık isim, 'Kralların Kralı' (Malikil-Amlak) olan bir adamın ismidir.\""
+    },
+    {
+      "id": 112,
+      "narrator": "Narrated Ibn 'Umar:",
+      "text": "İbn 'Umar'dan rivayet edilmiştir ki, Peygamber (ﷺ) 'Asiyah'ın ismini değiştirmiştir, şöyle demiştir: \"Sen Jamilah'sın.\""
+    },
+    {
+      "id": 113,
+      "narrator": "Narrated 'Aishah:",
+      "text": "Aişe'den rivayet edilmiştir ki, Peygamber (ﷺ) çirkin isimleri değiştirirdi.\""
+    },
+    {
+      "id": 114,
+      "narrator": "Narrated Muhammad bin Jubair bin Mut'im:",
+      "text": "Muhammed bin Cubeyr bin Mut'im'den, babasından rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurmuştur: \"Bende bazı isimler var: Ben Muhammed'im, ben Ahmed'im, ben Al-Mahi'yim, Allah'ın küfrü silip süpürdüğü kişi, ben Al-Hasir'im, insanların ayakları altında toplandığı kişi, ve ben Al-'Aqib'im, benden sonra hiçbir Peygamber yoktur.\""
+    },
+    {
+      "id": 115,
+      "narrator": "Narrated Abu Hurairah:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir ki, Peygamber (ﷺ) kendi isminin ve Kunyah'ının kullanılmasını yasaklamıştır; kendilerini Muhammad Abul-Qasim olarak isimlendirmelerini."
+    },
+    {
+      "id": 116,
+      "narrator": "Narrated Jabir:",
+      "text": "Cabir'den rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurmuştur: \"Eğer benim adımı alırsanız, o zaman Kunyah'ımı kullanmayın.\""
+    },
+    {
+      "id": 117,
+      "narrator": "Narrated 'Ali bin Abi Talib:",
+      "text": "Ali bin Ebi Talib'den rivayet edilmiştir ki, şöyle demiştir: \"Ey Allah'ın Elçisi (ﷺ)! Eğer senden sonra bir oğlum olursa, onu Kunyah'ım ile isimlendirebilir miyim?\" O da: \"Evet.\" demiştir. Bunun üzerine: \"O zaman bu bana helal kılındı.\" demiştir."
+    },
+    {
+      "id": 118,
+      "narrator": "Narrated 'Abdullah:",
+      "text": "Abdullah'dan rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurmuştur: \"Şüphesiz bazı şiir hikmettir.\""
+    },
+    {
+      "id": 119,
+      "narrator": "Narrated Ibn 'Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurmuştur: \"Şüphesiz bazı şiir hikmettir.\""
+    },
+    {
+      "id": 120,
+      "narrator": "Narrated 'Aishah:",
+      "text": "Aişe'den rivayet edilmiştir: \"Allah'ın Elçisi (ﷺ) için, Hassan'ın Allah'ın Elçisi (ﷺ) hakkında övünmesi (şiirsel olarak) için Mescid'de bir Minber konulmuştur\" - ya da şöyle demiştir: \"Allah'ın Elçisi (ﷺ) için savunma yapması için. Ve Allah'ın Elçisi (ﷺ) şöyle demiştir: 'Şüphesiz Allah, Hassan'ı ruhul kudüs (Cebrail) ile desteklemiştir, o da Allah'ın Elçisi (ﷺ) hakkında övünür ya da onu savunur.'\""
+    },
+    {
+      "id": 121,
+      "narrator": "",
+      "text": "(Aynı rivayet) 'Aişe'den."
+    },
+    {
+      "id": 122,
+      "narrator": "Narrated Anas:",
+      "text": "---"
+    },
+    {
+      "id": 123,
+      "narrator": "Narrated Al-Miqdam bin Shuraih:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) 'Umratil-Qada sırasında Mekkeye girdiğinde, Abdullah bin Rawahah önünde yürüyordu ve şiirler okuyordu. \"Ey inkârcı kabileler, yolunuzdan çekilin - bugün size vahiy hakkında bir darbe vuracağız; omuzlardan başları kaldıran bir darbe - ve dostu dostundan endişe ettirmeyen bir darbe.\" 'Ömer ona dedi: \"Ey İbn Rawahah! Allah'ın Resulü (ﷺ) önünde ve Allah'ın haram bölgesinde şiir mi söylüyorsun?\" Allah'ın Resulü (ﷺ) dedi: \"Bırak onu ey Ömer! Zira bu, onlara yağan bir ok gibi daha hızlı gelir.\""
+    },
+    {
+      "id": 124,
+      "narrator": "Narrated Abu Hurairah:",
+      "text": "---"
+    },
+    {
+      "id": 125,
+      "narrator": "Narrated Jabir bin Samurah:",
+      "text": "Mikdam bin Şureyh'ten rivayet edilmiştir: Babasından, 'Aişe'ye soruldu: \"Peygamber (ﷺ) herhangi bir şiir söyler miydi?\" O da dedi ki: \"İbn Rawahah'ın şiirleriyle örnekler verirdi, 'Size beklemediğiniz yerden haber gelecek.' derdi.\""
+    },
+    {
+      "id": 126,
+      "narrator": "Narrated Abu Hurairah:",
+      "text": "---"
+    },
+    {
+      "id": 127,
+      "narrator": "Narrated Muhammad bin Sa'd bin Abi Waqqas:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) dedi ki: \"Arapların en güzel sözü Labid'in söylediğidir: 'Allah'tan başka her şey yok olur.'\""
+    },
+    {
+      "id": 128,
+      "narrator": "Narrated 'Abdullah bin 'Amr:",
+      "text": "---"
+    },
+    {
+      "id": 129,
+      "narrator": "Narrated Jabir:",
+      "text": "Cabir bin Semure'den rivayet edilmiştir: \"Peygamber (ﷺ) ile yüzden fazla oturdum. Ashabları şiir okur ve Cahiliye döneminde olan şeylerden bahsederlerdi, o da sessiz kalırdı, bazen onlarla birlikte gülümserdi.\""
+    },
+    {
+      "id": 130,
+      "narrator": "Narrated 'Abdullah:",
+      "text": "---"
+    },
+    {
+      "id": 131,
+      "narrator": "",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Resulü (ﷺ) dedi ki: \"Birinizin karnını irinle doldurması, onu şiirle doldurmasından daha iyidir.\""
+    },
+    {
+      "id": 132,
+      "narrator": "Narrated Abu Salih:",
+      "text": "---"
+    },
+    {
+      "id": 133,
+      "narrator": "It has been reported from Hisham bin 'Urwah from his father, that 'Aishah said:",
+      "text": "Muhammed bin Sa'd bin Ebi Vakkas'tan rivayet edilmiştir: Babasından, Allah'ın Resulü (ﷺ) dedi ki: \"Birinizin karnını irinle doldurması, onu şiirle doldurmasından daha iyidir.\""
+    },
+    {
+      "id": 134,
+      "narrator": "Narrated Jabir bin 'Abdullah:",
+      "text": "---"
+    },
+    {
+      "id": 135,
+      "narrator": "Narrated Abu Hurairah:",
+      "text": "Abdullah bin Amr'dan rivayet edilmiştir: Allah'ın Resulü (ﷺ) dedi ki: \"Şüphesiz Allah, dillerini sağa sola savuran, inek gibi dillerini çeviren insanları sevmez.\""
+    }
+  ]
+}

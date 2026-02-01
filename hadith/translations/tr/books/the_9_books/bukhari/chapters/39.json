@@ -1,0 +1,61 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 9,
+    "arabic": {
+      "title": "صحيح البخاري",
+      "author": "الإمام محمد بن إسماعيل البخاري"
+    },
+    "english": {
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Muhammad ibn Ismail al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Narrated Muhammad bin 'Amr Al-Aslami that his father Hamza said:",
+      "text": "Muhammed bin 'Amr El-Aslami'den, babası Hamza'nın şöyle dediği rivayet edilmiştir: 'Ömer (ra) onu (yani Hamza'yı) sadaka/zakat toplayıcısı olarak göndermişti. Bir adam, karısının cariyesine zina etmişti. Hamza, zina edenin kefaletini alana kadar onu korudu ve Ömer'e götürdüler. Ömer, zina edeni yüz sopa vurdu. Ömer, onların iddiasını (zina edenin daha önce cezalandırıldığına dair) doğruladı ve cezasını affetti çünkü cehalet içindeydi."
+    },
+    {
+      "id": 2,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Cerir el-Aş'ath, İbn Mes'ud'a mürtedler (yani İslam'ı kabul ettikten sonra kafir olanlar) hakkında şöyle dedi: \"Onlar tövbe etsinler ve kefalet alınsın.\" Onlar tövbe ettiler ve akrabaları onların kefili oldular."
+    },
+    {
+      "id": 3,
+      "narrator": "Narrated Sa`id bin Jubair:",
+      "text": "Hammad'a göre, bir kişi başka biri için kefil olursa ve o kişi ölürse, kefil olan kişi sorumluluktan kurtulur. Al-Hakam'a göre ise, sorumluluğu devam eder."
+    },
+    {
+      "id": 4,
+      "narrator": "Narrated Anas:",
+      "text": "---"
+    },
+    {
+      "id": 5,
+      "narrator": "Narrated `Asim:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Bir İsrailoğlu, diğer bir İsrailoğlundan bin Dinar borç istedi. İkinci adam tanık istedi. İlk adam, 'Allah yeterince bir tanıktır.' dedi. İkincisi, 'Ben bir kefil istiyorum.' dedi. İlk adam, 'Allah yeterince bir kefildir.' dedi. İkincisi, 'Haklısın,' dedi ve ona belirli bir süre için parayı verdi. Borçlu denizi geçti. İşini bitirdiğinde, borcunu ödemek için bir taşıma aradı ama bulamadı. Bunun üzerine bir parça odun aldı, içine bin Dinar ve alacaklıya bir mektup koydu ve deliği sıkıca kapattı. O parça odunu denize götürdü ve dedi ki: 'Ey Allah! Benim şu kadar Dinarı şu kişiden borç aldığımı çok iyi biliyorsun. O benden bir kefil istedi ama ben ona Allah'ın kefaletinin yeterli olduğunu söyledim ve o da senin kefaletini kabul etti. Sonra tanık istedi ve ben ona Allah'ın yeterli bir tanık olduğunu söyledim, o da seni tanık olarak kabul etti. Şüphesiz, borcunu ödemek için bir taşıma bulmak için çok çabaladım ama bulamadım, bu parayı sana teslim ediyorum.' Bunu söyledikten sonra, o parça odunu denize attı ve uzaklara gitti. Bu arada, alacaklının ülkesine ulaşmak için bir taşıma aramaya başladı."
+    },
+    {
+      "id": 6,
+      "narrator": "Narrated Salama bin Al-Akwa`:",
+      "text": "Bir gün alacaklı, evinden çıkıp parasıyla birlikte bir geminin gelip gelmediğini görmek için dışarı çıktı ve birden, parasıyla birlikte konulduğu odun parçasını gördü. Onu evine götürdü ve ateş için kullanmak üzere kesmeye başladı. Kesince içinde parasını ve mektubunu buldu. Kısa bir süre sonra, borçlu ona bin Dinar getirerek, 'Vallahi, sana parayı getirecek bir tekne bulmak için çok çabaladım ama geldiğim tekne dışında bir tane bulamadım.' dedi. Alacaklı sordu, 'Bana bir şey gönderdin mi?' Borçlu cevapladı, 'Sana geldiğim tekne dışında başka bir tekne bulamadığımı söyledim.' Alacaklı dedi ki, 'Allah, senin adına odun parçasında gönderdiğin parayı ulaştırdı. O halde, bin Dinarını al ve doğru yolda git.'\""
+    },
+    {
+      "id": 7,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "---"
+    },
+    {
+      "id": 8,
+      "narrator": "Narrated Aisha:",
+      "text": "Sa`id bin Cubeyr'den rivayet edilmiştir: İbn Abbas şöyle dedi: \"Ayet: 'Herkese mirasçı tayin ettik' (Nisa 4.33) ve 'Sağ ellerinizin sözleşme yaptığı kimseler' ayeti hakkında İbn Abbas şöyle dedi: 'Müslümanlar Peygamber (ﷺ) ile Medine'ye geldiklerinde, muhacirler, ensarların mirasçısı olurdu, ensarların akrabaları ise, kardeşlik bağı nedeniyle onlardan miras alamazdı. 'Herkese mirasçı tayin ettik' ayeti indiğinde, bu kardeşlik bağını miras konusunda iptal etti.' Sonra şöyle dedi: 'Sağ ellerinizin sözleşme yaptığı kimselerle ilgili ayet ise, işbirliği ve karşılıklı tavsiye konusunda geçerli kalmıştır, miras meselesi ise hariç tutulmuş ve miras hakkına sahip olan kişiye vasiyetle bir şey tayin edilmesi caiz olmuştur.'\""
+    },
+    {
+      "id": 9,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "---"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 21,
+    "arabic": {
+      "title": "صحيح البخاري",
+      "author": "الإمام محمد بن إسماعيل البخاري"
+    },
+    "english": {
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Muhammad ibn Ismail al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Narrated Malik:",
+      "text": "Malik'ten rivayet edilmiştir: Biz, genç adamlar olarak neredeyse eşit yaşlarda, Peygamber (ﷺ)'e geldik ve onunla yirmi gece kaldık. Allah'ın Elçisi (ﷺ) çok nazik bir insandı ve ailelerimizi özlediğimizi fark edince, geride bıraktığımız kişiler hakkında bizden bilgi aldı. Kendisine bildirdiğimizde, \"Ailelerinize dönün ve onlarla kalın, onlara (din) öğretin ve onlara (iyilik yapmaları için) emredin.\" dedi. Peygamber (ﷺ) bazı şeyler söyledi, bazılarını hatırladım, bazılarını hatırlamadım. Sonra dedi ki, \"Beni namaz kılarken gördüğünüz gibi namaz kılın, ve namaz vakti geldiğinde, aranızdan biri ezan okusun ve en yaşlısı namazı kılsın.\""
+    },
+    {
+      "id": 2,
+      "narrator": "Narrated Ibn Mas`ud:",
+      "text": "İbn Mes'ud'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) dedi ki, \"Bilal'in (ezanı) hiç kimseyi sahurunu yapmaktan alıkoymamalıdır; çünkü o, aranızdan kim gece namazı kılıyorsa, geri dönsün (sahurunu yesin) ve aranızdan kim uyuyorsa, kalksın, çünkü henüz şafak vakti değildir (böyle olduğunda).\" (Yahya, alt rivayetçi, iki işaret parmağını yanlara doğru uzattı)."
+    },
+    {
+      "id": 3,
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "Abdullah bin Ömer'den rivayet edilmiştir: Peygamber (ﷺ) dedi ki, \"Bilal gece ezan okur ki, siz Ibn Ümm Mektum ezan okuyana kadar yiyip içebilirsiniz (Fajr namazı için).\""
+    },
+    {
+      "id": 4,
+      "narrator": "Narrated `Abdullah:",
+      "text": "Abdullah'tan rivayet edilmiştir: Peygamber (ﷺ) bize Zuhr namazı kıldırdı ve namaz beş rek'at oldu. Birisi ona namazın artırılıp artırılmadığını sordu. O (Peygamber (ﷺ)) dedi ki, \"O nedir?\" Onlar (insanlar) \"Beş rek'at kıldınız.\" dediler. Bunun üzerine Peygamber (ﷺ) namazını Taslim ile bitirdikten sonra iki secde (Sahu secdeleri) yaptı."
+    },
+    {
+      "id": 5,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) sadece iki rek'at kıldıktan sonra namazını bitirdi. Dhul-Yaddain ona namazın azaltılıp azaltılmadığını veya unuttuğunu sordu. Peygamber (ﷺ) dedi ki, \"Dhul-Yaddain doğru mu söylüyor?\" İnsanlar \"Evet.\" dediler. Bunun üzerine Allah'ın Elçisi (ﷺ) ayağa kalktı ve iki rek'at daha kıldı ve sonra namazı Taslim ile bitirdi, ardından Tekbir getirdi ve normal secdelerinden birine benzer ya da daha uzun bir secde yaptı; sonra başını kaldırdı, Tekbir getirdi ve secde etti, ardından başını kaldırdı (Sahu secdeleri)."
+    },
+    {
+      "id": 6,
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "Abdullah bin Ömer'den rivayet edilmiştir: İnsanlar sabah namazını kılmakta iken, aniden bir kişi onlara geldi ve \"Bu gece İlahi Vahiy, Allah'ın Elçisi (ﷺ)'ne indirilmiştir ve ona Kâbe'ye (namazda) yönelmesi emredilmiştir; bu yüzden sizler de ona yönelmelisiniz.\" dedi. Onların yüzleri Şam'a dönüktü, bu yüzden Kâbe'ye (Mekke) döndüler."
+    },
+    {
+      "id": 7,
+      "narrator": "Narrated Al-Bara':",
+      "text": "El-Bara'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) Medine'ye geldiğinde, on altı veya on yedi ay Kudüs'e doğru namaz kıldı ama Kâbe'ye yönelmesi emredilmesini arzuladı. Bunun üzerine Allah şöyle vahyetti: -- \"Şüphesiz, yüzünüzün göğe dönmesini görüyoruz; elbette sizi hoşnut edeceğimiz bir kıbleye döndüreceğiz.\" (2.144) Böylece Kâbe'ye yönlendirildi. Bir adam, Peygamber (ﷺ) ile `Asr namazı kıldıktan sonra dışarı çıktı ve Ansar'dan bazı insanların yanından geçerken, \"Şahitlik ederim ki, ben Peygamber (ﷺ) ile namaz kıldım ve o (Peygamber) Kâbe'ye doğru namaz kıldı.\" dedi. Bunun üzerine `Asr namazında rükûda bulunanlar Kâbe'ye döndüler."
+    },
+    {
+      "id": 8,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir: Ben, Abu Talha Al-Ansari, Abu 'Ubada bin Al Jarrah ve Ubai bin Ka'b'a infüze edilmiş hurmalardan hazırlanmış içecekler sunardım. Sonra bir kişi onlara geldi ve \"Tüm alkollü içecekler yasaklanmıştır.\" dedi. Abu Talha sonra dedi ki, \"Ey Anas! Kalk ve bu tüm testileri kır.\" Ben kalktım ve bize ait bir havan aldım ve testileri alt kısmıyla vurarak kırdım."
+    },
+    {
+      "id": 9,
+      "narrator": "Narrated Hudhaifa:",
+      "text": "Hudhaifa'dan rivayet edilmiştir: Peygamber (ﷺ) Necirân halkına dedi ki, \"Size gerçekten güvenilir bir kişiyi göndereceğim.\" Peygamber (ﷺ)'in arkadaşları her biri o kişi olmayı arzuladı, ama Peygamber (ﷺ) Abu 'Ubaida'yı gönderdi."
+    },
+    {
+      "id": 10,
+      "narrator": "Narrated Anas:",
+      "text": "Anas'tan rivayet edilmiştir: Peygamber (ﷺ) dedi ki, \"Her milletin bir Emin'i (güvenilir kişi) vardır ve bu milletin Emin'i Abu 'Ubaida'dır.\""
+    },
+    {
+      "id": 11,
+      "narrator": "Narrated `Umar:",
+      "text": "Ömer'den rivayet edilmiştir: Ansar'dan bir adam (benim arkadaşım) vardı. Eğer o, Allah'ın Elçisi (ﷺ)'nin yanında yoksa ben Allah'ın Elçisi (ﷺ)'nin yanında olur, ondan duyduğumu ona söylerdim; ve ben Allah'ın Elçisi (ﷺ)'nin yanında yokken o, onun yanında olurdu ve o da bana Allah'ın Elçisi (ﷺ)'nden duyduğu şeyleri söylerdi."
+    },
+    {
+      "id": 12,
+      "narrator": "Narrated `Ali:",
+      "text": "Ali'den rivayet edilmiştir: Peygamber (ﷺ) bir ordu gönderdi ve bazı adamları onların komutanı olarak tayin etti. Adam bir ateş yaktı ve sonra (askerlere) dedi ki, \"İçeri girin.\" Bazıları içeri girmeyi düşündü, bazıları ise \"Biz ondan kaçtık (yani, kendimizi ateşten kurtarmak için İslam'a girdik).\" dediler. Bunu Peygamber'e ilettiler ve o, ateşe girmeyi düşünen insanlar hakkında dedi ki, \"Eğer içeri girselerdi, Kıyamet Günü'ne kadar orada kalırlardı.\" Sonra diğerlerine dedi ki, \"Kötü işlerde itaat yoktur, itaat yalnızca iyi olan şeylerde gereklidir.\""
+    },
+    {
+      "id": 13,
+      "narrator": "Narrated Abu Huraira and Zaid bin Khalid:",
+      "text": "Ebu Hureyre ve Zaid bin Halid'den rivayet edilmiştir: İki adam, Peygamber'in huzurunda birbirlerine dava açtılar."
+    },
+    {
+      "id": 14,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Biz Allah'ın Elçisi (ﷺ) ile birlikteyken bir bedevi ayağa kalktı ve dedi ki, \"Ey Allah'ın Elçisi (ﷺ)! Davamı Allah'ın Kitabı'na (Hukuk) göre çöz.\" Sonra karşıt taraf ayağa kalktı ve dedi ki, \"Ey Allah'ın Elçisi (ﷺ)! O doğru söyledi! Davasını Allah'ın Kitabı'na (Hukuk) göre çöz ve bana konuşma izni ver.\" Dedi ki, \"Oğlum bu adam için işçi olarak çalıştı ve onun karısıyla yasadışı cinsel ilişkiye girdi. İnsanlar bana oğlumun taşlanması gerektiğini söylediler ama ben onu yüz koyun ve bir cariye ile fidye verdim. Sonra din bilgilerine sordum ve bana karısının taşlanması gerektiğini ve oğlumun yüz kırbaç yemesi ve bir yıl sürgün cezası alması gerektiğini söylediler.\" Peygamber (ﷺ) dedi ki, \"Canımın sahibi olan Allah'a yemin ederim ki, ben sizin aranızda Allah'ın Kitabı'na (Hukuk) göre hüküm vereceğim: Cariye ve koyunlar geri verilecektir; ve oğlunuz yüz kırbaç yiyecek ve bir yıl sürgün edilecektir. Ey Unais!\" Beni Aslam'dan bir adama hitaben, \"Yarın sabah bu adamın karısına git ve eğer itiraf ederse, onu taşla.\" Ertesi sabah Unais karısına gitti ve o itiraf etti, ve onu taşladı."
+    },
+    {
+      "id": 15,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Cabir bin Abdullah'tan rivayet edilmiştir: (Hendek savaşında) Peygamber (ﷺ) insanları (düşman hakkında haber getirmeye) çağırdı. Az-Zubair onun çağrısına cevap verdi. Onu tekrar çağırdı ve Az-Zubair yine onun çağrısına cevap verdi; sonra üçüncü kez çağırdı ve yine Az-Zubair onun çağrısına cevap verdi, bunun üzerine Peygamber dedi ki, \"Her peygamberin bir havarisi (yardımcısı) vardır ve Az-Zubair benim havarimdir.\""
+    },
+    {
+      "id": 16,
+      "narrator": "Narrated Abu Musa:",
+      "text": "Ebu Musa'dan rivayet edilmiştir: Peygamber (ﷺ) bir bahçeye girdi ve bana kapısını korumamı söyledi. Sonra bir adam geldi ve içeri girmek için izin istedi. Peygamber (ﷺ) dedi ki, \"Ona izin ver ve cennete gireceğini müjdele.\" Bakın! O, Ebu Bekir'di. Sonra Ömer geldi, Peygamber (ﷺ) dedi ki, \"Onu al ve cennete gireceğini müjdele.\" Sonra Osman geldi ve Peygamber (ﷺ) dedi ki, \"Onu al ve cennete gireceğini müjdele.\""
+    },
+    {
+      "id": 17,
+      "narrator": "Narrated `Umar:",
+      "text": "Ömer'den rivayet edilmiştir: Geldim ve bakın, Allah'ın Elçisi (ﷺ) bir Mashroba'da (çatı odası) kalıyordu ve Allah'ın Elçisi'nin (ﷺ) siyah bir kölesi merdivenin en üstünde duruyordu. Ona dedim ki, \"(Peygambere) de ki, işte Ömer bin Al-Khattab (giriş izni istiyor).\" Sonra beni içeri aldı."
+    },
+    {
+      "id": 18,
+      "narrator": "Narrated `Abdullah bin `Abbas:",
+      "text": "Abdullah bin Abbas'tan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) Hüsrev'e bir mektup gönderdi ve elçisine önce Bahreyn valisine vermesini, sonra da Hüsrev'e iletmesini söyledi. Hüsrev mektubu okuduktan sonra, onu parçalara ayırdı. (Az-Zuhri dedi ki: Sanırım İbn Al-Musaiyab şöyle dedi, \"Allah'ın Elçisi (ﷺ) Allah'a dua etti ki, onları (Hüsrev ve takipçilerini) parçalara ayırsın.\")"
+    },
+    {
+      "id": 19,
+      "narrator": "Narrated Salama bin Al-Akwa`:",
+      "text": "Selame bin Al-Akva'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) Al-Aslam kabilesinden bir adama dedi ki, \"Kavmin arasında (veya halk arasında) 'Aşura' günü (Muharrem'in onuncu günü) ilan et ki, 'Kim bir şey yediyse, günün geri kalanında oruç tutsun; kim de bir şey yememişse, orucunu tamamlasın.'\""
+    },
+    {
+      "id": 20,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Abd Al-Qays elçisi Allah'ın Elçisi'ne (ﷺ) geldiğinde, \"Elçiler kimdir?\" dedi. Onlar, \"Elçiler Rabi'a kabilesindendir,\" dediler. Peygamber (ﷺ) dedi ki, \"Hoş geldiniz, ey elçiler! Hoş geldiniz! Ey insanlar! Ne siz bir utanç yaşayacaksınız ne de pişman olacaksınız.\" Onlar, \"Ey Allah'ın Elçisi! Sizinle aramızda Mudar kabilesinin kâfirleri var, lütfen bize cennete girmemizi sağlayacak iyi (ibadet) şeyler yapmamız için bir şeyler emredin ve geride bıraktıklarımıza bunu bildirelim,\" dediler. Ayrıca (Peygamber'e) içecekler hakkında da sordular. O, onlara dört şeyden sakınmalarını emretti ve dört şey yapmalarını söyledi. Onlara Allah'a iman etmelerini emretti ve sordu, \"Allah'a iman etmek ne demektir biliyor musunuz?\" Onlar, \"Allah ve Elçisi en iyi bilendir,\" dediler. O, \"Allah'tan başka ibadet edilmeye layık olan yoktur, O tektir, O'na ortak yoktur; ve Muhammed Allah'ın Elçisi'dir (ﷺ); ve namazı tam kılmak ve zekat vermek,\" dedi. (Rivayet eden, Ramazan orucunun da dahil olduğunu düşünüyor), \"ve ganimetten beşte birini (devlete) vermek.\" Sonra dört (içme kaplarını) yasakladı: Ad-Duba', Al-Hantam, Al-Mazaffat ve An-Naqir, ya da muhtemelen Al-Muqaiyar. Sonra Peygamber (ﷺ) dedi ki, \"Bütün bu şeyleri ezberleyin ve geride bıraktıklarınıza duyurun.\""
+    },
+    {
+      "id": 21,
+      "narrator": "Narrated Tauba Al-`Anbari:",
+      "text": "Tauba Al-`Anbari'den rivayet edilmiştir: Ash-Shu'bi bana sordu, \"Al-Hasan'ın Peygamberlerden Hadisleri nasıl anlattığını fark ettin mi? İbn Ömer ile yaklaşık iki veya bir buçuk yıl kaldım ve ondan Peygamber (ﷺ) ile ilgili hiçbir şey duymadım, sadece onun (Hadis)ini: O (İbn Ömer) dedi ki, \"Peygamber (ﷺ) ile birlikte olan bazı sahabeler, et yemeye gidiyorlardı, ama Peygamber'in (ﷺ) eşlerinden biri onlara seslendi, 'Bu bir Mastigure etidir.' İnsanlar o zaman yemeyi bıraktılar. Bunun üzerine Allah'ın Elçisi (ﷺ) dedi ki, 'Yemeye devam edin, çünkü bu helaldir.' Ya da dedi ki, 'Onu yemenizde bir sakınca yoktur, ama bu benim yemeklerimden değildir.'\""
+    }
+  ]
+}

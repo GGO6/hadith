@@ -1,0 +1,31 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 3,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "'Abdu’llah ibn Hassan reported on the authority of his grandmothers:",
+      "text": "'Abdullah ibn Hassan, büyükannelerinin rivayetiyle bildirmiştir: Kayıla bint Makhrama, Allah’ın Messenger'ını (Allah ona salat etsin ve selam versin) camide topuklarının üzerine oturmuş olarak gördüğünü söyledi. O şöyle dedi: \"Allah’ın Messenger'ını (Allah ona salat etsin ve selam versin) camide alçakgönüllülük sergilerken gördüğümde, korkudan titredim.\""
+    },
+    {
+      "id": 2,
+      "narrator": "'Abbad ibn Tamim reported:",
+      "text": "'Abbad ibn Tamim rivayet etti: Amcası, Peygamberi (Allah ona salat etsin ve selam versin) camide sırt üstü yatar halde, bir bacağını diğerinin üzerine koymuş olarak gördüğünü söyledi."
+    },
+    {
+      "id": 3,
+      "narrator": "Abu Sa'id al-Khudri said:",
+      "text": "Abu Sa'id al-Khudri dedi ki: “Allah’ın Messenger'ı (Allah ona salat etsin ve selam versin) camide oturduğunda, elleriyle bacaklarını karnına doğru bastırıyordu.”"
+    }
+  ]
+}

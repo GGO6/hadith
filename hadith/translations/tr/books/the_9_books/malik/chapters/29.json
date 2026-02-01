@@ -1,0 +1,616 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 120,
+    "arabic": {
+      "title": "موطأ مالك",
+      "author": "الإمام مالك بن أنس"
+    },
+    "english": {
+      "title": "Muwatta Malik",
+      "author": "Imam Malik ibn Anas"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abdullah ibn Abbas'a bir adamın \"Karımı yüz defa boşadım. Durumum ne olur?\" dediğini duyduğunu aktardı. Ibn Abbas ona, \"Sen üç defa boşamış oldun, geri kalan doksan yedi defa ile Allah'ın ayetlerini alay konusu ettin.\" dedi."
+    },
+    {
+      "id": 2,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abdullah ibn Mesud'a bir adamın \"Karımı sekiz defa boşadım.\" dediğini duyduğunu aktardı. Ibn Mesud ona, \"İnsanlar sana ne söyledi?\" diye sordu. Adam, \"Benden tamamen ayrılmam gerektiğini söylediler.\" dedi. Ibn Mesud, \"Doğru söylediler. Allah'ın emrettiği gibi boşayan bir kimseye Allah açıklık getirir, hata içinde kendini gizleyen bir kimseyi de hatasında bırakırız. Bu yüzden kendinizi karıştırmayın ve bizi karışıklığınıza çekmeyin. Durum, onların söylediği gibidir.\" dedi."
+    },
+    {
+      "id": 3,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Yahya ibn Said'den, Abu Bakr ibn Hazm'dan, Umar ibn Abd al-Aziz'in 'geri dönüşü olmayan' boşama hakkında insanların ne söylediğini sorduğunu, Abu Bakr'ın da Aban ibn Uthman'ın bunun yalnızca bir kez ilan edildiğini açıkladığını aktardığını duydu. Umar ibn Abd al-Aziz, \"Boşama bin kez ilan edilse bile, 'geri dönüşü olmayan' hepsini kapsar. 'Geri dönüşü olmayan' diyen bir kimse, en uzak sınırı aşmıştır.\" dedi."
+    },
+    {
+      "id": 4,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Ibn Shihab'dan, Marwan ibn al-Hakam'ın bir kimse üç boşama ilan ederse, karısını geri dönüşü olmayan bir şekilde boşamış sayılacağına karar verdiğini aktardığını duydu. Malik, \"Bu konuda duyduğum en sevdiğim şey budur.\" dedi."
+    },
+    {
+      "id": 5,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Umar ibn al-Khattab'ın Irak'tan gelen bir mektupta bir adamın karısına \"İp senin sırtındadır (yani serbestsin).\" dediğini duyduğunu aktardı. Umar ibn al-Khattab, valisine adamı hacca geldiğinde Mekke'ye çağırmasını yazdı. Umar, Kabe'nin etrafında tavaf yaparken bir adam ona rastladı ve selam verdi. Umar, \"Sen kimsin?\" diye sordu, adam \"Sizi çağırdığınız adamım.\" dedi. Umar, \"Bu binanın Rabbi adına soruyorum, 'İp senin sırtındadır.' ifadesiyle neyi kastettin?\" dedi. Adam, \"Eğer beni başka bir yerle yemin ettirseydin, sana gerçeği söylemezdim. Ben bununla ayrılmayı kastettim.\" dedi. Umar ibn al-Khattab, \"Senin kastettiğin budur.\" dedi."
+    },
+    {
+      "id": 6,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Ali ibn Abi Talib'in bir adam karısına \"Sen benim için haramsın.\" dediğinde bunun üç boşama ilanı sayıldığını söylediğini duydu. Malik, \"Bu konuda duyduğum en iyi şey budur.\" dedi."
+    },
+    {
+      "id": 7,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Nafi'den, Abdullah ibn Umar'ın \"Ben kendimi senden ayırdım.\" veya \"Sen terk edildin.\" gibi ifadelerin, evliliği gerçekleşmiş bir kadın için üç boşama ilanı olarak kabul edildiğini söylediğini aktardı. Malik, bu veya benzeri güçlü ifadelerin, evliliği gerçekleşmiş bir kadın için üç boşama ilanı olarak kabul edildiğini, evliliği gerçekleşmemiş bir kadın için ise adamın bir veya üç boşama ilanı kastettiği konusunda yemin etmesinin istendiğini söyledi. Eğer bir boşama kastettiyse, Allah'a yemin etmesi istendi ve diğer talipler arasında bir talip oldu, çünkü evliliği gerçekleşmiş bir kadın, üç boşama ilanı ile erişilemez hale gelirken, evliliği gerçekleşmemiş bir kadın yalnızca bir boşama ile erişilemez hale geliyordu. Malik, \"Bu konuda duyduğum en iyi şey budur.\" dedi."
+    },
+    {
+      "id": 8,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Yahya ibn Said'den, al-Qasim ibn Muhammad'dan, bir adamın başkasına ait bir cariyeyi eş olarak aldığını ve \"O sizin sorununuzdur.\" dediğini aktardığını duydu."
+    },
+    {
+      "id": 9,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Ibn Shihab'ın bir adam karısına \"Sen benden özgürsün, ben de senden özgürüm.\" dediğinde bunun üç boşama ilanı sayıldığını, sanki 'geri dönüşü olmayan' bir boşama gibi olduğunu söylediğini aktardığını duydu. Malik, eğer bir adam karısına bu tür güçlü bir ifade kullanırsa, evliliği gerçekleşmiş bir kadın için bunun üç boşama ilanı sayıldığını, evliliği gerçekleşmemiş bir kadın için ise adamın istediği şekilde bir veya üç boşama ilanı olarak yazıldığını söyledi. Eğer yalnızca bir boşama kastettiğini söylerse, buna yemin eder ve taliplerden biri olurdu, çünkü evliliği gerçekleşmiş bir kadın, üç boşama ilanı ile erişilemez hale gelirken, evliliği gerçekleşmemiş bir kadın yalnızca bir boşama ile erişilemez hale geliyordu. Malik, \"Bu konuda duyduğum en iyi şey budur.\" dedi."
+    },
+    {
+      "id": 10,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, bir adamın Abdullah ibn Umar'a geldiğini ve \"Abu Abd ar-Rahman! Karımın yetkisini ona verdim, o da kendini boşadı, ne dersin?\" dediğini aktardığını duydu. Abdullah ibn Umar, \"Bence o ne söylediyse odur.\" dedi. Adam, \"Bunu yapma, Abu Abd ar-Rahman!\" dedi. Ibn Umar, \"Sen yaptın, bunun benimle bir ilgisi yok.\" dedi."
+    },
+    {
+      "id": 11,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Nafi'den, Abdullah ibn Umar'ın \"Bir adam bir kadına kendisi üzerinde yetki verirse, sonuç onun kararına bağlıdır, eğer bunu inkâr eder ve yalnızca bir boşama vermek istediğini söylerse ve buna yemin ederse - o zaman idda döneminde ona erişimi olur.\" dediğini aktardığını duydu."
+    },
+    {
+      "id": 12,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Said ibn Sulayman ibn Zayd ibn Thabit'ten, Kharija ibn Zayd ibn Thabit'in Zayd ibn Thabit ile otururken, Muhammad ibn Abi Atiq'in gözleri yaşla dolu olarak yanlarına geldiğini söylediğini aktardığını duydu. Zayd, \"Ne oldu?\" diye sordu. O, \"Karımı kendisine yetki verdim, o da benden ayrıldı.\" dedi. Zayd, \"Bunu neden yaptın?\" dedi. O, \"Kader.\" dedi. Zayd, \"Eğer istersen geri dön, çünkü bu yalnızca bir boşama ve ona erişimin var.\" dedi."
+    },
+    {
+      "id": 13,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abd ar-Rahman ibn al-Qasim'den, babasından, bir Thaqif adamının karısına kendisi üzerinde yetki verdiğini ve o kadının \"Sen boşsun.\" dediğini aktardığını duydu. Adam sessiz kaldı. Kadın, \"Sen boşsun.\" dedi. Adam, \"Ağzında bir taş olsun.\" dedi. Kadın, \"Sen boşsun.\" dedi. Adam, \"Ağzında bir taş olsun.\" dedi. Tartıştılar ve Marwan ibn al-Hakam'a gittiler. O, yalnızca bir boşama üzerinde kontrol verdiğine yemin etti ve kadın ona geri döndü. Malik, Abd ar-Rahman'ın bu kararının al-Qasim'i şaşırttığını, onun bu konuda duyduğu en iyi şey olduğunu söylediğini aktardı. Malik, \"Bu konuda duyduğum en iyi şey budur.\" dedi."
+    },
+    {
+      "id": 14,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abd ar-Rahman ibn al-Qasim'den, babasından, A'isha'nın, umm al-muminin, Abd ar-Rahman ibn Abi Bakr adına Qurayba bint Abi Umayya'yı önerdiğini, onunla evlendiklerini ve halkın Abd ar-Rahman'a itiraz ettiğini, \"Biz yalnızca A'isha yüzünden evlendirdik.\" dediğini aktardığını duydu. Bu nedenle A'isha, Abd ar-Rahman'ı çağırdı ve ona bunu bildirdi. Abd ar-Rahman, Qurayba'ya kendisi üzerinde yetki verdi ve o da kocasını seçti, böylece boşama gerçekleşmedi."
+    },
+    {
+      "id": 15,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abd ar-Rahman ibn al-Qasim'den, babasından, A'isha'nın, Peygamber'in eşi, Allah ona rahmet etsin ve selam versin, Hafsa bint Abd ar-Rahman'ı al-Mundhir ibn az-Zubayr ile evlendirdiğini, Abd ar-Rahman'ın Suriye'de olduğunu, Abd ar-Rahman geldiğinde \"Bana böyle bir şey yapılabilir mi? Benim rızam olmadan bir şey yapılabilir mi?\" dediğini aktardığını duydu. A'isha, al-Mundhir ibn az-Zubayr ile konuştu ve al-Mundhir, \"Bu Abd ar-Rahman'ın elindedir.\" dedi. Abd ar-Rahman, \"Zaten tamamladığınız bir şeye karşı çıkmam.\" dedi. Hafsa al-Mundhir ile onaylandı ve boşama gerçekleşmedi."
+    },
+    {
+      "id": 16,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abdullah ibn Umar ve Ebu Hüreyre'nin, karısına kendisi üzerinde güç veren bir adam hakkında sorulduğunda, onun bu gücü geri verdiği ve bununla hiçbir şey yapmadığına dair duyduğunu aktardı. Onlar, boşanmanın gerçekleşmediğini söylediler. (Yani, adamın karısına kendisi üzerinde güç vermesi, onun boşanma isteği olarak yorumlanmadı.)"
+    },
+    {
+      "id": 17,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Yahya ibn Said'den, Said ibn al-Musayyab'ın şöyle dediğini aktardı: \"Eğer bir adam karısına kendisi üzerinde yetki verirse ve o, ondan ayrılmaz ve onunla kalırsa, boşanma gerçekleşmez.\""
+    },
+    {
+      "id": 18,
+      "narrator": "",
+      "text": "Malik, kocasının karısına kendisi üzerinde güç verdiği ve o ayrılmak istemediği sürece boşanmanın geri alınamayacağını söyledi. Onlar birlikte kaldıkları sürece, kadının yalnızca kendisi üzerinde yetkisi vardı."
+    },
+    {
+      "id": 19,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Cafer ibn Muhammed'den, babasından, Ali ibn Ebi Talib'in şöyle dediğini aktardı: \"Bir adam cinsel ilişkiden uzak durma yemini ettiğinde, boşanma hemen gerçekleşmez. Dört ay geçerse, niyetini açıklamalıdır; ya boşanmış olur ya da yemini geri alır.\""
+    },
+    {
+      "id": 20,
+      "narrator": "",
+      "text": "Malik, \"Bu bizim aramızda yapılan şeydir.\" dedi."
+    },
+    {
+      "id": 21,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Nafi'den, Abdullah ibn Umar'ın şöyle dediğini aktardı: \"Bir adam karısıyla cinsel ilişkiden uzak durma yemini ettiğinde ve dört ay geçtiğinde, niyetini açıklamalıdır; ya boşanmış olur ya da yemini geri alır. Dört ay geçmeden boşanma gerçekleşmez ve o, cinsel ilişkiden uzak durmaya devam eder.\""
+    },
+    {
+      "id": 22,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, İbn Şihab'dan, Said al-Musayyab ve Ebu Bekir ibn Abd ar-Rahman'ın, karısıyla cinsel ilişkiden uzak durma yemini eden bir adam hakkında şöyle dediklerini aktardı: \"Eğer dört ay geçerse, bu bir boşanmadır. Koca, karısı idda süresindeyken ona dönebilir.\""
+    },
+    {
+      "id": 23,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Marwan ibn al-Hakam'ın, karısıyla cinsel ilişkiden uzak durma yemini eden bir adam hakkında dört ay geçtikten sonra boşanma kararı verdiğini duyduğunu aktardı; o, karısına dönebilir, ancak karısı idda süresindeyken."
+    },
+    {
+      "id": 24,
+      "narrator": "",
+      "text": "Malik ekledi: \"Bu, İbn Şihab'ın da görüşüydü.\""
+    },
+    {
+      "id": 25,
+      "narrator": "",
+      "text": "Malik, eğer bir adam karısıyla cinsel ilişkiden uzak durma yemini eder ve dört ayın sonunda, uzak durmaya devam etme niyetini açıklarsa, boşanmış olur. Karısına dönebilir, fakat eğer idda süresi bitmeden onunla cinsel ilişkiye girmezse, ona erişimi olmaz ve ancak bir mazereti varsa - hastalık, hapis veya benzeri bir mazeret - ona dönebilir. Onunla geri dönmesi, onu karısı olarak tutar. Eğer idda süresi geçerse ve sonra onunla evlenirse ve dört ay geçmeden onunla cinsel ilişkiye girmezse ve uzak durma niyetini açıklarsa, boşanma ilk yemine uygulanır. Eğer dört ay geçerse ve ona dönmemişse, onunla ilgili bir idda süresi yoktur ve ona erişimi yoktur çünkü onu evlendirmiş ve ona dokunmadan boşamıştır."
+    },
+    {
+      "id": 26,
+      "narrator": "",
+      "text": "Malik, eğer bir adam karısıyla cinsel ilişkiden uzak durma yemini eder ve sonra onu boşarsa, ve yeminin dört ayı, boşanmanın idda süresinin tamamlanmasından önce bitmişse, bu iki boşanma olarak sayılır. Eğer uzak durma niyetini açıklarsa ve boşanmanın idda süresi, yeminin dört ayından önce bitmişse, bu boşanma sayılmaz. Çünkü dört ay geçmiş ve o gün itibarıyla karısı olmamıştır."
+    },
+    {
+      "id": 27,
+      "narrator": "",
+      "text": "Malik, \"Eğer biri, karısıyla bir gün veya bir ay cinsel ilişkide bulunmamaya yemin ederse ve dört aydan fazla beklerse, bu ila değildir. İla, yalnızca dört aydan fazla yemin eden biri için geçerlidir. Dört ay veya daha az bir süre için cinsel ilişkide bulunmamaya yemin eden biri için ila olduğunu düşünmüyorum; çünkü süre dolduğunda, yeminden çıkar ve niyetini açıklamak zorunda değildir.\""
+    },
+    {
+      "id": 28,
+      "narrator": "Yahya related to me from Malik from Rabia ibn Abi Abd ar-Rahman\nfrom al-Qasim ibn Muhammad that A'isha umm al-muminin, said, \"There\nwere three sunnas established in connection with Barira:",
+      "text": "Malik, \"Eğer biri, karısına çocuğu sütten kesilene kadar onunla cinsel ilişkide bulunmamaya yemin ederse, bu ila değildir. Ali ibn Ebi Talib'in bu konuda sorulduğunu duydum ve bunun ila olmadığını düşündü.\""
+    },
+    {
+      "id": 29,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, kölenin ila'sı hakkında İbn Şihab'a sorduğunu aktardı. O, bunun hür adamın ila'sı gibi olduğunu ve ona bir yükümlülük getirdiğini söyledi. Kölenin ila'sı iki aydır."
+    },
+    {
+      "id": 30,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Said ibn Amr ibn Sulaym az-Zuraqi'nin, boşanmayı bir kadına evlenme şartına bağlayan bir adam hakkında al-Qasim ibn Muhammad'a sorduğunu aktardı; yani, eğer onu evlenirse, otomatik olarak boşanmış olacaktı. Al-Qasim ibn Muhammad, \"Eğer bir adam, annesinin sırtı gibi yaptığı bir kadına evlenirse, yani onun için haram kılarsa, Umar ibn al-Khattab ona, onunla evlendiğinde, kefaretini yerine getirmeden ona yaklaşmamasını emretti.\" dedi."
+    },
+    {
+      "id": 31,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Malik'in Said ibn al-Musayyab'dan duyduğunu aktardı ki, eğer bir adam bir kadını evlendirirse ve o deli veya fiziksel bir kusuru varsa, kadının seçme hakkı vardır. İsterse onunla kalabilir, isterse ondan ayrılabilir."
+    },
+    {
+      "id": 32,
+      "narrator": "",
+      "text": "Malik, eğer bir cariye, bir kölenin eşi olarak, evliliği tamamlanmadan önce özgür bırakılırsa ve kendisi seçerse, o zaman onun bir başlık parası yoktur ve bu bir boşanma ilanıdır. Bu, aralarında yapılan şeydir."
+    },
+    {
+      "id": 33,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Malik'in İbn Şihab'dan duyduğunu aktardı ki, \"Bir adam karısına seçme hakkı verirse ve o da onu seçerse, bu boşanma değildir.\""
+    },
+    {
+      "id": 34,
+      "narrator": "",
+      "text": "Malik ekledi, \"Bu duyduğum en iyi şeydir.\""
+    },
+    {
+      "id": 35,
+      "narrator": "",
+      "text": "Malik, eğer bir kadın kocası tarafından seçme hakkı verilmişse ve kendisi seçerse, üç kat boşanmış sayıldığını söyledi. Eğer kocası, \"Ama ben ona sadece birinde seçme hakkı verdim,\" derse, bunun bir önemi yoktur. Bu, duyduğu en iyi şeydir."
+    },
+    {
+      "id": 36,
+      "narrator": "",
+      "text": "Malik, \"Eğer adam karısına seçme hakkı verirse ve o 'Ben birini kabul ediyorum' derse, o da 'Ben bunu kastetmedim, hepsinde seçme hakkı verdim' derse, eğer o sadece birini kabul ederse, o onunla evliliğinde kalır ve bu, Allah, yüce dilerse, ayrılık değildir.\" dedi."
+    },
+    {
+      "id": 37,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Malik'in Yahya ibn Said'den, onun da Amra bint Abd ar-Rahman'dan, onun da Habiba bint Sahl al-Ansari'den duyduğunu aktardı ki, o Thabit ibn Qays ibn Shammas'ın eşiymiş. Allah'ın Resulü, Allah ona salat ve selam eylesin, sabah namazı için çıktığında, Habiba bint Sahl'ı karanlıkta kapısında buldu. Allah'ın Resulü, ona, \"Bu kim?\" dedi. O da, \"Ben Habiba bint Sahl'ım, Allah'ın Resulü.\" dedi. O, \"Ne istiyorsun?\" dedi. O da, \"Thabit ibn Qays ile ayrılmak istiyorum.\" dedi. Kocası Thabit ibn Qays geldiğinde, Allah'ın Resulü ona, \"Bu Habiba bint Sahl'dır. O, Allah'ın dilemesini söyledi.\" dedi. Habiba, \"Allah'ın Resulü, bana verdiği her şey yanımda!\" dedi. Allah'ın Resulü, Thabit ibn Qays'a, \"Onu ondan al.\" dedi ve o da ondan aldı, ve o, ailesinin evinde kaldı."
+    },
+    {
+      "id": 38,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Malik'in Nafi'den, Nafi'nin Safiyya bint Abi Ubayd'in bir mawlâsından duyduğunu aktardı ki, o, kocasına boşanması karşılığında sahip olduğu her şeyi verdi ve Abdullah ibn Umar bunu hoş karşılamadı."
+    },
+    {
+      "id": 39,
+      "narrator": "",
+      "text": "Malik, bir kadının kocasından kendisini fidye ile kurtardığında boşanmasının geçerli olduğunu, kocasının ona zarar verdiği ve ona zulmettiği bilindiğinde, onun malını geri vermesi gerektiğini söyledi. Malik ekledi, \"Bu, duyduğum şeydir ve aramızda yapılan şeydir.\""
+    },
+    {
+      "id": 40,
+      "narrator": "",
+      "text": "Malik, \"Eğer bir kadın kocasından kendisini fidye ile kurtarırsa, kocasının ona verdiğinden daha fazlası için bunu yapmasında bir sakınca yoktur.\" dedi."
+    },
+    {
+      "id": 41,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Malik'in Nafi'den, Nafi'nin Rubayyi bint Muawwidh ibn Afra'nın, Abdullah ibn Umar'a geldiğini ve ona, Uthman ibn Affan zamanında kocasından bir fidye karşılığında boşandığını söylediğini aktardı ve o bunu duydu ve hoş karşılamadı. Abdullah ibn Umar, \"Onun iddası boşanmış bir kadının iddasıdır.\" dedi."
+    },
+    {
+      "id": 42,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Malik'in duyduğunu aktardı ki, Said ibn al-Musayyab, Sulayman ibn Yasar ve İbn Şihab, fidye karşılığında boşanan bir kadının iddasının boşanmış bir kadınla aynı olduğunu - üç adet dönem olduğunu söylediler."
+    },
+    {
+      "id": 43,
+      "narrator": "",
+      "text": "Malik, kendisini fidye ile kurtaran bir kadının kocasına geri dönemeyeceğini, ancak yeni bir evlilikle döneceğini söyledi. Eğer biri onunla evlenir ve onunla cinsel ilişkiye girmeden ondan ayrılırsa, bu yeni evlilikten dolayı ona karşı bir idda yoktur ve o, ilk iddasına dayanır."
+    },
+    {
+      "id": 44,
+      "narrator": "",
+      "text": "Malik, \"Bu konuda duyduğum en iyi şeydir.\" dedi."
+    },
+    {
+      "id": 45,
+      "narrator": "",
+      "text": "Malik, \"Eğer bir kadın kocasına fidye teklif ederse ve o hemen boşanırsa, o fidye onun için geçerlidir. Eğer o cevap vermezse ve daha sonra boşanırsa, o fidyeye hak kazanmaz.\" dedi."
+    },
+    {
+      "id": 46,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Rabia ibn Abi Abd ar-Rahman'ın şöyle dediğini duyduğunu aktardı: \"Abd ar-Rahman ibn Awf'ın eşi ondan boşanmasını istedi. O da, 'Menstruasyonun bitip temizlendikten sonra yanıma gel,' dedi. Abd ar-Rahman ibn Awf hasta olana kadar o menstruasyon görmedi. Temizlendiğinde ona haber verdi ve o da onu kesin olarak boşadı ya da onun üzerinde kalan boşama beyanında bulundu. Abd ar-Rahman ibn Awf o sırada ölümcül bir hastalık geçiriyordu, bu yüzden Osman ibn Affan, idda süresi sona erdikten sonra onu mirasçılardan biri yaptı.\""
+    },
+    {
+      "id": 47,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Yahya ibn Said'den, Muhammad ibn Yahya ibn Habban'ın şöyle dediğini aktardı: \"Dedem Habban'ın birisi Haşimi, diğeri Ensar'dan iki eşi vardı. Ensar kadını emzirirken onu boşadı, bir yıl geçti ve o hala menstruasyon görmemişti. O, 'Ondan miras alırım. Hala menstruasyon görmedim,' dedi. Eşler tartıştılar ve Osman ibn Affan'a gittiler. O, onun miras aldığını karar verdi ve Haşimi kadın Osman'ı azarladı. O da, 'Bu, amcanızın oğlunun uygulamasıdır. Bunu bize işaret etti,' dedi. Ali ibn Abi Talib'i kastetti.\""
+    },
+    {
+      "id": 48,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, İbn Şihab'ın şöyle dediğini duyduğunu aktardı: \"Bir adam ölümcül hastayken karısını üç kez boşarsa, o kadından miras alır.\" Malik dedi ki: \"Eğer o, evliliği tamamlamadan önce ölümcül hastayken onu boşarsa, kadının mehirinin yarısını alır ve miras alır, ayrıca idda yapmak zorunda değildir. Eğer evliliği tamamladıysa, kadının tüm mehirini alır ve miras alır. Bizim görüşümüze göre, hem bakire hem de daha önce evlenmiş kadın bu durumda aynıdır.\""
+    },
+    {
+      "id": 49,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abd ar-Rahman ibn Awf'ın eşini boşadığını ve ona bir cariye şeklinde tazminat verdiğini duyduğunu aktardı."
+    },
+    {
+      "id": 50,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Nafi'den, Abdullah ibn Umar'ın şöyle dediğini aktardı: \"Her boşanan kadının tazminatı vardır, boşanan ve kendisine mehir tahsis edilen ve henüz dokunulmayan kadın hariç. O, kendisine tahsis edilenin yarısını alır.\""
+    },
+    {
+      "id": 51,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, İbn Şihab'ın şöyle dediğini duyduğunu aktardı: \"Her boşanan kadının tazminatı vardır.\" Malik dedi ki: \"Ben de al-Qasim ibn Muhammad'dan aynı şeyi duydum.\" Malik dedi ki: \"Bizim aramızda tazminatın ne kadar küçük veya büyük olacağına dair sabit bir sınır yoktur.\""
+    },
+    {
+      "id": 52,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Ebu'z-Zinad'dan, Süleyman ibn Yasar'dan, Nufay'ın, Peygamber'in eşi Umm Salama'nın (Allah ona rahmet etsin) mukatabı olduğunu, özgür bir kadınla evli olduğunu, onu iki kez boşadığını ve sonra ona dönmek istediğini aktardı. Peygamber'in (Allah ona rahmet etsin) eşleri, ona Osman ibn Affan'a gidip bu konuda sormasını emrettiler. Onu ad-Daraj'da Zayd ibn Thabit ile buldu. Onlara sordu ve ikisi de ona, \"O, senin için haramdır. O, senin için haramdır,\" dediler."
+    },
+    {
+      "id": 53,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, İbn Şihab'dan, Said ibn al-Musayyab'dan, Nufay'ın, Peygamber'in eşi Umm Salama'nın (Allah ona rahmet etsin) özgür eşini iki kez boşadığını, bu yüzden Osman ibn Affan'dan bir görüş istediğini ve Osman'ın, \"O, senin için haramdır,\" dediğini aktardı."
+    },
+    {
+      "id": 54,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abdu Rabbih ibn Said'den, Muhammad ibn Ibrahim ibn al-Harith at-Taymi'den, Nufay'ın, Peygamber'in eşi Umm Salama'nın (Allah ona rahmet etsin) Zayd ibn Thabit'ten bir görüş istediğini aktardı. O, \"Ben özgür eşimi iki kez boşadım,\" dedi. Zayd ibn Thabit, \"O, senin için haramdır,\" dedi."
+    },
+    {
+      "id": 55,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Nafi'den, Abdullah ibn Umar'ın şöyle dediğini aktardı: \"Eğer bir köle, karısını iki kez boşarsa, o, başka bir koca ile evlenene kadar ona haramdır, ister özgür ister köle olsun. Özgür bir kadının idda süresi üç adet menstruasyon dönemidir, kölenin idda süresi ise iki dönemdir.\""
+    },
+    {
+      "id": 56,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Nafi'den, Abdullah ibn Umar'ın şöyle dediğini aktardı: \"Eğer bir adam kölesine evlenme izni verirse, boşama kölenin elindedir ve kimsenin onun boşamasında bir yetkisi yoktur. Bir adamın, erkek kölesinin cariyesini veya dişi kölesinin cariyesini alması aleyhine bir şey yoktur.\""
+    },
+    {
+      "id": 57,
+      "narrator": "",
+      "text": "Malik dedi ki: \"Ne özgür bir adam ne de köle, bir cariyeyi boşadığında veya bir özgür kadını boşadığında, kesin bir boşama durumunda, hamile olsa bile nafaka ödemekle yükümlü değildir ve ona geri dönemez.\" Malik dedi ki: \"Özgür bir adam, eğer o, başka insanların kölesi ise, oğlunun emzirilmesi için ödeme yapmakla yükümlü değildir, ne de olsa köle, efendisinin sahip olduğu şeyler için kendi parasını harcamakla yükümlü değildir, ancak efendisinin izniyle.\""
+    },
+    {
+      "id": 58,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Yahya ibn Said'den, Said ibn al-Musayyab'dan, Ömer ibn al-Hattab'ın şöyle dediğini aktardı: \"Kocasını kaybeden ve nerede olduğunu bilmeyen kadın, dört yıl bekler, sonra dört ay idda yapar ve sonra evlenmekte serbesttir.\" Malik dedi ki: \"Eğer idda süresi bittikten sonra evlenirse, yeni kocası evliliği tamamlayıp tamamlamadığına bakılmaksızın, ilk kocası ona erişemez.\" Malik dedi ki: \"Bu, bizim aramızda yapılan bir uygulamadır ve eğer kocası, o yeniden evlenmeden önce ona ulaşırsa, ona daha çok hak sahibidir.\" Malik, bir kişinin, Ömer ibn al-Hattab'a atfedilen bir sözünü onaylamayan insanları gördüğünü söyledi: \"İlk kocası, ya mehirini ya da karısını seçer.\" Malik dedi ki: \"Ömer ibn al-Hattab'ın, kocasının onu boşadığı ve sonra geri aldığı, ancak geri aldığı haberinin ona ulaşmadığı, boşandığı haberinin ise ulaştığı bir kadın hakkında şöyle dediğini duydum: 'İlk kocası onu boşadıktan sonra, yeni kocası evliliği tamamlayıp tamamlamadığına bakılmaksızın ona erişemez.'\" Malik dedi ki: \"Bu, kaybolan adam hakkında duyduğum en hoş şeydir.\""
+    },
+    {
+      "id": 59,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Nafi'den, Abdullah ibn Umar'ın, karısını menstruasyon döneminde boşadığını, Allah'ın Elçisi (Allah ona rahmet etsin) zamanında, Ömer ibn al-Hattab'ın Allah'ın Elçisi'ne (Allah ona rahmet etsin) bu konuda sorduğunu aktardı. Allah'ın Elçisi (Allah ona rahmet etsin) şöyle dedi: \"Git ve ona, onu geri almasını ve temizlenene kadar onu tutmasını, sonra menstruasyon görmesini ve tekrar temizlenmesini söyle. Sonra eğer isterse onu tutabilir, eğer isterse onunla cinsel ilişkiye girmeden önce onu boşayabilir. Bu, Allah'ın boşanan kadınlar için emrettiği idda süresidir.\""
+    },
+    {
+      "id": 60,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, İbn Şihab'dan, Urva ibn az-Zubayr'dan, müminlerin annesi A'işe'nin, idda süresinin üçüncü dönemine girdiğinde Hafsa ibn Abd ar-Rahman ibn Abi Bakr as-Sıddık'ı evine aldığını aktardı. İbn Şihab dedi ki: \"Bu, Amra bint Abd ar-Rahman'a iletildi ve o, Urva'nın doğru söylediğini söyledi ve insanlar A'işe ile bu konuda tartıştılar. Onlar, Allah, mübarek ve yüce olan, Kitabında, 'Üç quru' dediğini söylediler. A'işe, 'Doğru söylediniz. Quru'nun ne olduğunu biliyor musunuz? Quru, menstruasyondan sonra temizlenme zamanlarıdır,' dedi.\""
+    },
+    {
+      "id": 61,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Malik de İbn Şihab'dan, o da Ebu Bekir ibn Abd ar-Rahman'ın şöyle dediğini işitti: \"Bizim fukahamızdan hiç kimsenin, bu ifadenin A'işe'nin neyi kastettiği anlamına geldiğini söylemediğini görmedim.\""
+    },
+    {
+      "id": 62,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Malik de Nafi ve Zeyd ibn Aslam'dan, o da Süleyman ibn Yesar'dan, el-Ahvas'ın, karısının boşandıktan sonra üçüncü adet dönemine girdiğinde Suriye'de vefat ettiğini işitti. Muaviye ibn Ebu Süfyan, Zeyd ibn Sabit'e bu konuda yazdı. Zeyd ona yazdı: \"O, üçüncü dönemine girdiğinde, kocasıyla ayrılmıştır ve kocası ondan miras almaz, o da kocasından miras almaz.\""
+    },
+    {
+      "id": 63,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Malik de Ebu Bekir ibn Abd ar-Rahman, Süleyman ibn Yesar ve İbn Şihab'ın şöyle dediğini işitti: \"Boşanan kadın, üçüncü döneminin başına girdiğinde, kocasından açıkça ayrılmıştır ve aralarında miras yoktur ve onunla ilişki kuramaz.\""
+    },
+    {
+      "id": 64,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Malik de Nafi'den, Abdullah ibn Umar'ın şöyle dediğini işitti: \"Bir adam karısını boşadığında ve o üçüncü dönemine girdiğinde, o ondan ayrılmıştır ve o da ondan ayrılmıştır.\""
+    },
+    {
+      "id": 65,
+      "narrator": "",
+      "text": "Malik dedi ki, \"Bizim aramızda işler böyle yapılır.\""
+    },
+    {
+      "id": 66,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Malik de el-Fudayl ibn Ebu Abdullah, el-Mahri'nin kölesi, al-Qasim ibn Muhammad ve Salim ibn Abdullah'ın şöyle dediğini işitti: \"Bir kadın boşandığında ve üçüncü dönemine girdiğinde, o ondan açıkça ayrılmıştır ve yeniden evlenme hakkına sahiptir.\""
+    },
+    {
+      "id": 67,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Malik de Said ibn el-Musayyab, İbn Şihab ve Süleyman ibn Yesar'ın hepsinin şöyle dediğini işitti: \"Khul boşanması olan kadının iddası üç dönemdir.\""
+    },
+    {
+      "id": 68,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Malik de İbn Şihab'ın şöyle dediğini işitti: \"Boşanan kadının iddası, adet döngüleriyle hesaplanır, hatta o ayrılmış olsa bile.\" (İddanın genellikle adet döngüsüyle hesaplanmasının sebebi, kadının hamile olup olmadığını görmektir.)"
+    },
+    {
+      "id": 69,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Malik de Yahya ibn Said'den, bir Ensar adamının karısının ondan boşanmasını istediğini, o da ona \"Adet gördüğünde, bana söyle.\" dediğini işitti. Kadın adet gördüğünde ona söyledi. O da \"Temizlendiğinde, bana söyle.\" dedi. Kadın temizlendiğinde ona söyledi ve o da onu boşadı."
+    },
+    {
+      "id": 70,
+      "narrator": "",
+      "text": "Malik dedi ki, \"Bu konuda duyduğum en iyi şey budur.\""
+    },
+    {
+      "id": 71,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Malik de Yahya ibn Said'in al-Qasim ibn Muhammad ve Süleyman ibn Yesar'ın her ikisinin de Yahya ibn Said ibn el-As'ın Abd ar-Rahman ibn el-Hakam'ın kızını kesin olarak boşadığını söylediğini işitti. Abd ar-Rahman ibn el-Hakam onu aldı. A'işe, o zamanın Medine Amiri olan Marwan ibn el-Hakam'a gönderdi. \"Allah'tan kork ve kadını evine geri döndür.\" dedi. Marwan, Süleyman'ın aktardığına göre, \"Abd ar-Rahman benim üzerimde üstün.\" dedi. Marwan, al-Qasim'ın aktardığına göre, \"Fatima bint Qays'ın durumu sana ulaşmadı mı?\" dedi. A'işe, \"Sen Fatima'nın hikayesini anmak zorundasın.\" dedi. Marwan, \"Eğer o kötülüğü biliyorsan, o iki kişi arasındaki her türlü kötülük senin için yeterlidir.\" dedi. (Hadis 67'ye bakınız.)"
+    },
+    {
+      "id": 72,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Malik de Nafi'den, Said ibn Zayd ibn Amr ibn Nufayl'ın kızı Abdullah ibn Umar ibn Uthman ile evli olduğunu, onun onu kesin olarak boşadığını ve onun evden çıktığını işitti. Abdullah ibn Umar, ona bu konuda azarladı."
+    },
+    {
+      "id": 73,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Malik de Abdullah ibn Umar'ın, Peygamber'in eşi Hafsa'nın evinde, camiye giderken eşlerinden birini boşadığını işitti. O, evlerin arkasından başka bir yoldan gitti, içeri girmek için izin istemekten çekinerek, ona geri döndü."
+    },
+    {
+      "id": 74,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Malik de Yahya ibn Said'den, Said ibn el-Musayyab'a, kocası onu kiralanmış bir evde boşadığında, kadının kirasını kimin ödemesi gerektiği soruldu. Said ibn el-Musayyab, \"Kocası ödemekle yükümlüdür.\" dedi. Birisi sordu, \"Eğer kocası bunu ödeyecek durumda değilse?\" O, \"O zaman o ödemelidir.\" dedi. Birisi sordu, \"Eğer o da ödeyecek durumda değilse?\" O, \"O zaman Amir ödemelidir.\" dedi."
+    },
+    {
+      "id": 75,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Malik de Abdullah ibn Yazid, el-Aswad ibn Süfyan'ın kölesi, Ebu Salama ibn Abd ar-Rahman ibn Avf'tan, Fatima bint Qays'dan, Ebu Amr ibn Hafs'ın onu kesin olarak boşadığını, Suriye'de olduğunu işitti. Vekili ona biraz arpa gönderdi ve o bundan hoşlanmadı, \"Vallahi, senden hiçbir şey beklemiyorum.\" dedi. O, Allah'ın Elçisi'ne, Allah ona salat ve selam eylesin, gitti ve bunu ona anlattı. O, \"Senin nafakan yok.\" dedi. Sonra ona Umm Şarik'in evinde iddasını geçirmesini emretti. Sonra, \"Bu, arkadaşlarımın ziyaret ettiği bir kadındır. İddasını İbn Umm Maktum'un evinde geçir.\" dedi. \"O, kör bir adamdır ve onun evinde soyunabilirsin. Yeniden evlenme hakkına sahip olduğunda, bana söyle.\" dedi."
+    },
+    {
+      "id": 76,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Yahya ibn Said'den ve Yazid ibn Abdullah ibn Qusayt al-Laythi'den rivayet etti ki Said ibn al-Musayyab şöyle dedi: \"Ömer ibn al-Hattab dedi ki: 'Eğer bir kadın boşanır ve bir veya iki adet görürse ve sonra adet görmeyi durdurursa, dokuz ay beklemelidir. Eğer hamile olduğu belli olursa, o durum geçerlidir. Aksi takdirde, dokuz ayın ardından üç ay iddet yapmalıdır ve sonra evlenmekte serbesttir.'\""
+    },
+    {
+      "id": 77,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Yahya ibn Said'den rivayet etti ki Said ibn al-Musayyab şöyle dedi: \"Boşanma erkeklere aittir, kadınların ise iddeti vardır.\""
+    },
+    {
+      "id": 78,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, İbn Şihab'dan rivayet etti ki Said ibn al-Musayyab şöyle dedi: \"Sürekli kanayan kadının iddeti bir yıldır.\""
+    },
+    {
+      "id": 79,
+      "narrator": "",
+      "text": "Malik dedi ki: \"Bizim aramızda, kocası boşandığında adet görmeyi durduran bir kadın için yapılan şey, dokuz ay beklemesidir. Eğer bu süre içinde adet görmemişse, üç ay iddet yapar. Eğer üç ayın sonuna kadar adet görürse, bu adet kabul edilir. Eğer dokuz ay geçtikten sonra adet görmezse, üç ay iddet yapar. Eğer bu üç ayın sonuna kadar ikinci bir adet görürse, bu adet de kabul edilir. Eğer dokuz ay geçtikten sonra adet görmezse, üç ay iddet yapar. Eğer üçüncü bir adet görürse, o zaman iddet tamamlanmış olur. Eğer adet görmezse, üç ay bekler ve sonra evlenmekte serbesttir. Kocası, evlenmekte serbest olana kadar ona dönebilir, eğer boşanmayı kalıcı hale getirmemişse.\""
+    },
+    {
+      "id": 80,
+      "narrator": "",
+      "text": "Malik dedi ki: \"Bizim aramızda, bir adam karısını boşadığında ve ona dönme seçeneği olduğunda, eğer o iddetinin bir kısmını geçirmişse ve sonra ona dönerse ve onunla cinsel ilişkiye girmeden önce tekrar boşanırsa, o zaman iddetinin geçmiş kısmına ekleme yapmaz. Kocası kendisine zulmetmiş ve hata yapmıştır eğer ona dönerse ve ona ihtiyacı yoksa.\""
+    },
+    {
+      "id": 81,
+      "narrator": "Yahya related to me from Malik that he had heard that\nAbdullah ibn Masud said that there was nothing binding on someone who\nsaid, \"Every woman I marry is divorced,\" if he did not name a specific\ntribe or woman.\n\n\nMalik said, \"That is the best of what I have\nheard.\"\n\n\nMalik said about a man saying to his wife, \"You are\ndivorced, and every woman I marry is divorced,\" or that all his\nproperty would be sadaqa if he did not do such-and-such, and he broke\nhis oath:",
+      "text": "Malik dedi ki: \"Bizim aramızda, eğer bir kadın kocası kafirken Müslüman olursa ve sonra kocası Müslüman olursa, o, iddeti süresince ona sahiptir. Eğer iddeti bitmişse, ona erişimi yoktur. Ancak iddetinin bitiminden sonra tekrar evlenirse, bu boşanma olarak sayılmaz. İslam onu boşanmadan ayırmıştır.\""
+    },
+    {
+      "id": 82,
+      "narrator": "",
+      "text": "Yahya, Malik'ten rivayet etti ki Ali ibn Abi Talib'in, Allah'ın, \"Eğer iki taraf arasında bir ayrılık korkusundan endişe ederseniz, onun kavminden bir hakem ve onun kavminden bir hakem atayın. Eğer ikisi de barışmak isterlerse, Allah aralarını bulur. Şüphesiz ki Allah, her şeyi bilendir.\" (Nisa Suresi 4:35) ayeti hakkında şöyle dediğini işitti: \"Ayrılma ve birleşme, ikisi tarafından gözetilmiştir.\""
+    },
+    {
+      "id": 83,
+      "narrator": "",
+      "text": "Malik dedi ki: \"Bu, bilgi sahiplerinden duyduğum en iyi şeydir. İki hakemin ayrılma veya birleşme konusundaki söyledikleri dikkate alınır.\""
+    },
+    {
+      "id": 84,
+      "narrator": "",
+      "text": "Yahya, Malik'ten rivayet etti ki Ömer ibn al-Hattab, Abdullah ibn Ömer, Abdullah ibn Mesud, Salim ibn Abdullah, el-Kasım ibn Muhammed, İbn Şihab ve Süleyman ibn Yesar şöyle dediler: \"Eğer bir adam, karısını evlenmeden önce boşanacağına dair bir yemin etmişse ve sonra bu yemini bozarsa, karısıyla evlendiğinde boşanma onun için zorunludur.\""
+    },
+    {
+      "id": 85,
+      "narrator": "",
+      "text": "Yahya, Malik'ten rivayet etti ki Abdullah ibn Mesud şöyle dedi: \"Bir kabile veya kadın ismi belirtmeden, 'Evlendiğim her kadın boşanmıştır' diyen birine hiçbir şey bağlayıcı değildir.\""
+    },
+    {
+      "id": 86,
+      "narrator": "",
+      "text": "Malik dedi ki: \"Bu, duyduğum en iyi şeydir.\""
+    },
+    {
+      "id": 87,
+      "narrator": "",
+      "text": "Malik, bir adamın karısına, \"Sen boşsun ve evlendiğim her kadın boşanmıştır\" demesi veya tüm malının sadaka olacağını söylemesi durumunda, eğer böyle ve böyle yapmazsa ve yemini bozarsa şöyle dedi: \"Karısı için, söylediği gibi boşanmadır, ve 'Evlendiğim her kadın boşanmıştır' ifadesi, eğer belirli bir kadın, kabile veya ülke ismi belirtmemişse, onun için bağlayıcı değildir ve istediği gibi evlenebilir. Malı için ise, bunun üçte birini sadaka olarak vermelidir.\""
+    },
+    {
+      "id": 88,
+      "narrator": "",
+      "text": "Yahya, Malik'ten İbn Şihab'dan rivayet etti ki Said ibn al-Musayyab şöyle dedi: \"Eğer birisi bir kadınla evlenir ve onunla cinsel ilişkiye giremezse, onunla cinsel ilişkiye girmesi için bir yıl süre belirlenmiştir. Eğer bunu yapmazsa, ayrılırlar.\""
+    },
+    {
+      "id": 89,
+      "narrator": "",
+      "text": "Yahya, Malik'ten İbn Şihab'a, sürenin evlendiği günden mi yoksa Sultan'ın önünde bu konuyu gündeme getirdiği günden mi başladığını sordu. O da, \"Bu, Sultan'ın önünde gündeme getirdiği günden başlar\" dedi."
+    },
+    {
+      "id": 90,
+      "narrator": "",
+      "text": "Malik dedi ki: \"Eğer birisi karısıyla cinsel ilişkiye girerse ve sonra onunla cinsel ilişkiye girmesi engellenirse, onun için belirlenmiş bir süre olduğunu veya ayrıldıklarını duymadım.\""
+    },
+    {
+      "id": 91,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Malik'in Said ibn al-Musayyab'dan duyduğunu aktardı. Said ibn al-Musayyab şöyle dedi: \"Eğer bir adam, karısına harcayacak bir şey bulamazsa, onlardan ayrılmaları gerekir.\""
+    },
+    {
+      "id": 92,
+      "narrator": "",
+      "text": "Malik dedi ki: \"Bu, bizim şehrimizdeki ilim ehlinin yaptığı şeydir.\""
+    },
+    {
+      "id": 93,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 94,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Malik'in Abdu Rabbih ibn Said ibn Qays'tan duyduğunu aktardı. Abu Salama ibn Abd ar-Rahman dedi ki: Abdullah ibn Abbas ve Abu Hurayra'ya, kocası vefat eden hamile bir kadının ne zaman yeniden evlenebileceği soruldu. Ibn Abbas dedi ki: \"İki adet dönemi tamamladıktan sonra.\" Abu Hurayra dedi ki: \"Doğum yaptıktan sonra, evlenmekte serbesttir.\" Abu Salama ibn Abd ar-Rahman, Allah'ın Elçisi'nin eşi Umm Salama'yı ziyaret etti ve bu konuyu ona sordu. Umm Salama şöyle dedi: \"Subaya al-Aslamiya, kocasının vefatından yarım ay sonra doğum yaptı ve iki adam ona evlenmek için teklif etti. Biri genç, diğeri yaşlıydı. Genç olanı tercih etti, bu yüzden yaşlı adam, 'Henüz evlenmekte serbest değilsin' dedi. Ailesi uzaktaydı ve o, ailesi geldiğinde onu ona vereceklerini umuyordu. O, Allah'ın Elçisi'ne gitti ve Allah'ın Elçisi, 'Evlenmekte serbestsin, dilediğinle evlen' dedi.\""
+    },
+    {
+      "id": 95,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 96,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Malik'in Nafi'den duyduğunu aktardı. Abdullah ibn Umar'a, kocası vefat eden hamile bir kadın hakkında soruldu ve o dedi ki: \"Doğum yaptıktan sonra, evlenmekte serbesttir.\" Yanında bulunan bir Ensar, ona Umar ibn al-Khattab'ın şöyle dediğini aktardı: \"Eğer kocası hala yatağında, gömülmeden doğum yapsaydı, evlenmekte serbest olurdu.\""
+    },
+    {
+      "id": 97,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 98,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Malik'in Hisham ibn 'Urwa'dan, onun babasından, al-Miswar ibn Makhrama'nın Subaya al-Aslamiya'nın kocasının vefatından birkaç gece sonra doğum yaptığını söylediğini aktardı. Allah'ın Elçisi, ona şöyle dedi: \"Evlenmekte serbestsin, dilediğinle evlen.\""
+    },
+    {
+      "id": 99,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 100,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Malik'in Yahya ibn Said'den, Sulayman ibn Yasar'dan duyduğunu aktardı. Abdullah ibn Abbas ve Abu Salama ibn Abd ar-Rahman ibn Awf, kocası vefatından birkaç gece sonra doğum yapan bir kadın hakkında farklı görüşlere sahipti. Abu Salama dedi ki: \"O, taşıdığı çocuğu doğurduğunda, evlenmekte serbesttir.\" Ibn Abbas dedi ki: \"İki adet dönemi sonunda.\" Abu Hurayra geldi ve \"Ben yeğenimle birlikteyim,\" dedi, yani Abu Salama ile. Onlar, Abdullah ibn Abbas'ın kölesi Kurayb'i, Allah'ın Elçisi'nin eşi Umm Salama'ya gönderdiler ve bu konuyu ona sordu. O geri döndü ve onlara, Umm Salama'nın Subaya al-Aslamiya'nın kocasının vefatından birkaç gece sonra doğum yaptığını ve bu konuyu Allah'ın Elçisi'ne getirdiğini, O'nun da \"Evlenmekte serbestsin, dilediğinle evlen\" dediğini aktardı."
+    },
+    {
+      "id": 101,
+      "narrator": "",
+      "text": "Malik dedi ki: \"Buradaki ilim ehli böyle davranmaya devam ediyor.\""
+    },
+    {
+      "id": 102,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 103,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Malik'in Said ibn Ishaq ibn Kab ibn Ujra'dan, onun teyzesinden, Zaynab bint Kab ibn Ujra'dan, al-Furaya bint Malik ibn Sinan'ın, Abu Said al-Khudri'nin kız kardeşi olduğunu ve onun, Allah'ın Elçisi'ne gittiğini ve kocası, kaçan kölelerinden bazılarını aramak için dışarı çıktığında, al-Qudum yakınlarında onlarla karşılaştığını ve onların onu öldürdüğünü bildirdiğini aktardı."
+    },
+    {
+      "id": 104,
+      "narrator": "",
+      "text": "O şöyle dedi: \"Ben, Allah'ın Elçisi'ne, Banu Khudra'daki halkıma dönebilir miyim diye sordum, çünkü kocam beni kendisine ait bir evde bırakmamıştı ve bana hiçbir nafaka bırakmamıştı. Allah'ın Elçisi, 'Evet' dedi. Böylece ayrıldım. Avluda olduğumda, Allah'ın Elçisi beni çağırdı ve ben de cevap verdim. O, 'Ne dedin?' dedi. Kocamla ilgili hikayeyi tekrar ettim. O, 'Evinde kal, ta ki yazılan şeyin süresi dolana kadar' dedi. Ben, evde dört ay on gün iddetimi geçirdim.\""
+    },
+    {
+      "id": 105,
+      "narrator": "",
+      "text": "O ekledi: \"Uthman ibn Affan beni çağırdığında, ona bunu söyledim ve o da bunu takip etti ve buna göre kararlar aldı.\""
+    },
+    {
+      "id": 106,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Rabia ibn Abi Abd ar-Rahman'dan, Muhammad ibn Yahya ibn Habban'dan, İbn Muhayriz'in şöyle dediğini aktardı: \"Camiye girdim ve Abu Said al-Khudri'yi gördüm, yanına oturdum ve coitus interruptus hakkında sordum. Abu Said al-Khudri dedi ki: 'Biz, Allah'ın Elçisi ile birlikte, may Allah ona salat ve selam eylesin, Banu al-Mustaliq'e yapılan seferdeydik. Bazı Arapları esir aldık ve kadınlara ihtiyaç duyuyorduk, çünkü bekarlık bizim için zor geliyordu. Fidye istiyorduk, bu yüzden coitus interruptus uygulamak istedik. 'Allah'ın Elçisi, may Allah ona salat ve selam eylesin, aramızdayken coitus interruptus uygulayalım mı?' dedik. Ona bunu sorduk ve o şöyle dedi: 'Bunu yapmamanız gerekmez. Kıyamet Günü'ne kadar var olacak hiçbir nefis yoktur ki, var olmasın.'\""
+    },
+    {
+      "id": 107,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abu'n-Nadr'dan, Umar ibn Ubaydullah'ın kölesi olan Amir ibn Sad ibn Abi Waqqas'tan, babasından, onun coitus interruptus uyguladığını aktardığını duydu."
+    },
+    {
+      "id": 108,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abu'n-Nadr'dan, Umar ibn Ubaydullah'ın kölesi olan İbn Aflah'tan, Abu Ayyub al-Ansari'nin kölesi olan bir umm walad'dan, onun coitus interruptus uyguladığını aktardığını duydu."
+    },
+    {
+      "id": 109,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Nafi'den, Abdullah ibn Umar'ın coitus interruptus uygulamadığını ve bunun hoş karşılanmadığını düşündüğünü aktardığını duydu."
+    },
+    {
+      "id": 110,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Damra ibn Said al-Mazini'den, al-Hajjaj ibn Amr ibn Ghaziya'dan, Zayd ibn Thabit ile oturduğunda, İbn Fahd'ın ona geldiğini aktardı. O Yemen'dendi. Dedi ki: \"Abu Said! Benim cariyelerim var. Eşim olan kadınlardan hiçbiri onlardan daha hoşuma gitmiyor ve hepsi de o kadar hoşuma gitmiyor ki, onlardan çocuk istemek isteyeyim, o zaman coitus interruptus uygulayabilir miyim?\" Zayd ibn Thabit dedi ki: \"Bir görüş bildir, Hajjaj!\" \"Ben dedim ki: 'Allah seni affetsin! Biz seninle oturuyoruz ki, senden öğrenelim!' O dedi ki: 'Bir görüş bildir!' Ben dedim ki: 'O senin tarlan, istersen sulayıp, istersen susuz bırak. Bunu Zayd'dan duydum.' Zayd dedi ki: 'Gerçekten doğru söyledi.'\""
+    },
+    {
+      "id": 111,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Humayd ibn Qays al-Makki'den, Dhafif adında bir adamın, İbn Abbas'a coitus interruptus hakkında sorulduğunu ve onun bir cariyesini çağırıp, \"Onlara söyle.\" dediğini aktardı. O utandı. O dedi ki: \"Sorun yok, ben de kendim yapıyorum.\""
+    },
+    {
+      "id": 112,
+      "narrator": "",
+      "text": "Malik dedi ki: \"Bir adam, bir hür kadınla coitus interruptus uygulamaz, ancak o izin verirse. Bir cariye ile onun izni olmadan coitus interruptus uygulamakta bir sakınca yoktur. Başkasının cariyesini eş olarak alan bir kimse, onun halkı izin vermedikçe onunla coitus interruptus uygulamaz.\""
+    },
+    {
+      "id": 113,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abdullah ibn Abi Bakr ibn Muhammad ibn Amr ibn Hazm'dan, Humayd ibn Nafi'den, Zaynab bint Abi Salama'nın bu üç rivayeti ona aktardığını duydu. Zaynab dedi ki: \"Umm Habiba'yı, Allah'ın Elçisi'nin, may Allah ona salat ve selam eylesin, eşi, babası Abu Sufyan ibn Harb vefat ettiğinde ziyaret ettim. Umm Habiba, sarımtırak bir parfüm istedi, belki de khaluq ya da başka bir şey. Önce bir cariyenin üzerine parfüm sürdü, sonra yüzünün yanlarına sildi ve dedi ki: 'Vallahi! Parfüme ihtiyacım yok ama Allah'ın Elçisi'ni, may Allah ona salat ve selam eylesin, şöyle derken duydum: 'Allah'a ve Ahiret Günü'ne güvenen bir kadının, ölen birisi için yas tutarken süslenmekten üç geceden fazla kaçınması helal değildir, ancak bir koca için dört ay on gün dışında.'\""
+    },
+    {
+      "id": 114,
+      "narrator": "",
+      "text": "Zaynab dedi ki: \"Zaynab bint Jahsh'ın, Allah'ın Elçisi'nin, may Allah ona salat ve selam eylesin, eşi, kardeşi vefat ettiğinde evine gittim. Parfüm istedi ve biraz sürdü ve dedi ki: 'Vallahi! Parfüme ihtiyacım yok ama Allah'ın Elçisi'ni, may Allah ona salat ve selam eylesin, şöyle derken duydum: 'Allah'a ve Ahiret Günü'ne güvenen bir kadının, ölen birisi için yas tutarken süslenmekten üç geceden fazla kaçınması helal değildir, ancak bir koca için dört ay on gün dışında.'\""
+    },
+    {
+      "id": 115,
+      "narrator": "",
+      "text": "Zaynab dedi ki: \"Annem Umm Salama'nın, Allah'ın Elçisi'ne, may Allah ona salat ve selam eylesin, bir kadın geldiğini ve 'Allah'ın Elçisi! Kızımın eşi vefat etti ve gözleri onu rahatsız ediyor, gözlerine kohl sürebilir mi?' dediğini işittim. Allah'ın Elçisi, may Allah ona salat ve selam eylesin, 'Hayır' dedi, iki veya üç kez. Sonra dedi ki: 'Bu sadece dört ay on gündür. Cahiliye döneminde, hiçbiri bir yıl geçmeden dışkı parçasını atmazdı.'\""
+    },
+    {
+      "id": 116,
+      "narrator": "",
+      "text": "Humayd ibn Nafi dedi ki: \"Zaynab'tan, 'bir yıl sonunda dışkı parçasını atmak' ne anlama geliyor diye sordum. Zaynab dedi ki: 'Cahiliye döneminde bir kadının eşi vefat ettiğinde, küçük bir tente girer ve en kötü giysileri giyerdi. Bir yıl geçene kadar parfüm veya başka bir şey kullanmazdı. Sonra ona bir hayvan - bir eşek, bir koyun veya bir kuş getirilir ve iddası ile onu kırardı, vücudunu ona sürterek (taftaddu). Nadir olarak, kendisini bir şeyle (ona sürterek) iddasını kırdığı zaman, o ölmezdi. Sonra dışarı çıkar ve ona bir dışkı parçası verilirdi. Onu atar ve sonra istediği parfümlere veya başka şeylere dönerdi.'\""
+    },
+    {
+      "id": 117,
+      "narrator": "",
+      "text": "Malik açıkladı: \"'Taftaddu', onun cildini bununla silmek demektir, tıpkı bir şifa büyüsü gibi.\""
+    },
+    {
+      "id": 118,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Nafi'den, Safiyya bint Abi Ubayd'dan, A'isha ve Hafsa'nın, Allah'ın Elçisi'nin, may Allah ona salat ve selam eylesin, şöyle dediğini aktardığını duydu: \"Ölen birisi için yas tutan bir kadının, Allah'a ve Ahiret Günü'ne güveniyorsa, süslenmekten üç geceden fazla kaçınması helal değildir, ancak bir koca için.\""
+    },
+    {
+      "id": 119,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Umm Salama'nın, Allah'ın Elçisi'ne, may Allah ona salat ve selam eylesin, kocasının vefatından dolayı gözleri rahatsız olan bir kadına, \"Gece jala kohl sür ve gündüz sil.\" dediğini duydu."
+    },
+    {
+      "id": 120,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Salim ibn Abdullah ve Sulayman ibn Yasar'ın, eşi vefat eden bir kadının gözlerinin iltihaplanmasından korkuyorsa veya başka bir rahatsızlık olabileceğinden korkuyorsa, kohl sürmesi ve kohl veya başka bir tedavi araması gerektiğini, parfüm içerse bile, söylediklerini aktardı."
+    }
+  ]
+}

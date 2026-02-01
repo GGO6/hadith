@@ -1,0 +1,46 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 6,
+    "arabic": {
+      "title": "صحيح البخاري",
+      "author": "الإمام محمد بن إسماعيل البخاري"
+    },
+    "english": {
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Muhammad ibn Ismail al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Abu Huraira'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) Ramazan hakkında şöyle buyurdu: \"Kim bu ayda (Ramazan) geceleyin samimi bir imanla ve Allah'tan bir ödül umarak namaz kılarsa, geçmişteki tüm günahları affedilir.\""
+    },
+    {
+      "id": 2,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Abu Huraira'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Kim Ramazan ayının tamamında geceleyin samimi bir imanla ve Allah'tan bir ödül umarak namaz kılarsa, geçmişteki tüm günahları affedilir.\" İbn Şihab (bir alt rivayetçi) dedi ki: \"Allah'ın Elçisi (ﷺ) vefat etti ve insanlar bu (yani, cemaatle değil, bireysel olarak kılınan nafile namazlar) uygulamaya devam ettiler ve bu, Ebu Bekir'in halifeliği döneminde ve Ömer'in halifeliğinin ilk günlerinde olduğu gibi kaldı.\""
+    },
+    {
+      "id": 3,
+      "narrator": "",
+      "text": "'Abdur Rahman bin 'Abdul Qari şöyle dedi: \"Bir gece Ramazan'da 'Umar bin Al-Khattab ile birlikte camiye çıktım ve insanların farklı gruplar halinde namaz kıldıklarını gördüm. Bir adam yalnız başına namaz kılıyor ya da arkasında az sayıda insan bulunan bir adam vardı. Bunun üzerine 'Umar dedi ki: 'Bence bu (insanları) bir Kâri (Kur'an okuyan) liderliğinde toplamak daha iyi olur (yani, cemaatle namaz kılmaları için)!'. Böylece onları Ubai bin Ka'b'ın arkasında toplamak için karar verdi. Sonra başka bir gece tekrar onunla birlikte gittim ve insanlar kendi Kâri'lerinin arkasında namaz kılıyorlardı. Bunun üzerine 'Umar şöyle dedi: 'Ne güzel bir Bid'a (yani, dinde yenilik) bu; ama onların kılmadığı, uyudukları zaman kıldıkları namaz, kıldıkları namazdan daha hayırlıdır.' Gece namazını kastetti. (O günlerde) insanlar gecenin erken saatlerinde namaz kılarlardı.\""
+    },
+    {
+      "id": 4,
+      "narrator": "Narrated `Aisha:",
+      "text": "`Aişe'den rivayet edilmiştir: (Peygamberin eşi) Allah'ın Elçisi (ﷺ) Ramazan'da (gece) namaz kılardı."
+    },
+    {
+      "id": 5,
+      "narrator": "Narrated 'Urwa:",
+      "text": "'Urva'dan rivayet edilmiştir: `Aişe'den duyduğuna göre, \"Allah'ın Elçisi (ﷺ) gece yarısı camiye çıktı ve camide bazı adamlar arkasında namaz kıldılar. Sabah olduğunda insanlar bunu konuştu ve sonra aralarından büyük bir grup toplandı ve onun arkasında (ikinci gece) namaz kıldılar. Ertesi sabah insanlar yine bunu konuştu ve üçüncü gece cami kalabalıkla doldu. Allah'ın Elçisi (ﷺ) dışarı çıktı ve insanlar onun arkasında namaz kıldılar. Dördüncü gece cami insanlarla dolup taştı ve onları alacak yer kalmadı, ama Peygamber (ﷺ) sadece sabah namazı için dışarı çıktı. Sabah namazı bitince Tashahhud okudu ve (insanlara hitaben) şöyle dedi: 'Amma ba'du, sizin burada bulunmanız benden gizli değildi ama gece namazının (Kıyam) sizlere farz kılınmasından korktum ve onu yerine getiremeyeceğinizden endişelendim.' Böylece Allah'ın Elçisi vefat etti ve durum böyle devam etti (yani, insanlar bireysel olarak namaz kıldılar).\""
+    },
+    {
+      "id": 6,
+      "narrator": "Narrated Abu Salama bin `Abdur Rahman:",
+      "text": "Abu Salama bin `Abdur Rahman'dan rivayet edilmiştir: O, `Aişe'ye \"Allah'ın Elçisi (ﷺ) Ramazan'da nasıl namaz kılardı?\" diye sordu. O da şöyle cevap verdi: \"O, Ramazan'da veya başka bir ayda on bir rek'attan fazla namaz kılmazdı. Dört rek'at kılardı ---- güzellikleri ve uzunlukları bir yana ---- sonra dört rek'at daha kılardı ---- güzellikleri ve uzunlukları bir yana ---- ve ardından üç rek'at (vitir) kılardı.\" O ekledi: \"Ben sordum, 'Ey Allah'ın Elçisi (ﷺ)! Vitir namazından önce uyur musun?' O da cevap verdi: 'Ey `Aişe! Gözlerim uyur ama kalbim uyumaz.'\""
+    }
+  ]
+}

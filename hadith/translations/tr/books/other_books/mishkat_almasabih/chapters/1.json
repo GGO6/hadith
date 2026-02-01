@@ -1,0 +1,956 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 188,
+    "arabic": {
+      "title": "مشكاة المصابيح",
+      "author": "الخطيب التبريزي"
+    },
+    "english": {
+      "title": "Mishkat al-Masabih",
+      "author": "Al-Khatib al-Tabrizi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "‘Umar b. al-Khattab said:",
+      "text": "Ömer b. Hattab dedi ki: Bir gün Allah'ın elçisi ile birlikteyken, çok beyaz elbiseler giymiş ve çok siyah saçları olan bir adam yanımıza geldi. Üzerinde yolculuk izleri yoktu ve hiçbiri onu tanımadı. Peygamberin yanına oturarak dizlerini onun dizlerine dayadı ve ellerini uyluklarına koyarak, “Bana, Muhammed, İslam hakkında söyle” dedi. Peygamber, “İslam, Allah'tan başka ilah olmadığına ve Muhammed'in Allah'ın elçisi olduğuna şehadet etmen, namazı kılman, zekatı vermen, Ramazan'da oruç tutman ve hacca gitme imkânın varsa hacca gitmendir” diye cevap verdi. Adam, “Gerçekten doğru söyledin” dedi. Onun sorularına cevap vermesi ve ardından doğru söylediğini belirtmesi bizi şaşırttı. Adam, “Şimdi bana iman hakkında söyle” dedi. Peygamber, “İman, Allah'a, meleklerine, kitaplarına, elçilerine ve ahiret gününe inanman ve hayır ve şer olan her şeyin takdirine inanmandır” diye cevap verdi. Adam, “Gerçekten doğru söyledin” diyerek, “Şimdi bana iyilik yapmaktan bahset” dedi. Peygamber, “İyilik, Allah'a, sanki O'nu görüyormuşsun gibi ibadet etmendir; çünkü O seni görür, sen O'nu göremezsin” diye cevap verdi. Adam, “Şimdi bana Kıyamet hakkında söyle” dedi. Peygamber, “O konuda sorulan kişi, soran kişiden daha iyi bilgilendirilmiş değildir” diye cevap verdi. Adam, “O zaman onun alametleri hakkında söyle” dedi. Peygamber, “Bir cariyenin hanesini doğurması ve ayakları çıplak, çıplak, fakir ve çobanların binalarda kendilerini yüceltmelerini görmendir” diye cevap verdi. O bana, “Sence soran kimdi, Ömer?” dedi. Ben de, “Allah ve O'nun elçisi en iyi bilendir” dedim. O, “O, size dininizi öğretmek için gelen Cebrail'dir” dedi."
+    },
+    {
+      "id": 2,
+      "narrator": "Abu Huraira transmitted it with a difference containing the following:",
+      "text": "Muslim bunu aktarmıştır."
+    },
+    {
+      "id": 3,
+      "narrator": "Ibn ‘Umar reported God's messenger as saying, “Islam is based on five things:",
+      "text": "---"
+    },
+    {
+      "id": 4,
+      "narrator": "",
+      "text": "Ebu Hureyre, şu farklılıkla aktardı: Ayakları çıplak, çıplak, sağır, dilsiz olanları yeryüzünün kralları olarak gördüğünüzde ve yalnızca Allah'ın bildiği beş şey hakkında. Sonra, “Allah Kıyamet hakkında bilgi sahibidir ve yağmuru indirir…” diye okudu."
+    },
+    {
+      "id": 5,
+      "narrator": "‘Abdallah b. ‘Amr reported God's messenger as saying, “The Muslim is he from whose tongue and hand the Muslims are safe, and the Emigrant is he who abandons what God has prohibited.” \n\nThis is Bukhari’s wording. \nMuslim has:",
+      "text": "(Buhari ve Muslim.)"
+    },
+    {
+      "id": 6,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 7,
+      "narrator": "He also reported God’s messenger as saying, “There are three qualities for which anyone who is characterised by them will experience the sweetness of faith:",
+      "text": "İbn Ömer, Allah'ın elçisinin şöyle dediğini bildirdi: “İslam beş şey üzerine kuruludur: Allah'tan başka ilah olmadığına ve Muhammed'in O'nun elçisi ve kulu olduğuna şehadet, namazı kılmak, zekatı vermek, hacca gitmek ve Ramazan'da oruç tutmaktır.”"
+    },
+    {
+      "id": 8,
+      "narrator": "",
+      "text": "(Buhari ve Muslim.)"
+    },
+    {
+      "id": 9,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 10,
+      "narrator": "Abu Musa al-Ash‘ari reported God’s messenger as saying, \"Three types will have a double reward:",
+      "text": "Ebu Hureyre, Allah'ın elçisinin şöyle dediğini bildirdi: “İman, yetmişten fazla dalı olan bir şeydir; bunların en üstünü, Allah'tan başka ilah olmadığına şehadet etmek, en alçak olanı ise yoldan zararlı olanı kaldırmaktır. Ve haya, imanın bir dalıdır.”"
+    },
+    {
+      "id": 11,
+      "narrator": "",
+      "text": "(Buhari ve Muslim.)"
+    },
+    {
+      "id": 12,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 13,
+      "narrator": "",
+      "text": "Abdullah b. Amr, Allah'ın elçisinin şöyle dediğini bildirdi: “Müslüman, Müslümanların dilinden ve elinden güvende olduğu kimsedir; muhacir ise Allah'ın yasakladığını terk edendir.”"
+    },
+    {
+      "id": 14,
+      "narrator": "",
+      "text": "Bu, Buhari'nin sözleridir."
+    },
+    {
+      "id": 15,
+      "narrator": "Talha b. ‘Ubaidallah said:",
+      "text": "Muslim'de: Bir adam Peygamber'e, “Müslümanların en hayırlısı kimdir?” diye sordu. O, “Müslümanların dilinden ve elinden güvende olduğu kimsedir” diye cevap verdi."
+    },
+    {
+      "id": 16,
+      "narrator": "Ibn ‘Abbas said that when the deputation of ‘Abd Qais came to the Prophet, God's messenger asked, “Who are the people?” or, “Who are the deputation?” They replied, “Rabi‘a”, and he said, “Welcome to the people (or deputation), neither ashamed nor regretful.” They said, “Messenger of God, we are able to come to you only in the sacred month, for this tribe of the infidels of Mudar is between us and you; so give us a decisive command which we may tell to those at home and by  which we may enter paradise;” and they asked him about drinks. He commanded them to observe four things and he forbade them four things. He commanded them to put their faith in God alone saying, “Do you know what faith in God alone is?” They replied, “God and His messenger know best.” He said, “It includes the testimony that there is no god but God and that Muhammad is God’s messenger, the observance of the prayer, the payment of zakat, the fast of Ramadan, and your giving a fifth of the booty.” And he forbade them four things:",
+      "text": "İbn Abbas, Abd Qais heyeti Peygamber'e geldiğinde, Allah'ın elçisinin, \"Bu insanlar kim?\" veya \"Heyet kimdir?\" diye sorduğunu söyledi. Onlar, \"Rabia\" dediler, o da, \"İnsanlara (veya heyete) hoş geldiniz, ne utanç ne de pişmanlık içindesiniz.\" dedi. Onlar, \"Ey Allah'ın elçisi, biz sadece kutsal ayda size gelebiliyoruz, çünkü bu Mudar kafirleri bizimle sizin aranızda; bize kesin bir emir verin ki, evdekilere iletebilelim ve cennete girelim.\" dediler; ve ona içecekler hakkında sordular. O, onlara dört şeyi emretti ve dört şeyi yasakladı. Onlara yalnızca Allah'a iman etmelerini emretti ve \"Sadece Allah'a iman nedir biliyor musunuz?\" dedi. Onlar, \"Allah ve O'nun elçisi en iyi bilendir.\" dediler. O, \"Bu, Allah'tan başka ilah olmadığına ve Muhammed'in Allah'ın elçisi olduğuna şehadet etmeyi, namazı kılmayı, zekatı vermeyi, Ramazan orucunu tutmayı ve ganimetin beşte birini vermeyi içerir.\" dedi. Ve onlara dört şeyi yasakladı: cam kavanozlar, kabaklar, palmiyelerin oyulmuş kütükleri ve katranla kaplanmış kaplar, \"Bunlara dikkat edin ve evdeki halkınıza bunları bildirin.\" diyerek."
+    },
+    {
+      "id": 17,
+      "narrator": "",
+      "text": "(Buhari ve Müslim, ancak lafız Buhari'ye aittir)."
+    },
+    {
+      "id": 18,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 19,
+      "narrator": "Abu Huraira reported that God’s messenger declared that God said, “The son of Adam has accused me of falsehood, which he had no right to do; and he has reviled me, which he had no right to do. His accusation of falsehood is in his saying, ‘He will not bring me back to life as He created me’, whereas the original act of creation is no easier for me than to bring him back to life. His reviling of me is in his saying, ‘God has taken a son’, whereas I am the One, to whom men repair, who has not begotten and has not been begotten, and to whom no one is equal.” A version from Ibn ‘Abbas has:",
+      "text": "Ubade b. as-Samit, Allah'ın elçisinin, etrafında bir grup arkadaşının bulunduğu sırada, \"Bana biat edin, Allah'a hiçbir şeyi ortak koşmayacağınız, çalmayacağınız, zina etmeyeceğiniz, çocuklarınızı öldürmeyeceğiniz, kendinizin uydurduğu iftiraları üretmeyeceğiniz ve iyilikte isyan etmeyeceğiniz şartıyla.\" dediğini bildirdi. \"Eğer sizden biri vaadini yerine getirirse, Allah onun mükafatını üstlenecektir; ama eğer biri bu şeylerden herhangi birini işlerse ve bu dünyada bunun cezasını çekerse, bu onun için bir kefaret olacaktır. Ancak, eğer biri bu şeylerden herhangi birini işlerse ve Allah onu gizlerse, iş onun elindedir; eğer dilerse onu affeder, eğer dilerse onu cezalandırır.\" dedi. Böylece biz ona bu şartla biat ettik."
+    },
+    {
+      "id": 20,
+      "narrator": "",
+      "text": "(Buhari ve Müslim.)"
+    },
+    {
+      "id": 21,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 22,
+      "narrator": "Mu'adh said:",
+      "text": "Ebu Sa'id el-Hudri, Allah'ın elçisi kurban günü veya oruç açma günü namaz yerine çıktığında bazı kadınlarla karşılaştığını ve \"Sadaka verin, ey kadınlar, çünkü size cehennemin sakinlerinin çoğunluğunu oluşturacağınız gösterildi.\" dediğini bildirdi. Onlar, \"Neden, ey Allah'ın elçisi?\" dediler. O, \"Siz çokça sövüyorsunuz ve kocalarınıza nankörlük ediyorsunuz. Zeka ve din noksanlığı olan kadınlar arasında, birinizin akıllı bir adamın anlayışını daha fazla ortadan kaldırabileceğini görmedim.\" dedi. Onlar, \"Dinimizde ve aklımızda ne gibi bir eksiklik var, ey Allah'ın elçisi?\" dediler. O, \"Bir kadının şehadeti, bir erkeğin şehadetinin yarısı mıdır?\" dedi. Onlar, \"Evet.\" dediler. Zeka noksanlığına işaret ederek, \"Kadın adet gördüğünde ne ne namaz kılar ne de oruç tutar.\" dedi. Onlar, \"Evet.\" dediler. O, \"Bu da dininin noksanlığına aittir.\" dedi."
+    },
+    {
+      "id": 23,
+      "narrator": "",
+      "text": "(Buhari ve Müslim.)"
+    },
+    {
+      "id": 24,
+      "narrator": "Abu Dharr said:",
+      "text": "---"
+    },
+    {
+      "id": 25,
+      "narrator": "",
+      "text": "Ebu Hureyre, Allah'ın elçisinin, Allah'ın şöyle dediğini bildirdi: \"Adem oğlu bana yalan isnat etti, bunu yapmaya hakkı yoktu; ve bana sövdü, bunu yapmaya hakkı yoktu. Onun yalan isnadı, 'Beni yarattığı gibi tekrar diriltmeyecek' demesindedir; oysa yaratılışın ilk eylemi, onu diriltmekten daha kolay değildir. Bana sövmesi ise, 'Allah bir oğul edinmiştir' demesindedir; oysa ben, insanların başvurduğu, doğurmayan ve doğurulmamış olan, kimseye eşit olmayan biriyim.\" İbn Abbas'tan gelen bir versiyonda: \"Bana sövmesi, 'Bende bir oğul var' demesindedir. Benden uzak olsun ki, benim bir eşim veya oğlum olsun.\""
+    },
+    {
+      "id": 26,
+      "narrator": "'Amr b. al-‘As said:",
+      "text": "Buhari bunu nakletmiştir."
+    },
+    {
+      "id": 27,
+      "narrator": "Mu‘adh b. Jabal reported:",
+      "text": "---"
+    },
+    {
+      "id": 28,
+      "narrator": "",
+      "text": "Ebu Hureyre, Allah'ın elçisinin, Allah'ın şöyle dediğini bildirdi: \"Adem oğlu, zamanı söverek bana zarar verir; oysa ben zamandayım. Yetki benim elimdedir. Gece ve gündüzü değiştiririm.\""
+    },
+    {
+      "id": 29,
+      "narrator": "",
+      "text": "(Buhari ve Müslim.)"
+    },
+    {
+      "id": 30,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 31,
+      "narrator": "Anas said:",
+      "text": "Anas dedi ki: Allah’ın elçisi, “Güvenilir olmayanın imanı yoktur ve ahdine uymayanın dini yoktur” demeden nadiren bize hitap ederdi."
+    },
+    {
+      "id": 32,
+      "narrator": "‘Ubada b. as-Samit said:",
+      "text": "Baihaqi bunu Shu'ab al-İman'da aktarmıştır."
+    },
+    {
+      "id": 33,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 34,
+      "narrator": "",
+      "text": "‘Ubada b. as-Samit dedi ki: Allah’ın elçisinin, “Kim ‘Allah’tan başka ilah yoktur ve Muhammed Allah’ın elçisidir’ diye şehadet ederse, Allah onu cehennemden koruyacaktır” dediğini işittim."
+    },
+    {
+      "id": 35,
+      "narrator": "Abu Huraira said:",
+      "text": "Muslim bunu aktarmıştır."
+    },
+    {
+      "id": 36,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 37,
+      "narrator": "‘Uthman said that when the Prophet died some of his companions were so grieved that they almost began to harbour doubts. Remarking that he was one of them, ‘Uthman said:",
+      "text": "‘Uthman b. ‘Affan, Allah’ın elçisinin, “Kim Allah’tan başka ilah olmadığını bilerek ölürse, cennete girecektir” dediğini bildirmiştir."
+    },
+    {
+      "id": 38,
+      "narrator": "",
+      "text": "Muslim bunu aktarmıştır."
+    },
+    {
+      "id": 39,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 40,
+      "narrator": "",
+      "text": "Jabir, Allah’ın elçisinin, “İki şeyin sonuçları vardır” dediğini bildirmiştir. Bir adamın bu iki şeyin ne olduğunu sorması üzerine, “Şirk içinde ölen cehenneme girecek, yalnızca Allah’a ibadet ederek ölen ise cennete girecektir” diye cevap vermiştir."
+    },
+    {
+      "id": 41,
+      "narrator": "",
+      "text": "Muslim bunu aktarmıştır."
+    },
+    {
+      "id": 42,
+      "narrator": "‘Amr b. ‘Abasa said:",
+      "text": "---"
+    },
+    {
+      "id": 43,
+      "narrator": "",
+      "text": "Abu Huraira dedi ki: Allah’ın elçisinin etrafında oturuyorduk, Abu Bekir, ‘Umar ve bazı diğerleri bizimle birlikteydi, Allah’ın elçisi kalkıp gitti. Bir süre gecikti, bu da bizi korkuttu; onunla birlikte olmadığımızda bir düşmanın onu saldırıya uğratmasından endişelendik; bu yüzden alarm halinde kalktık. Ben ilk endişelenen oldum. Bu nedenle Allah’ın elçisini aramak için dışarı çıktım ve Ensar’dan B. an-Necjar’a ait bir bahçeye geldim. Bahçeyi dolaşarak bir kapı aradım, ama bulamadım. Dışarıdan bir kuyuya akan bir rabi’ (yani dere) gördüm, kendimi toparlayıp Allah’ın elçisinin bulunduğu yere girdim. O, “Bu Abu Huraira mı?” dedi. Ben de, “Evet, Allah’ın elçisi” dedim. O, “Ne istiyorsun?” dedi. Ben de, “Sen bizimleydin, ama kalkıp gittin ve bir süre geciktin, bu yüzden seninle birlikte olmadığımızda bir düşmanın seni saldırıya uğratmasından korkarak endişelendik. Ben ilk endişelenen oldum, bu bahçeye geldiğimde bir tilki gibi kendimi toparladım; bu insanlar da peşimdeler” dedim. Adımla hitap ederek, bana sandaletlerini verdi ve, “Bu sandaletlerimi al, ve bu bahçenin dışındaki herhangi birine rastladığında, ‘Allah’tan başka ilah yoktur’ diye şehadet eden, kalbinde buna inanmış olanı cennete gireceği müjdesiyle sevindir” dedi. İlk karşılaştığım kişi ‘Umar oldu. O, “Bu sandaletler ne, Abu Huraira?” diye sordu. Ben de, “Bunlar Allah’ın elçisinin sandaletleridir, beni bu sandaletlerle, ‘Allah’tan başka ilah yoktur’ diye şehadet eden, kalbinde buna inanmış olanı cennete gireceği müjdesiyle sevindirmek için gönderdi” dedim. Bunun üzerine ‘Umar göğsüme vurdu ve ben oturduğum yerden düştüm.” Sonra, “Geri dön, Abu Huraira” dedi; ben de Allah’ın elçisine geri döndüm ve ağlamaya hazırdım. ‘Umar beni yakından takip etti ve arkamda durdu. Allah’ın elçisi, “Sana ne oldu, Abu Huraira?” dedi. Ben de, “‘Umar ile karşılaştım ve ona mesajını ilettim, bunun üzerine göğsüme bir darbe vurdu ve oturduğum yerden düştüm ve geri dönmemi emretti” dedim. Allah’ın elçisi, “Seni, ‘Umar, böyle bir şey yapmaya ne sevk etti?” dedi. O, “Allah’ın elçisi, benim için babamı ve annemi fidye olarak verebileceğim kişi, Abu Huraira’yı, ‘Allah’tan başka ilah yoktur’ diye şehadet eden, kalbinde buna inanmış olanı cennete gireceği müjdesiyle sevindirmek için sandaletlerinle gönderdin mi?” dedi. O, “Evet” dedi. ‘Umar, “Bunu yapmamalısın, çünkü insanların buna güvenip kalacaklarından korkuyorum; onları iş yapmaya devam etsinler” dedi. Allah’ın elçisi, “Peki, bırak gitsinler” dedi."
+    },
+    {
+      "id": 44,
+      "narrator": "",
+      "text": "Muslim bunu aktarmıştır."
+    },
+    {
+      "id": 45,
+      "narrator": "‘Abdallah b. Mas'ud said that a man asked God’s messenger, what was the greatest sin in God’s sight, to which he replied, “That you should treat anything as equal to God when He has created you.\" “What next?’’ he asked, to which he replied, “That you should kill your child for fear that he may eat along with you.”. ‘‘What next?\" he asked, to which he replied, “That you should commit adultery with your neighbour’s wife.\" God has revealed words which verify this :",
+      "text": "---"
+    },
+    {
+      "id": 46,
+      "narrator": "",
+      "text": "Abdullah b. Amr, Allah'ın elçisinin şöyle dediğini bildirmiştir: “Büyük günahlar, Allah'a ortak koşmak, ebeveynlere itaatsizlik, cinayet ve kasten yalan yere yemin etmektir (al-yamin al-ghamus).”"
+    },
+    {
+      "id": 47,
+      "narrator": "",
+      "text": "Buhari bunu aktarmıştır. Enes'in rivayetinde “yalan tanıklık” (shahadat al-zur) ifadesi “kasten yalan yere yemin” yerine geçmektedir."
+    },
+    {
+      "id": 48,
+      "narrator": "",
+      "text": "(Buhari ve Müslim.)"
+    },
+    {
+      "id": 49,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 50,
+      "narrator": "‘Abdallah b. ‘Amr reported God's messenger as saying, “Four characteristics constitute anyone who possesses them a sheer hypocrite, and anyone who possesses one of them possesses a characteristic of hypocrisy till he abandons it:",
+      "text": "Ebu Hureyre, Allah'ın elçisinin şöyle dediğini bildirmiştir: “Yedi zararlı şeyden kaçının.” Dinleyicileri “Bunlar nelerdir, Allah'ın elçisi?” diye sorduklarında, o şöyle cevap vermiştir: “Allah'a ortak koşmak, sihir, Allah'ın haram kıldığı birini haksız yere öldürmek, faizi yemek, yetimin malını yemek, ordu ilerlerken geri dönmek ve iffetli, fakat dikkatsiz mümin kadınları karalamak.”"
+    },
+    {
+      "id": 51,
+      "narrator": "",
+      "text": "(Buhari ve Müslim.)"
+    },
+    {
+      "id": 52,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 53,
+      "narrator": "Anas reported God’s messenger as saying, “Three matters pertain to the root of faith:",
+      "text": "O, Allah'ın elçisinin şöyle dediğini de bildirmiştir: “Bir kişi zina ettiğinde, o mümin değildir; bir kişi hırsızlık yaptığında, o mümin değildir; bir kişi şarap içtiğinde, o mümin değildir; bir kişi, insanların kendisine bakmasına neden olan bir ganimet aldığında, o mümin değildir; ve sizden biri dolandırıcılık yaptığında, o mümin değildir; bu yüzden dikkat edin, dikkat edin!”"
+    },
+    {
+      "id": 54,
+      "narrator": "",
+      "text": "(Buhari ve Müslim.)"
+    },
+    {
+      "id": 55,
+      "narrator": "Mu'adh said:",
+      "text": "İbn Abbas'ın rivayetinde “Bir kişi cinayet işlediğinde, o mümin değildir.” ifadesi bulunmaktadır. İkrime, İbn Abbas'a imanın nasıl elden gidebileceğini sorduğunda, o şöyle cevap vermiştir: “Böyle (parmaklarını birleştirip sonra ayırarak), ama eğer tövbe ederse, o ona böyle (parmaklarını birleştirerek) geri döner.” Ebu Abdullah, böyle birinin tam bir mümin olmadığını ve imanın nuruna sahip olmadığını söylemiştir. Bu, Buhari'nin ifadesidir."
+    },
+    {
+      "id": 56,
+      "narrator": "",
+      "text": "1 Yani İkrime, Ebu Abdullah onun künyesidir."
+    },
+    {
+      "id": 57,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 58,
+      "narrator": "",
+      "text": "Ebu Hureyre, Allah'ın elçisinin şöyle dediğini bildirmiştir: “Münafığın üç alameti vardır.” Müslim eklemiştir: “O oruç tutsa, namaz kılarsa ve Müslüman olduğunu iddia etse bile.” Ardından hem Buhari hem de Müslim şöyle demiştir: “Konuştuğunda yalan söyler, söz verdiğinde yerine getirmez ve kendisine güvenildiğinde emaneti ihanet eder.”"
+    },
+    {
+      "id": 59,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 60,
+      "narrator": "",
+      "text": "Abdullah b. Amr, Allah'ın elçisinin şöyle dediğini bildirmiştir: “Dört özellik, bu özelliklere sahip olanı tam bir münafık yapar ve bunlardan birine sahip olan, onu terk etmediği sürece münafıklığın bir özelliğine sahiptir: Güvenildiğinde emaneti ihanet eder, konuştuğunda yalan söyler, ahit yaptığında hainlik eder ve tartıştığında gerçeği çiğner.”"
+    },
+    {
+      "id": 61,
+      "narrator": "",
+      "text": "İbn Mes'ud, Allah'ın elçisinin şöyle dediğini bildirmiştir: \"Sizden hiç kimse yoktur ki, ona cinlerden bir ortağı ve meleklerden bir ortağı verilmiş olmasın.\" Dinleyiciler sordular: \"Bu, senin için de geçerli mi, Allah'ın elçisi?\" O da, \"Benim için de geçerlidir, fakat Allah, ona karşı bana yardım etti ve o İslam'ı kabul etti, böylece bana sadece iyi olanı emrediyor.\""
+    },
+    {
+      "id": 62,
+      "narrator": "",
+      "text": "Muslim rivayet etmiştir."
+    },
+    {
+      "id": 63,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 64,
+      "narrator": "",
+      "text": "Enes, Allah'ın elçisinin şöyle dediğini bildirmiştir: \"Şeytan, insanın içinde kanı gibi akar.\""
+    },
+    {
+      "id": 65,
+      "narrator": "",
+      "text": "(Buhari ve Muslim.)"
+    },
+    {
+      "id": 66,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 67,
+      "narrator": "",
+      "text": "Ebu Hureyre, Allah'ın elçisinin şöyle dediğini bildirmiştir: \"Meryem ve oğlu dışında hiçbir insan, şeytanın dokunmadığı bir şekilde doğmaz; bu yüzden şeytanın dokunuşu nedeniyle sesini yükselterek ağlar.\""
+    },
+    {
+      "id": 68,
+      "narrator": "",
+      "text": "(Buhari ve Muslim.)"
+    },
+    {
+      "id": 69,
+      "narrator": "Abu Huraira reported God’s messenger as saying, \"Men will continue to question one another till this is propounded:",
+      "text": "---"
+    },
+    {
+      "id": 70,
+      "narrator": "Anas reported God’s messenger as saying, “Men will continue to question one another till they propound this:",
+      "text": "O da, Allah'ın elçisinin şöyle dediğini bildirmiştir: \"Bir bebeğin doğum anındaki çığlığı, şeytanın bir sokması nedeniyle olur.\""
+    },
+    {
+      "id": 71,
+      "narrator": "",
+      "text": "(Buhari ve Muslim.)"
+    },
+    {
+      "id": 72,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 73,
+      "narrator": "",
+      "text": "Cabir, Allah'ın elçisinin şöyle dediğini bildirmiştir: \"İblis, tahtını suyun üzerine kurar, sonra insanları saptırmak için birliklerini gönderir; en yakın olanı, en şiddetli saptırmayı gerçekleştirenidir. Onlardan biri gelir ve der ki: 'Ben şunu yaptım,' ama o cevap verir: 'Sen hiçbir şey yapmadın.' Sonra diğerlerinden biri gelir ve der ki: 'Onu karısından ayırana kadar yanından ayrılmadım.' O da onu kendine yaklaştırarak der ki: 'Ne güzel bir adam oldun!' \" A'maş, onun \"Sonra onu kucakladı\" dediğini düşündüğünü söylemiştir."
+    },
+    {
+      "id": 74,
+      "narrator": "",
+      "text": "Muslim rivayet etmiştir."
+    },
+    {
+      "id": 75,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 76,
+      "narrator": "Ibn Mas'ud said that God’s messenger who spoke the truth and whose word was believed told them the following:",
+      "text": "İbn Mes'ud, Allah'ın elçisinin doğru konuştuğunu ve sözlerinin kabul edildiğini söyleyerek onlara şunları aktardığını bildirdi: \"Sizlerden birinin unsurları, annesinin karnında kırk gün boyunca bir damla şeklinde toplanır, sonra benzer bir süre boyunca pıhtılaşmış kan haline gelir, ardından benzer bir süre boyunca et parçası haline gelir. Sonra Allah ona dört kelime ile bir melek gönderir; bu kelimeler onun amellerini, yaşam süresini, rızkını ve sefil mi yoksa mübarek mi olacağını kaydeder: ardından ona ruhu üfler. Kendisi dışında ilah olmayan Allah'a yemin ederim ki, sizlerden biri cennete gidenlerin amellerini yapar, aralarında sadece bir kol mesafesi kalır, sonra takdir edilen ona galip gelir ve cehenneme gidenlerin amellerini yapar ve oraya girer; ve sizlerden biri cehenneme gidenlerin amellerini yapar, aralarında sadece bir kol mesafesi kalır, sonra takdir edilen ona galip gelir ve cennete gidenlerin amellerini yapar ve oraya girer.\""
+    },
+    {
+      "id": 77,
+      "narrator": "",
+      "text": "(Buhari ve Müslim.)"
+    },
+    {
+      "id": 78,
+      "narrator": "‘A’isha said:",
+      "text": "---"
+    },
+    {
+      "id": 79,
+      "narrator": "",
+      "text": "Sahl b. Sa’d, Allah'ın elçisinin şöyle dediğini bildirdi: \"Bir adam cehenneme gidenlerin amellerini yapar ama cennete gidenlerden biridir; bir diğeri cennete gidenlerin amellerini yapar ama cehenneme gidenlerden biridir, çünkü hüküm, kişinin son eylemlerine göre verilir.\""
+    },
+    {
+      "id": 80,
+      "narrator": "",
+      "text": "(Buhari ve Müslim)."
+    },
+    {
+      "id": 81,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 82,
+      "narrator": "Abu Huraira said:",
+      "text": "Aişe, Allah'ın elçisinin, Ensar'dan bir çocuğun cenazesine davet edildiğini ve ona, \"Ey Allah'ın elçisi, bu çocuk mübarek; o cennetteki gençlerden biridir, çünkü o henüz kötü bir şey yapmamıştır,\" dediğini aktardı. O da, \"Aişe, durum böyle olmayabilir; çünkü Allah, bazılarını cennete, babalarının belinde iken yaratmıştır; ve bazılarını da cehenneme, babalarının belinde iken yaratmıştır,\" diye cevap verdi."
+    },
+    {
+      "id": 83,
+      "narrator": "",
+      "text": "Müslim bunu nakletmiştir."
+    },
+    {
+      "id": 84,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 85,
+      "narrator": "Abu'Musa said :",
+      "text": "Ali, Allah'ın elçisinin şöyle dediğini bildirdi: \"Sizlerden her birinin cehennemde veya cennette alacağı yer kaydedilmiştir.\" Dinleyicileri ona, kendileri için kaydedilenlere güvenip iyi ameller yapmayı bırakıp bırakmayacaklarını sorduklarında, \"Yapmaya devam edin, çünkü herkes yaratıldığı ameli yapması için yardım edilir. Mübarek olanlardan olanlar, uygun ameller yapmaları için yardım edilir; sefil olanlardan olanlar da uygun ameller yapmaları için yardım edilir,\" diye cevap verdi. Sonra, \"Kim verir, takva gösterir ve en iyinin doğru olduğunu düşünürse, ona başarıya ulaşması için yardım ederiz,\" ayetini okudu."
+    },
+    {
+      "id": 86,
+      "narrator": "",
+      "text": "(Buhari ve Müslim.)"
+    },
+    {
+      "id": 87,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 88,
+      "narrator": "",
+      "text": "Ebu Hureyre, Allah'ın elçisinin şöyle dediğini bildirdi: \"Allah, insan için kaçınılmaz olarak işleyeceği zina miktarını takdir etmiştir. Gözlerin zinası bakmak, dilin zinası konuşmaktır. Nefs, arzu ve istek duyar, ve cinsel organlar buna uyar veya reddeder.\""
+    },
+    {
+      "id": 89,
+      "narrator": "",
+      "text": "(Buhari ve Müslim.)"
+    },
+    {
+      "id": 90,
+      "narrator": "‘Abdallah b. ‘Amr said:",
+      "text": "Müslim'in bir rivayetinde, \"İnsanın kaçınılmaz olarak işleyeceği zina payı ona takdir edilmiştir. Gözlerin zinası bakmak, kulakların zinası duymak, dilin zinası konuşmak, elin zinası şiddet, ve ayağın zinası yürümektir. Kalp arzu ve istek duyar, ve cinsel organlar buna uyar veya reddeder,\" dedi."
+    },
+    {
+      "id": 91,
+      "narrator": "",
+      "text": "Ebu Hızam, babasının Allah'ın elçisine, \"Bize, dua ettiğimiz büyüler, uyguladığımız ilaçlar ve aldığımız tedbirler, Allah'ın takdir ettiği bir şeyi önleyebilir mi?\" diye sorduğunu aktardı. O da, \"Bunlar Allah'ın takdirinin bir parçasıdır.\" diye cevap verdi."
+    },
+    {
+      "id": 92,
+      "narrator": "Abu Huraira said:",
+      "text": "Ahmet, Tirmizi ve İbn Mace bunu rivayet etmiştir."
+    },
+    {
+      "id": 93,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 94,
+      "narrator": "",
+      "text": "Ebu Hureyre, Allah'ın elçisinin, Allah'ın takdiri hakkında tartıştığımızda bize çıktığını, öfkeli olduğunu ve yüzünün nar tanesi gibi kızardığını söyledi. Sonra, \"Bu, size emredilen bir şey mi, yoksa ben size bu amaçla mı gönderildim? Öncekiler, bu mesele hakkında tartıştıkları için helak oldular. Size yemin ederim, size yemin ederim, bunun hakkında tartışmayın.\" dedi."
+    },
+    {
+      "id": 95,
+      "narrator": "",
+      "text": "Tirmizi bunu rivayet etti, İbn Mace de 'Amr b. Şu'ayb'den babası aracılığıyla benzer bir şey rivayet etti."
+    },
+    {
+      "id": 96,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 97,
+      "narrator": "‘Ali reported that God’s messenger said, “A man is not a believer till he believes in four things :",
+      "text": "Ebu Musa, Allah'ın elçisinin, \"Allah, Adem'i yeryüzünün tamamından aldığı bir avuç topraktan yarattı; bu nedenle Adem'in çocukları yeryüzüne uygun olarak, bazıları kırmızı, bazıları beyaz, bazıları siyah, bazıları karışık, ayrıca düz ve pürüzlü, kötü ve iyi olarak yaratılmıştır.\" dediğini aktardı."
+    },
+    {
+      "id": 98,
+      "narrator": "",
+      "text": "Ahmet, Tirmizi ve Ebu Davud bunu rivayet etmiştir."
+    },
+    {
+      "id": 99,
+      "narrator": "Ibn ‘Umar said:",
+      "text": "---"
+    },
+    {
+      "id": 100,
+      "narrator": "",
+      "text": "Abdullah b. Amr, Allah'ın elçisinin, \"Allah, yaratıklarını karanlıkta yarattı ve onlara ışığından bir kısmını serpti. O ışığın düştüğü kimseler hidayet bulacak, ancak ondan mahrum kalanlar sapacaktır. Bu nedenle, kalemin Allah'ın bilgisi hakkında daha fazla yazacak bir şeyi yoktur.\" dediğini aktardı."
+    },
+    {
+      "id": 101,
+      "narrator": "",
+      "text": "Ahmet ve Tirmizi bunu rivayet etmiştir."
+    },
+    {
+      "id": 102,
+      "narrator": "‘A’isha reported that God’s messenger said, “There are six whom I have cursed, whom I pray that God may curse, and every prophet’s prayer is answered:",
+      "text": "---"
+    },
+    {
+      "id": 103,
+      "narrator": "",
+      "text": "Enes, Allah'ın elçisinin sık sık, \"Ey kalpleri çeviren, kalbimi dininde sabit kıl.\" dediğini bildirdi. Enes, \"Ey Allah'ın elçisi, sana inanan bizler için korkuyor musun?\" diye sordu. O da, \"Evet. Kalpler, Allah'ın iki parmağı arasında olup, O dilediği gibi çevirir.\" diye cevap verdi."
+    },
+    {
+      "id": 104,
+      "narrator": "‘A’isha said:",
+      "text": "Tirmizi ve İbn Mace bunu rivayet etmiştir."
+    },
+    {
+      "id": 105,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 106,
+      "narrator": "Abud Darda' reported God’s messenger as saying, “God has preordained five things for every man He has created:",
+      "text": "Abud Darda' şöyle rivayet etmiştir: Allah'ın elçisi şöyle demiştir: “Allah, yarattığı her insan için beş şeyi takdir etmiştir: hayat süresi, eylemleri, yatışı, hareketleri ve rızkı.”"
+    },
+    {
+      "id": 107,
+      "narrator": "",
+      "text": "Ahmad bunu rivayet etmiştir."
+    },
+    {
+      "id": 108,
+      "narrator": "Ibn ad-Dailami said:",
+      "text": "---"
+    },
+    {
+      "id": 109,
+      "narrator": "",
+      "text": "‘A’isha, Allah'ın elçisinin şöyle dediğini işittiğini söyledi: “Allah'ın takdiri hakkında herhangi bir konuyu tartışan, kıyamet gününde bununla sorgulanacaktır; ancak tartışmayan sorgulanmayacaktır.”"
+    },
+    {
+      "id": 110,
+      "narrator": "",
+      "text": "İbn Mace bunu rivayet etmiştir."
+    },
+    {
+      "id": 111,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 112,
+      "narrator": "",
+      "text": "İbn ad-Dailami şöyle dedi: Ubayy b. Ka‘b'a gittim ve ona, “Kader hakkında kafam karışık, Allah'ın benim aklımdaki karışıklığı giderecek bir şey söylemesini istiyorum” dedim. O da şöyle cevap verdi: “Eğer Allah, göklerde ve yerdeki herkesi cezalandıracak olsaydı, onlara haksızlık etmeden yapardı; eğer onlara merhamet edecek olsaydı, merhameti onların eylemlerinin hak ettiği şeyden çok daha iyi olurdu. Eğer Allah'ın yolunda Uhud kadar altın harcasaydın, Allah bunu senden kabul etmezdi ta ki kaderi kabul edip, sana gelenin sana ulaşamayacağını ve sana ulaşmayanın da sana gelemeyeceğini bilene kadar. Eğer başka bir inançla ölürsen, cehenneme gidersin.” Dedi ki: Sonra ‘Abdullah b. Mes'ud'a gittim ve o da benzer bir şey söyledi. Daha sonra Hudhaifa b. al-Yaman'a gittim ve o da benzer bir şey söyledi. Son olarak Zaid b. Thabit'e gittim ve o da Peygamber'den benzer bir şey aktardı."
+    },
+    {
+      "id": 113,
+      "narrator": "",
+      "text": "Ahmad, Ebu Davud ve İbn Mace bunu rivayet etmiştir."
+    },
+    {
+      "id": 114,
+      "narrator": "Ibn ‘Abbas reported the Prophet as saying:",
+      "text": "---"
+    },
+    {
+      "id": 115,
+      "narrator": "On God’s words, “When your Lord took from the children of Adam from their backs their offspring,” 1 Ubayy b. Ka‘b said:",
+      "text": "Nafi' şöyle anlattı: Bir adam, İbn ‘Umar'a bir mesajla geldi ve “Filan kişi selam gönderdi” dedi. İbn ‘Umar, “Onun bir yenilik getirdiğini duydum, eğer öyleyse selamını ona iletme, çünkü Allah'ın elçisinin şöyle dediğini duydum: ‘Kavmim arasında,’ veya ‘bu kavmin arasında, irade özgürlüğüne inananlar yutulacak ve değiştirilecek veya taşlanacak.’”"
+    },
+    {
+      "id": 116,
+      "narrator": "Abud Darda’ said:",
+      "text": "Tirmidhi, Ebu Davud ve İbn Mace bunu rivayet etmiştir; Tirmidhi bu hadisin hasen sahih garib olduğunu söylemiştir."
+    },
+    {
+      "id": 117,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 118,
+      "narrator": "Al-Bara’ b. ‘Azib reported the Prophet as saying, “When a Muslim is questioned in the grave he testifies that there is no god but God and that Muhammad is God’s messenger.” That is verified by God’s words, “God establishes those who believe with the word that stands firm in this world and the next.” 1 In a version the Prophet said:",
+      "text": "‘Ali, Khadija'nın, İslam öncesi dönemde ölen iki çocuğunu sorduğunu ve Allah'ın elçisinin, “Onlar cehennemdedir” diye cevap verdiğini söyledi. Sonra onun onaylamayan bakışını görünce, “Eğer onların durumunu görseydin, onlardan nefret ederdin” dedi. Khadija, “Ey Allah'ın elçisi, senden olan oğlum ne olacak?” diye sordu. O da, “O cennettedir” diye cevap verdi. Sonra Allah'ın elçisi şöyle dedi: “Müminler ve onların çocukları cennettedir, müşrikler ve onların çocukları cehennemdedir.” Sonra Allah'ın elçisi, “İman edenler ve onların nesilleri onları izledi.” ayetini okudu."
+    },
+    {
+      "id": 119,
+      "narrator": "",
+      "text": "Ahmad bunu rivayet etmiştir."
+    },
+    {
+      "id": 120,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 121,
+      "narrator": "",
+      "text": "'A'işe, kendisini ziyarete gelen bir Yahudi kadının mezardaki azabı anarak, “Allah sizi mezar azabından korusun!” dediğini aktardı. 'A'işe, Allah'ın elçisine bu konuyu sordu ve o da, “Evet, mezar azabı gerçektir.” dedi. 'A'işe, “Bundan sonra Allah'ın elçisinin mezar azabından korunmak için dua etmeden bir namaz kıldığını hiç görmedim.” dedi."
+    },
+    {
+      "id": 122,
+      "narrator": "Zaid b. Thabit said:",
+      "text": "(Buhari ve Müslim.)"
+    },
+    {
+      "id": 123,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 124,
+      "narrator": "",
+      "text": "Zeyd b. Sabit dedi ki: Biz, Allah'ın elçisi ile birlikte B. en-Necjar'a ait bir bahçede, dişi bir katırın üzerinde giderken, hayvan ürkerek neredeyse onu devirecekti. Orada beş veya altı mezar vardı, bu yüzden orada kimlerin yattığını bilen var mı diye sordu. Bir adam, bildiğini söyledi ve ne zaman öldüklerini sorduğunda, insanların putperest olduğu dönemde öldüklerini söyledi. Peygamber sonra dedi ki, “Bu insanlar mezarlarında azap çekiyorlar, eğer gömme işini bırakmayacağınızı bilmeseydim, Allah'tan, duyduğum mezar azabını duymanız için izin vermesini isterdim.” Sonra bize dönerek, “Ateşin azabından Allah'a sığının.” dedi. Onlar, “Ateşin azabından Allah'a sığınıyoruz.” dediler. O, “Mezar azabından Allah'a sığının.” dedi. Onlar, “Mezar azabından Allah'a sığınıyoruz.” dediler. O, “Açık ve gizli fitnelerden Allah'a sığının.” dedi. Onlar, “Açık ve gizli fitnelerden Allah'a sığınıyoruz.” dediler. O, “Deccal fitnesinden Allah'a sığının!” dedi. Onlar, “Deccal fitnesinden Allah'a sığınıyoruz.” dediler."
+    },
+    {
+      "id": 125,
+      "narrator": "",
+      "text": "Müslim bunu rivayet etmiştir."
+    },
+    {
+      "id": 126,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 127,
+      "narrator": "",
+      "text": "Ebu Hureyre, Allah'ın elçisinin şöyle söylediğini bildirdi: “Ölü gömüldüğünde, biri al-Munkar ve diğeri an-Nakir adında iki siyah ve mavi melek ona gelir ve bu adam hakkında ne düşündüğünü sorarlar. Eğer o bir mümin ise, ‘O, Allah'ın kulu ve elçisidir. Ben, Allah'tan başka ilah olmadığına ve Muhammed'in O'nun kulu ve elçisi olduğuna şahitlik ederim.’ der. Onlar, onun böyle söyleyeceğini bildiklerini söylerler. Sonra mezarında ona 4900 kare arşınlık bir alan açılır, orası aydınlatılır ve ona uyuması söylenir. O, ailesine geri dönüp onlara haber vermek ister, ama ona, yeni evlenmiş birinin, sadece en sevdiği aile üyesi tarafından uyandırılacağı gibi, uyuması söylenir, ta ki Allah onu o dinlenme yerinden diriltene kadar. Ama eğer o bir münafık ise, ‘Ben insanların bir inanç ifade ettiğini duydum ve ben de aynı şeyi söyledim, ama gerçekten bilmiyorum.’ der. Onlara, onun böyle söyleyeceğini bildiklerini söylerler; sonra yere, onu sıkıştırması için emir verilir ve o da sıkıştırır. Kaburgaları birbirine sıkışır ve Allah onu o dinlenme yerinden diriltene kadar orada azap çeker.”"
+    },
+    {
+      "id": 128,
+      "narrator": "Jabir said:",
+      "text": "Tirmizî bunu rivayet etmiştir."
+    },
+    {
+      "id": 129,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 130,
+      "narrator": "",
+      "text": "El-Bara' b. 'Azib, Allah'ın elçisinin şöyle söylediğini bildirdi: “İki melek ona gelecek, oturtacak ve ona Rabbi'nin kim olduğunu soracaklar, o da ‘Rabbim Allah'tır.’ diyecek. Onlar ona dininin ne olduğunu soracaklar, o da ‘Dinim İslam'dır.’ diyecek. Onlar, kendi halkı arasında bir görevle gönderilen bu adam hakkında ne düşündüğünü soracaklar, o da ‘O, Allah'ın elçisidir.’ diyecek. Onlar, bunu nasıl bildiğini soracaklar, o da ‘Allah'ın Kitabını okudum, ona inandım ve onu doğru kabul ettim.’ diyecek, bu da Allah'ın sözleriyle doğrulanmaktadır: ‘Allah, inananları sağlam bir sözle sabit kılar...’ Sonra gökten bir çağrı yapılacak, ‘Kulum doğru söyledi, ona cennetten bir yatak serin, cennetten giydirin ve ona cennete bir kapı açın.’ denilecek. Sonra ona cennete doğru bir kapı açılacak, cennetin havası ve kokusu ona gelecek ve göz alabildiğine bir alan ona açılacak.” O, kâfirin ölümünü de şöyle anlattı: “Onun ruhu bedenine geri verilecek, iki melek gelecek, onu oturtacak ve ona Rabbi'nin kim olduğunu soracaklar, o da ‘Aman, aman, bilmiyorum.’ diyecek. Onlar ona dininin ne olduğunu soracaklar, o da ‘Aman, aman, bilmiyorum.’ diyecek. Onlar, kendi halkı arasında bir görevle gönderilen bu adam hakkında ne düşündüğünü soracaklar, o da ‘Aman, aman, bilmiyorum.’ diyecek. Sonra gökten bir çağrı yapılacak, ‘O yalan söyledi, ona cehennemden bir yatak serin, cehennemden giydirin ve ona cehenneme bir kapı açın.’ denilecek. Sonra onun üzerine cehennemin sıcaklığı ve pis rüzgârı gelecek ve mezarı daralacak, böylece kaburgaları birbirine sıkışacak. Ona kör ve dilsiz biri tayin edilecek, elinde öyle bir balta olacak ki, eğer bir dağa vurursa, o toza dönüşecektir. Ona bir darbe vuracak ve o, doğu ile batı arasındaki her şey tarafından duyulacak bir çığlık atacak, fakat insanlar ve cinler dışında kimse bunu duymayacak ve o toza dönüşecektir. Sonra ruhu ona geri verilecektir.”"
+    },
+    {
+      "id": 131,
+      "narrator": "",
+      "text": "Ahmet ve Ebu Davud bunu rivayet etmiştir."
+    },
+    {
+      "id": 132,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 133,
+      "narrator": "",
+      "text": "'Uthman, bir mezarın başında durduğunda o kadar ağlardı ki, gözyaşları sakalını ıslatırdı. Birisi ona, “Cenneti ve cehennemi hatırlıyorsun, ama buna ağlamıyorsun, ama bunun için ağlıyorsun.” dedi. O, Allah'ın elçisinin şöyle söylediğini aktardı: “Mezar, ahiret hayatının ilk aşamasıdır; eğer ondan kurtulursa, ardından gelen daha kolaydır, ama eğer ondan kurtulamazsa, ardından gelen daha şiddetlidir.” Ayrıca Allah'ın elçisinin şöyle dediğini de aktardı: “Mezar kadar korkunç bir manzara hiç görmedim.”"
+    },
+    {
+      "id": 134,
+      "narrator": "Jabir reported God’s messenger as saying, “To proceed:",
+      "text": "Tirmizî ve İbn Mace bunu rivayet etmiştir ve Tirmizî, bunun garip bir hadis olduğunu belirtmiştir."
+    },
+    {
+      "id": 135,
+      "narrator": "Ibn ‘Abbas reported God’s messenger as saying, “The people most hateful to God are of three classes:",
+      "text": "---"
+    },
+    {
+      "id": 136,
+      "narrator": "",
+      "text": "Ebu Hureyre, Allah'ın elçisinin şöyle söylediğini rivayet etmiştir: “Bütün kavmim cennete girecektir, ancak reddedenler hariç.” Reddedenlerin kim olduğunu sorduğunda, “Bana itaat eden cennete girecektir, bana isyan eden ise reddetmiştir.” diye cevap verdi."
+    },
+    {
+      "id": 137,
+      "narrator": "Jabir said:",
+      "text": "Buhari rivayet etmiştir."
+    },
+    {
+      "id": 138,
+      "narrator": "Anas said:",
+      "text": "---"
+    },
+    {
+      "id": 139,
+      "narrator": "‘A’isha said:",
+      "text": "Cabir dedi ki: Melekler, Peygamber uyurken ona geldiler ve dediler ki, “Bu arkadaşınla bir kıyas yapabiliriz, o yüzden bir kıyas yap.” Birisi, “O uyuyor,” dedi; ama diğeri, “Göz uyur, kalp uyanıktır,” diye cevap verdi. Sonra dediler ki, “Ona bunu yorumlarsanız, anlayacaktır.” Bunun üzerine biri, “O uyuyor,” dedi, diğeri ise, “Göz uyur, kalp uyanıktır,” diye yanıtladı. Sonra dediler ki, “Ev cennettir, daveti yapan Muhammed’dir, Muhammed’e itaat eden Allah’a itaat etmiştir, Muhammed’e isyan eden ise Allah’a isyan etmiştir. Muhammed, insanlar arasında ayrım yapan birisidir.”"
+    },
+    {
+      "id": 140,
+      "narrator": "Rafi‘ b. Khadij said:",
+      "text": "Buhari rivayet etmiştir."
+    },
+    {
+      "id": 141,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 142,
+      "narrator": "",
+      "text": "Enes dedi ki: Üç kişi Peygamber’in hanımlarına geldiler ve Peygamber’in ibadetini nasıl yaptığını sordular. Kendilerine bunun hakkında bilgi verildiğinde, bunu az buldular ve “Bizimle, Allah’ın geçmiş ve gelecek günahlarını affettiği Peygamber arasında ne kadar fark var!” dediler. Birisi, “Ben gece boyunca sürekli namaz kılacağım,” dedi. Diğeri, “Ben gündüz oruç tutacağım ve orucumu açmayacağım,” dedi. Diğeri ise, “Ben kadınlarla ilgilenmeyeceğim ve asla evlenmeyeceğim,” dedi. Sonra Peygamber onlara geldi ve “Siz şu ve şu şekilde konuşan kişiler misiniz? Allah’a yemin ederim ki, aranızda Allah’tan en çok korkan ve en çok saygı duyan benim; yine de ben oruç tutarım ve orucumu açarım; namaz kılarım ve uyurum; kadınlarla evlenirim. Benim sünnetimden hoşlanmayan benden değildir.”"
+    },
+    {
+      "id": 143,
+      "narrator": "",
+      "text": "(Buhari ve Müslim.)"
+    },
+    {
+      "id": 144,
+      "narrator": "‘A’isha said:",
+      "text": "---"
+    },
+    {
+      "id": 145,
+      "narrator": "‘Abdallah b. ‘Amr said:",
+      "text": "Aişe dedi ki: Allah’ın elçisi belirli bir şey yaptı ve bunun yapılmasına izin verdi, ancak bazı insanlar bundan kaçındı. Allah’ın elçisi bunu duyduğunda, bir hutbe verdi ve Allah’ı övdükten sonra, “Benden kaçınan insanlar hakkında ne düşünüyorsunuz? Allah’a yemin ederim ki, ben onlardan Allah’ı en çok bilen ve en çok korkanıyım.”"
+    },
+    {
+      "id": 146,
+      "narrator": "",
+      "text": "(Buhari ve Müslim.)"
+    },
+    {
+      "id": 147,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 148,
+      "narrator": "",
+      "text": "Rafi' b. Hacir dedi ki: Allah’ın Peygamberi, hurma ağaçlarını dölledikleri zaman Medine’ye geldi. “Ne yapıyorsunuz?” diye sordu ve onlar, “Bunu yapmaya alıştık,” diye cevap verdiler. O da, “Belki bunu yapmasanız daha iyi olur,” dedi; böylece bunu bıraktılar ama mahsul azaldı. Bunu ona söylediklerinde, “Ben sadece bir insanım. Dinle ilgili size herhangi bir emir verdiğimde, onu kabul edin; ama kendi görüşüme dayalı bir emir verdiğimde, ben sadece bir insanım,” dedi."
+    },
+    {
+      "id": 149,
+      "narrator": "",
+      "text": "Müslim rivayet etmiştir."
+    },
+    {
+      "id": 150,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 151,
+      "narrator": "",
+      "text": "Ebu Hureyre, Allah’ın elçisinin şöyle söylediğini bildirdi: “Eğer birisi başkalarını doğru yola çağırırsa, onun mükafatı, onu takip edenlerin mükafatına eşit olacaktır; bu durumda onların mükafatlarından hiçbir şey eksilmeyecektir. Eğer birisi başkalarını yanlış yola çağırırsa, onun suçunun günahı, onu takip edenlerin günahına eşit olacaktır; bu durumda onların günahlarından da hiçbir şey eksilmeyecektir.”"
+    },
+    {
+      "id": 152,
+      "narrator": "",
+      "text": "Muslim bunu rivayet etmiştir."
+    },
+    {
+      "id": 153,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 154,
+      "narrator": "",
+      "text": "O ayrıca Allah’ın elçisinin şöyle söylediğini bildirdi: “İslam küçük bir din olarak başladı ve başladığı duruma dönecektir. O zaman az olanlar mübarek olacaktır.”"
+    },
+    {
+      "id": 155,
+      "narrator": "Rabi'a al-Jurashi said:",
+      "text": "Muslim bunu rivayet etmiştir."
+    },
+    {
+      "id": 156,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 157,
+      "narrator": "",
+      "text": "O ayrıca Allah’ın elçisinin şöyle söylediğini bildirdi: “İman, bir yılanın deliğine geri çekilmesi gibi Medine’ye geri çekilecektir.”"
+    },
+    {
+      "id": 158,
+      "narrator": "",
+      "text": "(Buhari ve Muslim.)"
+    },
+    {
+      "id": 159,
+      "narrator": "He also said that God’s messenger led them in prayer one day, then faced them and gave them a lengthy exhortation at which their eyes shed tears and their hearts were afraid. A man said, “Messenger of God, it seems as if this were a farewell exhortation, so give us an injunction.” He then said, “I enjoin you to fear God, and to hear and obey even if it be an Abyssinian slave, for those of you .who live after me will see great disagreement. You must therefore follow my sunna and that of the rightly guided Caliphs. Hold to it and stick fast to it. 1 Avoid novelties, for every novelty is an innovation, and every innovation is error.” \n\nAhmad, Abu Dawud, Tirmidhi and Ibn Majah transmitted it, but the last two did not mention the prayer.\n\n1 Lit. :",
+      "text": "---"
+    },
+    {
+      "id": 160,
+      "narrator": "",
+      "text": "Ebu Hureyre'den gelen bir hadisi, “Bana bir şey söylemediğiniz sürece beni bırakın...” şeklinde, Hac ile ilgili kitapta, Muaviye ve Cabir'in geleneklerini, “Bu toplumun bir kısmı devam edecektir...” şeklinde, bu toplumun mükafatı bölümünde, Allah’ın izniyle anacağız."
+    },
+    {
+      "id": 161,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 162,
+      "narrator": "",
+      "text": "Rabi'a el-Curashi şöyle dedi: Cennetten bir ziyaretçi, Allah’ın peygamberine geldi ve ona gözünü uyutmasını, kulağını dinlemesini ve kalbini anlamasını söyledi. O da, “Gözlerim uyudu, kulaklarım duydu ve kalbim anladı; bana bir lordun bir ev inşa ettiğini, bir ziyafet hazırladığını ve davetiyeler göndermek üzere birini yolladığını söylendi. Davet edene cevap veren evin içine girecek, ziyafetten yiyecek ve lordun lütfuna nail olacaktır; ama davet edene cevap vermeyen evin içine giremeyecek, ziyafetten yiyemeyecek ve lordun gazabına uğrayacaktır.” O, Allah’ın lord, Muhammed’in davet eden, evin İslam ve ziyafetin cennet olduğunu açıkladı."
+    },
+    {
+      "id": 163,
+      "narrator": "",
+      "text": "Darimi bunu rivayet etmiştir."
+    },
+    {
+      "id": 164,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 165,
+      "narrator": "",
+      "text": "Ebu Rafi‘, Allah’ın elçisinin şöyle söylediğini bildirdi: “Sizden biri, benim emrettiğim veya yasakladığım bir şey hakkında bir şey duyduğunda, kanepesinde uzanırken beni bulmasın ve ‘Bilmiyorum, Allah’ın Kitabında bulduk, ona uydum’ demesin.”"
+    },
+    {
+      "id": 166,
+      "narrator": "",
+      "text": "O da, Allah'ın elçisinin şöyle söylediğini bildirdi: “Ana kütleyi takip edin, çünkü ondan ayrı kalan, cehennemde de ayrı kalacaktır.”"
+    },
+    {
+      "id": 167,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 168,
+      "narrator": "",
+      "text": "Anas, Allah'ın elçisinin şöyle söylediğini bildirdi: “Oğul, eğer sabah ve akşam kalbini kimseye karşı aldatmadan tutabiliyorsan, bunu yap.” Sonra şöyle dedi: “Oğul, bu benim sünnetime aittir. Benim sünnetimi seven, beni sevmiştir ve beni seven, cennette benimle olacaktır.”"
+    },
+    {
+      "id": 169,
+      "narrator": "",
+      "text": "Tirmizi bunu nakletmiştir."
+    },
+    {
+      "id": 170,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 171,
+      "narrator": "",
+      "text": "Ebu Hureyre, Allah'ın elçisinin şöyle söylediğini bildirdi: “Kavmim bozulmuş bir durumda iken benim sünnetime sarılan, yüz şehidin sevabını alacaktır.”"
+    },
+    {
+      "id": 172,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 173,
+      "narrator": "",
+      "text": "Cabir, 'Umar'ın Peygamber'e geldiğini ve “Yahudilerden bizi etkileyen bazı rivayetler duyuyoruz, bunları yazmamız gerektiğini düşünüyor musun?” dediğini, Peygamber'in de “Yahudiler ve Hristiyanlar gibi bir şaşkınlık içinde misiniz? Ben size bunları bembeyaz ve saf olarak getirdim, eğer Musa hayatta olsaydı, kesinlikle bana uymayı gerekli görürdü.” diye cevap verdiğini bildirdi."
+    },
+    {
+      "id": 174,
+      "narrator": "Abu Huraira reported God’s messenger as saying, “The Qur’an came down showing five aspects:",
+      "text": "Ahmet bunu nakletmiştir, ayrıca Beyhaki de Şu'ab al-iman'da bunu aktarmıştır."
+    },
+    {
+      "id": 175,
+      "narrator": "Ibn ‘Abbas reported God’s messenger as saying, “Things are of three categories:",
+      "text": "---"
+    },
+    {
+      "id": 176,
+      "narrator": "",
+      "text": "Ebu Sa'id el-Hudri, Allah'ın elçisinin şöyle söylediğini bildirdi: “Kim iyi bir şey yer, sünnete göre hareket eder ve insanlar onun zararından eminse, cennete girecektir.” Bir adam dedi ki: “Allah'ın elçisi, bugün insanlar arasında böyle birçok kişi var.” O da şöyle cevap verdi: “Ve benim zamanımdan sonraki nesillerde de böyleleri olacaktır.”"
+    },
+    {
+      "id": 177,
+      "narrator": "",
+      "text": "Tirmizi bunu nakletmiştir."
+    },
+    {
+      "id": 178,
+      "narrator": "Malik b. Anas, in mursal form, reported God’s messenger as saying, “As long as you hold fast to two things which I have left among you, you will not go astray:",
+      "text": "---"
+    },
+    {
+      "id": 179,
+      "narrator": "",
+      "text": "Ebu Hureyre, Allah'ın elçisinin şöyle söylediğini bildirdi: “Sizin yaşadığınız zamanlarda, emredilenlerin onda birini terk eden helak olacaktır; ama bir zaman gelecek ki, emredilenlerin onda birini yapan güvenli olacaktır.”"
+    },
+    {
+      "id": 180,
+      "narrator": "",
+      "text": "Tirmizi bunu nakletmiştir."
+    },
+    {
+      "id": 181,
+      "narrator": "",
+      "text": "İbrahim b. Maisara, Allah’ın elçisinin şöyle söylediğini bildirdi: “Bir yeniliği onurlandıran, İslam’ı zayıflatmaya yardımcı olmuştur.”"
+    },
+    {
+      "id": 182,
+      "narrator": "",
+      "text": "Baihaqi bunu mursal olarak Shu'ab al-iman’da aktarmıştır."
+    },
+    {
+      "id": 183,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 184,
+      "narrator": "",
+      "text": "İbn Abbas, eğer biri Allah’ın Kitabını öğrenir ve içeriğine uyar ise, Allah’ın onu bu dünyada hatadan koruyacağını ve kıyamet gününde en sıkı hesaptan koruyacağını söyledi. Bir rivayette, Allah’ın Kitabına göre hayatını şekillendirenin bu dünyada sapmayacağı ve ahirette de mutsuz olmayacağı belirtilmiştir. Sonra bu ayeti okudu: “Kim benim hidayetime uyarsa, sapmaz ve mutsuz olmaz.”"
+    },
+    {
+      "id": 185,
+      "narrator": "",
+      "text": "Razin bunu aktarmıştır."
+    },
+    {
+      "id": 186,
+      "narrator": "",
+      "text": "1 Kuran xx, 123."
+    },
+    {
+      "id": 187,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 188,
+      "narrator": "",
+      "text": "İbn Mes'ud, Allah’ın elçisinin şöyle söylediğini bildirdi: “Allah, iki tarafında açık kapılar bulunan ve üzerlerinde perdelerin asılı olduğu düz bir yolu örnek olarak ortaya koymuştur. Yolun en üstünde, ‘Düz yolda ilerleyin ve eğri bir yoldan gitmeyin’ diye seslenen biri vardır. O kişinin üstünde, kapılardan herhangi birini açmaya çalışan herkes için, ‘Vay halinize! Açmayın, çünkü açarsanız içinden geçersiniz.’ diye haykıran bir diğeri vardır.” Sonra bunu yorumlayarak, yolun İslam olduğunu, açık kapıların Allah’ın yasakladığı şeyler olduğunu, asılı perdelerin Allah’ın koyduğu sınırlar olduğunu, yolun en üstündeki çağrıcının Kur’an olduğunu ve onun üzerindeki kişinin her müminin kalbinde Allah’ın gözetleyicisi olduğunu söyledi."
+    }
+  ]
+}

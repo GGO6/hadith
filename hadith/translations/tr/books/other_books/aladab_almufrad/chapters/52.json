@@ -1,0 +1,46 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 6,
+    "arabic": {
+      "title": "الأدب المفرد",
+      "author": "الإمام البخاري"
+    },
+    "english": {
+      "title": "Al-Adab Al-Mufrad",
+      "author": "Imam al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "'Umar said, \"Sometimes some of the men of Quraysh sat at the door\nof Ibn Mas'ud. When the shadows shifted from west to east, he said, 'Get\nup, Any time spent here after this is for Shaytan.' He made everyone he\npassed by get up. While we were getting up, someone said to him, 'This\nis the mawla of the Banu'l-Hashas who composes poetry.' 'Umar called and\nsaid, 'What have you got to say?' The man said:",
+      "text": "'Umar dedi ki, \"Bazen Kureyş'ten bazı adamlar İbn Mes'ud'un kapısında otururlardı. Gölgeler batıdan doğuya kaydığı zaman, 'Kalkın, buradaki her an şeytana aittir.' dedi. Geçtiği herkesin kalkmasını sağladı. Biz kalkarken, birisi ona, 'Bu, şiir yazan Banu'l-Haşas'ın maulasıdır.' dedi. 'Umar çağırdı ve 'Ne söylemek istiyorsun?' dedi. Adam şöyle dedi: 'Sabah gideceksen Salma'ya veda et,"
+    },
+    {
+      "id": 2,
+      "narrator": "",
+      "text": "Beyaz saç ve İslam bir adam için yeterli bir yasaktır.'"
+    },
+    {
+      "id": 3,
+      "narrator": "",
+      "text": "'Umar dedi ki, 'Yeter! Doğru söyledin. Doğru söyledin.'\""
+    },
+    {
+      "id": 4,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 5,
+      "narrator": "",
+      "text": "Es-Sa'ib ibn Yazid dedi ki, \"'Umar, Allah ondan razı olsun, gün ortasında - ya da ona yakın bir zamanda - yanımızdan geçer ve 'Kalkın, öğle uykusu alın. Burada geçireceğiniz her an şeytana aittir.' derdi.\""
+    },
+    {
+      "id": 6,
+      "narrator": "",
+      "text": "---"
+    }
+  ]
+}

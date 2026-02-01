@@ -1,0 +1,96 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 16,
+    "arabic": {
+      "title": "الأدب المفرد",
+      "author": "الإمام البخاري"
+    },
+    "english": {
+      "title": "Al-Adab Al-Mufrad",
+      "author": "Imam al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "",
+      "text": "Ebu 'Uthman en-Nahdi dedi ki: \"Ebu Musa, bir Pers büyüğüne yazdı ve mektubunda ona selam verdi. Kendisine, 'Ona selam verir misin, o bir kafir olduğunda?' diye soruldu. O da, 'O bana yazdı ve selam verdi, ben de ona cevap verdim.' dedi.\""
+    },
+    {
+      "id": 2,
+      "narrator": "",
+      "text": "Ebu Basra el-Ghifari, Peygamber'in, Allah ona salat ve selam eylesin, şöyle dediğini bildirdi: \"Yarın Yahudilere gideceğim. Önce onlara selam vermeyin. Eğer size selam verirlerse, 've sana da' deyin.\""
+    },
+    {
+      "id": 3,
+      "narrator": "",
+      "text": "Ebu Hureyre, Peygamber'in, Allah ona salat ve selam eylesin, şöyle dediğini bildirdi: \"Ehli Kitap'a önce selam vermeyin. Onları yolun en dar kısmına zorlayın.\""
+    },
+    {
+      "id": 4,
+      "narrator": "",
+      "text": "'Alkame dedi ki: \"'Abdullah, Pers büyüğüne bir işaretle selam verirdi.\""
+    },
+    {
+      "id": 5,
+      "narrator": "",
+      "text": "Enes dedi ki: \"Bir Yahudi, Peygamber'in, Allah ona salat ve selam eylesin, yanından geçerken, 'Selam sana' dedi. Ashabı selamı iade ettiler. Peygamber dedi ki: 'Yahudi, 'Zehr (sam) senin üzerine olsun' dedi. Yahudi bunu kabul etti. Peygamber dedi ki: 'Ona söylediğiyle cevap ver.'\""
+    },
+    {
+      "id": 6,
+      "narrator": "",
+      "text": "'Abdullah ibn 'Umar, Allah'ın Elçisi'nin, Allah ona salat ve selam eylesin, şöyle dediğini aktardı: \"Yahudilerden biri size selam verip, 'Zehr senin üzerine olsun (as-samu 'alaykum)' derse, 'Ve sana da' de.\""
+    },
+    {
+      "id": 7,
+      "narrator": "",
+      "text": "İbn Abbas dedi ki: \"Selamı kim olursa olsun, Yahudi, Hristiyan veya Mecusi, iade et. Çünkü Allah şöyle buyuruyor: 'Size selam verildiğinde, daha güzeliyle selam verin veya onu iade edin.' (4:86)\""
+    },
+    {
+      "id": 8,
+      "narrator": "",
+      "text": "Usame ibn Zeyd, bir gün Peygamber'in, Allah ona salat ve selam eylesin, bir eşek üzerinde, Fadak'tan bir örtüyle kaplanmış bir saman eyerinde bindiğini aktardı. Usame ibn Zeyd onun arkasında biniyordu. Sa'd ibn Ubade'yi ziyaret etmekteydi. 'Abdullah ibn Ubayy ibn Selul'un bulunduğu bir toplantının yanından geçti - Allah'ın düşmanı Müslüman olmadan önce. Toplantıda Müslümanlar, şirk koşanlar ve putperestler karışık bir şekilde bulunuyordu. Onlara selam verdi.\""
+    },
+    {
+      "id": 9,
+      "narrator": "",
+      "text": "'Abdullah ibn Abbas, Ebu Süfyan ibn Harb'ın onu Bizans İmparatoru Herakleios'a gönderdiğini ve Allah'ın Elçisi'nin mektubunu istemesi üzerine, Dihya'nın Busra valisine getirdiği mektubu okuduğunu bildirdi. O da Herakleios'a iletti. Mektubu okudu ve şöyle dedi: 'Rahman ve Rahim olan Allah'ın adıyla, Allah'ın kulu ve Elçisi Muhammed'den, Bizans'ın hükümdarı Herakleios'a. Hidayeti takip edenin üzerine selam olsun. Seni İslam'a davet ediyorum. Müslüman olursan, güven içinde olursun ve Allah senin sevabını iki katına çıkarır. Eğer yüz çevirirsen, o zaman kendi tebaanın günahını yüklenirsin. 'Ey Ehli Kitap! Bizimle sizin için aynı olan bir söze gelin (O'nun sözlerine) Şahit olun ki biz Müslümanız.' (3:54)'\""
+    },
+    {
+      "id": 10,
+      "narrator": "",
+      "text": "Cabir dedi ki: \"Bazı Yahudiler, Peygamber'e, Allah ona salat ve selam eylesin, 'Zehr senin üzerine olsun (as-Samu 'alaykum)' diyerek selam verdiler ve Peygamber, 'Ve sana da' diye cevap verdi. Aişe, Allah ondan razı olsun, öfkeli bir şekilde, 'Onların ne dediğini duymadın mı?' dedi. Peygamber, 'Evet, duydum ve onlara cevap verdim. Onlar hakkında söylediklerim kabul edilecek, benim hakkımda söyledikleri kabul edilmeyecek.' dedi.\""
+    },
+    {
+      "id": 11,
+      "narrator": "",
+      "text": "1103'e bakınız."
+    },
+    {
+      "id": 12,
+      "narrator": "",
+      "text": "'Uqba ibn 'Amir el-Cuhani, bir Müslüman gibi görünen bir adamın yanından geçti ve o selam verdi. 'Uqba ona, \"Ve sana da, Allah'ın rahmeti ve bereketleri olsun.\" diye cevap verdi. Kölesi ona, \"O bir Hristiyan.\" dedi. 'Uqba kalktı ve onu takip etti, ona yetişti. Dedi ki: \"Allah'ın rahmeti ve bereketleri inananlar içindir, ama Allah senin ömrünü uzun kılsın, sana çok mal ve çok çocuk versin.\""
+    },
+    {
+      "id": 13,
+      "narrator": "",
+      "text": "İbn Abbas dedi ki: \"Eğer Firavun bana, 'Allah seni mübarek kılsın' deseydi, ben de 'Ve seni de' derdim. Ama Firavun öldü.\""
+    },
+    {
+      "id": 14,
+      "narrator": "",
+      "text": "Ebu Musa dedi ki: \"Yahudiler, Peygamber'in, Allah ona salat ve selam eylesin, yanında hapşırırlardı, umarak ki o onlara, 'Allah sana merhamet etsin' desin, ama o, 'Allah sizi hidayete erdirsin ve işlerinizde düzen versin' derdi.\""
+    },
+    {
+      "id": 15,
+      "narrator": "",
+      "text": "Abdurrahman dedi ki: \"İbn 'Umar, kendisine selam veren bir Hristiyan'ın yanından geçti ve İbn 'Umar selamı iade etti. Ona o adamın Hristiyan olduğunu söylediler. Bunu öğrendiğinde, ona geri döndü ve 'Selamımı geri ver' dedi.\""
+    },
+    {
+      "id": 16,
+      "narrator": "",
+      "text": "'Aişe, Peygamber'in (sallallahu aleyhi ve sellem) ona, \"Cebrail sana selam gönderiyor.\" dediğini bildirmiştir. O da, \"Ve ona selam, Allah'ın rahmeti de üzerin olsun.\" diye cevap vermiştir."
+    }
+  ]
+}

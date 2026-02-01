@@ -1,0 +1,21 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 1,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "'Ai'sha said:",
+      "text": "Aişe dedi ki: \"Allah'ın Elçisi (Allah ona salat ve selam eylesin) bir gece eşlerine bir hikaye anlattı, ve onlardan biri: 'Bu, Khurafa'nın masalı gibi geliyor!' dedi. O da: 'Biliyor musunuz bunun anlamını? Khurafa, bir adamdı, onlarla uzun süre kaldı, sonra onu kendi halkına geri gönderdiler. Onlara arasında gördüğü harikaları anlatırdı, bu yüzden insanlar: 'Khurafa'nın masalı' dediler.\""
+    }
+  ]
+}

@@ -1,0 +1,2321 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 461,
+    "arabic": {
+      "title": "بلوغ المرام",
+      "author": "ابن حجر العسقلاني"
+    },
+    "english": {
+      "title": "Bulugh al-Maram",
+      "author": "Ibn Hajar al-Asqalani"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Narrated 'Abdullah bin 'Amr (RA):",
+      "text": "Abdullah bin Amr (RA) rivayet etti: Peygamber (ﷺ) şöyle dedi: \"Öğle (zuhr) namazının vakti, güneş meridyenin üzerine geçtiğinde ve bir adamın gölgesi boyu kadar olduğunda başlar. Bu, ikindi (asr) namazının vaktine kadar sürer. İkindi namazının vakti, güneş sararmadan (batmaya) kadar devam eder. Akşam (maghrib) namazının vakti, alacakaranlık kaybolana kadar sürer. Yatsı (isha) namazının vakti, gece yarısına kadardır. Sabah (fajr) namazının vakti, şafak belirdiğinde başlar ve güneş doğana kadar devam eder; (ancak güneş doğduğunda namaz kılmaktan kaçının; çünkü o, Şeytan'ın iki boynuzu arasında doğar).\""
+    },
+    {
+      "id": 2,
+      "narrator": "Narrated Buraidah (RA) in another version of the above Hadith regarding 'Asr (afternoon prayer):",
+      "text": "Buraidah (RA) başka bir rivayetinde 'Asr (ikindi) namazı hakkında şöyle dedi: \"Güneş beyaz ve berrak olduğunda.\""
+    },
+    {
+      "id": 3,
+      "narrator": "And Abu Musa (RA) narrated regarding the time of 'Asr prayer:",
+      "text": "Ve Ebu Musa (RA) 'Asr namazının vakti hakkında şöyle rivayet etti: \"Güneş yüksekken.\""
+    },
+    {
+      "id": 4,
+      "narrator": "Narrated Abu Barza al-Aslami (RA):",
+      "text": "Ebu Barza el-Eslemî (RA) rivayet etti: Allah'ın Messenger (ﷺ) ikindi namazını kılardı ve namazdan sonra içimizden biri Medine'nin en uzak köşesine dönerken güneş hala sıcak ve parlaktı. Ve o (ﷺ) yatsı namazını geciktirmeyi severdi, onun öncesinde uyumayı ve sonrasında konuşmayı hoş karşılamazdı. Fajr namazından sonra, bir adam yanındaki kişiyi tanıyacak kadar aydınlık olduğunda çıkardı ve Fajr namazında 60 ile 100 ayet kadar Kur'an okurdu."
+    },
+    {
+      "id": 5,
+      "narrator": "Narrated Jabir (RA), in the version of al-BUkhari and Muslim:",
+      "text": "Jabir (RA) el-Buhari ve Müslim'in rivayetinde: O (ﷺ) bazen yatsı namazını öne alır, bazen de geciktirirdi. İnsanların (yatsı namazı için) toplandığını gördüğünde erken namaz kılardı, eğer insanlar gecikirse, namazı geciktirirdi. Ve Peygamber (ﷺ) Fajr namazını hala karanlıkta kılardı."
+    },
+    {
+      "id": 6,
+      "narrator": "Narrated Abu Musa (RA) in another version of Muslim:",
+      "text": "Ebu Musa (RA) Müslim'in başka bir rivayetinde: O (ﷺ) Fajr namazını, insanların birbirini zor tanıyacakları bir vakitte kılardı."
+    },
+    {
+      "id": 7,
+      "narrator": "Narrated Rafi' bin Khadij (RA):",
+      "text": "Rafi' bin Khadij (RA) rivayet etti: Biz Allah'ın Messenger (ﷺ) ile akşam namazını kılardık ve sonra içimizden biri (camiden) çıkıp düşeceği yeri görebilirdi."
+    },
+    {
+      "id": 8,
+      "narrator": "Narrated 'Aishah (RA):",
+      "text": "Aişe (RA) rivayet etti: Peygamber (ﷺ) bir gece yatsı namazını geç kıldı, gecenin büyük bir kısmı geçtikten sonra dışarı çıktı ve namazı kıldı ve şöyle dedi: \"Bu, namaz için uygun bir zamandır; eğer takipçilerime bir yük yüklemeyeceğimi bilmeseydim.\""
+    },
+    {
+      "id": 9,
+      "narrator": "Narrated Abu Hurairah (RA):",
+      "text": "Ebu Hureyre (RA) rivayet etti: Allah'ın Messenger (ﷺ) şöyle dedi: \"Hava sıcak olduğunda, (öğle) namazını serinleyene kadar geciktirin, çünkü sıcaklığın şiddeti cehennemin buharından kaynaklanmaktadır.\""
+    },
+    {
+      "id": 10,
+      "narrator": "Narrated Rafi' bin Khadij (RA):",
+      "text": "Rafi' bin Khadij (RA) rivayet etti: Allah'ın Messenger (ﷺ) şöyle dedi: \"Sabah namazını şafak vakti kılın, çünkü bu sizin mükafatlarınız için daha büyüktür.\""
+    },
+    {
+      "id": 11,
+      "narrator": "Narrated Abu Hurairah (RA):",
+      "text": "Ebu Hureyre (RA) rivayet etti: Peygamber (ﷺ) şöyle dedi: \"Güneş doğmadan önce Fajr namazından bir rek'at kılan, sabah namazını vaktinde kılmıştır; güneş batmadan önce 'Asr namazından bir rek'at kılan, ikindi namazını kılmıştır.\""
+    },
+    {
+      "id": 12,
+      "narrator": "Muslim reported the same above Hadith in another version narrated by 'Aishah (RA), who narrated 'Sajdah (prostration)' instead of 'Rak'a (prayer unit)' and then he (Muslim) said:",
+      "text": "Müslim, yukarıdaki hadisi Aişe (RA) tarafından rivayet edilen başka bir versiyonunda aktardı; burada 'rek'at' yerine 'secde' dedi ve sonra (Müslim) şöyle dedi: \"Bir secde, bir rek'atı ifade eder.\""
+    },
+    {
+      "id": 13,
+      "narrator": "Narrated Abu Sa'id al-Khudri (RA):",
+      "text": "Ebu Said el-Hudri (RA) rivayet etti: Allah'ın Messenger (ﷺ) şöyle dedi: \"Güneş doğduktan sonra sabah namazından, güneş batmadan sonra ikindi namazından sonra namaz kılınmaz.\""
+    },
+    {
+      "id": 14,
+      "narrator": "And in the narration of Muslim:",
+      "text": "Ve Müslim'in rivayetinde: \"Fajr (sabah) namazından sonra namaz yoktur.\""
+    },
+    {
+      "id": 15,
+      "narrator": "'Uqbah bin 'Aamir (RA) narrated:",
+      "text": "Ukbe bin Amir (RA) rivayet etti: \"Allah'ın Messenger (ﷺ) bize namaz kılmamızı veya ölülerimizi gömmemizi yasakladığı üç zaman vardır: (a) güneşin doğmaya başladığı zamandan tam olarak doğana kadar, (b) güneşin öğle vakti en yüksek noktasında olduğu zamandan meridyenin geçmesine kadar, ve (c) güneşin batmaya yaklaşmasıyla batana kadar.\""
+    },
+    {
+      "id": 16,
+      "narrator": "",
+      "text": "ash-Shafi'i, ikinci hükmü şöyle değerlendirir:"
+    },
+    {
+      "id": 17,
+      "narrator": "A Hadith narrated by Abu Hurairah (RA) through a weak Sanad with the addition:",
+      "text": "---"
+    },
+    {
+      "id": 18,
+      "narrator": "",
+      "text": "Zayıf bir isnatla Abu Hurairah (RA) tarafından rivayet edilen bir Hadis: \"Cuma günü dışında.\""
+    },
+    {
+      "id": 19,
+      "narrator": "Narrated Jubair bin Mut'im (RA):",
+      "text": "---"
+    },
+    {
+      "id": 20,
+      "narrator": "Narrated Ibn 'Umar (RA):",
+      "text": "Abu Dawud, benzer bir şeyi Abu Qatadah (RA) dan rivayet etmiştir."
+    },
+    {
+      "id": 21,
+      "narrator": "Narrated Ibn 'Abbas (RA):",
+      "text": "---"
+    },
+    {
+      "id": 22,
+      "narrator": "al-Hakim reported something similar to the above Hadith from Jabir and added to the type of dawn in which eating is forbidden:",
+      "text": "Jubair bin Mut'im (RA) rivayet etti: Allah'ın Messengerı (ﷺ) şöyle dedi: \"Ey 'Abd Manaf'ın soyundan gelenler! Bu Ev'in (Kâbe) etrafında dönen ve gece veya gündüz istediği herhangi bir saatte burada namaz kılan hiç kimseyi engellemeyin.\""
+    },
+    {
+      "id": 23,
+      "narrator": "Narrated Ibn Mas'ud (RA):",
+      "text": "---"
+    },
+    {
+      "id": 24,
+      "narrator": "",
+      "text": "Ibn 'Umar (RA) rivayet etti: Peygamber (ﷺ) şöyle dedi: \"Alacakaranlık, kırmızılıktır.\""
+    },
+    {
+      "id": 25,
+      "narrator": "Narrated Abu Mahdhurah (RA):",
+      "text": "---"
+    },
+    {
+      "id": 26,
+      "narrator": "",
+      "text": "Ibn 'Abbas (RA) rivayet etti: Allah'ın Messengerı (ﷺ) şöyle dedi: \"İki tür şafak vardır; birincisi, (oruçlu için) yemek yemesi yasak olan ve namaza izin verilen şafak, diğeri ise namazın yasak olduğu yani sabah namazı ve yemek yemeye izin verilen şafaktır.\""
+    },
+    {
+      "id": 27,
+      "narrator": "Narrated Ibn 'Umar (RA):",
+      "text": "---"
+    },
+    {
+      "id": 28,
+      "narrator": "In another narration :",
+      "text": "al-Hakim, yukarıdaki Hadis'e benzer bir şeyi Jabir'den rivayet etti ve yemek yemesi yasak olan şafak türüne ekledi: \"horizontta yaygın olarak yayılır,\" diğer tür için ise: \"kurt kuyruğu şeklindedir.\""
+    },
+    {
+      "id": 29,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 30,
+      "narrator": "Narrated Umm Salamah (RA):",
+      "text": "Ibn Mas'ud (RA) rivayet etti: Allah'ın Messengerı (ﷺ) şöyle dedi: \"En iyi amellerden biri, Salat'ı (namazı) vaktinde kılmaktır.\""
+    },
+    {
+      "id": 31,
+      "narrator": "",
+      "text": "Abu Davud'un 'Aişe (RA) üzerinden rivayeti aynı anlama sahiptir."
+    },
+    {
+      "id": 32,
+      "narrator": "Narrated 'Abdullah bin Zaid bin Abd-Rabbihi (RA):",
+      "text": "---"
+    },
+    {
+      "id": 33,
+      "narrator": "Ahmad added to the end of the above Hadith, the story of BIlal's statement in the Fajr Adhan (morning prayer call):",
+      "text": "'Abdullah bin Zaid bin Abd-Rabbihi (RA) şöyle rivayet etmiştir: Bir adam bana rüyada göründü ve \"Allahu Ekber, Allahu Ekber\" dememi söyledi. O, Adhan'ı Allahu Ekber ile dört kez, Tarji'siz olarak zikretti ve İkama'yı bir kez, \"Kadı kamat-is-Salah\" (namaz başlamaya hazır) hariç, iki kez tekrar etti. O ('Abdullah) sabah olunca Allah'ın Elçisi'ne (ﷺ) gittim ve o, \"Bu doğru bir rüyadır...\" dedi."
+    },
+    {
+      "id": 34,
+      "narrator": "Ibn Khuzaimah reported from Anas (RA):",
+      "text": "---"
+    },
+    {
+      "id": 35,
+      "narrator": "Narrated Abu Mahdhura (RA):",
+      "text": "Ahmad, yukarıdaki Hadis'in sonuna Bilal'in Fajr Adhanı'ndaki ifadesini eklemiştir: as-Salatu khairun minan-nawm - \"Namaz, uykudan hayırlıdır\"."
+    },
+    {
+      "id": 36,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 37,
+      "narrator": "Narrated Anas (RA):",
+      "text": "İbn Khuzaimah, Anas (RA) üzerinden şöyle rivayet etmiştir: \"Mu'adhdhin Fajr (namaz vakti) dediğinde: 'Hayya 'alal-Falah (Kurtuluşa gelin)', o (aynı zamanda) 'as-Salatu khairun minan-nawm (Namaz, uykudan hayırlıdır)' der.\""
+    },
+    {
+      "id": 38,
+      "narrator": "A narration of an-Nasa'i has:",
+      "text": "---"
+    },
+    {
+      "id": 39,
+      "narrator": "Narrated Abu Juhaifa (RA):",
+      "text": "Abu Mahdhura (RA) şöyle rivayet etmiştir: Peygamber (ﷺ) ona Adhan'ı (namaz çağrısı) öğretti ve o (rivayet eden) içinde Tarji'yi zikretti. [Muslim bunu rivayet etti, ancak başında \"Allahu Ekber\" ifadesini sadece iki kez zikretti.]"
+    },
+    {
+      "id": 40,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 41,
+      "narrator": "",
+      "text": "al-Khamsah bunu rivayet etti, ancak Takbir'i dört kez zikretti."
+    },
+    {
+      "id": 42,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 43,
+      "narrator": "Narrated Abu Mandhura (RA):",
+      "text": "Anas (RA) şöyle rivayet etmiştir: Bilal'e Adhan'ı (her cümleyi) iki kez ve İkama'yı (her cümleyi) bir kez, \"Namaz başlamaya hazır\" hariç (iki kez) söylemesi emredildi."
+    },
+    {
+      "id": 44,
+      "narrator": "Narrated Jabir bin Samurah (RA):",
+      "text": "---"
+    },
+    {
+      "id": 45,
+      "narrator": "",
+      "text": "an-Nasa'i'nin bir rivayetinde: \"Bilal, Peygamber (ﷺ) tarafından emredildi.\""
+    },
+    {
+      "id": 46,
+      "narrator": "Narrated Abu Qatadah (RA) in a long Hadith about their (Sahaba) sleeping late past the time of Salat (prayer):",
+      "text": "Abu Katade (RA) tarafından rivayet edilen uzun bir hadis: Sonra Bilal ezanı okudu ve Peygamber (ﷺ) her gün yaptığı gibi (Sahabeleri) namazda önde durarak namaz kıldırdı."
+    },
+    {
+      "id": 47,
+      "narrator": "Muslim also reported from Jabir (RA):",
+      "text": "---"
+    },
+    {
+      "id": 48,
+      "narrator": "Muslim also reported from Ibn 'Umar (RA):",
+      "text": "Müslim, Cabir (RA) üzerinden de rivayet etmiştir: Peygamber (ﷺ) Müzdelife'ye geldi ve orada akşam ve yatsı namazını bir ezan ve iki ikamet ile kıldırdı."
+    },
+    {
+      "id": 49,
+      "narrator": "Abu Dawud added the words:",
+      "text": "---"
+    },
+    {
+      "id": 50,
+      "narrator": "And in another narration he reported:",
+      "text": "Müslim, İbn Ömer (RA) üzerinden de rivayet etmiştir: Peygamber (ﷺ) akşam ve yatsı namazlarını bir ikamet ile birleştirdi."
+    },
+    {
+      "id": 51,
+      "narrator": "Narrated Ibn 'Umar and 'Aishah (RA):",
+      "text": "---"
+    },
+    {
+      "id": 52,
+      "narrator": "Narrated Ibn 'Umar (RA):",
+      "text": "Ebu Davud, \"her namaz için\" ifadesini eklemiştir."
+    },
+    {
+      "id": 53,
+      "narrator": "Narrated Abu Sa'id al-Khudri (RA):",
+      "text": "---"
+    },
+    {
+      "id": 54,
+      "narrator": "",
+      "text": "Ve başka bir rivayette, onlardan hiçbiri için ezan okunmadığını bildirmiştir."
+    },
+    {
+      "id": 55,
+      "narrator": "And Muslim reported a narration by 'Umar (RA) regarding the virtue of repeating what the Mu'adhdhin pronounces word by word except when the Mu'adhdhin says:",
+      "text": "---"
+    },
+    {
+      "id": 56,
+      "narrator": "Narrated 'Uthman bin Abul-'Aas (RA):",
+      "text": "İbn Ömer ve Aişe (RA) tarafından rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Bilal, gece iken ezan okur, o yüzden İbn Ümmü Mektum ezan okuyana kadar yiyip için.\" Ve o (İbn Ümmü Mektum) kör bir adamdı, \"Sabah oldu, sabah oldu.\" denilmeden ezan okumazdı."
+    },
+    {
+      "id": 57,
+      "narrator": "Narrated Malik bin al-Huwairith (RA):",
+      "text": "."
+    },
+    {
+      "id": 58,
+      "narrator": "Narrated Jabir (RA):",
+      "text": "Son kısmında bir idrac vardır."
+    },
+    {
+      "id": 59,
+      "narrator": "He also reported from Abu Hurairah (RA):",
+      "text": "---"
+    },
+    {
+      "id": 60,
+      "narrator": "He also reported from Ziyad bin al-Harith (RA):",
+      "text": "İbn Ömer (RA) tarafından rivayet edilmiştir: Bilal, fecrden önce ezan okudu ve Peygamber (ﷺ) ona geri dönmesini ve \"Şüphesiz ki Allah'ın kulu (yani Bilal) uyumuştu (bu yüzden bu hata)\" demesini söyledi."
+    },
+    {
+      "id": 61,
+      "narrator": "Narrated 'Abdullah bin Zaid in another narration of the Hadith reported by Abu Dawud:",
+      "text": "'Abdullah bin Zaid'den rivayet edilmiştir. Abu Davud'un aktardığı başka bir hadiste şöyle denilmiştir: \"Ben onu, yani Ezan'ı (bir rüyada) gördüm ve ilan etmek istedim. Allah'ın Elçisi (ﷺ) dedi ki: 'İkâmet getir.'\""
+    },
+    {
+      "id": 62,
+      "narrator": "Narrated Abu Hurairah (RA):",
+      "text": "---"
+    },
+    {
+      "id": 63,
+      "narrator": "",
+      "text": "Abu Hurairah (RA) rivayet etmiştir: Allah'ın Elçisi (ﷺ) dedi ki: \"Mu'adhdhin'in ikâmet getirme hakkı daha fazladır.\""
+    },
+    {
+      "id": 64,
+      "narrator": "Narrated Anas bin Malik (RA):",
+      "text": "---"
+    },
+    {
+      "id": 65,
+      "narrator": "Narrated Jabir (RA):",
+      "text": "al-Baihaqi, 'Ali (RA)'nin sözlerinden benzer bir rivayet aktarmıştır."
+    },
+    {
+      "id": 66,
+      "narrator": "Narrated 'Ali bin Talq (RA):",
+      "text": "---"
+    },
+    {
+      "id": 67,
+      "narrator": "Narrated 'Aisha (ra):",
+      "text": "Anas bin Malik (RA) rivayet etmiştir: Allah'ın Elçisi (ﷺ) dedi ki: \"Ezan ile ikâmet arasında yapılan dua reddedilmez.\""
+    },
+    {
+      "id": 68,
+      "narrator": "Narrated :",
+      "text": "---"
+    },
+    {
+      "id": 69,
+      "narrator": "Narrated Jabir (RA):",
+      "text": "Jabir (RA) rivayet etmiştir: Allah'ın Elçisi (ﷺ) dedi ki: \"Ezan'ı duyduğunda 'Ey Allah! Bu mükemmel çağrının ve kılınacak olan düzenli namazın Rabbi! Muhammed'e (ﷺ) şefaat hakkını ve üstünlüğünü ver, onu Kıyamet Günü vaad ettiğin cennetteki en iyi ve en yüksek yere gönder' diyen kimse, Kıyamet Günü benim şefaatimden emin olacaktır.\""
+    },
+    {
+      "id": 70,
+      "narrator": "Narrated Abu Hurairah (RA):",
+      "text": "---"
+    },
+    {
+      "id": 71,
+      "narrator": "Narrated Umm Salamah (RA):",
+      "text": "'Ali bin Talq (RA) rivayet etmiştir: Allah'ın Elçisi (ﷺ) dedi ki: \"Sizden biri Salat (namaz) esnasında gaz çıkardığında, namazını bozmalı, abdest almalı ve namazı tekrar kılmalıdır.\""
+    },
+    {
+      "id": 72,
+      "narrator": "Narrated 'Aamir bin Rabi'ah (RA):",
+      "text": "---"
+    },
+    {
+      "id": 73,
+      "narrator": "Narrated Abu Hurairah (RA):",
+      "text": "'Aisha (ra) rivayet etmiştir: Allah'ın Elçisi (ﷺ) dedi ki: \"Kim kusarsa, burun kanaması olursa veya Madhi (üretral akıntı) çıkarsa, abdest almalı ve sonra Salat'ını (namazını) kaldığı yerden tamamlamalıdır, ancak bu esnada konuşmamalıdır.\" İbn Mace tarafından rivayet edilmiştir ve Ahmed tarafından zayıf olarak değerlendirilmiştir."
+    },
+    {
+      "id": 74,
+      "narrator": "Narrated 'Aamir bin Rabi'ah (RA):",
+      "text": "---"
+    },
+    {
+      "id": 75,
+      "narrator": "al-Bukhari added:",
+      "text": "Rivayet edilmiştir: Peygamber (ﷺ) dedi ki: \"Ergenliğe ulaşmış bir kadının Salatı (namazı), Khimar giymediği sürece kabul edilmez.\""
+    },
+    {
+      "id": 76,
+      "narrator": "Narrated Anas in another narration of the Hadith reported by Abu Dawud:",
+      "text": "Anas (RA) tarafından rivayet edilmiştir: Seyahat ettiğinde ve nafile namaz kılmayı niyet ettiğinde, binek deveni kıbleye doğru yönlendirir, \"Allahu Ekber\" der ve devesinin yöneldiği tarafa doğru namaz kılardı."
+    },
+    {
+      "id": 77,
+      "narrator": "Narrated Abu Sa'id al-Khudri (RA):",
+      "text": "---"
+    },
+    {
+      "id": 78,
+      "narrator": "Narrated Ibn 'Umar (RA):",
+      "text": "Ebu Sa'id el-Hudri (RA) tarafından rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Bütün dünya, mezarlık ve tuvalet dışında, namaz kılmak için bir mescittir.\""
+    },
+    {
+      "id": 79,
+      "narrator": "Narrated Abu Marthad al-Ghanawi (RA):",
+      "text": "---"
+    },
+    {
+      "id": 80,
+      "narrator": "Narrated Abu Sa'id (RA):",
+      "text": "İbn 'Umar (RA) tarafından rivayet edilmiştir: Allah'ın Elçisi (ﷺ) yedi yerde namaz kılmayı yasakladı; bir çöp yığını, bir kesim yeri, bir mezarlık, yolun ortası, bir banyo ve develerin su içtiği yer ile Kâbe'nin (çatı) üstü."
+    },
+    {
+      "id": 81,
+      "narrator": "Narrated Abu Hurairah (RA):",
+      "text": "---"
+    },
+    {
+      "id": 82,
+      "narrator": "Narrated Mu'awiya bin al-Hakam (RA):",
+      "text": "Ebu Marthad el-Ghanavi (RA) tarafından rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Mezarlara doğru namaz kılmayın ve onların üzerinde oturmayın.\""
+    },
+    {
+      "id": 83,
+      "narrator": "Narrated Zaid bin Arqam (RA):",
+      "text": "---"
+    },
+    {
+      "id": 84,
+      "narrator": "Narrated Abu Hurairah (RA):",
+      "text": "Ebu Sa'id (RA) tarafından rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle buyurdu: \"Sizden biri mescide geldiğinde ayakkabılarına bakmalı ve eğer ayakkabılarında bir kir görürse, onları silmeli ve sonra o ayakkabılarla namaz kılmalıdır.\""
+    },
+    {
+      "id": 85,
+      "narrator": "Muslim added:",
+      "text": "---"
+    },
+    {
+      "id": 86,
+      "narrator": "",
+      "text": "Ebu Hureyre (RA) tarafından rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle buyurdu: \"Eğer biri iki deri çorapla pisliğe basarsa, yer onların temizlenmesidir.\""
+    },
+    {
+      "id": 87,
+      "narrator": "Narrated Ali (RA):",
+      "text": "---"
+    },
+    {
+      "id": 88,
+      "narrator": "Narrated Ibn 'Umar (RA):",
+      "text": "Mu'aviye bin el-Hakem (RA) tarafından rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle buyurdu: \"Salat (namaz) sırasında konuşmak uygun değildir; çünkü o (namaz) sadece Allah'ı tesbih etmek, O'nun büyüklüğünü ilan etmek ve Kur'an okumaktan ibarettir.\""
+    },
+    {
+      "id": 89,
+      "narrator": "Narrated Abu Qatada (RA):",
+      "text": "---"
+    },
+    {
+      "id": 90,
+      "narrator": "Muslim has:",
+      "text": "Zeyd bin Arkam (RA) tarafından rivayet edilmiştir: Allah'ın Elçisi (ﷺ) zamanında Salat (namaz) esnasında konuşuyorduk ve biri, namazda ihtiyaçlarıyla ilgili arkadaşına konuşuyordu, ta ki şu ayet nazil oluncaya kadar: \"Namazları titizlikle koruyun, özellikle orta namazı; ve Allah'a itaatle durun,\" sonra sessiz olmamız emredildi ve konuşmamız yasaklandı."
+    },
+    {
+      "id": 91,
+      "narrator": "Narrated Abu Hurairah (RA):",
+      "text": "Abu Hurayra (RA) rivayet etti: \"Allah'ın Messenger'ı (ﷺ) şöyle dedi: 'Salat (namaz) sırasında iki siyah olanı, yılanı ve akrebi öldürün.'\""
+    },
+    {
+      "id": 92,
+      "narrator": "Narrated Abu Juhaim bin al-Harith (RA):",
+      "text": "---"
+    },
+    {
+      "id": 93,
+      "narrator": "It is mentioned in al-Bazzar through another chain with the addition:",
+      "text": "Ebu Cuhaym bin el-Haris (RA) rivayet etti: Allah'ın Messenger'ı (ﷺ) şöyle dedi: \"Eğer bir kişi, namaz kılan birinin önünden geçmenin günahının büyüklüğünü bilseydi, onun önünden geçmektense kırk yıl beklemeyi tercih ederdi.\""
+    },
+    {
+      "id": 94,
+      "narrator": "Narrated 'Aishah (RA):",
+      "text": "---"
+    },
+    {
+      "id": 95,
+      "narrator": "Narrated Sabra bin Ma'bad al-Juhani (RA):",
+      "text": "Al-Bazzar'da başka bir isnatla şu ekleme ile geçmektedir: \"kırk yıl.\""
+    },
+    {
+      "id": 96,
+      "narrator": "Narrated Abu Dhar al-Ghifari (RA):",
+      "text": "---"
+    },
+    {
+      "id": 97,
+      "narrator": "",
+      "text": "Aişe (RA) rivayet etti: Allah'ın Messenger'ı (ﷺ) Tabuk seferinde namaz kılan kişinin sutrası hakkında soruldu; o da, \"O, bir eyerin sırtı gibidir.\" dedi."
+    },
+    {
+      "id": 98,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 99,
+      "narrator": "Narrated Abu Sa'id al-Khudri (RA):",
+      "text": "Sabra bin Ma'bad el-Cuhani (RA) rivayet etti: Allah'ın Messenger'ı (ﷺ) şöyle dedi: \"Namazda olan biriniz, önünde bir sutra koysun, bu bir ok bile olsa.\""
+    },
+    {
+      "id": 100,
+      "narrator": "In another narration:",
+      "text": "---"
+    },
+    {
+      "id": 101,
+      "narrator": "Narrated Abu Hurairah (RA):",
+      "text": "Ebu Dharr el-Gifari (RA) rivayet etti: Allah'ın Messenger'ı (ﷺ) şöyle dedi: \"Eğer önünde (bir nesne) yoksa, bir Müslümanın Salatı (namazı) bir kadın, bir eşek ve bir siyah köpek tarafından kesilir.\" Ve şöyle devam etti: \"Siyah köpek bir şeytandır.\""
+    },
+    {
+      "id": 102,
+      "narrator": "Narrated Abu Sa'id al-Khudri (RA):",
+      "text": "---"
+    },
+    {
+      "id": 103,
+      "narrator": "Narrated Abu Hurairah (RA):",
+      "text": "Müslim de Ebu Hurayra (RA) aracılığıyla benzer bir Hadis rivayet etti, ancak Kalb (köpek) kelimesini anmadı."
+    },
+    {
+      "id": 104,
+      "narrator": "And in the narration of al-Bukhari narrated by 'Aishah (RA) is:",
+      "text": "---"
+    },
+    {
+      "id": 105,
+      "narrator": "Narrated Anas (RA):",
+      "text": "Başka bir rivayette Ebu Davud ve en-Nesai, İbn Abbas (RA) aracılığıyla benzer bir rapor aktardı, ancak sonunu belirtmedi ve bir kadının namaz kılan birinin önünden geçmesinin yasaklanmasını, adet döneminde olma durumu ile ilişkilendirdi."
+    },
+    {
+      "id": 106,
+      "narrator": "Narrated Abu Dhar (RA):",
+      "text": "Ebu Zerr (RA) rivayet etti: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Sizden biri namaz kılarken, yüzünden taşları kaldırmamalıdır; zira rahmet ona yönelmiştir.\""
+    },
+    {
+      "id": 107,
+      "narrator": "And Ahmad added to the above Hadith:",
+      "text": "---"
+    },
+    {
+      "id": 108,
+      "narrator": "",
+      "text": "Ahmad, yukarıdaki Hadis'e şunu ekledi: \"(taşları kaldır) bir kez veya bırak (onları).\""
+    },
+    {
+      "id": 109,
+      "narrator": "Narrated 'Aishah (RA):",
+      "text": "---"
+    },
+    {
+      "id": 110,
+      "narrator": "at-Tirmidhi has reported and graded as Sahih (authentic) the narration of Anas (RA):",
+      "text": "Mu'aiqib'den as-Sahih'te, sebep belirtilmeden de rivayet edilmiştir."
+    },
+    {
+      "id": 111,
+      "narrator": "Narrated Anas (RA):",
+      "text": "---"
+    },
+    {
+      "id": 112,
+      "narrator": "A narration has:",
+      "text": "Aişe (RA) rivayet etti: Ben Allah'ın Elçisi (ﷺ)'ne namaz sırasında etrafa bakmak hakkında sordum, o da şöyle dedi: \"Bu, şeytanın bir kişinin namazından kapıp aldığı bir şeydir.\""
+    },
+    {
+      "id": 113,
+      "narrator": "Narrated :",
+      "text": "---"
+    },
+    {
+      "id": 114,
+      "narrator": "al-Bukhari and Muslim have also reported a Hadith narrated by her  in which is mentioned the story of Abu Jahm's Ambijania (a plain woolem garment) with the addition:",
+      "text": "at-Tirmidhi, Anas (RA)'nin rivayetini aktarmış ve onu Sahih (doğru) olarak değerlendirmiştir: \"Namazda iken etrafa bakmaktan kaçının, zira etrafa bakmak yıkımdır. Eğer bakmanız gerekiyorsa, bunu nafile namazlarda yapın.\""
+    },
+    {
+      "id": 115,
+      "narrator": "Narrated Jabir bin Samura (RA):",
+      "text": "---"
+    },
+    {
+      "id": 116,
+      "narrator": "Narrated 'Aishah (RA) in another narration of it from Muslim:",
+      "text": "Anas (RA) rivayet etti: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Sizden biri Salat (namaz) kıldığında, Rabb'iyle samimi bir konuşma halindedir; bu yüzden önüne, sağ tarafına tükürmemelidir, sadece sol tarafına, ayağının altına tükürebilir.\""
+    },
+    {
+      "id": 117,
+      "narrator": "Narrated Abu Hurairah (RA):",
+      "text": "---"
+    },
+    {
+      "id": 118,
+      "narrator": "Also reported by at-Tirmidhi, and he added:",
+      "text": "Bir rivayette: \"veya ayağının altına.\" şeklinde geçmektedir."
+    },
+    {
+      "id": 119,
+      "narrator": "Narrated 'Aishah (RA):",
+      "text": "---"
+    },
+    {
+      "id": 120,
+      "narrator": "Narrated Abu Hurairah (RA):",
+      "text": "Aişe (RA) rivayet etti: Onun bir tarafını evinin önüne çektiği bir Qiram (renkli yumuşak bir kumaş) vardı. Peygamber (ﷺ) şöyle dedi: \"Bu Qiram'ı kaldır, zira onun resimleri namazım sırasında önümde sergileniyor.\""
+    },
+    {
+      "id": 121,
+      "narrator": "Muslim added:",
+      "text": "Müslim ekledi: \"ve Hristiyanlar.\""
+    },
+    {
+      "id": 122,
+      "narrator": "Narrated 'Aishah (RA) in al-Bukhari and Muslim , \"When a pious person amongst them (the Jews and Christians) died they used to build a place of worship and prostration on his grave.\"\n\nIn the same Hadith is:",
+      "text": "---"
+    },
+    {
+      "id": 123,
+      "narrator": "Narrated Abu Hurairah (RA):",
+      "text": "'Aişe (RA) tarafından rivayet edilmiştir: \"Onlardan (Yahudiler ve Hristiyanlar) bir salih kişi öldüğünde, mezarının üzerine bir ibadet ve secde yeri inşa ederlerdi.\" Aynı Hadis'te: \"Onlar yaratıkların en kötüleridir.\""
+    },
+    {
+      "id": 124,
+      "narrator": "Narrated :",
+      "text": "---"
+    },
+    {
+      "id": 125,
+      "narrator": "Narrated :",
+      "text": "Ebu Hureyre (RA) tarafından rivayet edilmiştir: Peygamber (ﷺ) bir süvari seferi gönderdi, onlar bir adamla geri döndüler, ardından onu caminin sütunlarından birine bağladılar."
+    },
+    {
+      "id": 126,
+      "narrator": "Narrated :",
+      "text": "---"
+    },
+    {
+      "id": 127,
+      "narrator": "Narrated Hakim bin Hizam (RA):",
+      "text": "Rivayet edilmiştir: Ömer, caminin içinde şiir okuyan Hasan'ın yanına geldi ve ona sert bir şekilde baktı, ardından Hasan dedi ki: \"Ben burada (cami içinde) senden daha salih birinin huzurunda şiir okurdum.\""
+    },
+    {
+      "id": 128,
+      "narrator": "Narrated 'Aishah (RA):",
+      "text": "---"
+    },
+    {
+      "id": 129,
+      "narrator": "Narrated :",
+      "text": "Rivayet edilmiştir: Allah'ın Elçisi (ﷺ) dedi ki: \"Cami içinde bir adamın kaybettiği bir şey hakkında bağırdığını duyarsanız, 'Allah onu sana geri vermesin' demelisiniz, çünkü camiler bunun için inşa edilmemiştir.\""
+    },
+    {
+      "id": 130,
+      "narrator": "Narrated :",
+      "text": "---"
+    },
+    {
+      "id": 131,
+      "narrator": "Narrated Anas (RA):",
+      "text": "Rivayet edilmiştir: Allah'ın Elçisi (ﷺ) dedi ki: \"Eğer cami içinde birinin alım satım yaptığını görürseniz, 'Allah ticaretini bereketli kılmasın!' deyin.\""
+    },
+    {
+      "id": 132,
+      "narrator": "Narrated :",
+      "text": "---"
+    },
+    {
+      "id": 133,
+      "narrator": "Narrated Ibn 'Abbas (RA):",
+      "text": "Hakim bin Hizam (RA) tarafından rivayet edilmiştir: Allah'ın Elçisi (ﷺ) dedi ki: \"Ne belirlenmiş ceza ne de intikam cami içinde icra edilmelidir.\""
+    },
+    {
+      "id": 134,
+      "narrator": "Narrated Anas (RA):",
+      "text": "---"
+    },
+    {
+      "id": 135,
+      "narrator": "Narrated Abu Qatada (RA):",
+      "text": "'Aişe (RA) tarafından rivayet edilmiştir: Hendek günü (Hendek Savaşı) Sa'd yaralandı ve Allah'ın Elçisi (ﷺ) onun için camide bir çadır kurdu, ona yakın mesafeden ziyaret edebilmek için."
+    },
+    {
+      "id": 136,
+      "narrator": "Narrated Abu Hurairah (RA):",
+      "text": "Ebu Hureyre (RA) rivayet etti: Peygamber (ﷺ) şöyle dedi: \"Namaza kalktığınızda, abdestinizi tam olarak alın, sonra Kıble'ye dönün ve 'Allahu Ekber' deyin. Sonra Kur'an'dan uygun bir bölüm okuyun; ardından rükû edin ve o pozisyonda bir an kalın, sonra kalkın ve dimdik durun; sonra secde edin ve o pozisyonda bir an kalın, sonra kalkın ve sakin bir şekilde oturun, sonra secde edin ve o pozisyonda bir an kalın; bunu namazınız boyunca yapın.\""
+    },
+    {
+      "id": 137,
+      "narrator": "The narration of Ibn Majah through a chain of Muslim has:",
+      "text": "---"
+    },
+    {
+      "id": 138,
+      "narrator": "",
+      "text": "İbn Mace'nin Müslim üzerinden rivayeti: \"Sonra kalkın ve sakin bir şekilde dimdik durun.\""
+    },
+    {
+      "id": 139,
+      "narrator": "And Ahmad has:",
+      "text": "---"
+    },
+    {
+      "id": 140,
+      "narrator": "And in the narration of an-Nasa'i and Abu Dawud from the Hadith of Rifa'a bin Rafi':",
+      "text": "İbn Hibban ve Ahmed'in rivayetinde Rifa'a bin Rafi' bin Malik'in Hadisi yukarıdakine benzer."
+    },
+    {
+      "id": 141,
+      "narrator": "It is also mentionmed in the same Hadith, \"If you know any portion of the Qur'an, read it or else say:",
+      "text": "---"
+    },
+    {
+      "id": 142,
+      "narrator": "",
+      "text": "Ahmed'de: \"Omurganızı düz tutun, kemikler yerlerine dönene kadar.\""
+    },
+    {
+      "id": 143,
+      "narrator": "Ibn Hibban also has:",
+      "text": "---"
+    },
+    {
+      "id": 144,
+      "narrator": "Narrated Abu Humaid As-Sa'idi (RA):",
+      "text": "An-Nasa'i ve Ebu Davud'un Rifa'a bin Rafi' Hadisi'nden rivayetinde: \"Sizden birinin Salatı (namazı), Allah'ın kendisine emrettiği gibi Wudu' (abdest) almadıkça tamamlanmaz, sonra Allahu Ekber der ve Elhamdulillah diyerek O'nu övün.\""
+    },
+    {
+      "id": 145,
+      "narrator": "Narrated 'Ali bin Abi Talib (RA):",
+      "text": "---"
+    },
+    {
+      "id": 146,
+      "narrator": "And in another narration of Muslim:",
+      "text": "Aynı Hadis'te ayrıca şöyle denilmektedir: \"Eğer Kur'an'dan herhangi bir bölüm biliyorsanız, onu okuyun ya da 'Elhamdulillah, Allahu Ekber ve La ilaha illallah' deyin.\""
+    },
+    {
+      "id": 147,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 148,
+      "narrator": "Narrated 'Umar (RA):",
+      "text": "Ebu Davud'da: \"Sonra Ümmü'l-Kur'an'ı (yani Fatiha Suresi) okuyun ve Allah'ın dilediğini okuyun.\""
+    },
+    {
+      "id": 149,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 150,
+      "narrator": "Containing the words:",
+      "text": "İbn Hibban'da da: \"ve sonra (okuyun) istediğinizi.\""
+    },
+    {
+      "id": 151,
+      "narrator": "",
+      "text": "'Aişe (RA) tarafından rivayet edilmiştir: Allah'ın Elçisi (ﷺ) Salat'a (namaz) Tekbir (Allahu Ekber - Allah en büyüktür) ile başlar ve okumaya Elhamdu lillahi Rabbil'alemin (övgü, âlemlerin Rabbi olan Allah'a aittir) ile başlardı.\" Ve rükûya gittiğinde, ne başını yukarıda tutar ne de aşağıda eğerdi, fakat iki pozisyon arasında tutardı. Rükûdan başını kaldırdığında, ayakta durmadan secde etmezdi; ve secdeden sonra başını kaldırdığında, oturmadan tekrar secde etmezdi. Her iki Rek'atın sonunda Teşehhüd okurdu ve sol ayağının üzerine oturur, sağ ayağını dik konumda tutardı ve şeytanın oturuş şeklini yasaklardı. İnsanların kollarını vahşi bir hayvan gibi açmalarını yasaklardı. Ve namazı Taslim (yani As-Salamu 'Alaikum) ile bitirirdi."
+    },
+    {
+      "id": 152,
+      "narrator": "Narrated Ibn 'Umar (RA):",
+      "text": "---"
+    },
+    {
+      "id": 153,
+      "narrator": "",
+      "text": "İbn 'Umar (RA) tarafından rivayet edilmiştir: Peygamber (ﷺ) namaza başladığında (Allahu Ekber diyerek) ellerini omuzlarının hizasında kaldırır, rükûya gittiğinde Tekbir getirir ve Rükû'dan (eğilme pozisyonu) başını kaldırdığında da ellerini omuzlarının hizasında tutardı."
+    },
+    {
+      "id": 154,
+      "narrator": "Muslim has a Hadith narrated by Malik bin Huwairith (ﷺ) similar to the Hadith narrated by Ibn 'Umar (RA). But he (Malik bin Huwairith) mentioned:",
+      "text": "---"
+    },
+    {
+      "id": 155,
+      "narrator": "Narrated Wa'il bin Hujr (RA):",
+      "text": "Ebu Davud, Ebu Hümeyd (RA) tarafından rivayet edilen bir Hadis bildirmiştir ki, o, ellerini kaldırır ve omuzlarının hizasında getirir, sonra Tekbir getirirdi."
+    },
+    {
+      "id": 156,
+      "narrator": "Narrated 'Ubada bin As-Samit (ﷺ):",
+      "text": "---"
+    },
+    {
+      "id": 157,
+      "narrator": "In the narration of Ibn Hibban and ad-Daraqutni is mentioned:",
+      "text": "Müslim, Malik bin Huwairith (ﷺ) tarafından rivayet edilen, İbn 'Umar (RA) tarafından rivayet edilen Hadis'e benzer bir Hadis kaydetmiştir. Ancak o (Malik bin Huwairith) şöyle demiştir: \"Ellerini kulaklarının uçlarıyla paralel olarak kaldırdı.\""
+    },
+    {
+      "id": 158,
+      "narrator": "And in another narration of Ahmad, Abu Dawud, at-Tirmidhi, and Ibn Hibban is:",
+      "text": "---"
+    },
+    {
+      "id": 159,
+      "narrator": "Narrated Anas (RA):",
+      "text": "Vail bin Hucur (RA) tarafından rivayet edilmiştir: Ben Peygamber (ﷺ) ile namaz kıldım ve o sağ elini sol elinin üzerine koydu (ve sonra onları) göğsüne yerleştirdi."
+    },
+    {
+      "id": 160,
+      "narrator": "And Muslim added:",
+      "text": "---"
+    },
+    {
+      "id": 161,
+      "narrator": "In another narration from Ahmad, an-Nasa'i and Ibn Khuzaimah:",
+      "text": "Ubade bin Es-Samit (ﷺ) tarafından rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Ummul-Kur'an'ı (Fatiha Suresi) okumayanın Salatı (namazı) yoktur.\""
+    },
+    {
+      "id": 162,
+      "narrator": "And in another report from Ibn Khuzaimah:",
+      "text": "(Kabul edilmiştir)."
+    },
+    {
+      "id": 163,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 164,
+      "narrator": "Narrated Nu'aim Mujmir (RA):",
+      "text": "İbn Hibban ve ed-Darakutni'nin rivayetinde şöyle geçmektedir: \"Fatiha al-Kitab'ı okumayanın Salatı (namazı) tamamlanmaz.\""
+    },
+    {
+      "id": 165,
+      "narrator": "Narrated Abu Hurairah (RA):",
+      "text": "---"
+    },
+    {
+      "id": 166,
+      "narrator": "Narrated :",
+      "text": "Rivayet edildi: Allah'ın Elçisi (RA) Fatiha Suresi'ni okuduktan sonra sesini yükselterek Amin dedi."
+    },
+    {
+      "id": 167,
+      "narrator": "",
+      "text": "."
+    },
+    {
+      "id": 168,
+      "narrator": "Narrated 'Abdullah bin Abi Aufa (RA):",
+      "text": "---"
+    },
+    {
+      "id": 169,
+      "narrator": "Narrated Abu Qatadah (RA):",
+      "text": "Abu Davud ve at-Tirmidhi'nin Wa'il bin Hujr (RA) Hadisi'nden gelen rivayetler buna benzer."
+    },
+    {
+      "id": 170,
+      "narrator": "Narrated Abu Sa'id Al-Khudri (RA):",
+      "text": "---"
+    },
+    {
+      "id": 171,
+      "narrator": "Narrated Sulaiman bin Yasar:",
+      "text": "Abdullah bin Abi Aufa (RA) rivayet etti: Bir adam Peygamber'e (ﷺ) geldi ve \"Kur'an'dan hiçbir şeyi ezberleyemiyorum, bana yerine geçebilecek bir şey öğret\" dedi. Peygamber (ﷺ) şöyle dedi: \"Subhan Allah (Allah her türlü eksiklikten uzaktır) de, walhamdu lillah (ve hamd Allah'a aittir), wa la ilaha illa-Allah (ve Allah'tan başka ilah yoktur), wallahu akbar (ve Allah en büyüktür), wa la hawla wa la quwwata illa billah al-'Ali al-'Adheem (ve Allah'tan başka güç ve kuvvet yoktur, O Yüce, O Azamet sahibi)\""
+    },
+    {
+      "id": 172,
+      "narrator": "Narrated Jubair bin Mut'im (RA):",
+      "text": "."
+    },
+    {
+      "id": 173,
+      "narrator": "Narrated Abu Hurairah (RA):",
+      "text": "---"
+    },
+    {
+      "id": 174,
+      "narrator": "",
+      "text": "Abu Qatadah (RA) rivayet etti: Allah'ın Elçisi (ﷺ) bize namaz kıldırır ve Zuhr ve 'Asr namazlarının ilk iki Rak'atında Fatiha Suresi'ni ve iki (başka) Sureyi okurdu. Bazen ayetleri duyacak kadar yüksek sesle okurdu. İlk Rak'atı uzatır, son iki Rak'atta sadece Fatiha Suresi'ni okurdu."
+    },
+    {
+      "id": 175,
+      "narrator": "Narrated Hudhaifah (RA):",
+      "text": "---"
+    },
+    {
+      "id": 176,
+      "narrator": "Narrated Ibn 'Abbas (RA):",
+      "text": "Abu Sa'id Al-Khudri (RA) rivayet etti: Biz Allah'ın Elçisi (ﷺ)nin Zuhr ve 'Asr namazındaki ayakta durma süresini tahmin ederdik ve Zuhr namazının ilk iki Rak'atında Alif-Lam-Mim, Tanzil (Sajda Suresi) okumak için durduğu süre kadar durduğunu tahmin ederdik; son iki Rak'atta ise bunun yarısı kadar. 'Asr'ın ilk iki Rak'atında, Zuhr'un son iki Rak'atı kadar dururdu. 'Asr'ın son iki Rak'atı ise ilk iki Rak'attan yaklaşık yarısı kadar olurdu."
+    },
+    {
+      "id": 177,
+      "narrator": "Narrated 'Aishah (RA):",
+      "text": "."
+    },
+    {
+      "id": 178,
+      "narrator": "Narrated Abu Hurairah (RA):",
+      "text": "---"
+    },
+    {
+      "id": 179,
+      "narrator": "Narrated Abu Sa'id Al-Khudri (RA) Allah's Messenger (ﷺ) used to say while raising his head after bowing:",
+      "text": "Sulaiman bin Yasar rivayet etti: Filan kişi Zuhr namazının ilk iki Rak'atını uzatır, 'Asr namazını kısaltır, Maghrib namazında Mufassal'ın kısa Suresini, 'Isha' namazında orta Suresini, Fajr namazında ise uzun olanlarını okurdu. Sonra Abu Hurairah (RA) dedi: \"Ben, Allah'ın Elçisi (ﷺ)nin namazına en çok benzeyen birinin arkasında hiç namaz kılmadım.\""
+    },
+    {
+      "id": 180,
+      "narrator": "Narrated Ibn 'Abbas (RA):",
+      "text": "---"
+    },
+    {
+      "id": 181,
+      "narrator": "Narrated Ibn Buhainah (RA):",
+      "text": "İbn Buhainah (RA) rivayet etti: Peygamber (ﷺ) namaz kılarken secdeye gittiğinde, kollarını açar, böylece koltuk altlarının beyazlığı görünürdü."
+    },
+    {
+      "id": 182,
+      "narrator": "Narrated Al-Bara' bin 'Azib (RA):",
+      "text": "---"
+    },
+    {
+      "id": 183,
+      "narrator": "Narrated Wa'il bin Hujr (RA):",
+      "text": "Al-Bara' bin 'Azib (RA) rivayet etti: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Secdeye gittiğinizde, ellerinizin avuçlarını yere koyun ve dirseklerinizi kaldırın.\""
+    },
+    {
+      "id": 184,
+      "narrator": "Narrated 'Aishah (RA):",
+      "text": "."
+    },
+    {
+      "id": 185,
+      "narrator": "Narrated Ibn 'Abbas (RA):",
+      "text": "---"
+    },
+    {
+      "id": 186,
+      "narrator": "Narrated Malik bin Al-Huwairith (RA):",
+      "text": "Wa'il bin Hujr (RA) rivayet etti: Peygamber (ﷺ) her rükûya gittiğinde parmaklarını açar, secdeye gittiğinde ise parmaklarını birleştirirdi."
+    },
+    {
+      "id": 187,
+      "narrator": "Narrated Anas bin Malik (RA):",
+      "text": "."
+    },
+    {
+      "id": 188,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 189,
+      "narrator": "Narrated :",
+      "text": "'Aişe (RA) rivayet etti: Allah'ın Elçisi (ﷺ) otururken çapraz bacaklı namaz kıldığını gördüm."
+    },
+    {
+      "id": 190,
+      "narrator": "Narrated Sa'd bin Tariq al-Ashja'i (RA):",
+      "text": "---"
+    },
+    {
+      "id": 191,
+      "narrator": "Narrated al-Hasan bin 'Ali (ﷺ):",
+      "text": "İbn 'Abbas (RA) rivayet etti: Peygamber (ﷺ) iki secde arasında şöyle derdi: \"Allah'ım, beni affet, bana merhamet et, beni hidayet et, bana sağlık ve afiyet ver ve bana rızık ver.\""
+    },
+    {
+      "id": 192,
+      "narrator": "Narrated Ibn 'Abbas (RA):",
+      "text": "---"
+    },
+    {
+      "id": 193,
+      "narrator": "Narrated Abu Hurairah (RA):",
+      "text": "Malik bin Al-Huwairith (RA) rivayet etti: Peygamber (ﷺ) namaz kılarken, tek sayıda Rakat kıldığında, düzgün bir şekilde oturmadıkça ayağa kalkmazdı."
+    },
+    {
+      "id": 194,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 195,
+      "narrator": "",
+      "text": "Anas bin Malik (RA) rivayet etti: Peygamber (ﷺ) rükûdan (kalktıktan sonra) bir ay boyunca Qunut (namazda dua) okudu ve bazı Arap kabilelerine lanet etti. Daha sonra bunu bıraktı."
+    },
+    {
+      "id": 196,
+      "narrator": "",
+      "text": "İbn 'Umar (RA)'dan (önümüzdeki) rivayet edilmiştir, İbn Khuzaimah tarafından doğrulanmıştır. al-Bukhari bunu Hadis Mu'allaq (hadis toplayıcısının tarafında eksik bağlantılar) ve Mawquf (bir sahabenin sözü) olarak anmıştır."
+    },
+    {
+      "id": 197,
+      "narrator": "Narrated Ibn 'Umar (RA):",
+      "text": "---"
+    },
+    {
+      "id": 198,
+      "narrator": "In another narration of Muslim:",
+      "text": "İbn 'Umar (RA) rivayet etti: Allah'ın Elçisi (ﷺ) at-Tashahhud için oturduğunda, sol elini sol dizine, sağ elini sağ dizine koydu, parmaklarını katladı ve sağ işaret parmağıyla işaret etti."
+    },
+    {
+      "id": 199,
+      "narrator": "Narrated 'Abdullah bin Mas'ud (RA):",
+      "text": "---"
+    },
+    {
+      "id": 200,
+      "narrator": "In the narration of an-Nasa'i:",
+      "text": "Muslim'in başka bir rivayetinde: 've sağ elinin tüm parmaklarını yumruk yaptı ve işaret parmağıyla işaret etti.'"
+    },
+    {
+      "id": 201,
+      "narrator": "And in the narration of Ahmad:",
+      "text": "---"
+    },
+    {
+      "id": 202,
+      "narrator": "In Muslim's narration from Ibn 'Abbas (RA):",
+      "text": "'Abdullah bin Mas'ud (RA) rivayet etti: Allah'ın Elçisi (ﷺ) bize baktı ve dedi ki: \"Sizden biri (namazda) oturduğunda, şöyle demelidir: 'Sözlerle, dualarla (ibadetler) bildirilen tüm hizmetler ve tüm hayırlar Allah'a aittir. Selam sana, ey Peygamber, Allah'ın rahmeti ve bereketleri üzerinize olsun, bizlere ve Allah'ın salih kullarına. Ben şahitlik ederim ki, Allah'tan başka ibadet edilmeye layık hiçbir şey yoktur ve ben şahitlik ederim ki, Muhammed O'nun kulu ve Elçisidir.' Sonra dilediği herhangi bir duayı seçip okuyabilir.\""
+    },
+    {
+      "id": 203,
+      "narrator": "Narrated Fadalah bin 'Ubaid (RA):",
+      "text": "---"
+    },
+    {
+      "id": 204,
+      "narrator": "Narrated Abu Mas'ud Al-Ansari (RA):",
+      "text": "an-Nasa'i'nin rivayetinde: 'at-Tashahhud üzerimize farz olmadan önce biz böyle derdik.'"
+    },
+    {
+      "id": 205,
+      "narrator": "Ibn Khuzaimah added to it:",
+      "text": "---"
+    },
+    {
+      "id": 206,
+      "narrator": "Narrated Abu Hurairah (RA):",
+      "text": "Ahmad'ın rivayetinde: 'Peygamber (ﷺ) ona at-Tashahhud'u öğretti ve insanlara öğretmesini emretti.'"
+    },
+    {
+      "id": 207,
+      "narrator": "In the narration of Muslim:",
+      "text": "---"
+    },
+    {
+      "id": 208,
+      "narrator": "Narrated Abu Bakr as-Siddiq (RA):",
+      "text": "Ibn 'Abbas (RA) üzerinden Muslim'in rivayetinde: Allah'ın Elçisi (ﷺ) bize at-Tashahhud'u öğretirdi: \"Sözlerle ifade edilen tüm hizmetler, iyilikler, ibadetler ve tüm hayırlar Allah'a aittir ...\" diye devam etti."
+    },
+    {
+      "id": 209,
+      "narrator": "Narrated Wa'il bin Hujr (RA):",
+      "text": "---"
+    },
+    {
+      "id": 210,
+      "narrator": "Narrated al-Mughira bin Shu'bah (RA):",
+      "text": "Fadalah bin 'Ubaid (RA) rivayet etti: Allah'ın Elçisi (ﷺ) bir adamın namazı sırasında dua ettiğini duydu. O, Allah'ı övmedi, ne de olsa Peygamber (ﷺ) üzerine dua etmedi. O (ﷺ) dedi ki: \"Acelenin ne anlamı var.\" Sonra onu çağırdı ve dedi ki: \"Sizden biri namaz kıldığında, Rabb'ini (Rab) tesbih ile anmalı ve O'nu övmelidir; sonra Peygamber (ﷺ) üzerine dua etmeli; ardından Allah'tan istediği her şeyi dilemelidir.\""
+    },
+    {
+      "id": 211,
+      "narrator": "Narrated Sa'd bin Abi Waqqas (RA):",
+      "text": "Sa'd bin Abi Waqqas (RA) rivayet etti: Allah'ın Messenger'ı (ﷺ) her Salat'ın (namaz) sonunda bu dua ile Allah'tan koruma talep ederdi: \"Ey Allah, ben cimrilikten, korkaklıktan, yaşlılıktan (ve ihtiyarlık) sana sığınırım, dünya fitnesinden sana sığınırım ve kabir azabından sana sığınırım.\""
+    },
+    {
+      "id": 212,
+      "narrator": "Narrated Thauban (RA):",
+      "text": "---"
+    },
+    {
+      "id": 213,
+      "narrator": "Narrated Abu Hurairah (RA) Allah's Messenger (ﷺ) said:",
+      "text": "Thauban (RA) rivayet etti: Allah'ın Messenger'ı (ﷺ) namazını bitirdiğinde, Allah'tan üç kez af diledikten sonra şöyle derdi: \"Ey Allah, Sen as-Salam'sın (Her türlü eksiklikten uzak olan), ve as-Salam (her türlü kötülükten güvenlik) Senden istenir. Sen yücesin, ey şan ve şeref sahibi.\""
+    },
+    {
+      "id": 214,
+      "narrator": "In another narration it is mentioned:",
+      "text": "---"
+    },
+    {
+      "id": 215,
+      "narrator": "Narrated Mu'adh bin Jabal (RA) Allah's Messenger (ﷺ) told me, \"O Mu'adh, I will give you some advice - Never leave the recitation of this supplication after every prayer:",
+      "text": "Abu Hurairah (RA) rivayet etti: Allah'ın Messenger'ı (ﷺ) şöyle dedi: \"Kim her Salat'tan (namaz) sonra otuz üç kez Subhan-Allah der, otuz üç kez Alhamdu-lillah der, otuz üç kez Allahu Akbar der, bunlar toplamda doksan dokuz eder, ve yüzü tamamlamak için: La ilaha ill-Allahu, wahdahu la sharika lahu, lahul-mulku wa lahulhamdu, wa Huwa 'ala kulli shai'in Qadir (Allah'tan başka ibadet edilmeye layık hiçbir ilah yoktur; O'nun ortağı yoktur; mülk O'nundur, övgü O'na aittir ve O her şeye kadirdir) derse, günahları affedilir, deniz köpüğü kadar çok olsalar bile.\""
+    },
+    {
+      "id": 216,
+      "narrator": "Narrated Abu Umamah (RA):",
+      "text": "---"
+    },
+    {
+      "id": 217,
+      "narrator": "at-Tabarani has the addition:",
+      "text": "Başka bir rivayette şöyle geçmektedir: \"at-Takbir (Allah en büyüktür) otuz dört kezdir.\""
+    },
+    {
+      "id": 218,
+      "narrator": "Narrated Malik bin Al-Huwairith (RA):",
+      "text": "---"
+    },
+    {
+      "id": 219,
+      "narrator": "Narrated 'Imran bin Husain (RA):",
+      "text": "Mu'adh bin Cebel (RA) rivayet etti: Allah'ın Messenger'ı (ﷺ) bana şöyle söyledi: \"Ey Mu'adh, sana bir tavsiye vereceğim - Her namazdan sonra bu duayı okumayı asla bırakma: 'Ey Allah, Senin zikrini yapmamda, Şükretmemde ve Seni tam anlamıyla ibadet etmemde bana yardım et.'\""
+    },
+    {
+      "id": 220,
+      "narrator": "Narrated Jabir (RA):",
+      "text": "."
+    },
+    {
+      "id": 221,
+      "narrator": "Narrated 'Abdullah bin Buhainah (RA):",
+      "text": "---"
+    },
+    {
+      "id": 222,
+      "narrator": "",
+      "text": "Abu Umamah (RA) rivayet etti: Allah'ın Messenger'ı (ﷺ) şöyle dedi: \"Kim her farz namazın sonunda Ayat al-Kursi'yi okursa, onu cennete girmesinden başka hiçbir şey, yalnızca ölüm engelleyebilir.\""
+    },
+    {
+      "id": 223,
+      "narrator": "Narrated Abu Hurairah (RA):",
+      "text": "."
+    },
+    {
+      "id": 224,
+      "narrator": "And in the narration of Muslim:",
+      "text": "---"
+    },
+    {
+      "id": 225,
+      "narrator": "And in Abu Dawud:",
+      "text": "at-Tabarani'nin ilavesi: \"De ki: 'O Allah'tır, (tek) O'dur. (İhlas Suresi - Sure No. 112)\""
+    },
+    {
+      "id": 226,
+      "narrator": "",
+      "text": "Bu, Sahihain'de \"Fa qalu\" kelimesiyle bulunur."
+    },
+    {
+      "id": 227,
+      "narrator": "And in another narration:",
+      "text": "---"
+    },
+    {
+      "id": 228,
+      "narrator": "Narrated 'Imran bin Husain (RA):",
+      "text": "Ve başka bir rivayette: \"ve Allah bunu ona kesinleştirmeden (yani as-Sahw) secde etmedi.\""
+    },
+    {
+      "id": 229,
+      "narrator": "Narrated Abu Sa'id al-Khudri (RA):",
+      "text": "---"
+    },
+    {
+      "id": 230,
+      "narrator": "Narrated Ibn Mas'ud (RA):",
+      "text": "İmrân bin Hüsayn (RA) rivayet etti: Peygamber (ﷺ) onlara namaz kıldırdı ve (bir şeyi) unuttu. Sonra iki secde yaptı ve Tashahhud'u okudu ve Taslim (selam) verdi."
+    },
+    {
+      "id": 231,
+      "narrator": "And in the narration of al-Bukhari:",
+      "text": "---"
+    },
+    {
+      "id": 232,
+      "narrator": "And in the narration of Muslim:",
+      "text": "Ebu Sa'id el-Hudri (RA) rivayet etti: Allah'ın Resulü (ﷺ) şöyle dedi: \"Sizden biri Salat'ında (namazında) şüpheye düştüğünde ve ne kadar kıldığını bilmediğinde, üç veya dört (Rak'at) olduğunu düşünüyorsa, şüphesini bir kenara bırakmalı ve namazını kesin bildiğine dayanarak tamamlamalıdır. Sonra, Taslim (selam) vermeden önce iki secde yapmalıdır. Eğer beş Rak'at kılmışsa, bu onun namazını çift sayıya tamamlayacak ve eğer tam dört kılmışsa, bu (yani iki secde) şeytan için bir aşağılanma olacaktır.\""
+    },
+    {
+      "id": 233,
+      "narrator": "In the narration of Ahmad, Abu Dawud and an-Nasa'i from the Hadith of 'Abdullah bin Ja'far (RA) Marfu' :",
+      "text": "---"
+    },
+    {
+      "id": 234,
+      "narrator": "Narrated al-Mughira bin Shu'ba (RA):",
+      "text": "İbn Mes'ud (RA) rivayet etti: Allah'ın Resulü (ﷺ) namaz kıldı ve Taslim (selam) verdiğinde, kendisine \"Ey Allah'ın Resulü! Namazda yeni bir şey mi oldu?\" diye soruldu. O da, \"Bu ne?\" diye sordu. Onlar, \"Şu kadar ve bu kadar (Rak'at) kıldınız.\" dediler. O, \"Sonra bacaklarını bükerek, Kıble'ye yöneldi ve iki secde yaptı ve sonra Taslim (selam) verdi. Sonra bize döndü ve şöyle dedi: \"Eğer namaza yeni bir şey eklenirse, sizi haberdar ederim ama ben sizin gibi bir insanım, unuturum; bu yüzden eğer unutursem beni hatırlatın ve eğer sizden biri Salat'ında (namazında) şüpheye düşerse, doğru olduğunu düşündüğü şekilde hareket etsin ve namazını bu şekilde tamamlasın, sonra iki secde yapsın.\""
+    },
+    {
+      "id": 235,
+      "narrator": "Narrated 'Umar (RA):",
+      "text": "---"
+    },
+    {
+      "id": 236,
+      "narrator": "Narrated Thawban (RA):",
+      "text": "Ve Buhari rivayetinde: 'namazı tamamlamalı, sonra Taslim demeli ve ardından secde etmelidir.'"
+    },
+    {
+      "id": 237,
+      "narrator": "Narrated Abu Hurairah (RA):",
+      "text": "---"
+    },
+    {
+      "id": 238,
+      "narrator": "Narrated Ibn 'Abbas (RA):",
+      "text": "Ve Müslim rivayetinde: 'Peygamber (ﷺ) Taslim'den sonra iki Sajdatus-Sabw yaptı ve konuştu.'"
+    },
+    {
+      "id": 239,
+      "narrator": "Narrated :",
+      "text": "---"
+    },
+    {
+      "id": 240,
+      "narrator": "Narrated Zaid bin Thabit (RA):",
+      "text": "Ahmad, Ebu Davud ve en-Nesai'den 'Abdullah bin Ca'fer (RA) Hadisi'nden Marfu' olarak: 'Kim Salat'ında (namazında) şüphe ederse, Taslim (selam) verdikten sonra iki secde yapmalıdır.'"
+    },
+    {
+      "id": 241,
+      "narrator": "Narrated Khalid bin Ma'dan (RA):",
+      "text": "Khalid bin Ma'dan (RA) rivayet etmiştir: Hac Suresi iki secde ile belirginleşmiştir."
+    },
+    {
+      "id": 242,
+      "narrator": "Ahmad and at-Tirmidhi reported the above Hadith through a full chain of narrators from 'Uqba bin 'Aamir. It has the addition:",
+      "text": "---"
+    },
+    {
+      "id": 243,
+      "narrator": "Narrated 'Umar (RA):",
+      "text": "Ahmad ve at-Tirmidhi, yukarıdaki Hadisi 'Uqba bin 'Aamir'den tam bir raviler zinciri ile bildirmiştir. Ek olarak: \"Eğer biri (Hac Suresini okurken) iki secde yapmazsa, onu okumamalıdır.\" denilmiştir."
+    },
+    {
+      "id": 244,
+      "narrator": "Narrated Ibn 'Umar (RA):",
+      "text": "---"
+    },
+    {
+      "id": 245,
+      "narrator": "Narrated Abu Bakra (RA):",
+      "text": "'Umar (RA) rivayet etmiştir: \"Ey insanlar! Okumamızda secde yapılması gereken ayetler geçiyor, bu yüzden kim secde ederse doğru olanı yapmıştır ve secde etmeyen üzerinde bir günah yoktur.\" demiştir."
+    },
+    {
+      "id": 246,
+      "narrator": "Narrated 'Abdur-Rahman bin 'Auf (RA):",
+      "text": "."
+    },
+    {
+      "id": 247,
+      "narrator": "Narrated Al-Bara' bin 'Azib (RA):",
+      "text": "Ayrıca şunları da içermektedir: 'Yüce Allah, secdeyi (okuma sırasında) zorunlu kılmamıştır, ancak biri bunu istemiyorsa.'"
+    },
+    {
+      "id": 248,
+      "narrator": "",
+      "text": "."
+    },
+    {
+      "id": 249,
+      "narrator": "Narrated Rabi'ah bin Ka'b al-Aslami (RA):",
+      "text": "---"
+    },
+    {
+      "id": 250,
+      "narrator": "Narrated Ibn 'Umar (RA):",
+      "text": "İbn 'Umar (RA) rivayet etmiştir: Peygamber (ﷺ) bize Kur'an okurdu ve secde yapılması gereken bir yere geldiğinde tekbir getirir ve secde ederdi, biz de onunla birlikte secde ederdik."
+    },
+    {
+      "id": 251,
+      "narrator": "Another narration of both (al-Bukhari and Muslim) has:",
+      "text": "---"
+    },
+    {
+      "id": 252,
+      "narrator": "Muslim has:",
+      "text": "Ebu Bekir (RA) rivayet etmiştir: Peygamber (ﷺ) kendisini memnun eden bir mesele ile karşılaştığında Allah'a secde ederdi."
+    },
+    {
+      "id": 253,
+      "narrator": "Narrated 'Aishah (RA):",
+      "text": "---"
+    },
+    {
+      "id": 254,
+      "narrator": "Narrated :",
+      "text": "'Abdur-Rahman bin 'Auf (RA) rivayet etmiştir: Peygamber (ﷺ) secde etti ve secdeyi uzattı, sonra başını kaldırdı ve \"Cebrail (Gabriel) geldi ve bana müjde verdi, ardından Allah'a şükür secdesi yaptım.\" dedi."
+    },
+    {
+      "id": 255,
+      "narrator": "Muslim has:",
+      "text": "---"
+    },
+    {
+      "id": 256,
+      "narrator": "Narrated Umm Habibah (RA) the Mother of the Believers:",
+      "text": "Umm Habibah (RA) Annelerimizden rivayet etmiştir: Allah'ın Messenger'ı (ﷺ) şöyle buyurdu: \"Kim bir günde ve gecede on iki (nafile) Rak'at kılarsa, bu (Rak'atlar) sebebiyle onun için Cennet'te bir ev inşa edilecektir.\""
+    },
+    {
+      "id": 257,
+      "narrator": "at-Tirmidhi reported it similarly and added:",
+      "text": "."
+    },
+    {
+      "id": 258,
+      "narrator": "And in the narration of al-Khamsah, by her :",
+      "text": "Başka bir rivayette şöyle geçmektedir: \"Nafile olarak.\""
+    },
+    {
+      "id": 259,
+      "narrator": "Narrated Ibn 'Umar (RA):",
+      "text": "---"
+    },
+    {
+      "id": 260,
+      "narrator": "Narrated 'Abdullah bin Mughaffal al-Muzani (RA):",
+      "text": "at-Tirmidhi benzer şekilde rivayet etmiş ve eklemiştir: \"Öğle namazından önce dört Rak'at, ardından iki Rak'at, akşamdan sonra iki Rak'at ve yatsıdan sonra iki Rak'at ve sabah namazından önce iki Rak'at.\""
+    },
+    {
+      "id": 261,
+      "narrator": "And in the narration of Ibn Hibban:",
+      "text": "---"
+    },
+    {
+      "id": 262,
+      "narrator": "",
+      "text": "al-Khamsah'ın rivayetinde, o şöyle demiştir: \"Kim düzenli olarak öğle namazından önce dört Rak'at ve sonra dört Rak'at kılarsa, Allah onu (Cehennem'e girmekten) men eder.\""
+    },
+    {
+      "id": 263,
+      "narrator": "Narrated 'Aishah (RA):",
+      "text": "---"
+    },
+    {
+      "id": 264,
+      "narrator": "Narrated Abu Hurairah (RA):",
+      "text": "İbn 'Umar (RA) rivayet etmiştir: Allah'ın Messenger'ı (ﷺ) şöyle buyurdu: \"Allah, 'Asr namazından önce dört Rak'at kılan bir kimseye merhamet etsin.\""
+    },
+    {
+      "id": 265,
+      "narrator": "Narrated 'Aishah (RA):",
+      "text": "."
+    },
+    {
+      "id": 266,
+      "narrator": "Narrated Abu Hurairah (RA):",
+      "text": "---"
+    },
+    {
+      "id": 267,
+      "narrator": "Narrated Ibn 'Umar (RA):",
+      "text": "'Abdullah bin Mughaffal al-Muzani (RA) rivayet etmiştir: Peygamber (ﷺ) şöyle dedi: \"Akşamdan önce namaz kılın, akşamdan önce namaz kılın\" sonra üçüncü kez \"Kim isterse\" dedi. Bunu, insanların bunu bir sünnet olarak almalarını istemediği için söyledi."
+    },
+    {
+      "id": 268,
+      "narrator": "The Khamsah reported it - graded Sahib (authentic) by Ibn Hibban - with the wording:",
+      "text": "."
+    },
+    {
+      "id": 269,
+      "narrator": "Narrated Abu Hurairah (RA):",
+      "text": "---"
+    },
+    {
+      "id": 270,
+      "narrator": "Narrated Abu Ayub al-Ansari (RA):",
+      "text": "İbn Hibban'ın rivayetinde: \"Peygamber (ﷺ) akşam namazından önce iki Rak'at kıldı.\""
+    },
+    {
+      "id": 271,
+      "narrator": "Narrated 'Ali bin Abu Talib (RA):",
+      "text": "Ali bin Ebu Talib (RA) rivayet etti: Vitir namazı farz namazlar gibi zorunlu değildir, ancak Allah'ın Resulü (ﷺ) tarafından uygulanan bir sünnettir."
+    },
+    {
+      "id": 272,
+      "narrator": "Narrated Jabir (RA):",
+      "text": "---"
+    },
+    {
+      "id": 273,
+      "narrator": "Narrated Kharijah bin Hudhaifah (RA):",
+      "text": "Cabir (RA) rivayet etti: Allah'ın Resulü (ﷺ) Ramazan ayında namaz kıldı. Sonra (Sahabe) onu bir sonraki gece beklediler, ama o çıkmadı ve \"Vitir namazının sizlere farz olmasından korktum.\" dedi."
+    },
+    {
+      "id": 274,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 275,
+      "narrator": "Narrated 'Abdullah bin Buraidah (RA) from his father:",
+      "text": "Haric bin Hudhayfe (RA) rivayet etti: Allah'ın Resulü (ﷺ) şöyle dedi: \"Yüce Allah size, kırmızı develerden (yüksek cins develerden) daha hayırlı bir ek namaz vermiştir.\" Biz sorduk: \"O nedir, Ey Allah'ın Resulü?\" O da, \"İkindi namazı ile fecrin doğuşu arasında kılınan Vitir'dir.\" dedi."
+    },
+    {
+      "id": 276,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 277,
+      "narrator": "Narrated 'Aishah (RA):",
+      "text": "Ahmed, yukarıdaki Hadis'e benzer bir şeyi Amr bin Şu'ayb'den, onun babası aracılığıyla, Amr'ın dedesi üzerinden rivayet etmiştir."
+    },
+    {
+      "id": 278,
+      "narrator": "And in another narration of al-Bukhari and Muslim,  narrated:",
+      "text": "---"
+    },
+    {
+      "id": 279,
+      "narrator": "Narrated :",
+      "text": "Abdullah bin Bureyde (RA) babasından rivayet etti: Allah'ın Resulü (ﷺ) şöyle dedi: \"Vitir bir görevdir, onu kılmayan bizden değildir.\""
+    },
+    {
+      "id": 280,
+      "narrator": "Narrated :",
+      "text": "---"
+    },
+    {
+      "id": 281,
+      "narrator": "Narrated 'Abdullah bin 'Amr bin al-'Aas (RA):",
+      "text": "Yukarıda bahsedilen Hadis'in zayıf bir Şahit (destekleyici rivayet) vardır, Ahmed tarafından Ebu Hureyre (RA) aracılığıyla rivayet edilmiştir."
+    },
+    {
+      "id": 282,
+      "narrator": "Narrated 'Ali bin Abi Talib (RA):",
+      "text": "---"
+    },
+    {
+      "id": 283,
+      "narrator": "Narrated Ibn 'Umar (RA):",
+      "text": "Aişe (RA) rivayet etti: Allah'ın Resulü (ﷺ) Ramazan'da ve Ramazan dışında on bir (nafile) rekattan fazlasını kılmadı. Dört rek'at kıldı - güzellikleri ve uzunlukları hakkında sorma! (Tarif edilemez veya taklit edilemez). Sonra yine dört rek'at kıldı - güzellikleri ve uzunlukları hakkında sorma! Ardından üç rek'at Vitir kılardı. Aişe (RA) dedi ki: \"Ey Allah'ın Resulü, Vitir'den önce uyuyacak mısın?\" O da, \"Ey Aişe, gözlerim uyur ama kalbim uyumaz.\" dedi."
+    },
+    {
+      "id": 284,
+      "narrator": "Narrated Talq bin 'Ali (RA):",
+      "text": "---"
+    },
+    {
+      "id": 285,
+      "narrator": "Narrated Ubai bin Ka'b (RA):",
+      "text": "Bukhari ve Müslim'in başka bir rivayetinde, \"On rek'at (namaz) kılardı ve bir rek'at ile Vitir yapardı, sabah namazının iki (sünnet) rek'atını da kılarak on üç rek'at olurdu.\" denilmiştir."
+    },
+    {
+      "id": 286,
+      "narrator": "",
+      "text": "Ebu Davud ve at-Tirmizi, Aişe (RA)'den benzer bir rivayet aktarmaktadır ki, Allah'ın Resulü (ﷺ) her rekatta bir sure okur ve son (üçüncü) rekatta Kul Hüvallahu Ahad (İhlas Suresi) ve Muavvizeteyn okurdu."
+    },
+    {
+      "id": 287,
+      "narrator": "Narrated Abu Sa'id al-Khudri (RA):",
+      "text": "Ebu Sa'id el-Hudri (RA) rivayet etmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Teheccüd namazını sabah olmadan kılın.\""
+    },
+    {
+      "id": 288,
+      "narrator": "Ibn Hibban has:",
+      "text": "İbn Hibban şöyle der: \"Kim sabaha ulaşır ve Witr namazını kılmamışsa, onun için Witr yoktur.\""
+    },
+    {
+      "id": 289,
+      "narrator": "Narrated :",
+      "text": "Rivayet edilmiştir: Allah'ın Resulü (ﷺ) şöyle buyurdu: \"Kim uyuyakalır ve Witr'i kaçırır veya unutur, sabah uyandığında veya hatırladığında kılmalıdır.\""
+    },
+    {
+      "id": 290,
+      "narrator": "Narrated Jabir (RA):",
+      "text": "Cabir (RA) rivayet etmiştir: Allah'ın Resulü (ﷺ) şöyle buyurdu: \"Eğer biri gecenin ilerleyen saatlerinde kalkamayacağından korkuyorsa, onun ilk kısmında Witr kılmalıdır; eğer biri gecenin son kısmında kalkacağını umuyorsa, gecenin sonunda Witr kılmalıdır, çünkü gecenin sonunda kılınan namaz (melekler tarafından) şahitlik edilir ve bu daha faziletlidir.\""
+    },
+    {
+      "id": 291,
+      "narrator": "Narrated Ibn 'Umar (RA):",
+      "text": "İbn Ömer (RA) rivayet etmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Sabah aydınlandığında, tüm gece namazlarının, Witr dahil, zamanı sona ermiştir, bu yüzden sabahdan önce Witr'i kılın.\""
+    },
+    {
+      "id": 292,
+      "narrator": "Narrated 'Aishah (RA):",
+      "text": "Aişe (RA) rivayet etmiştir: Allah'ın Resulü (ﷺ) Duha namazında dört rekât kılar ve Allah dilediği kadar artırırdı.\""
+    },
+    {
+      "id": 293,
+      "narrator": "In another narration of Muslim from her:",
+      "text": "Müslim'in başka bir rivayetinde, ona soruldu: \"Allah'ın Resulü (ﷺ) Duha namazını kılar mıydı?\" O da şöyle cevap verdi: \"Hayır, eğer bir yolculuktan dönmediyse.\""
+    },
+    {
+      "id": 294,
+      "narrator": "In yet another narration of Muslim from her:",
+      "text": "Müslim'in başka bir rivayetinde, \"Ben Allah'ın Resulü (ﷺ) Duha namazı kılarken hiç görmedim, ama ben kılıyorum.\" dedi."
+    },
+    {
+      "id": 295,
+      "narrator": "Narrated Zaid bin Arqam (RA):",
+      "text": "Zeyd bin Arkam (RA) rivayet etmiştir: Allah'ın Resulü (ﷺ) şöyle buyurdu: \"Tövbede bulunanların namazı, genç süt emen develerin kumun sıcaklığını hissettiği zaman kılınır.\""
+    },
+    {
+      "id": 296,
+      "narrator": "Narrated Anas (RA):",
+      "text": "Anas (RA) rivayet etmiştir: Allah'ın Resulü (ﷺ) şöyle buyurdu: \"Kim Duha namazında on iki rekât kılarsa, Allah ona cennette bir köşk inşa eder.\""
+    },
+    {
+      "id": 297,
+      "narrator": "Narrated 'Aishah (RA):",
+      "text": "Aişe (RA) rivayet etmiştir: Allah'ın Resulü (ﷺ) evime girdi ve sekiz rekât Duha namazı kıldı."
+    },
+    {
+      "id": 298,
+      "narrator": "Narrated 'Abdullah bin 'Umar (RA):",
+      "text": "Abdullah bin Ömer (RA) rivayet etmiştir: Allah'ın Resulü (ﷺ) şöyle buyurdu: \"Cemaatle kılınan namaz, tek başına kılınan namazdan yirmi yedi derece daha faziletlidir.\""
+    },
+    {
+      "id": 299,
+      "narrator": "Both al-Bukhari and Muslim have also reported through Abu Hurairah (RA):",
+      "text": "Hem Buhari hem de Müslim, Ebu Hüreyre (RA) aracılığıyla da şöyle bildirmiştir: \"Yirmi beş derece (daha fazla).\""
+    },
+    {
+      "id": 300,
+      "narrator": "Likewise, al-Bukhari reported from Abu Sa'id al-Khudri:",
+      "text": "Aynı şekilde, Buhari Ebu Sa'id el-Hudri'den şöyle rivayet etmiştir: \"O (ﷺ) 'Daraja' (derece) kelimesini söyledi.\""
+    },
+    {
+      "id": 301,
+      "narrator": "Narrated Abu Hurairah (RA):",
+      "text": "Ebu Hureyre (RA) rivayet etti: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Nefsim O'nun elinde olan Allah'a yemin ederim ki, odun toplanmasını emretmeyi, sonra namazı (salat) emretmeyi ve ezan okunmasını istemeyi, ardından insanları (namazda) yönetecek bir adamı görevlendirmeyi, sonra da namazda bulunmayan bazı insanlara gidip evlerini ateşe vermeyi düşündüm. Nefsim O'nun elinde olan Allah'a yemin ederim ki, eğer onlardan biri, yağlı bir kemik veya iki güzel koyun ayağı bulacağını bilseydi, 'İsha' (akşam namazı) için gelirdi.\""
+    },
+    {
+      "id": 302,
+      "narrator": "Narrated :",
+      "text": "Rivayet edildi: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Münafıklar için en ağır namazlar 'İsha' ve Fajr namazlarıdır ve eğer bu (namazların) içindeki (mükafatları) bilselerdi, dizlerinin üstünde sürünerek bile olsa camiye gelirlerdi.\""
+    },
+    {
+      "id": 303,
+      "narrator": "Narrated :",
+      "text": "Rivayet edildi: Kör bir adam, Peygamber (ﷺ)'e geldi ve dedi ki, \"Ey Allah'ın Elçisi, beni camiye götürecek bir rehberim yok.\" O da, \"O zaman ona icabet et.\" dedi."
+    },
+    {
+      "id": 304,
+      "narrator": "Narrated Ibn 'Abbas (RA):",
+      "text": "İbn Abbas (RA) rivayet etti: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Namaz için ezanı duyan ve (camiye) gelmeyen kimsenin namazı kabul edilmez, ancak onun (geçerli) bir mazereti varsa.\""
+    },
+    {
+      "id": 305,
+      "narrator": "Narrated Yazid bin al-Aswad (RA):",
+      "text": "Yazid bin el-Esved (RA) rivayet etti: Sabah namazını Allah'ın Elçisi (ﷺ) ile kıldım ve Allah'ın Elçisi (ﷺ) namazını bitirdiğinde, onunla namaz kılmayan iki adam gördü. Onları getirmelerini emretti ve korkudan titreyerek getirildiler. O, \"Sizi bizimle namaz kılmaktan alıkoyan nedir?\" diye sordu. Onlar, \"Biz evlerimizde namaz kıldık.\" dediler. O da, \"Böyle yapmayın! Eğer evlerinizde namaz kılarsanız ve sonra imam henüz namaz kılmamışken gelirseniz, onunla birlikte namaz kılmalısınız ve bu sizin için nafile bir namaz olur.\" dedi."
+    },
+    {
+      "id": 306,
+      "narrator": "Narrated Abu Hurairah (RA) :",
+      "text": "Ebu Hureyre (RA) rivayet etti: Allah'ın Elçisi (ﷺ) şöyle dedi: \"İmam, cemaatle kılınan namazda takip edilmek üzere tayin edilmiştir. O, tekbir getirdiğinde siz de tekbir getirin ve o tekbir getirmeden önce tekbir getirmeyin. O rükûya gittiğinde siz de rükûya gidin ve o rükûya gitmeden önce rükûya gitmeyin. O, 'Allah, kendisini övenin sözünü işitir' dediğinde, 'Ey Allah, Rabbimiz, sana hamd olsun.' deyin. O secdeye gittiğinde siz de secdeye gidin; o secdeye gitmeden önce secdeye gitmeyin. Eğer o ayakta namaz kılıyorsa, ayakta namaz kılın; eğer oturarak namaz kılıyorsa, hepiniz oturarak namaz kılın.\""
+    },
+    {
+      "id": 307,
+      "narrator": "",
+      "text": "Ve bunun temel anlamı Sahihain'de (Buhari ve Müslim) vardır."
+    },
+    {
+      "id": 308,
+      "narrator": "Narrated Abu Sa'id al-Khudri (RA):",
+      "text": "Ebu Sa'id el-Hudri (RA) rivayet etti: Allah'ın Elçisi (ﷺ) Ashabının geri gitme eğilimini görünce, \"İleri gelin ve benim peşime takılın, arkanızdakiler de size uysun.\" dedi."
+    },
+    {
+      "id": 309,
+      "narrator": "Narrated Zaid bin Thabit (RA):",
+      "text": "Zeyd bin Sabit (RA) rivayet etti: Allah'ın (ﷺ) bir matla (yani namaz için bir alan belirlemek amacıyla) küçük bir oda yaptı ve içinde namaz kıldı. İnsanlar onu takip etti ve arkasında namaz kılmak için geldiler. Rivayetçi hadisin geri kalanını anlattı ve şunları içeriyordu: \"Bir kişinin en güzel namazı, evinde kıldığı namazdır, beş vakit cemaat namazı hariç.\""
+    },
+    {
+      "id": 310,
+      "narrator": "Narrated Jabir (RA):",
+      "text": "Cabir (RA) rivayet etti: Mu'adh bin Cebel (RA) arkadaşlarını 'İsha' (gece namazı) kıldırdı ve onlara uzattı. Bunun üzerine Peygamber (ﷺ) ona, \"Ey Mu'adh, Fattan mı olmak istiyorsun? İnsanları namaz kıldırırken, ash-Shamsi wa duhaha (91. Sure), Sabbihisma Rabbikal-A'la (87. Sure), Iqra' Bismi Rabbika (96. Sure) ve Wal-Laili idha yaghsha (92. Sure) oku.\" dedi. [Kabul edilmiştir. Ve bu sözler Müslim'den alınmıştır.]"
+    },
+    {
+      "id": 311,
+      "narrator": "",
+      "text": "Aişe (RA) Allah'ın Elçisi (ﷺ)'nin hastalığında insanlara namaz kıldırması hakkında rivayet etti. O, \"O geldi ve Ebu Bekir (RA)'nin sol tarafına oturdu. Böylece o (ﷺ) oturarak insanlara namaz kıldırıyordu ve Ebu Bekir ayakta duruyordu. Ebu Bekir, Peygamber (ﷺ)'in namazını takip ediyordu ve insanlar da Ebu Bekir'in namazını takip ediyordu.\" dedi."
+    },
+    {
+      "id": 312,
+      "narrator": "Narrated Abu Hurairah (RA):",
+      "text": "Ebu Hureyre (RA) rivayet etti: Peygamber (ﷺ) şöyle dedi: \"Sizden biri insanlara namaz kıldırdığında kısa tutmalıdır, çünkü aralarında gençler, yaşlılar, zayıflar ve ilgilenmesi gerekenler vardır. Ama eğer yalnız başına namaz kılıyorsa, istediği gibi kılabilir.\""
+    },
+    {
+      "id": 313,
+      "narrator": "Narrated 'Amr bin Salimah (RA):",
+      "text": "Amr bin Salimah (RA) rivayet etti: Babam dedi ki, \"Ben gerçek Peygamberden (ﷺ) geldim, bu yüzden namaz vakti geldiğinde aranızdan biri ezan okumalı ve Kur'an'ı en iyi bileniniz imam olmalıdır.\" O (Amr) dedi: \"Onlar etrafa baktılar ve benden daha iyi Kur'an bilen kimse yoktu. Bu yüzden beni öne geçirdiler ve ben sadece altı veya yedi yaşındaydım.\""
+    },
+    {
+      "id": 314,
+      "narrator": "Narrated Ibn Mas'ud (RA):",
+      "text": "İbn Mes'ud (RA) rivayet etti: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Allah'ın Kitabını en iyi bilen kişi, insanların imamı olmalıdır. Eğer okumada eşitlerse, o zaman en çok Sünneti bilen ve eğer Sünnette de eşitlerse, Medine'ye ilk hicret eden ve eğer hicret konusunda da eşitlerse, İslam'da en yaşlı olanlarıdır. Başka bir rivayette 'yaşça' denilmiştir. Ve hiçbir adam, başka bir adamı kendi bölgesinde namazda yönetmemeli veya onun izni olmadan onur yerinde oturmamalıdır.\""
+    },
+    {
+      "id": 315,
+      "narrator": "",
+      "text": "İbn Mace, Cabir'in rivayetinden şunu bildirdi: \"Bir kadın asla bir erkeği namazda yönetemez, ne bir bedevi (çöl Arabı) bir muhaciri, ne de bir günahkar bir müminin önünde imamlık yapabilir.\""
+    },
+    {
+      "id": 316,
+      "narrator": "Narrated Anas (RA):",
+      "text": "Anas (RA) rivayet etti: Allah'ın Messenger'ı (ﷺ) şöyle dedi: \"Sıralarınızda birbirinize yakın durun, (sıraları) bir araya getirin ve boyun boyuna (düz hatlar halinde) durun.\""
+    },
+    {
+      "id": 317,
+      "narrator": "Narrated Abu Hurairah (RA):",
+      "text": "Ebu Hureyre (RA) rivayet etti: Allah'ın Messenger'ı (ﷺ) şöyle dedi: \"Erkeklerin en hayırlı sırası birinci, en kötüsü ise sonuncusudur; kadınların en hayırlı sırası sonuncusu, en kötüsü ise birincisidir.\""
+    },
+    {
+      "id": 318,
+      "narrator": "Narrated Ibn 'Abbas (RA):",
+      "text": "İbn Abbas (RA) rivayet etti: \"Bir gece Allah'ın Messenger'ı (ﷺ) ile (gece Tahacüd namazı) kıldım ve onun sol tarafında durdum, bunun üzerine o, başımın arkasından tutarak beni sağ tarafına döndürdü.\""
+    },
+    {
+      "id": 319,
+      "narrator": "Narrated Anas (RA):",
+      "text": "Anas (RA) rivayet etti: Allah'ın Messenger'ı (ﷺ) namaz kıldı ve bir yetim ile ben de onun arkasında namaz kıldık, Umm Süleym (RA) ise arkamızdaydı."
+    },
+    {
+      "id": 320,
+      "narrator": "Narrated Abu Bakrah (RA):",
+      "text": "Ebu Bekir (RA) rivayet etti: O, (sıra) ulaşmadan önce eğildi, bunu Peygamber'e (ﷺ) anlattı ve Peygamber (ﷺ) ona, \"Allah, hevesini arttırsın! Ama bunu tekrarlama.\" dedi."
+    },
+    {
+      "id": 321,
+      "narrator": "And Abu Dawud added:",
+      "text": "Ebu Davud ekledi: \"O, (sıra) ulaşmadan önce eğildi, sonra yürüyerek sıraya katıldı.\""
+    },
+    {
+      "id": 322,
+      "narrator": "Narrated Wabisah bin Ma'bad:",
+      "text": "Vabisah bin Ma'bad rivayet etti: Allah'ın Messenger'ı (ﷺ) bir adamın sıranın arkasında yalnız başına namaz kıldığını gördü, bu yüzden ona Salat'ı (namazı) tekrar etmesini emretti."
+    },
+    {
+      "id": 323,
+      "narrator": "Ibn Hibban reported this from Talq :",
+      "text": "İbn Hibban, Talq'dan şunu bildirdi: \"Sıranın arkasında yalnız başına namaz kılan bir kişinin namazı kabul edilmez.\""
+    },
+    {
+      "id": 324,
+      "narrator": "",
+      "text": "At-Tabarani, Vabisah'ın rivayetine ekledi: \"Neden onlara katılmadın ya da bir adamı (pozisyonuna) geri çekmedin?\""
+    },
+    {
+      "id": 325,
+      "narrator": "Narrated Abu Hurairah (RA):",
+      "text": "Ebu Hureyre (RA) rivayet etti: Peygamber (ﷺ) şöyle dedi: \"Ezanı duyduğunuzda, namaz (yerine) huzur ve vakar ile yürüyün ve acele etmeyin; ve imama katıldığınız namazın ne kadarını alırsanız onu kılın, ardından kaçırdığınız kısmı tamamlayın.\""
+    },
+    {
+      "id": 326,
+      "narrator": "Narrated 'Ubai bin Ka'b (RA):",
+      "text": "Ubai bin Ka'b (RA) rivayet etti: Allah'ın Messenger'ı (ﷺ) şöyle dedi: \"Bir adamın başka bir adamla kıldığı namaz, yalnız başına kıldığı namazdan daha temizdir; iki adamla kıldığı namaz ise bir adamla kıldığı namazdan daha temizdir ve eğer daha fazla olurlarsa, bu Allah'a, Aziz ve Celil olan'a daha sevimlidir.\""
+    },
+    {
+      "id": 327,
+      "narrator": "Narrated Umm Waraqah:",
+      "text": "Ümmü Varakah rivayet etti: Peygamber (ﷺ) ona, hane halkını (namazda) yönetmesini emretti."
+    },
+    {
+      "id": 328,
+      "narrator": "Narrated Anas (RA):",
+      "text": "Anas (RA) rivayet etti: Peygamber (ﷺ) İbn Ümm Mektum'u (RA) yokluğunda insanlara namaz kıldırması için tayin etti ve o kördü."
+    },
+    {
+      "id": 329,
+      "narrator": "",
+      "text": "İbn Hibban, Aişe (RA) üzerinden benzer bir şey bildirdi."
+    },
+    {
+      "id": 330,
+      "narrator": "Narrated Ibn 'Umar (RA):",
+      "text": "İbn Ömer (RA) rivayet etti: Allah'ın Messenger'ı (ﷺ) şöyle dedi: \"Allah'tan başka ibadet edilmeye layık olan yoktur diyenin üzerine (cenaze namazı) kılın; 'Allah'tan başka ibadet edilmeye layık olan yoktur' diyenin arkasında namaz kılın.\""
+    },
+    {
+      "id": 331,
+      "narrator": "Narrated 'Ali bin Abi Talib (RA):",
+      "text": "Ali bin Ebi Talib (RA) şöyle nakletmiştir: Allah'ın Messenger'ı (ﷺ) dedi ki: \"Eğer sizden biri Salat'a (namaza) gelir ve İmam belirli bir pozisyondaysa, İmam'ın yaptığı gibi yapmalıdır.\""
+    },
+    {
+      "id": 332,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 333,
+      "narrator": "al-Bukhari has:",
+      "text": "Aişe (RA) şöyle nakletmiştir: Salat (namaz) ilk farz kılındığında, iki Rek'at'tan oluşuyordu. Daha sonra, seyahat halindeki namaz iki Rek'at olarak sabitlenirken, ikamet yerindeki namaz dört Rek'at olarak tamamlandı."
+    },
+    {
+      "id": 334,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 335,
+      "narrator": "Narrated 'Aishah (RA):",
+      "text": "al-Buhari'de şöyle geçmektedir: \"Sonra hicret etti ve dört Rek'at olarak farz kılındı, fakat seyahat halindeki namaz orijinal farz (iki Rek'at) olarak bırakıldı.\""
+    },
+    {
+      "id": 336,
+      "narrator": "The Mahfudh (correct) narration from 'Aishah (RA) (concerning this matter) is that it was her practice (that she (RA) offered prayers in the complete form during travelling) . She said:",
+      "text": "---"
+    },
+    {
+      "id": 337,
+      "narrator": "Narrated Ibn 'Umar (RA):",
+      "text": "Ahmed ekledi: \"Ancak Magrib (namazı) için, çünkü o günün Vitr (namazı)dır; ve Fajr (namazı) için, çünkü onun içinde (Kur'an) tilaveti uzundur.\""
+    },
+    {
+      "id": 338,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 339,
+      "narrator": "Narrated Anas (RA):",
+      "text": "Aişe (RA) şöyle nakletmiştir: Peygamber (ﷺ) seyahat halindeyken, namazı (bazen) kısaltır ve (bazen) tam olarak kılardı. Aynı şekilde, (bazen) oruç tutar ve (bazen) bozar."
+    },
+    {
+      "id": 340,
+      "narrator": "Narrated :",
+      "text": "---"
+    },
+    {
+      "id": 341,
+      "narrator": "Narrated Ibn 'Abbas (RA):",
+      "text": "Aişe (RA)'den (bu konuda) doğru nakil, onun seyahat halindeyken (namazları tam olarak kılma) pratiği olduğudur. O şöyle dedi: \"Bu benim için zor değil.\""
+    },
+    {
+      "id": 342,
+      "narrator": "In a narration of Abu Dawud:",
+      "text": "---"
+    },
+    {
+      "id": 343,
+      "narrator": "And in another:",
+      "text": "İbn Ömer (RA) şöyle nakletmiştir: Allah'ın Messenger'ı (ﷺ) dedi ki: \"Allah Teala, izinlerinin uygulanmasını sever, tıpkı ona isyan edilmesini sevmediği gibi.\""
+    },
+    {
+      "id": 344,
+      "narrator": "The narration of Abu Dawud from 'Imran bin Husain (RA) has:",
+      "text": "---"
+    },
+    {
+      "id": 345,
+      "narrator": "His narration from Jabir (RA) has:",
+      "text": "Bir nakilde, \"Ona... farzlarının yerine getirilmesini sevdiği gibi.\" denilmiştir."
+    },
+    {
+      "id": 346,
+      "narrator": "Narrated Anas (RA):",
+      "text": "Anas (RA) tarafından rivayet edilmiştir: Allah'ın Elçisi (ﷺ) (bir yolculukta) güneş gökyüzünün ortasından batmadan önce hareket ettiğinde, Zuhr namazını 'Asr namazının vaktine kadar geciktirirdi; sonra inip iki namazı birleştirirdi. Eğer güneş batmadan önce hareket ederse, Zuhr namazını kılar ve yola devam ederdi."
+    },
+    {
+      "id": 347,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 348,
+      "narrator": "",
+      "text": "al-Hakim'in, al-Arba'in'de sahih bir isnad ile naklettiği rivayette, \"O (ﷺ) Zuhr ve 'Asr namazlarını kıldıktan sonra (hayvanına) bindi (yolculuğuna devam etti.)\""
+    },
+    {
+      "id": 349,
+      "narrator": "Narrated Mu'adh bin Jabal (RA):",
+      "text": "---"
+    },
+    {
+      "id": 350,
+      "narrator": "Narrated Ibn 'Abbas (RA):",
+      "text": "Abu Nu'aim, Muslim'in Mustakhraj'ında, \"Yolculukta, eğer güneş batarsa, o (ﷺ) Zuhr ve 'Asr namazlarını bir arada kılar ve sonra yolculuğuna devam ederdi.\" demiştir."
+    },
+    {
+      "id": 351,
+      "narrator": "Narrated Jabir (RA):",
+      "text": "---"
+    },
+    {
+      "id": 352,
+      "narrator": "",
+      "text": "Mu'adh bin Cebel (RA) tarafından rivayet edilmiştir: Biz, Allah'ın Elçisi (ﷺ) ile Tabuk seferine çıktık ve o, Zuhr ve 'Asr namazlarını bir arada, Magrib ve 'İsha namazlarını da bir arada kılardı."
+    },
+    {
+      "id": 353,
+      "narrator": "Narrated 'Imran bin Husain (RA):",
+      "text": "---"
+    },
+    {
+      "id": 354,
+      "narrator": "Narrated Jabir (RA):",
+      "text": "İbn Abbas (RA) tarafından rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle buyurdu: \"Dört Burud mesafesinden daha kısa bir mesafede (yolculukta) namazı kısaltmayın; Makkah'tan 'Usfan'a kadar.\""
+    },
+    {
+      "id": 355,
+      "narrator": "Narrated 'Aishah (RA):",
+      "text": "Burud: Barid'in çoğulu olup, üç Farsakh anlamına gelir; bir Farsakh ise üç mildir."
+    },
+    {
+      "id": 356,
+      "narrator": "Narrated 'Abdullah bin 'Umar and Abu Hurairah (RA):",
+      "text": "---"
+    },
+    {
+      "id": 357,
+      "narrator": "Narrated Salmah bin Al-Akwa' (RA):",
+      "text": "Jabir (RA) tarafından rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle buyurdu: \"Benim en hayırlı ümmetim, kötülük işledikten sonra Allah'tan af dileyenlerdir; ve yolculukta namazı kısaltan ve orucu bozanlardır.\""
+    },
+    {
+      "id": 358,
+      "narrator": "And in a narration of Muslim:",
+      "text": "---"
+    },
+    {
+      "id": 359,
+      "narrator": "Narrated Sahl bin Sa'd (RA):",
+      "text": "al-Baihaqi bunu, Sa'id bin al-Musaiyab'dan Mursal (Tabi'in sonrası eksik bağlantı) olarak kısaca nakletmiştir."
+    },
+    {
+      "id": 360,
+      "narrator": "Another narration has:",
+      "text": "---"
+    },
+    {
+      "id": 361,
+      "narrator": "Narrated Jabir (RA):",
+      "text": "Jabir (RA) rivayet etti: Allah'ın Messengerı (ﷺ) Cuma günü Khutbah (dinî konuşma, vaaz) verirken ayakta duruyordu, o sırada Suriye'den bir kervan geldi. İnsanlar ona doğru akın ettiler, geriye sadece on iki adam kaldı."
+    },
+    {
+      "id": 362,
+      "narrator": "Narrated Ibn 'Umar (RA):",
+      "text": "---"
+    },
+    {
+      "id": 363,
+      "narrator": "Narrated Jabir bin Samurah (RA):",
+      "text": "İbn 'Umar (RA) rivayet etti: Allah'ın Messengerı (ﷺ) dedi ki: \"Cuma namazının bir Rak'atına veya başka bir namaza yetişen, ona bir (Rak'at) eklemelidir ve namazı o zaman tamamlanmış olur.\""
+    },
+    {
+      "id": 364,
+      "narrator": "Narrated Jabir bin 'Abdullah (RA):",
+      "text": "---"
+    },
+    {
+      "id": 365,
+      "narrator": "And in a narration of Muslim:",
+      "text": "Jabir bin Samurah (RA) rivayet etti: Peygamber (ﷺ) Khutbah (dinî konuşma, vaaz) verirken ayakta dururdu. Sonra oturur, tekrar ayağa kalkar ve Khutbah'ı ayakta verir. Bu nedenle, eğer size oturarak Khutbah verdiğini haber veren biri varsa, kesinlikle yalan söylemiştir."
+    },
+    {
+      "id": 366,
+      "narrator": "And in another narration from Muslim:",
+      "text": "---"
+    },
+    {
+      "id": 367,
+      "narrator": "an-Nasa'i has:",
+      "text": "Jabir bin 'Abdullah (RA) rivayet etti: Allah'ın Messengerı (ﷺ) Khutbah verdiğinde, gözleri kızarır, sesi yükselir ve öfkesi artardı, sanki bir orduya uyarıda bulunuyor ve \"Düşman sabah üzerinize saldırdı. Düşman akşam üzerinize saldırdı.\" diyordu. Ayrıca \"Amma ba'du, en güzel söz Allah'ın Kitabı'nda yer alır ve en iyi rehberlik Muhammed'in rehberliğidir. En kötü işler ise onların yenilikleridir ve her yenilik sapıklıktır.\" derdi."
+    },
+    {
+      "id": 368,
+      "narrator": "Narrated 'Ammar bin Yasir (RA):",
+      "text": "---"
+    },
+    {
+      "id": 369,
+      "narrator": "Umm Hisham (RA) daughter of Haritha said:",
+      "text": "Müslim'in bir rivayetinde: \"Peygamberin Cuma Khutbah'ında: Allah'ı övüp yüceltirdi. Sonra, bunun ardından, sesini yükselterek derdi...\""
+    },
+    {
+      "id": 370,
+      "narrator": "Narrated Ibn 'Abbas (RA):",
+      "text": "---"
+    },
+    {
+      "id": 371,
+      "narrator": "This Hadith interprets the Marfu' Hadith  of Abu Hurairah reported in the Sahihain:",
+      "text": "Müslim'den başka bir rivayette: \"Kimi Allah doğru yola iletirse, onu saptıracak yoktur; kimi de Allah saptırırsa, ona doğru yolu gösterecek yoktur.\""
+    },
+    {
+      "id": 372,
+      "narrator": "Narrated Jabir (RA):",
+      "text": "---"
+    },
+    {
+      "id": 373,
+      "narrator": "Narrated Ibn 'Abbas (RA):",
+      "text": "an-Nasa'i'de: \"Her sapıklık (ateşe girmeye) sebep olur.\""
+    },
+    {
+      "id": 374,
+      "narrator": "Narrated Nu'man bin Bashir (RA):",
+      "text": "---"
+    },
+    {
+      "id": 375,
+      "narrator": "Narrated Zaid bin Arqam (RA):",
+      "text": "'Ammar bin Yasir (RA) rivayet etti: Allah'ın Messengerı (ﷺ) şöyle dediğini duydu: \"Bir adamın namazının uzunluğu ve Khutbah'ının (dinî konuşma) kısalığı, onun din anlayışının bir işaretidir.\""
+    },
+    {
+      "id": 376,
+      "narrator": "Narrated Abu Hurairah (RA):",
+      "text": "Abu Hurairah (RA) rivayet etmiştir: Allah'ın Messenger (ﷺ) şöyle buyurmuştur: \"Sizden biri Cuma namazı kıldığında, ardından dört (nafile) Rek'at kılmalıdır.\""
+    },
+    {
+      "id": 377,
+      "narrator": "Narrated as-Sa'ib bin Yazid (RA) that Mu'awiyah (RA) told him, \"If you offer the Friday prayer, do not connect it with another prayer, till you talk or go out. Allah's Messenger (ﷺ) had commanded us accordingly:",
+      "text": "as-Sa'ib bin Yazid (RA) rivayet etmiştir ki, Mu'aviye (RA) ona şöyle demiştir: \"Eğer Cuma namazını kılarsan, başka bir namazla onu birleştirme, ta ki konuşana veya dışarı çıkana kadar. Allah'ın Messenger (ﷺ) bize bu şekilde emretmiştir: Aralarında konuşmadan veya dışarı çıkmadan bir namazı diğerine bağlamamalıyız.\""
+    },
+    {
+      "id": 378,
+      "narrator": "Narrated Abu Hurairah (RA):",
+      "text": "Abu Hurairah (RA) rivayet etmiştir: Allah'ın Messenger (ﷺ) şöyle buyurmuştur: \"Kim banyo yapar, sonra Cuma namazına gelir, kendisi için belirlenen namazı kılar, sonra İmam hutbesini (vaaz) bitirene kadar sessiz kalır ve onunla birlikte namaz kılarsa - o zaman o kişi, o zaman ile bir sonraki Cuma arasındaki günahları affedilir, üzerine üç gün daha eklenir.\""
+    },
+    {
+      "id": 379,
+      "narrator": "Narrated :",
+      "text": "Rivayet edildi ki: Allah'ın Messenger (ﷺ) Cuma gününü anarak şöyle demiştir: \"Cuma günü, bir Müslümanın dua ederken ayağa kalkıp, yüce ve aziz olan Allah'tan bir şey istemesi için bir zaman vardır ki, O, ona mutlaka verir. O (ﷺ) elini işaret ederek bu zamanın kısa olduğunu belirtmiştir.\""
+    },
+    {
+      "id": 380,
+      "narrator": "A narration of Muslim has:",
+      "text": "Müslim'de şöyle bir rivayet vardır: \"Bu zaman kısadır.\""
+    },
+    {
+      "id": 381,
+      "narrator": "Narrated Abu Burdah (RA) from his father's:",
+      "text": "Abu Burdah (RA) babasından rivayet etmiştir: Allah'ın Messenger (ﷺ) şöyle buyurduğunu duydum: \"O zaman, İmam'ın oturduğu zaman ile namazın sonu arasındadır.\""
+    },
+    {
+      "id": 382,
+      "narrator": "",
+      "text": "İbn Mace, 'Abdullah bin Selam'dan rivayet etmiştir."
+    },
+    {
+      "id": 383,
+      "narrator": "and Abu Dawud and an-Nasa'i reported from Jabir:",
+      "text": "ve Ebu Davud ile en-Nasa'i, Cabir'den rivayet etmiştir: \"O, 'Asr namazı ile akşam güneşi batışı arasındadır.\""
+    },
+    {
+      "id": 384,
+      "narrator": "",
+      "text": "Cuma günü bu (özel şanslı zaman) hakkında kırk farklı söz rivayet edilmiştir ve ben bunları 'Şerh al-Buhari' (kitabımda) detaylandırdım."
+    },
+    {
+      "id": 385,
+      "narrator": "Narrated Jabir (RA):",
+      "text": "Cabir (RA) rivayet etmiştir: Sünnet'te, Cuma namazının, kırk veya daha fazla kişinin katılmasıyla gerçekleştiği kararlaştırılmıştır."
+    },
+    {
+      "id": 386,
+      "narrator": "Narrated Samurah bin Jundub (RA):",
+      "text": "Samurah bin Cundub (RA) rivayet etmiştir: Peygamber (ﷺ) her Cuma (Cuma namazında) inanan erkekler ve inanan kadınlar için (Allah'tan) af dilerdi."
+    },
+    {
+      "id": 387,
+      "narrator": "Narrated Jabir bin Samurah (RA):",
+      "text": "Cabir bin Samurah (RA) rivayet etmiştir: Peygamber (ﷺ) Cuma hutbesinde (vaazında) insanları hatırlatmak için Kur'an'dan bazı ayetler okurdu."
+    },
+    {
+      "id": 388,
+      "narrator": "",
+      "text": "Bunun temel anlamı Müslim'de bulunmaktadır."
+    },
+    {
+      "id": 389,
+      "narrator": "Narrated Tariq bin Shihab (RA):",
+      "text": "Tariq bin Şihab (RA) rivayet etmiştir: Allah'ın Messenger (ﷺ) şöyle buyurmuştur: \"Cemaatle kılınan Cuma namazı, her Müslüman için farzdır; dört kişi hariç: bir köle, bir kadın, bir çocuk ve hasta.\""
+    },
+    {
+      "id": 390,
+      "narrator": "",
+      "text": "al-Hakim, yukarıda bahsedilen Tariq'ın rivayetinden, Abu Musa'dan da bunu bildirmiştir."
+    },
+    {
+      "id": 391,
+      "narrator": "Narrated Ibn 'Umar (RA):",
+      "text": "İbn 'Umar (RA) rivayet etti: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Cuma namazı, yolculukta olan kimseye farz değildir.\""
+    },
+    {
+      "id": 392,
+      "narrator": "Narrated 'Abdullah bin Mas'ud (RA):",
+      "text": "'Abdullah bin Mas'ud (RA) rivayet etti: Allah'ın Elçisi (ﷺ) Minber'e (Cuma hutbesi vermek için) çıktığında, biz ona dönüyorduk."
+    },
+    {
+      "id": 393,
+      "narrator": "",
+      "text": "Bunun, İbn Khuzaimah tarafından rivayet edilen al-Bara' hadisi ile destekleyici bir delili vardır."
+    },
+    {
+      "id": 394,
+      "narrator": "Narrated al-Hakam bin Hazn (RA):",
+      "text": "al-Hakam bin Hazn (RA) rivayet etti: Biz, Peygamber (ﷺ) ile birlikte Cuma namazına katıldık ve o (ﷺ) bir değneğe veya bir yayaya dayanarak durdu."
+    },
+    {
+      "id": 395,
+      "narrator": "",
+      "text": "Salih bin Khawwat, Allah'ın Elçisi (ﷺ) ile Dhatur-Riqa' savaşında Korku namazını kılan birinden rivayet etti ki, bir grup (ordu) onunla birlikte saf oldu ve bir grup düşmana karşı durdu. O (ﷺ) kendisiyle birlikte olan gruba bir Rek'at kıldırdı, sonra ayakta kaldı ve onlar kendi namazlarını tamamladılar. Sonra ayrıldılar ve düşmana karşı saf oldular, diğer grup geldi. O, onlara namazının kalan Rek'atını kıldırdı, ardından oturdu ve onlar kendi namazlarını tamamladılar. Sonra onlara Taslim (selam) vermelerini sağladı."
+    },
+    {
+      "id": 396,
+      "narrator": "This (Hadith) has been reported in al-Ma'rifah of Ibn Mundah:",
+      "text": "Bu (Hadis) İbn Mundah'ın al-Ma'rifah'sında şöyle bildirilmiştir: Salih ibn Khawwat'tan, babasından."
+    },
+    {
+      "id": 397,
+      "narrator": "Narrated Ibn 'Umar (RA):",
+      "text": "İbn 'Umar (RA) rivayet etti: Ben, Allah'ın Elçisi (ﷺ) ile birlikte Najd'e bir sefere çıktım ve düşmanın önüne geldiğimizde, onlara karşı saf olduk. Allah'ın Elçisi (ﷺ) ayağa kalktı ve bize namaz kıldırdı. Bir grup onunla birlikte ayakta durdu, diğer grup düşmana karşı durdu. O, kendisiyle birlikte olanlarla bir Rek'at kıldı ve iki secde yaptı. Sonra, namaz kılmayanlarla yer değiştirdiler. Geldiklerinde, Allah'ın Elçisi (ﷺ) onlarla bir Rek'at kıldı ve iki secde yaptı. Sonra Taslim (selam) verdi ve her biri ayağa kalkıp tek başına bir Rek'at kıldı ve iki secde yaptı."
+    },
+    {
+      "id": 398,
+      "narrator": "Narrated Jabir (RA):",
+      "text": "Cabir (RA) rivayet etti: \"Ben, Allah'ın Elçisi (ﷺ) ile Salat-al-Khauf'u gördüm ve biz onun arkasında iki saf halinde durduk, düşman bizimle Kıble arasında bulunuyordu. Peygamber (ﷺ) Tekbir getirdi ve hepimiz onu tekrarladık; sonra eğildi ve hepimiz eğildik; sonra eğildikten sonra başını kaldırdı ve hepimiz başımızı kaldırdık; sonra o ve hemen arkasındaki saf secdeye gitti, arka saf ise düşmana karşı durdu. Sonra, Allah'ın Elçisi (ﷺ) secdeyi bitirince ve hemen arkasındaki saf ayağa kalkınca...\" sonra hadisi anlattı."
+    },
+    {
+      "id": 399,
+      "narrator": "Abu Dawud has reported from Abu 'Aiyash  az-Zuraqi similarly, and he added:",
+      "text": "Ve bir rivayette \"Sonra secde etti ve birinci saf onunla birlikte secde etti. Onlar ayağa kalkınca, ikinci saf secde etti, sonra birinci saf geri gitti ve ikinci saf öne geçti...\" sonra benzer bir şey anlattı."
+    },
+    {
+      "id": 400,
+      "narrator": "an-Nasa'i reported this narration - through another chain of narrators - from Jabir (RA):",
+      "text": "Ve sonunda \"Sonra Peygamber (ﷺ) Taslim (selam) verdi ve hepimiz de öyle yaptık.\""
+    },
+    {
+      "id": 401,
+      "narrator": "",
+      "text": "Ebu Davud, Ebu 'Aiyash az-Zuraqi'den benzer şekilde rivayet etmiştir ve ekledi: \"Bu Usfan'da oldu.\""
+    },
+    {
+      "id": 402,
+      "narrator": "Narrated Hudhaifah (RA):",
+      "text": "an-Nasa'i bu rivayeti - başka bir isnatla - Cabir (RA) üzerinden bildirmiştir: Peygamber (ﷺ) bir grup arkadaşına iki Rek'at kıldırdı, ardından Taslim (selam) verdi. Sonra başka bir gruba iki Rek'at kıldırdı, ardından Taslim (selam) verdi.\""
+    },
+    {
+      "id": 403,
+      "narrator": "",
+      "text": "Ebu Davud, Ebu Bekir (RA) üzerinden benzer bir şekilde rivayet etmiştir."
+    },
+    {
+      "id": 404,
+      "narrator": "Narrated Ibn 'Umar (RA):",
+      "text": "Hudhaifah (RA) rivayet etti: Peygamber (ﷺ) bu (Sahabeler) ile bir Rek'at, diğer (Sahabeler) ile de bir Rek'at kıldı ve ikinci Rek'atı kılmadılar."
+    },
+    {
+      "id": 405,
+      "narrator": "Narrated :",
+      "text": "İbn Khuzaimah bunu İbn 'Abbas (RA) üzerinden benzer şekilde rivayet etmiştir."
+    },
+    {
+      "id": 406,
+      "narrator": "Narrated 'Aishah (RA):",
+      "text": "Aişe (RA) rivayet etti: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Ramazan Bayramı, insanların oruçlarını açtığı gündür, Kurban Bayramı ise insanların kurban kestikleri gündür.\""
+    },
+    {
+      "id": 407,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 408,
+      "narrator": "Narrated Anas (RA):",
+      "text": "Ebu Umeyr bin Enes bin Malik (RA) bazı amcalarından, sahabelerden birinin rivayetiyle, bazı bineklerin geldiğini ve bir önceki gün yeni ayı gördüklerini şehadet ettiklerini anlattı. Bunun üzerine Peygamber (ﷺ) insanlara oruçlarını açmalarını ve sabah namazı için çıkmalarını emretti."
+    },
+    {
+      "id": 409,
+      "narrator": "A Mu'allaq narration (broken chain from the side of the Hadith collector, i.e. al-Bukhari) - but connected by Ahmad - has:",
+      "text": "---"
+    },
+    {
+      "id": 410,
+      "narrator": "Narrated Ibn Buraidah on the authority of his father:",
+      "text": "Enes (RA) rivayet etti: Allah'ın Elçisi (ﷺ) oruç açma günü, birkaç hurma yemeden dışarı çıkmazdı ve bu hurmaları tek sayıda yerdir."
+    },
+    {
+      "id": 411,
+      "narrator": "Narrated Umm 'Atiyah (RA):",
+      "text": "---"
+    },
+    {
+      "id": 412,
+      "narrator": "Narrated Ibn 'Umar (RA):",
+      "text": "Mu'allaq bir rivayet (Hadis derleyicisinin, yani el-Buhari'nin, tarafından kesik zincir) - ancak Ahmet tarafından bağlanmıştır - şöyle der: \"Ve onları birer birer yerdi.\""
+    },
+    {
+      "id": 413,
+      "narrator": "Narrated Ibn 'Abbas (RA):",
+      "text": "---"
+    },
+    {
+      "id": 414,
+      "narrator": "Narrated :",
+      "text": "İbn Bureydah babasından rivayet etti: Allah'ın Elçisi (ﷺ) oruç açma günü, bir şey yemeden dışarı çıkmazdı ve kurban günü, kurban kesmeden önce herhangi bir şey yemezdi."
+    },
+    {
+      "id": 415,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 416,
+      "narrator": "Narrated Abu Sa'id (RA):",
+      "text": "Ümmü Atiye (RA) rivayet etti: Biz, Ramazan Bayramı ve Kurban Bayramı'nda genç kadınları ve adet gören kadınları Müslümanların hayır ve dualarına katılmaları için dışarı çıkarmamız emredildi. Ancak adet gören kadınlar (namaz kılınan) yerden uzak dururlardı."
+    },
+    {
+      "id": 417,
+      "narrator": "Narrated :",
+      "text": "---"
+    },
+    {
+      "id": 418,
+      "narrator": "Narrated 'Amr bin Shu'aib from his father on the authority of his grand father:",
+      "text": "İbn Ömer (RA) rivayet etti: Allah'ın Elçisi (ﷺ), Ebu Bekir ve Ömer (RA) bayram namazını hutbeden (vaazdan) önce kılardı."
+    },
+    {
+      "id": 419,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 420,
+      "narrator": "Narrated Abu Waqid al-Laithi (RA):",
+      "text": "İbn Abbas (RA) rivayet etti: Peygamber (ﷺ) bayram günü iki rekât namaz kıldı ve onlardan önce veya sonra namaz kılmadı."
+    },
+    {
+      "id": 421,
+      "narrator": "Narrated Jabir (RA):",
+      "text": "Jabir (RA) rivayet etti: Bir 'Eid günü, Allah'ın Elçisi (ﷺ) 'Eid namazı için çıktığı yoldan farklı bir yoldan geri dönerdi."
+    },
+    {
+      "id": 422,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 423,
+      "narrator": "Narrated Anas (RA) that when Allah's Messenger (ﷺ) came to al-Madinah, the people had two days on which they engaged in games. He (ﷺ) said:",
+      "text": "Abu Davud, İbn 'Umar (RA) tarafından benzer bir rivayet aktarmıştır."
+    },
+    {
+      "id": 424,
+      "narrator": "Narrated 'Ali (RA):",
+      "text": "---"
+    },
+    {
+      "id": 425,
+      "narrator": "Narrated Abu Hurairah (RA):",
+      "text": "Anas (RA) rivayet etti ki, Allah'ın Elçisi (ﷺ) Medine'ye geldiğinde, insanların oyunlar oynadığı iki günü vardı. O (ﷺ) dedi ki: \"Allah, sizin için onlardan daha hayırlısını değiştirmiştir: Kurban günü ve oruç açma günü.\""
+    },
+    {
+      "id": 426,
+      "narrator": "Narrated Mughirah bin Shu'bah (RA):",
+      "text": "---"
+    },
+    {
+      "id": 427,
+      "narrator": "In a narration of al-Bukhari it has:",
+      "text": "Ali (RA) rivayet etti: 'Eid (namazına) yürüyerek gitmek sünnettir."
+    },
+    {
+      "id": 428,
+      "narrator": "al-Bukhari's narration from Abu Bakrah (RA) has:",
+      "text": "---"
+    },
+    {
+      "id": 429,
+      "narrator": "Narrated 'Aishah (RA):",
+      "text": "Abu Hurairah (RA) rivayet etti: Bir 'Eid günü yağmur yağdı, bu yüzden Peygamber (ﷺ) onları (insanları) camide 'Eid namazına götürdü."
+    },
+    {
+      "id": 430,
+      "narrator": "In another narration of Muslim:",
+      "text": "---"
+    },
+    {
+      "id": 431,
+      "narrator": "Narrated Ibn 'Abbas (RA):",
+      "text": "Mughirah bin Shu'bah (RA) rivayet etti: Allah'ın Elçisi (ﷺ) zamanında, oğlu İbrahim'in vefat ettiği günde bir güneş tutulması oldu. İnsanlar, \"Güneş tutulması İbrahim'in ölümü nedeniyle oldu.\" dediler. Allah'ın Elçisi (ﷺ) dedi ki: \"Güneş ve ay, Allah'ın iki ayetidir; hiç kimsenin ölümü veya hayatı nedeniyle tutulmazlar. O yüzden onları (ay veya güneş tutulmasını) gördüğünüzde Allah'a dua edin ve tutulma sona erene kadar namaz kılın.\""
+    },
+    {
+      "id": 432,
+      "narrator": "In a narration of Muslim:",
+      "text": "---"
+    },
+    {
+      "id": 433,
+      "narrator": "",
+      "text": "al-Bukhari'nin bir rivayetinde: \"aydınlanana kadar\" şeklindedir."
+    },
+    {
+      "id": 434,
+      "narrator": "He also reported from Jabir (RA):",
+      "text": "---"
+    },
+    {
+      "id": 435,
+      "narrator": "Narrated Ubai bin Ka'b (RA):",
+      "text": "al-Bukhari'nin Abu Bakrah (RA) üzerinden rivayetinde: \"Namaz kılın ve (Allah'a) dua edin, (tutulma) sona erene kadar.\" denilmektedir."
+    },
+    {
+      "id": 436,
+      "narrator": "Narrated Ibn 'Abbas (RA):",
+      "text": "İbn Abbas (RA) rivayet etmiştir: Hiçbir rüzgar esmedi ki, Peygamber (ﷺ) diz çöküp, \"Ya Allah, bunu bir rahmet kıl ve bir azap kılma.\" demesin."
+    },
+    {
+      "id": 437,
+      "narrator": "Narrated :",
+      "text": "Rivayet edildi ki: O, bir deprem sırasında altı rükû ve dört secde yaptı ve \"Bu, Allah'ın Ayetleri (belirtileri) için kılınan namazdır.\" dedi."
+    },
+    {
+      "id": 438,
+      "narrator": "",
+      "text": "ash-Shafi'i, benzer bir hadisi 'Ali bin Ebu Talib (RA) aracılığıyla sonunu belirtmeden rivayet etmiştir."
+    },
+    {
+      "id": 439,
+      "narrator": "Narrated Ibn 'Abbas (RA):",
+      "text": "İbn Abbas (RA) rivayet etmiştir: Allah'ın Elçisi (ﷺ) (Mekke'den yağmur istemek için) alçakgönüllü olarak, kaba kıyafetler içinde, itaatkar bir şekilde, yavaş yürüyerek, Allah'a dua ederek çıktı. Sonra, 'Eid namazı kıldığı gibi iki Rek'at namaz kıldı, fakat sizin türünüzde bir hutbe vermedi."
+    },
+    {
+      "id": 440,
+      "narrator": "Narrated 'Aishah (RA):",
+      "text": "Aişe (RA) rivayet etmiştir: İnsanlar, Allah'ın Elçisi (ﷺ) ile yağmurun azlığından şikayet ettiler. Bunun üzerine, onun için bir minber yapılmasını emretti. Sonra, insanların çıkması için bir gün belirledi. O (ﷺ) güneşin kenarı göründüğünde dışarı çıktı, minberin üzerine oturdu, Allah'ın büyüklüğünü ilan etti ve O'na hamd etti. Sonra şöyle dedi: \"Siz, evlerinizde kuraklıktan şikayet ettiniz. Allah, size dua etmenizi emretti ve O, dualarınızı kabul edeceğine söz verdi.\" Sonra (ﷺ) şöyle dedi: \"Bütün hamd, âlemlerin Rabbi olan Allah'a, merhamet eden, bağışlayan, kıyamet gününün sahibi olan Allah'a aittir; O'ndan başka ibadet edilmeye layık hiçbir şey yoktur; O, dilediğini yapar. Ya Allah! Sen Allah'sın, Senden başka ibadet edilmeye layık hiçbir şey yok; Sen zenginsin, biz ise fakiriz; üzerimize yağmur indir ve indirdiğin her şeyi bir güç ve tatmin kaynağı kıl.\" Sonra ellerini kaldırdı ve kollarının beyazlığı görünene kadar ellerini yukarıda tuttu. Sonra, insanlara sırtını döndü ve elbiselerini ters çevirdi, ellerini yukarıda tutarak. Sonra, insanlara döndü, indi ve iki Rek'at namaz kıldı. Ardından, Allah bir bulut yarattı ve gök gürültüsü ve şimşekler geldi ve yağmur yağdı."
+    },
+    {
+      "id": 441,
+      "narrator": "The story of how the Prophet (ﷺ) inverted his cloak is mentioned in Sahih al-Bukhari from the narration of 'Abdullah bin Zaid. And it contains (the words):",
+      "text": "Peygamberin (ﷺ) elbisesini ters çevirmesi hikayesi, 'Abdullah bin Zaid'in rivayetiyle Sahih al-Bukhari'de geçmektedir. Ve içinde şu sözler vardır: \"O (ﷺ) dua ederek Kıble'ye yöneldi. Sonra, iki Rek'at namaz kıldı ve içinde (Kur'an'ı) sesli okudu.\""
+    },
+    {
+      "id": 442,
+      "narrator": "ad-Daraqutni reported from the Mursal Hadith of Abu Ja'far al-Baqir:",
+      "text": "ad-Daraqutni, Abu Ja'far al-Baqir'in Mursal Hadisinden rivayet etmiştir: \"O (ﷺ) elbisesini ters çevirdi ki, kuraklık (kurak topraktan yağmurlu toprağa) dönsün.\""
+    },
+    {
+      "id": 443,
+      "narrator": "Narrated Anas (RA):",
+      "text": "Anas (RA) rivayet etmiştir: Peygamber (ﷺ) Cuma günü ayakta hutbe verirken, bir adam camiye girdi ve \"Ey Allah'ın Elçisi! Hayvanlar öldü ve yollar kapandı, Allah'a dua et de bize yağmur indirsin.\" dedi. Allah'ın Elçisi (ﷺ) ellerini kaldırdı ve sonra şöyle dedi: \"Ya Allah! bize yağmur indir, Ya Allah! bize yağmur indir, Ya Allah! bize yağmur indir.\""
+    },
+    {
+      "id": 444,
+      "narrator": "Narrated :",
+      "text": "Ve rivayetçi, yağmurun durması için yapılan duayı içeren tam hadisi zikretti."
+    },
+    {
+      "id": 445,
+      "narrator": "Narrated :",
+      "text": "Rivayet edildi ki: Kuraklık yaşadıklarında, Ömer bin Hattab (RA), yağmur istemek için al-‘Abbas bin ‘Abdul Muttalib (RA)'den Allah'a dua etmesini isterdi. O ('Ömer) şöyle derdi: \"Ya Allah, biz, Peygamberimizi (RA) Senin için dua etmesi için sana yönlendirirdik ve Sen bize yağmur verirdin. Şimdi Peygamberimizin amcasından Senin için dua etmesini istiyoruz, bize yağmur ver.\" Sonra onlara yağmur verilirdi."
+    },
+    {
+      "id": 446,
+      "narrator": "Narrated 'Aishah (RA):",
+      "text": "Rivayet edildi ki: Allah'ın Elçisi (ﷺ) ile birlikteyken üzerimize yağmur yağdı. O, elbisesini açtı ve yağmurdan bir kısmı üzerine düştü. Sonra şöyle dedi: \"Bu, Rabb'inin yeni yaratmış olduğu bir şeydir.\""
+    },
+    {
+      "id": 447,
+      "narrator": "Narrated Sa'd (RA):",
+      "text": "Aişe (RA) rivayet etmiştir: Peygamber (ﷺ) yağmur görünce şöyle dedi: \"Ya Allah, (indirdiğin) faydalı bir yağmur gönder.\""
+    },
+    {
+      "id": 448,
+      "narrator": "Narrated Abu Hurairah (RA):",
+      "text": "Sa'd (RA) rivayet etmiştir: Peygamber (ﷺ) yağmur için dua etti ve şöyle dedi: \"Ya Allah, yeryüzünü birikmiş, gök gürültülü, çakan ve şimşek çakan bulutlarla kapla, bunlardan bize sağanak, hafif ve bol yağmur indir. Ey Şeref ve İzzet Sahibi.\""
+    },
+    {
+      "id": 449,
+      "narrator": "Narrated Anas (RA):",
+      "text": "Ebu Hureyre (RA) rivayet etmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: Süleyman (AS) (Selam üzerine olsun) yağmur için dua etmek üzere dışarı çıktı ve sırt üstü yatan bir karınca gördü, bacaklarını gökyüzüne kaldırarak şöyle diyordu: \"Ya Allah, biz Senin yaratıklarındanız, Senin suyun olmadan yaşayamayız.\" O, (arkadaşlarına) \"Geri dönün, zira siz başkalarının duası ile su aldınız.\" dedi."
+    },
+    {
+      "id": 450,
+      "narrator": "Narrated Abu 'Aamir al-Ash'ari:",
+      "text": "Anas (RA) rivayet etmiştir: Peygamber (ﷺ) yağmur için dua etti ve avuç içlerini gökyüzüne doğru kaldırdı."
+    },
+    {
+      "id": 451,
+      "narrator": "Narrated Hudhaifah (RA):",
+      "text": "Hudhaifah (RA) rivayet etti: Allah'ın Elçisi (ﷺ) bize altın ve gümüş kaplardan yemek yemeyi ve içmeyi, ipek veya brokar giymeyi ya da oturmayı yasakladı."
+    },
+    {
+      "id": 452,
+      "narrator": "Narrated 'Umar (RA):",
+      "text": "'Umar (RA) rivayet etti: Allah'ın Elçisi (ﷺ) ipeğin giyilmesini, iki veya üç veya dört parmaklık alan dışında yasakladı."
+    },
+    {
+      "id": 453,
+      "narrator": "Narrated Anas (RA):",
+      "text": "Anas (RA) rivayet etti: Peygamber (ﷺ) 'Abdur-Rahman bin 'Auf ve az-Zubair'e yolculuk sırasında yaşadıkları kaşıntı nedeniyle ipek giymelerine izin verdi."
+    },
+    {
+      "id": 454,
+      "narrator": "Narrated 'Ali bin Abi Talib (RA):",
+      "text": "'Ali bin Abi Talib (RA) rivayet etti: Peygamber (ﷺ) bana bir ipek elbise sundu. Onu giyerek dışarı çıktım, ancak yüzündeki öfkeyi görünce, onu kesip (ve paylaştırarak) evimdeki kadınlara verdim."
+    },
+    {
+      "id": 455,
+      "narrator": "Narrated Abu Musa (RA):",
+      "text": "Abu Musa (RA) rivayet etti: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Altın ve ipek, benim takipçilerim arasındaki kadınlar için helaldir, ancak erkekler için yasaktır.\""
+    },
+    {
+      "id": 456,
+      "narrator": "Narrated 'Imran bin Husain (RA):",
+      "text": "'Imran bin Husain (RA) rivayet etti: Peygamber (ﷺ) şöyle dedi: \"Allah, kullarına nimetlerini verdiğinde, bu nimetlerin izlerini üzerinde görmek ister.\""
+    },
+    {
+      "id": 457,
+      "narrator": "Narrated 'Ali (RA):",
+      "text": "'Ali (RA) rivayet etti: Allah'ın Elçisi (ﷺ) ipek ve safran (kırmızı bir boya) ile boyanmış elbiselerin giyilmesini yasakladı."
+    },
+    {
+      "id": 458,
+      "narrator": "Narrated 'Abdullah bin 'Amr (RA):",
+      "text": "'Abdullah bin 'Amr (RA) rivayet etti: Peygamber (ﷺ) beni safran (kırmızı bir boya) ile boyanmış iki elbise içinde gördü ve şöyle dedi: \"Annen sana bunu yapmanı mı emretti?\""
+    },
+    {
+      "id": 459,
+      "narrator": "Narrated Asma' bint Abu Bakr (RA):",
+      "text": "Asma' bint Abu Bakr (RA) rivayet etti: Allah'ın Elçisi (ﷺ) için yakası, kolları, önü ve arkası brokar (ipek) ile kenarları işlenmiş bir manto çıkardı."
+    },
+    {
+      "id": 460,
+      "narrator": "Its basic meaning is in Muslim's Sahih with the addition:",
+      "text": "Temel anlamı Müslim'in Sahih'inde, \"Bu, 'Aişe (RA) ile birlikteydi, o öldüğünde ben onu aldım. Peygamber (ﷺ) bunu giyerdi ve biz hasta olanlar için yıkardık, onunla şifa arardık.\" eklemesiyle birlikte yer almaktadır."
+    },
+    {
+      "id": 461,
+      "narrator": "al-Bukhari added in Adab al-Mufrad:",
+      "text": "al-Bukhari, Adab al-Mufrad'da ekledi: \"O, bir heyetin ziyaretinde ve Cuma günlerinde giyerdi.\""
+    }
+  ]
+}

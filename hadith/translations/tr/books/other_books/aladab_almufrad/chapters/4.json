@@ -1,0 +1,56 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 8,
+    "arabic": {
+      "title": "الأدب المفرد",
+      "author": "الإمام البخاري"
+    },
+    "english": {
+      "title": "Al-Adab Al-Mufrad",
+      "author": "Imam al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "",
+      "text": "'Uqba ibn 'Amir, Allah'ın Elçisi'nin, Allah ona salat ve selam eylesin, \"Eğer birinin üç kızı varsa ve onlara sabredip, kendi malından giydirirse, onlar onun için ateşe karşı bir kalkan olacaktır.\" dediğini duyduğunu bildirmiştir."
+    },
+    {
+      "id": 2,
+      "narrator": "",
+      "text": "İbn 'Abbas, Allah'ın Elçisi'nin, Allah ona salat ve selam eylesin, \"İki kızı olan ve onlara iyi bakan bir Müslüman yoktur ki, o cennete girmesin.\" dediğini duyduğunu bildirmiştir."
+    },
+    {
+      "id": 3,
+      "narrator": "",
+      "text": "Cabir ibn 'Abdullah, Allah'ın Elçisi'nin, Allah ona salat ve selam eylesin, \"Eğer birinin üç kızı varsa ve onlara bakar, giydirir ve onlara merhamet ederse, kesinlikle cennete girecektir.\" dediğini bildirmiştir. Halktan bir adam, \"Ya iki kızı, Allah'ın Elçisi?\" dedi. O da, \"Ve iki.\" dedi."
+    },
+    {
+      "id": 4,
+      "narrator": "",
+      "text": "Ebu Sa'id el-Hudri, Allah'ın Elçisi'nin, Allah ona salat ve selam eylesin, \"Hiç kimse üç kızı veya üç kız kardeşi olup onlara iyi davranmaz ki, o cennete girmesin.\" dediğini bildirmiştir."
+    },
+    {
+      "id": 5,
+      "narrator": "",
+      "text": "Musa ibn 'Ali, Peygamber'in, Allah ona salat ve selam eylesin, \"Size en büyük sadakayı (ya da en büyük sadaka türlerinden birini) göstereyim mi?\" dediğini bildirmiştir. O da, \"Evet, gerçekten, Allah'ın Elçisi!\" diye yanıtladı. Peygamber devam etti, \"Kızınıza döndüğünde ona bakmak ve onun tek geçim kaynağı olmaktır.\""
+    },
+    {
+      "id": 6,
+      "narrator": "",
+      "text": "Suraqa ibn Ju'shum, Allah'ın Elçisi'nin, Allah ona salat ve selam eylesin, önceki hadis gibi bir şey söylediğini bildirmiştir."
+    },
+    {
+      "id": 7,
+      "narrator": "",
+      "text": "El-Mikdam ibn Ma'dikarib, Allah'ın Elçisi'nin, Allah ona salat ve selam eylesin, \"Kendinize yedirdiğiniz şey sizin için sadakadır. Çocuğunuza yedirdiğiniz şey sizin için sadakadır. Eşinize yedirdiğiniz şey sizin için sadakadır. Hizmetçinize yedirdiğiniz şey sizin için sadakadır.\" dediğini duyduğunu bildirmiştir."
+    },
+    {
+      "id": 8,
+      "narrator": "",
+      "text": "İbn 'Umar ile birlikte olan bir adamın, kızlarının ölmesini dilediği bildirilmektedir. İbn 'Umar öfkelendi ve \"Onlara bakarken!\" dedi."
+    }
+  ]
+}

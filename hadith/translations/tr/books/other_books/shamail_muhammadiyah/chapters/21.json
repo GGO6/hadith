@@ -1,0 +1,41 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 5,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Jabir ibn Samura said:",
+      "text": "Cabir ibn Semure dedi ki: \"Allah’ın Messenger'ını (Allah ona salat ve selam eylesin) sol tarafına yaslanmış bir yastık üzerinde gördüm.”"
+    },
+    {
+      "id": 2,
+      "narrator": "'Abd ar-Rahman ibn Abi Bakra reported that his father Abu Bakra said:",
+      "text": "---"
+    },
+    {
+      "id": 3,
+      "narrator": "Abu Juhaifa said:",
+      "text": "Abd ar-Rahman ibn Ebi Bekre, babası Ebu Bekre'nin şöyle dediğini aktardı: “Allah’ın Messenger'ı (Allah ona salat ve selam eylesin) dedi ki: ‘Size en büyük büyük günahları söyleyeyim mi?’ Onlar: ‘Evet, ey Allah’ın Messenger'ı!’ dediler. O da: ‘Allah’a ortak koşmak ve ebeveynlere isyan etmek.’ Allah’ın Messenger'ı (Allah ona salat ve selam eylesin) oturdu ve bir desteğe yaslanıyordu. Ekledi: ‘...ve yalan şahitlik’ veya: ‘yalan söz.’ Allah’ın Messenger'ı (Allah ona salat ve selam eylesin) konuşmaya devam etti ta ki biz: ‘Keşke susabilse!’ diyene kadar.”"
+    },
+    {
+      "id": 4,
+      "narrator": "Abu Juhaifa said:",
+      "text": "---"
+    },
+    {
+      "id": 5,
+      "narrator": "Jabir ibn Samura said:",
+      "text": "Ebu Cuhayfa dedi ki: \"Allah’ın Messenger'ı (Allah ona salat ve selam eylesin) dedi ki: ‘Ben, bir desteğe yaslanarak yemek yemem!’”"
+    }
+  ]
+}

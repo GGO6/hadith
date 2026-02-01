@@ -1,0 +1,231 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 43,
+    "arabic": {
+      "title": "صحيح البخاري",
+      "author": "الإمام محمد بن إسماعيل البخاري"
+    },
+    "english": {
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Muhammad ibn Ismail al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Narrated Abu Sa`id Al-Khudri:",
+      "text": "Ebu Sa`id El-Hudri'den rivayet edilmiştir: Allah'ın Resulü (ﷺ) şöyle buyurdu: \"Müminler Cehennem'in (köprüsünden) güvenle geçtiklerinde, Cehennem ile Cennet arasında bir köprüde duracaklar ve dünyada aralarında yapılan haksızlıklar için birbirlerine karşılık verecekler. Tüm günahlarından arındıklarında, Cennet'e kabul edilecekler. Muhammed'in hayatının elinde olduğu Allah'a yemin ederim ki, herkes Cennet'teki yerini, bu dünyadaki yerini tanıdığından daha iyi tanıyacaktır.\""
+    },
+    {
+      "id": 2,
+      "narrator": "Narrated Safwan bin Muhriz Al-Mazini:",
+      "text": "Safvan bin Muhriz El-Mazini'den rivayet edilmiştir: İbn `Umar ile elini tutarak yürürken, önümüzde bir adam geldi ve \"Allah'ın Resulü (ﷺ) An-Necva hakkında ne söyledi?\" diye sordu. İbn `Umar şöyle dedi: \"Allah'ın Resulü (ﷺ) şöyle buyurdu: 'Allah, bir mümini yanına alacak ve onu perdeleriyle koruyacak ve ona soracak: Şu ve bu günahları işledin mi? O da: Evet, Rabbim, diyecek. Allah, ona sormaya devam edecek ve o, tüm günahlarını itiraf edecek ve mahvolduğunu düşünecek. Allah, 'Ben dünyada günahlarını örttüm ve bugün onları affettim' diyecek ve ardından ona iyi amellerinin kitabı verilecek. Kafirler ve münafıkların (kötü işleri açığa çıkacak) ve şahitler diyecek ki: İşte bunlar, Rablerine yalan söyleyenlerdir. Dikkat edin! Allah'ın laneti zalimlerin üzerinedir.\" (11.18)"
+    },
+    {
+      "id": 3,
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "Abdullah bin `Umar'dan rivayet edilmiştir: Allah'ın Resulü (ﷺ) şöyle buyurdu: \"Bir Müslüman, diğer bir Müslümanın kardeşidir, bu yüzden ona zulmetmemeli, zalime de teslim etmemelidir. Kardeşinin ihtiyaçlarını karşılayan kimseye, Allah ihtiyaçlarını karşılar; kardeşini bir sıkıntıdan çıkaran kimseye, Allah, Kıyamet Günü'nün sıkıntılarından çıkarır; ve bir Müslümanı örten kimseye, Allah, Kıyamet Günü'nde onu örtecektir.\""
+    },
+    {
+      "id": 4,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir: Allah'ın Resulü (ﷺ) şöyle buyurdu: \"Kardeşinize yardım edin, ister zalim olsun, ister mazlum.\""
+    },
+    {
+      "id": 5,
+      "narrator": "Narrated Anas:",
+      "text": "Enes'ten rivayet edilmiştir: Allah'ın Resulü (ﷺ) şöyle buyurdu: \"Kardeşinize yardım edin, ister zalim olsun, ister mazlum. İnsanlar sordular: \"Ey Allah'ın Resulü (ﷺ)! Mazlum olduğunda ona yardım etmek tamam, ama zalim olduğunda ona nasıl yardım edelim?\" Peygamber (ﷺ) şöyle dedi: \"Onu başkalarına zulmetmekten alıkoyarak.\""
+    },
+    {
+      "id": 6,
+      "narrator": "Narrated Muawiya bin Suwaid:",
+      "text": "Muaviye bin Suvaid'den rivayet edilmiştir: Al-Bara' bin `Azib'in şöyle dediğini duydum: \"Peygamber (ﷺ) bize yedi şey yapmamızı emretti ve yedi şeyden de sakındırdı.\" Sonra Al-Bara' şunları zikretti:--"
+    },
+    {
+      "id": 7,
+      "narrator": "Narrated Abu Musa:",
+      "text": "(1) Hasta ziyareti yapmak (sağlığını sormak),"
+    },
+    {
+      "id": 8,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "(2) cenaze alayını takip etmek,"
+    },
+    {
+      "id": 9,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "(3) hapşırana \"Allah sana merhamet etsin\" demek (eğer \"Hamd, Allah'a olsun!\" derse),"
+    },
+    {
+      "id": 10,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "(4) selamları iade etmek,"
+    },
+    {
+      "id": 11,
+      "narrator": "Narrated Aisha:",
+      "text": "(5) mazlumlara yardım etmek,"
+    },
+    {
+      "id": 12,
+      "narrator": "Narrated Sahl bin Sa`d As-Sa`idi:",
+      "text": "(6) davetleri kabul etmek,"
+    },
+    {
+      "id": 13,
+      "narrator": "Narrated Sa`id bin Zaid:",
+      "text": "(7) başkalarının yeminlerini yerine getirmelerine yardımcı olmak. (Bkz. Hadis No. 753, Cilt 7)"
+    },
+    {
+      "id": 14,
+      "narrator": "Narrated Abu Salama:",
+      "text": "Ebu Musa'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Bir mümin, diğer bir mümine, birbirini destekleyen bir bina gibidir.\" Peygamber (ﷺ) bunu söylerken ellerini parmaklarıyla kenetledi."
+    },
+    {
+      "id": 15,
+      "narrator": "Narrated Salim's father (i.e. `Abdullah):",
+      "text": "İbn `Umar'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Zulüm, Kıyamet Günü'nde bir karanlık olacaktır.\""
+    },
+    {
+      "id": 16,
+      "narrator": "Narrated Jabala:",
+      "text": "Jabala'dan rivayet edilmiştir: \"Medine'de bazı Iraklılarla birlikteydik ve kıtlıkla karşılaştık. İbn Zübeyir bize hurma veriyordu. İbn Ömer yanımızdan geçerken, 'Peygamber (ﷺ) bize bir seferde iki hurma yemeyi yasakladı, ancak birinin arkadaşlarından izin alması gerekir.' dedi.\""
+    },
+    {
+      "id": 17,
+      "narrator": "Narrated Abu Mas`ud:",
+      "text": "Ebu Mes'ud'dan rivayet edilmiştir: \"Abu Shu'aib adında bir Ensari vardı ve onun bir köle kasabı vardı. Abu Shu'aib ona, 'Peygamber (ﷺ) ve diğer dört kişi için beş kişilik bir yemek hazırla.' dedi. Abu Shu'aib, Peygamber (ﷺ)'in yüzünde açlık belirtilerini görmüştü, bu yüzden onu davet etti. Davet edilmemiş başka bir adam, Peygamber'i takip etti. Peygamber (ﷺ) Abu Shu'aib'e, 'Bu adam bizi takip etti. Onun da yemeğe katılmasına izin verir misin?' dedi. Abu Shu'aib, 'Evet.' dedi.\""
+    },
+    {
+      "id": 18,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: \"Peygamber (ﷺ) dedi ki: 'Allah katında en nefret edilen kişi, en çok tartışan kişidir.'\""
+    },
+    {
+      "id": 19,
+      "narrator": "Narrated Um Salama:",
+      "text": "Ümmü Seleme'den rivayet edilmiştir: (Peygamber'in eşi) Allah'ın Elçisi (ﷺ) evinin kapısında bazı insanların tartıştığını duydu. Dışarı çıktı ve, 'Ben sadece bir insanım, ve karşıtlar benim yanıma gelir (sorunlarını çözmek için); belki aranızdan biri, diğerinden daha etkili bir şekilde davasını sunabilir, bu nedenle onu doğru kabul edebilirim ve lehine bir hüküm verebilirim. Eğer bir Müslümanın hakkını yanlışlıkla bir başkasına verirsem, o gerçekten (Cehennem) ateşinin bir kısmıdır, onu almak veya bırakmak hakkına sahiptir (Kıyamet Günü'nden önce).' dedi.\""
+    },
+    {
+      "id": 20,
+      "narrator": "Narrated `Abdullah bin `Amr:",
+      "text": "Abdullah bin Amr'dan rivayet edilmiştir: \"Peygamber (ﷺ) dedi ki: 'Kimde (aşağıdaki) dört özellik varsa, o bir münafıktır; ve kimde bu dört özellikten biri varsa, onu bırakana kadar münafıklık özelliğine sahip olacaktır. Bunlar: (1) Ne zaman konuşsa yalan söyler; (2) Ne zaman söz verse, onu bozar; (3) Ne zaman bir antlaşma yapsa, hainlik eder; (4) Ve ne zaman tartışsa, kötü bir hakaret edici şekilde davranır.' (Bkz. Hadis No. 33, Cilt 1)\""
+    },
+    {
+      "id": 21,
+      "narrator": "Narrated Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: \"Hind bint Utbe (Ebu Süfyan'ın eşi) geldi ve, 'Ey Allah'ın Elçisi (ﷺ)! Ebu Süfyan cimri. Çocuklarımız için onun malından bir şey harcamamda bir sakınca var mı?' dedi. O da, 'Eğer onlara adil ve makul bir şekilde (savurganlık yapmadan) yedirirsen, senin için bir sakınca yoktur.' dedi.\""
+    },
+    {
+      "id": 22,
+      "narrator": "Narrated `Uqba bin 'Amir:",
+      "text": "Ukbe bin Amir'den rivayet edilmiştir: \"Peygamber'e, 'Bizi gönderiyorsun ve bazı insanlarla kalmak zorunda kalıyoruz, ama onlar bizi ağırlamıyor. Bu konuda ne düşünüyorsun?' dedik. O da, 'Eğer bazı insanlarla kalırsanız ve sizi bir misafir olarak ağırlarlarsa, onların misafirperverliğini kabul edin; ama eğer etmezlerse, onlardan misafirin hakkını alın.' dedi.\""
+    },
+    {
+      "id": 23,
+      "narrator": "Narrated `Umar:",
+      "text": "Ömer'den rivayet edilmiştir: \"Allah, Peygamberinin ruhunu aldığı zaman, Ensar Beni Sa'ida'nın gölgesinde toplandı. Ben de Ebu Bekir'e, 'Hadi gidelim.' dedim. Böylece onlara (yani Ensar'a) Beni Sa'ida'nın gölgesinde geldik. (Detaylar için bkz. Hadis No. 19, Cilt 5)\""
+    },
+    {
+      "id": 24,
+      "narrator": "Narrated Al-Araj:",
+      "text": "El-Araj'dan rivayet edilmiştir: \"Ebu Hureyre dedi ki: 'Allah'ın Elçisi (ﷺ) dedi ki: 'Hiç kimse komşusunun duvarına bir tahta çakmasını engellememelidir.' Ebu Hureyre (arkadaşlarına) dedi ki: 'Neden buna karşı çıkıyorsunuz? Vallahi, bunu size mutlaka anlatacağım.'\""
+    },
+    {
+      "id": 25,
+      "narrator": "Narrated Anas:",
+      "text": "Enes'ten rivayet edilmiştir: \"Ben, Ebu Talha'nın evinde insanların hizmetçisiydim ve o günlerde içecekler hurmalardan hazırlanıyordu. Allah'ın Elçisi (ﷺ) birine alkolün yasaklandığını duyurmasını emretti. Ebu Talha, bana çıkıp şarabı dökmemi emretti. Ben dışarı çıktım ve şarabı döktüm, Medine sokaklarında aktı. Bazı insanlar, 'Bazı insanlar öldürüldü ve şarap hâlâ onların karınlarındaydı.' dediler. Bunun üzerine vahiy geldi: 'İman edenler ve salih ameller işleyenler için geçmişte yedikleri şeylerden dolayı bir günah yoktur.' (5.93)\""
+    },
+    {
+      "id": 26,
+      "narrator": "Narrated Abu Sa`id Al-Khudri:",
+      "text": "Ebu Said el-Hudri'den rivayet edilmiştir: \"Peygamber (ﷺ) dedi ki: 'Dikkat edin! Yolların (sokakların) üzerinde oturmaktan kaçının.' İnsanlar, 'Bu bizim oturduğumuz yerlerdir, burada sohbet ediyoruz.' dediler. Peygamber (ﷺ) dedi ki: 'Eğer orada oturmak zorundaysanız, o zaman yolun haklarına riayet edin.' Onlar, 'Yolun hakları nelerdir?' diye sordular. O da, 'Gözlerinizi aşağıda tutmak (bakılması yasak olan şeylere bakmamak), insanlara zarar vermekten kaçınmak, selamı iade etmek, iyiliği teşvik etmek ve kötülükten men etmektir.' dedi.\""
+    },
+    {
+      "id": 27,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: \"Peygamber (ﷺ) dedi ki: 'Bir adam yolda çok susadı, bir kuyuya rastladı. Kuyudan aşağı indi, susuzluğunu giderdi ve çıktı. Bu sırada aşırı susuzluktan dolayı bir köpeğin nefes nefese kaldığını ve çamuru yaladığını gördü. Kendine, 'Bu köpek benim gibi susuzluktan muzdarip.' dedi. Böylece kuyudan tekrar aşağı indi, ayakkabısını suyla doldurdu ve köpeği suladı. Allah, bu davranışından dolayı ona şükretti ve onu affetti. İnsanlar, 'Ey Allah'ın Elçisi (ﷺ)! Hayvanlara hizmet etmenin bir mükafatı var mı?' diye sordular. O da, 'Evet, her canlıya hizmet etmenin bir mükafatı vardır.' dedi. (Bkz. Hadis No. 551)\""
+    },
+    {
+      "id": 28,
+      "narrator": "Narrated Usama bin Zaid:",
+      "text": "Usame bin Zeyd'den rivayet edilmiştir: \"Bir zaman Peygamber (ﷺ) Medine'deki kalelerden (veya yüksek binalardan) birinin tepesinde durdu ve, 'Gördüğünüzü görüyor musunuz? Şüphesiz ben, evleriniz arasında sıkıntı yerlerini görüyorum, yağmur damlalarının düştüğü yerler kadar çok.' dedi. (Bkz. Hadis No. 102)\""
+    },
+    {
+      "id": 29,
+      "narrator": "Narrated `Abdullah bin `Abbas:",
+      "text": "Abdullah bin Abbas'tan rivayet edilmiştir: \"Ben, Peygamber (ﷺ)'in iki eşi hakkında Ömer'e sormak için can atıyordum. Allah, Kur'an'da şöyle buyurmuştu: 'Eğer siz iki (Peygamber'in eşleri Aişe ve Hafsa) Allah'a tevbe ederseniz, kalpleriniz gerçekten eğilimli (Peygamber'in hoşlandığı şeylere karşı)dir.' (66.4) Hac'ı Ömer ile birlikte yaptıktan sonra (Hac'dan dönerken) o, kenara gitti (tuvalet ihtiyacını gidermek için) ve ben de onunla birlikte gidip bir su kabı taşıdım. O, tuvalet ihtiyacını gidermiş ve geri dönmüştü. Ben, onun ellerine su döktüm ve abdest aldı. 'Ey Müminlerin Emiri! Peygamber (ﷺ)'in eşlerinden iki kadın kimdir ki, Allah onlara, 'Eğer siz iki tevbe ederseniz (66.4)?' dedi?' dedim. O, 'Senin soruna şaşırdım, Ey İbn Abbas. Onlar Aişe ve Hafsa'ydı.' dedi. Sonra Ömer, anlatmaya devam etti ve, 'Ben ve Beni Umaiya bin Zayd'den bir Ensari komşum, Medine'nin Avâli bölgesinde yaşıyorduk, Peygamber (ﷺ)'i sırayla ziyaret ediyorduk. O bir gün gidiyor, ben başka bir gün gidiyordum. Ben gittiğimde, o gün olan olayları ve emirleri getiriyordum ve o gittiğinde, benim için de aynısını yapıyordu. Biz, Kureyş halkı olarak kadınlar üzerinde otoriteye sahiptik, ama Ensar ile birlikte yaşamaya başladığımızda, Ensar kadınlarının erkeklerine üstün geldiğini fark ettik, bu yüzden kadınlarımız Ensar kadınlarının alışkanlıklarını edinmeye başladılar. Bir gün karıma bağırdım ve o da bana karşılık verdi, bu durumdan hoşlanmadım. O, 'Neden benim sana karşılık vermemi kötü karşılıyorsun? Vallahi, Peygamber (ﷺ)'in eşleri ona karşılık veriyor, bazıları onunla bir gün boyunca konuşmuyorlar.' dedi. Onun söyledikleri beni korkuttu ve ona, 'Aralarında bunu yapan büyük bir kaybeden olacaktır.' dedim. Sonra giyindim ve Hafsa'ya gittim ve ona, 'Sizlerden biri, Allah'ın Elçisi (ﷺ)'ni bütün gün boyunca geceye kadar kızdırıyor mu?' diye sordum. O, 'Evet.' diye cevap verdi. Ben de, 'O, bir harabe kaybeden kişidir (ve asla başarılı olamaz)! Allah'ın Elçisi (ﷺ)'nin öfkesinden dolayı Allah'ın öfkesi gelir ve böylece o harabe olur mu? Allah'ın Elçisi'nden (ﷺ) çok fazla şey istemeyin, ve ona hiçbir durumda karşılık vermeyin, ve onu terk etmeyin. Benden istediğiniz her şeyi talep edin, ve komşunuzun (yani Aişe'nin) davranışını taklit etmeye kalkmayın, çünkü o (yani Aişe) sizden daha güzeldir ve Allah'ın Elçisi (ﷺ) için daha sevimlidir.' O günlerde, Gassan'ın (Şam'da yaşayan bir kabile) bize saldırmak için atlarını hazırladığına dair söylentiler çıkmıştı. Arkadaşım (Peygamber (ﷺ)'in yanına gittiği gün, geri döndüğünde geceleyin kapımı sert bir şekilde çaldı, uyuyup uyumadığımı sordu. Sert çalmadan korktum ve dışarı çıktım. O, büyük bir şey olduğunu söyledi. Ben de, 'Nedir?' dedim. 'Gassan mı geldi?' O, 'Hayır, daha kötü ve daha ciddi bir şey oldu, Allah'ın Elçisi (ﷺ) bütün eşlerini boşadı.' dedi. Ben de, 'Hafsa harabe bir kaybedendir! Bunun bir gün olacağını bekliyordum.' dedim. Hemen giyindim ve Peygamber ile sabah namazı kıldım. Sonra Peygamber (ﷺ) üst bir odaya girdi ve orada yalnız kaldı. Hafsa'ya gittim ve onu ağlarken buldum. Ona, 'Neden ağlıyorsun? Seni uyarmadım mı? Allah'ın Elçisi (ﷺ) sizi hepinizi boşadı mı?' dedim. O, 'Bilmiyorum. O, üst odada.' dedi. Sonra dışarı çıktım ve minberin yanına geldim ve etrafında bir grup insan buldum, bazıları ağlıyordu. Bir süre onlarla oturdum ama durumu daha fazla dayanamadım. Bu yüzden Peygamber (ﷺ)'in bulunduğu üst odaya gittim ve ona, 'Ey Allah'ın Elçisi (ﷺ)! Umarım bana izin verir misin?' diyen bir siyah kölesine rica ettim. Köle içeri girdi, Peygamber (ﷺ) ile bu konuda konuştu ve dışarı çıktı, 'Seni ona söyledim ama cevap vermedi.' dedi. Ben de, minberin yanındaki insanlarla oturmaya devam ettim ama durumu daha fazla dayanamadım, bu yüzden köleye tekrar gittim ve, 'Umar'a izin verir misin?' dedim. O, içeri girdi ve daha önceki gibi aynı cevabı getirdi. Dışarı çıkarken, köle bana, 'Allah'ın Elçisi (ﷺ) sana izin verdi.' dedi. Böylece Peygamber'in yanına girdim ve onu, üzerine bir hasır serilmiş olarak yattığını gördüm, hasır onun vücudunda iz bırakmıştı ve bir deri yastık üzerine yaslanmıştı. Ona selam verdim ve hâlâ ayakta dururken, 'Eşlerini boşadın mı?' dedim. O, gözlerini bana kaldırdı ve hayır dedi. Sonra hâlâ ayakta dururken, 'Sana söylediğim şeye dikkat eder misin, Ey Allah'ın Elçisi (ﷺ)! Biz, Kureyş halkı olarak kadınlarımız üzerinde otoriteye sahiptik, ve biz, kadınlarının erkeklerine üstün olduğu bir topluma geldiğimizde...' dedi. Ömer, tüm hikayeyi (karısı hakkında) anlattı. 'Bunun üzerine Peygamber (ﷺ) gülümsedi.' Ömer devamla, 'Sonra, 'Hafsa'ya gittim ve ona dedim: 'Komşun (Aişe) gibi davranmaya kalkma, çünkü o senden daha güzeldir ve Peygamber'e (ﷺ) daha sevimlidir.' dedim. Peygamber (ﷺ) tekrar gülümsedi. Onun gülümsediğini görünce oturdum ve odaya bir göz attım, ve Allah'a yemin ederim ki, önemli bir şey göremedim, sadece üç deri vardı. 'Ey Allah'ın Elçisi (ﷺ)! Allah'a dua et, takipçilerini zengin etsin, çünkü Persler ve Bizanslılar zenginleştirilmiş ve dünyalık lükslerle donatılmıştır, halbuki onlar Allah'a ibadet etmiyorlar.' dedim. Peygamber (ﷺ) o sırada yaslanıyordu (ve benim sözlerimi duyunca doğruldu) ve, 'Ey İbn Hattab! Ahiretin bu dünyadan daha iyi olduğuna dair bir şüphen var mı?' dedi. 'Bu insanlar, sadece bu dünyada yaptıkları iyi işlerin karşılığını almışlardır.' dedim. Peygamber (ﷺ)'den, 'Lütfen benim için Allah'tan bağışlanma iste.' dedim. Peygamber (ﷺ), Hafsa'nın Aişe'ye açıkladığı sır nedeniyle eşlerine gitmedi ve onlara bir ay boyunca gitmeyeceğini söyledi, çünkü onlardan öfkeliydi, Allah ona (Maria ile ilgili yemininden dolayı) öğüt verdi. Yirmi dokuz gün geçtikten sonra, Peygamber (ﷺ) ilk olarak Aişe'ye gitti. O, 'Sen bir ay boyunca bize gelmeyeceğine dair yemin ettin, ve bugün sadece yirmi dokuz gün geçti, çünkü ben onları gün gün sayıyordum.' dedi. Peygamber (ﷺ) dedi ki: 'Ay da yirmi dokuz gündür.' O ay yirmi dokuz gün sürdü. Aişe, 'Seçim vahyi geldiğinde, Peygamber (ﷺ) önce benimle başladı, bana, 'Sana bir şey söylüyorum ama cevap vermek için acele etme, önce ailenle danışabilirsin.' dedi. Aişe, ailesinin ona Peygamber (ﷺ)'den ayrılmasını tavsiye etmeyeceğini biliyordu. Peygamber (ﷺ) dedi ki: 'Ey Peygamber! Eşlerine de ki; Eğer siz bu dünyanın hayatını ve süsünü isterseniz... o zaman gelin! Ben size bir karşılık vereceğim ve sizi güzel bir şekilde serbest bırakacağım. Ama eğer Allah'ı, O'nun Elçisini ve Ahiret yurdunu isterseniz, şüphesiz Allah, içinizden iyilik yapanlar için büyük bir ödül hazırlamıştır.' (33.28) Aişe, 'Bunun hakkında aileme danışacak mıyım? Ben gerçekten Allah'ı, O'nun Elçisini ve Ahiret yurdunu tercih ediyorum.' dedi. Sonrasında Peygamber (ﷺ) diğer eşlerine de aynı seçimi sundu ve onlar da Aişe'nin verdiği aynı cevabı verdiler.\""
+    },
+    {
+      "id": 30,
+      "narrator": "Narrated Anas:",
+      "text": "Enes'ten rivayet edilmiştir: \"Allah'ın Elçisi (ﷺ) bir ay boyunca eşlerine gitmeyeceğine dair yemin etti, çünkü ayağı burkulmuştu. Üst bir odada kaldı, Ömer ona gitti ve, 'Eşlerini boşadın mı?' dedi. O da, 'Hayır, ama onlara bir ay boyunca gitmeyeceğine dair yemin ettim.' dedi. Peygamber orada yirmi dokuz gün kaldı, sonra aşağı indi ve eşlerine gitti.\""
+    },
+    {
+      "id": 31,
+      "narrator": "Narrated Jabir:",
+      "text": "Jabir'den rivayet edilmiştir: Peygamber (ﷺ) Mescide girdi, ben de Mescidin pavmentinde devenin ipini bağladıktan sonra oraya gittim. Peygamber'e (ﷺ) \"Bu senin deven\" dedim. O da dışarı çıktı, devenin durumunu inceledi ve \"Deve ve fiyatı senindir\" dedi."
+    },
+    {
+      "id": 32,
+      "narrator": "Narrated Hudhaifa:",
+      "text": "Hudhaifa'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) bazı insanların çöplüklerine geldiğini gördüm ve orada ayakta idrar yaptı."
+    },
+    {
+      "id": 33,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) dedi ki: \"Bir adam yolda yürürken, yolda dikenli bir dal buldu ve onu kaldırdı. Allah bu eyleminden dolayı ona şükretti ve onu affetti.\""
+    },
+    {
+      "id": 34,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) bir arazi hakkında bir ihtilaf olduğunda, yedi arşınlık bir alanın kamu yolu olarak bırakılması gerektiğine hükmetti."
+    },
+    {
+      "id": 35,
+      "narrator": "Narrated `Abdullah bin Yazid Al-Ansari:",
+      "text": "Abdullah bin Yazid El-Ensari'den rivayet edilmiştir: Peygamber (ﷺ) hırsızlığı (başkalarının izni olmadan onların malını almak) yasakladı ve ayrıca bedenlerin sakat bırakılmasını (veya yaralanmasını) da yasakladı."
+    },
+    {
+      "id": 36,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) dedi ki: \"Bir zina eden, illegal cinsel ilişkiyi gerçekleştirdiğinde, o anında mümin değildir; bir içki içen, içkiyi içerken o anında mümin değildir; bir hırsız hırsızlık yaptığında, o anında mümin değildir; ve bir soyguncu soygun yaptığında, insanlar ona bakarken o anında mümin değildir.\""
+    },
+    {
+      "id": 37,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) dedi ki: \"Saat (kıyamet) kurulmayacak, ta ki Meryem oğlu (yani İsa) aranızda adil bir hükümdar olarak ininceye kadar; o haçı kıracak, domuzları öldürecek ve cizye vergisini kaldıracaktır. Para o kadar bol olacak ki, kimse onu (hayır olarak) kabul etmeyecek.\""
+    },
+    {
+      "id": 38,
+      "narrator": "Narrated Salama bin Al-Akwa`:",
+      "text": "Selame bin El-Ekva'dan rivayet edilmiştir: Khaibar günü Peygamber (ﷺ) ateşlerin yakıldığını gördü. \"Bu ateşler neden yakılıyor?\" diye sordu. İnsanlar, eşek etini pişirdiklerini söylediler. O da, \"Tencereleri kırın ve içindekileri atın.\" dedi. İnsanlar, \"İçindekileri atıp tencereleri yıkayalım mı (kırmak yerine)?\" dediler. O da, \"Yıkayın.\" dedi."
+    },
+    {
+      "id": 39,
+      "narrator": "Narrated `Abdullah bin Mas`ud:",
+      "text": "Abdullah bin Mes'ud'dan rivayet edilmiştir: Peygamber (ﷺ) Mekke'ye girdiğinde, Kabe etrafında üç yüz altmış put vardı. Elindeki sopa ile putlara vurdu ve \"Gerçek (İslam) geldi, Batıl (inkar) yok oldu.\" diye okudu."
+    },
+    {
+      "id": 40,
+      "narrator": "Narrated Al-Qasim:",
+      "text": "El-Kasım'dan rivayet edilmiştir: Aişe, bir dolaba hayvan resimleriyle süslenmiş bir perde astığını söyledi. Peygamber (ﷺ) o perdenin bir kısmını yırtarak, onu iki yastığa dönüştürdü ve bu yastıklar, Peygamber (ﷺ) otursun diye evde kaldı."
+    },
+    {
+      "id": 41,
+      "narrator": "Narrated `Abdullah bin `Amr bin Al-`As:",
+      "text": "Abdullah bin Amr bin El-As'tan rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Malını korurken öldürülen kimse şehittir.\""
+    },
+    {
+      "id": 42,
+      "narrator": "Narrated Anas:",
+      "text": "Anas'tan rivayet edilmiştir: Peygamber (ﷺ) bir eşinin yanında iken, müminlerin annelerinden biri (yani eşlerinden biri) bir hizmetçi ile yiyecek dolu bir tahta kâse gönderdi. (O sırada oturduğu) eş, kâseye elini vurdu ve kırdı. Peygamber (ﷺ) parçaları topladı, yiyeceği tekrar içine koydu ve \"Ye.\" dedi. O, hizmetçiyi ve kâseyi, yiyeceği yediği süre boyunca tuttu. Sonra Peygamber, hizmetçiye başka bir sağlam kâse verdi ve kırık olanı sakladı."
+    },
+    {
+      "id": 43,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) dedi ki: \"Bir zamanlar Juraij adında bir İsrailoğulları vardı, o namaz kılarken annesi geldi ve ona seslendi, ama o çağrısına cevap vermedi. Kendine, namaza devam mı etmeliyim yoksa anneme mi cevap vermeliyim diye düşündü. Annesi ikinci kez geldi, ona seslendi ve \"Ey Allah! Onu, fahişelerin yüzlerini görmeden öldürme.\" dedi. Juraij bir hücrede yaşıyordu. Bir kadın, Juraij'i baştan çıkarmaya karar verdi, bu yüzden ona gitti ve kendini (kötü bir iş için) sundu ama o reddetti. Sonra bir çobana gitti ve onunla illegal bir cinsel ilişkiye girmesine izin verdi ve daha sonra bir erkek çocuk doğurdu. Çocuğun Juraij'den olduğunu iddia etti. İnsanlar Juraij'e gitti ve hücresini yıktı, onu içinden çekip çıkardılar ve ona hakaret ettiler. O, abdest aldı ve namaz kıldı, sonra erkek çocuğa gitti ve \"Ey çocuk! Baban kim?\" diye sordu. Çocuk, babasının çoban olduğunu söyledi. İnsanlar onun için altından bir hücre yapacaklarını söylediler ama Juraij onlardan sadece topraktan bir hücre yapmalarını istedi.\""
+    }
+  ]
+}

@@ -1,0 +1,651 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 127,
+    "arabic": {
+      "title": "سنن الترمذي",
+      "author": "الإمام محمد بن عيسى الترمذي"
+    },
+    "english": {
+      "title": "Jami at-Tirmidhi",
+      "author": "Imam Muhammad ibn Isa at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Abu Hurairah narrated that :",
+      "text": "Abu Hurayra'nın rivayetine göre: Allah'ın Elçisi şöyle dedi: \"Ramazan ayının ilk gecesinde, şeytanlar zincire vurulur, cinler engellenir, ateşlerin kapıları kapatılır, içlerinden hiçbir kap açılmaz. Cennet kapıları açılır, içlerinden hiçbir kap kapatılmaz ve bir çağırıcı seslenir: 'Ey hayır arayan; yaklaş!' ve 'Ey şer arayan; dur! Zira Allah'ın ateşten kurtardığılar vardır.' Ve bu her gece böyledir.\""
+    },
+    {
+      "id": 2,
+      "narrator": "Abu Hurairah narrated that :",
+      "text": "Abu Hurayra'nın rivayetine göre: Allah'ın Elçisi şöyle dedi: \"Ramazan'ı oruç tutarak ve onun için (gece namazında) ayakta durarak geçiren, imanla ve Allah'tan bir ödül umarak, geçmiş günahları affedilecektir. Kadir Gecesi'nde imanla ve Allah'tan bir ödül umarak (gece namazında) ayakta duran kimsenin de geçmiş günahları affedilecektir.\""
+    },
+    {
+      "id": 3,
+      "narrator": "Abu Hurairah narrated that :",
+      "text": "Abu Hurayra'nın rivayetine göre: Peygamber şöyle dedi: \"Ayı bir gün veya iki gün önce geçmeyin, ancak sizden biri normalde oruç tutacağı bir günde oruç tutuyorsa, o zaman oruç tutsun. Ayın görünüşüne göre oruç tutun ve oruç açın; eğer hava kapalıysa, o zaman otuz gün sayın ve sonra orucunuzu açın.\""
+    },
+    {
+      "id": 4,
+      "narrator": "Abu Hurairah narrated that :",
+      "text": "Abu Hurayra'nın rivayetine göre: Allah'ın Elçisi şöyle dedi: \"Ramazan ayından bir veya iki gün önce oruç tutmayın, ancak normalde oruç tutan bir adam için geçerli ise, o zaman oruç tutsun.\""
+    },
+    {
+      "id": 5,
+      "narrator": "Silah bin Zufar said:",
+      "text": "Silah bin Zufar şöyle dedi: \"Biz Ammar bin Yasir ile birlikteydik, bir kızartılmış koyun getirildi ve o dedi ki: 'Ye.' İnsanlardan biri: 'Ben oruçluyum.' dedi. Ammar da: 'Şüpheli bir günde oruç tutan, Abul-Kasım'a (sav) isyan etmiştir.' dedi.\""
+    },
+    {
+      "id": 6,
+      "narrator": "Abu Hurairah narrated that :",
+      "text": "Abu Hurayra'nın rivayetine göre: Allah'ın Elçisi şöyle dedi: \"Ramazan için Şaban ayının hilalini sayın.\""
+    },
+    {
+      "id": 7,
+      "narrator": "Ibn Abbas narrated that :",
+      "text": "İbn Abbas'ın rivayetine göre: Allah'ın Elçisi şöyle dedi: \"Ramazan'dan önce oruç tutmayın. Ayın görünüşüne göre oruç tutun ve oruç açın; eğer görünmezse, o zaman otuz gün tamamlayın.\""
+    },
+    {
+      "id": 8,
+      "narrator": "Ibn Mas`ud said:",
+      "text": "İbn Mes'ud şöyle dedi: \"Peygamberle birlikte oruç tuttuğum gün yirmi dokuz (gün) idi, otuz (gün) oruç tuttuğumuzdan daha fazlaydı.\" (Dedi ki): Bu konuda 'Umar, Abu Hurayra, 'Aişe, Sa'd bin Ebi Vakkas, İbn Abbas, İbn 'Umar, Enes, Cabir, Ümmü Seleme, Ebu Bekir'den rivayetler vardır ki, Peygamber (sav) şöyle dedi: \"Ay yirmi dokuz (gündür).\""
+    },
+    {
+      "id": 9,
+      "narrator": "Anas narrated:",
+      "text": "Enes rivayet etti: \"Allah'ın Elçisi, eşlerinden bir ay uzak durma yemini etti, bu yüzden yirmi dokuz gün bir lofta kaldı. Onlar: 'Ey Allah'ın Elçisi, yemininiz bir ay içindi,' dediler. O da: 'Ay yirmi dokuz (gündür),' dedi.\""
+    },
+    {
+      "id": 10,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "İbn Abbas'ın rivayetine göre: \"Bir bedevi Peygamber'e geldi ve: 'Hilali gördüm,' dedi. O da: 'Allah'tan başka ilah olmadığına şahitlik eder misin? Muhammed'in Allah'ın Elçisi olduğuna şahitlik eder misin?' dedi. O da: 'Evet,' dedi. Bunun üzerine: 'Ey Bilal! İnsanlara yarın oruç tutmaları gerektiğini duyur,' dedi.\""
+    },
+    {
+      "id": 11,
+      "narrator": "Abdur-Rahman bin Abi Bakrah narrated from his father that :",
+      "text": "Abdurrahman bin Ebu Bekir, babasından rivayet etti ki: Allah'ın Elçisi şöyle dedi: \"İki bayram ayı eksik olmayacaktır: Ramazan ve Zilhicce.\""
+    },
+    {
+      "id": 12,
+      "narrator": "Muhammad bin Abi Harmalah narrated:",
+      "text": "Muhammed bin Ebu Harmalah şöyle rivayet etti: \"Kuraib, Ümmü'l-Fadl bin Haris'in onu Şam'daki Muaviye'ye gönderdiğini bildirdi. Dedi ki: 'Şam'a vardım ve onun işini bitirdim, Ramazan hilalini Şam'da gördüm. Cuma gecesi hilali gördük. Sonra ayın sonunda Medine'ye vardım. İbn Abbas bana soru sordu, sonra hilali anarak: 'Hilali ne zaman gördünüz?' dedi. Ben de: 'Cuma gecesi gördük,' dedim. O da: 'Cuma gecesi mi gördünüz?' dedi. Ben de: 'İnsanlar onu gördü, oruç tuttular ve Muaviye de oruç tuttu,' dedim. O da: 'Ama biz onu Cumartesi gecesi gördük, bu yüzden otuz gün tamamlayana kadar oruç tutmaya devam edeceğiz,' dedi. Ben de: 'Muaviye'nin hilali görmesi ve oruç tutması sizin için yeterli değil mi?' dedim. O da: 'Peygamber'in (sav) bize böyle emretmediği bu şekilde değil.' dedi.\""
+    },
+    {
+      "id": 13,
+      "narrator": "Anas bin Malik narrated that :",
+      "text": "Anas bin Malik rivayet etti ki: Allah'ın Elçisi şöyle dedi: \"Kimde kuru hurma varsa, orucunu onunla açsın; kimde yoksa, su ile orucunu açsın, çünkü su temizleyicidir.\""
+    },
+    {
+      "id": 14,
+      "narrator": "Salman bin Amir Ad-Dabbi narrated that :",
+      "text": "Salman bin Amir Ed-Dabbi rivayet etti ki: Peygamber şöyle dedi: \"Biriniz orucunu açtığında, kuru hurma ile açsın. Kuru hurma bulamazsa, su ile açsın, çünkü su temizleyicidir.\""
+    },
+    {
+      "id": 15,
+      "narrator": "Anas bin Malik narrated:",
+      "text": "Anas bin Malik rivayet etti: \"Allah'ın Elçisi, namazdan önce taze hurma ile orucunu açardı. Eğer taze hurma yoksa, kuru hurma ile açardı; eğer kuru hurma da yoksa, birkaç yudum su alırdı.\""
+    },
+    {
+      "id": 16,
+      "narrator": "Abu Hurairah narrated that :",
+      "text": "Ebu Hureyre rivayet etti ki: Peygamber şöyle dedi: \"Oruç, insanların oruç tuttuğu gündür; oruç açma, insanların oruç açtığı gündür; kurban da, insanların kurban kestiği gündür.\""
+    },
+    {
+      "id": 17,
+      "narrator": "Umar bin Al-Khattab narrated that:",
+      "text": "Ömer bin Hattab rivayet etti ki: Allah'ın Elçisi şöyle dedi: \"Gece ilerlediğinde ve gündüz geri çekildiğinde, güneş gizlendiğinde, oruç açılır.\""
+    },
+    {
+      "id": 18,
+      "narrator": "Sahl bin Sa'd narrated that :",
+      "text": "Sahl bin Sa'd rivayet etti ki: Allah'ın Elçisi şöyle dedi: \"İnsanlar, oruçlarını açmaya acele ettikleri sürece hayır üzerinde kalacaklardır.\""
+    },
+    {
+      "id": 19,
+      "narrator": "Abu Hurairah narrated that :",
+      "text": "Ebu Hureyre rivayet etti ki: Allah'ın Elçisi şöyle dedi: \"Allah, Azze ve Celle buyurdu: 'Kullarım arasında en sevdiğim, oruçlarını en hızlı açanlardır.'\""
+    },
+    {
+      "id": 20,
+      "narrator": "Abu Hurairah narrated:",
+      "text": "Ebu Hureyre rivayet etti: (Farklı bir isnatla No. 700'e benzer bir Hadis)."
+    },
+    {
+      "id": 21,
+      "narrator": "Abu Atiyyah said:",
+      "text": "Ebu Atiyye dedi ki: \"Masruq ve ben Aişe'nin yanına girdik ve dedik ki: 'Ey Müminlerin Annesi! Muhammed'in iki arkadaşından biri oruç açmaya acele ediyor ve Salat'ı da aceleyle kılıyor. Diğeri ise oruç açmayı geciktiriyor ve Salat'ı da geciktiriyor.' O da dedi ki: 'Hangisi oruç açmaya ve Salat'a acele ediyor?' Biz de Abdullah bin Mes'ud olduğunu söyledik. O da dedi ki: 'Peygamber Allah böyle yapardı.' Diğeri ise Ebu Musa'ydı.\""
+    },
+    {
+      "id": 22,
+      "narrator": "Anas (bin Malik) narrated that :",
+      "text": "Enes (bin Malik) rivayet etti ki: Zeyd bin Sabit dedi ki: \"Biz, Allah'ın Elçisi ile Sahur yedik, sonra Salat için kalktık.\" Ben (Enes) dedim: \"Bu ne kadar sürdü?\" O da dedi ki: \"Elli Ayet kadar.\""
+    },
+    {
+      "id": 23,
+      "narrator": "Anas (bin Malik) narrated:",
+      "text": "Enes (bin Malik) rivayet etti: (Başka bir isnat) fakat o dedi ki: \"Elli Ayet okuma süresi kadar.\""
+    },
+    {
+      "id": 24,
+      "narrator": "Talq bin Ali narrated that :",
+      "text": "Talq bin Ali rivayet etti ki: Allah'ın Elçisi şöyle dedi: \"Yiyin ve için, ve yükselen ışıktan etkilenmeyin; ufukta kırmızılık görünene kadar yiyin ve için.\""
+    },
+    {
+      "id": 25,
+      "narrator": "Samurah bin Jundub narrated that :",
+      "text": "Semure bin Cundub rivayet etti ki: Allah'ın Elçisi şöyle dedi: \"Bilal'in Ezanı, Sahur'unuzu bırakmanıza engel olmasın, ne de olsa uzatılmış Fajr, fakat ufukta yayılan Fajr'dır.\""
+    },
+    {
+      "id": 26,
+      "narrator": "Abu Hurairah narrated that :",
+      "text": "Ebu Hureyre rivayet etti ki: Peygamber şöyle dedi: \"Kim yalan konuşmayı ve ona göre hareket etmeyi bırakmazsa, Allah onun yemek ve içmekten vazgeçmesine ihtiyaç duymaz.\""
+    },
+    {
+      "id": 27,
+      "narrator": "Anas bin Malik narrated that :",
+      "text": "Enes bin Malik rivayet etti ki: Allah'ın Elçisi şöyle dedi: \"Sahur yapın, çünkü Sahurda bir bereket vardır.\""
+    },
+    {
+      "id": 28,
+      "narrator": "Amr bin Al-As narrated :",
+      "text": "Amr bin Al-As rivayet etti: (No. 708'e benzer) Peygamber'den."
+    },
+    {
+      "id": 29,
+      "narrator": "Jabir bin Abdullah narrated:",
+      "text": "Cabir bin Abdullah rivayet etti: \"Allah'ın Elçisi Feth Yılı'nda Mekke'ye gitti, oruç tuttu ve Kura Al-Ghamim'e ulaşana kadar oruçlu kaldı. Sonra ona: 'Oruç, insanlar için zorlaştı ve ne yapacağını görmek için seni izliyorlar.' denildi. Bunun üzerine Asr'dan sonra bir bardak su istedi ve insanların bakarken içti. Bazıları oruçlarını açtı, bazıları ise oruçlarına devam etti. Ona insanların hala oruçlu olduğu bildirildi, o da: 'Onlar isyankâr olanlardır.' dedi.\""
+    },
+    {
+      "id": 30,
+      "narrator": "Aishah narrated that :",
+      "text": "Aişe rivayet etti ki: Hamza bin Amr el-Eslemî, Allah'ın Elçisine seyahat sırasında oruç tutmayı sordu ve o düzenli olarak oruç tutuyordu. Bunun üzerine Allah'ın Elçisi şöyle dedi: 'İstersen oruç tut, istersen orucunu aç.'\""
+    },
+    {
+      "id": 31,
+      "narrator": "Abu Sa'eed (Al-Khudri) narrated:",
+      "text": "Ebu Sa'id (El-Hudri) rivayet etti: \"Ramazan ayında Resulullah ile bir yolculuk yapıyorduk. Oruçlu olanın orucuna itiraz eden yoktu, orucunu bozanın oruç bozmaya itiraz eden yoktu.\""
+    },
+    {
+      "id": 32,
+      "narrator": "Abu Sa'eed Al-Khudri narrated:",
+      "text": "Ebu Sa'id El-Hudri rivayet etti: \"Resulullah ile bir yolculuk yapıyorduk. Bazılarımız oruç tutuyordu, bazılarımız oruçlarını bozuyordu. Oruç bozan, oruç tutana itiraz etmedi, oruç tutan da oruç bozana itiraz etmedi. Gücü yeten oruç tutmayı, zayıf olan ise orucunu bozmayı tercih etti.\""
+    },
+    {
+      "id": 33,
+      "narrator": "Ma'mar bin Abi Huyaiyah narrated that:",
+      "text": "Ma'mar bin Ebu Hüseyin rivayet etti ki: İbn Müseyyeb'e yolculukta oruç tutmak hakkında sordum, o da bana Ömer bin Hattab'ın şöyle dediğini aktardı: \"Ramazan ayında Resulullah ile iki savaş yaptık; Bedir Günü ve Feth (Mekke), bu savaşlar sırasında orucumuzu bozduk.\""
+    },
+    {
+      "id": 34,
+      "narrator": "Anas bin Malik, a man from Banu Abdullah bin Ka'b said:",
+      "text": "Enes bin Malik, Banu Abdullah bin Ka'b'dan bir adam şöyle dedi: \"Resulullah'ın bir süvari adamı üzerimize doğru dörtnala geldi, ben de Resulullah'a geldim ve onu yemek yerken buldum. O dedi ki: 'Gel ve ye.' Ben dedim: 'Ben oruçluyum.' O da dedi ki: 'Gel, sana oruç hakkında bir şeyler anlatayım - ya da oruç tutmak hakkında. Şüphesiz ki Allah Teala, yolcu için orucu ve namazın yarısını kaldırdı, hamile kadın veya emziren kadın için de orucu - ya da oruç tutmayı - kaldırdı.' Ve Allah'a yemin ederim ki! Peygamber ya her ikisini ya da birini söyledi. Ah bana yazık! Çünkü Peygamber'in yemeğinden yemedim.\""
+    },
+    {
+      "id": 35,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "İbn Abbas rivayet etti: \"Bir kadın Peygamber'e geldi ve dedi ki: 'Kız kardeşim, ardışık iki ay oruç tutması gereken bir şekilde vefat etti.' O da dedi ki: 'Kız kardeşinin bir borcu olsaydı, onu ödemek zorunda kalırdın, değil mi?' Kadın dedi: 'Evet.' O da dedi: 'O halde Allah'ın hakkı daha önceliklidir.'\""
+    },
+    {
+      "id": 36,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "İbn Abbas rivayet etti: (Farklı bir isnatla no. 716'ya benzer bir hadis.)"
+    },
+    {
+      "id": 37,
+      "narrator": "Ibn Umar narrated that :",
+      "text": "İbn Ömer rivayet etti ki: Peygamber dedi: \"Kim bir ay oruç tutmadan ölürse, onun adına her gün bir muhtaç beslenmelidir.\""
+    },
+    {
+      "id": 38,
+      "narrator": "Abu Sa'eed Al-Khudri narrated that:",
+      "text": "Ebu Sa'id El-Hudri rivayet etti ki: Resulullah dedi: \"Üç şey oruçlu kişinin orucunu bozmaz: Hacamat, kusma ve rüya ile cinsel ilişki.\""
+    },
+    {
+      "id": 39,
+      "narrator": "Abu Hurairah narrated that :",
+      "text": "Ebu Hureyre rivayet etti ki: Peygamber dedi: \"Kusma ile başa çıkan kimse, orucunu telafi etmek zorunda değildir; ancak bilerek kusan kimse, onu telafi etmelidir.\""
+    },
+    {
+      "id": 40,
+      "narrator": "Abu Hurairah narrated that\nthe Messenger of Allah said:",
+      "text": "Ebu Hureyre rivayet etti ki: Resulullah dedi: \"Unutarak yiyen veya içen kimse, orucunu bozmuş sayılmaz; çünkü bu, Allah'ın ona sağladığı bir rızık idi.\""
+    },
+    {
+      "id": 41,
+      "narrator": "Abu Hurairah narrated:",
+      "text": "Ebu Hureyre rivayet etti: (Aynı veya benzer bir hadis ile farklı bir isnat.)"
+    },
+    {
+      "id": 42,
+      "narrator": "Abu Hurairah narrated that :",
+      "text": "Ebu Hureyre rivayet etti ki: Resulullah dedi: \"Ramazan'da bir mazeret veya hastalık olmaksızın orucunu bozan kimse, ebediyen oruç tutsa bile, bu oruç onun için telafi olmaz.\""
+    },
+    {
+      "id": 43,
+      "narrator": "Abu Hurairah narrated that:",
+      "text": "Ebu Hureyre rivayet etti ki: Bir adam geldi ve dedi: \"Ey Allah'ın Resulü; ben mahvoldum!\" O da dedi: \"Seni mahveden nedir?\" Adam dedi: \"Ramazan'da eşimle cinsel ilişkiye girdim.\" O da dedi: \"Bir köle azat edebiliyor musun?\" Adam dedi: \"Hayır.\" O dedi: \"İki ardışık ay oruç tutabiliyor musun?\" Adam dedi: \"Hayır.\" O dedi: \"O halde altmış muhtaç kişiyi doyurabiliyor musun?\" Adam dedi: \"Hayır.\" O dedi: \"O zaman otur.\" Adam oturdu. Peygamber'e büyük bir hurma sepeti getirildi ve o dedi: \"Bunu sadaka olarak ver.\" Adam dedi: \"Bu iki dağ arasında bizden daha muhtaç kimse yok.\" Peygamber gülerek dişleri görünecek şekilde güldü ve dedi: \"O halde bunu aileni doyurmak için al.\""
+    },
+    {
+      "id": 44,
+      "narrator": "Abdullah bin Amir bin Rabi'ah narrated from his father who said:",
+      "text": "Abdullah bin Amir bin Rabi'ah, babasından rivayet etti ki: \"Peygamber'i - sayısını sayamadığım kadar - oruçlu iken siwak kullanırken gördüm.\""
+    },
+    {
+      "id": 45,
+      "narrator": "Anas bin Malik narrated that :",
+      "text": "Enes bin Malik rivayet etti ki: Bir adam Peygamber'e geldi ve dedi: \"Gözlerim rahatsız ediyor, oruçlu iken kohl kullanabilir miyim?\" O dedi: \"Evet.\""
+    },
+    {
+      "id": 46,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe rivayet etti: \"Peygamber, oruçlu olduğu ayda öpüşürdü.\""
+    },
+    {
+      "id": 47,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe rivayet etti: \"Allah'ın Elçisi oruçlu olduğu zaman benimle yakınlık kurardı ve sizden en çok iradesini kontrol edendi.\""
+    },
+    {
+      "id": 48,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe rivayet etti: \"Allah'ın Elçisi oruçlu olduğu zaman öpüşür ve yakınlık kurardı, ve sizden en çok iradesini kontrol edendi.\""
+    },
+    {
+      "id": 49,
+      "narrator": "Hafsah narrated that:",
+      "text": "Hafsa rivayet etti ki: Peygamber şöyle dedi: \"Eğer Fajr'dan önce oruç tutmaya niyet etmediyse, onun için oruç yoktur.\""
+    },
+    {
+      "id": 50,
+      "narrator": "Umm Hani narrated:",
+      "text": "Ümmü Hani rivayet etti: \"Peygamber ile oturuyordum, bir içecek getirildi, o içti, sonra bana uzattı ve ben de içtim. Sonra dedim: 'Gerçekten günah işledim, benim için af dile.' O dedi: 'Bu ne?' Ben dedim: 'Oruçluydum, sonra orucumu bozdum.' O dedi: 'Telafi etmen gereken bir oruç mu tutuyordun?' Ben dedim: 'Hayır.' O dedi: 'O zaman senin için bir sakınca yoktur.'\""
+    },
+    {
+      "id": 51,
+      "narrator": "Simak bin Harb narrated:",
+      "text": "Simak bin Harb rivayet etti: \"Ümmü Hani'nin soyundan bir kişi bana rivayet etti - onlardan en faziletli olanlarından biriyle tanıştım, adı Ca'dah idi ve Ümmü Hani onun büyükannesiydi - bana büyükannesinden rivayet etti ki, Allah'ın Elçisi ona girdi ve biraz içecek istedi, o da içti. Sonra ona uzattı ve o da içti. Sonra dedi: 'Ey Allah'ın Elçisi! Ben oruçluydum.' Bunun üzerine Allah'ın Elçisi dedi: 'Nafile oruç tutan kişi kendisi için emanetçidir; dilerse oruç tutar, dilerse bozar.' Şu'bah (rivayet edenlerden biri) dedi: 'Ben ona (Ca'dah) dedim: 'Bunu Ümmü Hani'den duydun mu?' O dedi: 'Hayır, Ebu Salih ve ailemiz Ümmü Hani'den bize bildirdi.'\""
+    },
+    {
+      "id": 52,
+      "narrator": "Aishah, the Mother of the Believers, narrated:",
+      "text": "Aişe, Müminlerin Annesi, rivayet etti: \"Allah'ın Elçisi bir gün beni ziyaret etti ve dedi: 'Yemek var mı?'\" O dedi: \"Ben dedim: 'Hayır.' O dedi: 'O zaman ben oruçluyum.'\""
+    },
+    {
+      "id": 53,
+      "narrator": "Aishah, the Mother of the Believers, narrated:",
+      "text": "Aişe, Müminlerin Annesi, rivayet etti: \"Allah'ın Elçisi bana gelerek, 'Kahvaltılık bir şey var mı?' dedi. Ben dedim: 'Hayır.' Sonra o dedi: 'Ben oruçluyum.'\" O dedi: \"Bir gün bana geldi ve ben dedim: 'Ey Allah'ın Elçisi; bizim için bir hediye aldım.' O dedi: 'Nedir o?'\" O dedi: \"Ben dedim 'Hais' O dedi: 'Ben günü oruçlu başladım.'\" O dedi: \"Sonra yedi.\""
+    },
+    {
+      "id": 54,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe rivayet etti: \"Hafsa ve ben oruçluyduk, bize çok istediğimiz bir yiyecek sunuldu, bu yüzden ondan yedik. Allah'ın Elçisi geldi, Hafsa ona benden önce gitti - babasının kızıydı - ve dedi: 'Ey Allah'ın Elçisi! Biz oruçluyduk, bize istediğimiz bir yiyecek sunuldu, bu yüzden ondan yedik.' O dedi: 'Yerine başka bir gün tutun.'\""
+    },
+    {
+      "id": 55,
+      "narrator": "Umm Salamah narrated:",
+      "text": "Ümmü Selame rivayet etti: \"Peygamberi ardı ardına iki ay oruç tutarken görmedim, sadece Şaban ve Ramazan ayında.\""
+    },
+    {
+      "id": 56,
+      "narrator": "(Another chain, a Hadith similar to no. 736) for that, from Aishah, :",
+      "text": "(Başka bir zincir, no. 736'ya benzer bir Hadis) Aişe'den, Peygamber'den."
+    },
+    {
+      "id": 57,
+      "narrator": "Abu Hurairah narrated that :",
+      "text": "Ebu Hureyre rivayet etti ki: Allah'ın Elçisi şöyle dedi: \"Şaban'ın yarısı kaldığında oruç tutmayın.\""
+    },
+    {
+      "id": 58,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe rivayet etti: \"Bir gece Allah'ın Elçisi'ni bulamadım. Gittim ve onu Al-Baki'de buldum. O dedi: 'Allah ve Elçisi tarafından haksızlığa uğradığını mı düşündün?' Ben dedim: 'Ey Allah'ın Elçisi! Ben senin eşlerinden birine gittiğini düşündüm.' O dedi: 'Gerçekten Allah, Aziz ve Celil olan, Şaban'ın ortasında gece, en alt göklere iner, koyunların (Banu) Kalb'in tüylerinden daha fazla sayıda insanların tövbesini kabul eder.'\""
+    },
+    {
+      "id": 59,
+      "narrator": "Abu Hurairah narrated that :",
+      "text": "Ebu Hureyre rivayet etti ki: Allah'ın Elçisi şöyle dedi: \"Ramazan ayından sonra en faziletli oruç, Allah'ın ayı Muharrem ayıdır.\""
+    },
+    {
+      "id": 60,
+      "narrator": "An-Nu'man bin Sa'd narrated:",
+      "text": "Numan bin Sa'd rivayet etti: \"Bir adam Ali'ye sordu: 'Ramazan ayından sonra hangi ayda oruç tutmamı emredersin?' O ona dedi: 'Ramazan ayından sonra oruç tutmamı emreden birini duymadım, sadece Allah'ın Elçisi'ne oturduğumda bir adamın sorduğunu duydum. O dedi: 'Ey Allah'ın Elçisi! Ramazan ayından sonra hangi ayda oruç tutmamı emredersin?' O dedi: 'Eğer Ramazan ayından sonra oruç tutacaksan, o zaman Muharrem ayını tut, çünkü bu Allah'ın ayıdır; bu ayda bir gün vardır ki, Allah bir topluluğun tövbesini kabul etmiştir ve başka bir topluluğun tövbesini kabul eder.'\""
+    },
+    {
+      "id": 61,
+      "narrator": "Abdullah narrated:",
+      "text": "Abdullah rivayet etti: \"Allah'ın Resulü her ayın başında üç gün oruç tutardı ve Cuma, oruç tutmadığı günlerin en azıydı.\""
+    },
+    {
+      "id": 62,
+      "narrator": "Abu Hurairah narrated that :",
+      "text": "Ebu Hureyre rivayet etti ki: Allah'ın Resulü şöyle dedi: \"Sizden hiç kimse Cuma günü oruç tutmasın, ancak ondan önce oruç tutuyorsa veya ondan sonra oruç tutuyorsa.\""
+    },
+    {
+      "id": 63,
+      "narrator": "Abdullah bin Busr narrated from his sister that :",
+      "text": "Abdullah bin Busr, kız kardeşinden rivayet etti ki: Allah'ın Resulü şöyle dedi: \"Cumartesi günü, Allah'ın üzerinize farz kıldığı şeyler dışında oruç tutmayın. Eğer biriniz sadece bir üzüm kabuğu veya bir dal bulursa, onu çiğnesin.\""
+    },
+    {
+      "id": 64,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe rivayet etti: \"Peygamber, Pazartesi ve Perşembe günleri oruç tutmaya çalışırdı.\""
+    },
+    {
+      "id": 65,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe rivayet etti: \"Allah'ın Resulü bir ayda Cumartesi, Pazar ve Pazartesi oruç tutar, diğer ayda ise Salı, Çarşamba ve Perşembe oruç tutardı.\""
+    },
+    {
+      "id": 66,
+      "narrator": "Abu Hurairah narrated that:",
+      "text": "Ebu Hureyre rivayet etti ki: Allah'ın Resulü şöyle dedi: \"Ameller Pazartesi ve Perşembe günleri sunulur ve benim amellerimin oruçlu iken sunulmasını seviyorum.\""
+    },
+    {
+      "id": 67,
+      "narrator": "Ubaidullah (bin Muslim) Al-Qurashi narrated from his father who said:",
+      "text": "Ubaidullah (bin Muslim) Al-Kurashi, babasından rivayet etti ki: \"Ben - ya da; Peygamber'e soruldu - her gün oruç tutmak hakkında sordum. O da şöyle dedi: 'Ailenin senin üzerinde hakkı vardır.' Sonra şöyle dedi: 'Ramazan'ı oruç tut ve sonrasındaki günleri, her Çarşamba ve Perşembe oruç tut. Eğer bunu yaparsan, her gün oruç tutmuş olursun, ayrıca (oruçlarını) da bozmamış olursun.'\""
+    },
+    {
+      "id": 68,
+      "narrator": "Abu Qatadah narrated that :",
+      "text": "Ebu Katade rivayet etti ki: Peygamber şöyle dedi: \"Arafat günü oruç tutun, çünkü ben Allah'ın onun ardından gelen yılın (günahlarını) affedeceğini umuyorum, önceki yılın da.\""
+    },
+    {
+      "id": 69,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "İbn Abbas rivayet etti: \"Peygamber Arafat orucunu bozdu, Ümmü Fadl ona içmesi için biraz süt gönderdi.\""
+    },
+    {
+      "id": 70,
+      "narrator": "Ibn Abi Najib narrated from his father who said:",
+      "text": "İbn Ebi Neccab, babasından rivayet etti ki: \"İbn Ömer'e Arafat günü oruç tutmak hakkında soruldu. O da şöyle dedi: 'Ben Peygamber ile Hac yaptım, o oruç tutmadı, Ebu Bekir ile, o oruç tutmadı, Ömer ile, o oruç tutmadı, Osman ile, o oruç tutmadı. Ben de oruç tutmam, ne emrederim ne de yasaklarım.'\""
+    },
+    {
+      "id": 71,
+      "narrator": "Abu Qatadah narrated that :",
+      "text": "Ebu Katade rivayet etti ki: Peygamber şöyle dedi: \"Aşura günü oruç tutun, çünkü ben Allah'ın onun öncesindeki yılın (günahlarını) affedeceğini umuyorum.\""
+    },
+    {
+      "id": 72,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe rivayet etti: \"Aşura, Kureyş'in Cahiliye döneminde oruç tuttuğu bir gündü ve Allah'ın Resulü de onu oruç tutardı. Fakat Ramazan farz kılındığında, Ramazan zorunlu hale geldi ve Aşura terk edildi. Kim isterse onu oruç tutar, kim isterse bırakır.\""
+    },
+    {
+      "id": 73,
+      "narrator": "Al-Hakam bin Al-Arfaj said:",
+      "text": "El-Hakem bin El-Arfaj dedi ki: \"Ben İbn Abbas ile Zamzam (kuyusu) başında yatar halde karşılaştım. Ona dedim: 'Aşura günü hakkında bana bilgi ver. Hangi günde oruç tutulur?' O da dedi ki: 'Muharrem ayının hilalini gördüğünüzde, sayın, dokuzuncu günün sabahında oruç tutun.' Ben de dedim: 'Muhammed böyle mi oruç tutardı?' O da dedi: 'Evet.'\""
+    },
+    {
+      "id": 74,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "İbn Abbas rivayet etti: \"Allah'ın Resulü Aşura günü onuncu gün oruç tutmayı emretti.\""
+    },
+    {
+      "id": 75,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe rivayet etti: \"Ben, Peygamber'in on gün boyunca hiç oruç tuttuğunu görmedim.\""
+    },
+    {
+      "id": 76,
+      "narrator": "Ibn Abbas narrated that :",
+      "text": "İbn Abbas rivayet etti ki: Allah'ın Elçisi şöyle dedi: \"Allah'a en sevimli amellerin yapıldığı günler, bu on gündür.\" Onlar dediler: \"Ey Allah'ın Elçisi! Allah yolunda cihad bile mi?\" Allah'ın Elçisi şöyle dedi: \"Allah yolunda cihad bile değil, eğer bir adam kendi nefsini ve malını çıkarıp da geri dönmeden gidecekse.\""
+    },
+    {
+      "id": 77,
+      "narrator": "Abu Hurairah narrated that :",
+      "text": "Ebu Hureyre rivayet etti ki: Peygamber şöyle dedi: \"Dhul-Hijjah'ın on gününden daha çok Allah'a ibadet edilen günler yoktur. Bu günlerin her birinde oruç tutmak, bir yıl oruç tutmaya eşittir ve bu günlerin her birinde (namazda) ayakta durmak, Kadir Gecesi'nde ayakta durmaya eşittir.\""
+    },
+    {
+      "id": 78,
+      "narrator": "Abu Ayub narrated that :",
+      "text": "Ebu Eyyub rivayet etti ki: Allah'ın Elçisi şöyle dedi: \"Ramazan orucunu tutan, ardından Şevval'den altı gün oruç tutarsa, bu (sevap olarak) her gün oruç tutmaya eşittir.\""
+    },
+    {
+      "id": 79,
+      "narrator": "Abu Hurairah narrated:",
+      "text": "Ebu Hureyre rivayet etti: \"Allah'ın Elçisi benden üç şey için ahit aldı: Witr namazını kılmadan uyumamak, her ay üç gün oruç tutmak ve Duha namazını kılmak.\""
+    },
+    {
+      "id": 80,
+      "narrator": "Abu Dharr narrated that :",
+      "text": "Ebu Dharr rivayet etti ki: Allah'ın Elçisi şöyle dedi: \"Ey Ebu Dharr! Bir ayda üç gün oruç tutarsan, on üçüncü, on dördüncü ve on beşinci gün oruç tut.\""
+    },
+    {
+      "id": 81,
+      "narrator": "Abu Dharr narrated:",
+      "text": "Ebu Dharr rivayet etti: \"Allah'ın Elçisi şöyle dedi: 'Her ay üç gün oruç tutan, bu (benzer olarak) her gün oruç tutmaya eşittir.' Sonra Allah Azze ve Celle, bunu Kitabında şöyle tasdik etti: Kim bir hayır getirirse, onun gibi on katı vardır. Öyleyse bir gün, on gibidir.\""
+    },
+    {
+      "id": 82,
+      "narrator": "Yazid Ar-Rishk said:",
+      "text": "Yazid Ar-Rishk dedi ki: \"Mu'adhah'ın Aişe'ye şöyle dediğini duydum: 'Allah'ın Elçisi her ay üç gün oruç tutar mıydı?' Aişe evet dedi. Sonra dedi ki: 'Hangilerini oruç tutardı?' Aişe: 'Hangi günleri oruç tutacağı belli olmazdı.'\""
+    },
+    {
+      "id": 83,
+      "narrator": "Abu Hurairah narrated that:",
+      "text": "Ebu Hureyre rivayet etti ki: Allah'ın Elçisi şöyle dedi: \"Gerçekten Rabbiniz şöyle buyurdu: 'Her hayır ameli, onun gibi on katı ile, yedi yüz katına kadar mükafatlandırılır. Oruç ise benim içindir ve ben onun mükafatını vereceğim.' Oruç, ateşten bir kalkan. Oruçlunun ağzından çıkan koku, Allah katında misk kokusundan daha hoştur. Eğer oruçlu biriniz, cehalet sahibi birisi tarafından hakarete uğrarsa, o zaman desin ki: 'Gerçekten ben oruçluyum.'\""
+    },
+    {
+      "id": 84,
+      "narrator": "Sahl bin Sa'd narrated that:",
+      "text": "Sahl bin Sa'd rivayet etti ki: Peygamber şöyle dedi: \"Cennette Ar-Raiyyan adında bir kap vardır. Oruç tutanlar oraya davet edilecektir ve oruç tutanlardan biri oraya girecekse, bir daha asla susuz kalmayacaktır.\""
+    },
+    {
+      "id": 85,
+      "narrator": "Abu Hurairah narrated that:",
+      "text": "Ebu Hureyre rivayet etti ki: Allah'ın Elçisi şöyle dedi: \"Oruçlu kişi için iki sevinç vardır: Oruç açtığında duyduğu sevinç ve Rabbine kavuştuğunda duyduğu sevinç.\""
+    },
+    {
+      "id": 86,
+      "narrator": "Abu Qatadah said:",
+      "text": "Ebu Katade dedi ki: \"Denildi ki: 'Ey Allah'ın Elçisi! Her gün oruç tutan kimse hakkında ne dersin?' O dedi: 'Ne oruç tuttu ne de (oruçunu) açtı.'\" Ya da şöyle dedi: \"O ne oruç tuttu ne de (oruçunu) açtı.\""
+    },
+    {
+      "id": 87,
+      "narrator": "Abdullah bin Shaqiq narrated:",
+      "text": "Abdullah bin Şakik rivayet etti: \"Aişe'ye Peygamber'in oruç tutması hakkında sordum. O dedi ki: 'O, biz \"Oruç tuttu\" diyene kadar oruç tutar ve biz \"Oruç tutmadı\" diyene kadar oruç tutmazdı. (O dedi ki:) 'Allah'ın Elçisi, Ramazan dışında bir ay boyunca oruç tutmadı.'\""
+    },
+    {
+      "id": 88,
+      "narrator": "Jafar bin Humaid narrated that:",
+      "text": "Cafer bin Hümeyd rivayet etti ki: Enes bin Malik'e Peygamber'in oruç tutması hakkında soruldu ve o şöyle dedi: \"O, bir ay boyunca oruç tutardı ki, biz onun hiçbir gün oruç tutmak istemediğini düşünürdük. Ve bir ay boyunca oruç tutmazdı ki, biz onun hiçbir gün oruç tutmak istemediğini düşünürdük. (Gece namazı kılıp kılmadığını) görmek istediğimde, onu namaz kılarken görürdüm, uyuyup uyumadığını görmek istediğimde, onu uyurken görürdüm.\""
+    },
+    {
+      "id": 89,
+      "narrator": "Abdullah bin Amr narrated that:",
+      "text": "Abdullah bin Amr rivayet etti ki: Allah'ın Elçisi şöyle dedi: \"En faziletli oruç, kardeşim Davud'un orucudur. O bir gün oruç tutar, ertesi gün oruç tutmazdı. Düşmanla karşılaştığında kaçmazdı.\""
+    },
+    {
+      "id": 90,
+      "narrator": "Abu Ubaid, the freed slave of Abdur-Rahman bin Awf narrated:",
+      "text": "Ebu Ubaid, Abdurrahman bin Avf'ın freed slave'ı rivayet etti: \"Nahr Günü'nde, Umar bin Al-Khattab'ı, hutbeden önce namaza başladığını gördüm. Sonra dedi ki: 'Allah'ın Elçisi bu iki günde oruç tutmayı yasakladı. Fıtır Günü, oruçtan ara vermeniz ve Müslümanlar için bir bayramdır. Kurban Günü ise, kesmiş olduğunuz etten yiyin.'\""
+    },
+    {
+      "id": 91,
+      "narrator": "Abu Sa'eed Al-Khudri narrated:",
+      "text": "Ebu Sa'id el-Hudri rivayet etti: \"Allah'ın Resulü, iki orucu yasakladı: Kurban Bayramı günü ve Fıtır Bayramı günü orucu.\""
+    },
+    {
+      "id": 92,
+      "narrator": "Uqbah bin Amir narrated that :",
+      "text": "Ukbe bin Amir rivayet etti: \"Allah'ın Resulü şöyle dedi: 'Arafat Günü, Nahr Günü ve Tashriq Günleri bizim için bayramdır. İslam halkı için, bunlar yemek ve içmek günleridir.'\""
+    },
+    {
+      "id": 93,
+      "narrator": "Rafi bin Khadi narrated that:",
+      "text": "Rafi bin Hadi rivayet etti: \"Peygamber şöyle dedi: 'Hacamat yapan ve hacamat yaptırılan orucu bozar.'\""
+    },
+    {
+      "id": 94,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "İbn Abbas rivayet etti: \"Allah'ın Resulü, oruçlu iken ve ihramda iken hacamat yaptırdı.\""
+    },
+    {
+      "id": 95,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "İbn Abbas rivayet etti: \"Peygamber, oruçlu iken hacamat yaptırdı.\""
+    },
+    {
+      "id": 96,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "İbn Abbas rivayet etti: \"Peygamber, Mekke ile Medine arasında oruçlu ve ihramda iken hacamat yaptırdı.\""
+    },
+    {
+      "id": 97,
+      "narrator": "Anas narrated that :",
+      "text": "Enes rivayet etti: \"Allah'ın Resulü şöyle dedi: 'Vesal orucu tutmayın.' Onlar dediler ki: 'Ama sen vesal orucu tutuyorsun, ey Allah'ın Resulü.' O da dedi: 'Ben sizin gibi değilim, gerçekten Rabbim bana yemek ve içmek verir.'\""
+    },
+    {
+      "id": 98,
+      "narrator": "Abu Bakr Bin Abdur-Rahman bin Al-Harith bin Hashim said:",
+      "text": "Ebu Bekir bin Abdurrahman bin Haris bin Haşim dedi ki: \"Aişe ve Ümmü Seleme, Peygamber'in eşleri, bana bildirdiler ki, Peygamber, eşleriyle (ilişki) halinde iken Fajr vaktinin girdiğini anlar, sonra gusül alır ve oruç tutardı.\""
+    },
+    {
+      "id": 99,
+      "narrator": "Abu Hurairah narrated that:",
+      "text": "Ebu Hureyre rivayet etti: \"Peygamber şöyle dedi: 'Sizden biri yemeğe davet edildiğinde, daveti kabul etsin, eğer oruçlu ise dua etsin.'\""
+    },
+    {
+      "id": 100,
+      "narrator": "Abu Hurairah narrated that :",
+      "text": "Ebu Hureyre rivayet etti: \"Peygamber şöyle dedi: 'Sizden biri (bir yemeğe) davet edildiğinde ve oruçlu ise, 'Gerçekten ben oruçluyum' desin.'\""
+    },
+    {
+      "id": 101,
+      "narrator": "Abu Hurairah narrated that:",
+      "text": "Ebu Hureyre rivayet etti: \"Peygamber şöyle dedi: 'Bir kadın, kocası yanında olduğu sürece, Ramazan dışında bir gün oruç tutamaz, ancak onun izniyle.'\""
+    },
+    {
+      "id": 102,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe rivayet etti: \"Ramazan'dan dolayı üzerimde olanları, Allah'ın Resulü vefat edene kadar sadece Şaban ayında kaza etmezdim.\""
+    },
+    {
+      "id": 103,
+      "narrator": "Laila narrated from the one who freed her (Umm Amarah) that:",
+      "text": "Leyla, onu azat eden (Ümmü Amare)den rivayet etti ki: \"Peygamber şöyle dedi: 'Oruçlu kişinin yanında oruç tutmayanlar yemek yediğinde, melekler ona salat gönderir.'\""
+    },
+    {
+      "id": 104,
+      "narrator": "Habib bin Zaid said:",
+      "text": "Habib bin Zeyd dedi ki: \"Bizim azatlı kölelerimizden Leyla, Ümmü Amare bint Ka'b el-Ensari'den rivayet etti ki, Peygamber ona girdi ve önüne bir yemek getirildi. O da 'Ye' dedi. Leyla: 'Ben oruçluyum' dedi. Bunun üzerine Allah'ın Resulü: 'Gerçekten melekler, oruçlu kişinin yanında (başkaları) yemek yediğinde ona salat gönderir, ta ki (yemeklerini) bitirene kadar.' dedi. Ve belki de 'Ta ki doyana kadar' dedi.\""
+    },
+    {
+      "id": 105,
+      "narrator": "(Another chain) from Umm Amarah bint Ka'b Al-Ansari:",
+      "text": "(Başka bir isnat) Ümmü Amare bint Ka'b el-Ensari'den: Peygamber'den, benzer bir rivayet, ancak 'Ta ki bitirene kadar veya doyana kadar' ifadesini zikretmedi."
+    },
+    {
+      "id": 106,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe (ra) rivayet etti: \"Biz, Allah'ın Elçisi zamanında adet görürdük, sonra temizlenince oruçlarımızı kaza etmemiz emredilirdi ama namazlarımızı kaza etmemiz emredilmezdi.\""
+    },
+    {
+      "id": 107,
+      "narrator": "Asim bin Laqit bin Sabrah narrated:",
+      "text": "Asim bin Laqit bin Sabrah rivayet etti: Babasından, o da şöyle dedi: \"Ben dedim ki: 'Ey Allah'ın Elçisi! Abdest hakkında bana bilgi ver.' O da şöyle dedi: 'Abdestini güzelce al, parmakların arasına gir ve oruçlu olmadıkça istinshak yapmayı bolca yap.'\""
+    },
+    {
+      "id": 108,
+      "narrator": "Aishah narrated that:",
+      "text": "Aişe (ra) rivayet etti ki: Allah'ın Elçisi şöyle buyurdu: \"Bir toplumla birlikte kalan kimse, onların izni olmadan oruç tutamaz.\""
+    },
+    {
+      "id": 109,
+      "narrator": "Abu Hurairah and Aishah narrated:",
+      "text": "Ebu Hüreyre ve Aişe (ra) rivayet etti: \"Peygamber, Ramazan'ın son on gününde itikafa girerdi, ta ki Allah onu alana kadar.\""
+    },
+    {
+      "id": 110,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe (ra) rivayet etti: \"Allah'ın Elçisi itikafa girmek istediğinde, sabah namazını kılar ve sonra itikaf yerine girerdi.\""
+    },
+    {
+      "id": 111,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe (ra) rivayet etti: \"Allah'ın Elçisi Ramazan'ın son on gecesinde itikafa girerdi ve şöyle derdi: 'Kadir Gecesi'ni Ramazan'ın son on gecesinde arayın.'\""
+    },
+    {
+      "id": 112,
+      "narrator": "Zirr said:",
+      "text": "Zirr dedi ki: \"Ben Ubayy bin Ka'b'a dedim: 'Ey Ebu'l-Mundhir! Nasıl biliyorsun ki bu yirmi yedinci gecedir?' O da dedi ki: 'Hayır, Allah'ın Elçisi bize bunun, güneşin ışık vermeden doğduğu bir gece olduğunu bildirdi, biz de saydık ve hatırladık. Vallahi! İbn Mes'ud bunun Ramazan'da olduğunu ve yirmi yedinci gece olduğunu öğrendi ama size bildirmek istemedi ki ona güvenmeyesiniz.'\""
+    },
+    {
+      "id": 113,
+      "narrator": "Uyainah bin Abdur-Rahman narrated:",
+      "text": "Uyainah bin Abdurrahman rivayet etti: \"Babam bana rivayet etti: 'Kadir Gecesi, Ebu Bekir'in yanında zikredildi, o da dedi ki: \"Ben bunu, Allah'ın Elçisi'nden duyduğum bir şey nedeniyle aramıyorum, sadece son on gecede; çünkü gerçekten onu şöyle derken duydum: 'Dokuz gece kalınca, ya da yedi gece kalınca, ya da beş gece kalınca, ya da son üç gece içinde arayın.'\" O (Uyainah) dedi ki: \"Ramazan'ın yirmi gecesinde, Ebu Bekir, yılın geri kalanında nasıl namaz kılıyorsa öyle namaz kılardı. Ama on gün başlayınca, daha çok namaz kılmak için çaba gösterirdi.\"'"
+    },
+    {
+      "id": 114,
+      "narrator": "Ali narrated:",
+      "text": "Ali rivayet etti: \"Peygamber, Ramazan'ın son on gecesinde ailesini uyandırırdı.\""
+    },
+    {
+      "id": 115,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe (ra) rivayet etti: \"Allah'ın Elçisi, Ramazan'ın son on gecesinde, diğer gecelerden daha fazla namaz kılmak için çaba gösterirdi.\""
+    },
+    {
+      "id": 116,
+      "narrator": "Amir bin Mas'ud narrated that:",
+      "text": "Amir bin Mes'ud rivayet etti ki: Peygamber şöyle dedi: \"Kışın oruç tutmak kolay bir sevaptır.\""
+    },
+    {
+      "id": 117,
+      "narrator": "Salamah bin Al-Akwa said:",
+      "text": "Selame bin Akva dedi ki: \"Şu ayet indirildiğinde: 'Ve zorlananlar, bir yoksulu doyursun' - eğer birimiz isterse oruç tutmaz ve fidye öderdik, ta ki ardından gelen ayet bunu neshetmiştir.\""
+    },
+    {
+      "id": 118,
+      "narrator": "Muhammad bin Ka'b narrated:",
+      "text": "Muhammed bin Ka'b rivayet etti: \"Ramazan'da Anas bin Malik'e gittim ve o seyahate çıkmak üzereydi. Hayvanı hazırlanmıştı, seyahat elbiselerini giymişti, sonra yemek istemişti ve ben ona dedim: 'Bu sünnet midir?' O da: 'Bu sünnettir.' dedi. Sonra bindi.\""
+    },
+    {
+      "id": 119,
+      "narrator": "(Another chain) from Muhammad bin Ka'b who said:",
+      "text": "(Başka bir isnad) Muhammed bin Ka'b'dan, o da şöyle dedi: \"Ramazan'da Anas bin Malik'e gittim\" ve benzer bir rivayet zikretti (no. 799 gibi)."
+    },
+    {
+      "id": 120,
+      "narrator": "Al-Hasan bin Ali narrated that:",
+      "text": "Hasan bin Ali rivayet etti ki: Allah'ın Elçisi şöyle buyurdu: \"Oruçlu kişinin hediyesi (kokulu) yağ ve bir tütsüdan oluşur.\""
+    },
+    {
+      "id": 121,
+      "narrator": "Aishah narrated that:",
+      "text": "Aişe (ra) rivayet etti ki: Allah'ın Resulü şöyle buyurdu: \"Fıtır, insanların oruçlarını açtığı gündür, Adha ise insanların kurban kestikleri gündür.\""
+    },
+    {
+      "id": 122,
+      "narrator": "Anas bin Malik narrated:",
+      "text": "Enes bin Malik rivayet etti: \"Peygamber, Ramazan'ın son on (gecesinde) itikaf yapardı. Bir yıl itikaf yapmadı, ertesi yıl yirmi (gece) itikaf yaptı.\""
+    },
+    {
+      "id": 123,
+      "narrator": "Aishah narrated:",
+      "text": "Aişe (ra) rivayet etti: \"Allah'ın Resulü itikaf yaptığı zaman, başını yanıma getirirdi ki ben onu tarayabileyim ve kişisel ihtiyaçları dışında eve girmezdi.\""
+    },
+    {
+      "id": 124,
+      "narrator": "That was narrated to us by Quraibah :",
+      "text": "Bize Kuraibah tarafından rivayet edildi: El-Laith'ten (no. 804 ile benzer bir rivayet)"
+    },
+    {
+      "id": 125,
+      "narrator": "Abu Dharr narrated:",
+      "text": "Ebu Zerr rivayet etti: \"Peygamber ile oruç tuttuk, o (gece namazını) bizimle yedi (gece) kalana kadar kılmadı. Sonra (sav) bizi namaza yönlendirdi, gece üçte bir geçene kadar, altıncı gecede ise bizi namaza yönlendirmedi. Beşinci gecede ise gece yarısına kadar bizi namaza yönlendirdi. Ona dedik: 'Ey Allah'ın Resulü! Geceyi bizimle birlikte kılmayacak mısın?' O dedi ki: 'Şüphesiz, imam ile birlikte ayakta kalan kimse, imam namazı bitirene kadar, o geceyi kılmış sayılır.' Sonra ayın üç (gecesi) kalana kadar bizi namaza yönlendirmedi. Üçüncü gecede bizi namaza yönlendirdi ve ailesini ve kadınlarını bizimle birlikte namaza çağırdı, öyle ki Falah'ı kaçırmaktan korktuk.\" Ben (Cübeyr bin Nüfeyr) ona dedim: \"Falah nedir?\" O dedi: \"Sahur.\""
+    },
+    {
+      "id": 126,
+      "narrator": "Zaid bin Khalid Al-Juhani narrated that:",
+      "text": "Zeyd bin Halid el-Cüheni rivayet etti ki: Allah'ın Resulü şöyle buyurdu: \"Kim bir oruçluya iftar etmesi için yiyecek temin ederse, oruçlunun (alacağı) sevap kadar sevap ona da verilir, oruçlunun sevabından hiçbir şey eksilmez.\""
+    },
+    {
+      "id": 127,
+      "narrator": "Abu Hurairah narrated:",
+      "text": "Ebu Hureyre rivayet etti: \"Allah'ın Resulü Ramazan'da gece namazını teşvik ederdi, ancak kesin bir emir vermeden, 'Kim Ramazan'da imanla ve Allah'tan sevap bekleyerek (gece namazında) ayakta durursa, geçmiş günahları affedilir.' derdi. Böylece Allah'ın Resulü vefat etti ve durum böyleydi. Sonra bu durum Ebu Bekir'in halifeliği döneminde de böyle devam etti ve Ömer bin Hattab'ın halifeliğinin bir kısmında da sürdü.\""
+    }
+  ]
+}

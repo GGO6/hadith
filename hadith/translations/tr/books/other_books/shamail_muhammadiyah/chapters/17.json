@@ -1,0 +1,36 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 4,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Abu Burda reported that his father said:",
+      "text": "Ebu Burda, babasından rivayet etti: “Aişe (Allah ondan razı olsun) bize karışık bir elbise ve kaba bir izar çıkardı, sonra dedi ki: ‘Allah’ın Resulünün (Allah ona salat ve selam eylesin) ruhu bu ikisiyle alındı.’”"
+    },
+    {
+      "id": 2,
+      "narrator": "Al-Ash'ath ibn Sulaim said:",
+      "text": "El-Eş'ath ibn Süleym dedi ki: \"Ben, teyzemden, amcasının rivayetiyle işittim; 'Medine'de yürürken, arkamda biri dedi ki: ‘İzarını kaldır, bu daha takva sahibi ve daha uzun süre giyilmesine yardımcıdır.’ Bakın, o Allah’ın Resulü (Allah ona salat ve selam eylesin) imiş, ben de dedim ki: ‘Ey Allah’ın Resulü, bu sadece beyaz çizgili siyah bir elbise!’ O da dedi ki: ‘Bende bir örnek yok mu?’ Ben de baktım ve onun izarının bacaklarının ortasına kadar olduğunu fark ettim.'”"
+    },
+    {
+      "id": 3,
+      "narrator": "llyas ibn Salama al-Akwa reported that his father said:",
+      "text": "İlyas ibn Selame el-Ekva, babasından rivayet etti: \"'Uthman ibn 'Affan, izarını bacaklarının ortalarına kadar giyerdi ve dedi ki: 'Benim arkadaşımın izarı böyleydi', yani Peygamber (Allah ona salat ve selam eylesin).”"
+    },
+    {
+      "id": 4,
+      "narrator": "Hudhaifa ibn al-Yuman said:",
+      "text": "Hudhayfe ibn el-Yeman dedi ki: \"Allah’ın Resulü (Allah ona salat ve selam eylesin) bacaklarımın baldırına veya kendi bacağına tuttu ve dedi ki: 'İzarın durumu budur, eğer itiraz edersen, biraz daha aşağıda, ama eğer itiraz edersen, izarın bilekler üzerinde hakkı yoktur.'”"
+    }
+  ]
+}

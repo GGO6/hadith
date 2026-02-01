@@ -1,0 +1,21 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 1,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Anas ibn Malik said:",
+      "text": "Enes ibn Malik dedi ki: “Allah’ın Elçisi (Allah ona salat ve selam eylesin) sık sık baş örtüsü giyerdi, sanki elbisesi bir yağcı elbisesiydi.”"
+    }
+  ]
+}

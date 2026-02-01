@@ -1,0 +1,46 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 6,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Ibn Abbas said:",
+      "text": "İbn Abbas dedi ki: “Peygamber (Allah ona salat etsin ve selam versin) Mekke'de on üç yıl kaldı, bu süre zarfında İlahi vahiy aldı, Medine'de on yıl kaldı ve altmış üç yaşında vefat etti.”"
+    },
+    {
+      "id": 2,
+      "narrator": "Mu'awiya said in a sermon:",
+      "text": "Muaviye bir hutbede dedi ki: \"Peygamber (Allah ona salat etsin ve selam versin) altmış üç yaşında vefat etti, tıpkı Ebu Bekir ve Ömer gibi, ben de şimdi altmış üç yaşındayım.”"
+    },
+    {
+      "id": 3,
+      "narrator": "'A’isha said:",
+      "text": "Aişe dedi ki: \"Peygamber (Allah ona salat etsin ve selam versin) altmış üç yaşında vefat etti.”"
+    },
+    {
+      "id": 4,
+      "narrator": "Ibn 'Abbas said:",
+      "text": "İbn Abbas dedi ki: \"Allah’ın Elçisi (Allah ona salat etsin ve selam versin) altmış beş yaşında vefat etti.”"
+    },
+    {
+      "id": 5,
+      "narrator": "Daghfal ibn Hanzala said:",
+      "text": "Daghfal ibn Hanzala dedi ki: \"Peygamber (Allah ona salat etsin ve selam versin) altmış beş yaşında vefat etti.”"
+    },
+    {
+      "id": 6,
+      "narrator": "Anas ibn Malik said:",
+      "text": "Enes ibn Malik dedi ki: “Allah’ın Elçisi (Allah ona salat etsin ve selam versin) ne çok uzun, ne de kısa bir boydaydı. Derisi ne solgun beyaz, ne de buğday rengindeydi, saçları ne kıvrımlı, ne de düz uzundu. Allah (Celle Celaluhu) onu hayatının kırk yılının sonunda gönderdi, böylece Mekke'de on yıl, Medine'de on yıl kaldı ve Allah onu altmış yılın sonunda, başında ve sakalında yirmiden az beyaz tel ile kendisine aldı.”"
+    }
+  ]
+}

@@ -1,0 +1,591 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 115,
+    "arabic": {
+      "title": "موطأ مالك",
+      "author": "الإمام مالك بن أنس"
+    },
+    "english": {
+      "title": "Muwatta Malik",
+      "author": "Imam Malik ibn Anas"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Amr ibn Yahya al-Mazini'den, onun babasının bir zamanlar Abdullah ibn Zayd ibn Asim'e, ki o Amr ibn Yahya al-Mazini'nin dedesi ve Allah'ın Resulü'nün, ona Allah'ın salatı ve selamı olsun, sahabelerindendir, \"Bana Allah'ın Resulü'nün, ona Allah'ın salatı ve selamı olsun, nasıl abdest aldığını gösterir misin?\" diye sorduğunu aktardı. Abdullah ibn Zayd ibn Asim bunu kabul etti ve abdest almak için su istedi. Elini suya döktü ve her iki elini iki kez yıkadı, ardından ağzını çalkaladı, burnuna su çekti ve üç kez üfledi. Sonra yüzünü üç kez yıkadı ve her iki kolunu dirseklere kadar iki kez yıkadı. Ardından başını iki eliyle, alnından boynuna kadar silip, ellerini geri alnına getirdi. Son olarak ayaklarını yıkadı."
+    },
+    {
+      "id": 2,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abu'z-Zinad'dan, al-Araj'dan, Abu Hurayra'dan, Allah'ın Resulü'nün, ona Allah'ın salatı ve selamı olsun, \"Abdest aldığınızda burnunuza su çekin ve üfleyin, eğer özel yerlerinizi temizlemek için taş kullanıyorsanız, tek sayıda kullanın.\" dediğini aktardı."
+    },
+    {
+      "id": 3,
+      "narrator": "",
+      "text": "Yahya, Ibn Shihab'dan, Abu Idris al-Khawlani'den, Abu Hurayra'dan, Allah'ın Resulü'nün, ona Allah'ın salatı ve selamı olsun, \"Abdest alan kişi burnuna su çekmeli ve tekrar üflemelidir.\" dediğini aktardı."
+    },
+    {
+      "id": 4,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, ağzı yıkamanın ve burnu temizlemenin yalnızca bir avuç su ile yapılmasında bir sakınca olmadığını duyduğunu aktardı."
+    },
+    {
+      "id": 5,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abd ar-Rahman ibn Abi Bakr'ın, Allah'ın Resulü'nün, ona Allah'ın salatı ve selamı olsun, eşi A'isha'yı ziyaret ettiği gün, Sad ibn Abi Waqqas'ın vefat ettiği gün, abdest almak için su istediğini aktardı. A'isha ona, \"Abd ar-Rahman! Abdestini tam al, çünkü Allah'ın Resulü'nün, ona Allah'ın salatı ve selamı olsun, 'Ateşteki topuklara yazıklar olsun.' dediğini duydum.\" dedi."
+    },
+    {
+      "id": 6,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Yahya ibn Muhammad ibn Talha'dan, Uthman ibn Abd ar-Rahman'dan, babasının kendisine, Umar ibn al-Khattab'ın bel örtüsünün altını su ile yıkadığını duyduğunu aktardı."
+    },
+    {
+      "id": 7,
+      "narrator": "",
+      "text": "Yahya, Malik'e, bir adam abdest alırken unutur ve yüzünü ağzını çalkalamadan yıkarsa veya kollarını yüzünden önce yıkarsa ne yapması gerektiğini sordu. O, \"Eğer biri yüzünü ağzını çalkalamadan yıkarsa, ağzını çalkalamalı ve yüzünü tekrar yıkamamalıdır. Ancak biri kollarını yüzünden önce yıkarsa, kollarını tekrar yıkamalıdır ki yüzünden sonra yıkamış olsun. Bu, eğer hala abdest alma yerinde ise.\" dedi."
+    },
+    {
+      "id": 8,
+      "narrator": "",
+      "text": "Yahya, Malik'e, bir adam ağzını ve burnunu çalkalamayı unutur ve namaz kılana kadar ne yapması gerektiğini sordu. O, \"Namazı tekrar etmesine gerek yoktur, ancak daha sonra başka namaz kılmak isterse ağzını ve burnunu çalkalamalıdır.\" dedi."
+    },
+    {
+      "id": 9,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abu'z-Zinad'dan, al-Araj'dan, Abu Hurayra'dan, Allah'ın Resulü'nün, ona Allah'ın salatı ve selamı olsun, \"Namaz kılmak için uyanınca, ellerinizi abdest suyuna sokmadan önce yıkayın, çünkü ellerinizin geceyi nerede geçirdiğini bilemezsiniz.\" dediğini aktardı."
+    },
+    {
+      "id": 10,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Zayd ibn Aslam'dan, Umar ibn al-Khattab'ın, \"Eğer sırt üstü uyursanız, (namazdan önce) abdest almanız gerekir.\" dediğini aktardı."
+    },
+    {
+      "id": 11,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Zayd ibn Aslam'dan, \"Ey iman edenler! Namaza kalktığınızda yüzlerinizi yıkayın, kollarınızı dirseklere kadar yıkayın, başlarınızı mesh edin ve ayaklarınızı bileklere kadar yıkayın.\" ayetinin yataktan kalkmayı, yani uykudan uyanmayı ifade ettiğini aktardı."
+    },
+    {
+      "id": 12,
+      "narrator": "",
+      "text": "Yahya, Malik'in, \"Bizim durumumuzda burun kanaması, kan veya vücuttan çıkan irin için abdest almak gerekmez. Sadece cinsel organlardan veya anüsten çıkan pislikler veya uyku için abdest almak gerekir.\" dediğini aktardı."
+    },
+    {
+      "id": 13,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Nafithat ibn Umar'ın oturarak uyuduğunu ve sonra abdest almadan namaz kıldığını aktardı."
+    },
+    {
+      "id": 14,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Safwan ibn Sulaym'den, Said ibn Salama'dan, Bani Azraq'tan, al-Mughira ibn Abi Burda'dan, Bani Abd ad-Dar kabilesinden, Abu Hurayra'nın, Allah'ın Resulü'ne, ona Allah'ın salatı ve selamı olsun, gelen bir adam hakkında konuştuğunu duyduğunu aktardı. Adam, \"Allah'ın Resulü! Biz denizle seyahat ediyoruz ve yanımızda fazla temiz su taşımıyoruz, bu yüzden onunla abdest alırsak susuz kalıyoruz. Deniz suyu ile abdest alabilir miyiz?\" dedi. Allah'ın Resulü, ona, \"Onun suyu temizdir ve onun ölü hayvanları helaldir.\" diye cevap verdi."
+    },
+    {
+      "id": 15,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, İshaq ibn Abdullah ibn Abi Talha'dan, Humayda bint Abi Ubayda ibn Farwa'dan, onun teyzesinin, Kabsha bint Kab ibn Malik'in, ki o Abu Qatada al-Ansari'nin oğlunun eşidir, bir zaman Abu Qatada'nın onu ziyaret ettiğini ve ona abdest alması için su döktüğünü anlattığını aktardı. Tam o sırada bir kedi su içmek için geldi, bu yüzden o da kabı ona doğru eğdi. Kabsha devam etti, \"Beni ona bakarken gördü ve 'Kızım, şaşırdın mı?' dedi. Ben de, 'Evet.' dedim. O, Allah'ın Resulü'nün, ona Allah'ın salatı ve selamı olsun, 'Kediler pis değildir. Onlar sizinle iç içe yaşar.' dediğini aktardı.\""
+    },
+    {
+      "id": 16,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Rabia ibn Abd ar-Rahman'ın camide birkaç kez kusup, namaz için çıkmadığını ve abdest almadığını gördüğünü aktardı."
+    },
+    {
+      "id": 17,
+      "narrator": "",
+      "text": "Yahya, Malik'e yiyecek kusan bir adamın abdest alıp almayacağını sorduğunda, \"Abdest almak zorunda değil, ama ağzını çalkalamalı ve ağzını yıkamalıdır.\" dediğini söyledi."
+    },
+    {
+      "id": 18,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 19,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Nafi'den, Abdullah ibn Umar'ın Said ibn Zayd'ın oğullarından birinin cenazesini hazırlayıp taşıdığını ve sonra camiye girip abdest almadan namaz kıldığını aktardı."
+    },
+    {
+      "id": 20,
+      "narrator": "",
+      "text": "Yahya, Malik'e sindirilmemiş yiyecek kusma nedeniyle abdest almanın gerekip gerekmediğini sorduğunda, \"Hayır, abdest almak gerekli değil, ama ağız çalkalanmalıdır.\" dediğini söyledi."
+    },
+    {
+      "id": 21,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 22,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Zayd Aslam'dan, Ata ibn Yasar'dan, Abdullah Abbas'tan, Allah'ın Resulü'nün, Allah ona salat ve selam eylesin, bir kuzu omuzu yediğini ve sonra abdest almadan namaz kıldığını aktardı."
+    },
+    {
+      "id": 23,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 24,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Yahya ibn Said'den, Bani Haritha'nın kölesi Bushayr ibn Yasar'dan, Suwayd ibn an-Numan'ın, Allah'ın Resulü ile, Allah ona salat ve selam eylesin, Hayber seferine gittiğini söylediğini aktardı. Hayber'e yakın Suhba'ya vardıklarında, Allah'ın Resulü, Allah ona salat ve selam eylesin, durdu ve asr namazını kıldı. İkram için yiyecek istedi ama sadece kavrulmuş arpa getirildi, bu yüzden ıslatılmasını istedi. Allah'ın Resulü, Allah ona salat ve selam eylesin, yedi ve insanlar da onunla birlikte yedi. Sonra magrib için kalktı, ağzını çalkaladı ve onlar da ağızlarını çalkaladılar. Sonra abdest almadan namaz kıldı."
+    },
+    {
+      "id": 25,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 26,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, hem Muhammad ibn al-Munkadir hem de Safwan ibn Sulaym'ın, Muhammad ibn Ibrahim ibn al-Harith at-Taymi'den, Rabia ibn Abdullah ibn al-Hudayr'dan, akşam yemeğini Umar ibn al-Khattab ile yediğini ve sonra abdest almadan namaz kıldığını aktardığını söyledi."
+    },
+    {
+      "id": 27,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 28,
+      "narrator": "Yahya related to me from Malik from al-Ala ibn Abd ar-Rahman from\nhis father from Abu Hurayra that the Messenger of Allah,  may Allah\nbless him and grant him peace, went to the burial grounds and said,\n\"Peace be upon you, home of a people who believe! We shall be among\nyou, Allah willing. I wish that I had seen our brothers!\" The people\nwith him said, \"Messenger of Allah! Are we not your brothers?\" \"No,\"\nhe said, \"You are my companions. Our brothers are those who have not\nyet come. And I will precede them to the Hawd. (The Hawd:",
+      "text": "Yahya, Malik'ten, Damra ibn Said al-Mazini'den, Aban ibn Uthman'dan, Uthman ibn Affan'ın ekmek ve et yediğini, ağzını çalkaladığını, ellerini yıkadığını ve yüzünü onlarla sildiğini, sonra abdest almadan namaz kıldığını aktardı."
+    },
+    {
+      "id": 29,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 30,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Ali ibn Abi Talib ve Abdullah ibn Abbas'ın pişirilmiş yiyecek yedikten sonra abdest almadıklarını duyduğunu aktardı."
+    },
+    {
+      "id": 31,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Suhayl ibn Abi Salih'ten, babasından, Abu Hurayra'dan, Allah'ın Elçisi'nin, Allah ona salat ve selam eylesin, \"Bir müslüman köle (veya güvenilir bir köle) abdest alır ve yüzünü yıkarken, gözleriyle gördüğü her yanlış eylem suyla (veya suyun son damlasıyla) gider. Elleriyle yaptığı her yanlış eylem, ellerini yıkarken suyla (veya suyun son damlasıyla) gider. Ve ayaklarını yıkarken, ayaklarının gittiği her yanlış eylem suyla (veya suyun son damlasıyla) gider, böylece yanlış eylemlerden arınmış olarak çıkar.\" dediğini aktardı."
+    },
+    {
+      "id": 32,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, İshak ibn Abdullah ibn Abi Talha'dan, Anas ibn Malik'in, \"Bir gün Allah'ın Elçisi'ni, Allah ona salat ve selam eylesin, asr namazı yaklaşırken gördüm. Herkes abdest almak için su arıyordu ama kimse bulamıyordu. Sonra Allah'ın Elçisi, Allah ona salat ve selam eylesin, bir kapta su getirdi. Elini kabın içine soktu ve onlara hepsinin ondan abdest almasını söyledi.\" dediğini aktardı. Anas ekledi, \"Parmaklarından suyun çıktığını gördüm. Sonra hepsi, son adamına kadar abdest aldı.\""
+    },
+    {
+      "id": 33,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Nuaym ibn Abdullah al-Madani al-Mujmir'den, Abu Hurayra'nın, \"Eğer birisi abdest alır ve bunu doğru yaparsa ve sonra namaz kılmak niyetiyle giderse, o, namaz kılmayı niyet ettiği sürece namazdadır. Her adımında bir hayır yazılır ve ikinci adımında bir günah silinir. İkama okunduğunda adımını uzatmayın, en büyük sevap, evinin en uzak olanıdır.\" dediğini aktardı. Onlar, \"Neden, Abu Hurayra?\" dediler. O da, \"Daha fazla adım attığı için.\" diye cevap verdi."
+    },
+    {
+      "id": 34,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Yahya ibn Said'den, birinin Said ibn al-Musayyab'a su ile dışkıyı temizlemek hakkında sorduğunu duyduğunu aktardı. Said, \"Bu, kadınların yıkama şeklidir.\" dedi."
+    },
+    {
+      "id": 35,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abu'z-Zinad'dan, al-Araj'dan, Abu Hurayra'nın, Allah'ın Elçisi'nin, Allah ona salat ve selam eylesin, \"Eğer bir köpek kabınızdan su içerse, onu yedi kez yıkayın.\" dediğini aktardı."
+    },
+    {
+      "id": 36,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Allah'ın Elçisi'nin, Allah ona salat ve selam eylesin, \"Düz gitmeye çalışın, ama bunu başaramayacaksınız. Amel edin ve amellerinizin en hayırlısı namazdır. Ve sadece bir mümin abdestinde sürekli olur.\" dediğini duyduğunu aktardı."
+    },
+    {
+      "id": 37,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Nafi'den, Abdullah ibn Umar'ın suyu kulaklarına almak için iki parmağını kullandığını aktardı."
+    },
+    {
+      "id": 38,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Jabir ibn Abdullah al-Ansari'ye sarık üzerine mesh etmek hakkında sorulduğunda, \"Saçınıza su ile mesh etmediğiniz sürece değil.\" dediğini aktardı."
+    },
+    {
+      "id": 39,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Hisham ibn Urwa'dan, Abu Urwa ibn az-Zubayr'ın sarığını çıkardığını ve başını su ile sildiğini gördüğünü aktardı."
+    },
+    {
+      "id": 40,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Nafi'den, Abdullah ibn 'Umar'ın eşi Safiyya bint Abi Ubayd'in baş örtüsünü çıkardığını ve başını su ile sildiğini gördüğünü aktardı. Nafi o zaman bir çocuktu."
+    },
+    {
+      "id": 41,
+      "narrator": "",
+      "text": "Malik'e, abdest alıp başını silmeyi unutan bir adam hakkında soruldu. Su kuruduktan sonra, \"Başını silmeli ve eğer namaz kıldıysa onu tekrar etmelidir.\" dedi."
+    },
+    {
+      "id": 42,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Ibn Shihab'dan, Abbad ibn Ziyad'dan, al-Mughira ibn Shuba'nın babasından, al-Mughira ibn Shuba'nın, Allah'ın Elçisi'nin, Allah ona salat ve selam eylesin, Tabuk seferinde ihtiyacını gidermek için gittiğini aktardı. Mughira, \"Ben de onunla birlikte su götürdüm. Sonra Allah'ın Elçisi geri geldi ve ben ona suyu döktüm. Elleriyle yıkadı ve sonra giysisinin kollarından ellerini çıkarmaya çalıştı ama dar olduğu için başaramadı. Bu yüzden onları giysisinin altından çıkardı. Sonra kollarını yıkadı, başını sildi ve deriden çoraplarının üzerine mesh etti. Allah'ın Elçisi geri döndü ve Abdar Rahman ibn Awf, insanlara namaz kıldırıyordu ve onlarla bir rekatı tamamlamıştı. Allah'ın Elçisi, onlarla kalan rekatı kıldı ve herkesin endişesi oldu. Allah'ın Elçisi namazını bitirdiğinde, 'Doğru yaptınız.' dedi.\""
+    },
+    {
+      "id": 43,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Nafi ve Abdullah ibn Dinar'ın, Abdullah ibn Umar'ın Kufa'ya geldiğini ve o zaman Kufa'nın Amir'i olan Sad ibn Abi Waqqas'a gittiğini aktardı. Abdullah ibn Umar, onun deriden çoraplarının üzerine mesh ettiğini gördü ve bunu hoş karşılamadı. Sad ona, \"Geri döndüğünde babana sor.\" dedi. Abdullah geri döndü ama bu konuda Umar'a sormayı unuttu ta ki Sad gelip, \"Babanı sordun mu?\" dediğinde, \"Hayır.\" dedi."
+    },
+    {
+      "id": 44,
+      "narrator": "",
+      "text": "Abdullah daha sonra Umar'a sordu ve Umar, \"Eğer deriden çorapları giydiğinde ayakların abdestli ise, o zaman çorapların üzerine mesh edebilirsin.\" dedi. Abdullah, \"Peki, eğer yeni dışkıdan gelmişsek?\" dedi. Umar, \"Evet, yeni dışkıdan gelmiş olsan bile.\""
+    },
+    {
+      "id": 45,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abdullah ibn Umar'ın pazar yerinde idrarını yaptığını ve sonra abdest alarak yüzünü, ellerini yıkayıp başını sildiğini aktardı. Sonra camiye girdiği anda, bir ölü için namaz kılmaya çağrıldı, bu yüzden deriden çoraplarının üzerine mesh etti ve namaz kıldı."
+    },
+    {
+      "id": 46,
+      "narrator": "",
+      "text": "Yahya bana Malik'ten, Malik'in İbn Şihab'a deri çorapların üzerine nasıl meshetmesi gerektiğini sorduğunu aktardı. İbn Şihab bir elini çorabın altına, diğer elini ise çorabın üstüne koydu ve sonra bunları üzerinde geçirdi."
+    },
+    {
+      "id": 47,
+      "narrator": "",
+      "text": "Yahya, Malik'in \"Bu konuda duyduğum her şey arasında İbn Şihab'ın söylediklerini en çok beğeniyorum.\" dediğini söyledi."
+    },
+    {
+      "id": 48,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 49,
+      "narrator": "",
+      "text": "Yahya bana Malik'ten, Nafi'den aktardı ki Abdullah ibn Umar, burun kanaması olduğunda çıkıp abdest alır ve sonra geri dönüp namazını hiçbir şey söylemeden tamamlar."
+    },
+    {
+      "id": 50,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 51,
+      "narrator": "",
+      "text": "Yahya bana Malik'ten, Nafi'den aktardı ki Abdullah ibn Abbas burun kanamaları olurdu ve kanı temizlemek için çıkardı. Sonra geri dönüp namazını tamamlar."
+    },
+    {
+      "id": 52,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 53,
+      "narrator": "",
+      "text": "Yahya bana Malik'ten, Yazid ibn Abdullah Qusayt al-Laythi'den aktardı ki, o, Said ibn al-Musayyab'ın namaz kılarken burun kanaması geçirdiğini gördü. O, Peygamber'in eşi Umm Salama'nın odasına gitti ve ona su getirildi, abdest aldı. Sonra geri dönüp namazını tamamladı."
+    },
+    {
+      "id": 54,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 55,
+      "narrator": "",
+      "text": "Yahya bana Abd ar-Rahman ibn Harmala al-Aslami'nin, \"Said ibn al-Musayyab'ı burun kanamasıyla gördüm ve kanı öyle akıyordu ki parmakları burun kanından tamamen kırmızıydı ve o abdest almadan namaz kıldı.\" dediğini aktardı."
+    },
+    {
+      "id": 56,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 57,
+      "narrator": "",
+      "text": "Yahya bana Malik'ten, Abd ar-Rahman ibn al-Mujabbar'dan aktardı ki, o, Salim ibn Abdullah'ı burun kanı akarken gördü, parmakları tamamen kırmızıydı. Sonra onu sildi ve abdest almadan namaz kıldı."
+    },
+    {
+      "id": 58,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 59,
+      "narrator": "",
+      "text": "Yahya bana Hişam ibn Urwa'dan, babasından aktardı ki al-Miswar ibn Makhrama ona, Umar ibn al-Khattab'ı bıçaklandığı gece ziyaret ettiğini ve onu sabah namazı için uyandırdığını, Umar'ın \"Evet. Kim namazı terk ederse, İslam'dan hiçbir şey elde edemez.\" dediğini ve yarasından kan akarken namaz kıldığını söyledi."
+    },
+    {
+      "id": 60,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 61,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Nafi'den, Abdullah ibn Umar'ın şöyle dediğini rivayet etti: \"Eğer penisine dokunursan, abdest alman gerekir.\""
+    },
+    {
+      "id": 62,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Hişam ibn Urva'dan, babasının şöyle dediğini rivayet etti: \"Sizden biri penisine dokunursa, abdest alması gerekir.\""
+    },
+    {
+      "id": 63,
+      "narrator": "",
+      "text": "Yahya, Malik'ten İbn Şihab'dan, Salim ibn Abdullah'ın şöyle dediğini rivayet etti: \"Babam Abdullah ibn Umar'ı gusül alırken ve sonra abdest alırken gördüm. Ona dedim ki, 'Baba, gusül senin için yeterli değil mi?' O da dedi ki, 'Elbette, ama bazen penisime dokunuyorum, bu yüzden abdest alıyorum.'\""
+    },
+    {
+      "id": 64,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Nafi'den, Salim ibn Abdullah'ın şöyle dediğini rivayet etti: \"Abdullah ibn Umar ile bir yolculukta idim ve güneş doğduktan sonra onu abdest alırken ve sonra namaz kılarken gördüm. Ona dedim ki, 'Bu, normalde yaptığın bir namaz değil.' O da dedi ki, 'Sabah namazı için abdest aldıktan sonra, cinsel organıma dokundum. Sonra abdest almayı unuttum. Bu yüzden tekrar abdest aldım ve namazımı tekrar kıldım.'\""
+    },
+    {
+      "id": 65,
+      "narrator": "",
+      "text": "Yahya, Malik'ten İbn Şihab'dan, Salim ibn Abdullah'ın babası Abdullah ibn Umar'ın şöyle dediğini rivayet etti: \"Bir adamın karısını öpmesi ve elleriyle okşaması cinsel ilişki kapsamındadır. Karısını öpen veya elleriyle okşayan birinin abdest alması gerekir.\""
+    },
+    {
+      "id": 66,
+      "narrator": "",
+      "text": "Yahya, Malik'ten duyduğuna göre Abdullah ibn Mes'ud'un şöyle dediğini rivayet etti: \"Bir adam karısını öptüğünde abdest alması gereklidir.\""
+    },
+    {
+      "id": 67,
+      "narrator": "",
+      "text": "Yahya, Malik'ten duyduğuna göre İbn Şihab'ın şöyle dediğini rivayet etti: \"Bir adam karısını öptüğünde abdest alması gereklidir.\" Nafi, Malik'in \"Duyduğum şeyler arasında en çok hoşlandığım budur.\" dediğini söyledi."
+    },
+    {
+      "id": 68,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Hişam ibn Urva'dan, babasından A'işe, müminlerin annesi, şöyle dediğini rivayet etti: \"Allah'ın Resulü, Allah ona salat ve selam eylesin, büyük ritüel kirlenme için gusül aldığında, önce ellerini yıkar, sonra namaz için abdest alırdı. Sonra parmaklarını suya daldırır ve saç köklerini onlarla ovalardı. Ardından, başına iki elin tutabileceği kadar suyu üç kez döker ve cildinin her yerine suyu serperdi.\""
+    },
+    {
+      "id": 69,
+      "narrator": "",
+      "text": "Yahya, Malik'ten İbn Şihab'dan, Urva ibn az-Zubayr'dan A'işe, müminlerin annesi, şöyle dediğini rivayet etti: \"Allah'ın Resulü, Allah ona salat ve selam eylesin, büyük ritüel kirlenme için bir kapta gusül alırdı.\""
+    },
+    {
+      "id": 70,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Nafi'den, Abdullah ibn Umar'ın büyük ritüel kirlenme için gusül aldığında önce sağ eline su döküp yıkadığını, sonra sırayla cinsel organını yıkadığını, ağzını çalkaladığını, burnuna su çekip çıkardığını, yüzünü yıkadığını ve gözlerine su sıçrattığını, ardından sağ kolunu yıkayıp sol kolunu yıkadıktan sonra başını yıkadığını ve en son olarak da tüm vücuduna su dökerek gusülünü tamamladığını rivayet etti."
+    },
+    {
+      "id": 71,
+      "narrator": "",
+      "text": "Yahya, Malik'ten duyduğuna göre A'işe'ye bir kadının büyük ritüel kirlenme için nasıl gusül alması gerektiği sorulduğunda, \"Başına iki el ile su dökerek üç kez yıkamalı ve saç köklerini elleriyle ovalamalıdır.\" dediğini rivayet etti."
+    },
+    {
+      "id": 72,
+      "narrator": "",
+      "text": "Yahya, Malik'ten İbn Şihab'dan Said ibn al-Musayyab'dan, Ömer ibn al-Hattab, Osman ibn Affan ve Peygamberin eşi A'işe, Allah ona salat ve selam eylesin, şöyle dediklerini rivayet etti: \"Sünnetli kısım sünnetli kısma dokunduğunda, gusül farzdır.\""
+    },
+    {
+      "id": 73,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Abu'n Nadr, Ömer ibn Abdullah'ın kölesinden, Abu Salama ibn Abdar-Rahman ibn Avf'ın A'işe'ye, Peygamberin eşi, Allah ona salat ve selam eylesin, gusülün farz olmasının sebebini sorduğunu, A'işe'nin de \"Sen neye benziyorsun, Abu Salama? Sen, horozların öttüğünü duyduğunda onlarla öten bir civciv gibisin. Sünnetli kısım sünnetli kısıma geçtiğinde, gusül farzdır.\" dediğini rivayet etti."
+    },
+    {
+      "id": 74,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Yahya ibn Said'den Said ibn al-Musayyab'dan, Abu Musa el-Eş'ari'nin A'işe'ye, Peygamberin eşi, Allah ona salat ve selam eylesin, \"Seni rahatsız eden bir konuda arkadaşların arasında bir ihtilaf var.\" dediğini, A'işe'nin de \"Bu nedir? Annenle sormadın, o halde bana sor.\" dediğini, o da \"Bir adam karısını penetrasyona sokuyor ama boşalmıyor.\" dediğinde, A'işe'nin \"Sünnetli kısım sünnetli kısma geçtiğinde gusül farzdır.\" dediğini, Abu Musa'nın da \"Bundan sonra asla kimseye sormayacağım.\" dediğini rivayet etti."
+    },
+    {
+      "id": 75,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Yahya ibn Said'den Abdullah ibn Kab, Osman ibn Affan'ın kölesinden, Mahmud ibn Labid el-Ensari'nin Zayd ibn Sabit'e, karısını penetrasyona sokan ama boşalmayan bir adam hakkında sorduğunu, Zayd ibn Sabit'in de \"O gusül alır.\" dediğini, Mahmud'un da \"Ubayy ibn Kab gusülün gerekli olduğunu düşünmezdi.\" dediğini, ancak Zayd ibn Sabit'in \"Ubayy ibn Kab, öldüğünden önce bu konuda geri adım attı.\" dediğini rivayet etti."
+    },
+    {
+      "id": 76,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Nafi'den bana aktardı ki Abdullah ibn Umar şöyle derdi: \"Sünnetli kısım sünnetli kısmı geçtiğinde, gusül farzdır.\""
+    },
+    {
+      "id": 77,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Abdullah ibn Dinar'dan bana aktardı ki Abdullah ibn Umar, Umar ibn al-Khattab'ın Allah'ın Resulü'ne, Allah ona salat ve selam eylesin, bazen gece cünüp olduğunu söylediğini aktardı. Allah'ın Resulü ona, \"Abdest al ve cinsel organını yıka, sonra uyu.\" dedi."
+    },
+    {
+      "id": 78,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Hişam ibn Urva'dan babasından aktardı ki A'işe, Allah'ın Resulü'ne, Allah ona salat ve selam eylesin, \"Eğer eşinle cinsel ilişkiye girip gusül yapmadan uyumak istersen, abdest almadıkça uyuma.\" derdi."
+    },
+    {
+      "id": 79,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Nafi'den bana aktardı ki Abdullah ibn Umar, cünüp olduğunda uyumak veya yemek istediğinde yüzünü, dirseklerine kadar kollarını yıkar ve başını meshederdi. Sonra yemek yer veya uyurdu."
+    },
+    {
+      "id": 80,
+      "narrator": "",
+      "text": "Yahya, Malik'ten İsmail ibn Abi Hakim'den bana aktardı ki Ata ibn Yasar, Allah'ın Resulü'nün, Allah ona salat ve selam eylesin, bir namazda tekbir getirdiğini ve sonra onlara el işaretiyle yerlerinde kalmalarını söylediğini aktardı. Sonra gitti ve cildinde su izleriyle geri döndü."
+    },
+    {
+      "id": 81,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Hişam ibn Urwa'dan aktardı ki Zuyayd ibn as-Salt, \"Umar ibn al-Khattab ile Juruf'a gittim ve aşağı bakınca ıslak rüya gördüğünü fark etti ve gusül yapmadan namaz kıldığını haykırdı. 'Vallahi, ıslak rüya gördüğümü fark ettim ve bunu bilmiyordum, gusül de yapmadım.' dedi. Sonra gusül aldı ve gördüğü her şeyi elbisesinden yıkadı, göremediği şeylere de su serpti. Sonra ezan veya ikamet verdi ve sabah namazını kıldı.\""
+    },
+    {
+      "id": 82,
+      "narrator": "",
+      "text": "Yahya, Malik'ten İsmail ibn Abi Hakim'den Sulayman ibn Yasar'dan bana aktardı ki Umar ibn al-Khattab, sabah erken saatlerde al-Juruf'taki arazisine gitti ve elbisesinde meni buldu. 'İnsanlara hükmetmeye başladığımdan beri ıslak rüyalarla imtihan ediliyorum.' dedi. Gusül aldı ve gördüğü meni lekesini elbisesinden yıkadı, sonra güneş doğduktan sonra namaz kıldı."
+    },
+    {
+      "id": 83,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Yahya ibn Said'den Sulayman ibn Yasar'dan bana aktardı ki Umar ibn al-Khattab, sabah namazında insanlara imamlık yaptıktan sonra Juruf'taki arazisine gitti ve elbiselerinde meni buldu. 'Zengin et yediğimizden beri damarlarımız şişti.' dedi. Gusül aldı, elbiselerindeki meni lekesini yıkadı ve namazını tekrar kıldı."
+    },
+    {
+      "id": 84,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Hişam ibn Urwa'dan babasından, Yahya ibn Abd ar-Rahman ibn Haib'den aktardı ki, Umar ibn al-Khattab ile bir grup binerken Mumra'ya doğru yola çıktık. Aramızda Amr ibn al-As da vardı. Umar ibn al-Khattab, gece geç saatlerde bir yolda dinlenmek için indi. Neredeyse şafak vaktiydi ve binerken su yoktu. Su bulana kadar gitti ve gördüğü meni lekesini yıkamaya başladı. Amr ibn al-As ona, 'Sabah oldu ve yanımızda giysi var, elbisenin yıkanmasına izin ver.' dedi. Umar ibn al-Khattab ona, 'Sana şaşırıyorum, Amr ibn al-As! Eğer giysi bulsan bile, herkes bulabilir mi? Vallahi, eğer bunu yaparsam, bu bir sünnet olur. Hayır, gördüğümü yıkarım, göremediğime su serperim.' dedi."
+    },
+    {
+      "id": 85,
+      "narrator": "",
+      "text": "Yahya, Malik'ten İbn Şihab'dan Urwa ibn az-Zubayr'dan aktardı ki Umm Sulayman, Allah'ın Resulü'ne, Allah ona salat ve selam eylesin, \"Bir kadın, rüyasında bir adam gibi bir şey yaşarsa gusül yapmalı mı?\" dedi. Allah'ın Resulü ona, \"Evet, gusül yapmalıdır.\" dedi. A'işe ona, \"Yazıklar olsun sana! Bir kadın bunu görebilir mi?\" (yani bir sıvı.) dedi. Allah'ın Resulü, Allah ona salat ve selam eylesin, ona, \"Sağ elin toprak dolsun. Aile benzerliği nereden gelir?\" dedi."
+    },
+    {
+      "id": 86,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Hişam ibn Urwa'dan babasından Zaynab bint Abi Salama'dan aktardı ki Umm Salama, Allah'ın Resulü'ne, Allah ona salat ve selam eylesin, \"Umm Salama, Ebu Talha el-Ensari'nin eşi, Allah'ın Resulü'ne, Allah ona salat ve selam eylesin, 'Allah hak konusunda utanmaz - bir kadın erotik bir rüya gördüğünde gusül yapmalı mı?' dedi. O da, 'Evet, eğer herhangi bir sıvı görürse.' dedi.\""
+    },
+    {
+      "id": 87,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Nafi'den bana aktardı ki Abdullah ibn Umar, \"Kadınının kullandığı su ile gusül yapmanın bir zararı yoktur, yeter ki adetli veya cünüp olmasın.\" derdi."
+    },
+    {
+      "id": 88,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Nafi'den bana aktardı ki Abdullah ibn Umar, cünüpken bir elbisede terler ve sonra onunla namaz kılardı."
+    },
+    {
+      "id": 89,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Nafi'den bana aktardı ki Abdullah ibn Umar'ın cariyeleri, adetli oldukları zaman onun ayaklarını yıkar ve ona palmiye yapraklarından bir mat getirirlerdi."
+    },
+    {
+      "id": 90,
+      "narrator": "",
+      "text": "Malik'e, bir adamın kadınları ve cariyeleri varken gusül almadan hepsiyle cinsel ilişkiye girip giremeyeceği soruldu. O, \"Bir adamın gusül almadan iki cariyesiyle cinsel ilişkiye girmesinde bir sakınca yoktur. Ancak, başka birinin gününde bir hür kadınla gitmek hoş karşılanmaz. Cünüpken önce bir cariye ile sonra diğerine ilişkiye girmekte bir sakınca yoktur.\" dedi."
+    },
+    {
+      "id": 91,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Nafi'den, Abdullah ibn Umar'ın ve onun Juruf'a yaklaşmakta olduklarını bana aktardı. Mirbad'a vardıklarında, Abdullah indi ve güzel bir toprakla tayammum yaptı. Yüzünü ve dirseklerine kadar kollarını sildi, sonra namaz kıldı."
+    },
+    {
+      "id": 92,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Nafi'den, Abdullah ibn Umar'ın dirseklerine kadar tayammum yaptığını bana aktardı. Malik'e tayammumun nasıl yapıldığı ve hangi kısımların kaplandığı soruldu, o da, \"Yüz için bir kez yere vur, kollar için bir kez yere vur ve dirseklere kadar sil.\" dedi."
+    },
+    {
+      "id": 93,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Abd ar-Rahman ibn Harmala'dan, bir adamın Said ibn al-Musayyab'a, junub olan bir adam tayammum yaptıktan sonra su ile karşılaştığında ne yapması gerektiğini sorduğunu aktardı. Said, \"Su ile karşılaştığında, sonrasında gelen için ghusl yapmalıdır.\" dedi. Malik, bir yolculuk sırasında ıslak rüya gören ve sadece abdest almak için yeterli su bulunan birisi hakkında, susuz olduğu için onu kullanması gerekmediğini belirtti ve \"Cinsel organını yıkasın, meni düştüğü her yeri su ile yıkasın, sonra Allah'ın emrettiği gibi güzel bir toprakla tayammum yapsın.\" dedi. Malik'e junub olan bir adamın tayammum yapmak istediği ancak sadece tuzlu toprak bulabildiği ve tuzlu toprakta namaz kılmanın hoş karşılanıp karşılanmadığı soruldu. O da, \"Tuzlu toprakta namaz kılmakta veya tayammum yapmakta bir sakınca yoktur, çünkü Allah Teala, '...ve güzel bir toprakla tayammum edin.' demiştir. Her türlü toprakla tayammum ile temizlenilir, ister tuzlu olsun ister başka bir şey.\" dedi."
+    },
+    {
+      "id": 94,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Zayd ibn Aslam'dan, bir adamın Allah'ın Resulü'ne, Allah ona salat ve selam eylesin, \"Kadınımın adet döneminde benden neyi yapmam helaldir?\" diye sorduğunu aktardı. Allah'ın Resulü, Allah ona salat ve selam eylesin, \"Belini sarmalayıp sıkıca sar, sonra bunun üstü senin için helaldir.\" dedi."
+    },
+    {
+      "id": 95,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Rabia ibn Abi Abd ar-Rahman'dan, bir gün A'işe, Allah'ın Resulü'nün, Allah ona salat ve selam eylesin, yanında bir elbise ile yattığını, aniden sert bir şekilde kalktığını aktardı. Allah'ın Resulü, Allah ona salat ve selam eylesin, ona, \"Nedir bu halin? Kan mı kaybediyorsun?\" dedi, yani adet görüyor. O da, \"Evet.\" dedi. O da, \"Belini sıkıca sar ve uyku yerine dön.\" dedi."
+    },
+    {
+      "id": 96,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Nafi'den, Ubaydullah ibn Abdullah ibn Umar'ın A'işe'ye, \"Bir adam, kadını adetliyken okşayabilir mi?\" diye sorduğunu aktardı. O da, \"Belini alt kısmına sarıp sarmaladıktan sonra, eğer isterse onu okşayabilir.\" dedi."
+    },
+    {
+      "id": 97,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Salim ibn Abdullah ve Süleyman ibn Yasar'a, adetli bir kadının kocasıyla cinsel ilişkiye girmesinin caiz olup olmadığını sorduklarını aktardı. Onlar, \"Hayır, ancak ghusl yaptıktan sonra.\" dediler."
+    },
+    {
+      "id": 98,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Alqama ibn Abi Alqama'dan, annesinin, A'işe, umm al-muminin'in, \"Kadınlar, A'işe'ye, her birinde adet kanından sarı lekeler bulunan pamuklu bezler içeren küçük kutular gönderirlerdi, namaz hakkında ona sorarlardı. O da onlara, 'Beyaz bir akıntı görene kadar acele etmeyin.' derdi.\" dediğini aktardı. Burada, adet sonrası temizlik kastedilmektedir."
+    },
+    {
+      "id": 99,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Abdullah ibn Abi Bakr'dan, amcasından, Zayd ibn Thabit'in kızından, kadınların gece yarısı lambalar istemek suretiyle temizliklerini kontrol ettiklerini duyduğunu aktardı. O, onlara, \"Kadınlar bunu yapmazdı.\" diyerek eleştirirdi, yani sahabe döneminde. Malik'e, adet dönemi sona eren bir kadının su bulamadığında tayammum yapıp yapamayacağı soruldu. O da, \"Evet, çünkü o, su bulamayan büyük necâset içinde olan birine benzer, o da tayammum yapar.\" dedi."
+    },
+    {
+      "id": 100,
+      "narrator": "",
+      "text": "Yahya, Malik'ten A'işe, Allah'ın Resulü'nün, Allah ona salat ve selam eylesin, \"Hamile bir kadın kanama fark ettiğinde namazdan uzak durur.\" dediğini aktardı."
+    },
+    {
+      "id": 101,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, hamile bir kadının kanama fark ettiğinde ne yapması gerektiğini Ibn Shihab'a sorduğunu aktardı. Ibn Shihab, \"Namazdan uzak durur.\" diye cevap verdi. Yahya, Malik'in, \"Bu bizim topluluğumuzda yapılan şeydir.\" dediğini aktardı."
+    },
+    {
+      "id": 102,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Hişam ibn Urwa'dan, babasından, A'işe, Allah'ın Resulü'nün, Allah ona salat ve selam eylesin, \"Ben adetliyken Allah'ın Resulü'nün başını tarardım.\" dediğini aktardı."
+    },
+    {
+      "id": 103,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Hişam ibn Urwa'dan, babasından, Fatıma bint al-Mundhir ibn az-Zubayr'dan, Asma bint Abu Bakr as-Sıddık'ın, \"Bir kadın, Allah'ın Resulü'ne, Allah ona salat ve selam eylesin, 'Eğer adet kanı giysilerimize bulaşırsa, bununla nasıl başa çıkmalıyız?' diye sordu. Allah'ın Resulü, Allah ona salat ve selam eylesin, 'Eğer adet kanı giysilerinize bulaşırsa, onları yıkamalı ve namaz kılmadan önce su ile serpmelisiniz.' dedi.\" şeklinde aktardı."
+    },
+    {
+      "id": 104,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Hişam ibn Urwa'dan, babasından, A'işe, Allah'ın Resulü'nün, Allah ona salat ve selam eylesin, \"Fatıma bint Abu Hubaysh, 'Ey Allah'ın Resulü, ben asla temizlenmiyorum - namaz kılmamda bir sakınca var mı?' dedi. Allah'ın Resulü, Allah ona salat ve selam eylesin, 'Bu bir damardır, adet değildir. Adet dönemine girdiğinde namazı bırak, ve grip geçince kanı yıka ve namaz kıl.' dedi.\" şeklinde aktardı."
+    },
+    {
+      "id": 105,
+      "narrator": "",
+      "text": "Yahya, Malik'ten Nafi'den, Süleyman ibn Yasar'dan, Umm Salama, Allah'ın Resulü'nün, Allah ona salat ve selam eylesin, eşinden, \"Allah'ın Resulü döneminde bir kadın çok kanama yaşıyordu, bu yüzden Umm Salama, Allah'ın Resulü'ne, Allah ona salat ve selam eylesin, danıştı ve o da, 'Adet görmeden önceki ayda kaç gece ve gün adet gördüğünü hesap etsin, ve o kadar süre namazdan uzak dursun. Bunu tamamladıktan sonra ghusl yapsın, cinsel organını bir bezle bağlasın ve sonra namaz kılsın.' dedi.\" şeklinde aktardı."
+    },
+    {
+      "id": 106,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Hişam ibn Urva'dan, babasından, Zaynab bint Ebu Salama'dan, onun Abd ar-Rahman ibn Avf'ın eşi Zaynab bint Cahş'ı gördüğünü, onun adet görüyormuş gibi kanadığını, gusül alıp namaz kıldığını aktardı."
+    },
+    {
+      "id": 107,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Ebu Bekir ibn Abd ar-Rahman'ın kölesi Sumayy'den, el-Kaka ibn Hakim ve Zeyd ibn Aslam'ın onu Said ibn el-Musayyab'a gönderdiğini, adet görüyormuş gibi kanayan bir kadının nasıl gusül alması gerektiğini sorduğunu aktardı. Said, \"O, bir adet döneminin sonundan diğerinin sonuna kadar gusül alır, her namaz için abdest alır ve eğer kanaması artarsa, özel bölgelerini bağlamalıdır.\" dedi."
+    },
+    {
+      "id": 108,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Hişam ibn Urva'dan, babasının şöyle dediğini aktardı: \"Adet görüyormuş gibi kanayan bir kadın sadece bir gusül almalıdır, ardından her namaz için abdest alır.\""
+    },
+    {
+      "id": 109,
+      "narrator": "",
+      "text": "Yahya, Malik'in şöyle dediğini aktardı: \"Bizim görüşümüze göre, adet görüyormuş gibi kanayan bir kadın namaza başladığında, eşi onunla cinsel ilişkiye girebilir. Aynı şekilde, doğum yapmış bir kadın, kanaması normalde kadınları kısıtladığı en yüksek noktaya ulaştıktan sonra kan görürse, eşi onunla cinsel ilişkiye girebilir ve o, adet görüyormuş gibi kanayan bir kadınla aynı konumdadır.\""
+    },
+    {
+      "id": 110,
+      "narrator": "",
+      "text": "Yahya, Malik'in şöyle dediğini aktardı: \"Adet görüyormuş gibi kanayan bir kadınla ilgili görüşümüz, Hişam ibn Urva'nın babasından aktardığı hadise dayanmaktadır ve bu, bu konu hakkında duyduğum en çok tercih ettiğim şeydir.\""
+    },
+    {
+      "id": 111,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Hişam ibn Urva'dan, babasından, Peygamberimizin (sallallahu aleyhi ve sellem) eşi Aişe'nin şöyle dediğini aktardı: \"Bir bebek erkek, Allah'ın Resulüne (sallallahu aleyhi ve sellem) getirildi ve onun üzerine işedi. Allah'ın Resulü (sallallahu aleyhi ve sellem) su istedi ve onun üzerine su ile sürdü.\""
+    },
+    {
+      "id": 112,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, İbn Şihab'dan, Ubaydullah ibn Abdullah ibn Utba ibn Mes'ud'dan, Umm Qays ibn Mihsan'ın, henüz yemek yemeyen bir bebeğini Allah'ın Resulüne (sallallahu aleyhi ve sellem) getirdiğini, onun bebeği kollarına aldığını ve bebeğin elbisesinin üzerine işediğini, bunun üzerine Allah'ın Resulü (sallallahu aleyhi ve sellem) su istediğini ve üzerine serptiğini ama yıkamadığını aktardı."
+    },
+    {
+      "id": 113,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Yahya ibn Said'in şöyle dediğini aktardı: \"Bir bedevi camiye girdi ve işemek için özel bölgelerini açtı. İnsanlar ona bağırmaya başladılar ama Allah'ın Resulü (sallallahu aleyhi ve sellem) 'Bırakın onu.' dedi. Böylece onu bıraktılar ve o işedi. Sonra Allah'ın Resulü (sallallahu aleyhi ve sellem) bir kova su getirilmesini emretti ve su, o yere döküldü.\""
+    },
+    {
+      "id": 114,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abdullah ibn Dinar'ın şöyle dediğini aktardı: \"Abdullah ibn Ömer'i ayakta işerken gördüm.\""
+    },
+    {
+      "id": 115,
+      "narrator": "",
+      "text": "Yahya, Malik'e, idrar ve dışkıdan özel bölgelerin yıkanmasıyla ilgili herhangi bir hadisin gelip gelmediğini sordu ve o da, \"Geçmişte bazı insanların dışkıdan kendilerini yıkadıklarını duydum. Ben idrarımdan özel bölgelerimi yıkamayı tercih ederim.\" dedi."
+    }
+  ]
+}

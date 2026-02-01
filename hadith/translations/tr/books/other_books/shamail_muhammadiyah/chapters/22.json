@@ -1,0 +1,26 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 2,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Anas said:",
+      "text": "Anas dedi ki: \"Peygamber (Allah ona salat ve selam eylesin) hasta hissediyordu, bu yüzden Usama ibn Zaid'e dayanarak dışarı çıktı. Üzerinde gevşek bir şekilde atılmış kaba pamuklu bir örtü vardı, ardından onlara namaz kıldırdı.\""
+    },
+    {
+      "id": 2,
+      "narrator": "Al-Fadl ibn Abbas said:",
+      "text": "Al-Fadl ibn Abbas dedi ki: \"Ben, Allah’ın Resulü'nü (Allah ona salat ve selam eylesin) vefat ettiği hastalığında ziyaret ettim ve başında sarı bir bant vardı. Ona selam verdim, o da: 'Ey Fadl!' dedi. Ben de: 'İki kat hizmetindeyim, Ey Allah’ın Resulü!' dedim. O: 'Başımı bu bantla sıkıca sar!' dedi. Ben de öyle yaptım, sonra oturdu ve elini omzuma koydu. Sonra kalktı ve camiye girdi.\" (Bu rivayet daha uzun bir hikayenin parçasıdır.)"
+    }
+  ]
+}

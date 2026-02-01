@@ -1,0 +1,21 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 1,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "'A’isha said:",
+      "text": "Aişe dedi ki: \"On bir kadın bir araya geldi ve kocalarıyla ilgili hiçbir şeyi gizlememeye karar verdiler. .”"
+    }
+  ]
+}

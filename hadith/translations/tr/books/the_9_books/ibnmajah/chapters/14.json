@@ -1,0 +1,91 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 15,
+    "arabic": {
+      "title": "سنن ابن ماجه",
+      "author": "الإمام محمد بن يزيد ابن ماجه"
+    },
+    "english": {
+      "title": "Sunan Ibn Majah",
+      "author": "Imam Muhammad ibn Yazid Ibn Majah"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "It was narrated that Nu'man bin Bashir said that his father took him to the Prophet (ﷺ) and said:",
+      "text": "Nu'man bin Beşir'in babasından rivayet edildiğine göre, babası onu Peygamber (ﷺ)'e götürdü ve şöyle dedi: “Şahid ol ki, ben Nu'man'a şu kadar ve bu kadar malımdan verdim.” Peygamber (ﷺ) şöyle dedi: “Diğer çocuklarına da Nu'man'a verdiğin gibi bir şey verdin mi?” O da: “Hayır.” dedi. Peygamber (ﷺ) şöyle dedi: “O zaman benim dışımda biri buna şahitlik etsin.” Ve şöyle dedi: “Tüm çocuklarının sana eşit şekilde saygı göstermesini istemez misin?” O da: “Elbette.” dedi. Peygamber (ﷺ) şöyle dedi: “O zaman bunu yapma.”"
+    },
+    {
+      "id": 2,
+      "narrator": "It was narrated from Nu'man bin Bashir that:",
+      "text": "Nu'man bin Beşir'den rivayet edildiğine göre, babası ona bir köle hediye etti ve o da hediyenin şahitliği için Peygamber (ﷺ)'e gitti. Peygamber (ﷺ) şöyle dedi: “Tüm çocuklarına bir şey verdin mi?” O da: “Hayır.” dedi. Peygamber (ﷺ) şöyle dedi: “O zaman (hediyeni) geri al.”"
+    },
+    {
+      "id": 3,
+      "narrator": "It was narrated from Ibn 'Abbas and Ibn 'Umar, who attributed the Hadith to the Prophet (ﷺ) that he said:",
+      "text": "İbn Abbas ve İbn Ömer'den rivayet edildiğine göre, Hadis'i Peygamber (ﷺ)'e atfederek şöyle dedi: “Bir adamın hediye vermesi ve sonra geri alması caiz değildir, ancak bir babanın çocuğuna verdiği şey için.”"
+    },
+    {
+      "id": 4,
+      "narrator": "It was narrated from Amr bin Shu'aib, from his father, from, his Grandfather, that the Prophet (ﷺ) of Allah (SWT) said:",
+      "text": "Amr bin Şu'ayb'den, babasından, dedesinden rivayet edildiğine göre, Allah (SWT) Peygamberi (ﷺ) şöyle dedi: “Sizden hiç kimse hediyesini geri almasın, ancak bir baba (oğlundan) geri alabilir.”"
+    },
+    {
+      "id": 5,
+      "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:",
+      "text": "Ebu Hureyre'den rivayet edildiğine göre, Allah'ın Resulü (ﷺ) şöyle dedi: “Hayat boyu verilen bir hediye yoktur. Hayat boyu bir şey verilen kimse, o şey ona aittir.”"
+    },
+    {
+      "id": 6,
+      "narrator": "It was narrated that Jabir said:",
+      "text": "Cabir'den rivayet edildiğine göre, Allah'ın Resulü (ﷺ) şöyle dedi: “Kim bir adama hayat boyu bir hediye verirse, o hediye ona (alıcıya) ve mirasçılarına aittir. Verilenin (verenin) sözleri, onun üzerindeki hakkını sona erdirir ve o, hayat boyu verilen kişiye ve onun mirasçılarına aittir.”"
+    },
+    {
+      "id": 7,
+      "narrator": "It was narrated from Zaid bin Thabit that :",
+      "text": "Zeyd bin Sabit'ten rivayet edildiğine göre: Peygamber (ﷺ) hayat boyu verilen bir hediyenin, alıcının mirasçılarına ait olduğunu hükmetmiştir."
+    },
+    {
+      "id": 8,
+      "narrator": "It was narrated from Ibn 'Umar that the Messenger of Allah (ﷺ) said:",
+      "text": "İbn Ömer'den rivayet edildiğine göre, Allah'ın Resulü (ﷺ) şöyle dedi: “Ruqba yoktur. Ruqba esasına göre bir hediye alan kimse, ister yaşasın ister ölsün, o hediye ona aittir.”"
+    },
+    {
+      "id": 9,
+      "narrator": "It was narrated from Jabir bin 'Abdullah that the Messenger of Allah (ﷺ) said:",
+      "text": "Cabir bin Abdullah'dan rivayet edildiğine göre, Allah'ın Resulü (ﷺ) şöyle dedi: “Umra, verildiği kişiye aittir ve Ruqba, verildiği kişiye aittir.”"
+    },
+    {
+      "id": 10,
+      "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:",
+      "text": "Ebu Hureyre'den rivayet edildiğine göre, Allah'ın Resulü (ﷺ) şöyle dedi: “Hedisini geri alan kişinin durumu, doyana kadar yiyip kusan ve sonra kustuğuna geri dönen köpeğin durumuna benzer.”"
+    },
+    {
+      "id": 11,
+      "narrator": "It was narrated from Ibn 'Abbas that the Messenger of Allah (ﷺ) said:",
+      "text": "İbn Abbas'tan rivayet edildiğine göre, Allah'ın Resulü (ﷺ) şöyle dedi: “Hedisini geri alan kimse, kustuğuna geri dönen kimse gibidir.”"
+    },
+    {
+      "id": 12,
+      "narrator": "It was narrated from Ibn`Umar that the Prophet (ﷺ) said:",
+      "text": "İbn Ömer'den rivayet edildiğine göre, Peygamber (ﷺ) şöyle dedi: “Hedisini geri alan kimse, kustuğuna geri dönen köpek gibidir.”"
+    },
+    {
+      "id": 13,
+      "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:",
+      "text": "Ebu Hureyre'den rivayet edildiğine göre, Allah'ın Resulü (ﷺ) şöyle dedi: “Bir adam, hediyesini geri almadığı sürece, hediyesine daha çok hak sahibidir.”"
+    },
+    {
+      "id": 14,
+      "narrator": "It was narrated from 'Amr  bin Shu'aib, from his father that he delivered:",
+      "text": "Amr bin Şu'ayb'den, babasından rivayet edildiğine göre, şöyle dedi: “Bir kadının, kocası onu evlendirdikten sonra, kocasının izni olmadan malını tasfiye etmesi caiz değildir.”"
+    },
+    {
+      "id": 15,
+      "narrator": "It was narrated from 'Abdullah bin Yahya, one of the sons of Ka'b bin Malik, from his grandfather, that :",
+      "text": "Abdullah bin Yahya'dan, Ka'b bin Malik'in oğullarından biri, dedesinden rivayet ettiğine göre: Büyükannesi Khairah, Ka'b bin Malik'in eşi, Allah'ın Resulü (ﷺ)'e kendi mücevherleriyle geldi ve “Bunu sadaka olarak veriyorum.” dedi. Allah'ın Resulü (ﷺ) ona şöyle dedi: “Bir kadının, kocasının izni olmadan malını tasfiye etmesi caiz değildir. Ka'b'ın iznini aldın mı?” O da: “Evet.” dedi. Bunun üzerine Allah'ın Resulü (ﷺ) Ka'b bin Malik'i çağırdı ve “Khairah'a mücevherlerini sadaka vermesi için izin verdin mi?” diye sordu. O da: “Evet.” dedi. Bunun üzerine Allah'ın Resulü (ﷺ) onu kabul etti."
+    }
+  ]
+}

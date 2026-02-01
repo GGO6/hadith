@@ -1,0 +1,651 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 127,
+    "arabic": {
+      "title": "صحيح مسلم",
+      "author": "الإمام مسلم بن الحجاج"
+    },
+    "english": {
+      "title": "Sahih Muslim",
+      "author": "Imam Muslim ibn al-Hajjaj"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying that Allah, the Exalted and Glorious, thus stated:",
+      "text": "Abu Huraira, Allah'ın Elçisi (ﷺ) şöyle buyurduğunu rivayet etmiştir: \"Allah, yüce ve azizdir, şöyle demiştir: Ben, kullarımın benimle ilgili düşündüğü düşüncelere yakınım ve beni hatırladığında onunla beraberim. Eğer o, kalbinde beni hatırlarsa, ben de onu kalbimde hatırlarım; eğer o, toplulukta beni hatırlarsa, ben de onu toplulukta, onun hatırlamasından daha iyi bir şekilde hatırlarım. Eğer o, bana bir avuç mesafede yaklaşırsa, ben ona bir arşın mesafede yaklaşırım; eğer o, bana bir arşın mesafede yaklaşırsa, ben ona iki elin kapladığı mesafede yaklaşırım. Eğer o, bana yürüyerek gelirse, ben ona koşarak giderim.\""
+    },
+    {
+      "id": 2,
+      "narrator": "This hadith has been narrated on the authority of A'mash with the same chain of transmitters, but there is no mention of these words:",
+      "text": "Bu hadisi A'mash'tan aynı nakil zinciriyle rivayet edilmiştir, ancak şu sözler geçmemektedir: \"O, bana bir el mesafesinde yaklaşır, ben ona iki elin kapladığı mesafede yaklaşırım.\""
+    },
+    {
+      "id": 3,
+      "narrator": "Hammam b. Munabbih reported so many ahadith from Abu Huraira and one out of them is this that Allah's Messenger (ﷺ) said that Allah thus stated:",
+      "text": "Hammam b. Munabbih, Abu Huraira'dan birçok hadis rivayet etmiştir ve bunlardan biri şudur: Allah'ın Elçisi (ﷺ) şöyle buyurdu: \"Kulum, bana bir avuç mesafede yaklaştığında, ben ona bir arşın mesafede yaklaşırım; eğer o, bana bir arşın mesafede yaklaşırsa, ben ona iki elin kapladığı mesafede yaklaşırım; eğer o, bana iki elin kapladığı mesafede yaklaşırsa, ben ona koşarak giderim.\""
+    },
+    {
+      "id": 4,
+      "narrator": "Abu Huraira reported that Allah's Messenger (ﷺ) was travelling along the path leading to Mecca that he happened to pass by a mountain called Jumdan. He said:",
+      "text": "Abu Huraira, Allah'ın Elçisi (ﷺ) Mekke'ye giden yolda giderken, Jumdan adında bir dağın yanından geçtiğini bildirmiştir. O şöyle dedi: \"İlerleyin, burası Jumdan, Mufarradun öne geçti.\" Ashab-ı Kiram: \"Allah'ın Elçisi, Mufarradun kimlerdir?\" dediler. O da: \"Onlar, Allah'ı çokça hatırlayan erkekler ve kadınlardır.\" dedi."
+    },
+    {
+      "id": 5,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Abu Huraira, Allah'ın Elçisi (ﷺ) şöyle buyurduğunu rivayet etmiştir: \"Allah'ın doksan dokuz ismi vardır; bunları ezberleyen cennete girecektir. Şüphesiz ki, Allah tektir (bir) ve tek sayıları sever.\" İbn 'Umar'ın rivayetinde ise: \"Onları sayan.\" şeklindedir."
+    },
+    {
+      "id": 6,
+      "narrator": "Abu Huraira reported Allah's Apostle (ﷺ) as saying:",
+      "text": "Abu Huraira, Allah'ın Elçisi (ﷺ) şöyle buyurduğunu rivayet etmiştir: \"Şüphesiz ki, Allah'ın doksan dokuz ismi vardır, yani yüzden bir eksik. Bunları sayan cennete girecektir.\" Hammam, Abu Huraira'dan, o da Allah'ın Elçisi (ﷺ) üzerinden şöyle bir ekleme yapmıştır: \"O tektir (bir) ve tek sayıları sever.\""
+    },
+    {
+      "id": 7,
+      "narrator": "Anas reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Anas, Allah'ın Elçisi (ﷺ) şöyle buyurduğunu rivayet etmiştir: \"Sizden biri dua ettiğinde, gönülden dua etmelidir ve 'Eğer istersen, Allah'ım, bana ver' dememelidir; çünkü Allah'ı zorlayacak kimse yoktur.\""
+    },
+    {
+      "id": 8,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Abu Huraira, Allah'ın Elçisi (ﷺ) şöyle buyurduğunu rivayet etmiştir: \"Sizden biri Rabbine dua ettiğinde, 'Eğer istersen, Allah'ım, bana afiyet ver' dememelidir; aksine, Rabbinden gönülden ve tam bir bağlılıkla istemelidir; çünkü Allah'ın gözünde veremeyeceği hiçbir şey yoktur.\""
+    },
+    {
+      "id": 9,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Abu Huraira, Allah'ın Elçisi (ﷺ) şöyle buyurduğunu rivayet etmiştir: \"Sizden hiç kimse Allah'a şöyle dememelidir: 'Eğer istersen, Allah'ım, bana merhamet et.' Duası, Rabbinden kabul edileceğine dair bir inançla dolu olmalıdır; çünkü Allah, yapmak istediği her şeyi yapandır ve O'nu zorlayacak kimse yoktur.\""
+    },
+    {
+      "id": 10,
+      "narrator": "Anas (b. Malik) reported Allah's Messenger (ﷺ) as saying. None of you should make a request for death because of the trouble in which he is involved, but if there is no other help to it, then say:",
+      "text": "Anas (b. Malik), Allah'ın Elçisi (ﷺ) şöyle buyurduğunu rivayet etmiştir: \"Sizden hiç kimse içinde bulunduğu sıkıntıdan dolayı ölüm talep etmemelidir; ancak başka bir çare yoksa, 'Allah'ım, eğer hayatımda benim için hayır varsa, beni yaşat; eğer ölümde benim için hayır varsa, bana ölümü getir.' demelidir.\""
+    },
+    {
+      "id": 11,
+      "narrator": "",
+      "text": "Bu hadis, Anas'tan başka bir nakil zinciriyle rivayet edilmiştir, ancak kelimelerde küçük bir farklılık vardır."
+    },
+    {
+      "id": 12,
+      "narrator": "Nadr b. Anas reported, as when Anas was alive, that he said:",
+      "text": "Nadr b. Anas, Anas hayattayken şöyle dediğini rivayet etmiştir: \"Eğer Allah'ın Elçisi (ﷺ) 'Hiç kimse ölüm talep etmemelidir.' demeseydi, ben kesinlikle bunu yapardım.\""
+    },
+    {
+      "id": 13,
+      "narrator": "Abu Hazim reported:",
+      "text": "Abu Hazim, Khabbab'ı ziyaret ettiğini ve onun karnında yedi kan terleme olduğunu söylediğini rivayet etmiştir: \"Eğer Allah'ın Elçisi (ﷺ) bize ölümü talep etmeyi yasaklamasaydı, ben bunu yapardım.\""
+    },
+    {
+      "id": 14,
+      "narrator": "",
+      "text": "Bu hadis, İsmail üzerinden başka nakil zincirleriyle aktarılmıştır."
+    },
+    {
+      "id": 15,
+      "narrator": "Hammam b. Munabbih said:",
+      "text": "Hammam b. Munabbih şöyle dedi: \"Abu Huraira, Allah'ın Elçisi (ﷺ) üzerinden bize hadisler aktardı ve bunlardan biri şudur: 'Sizden hiç kimse ölüm talep etmemelidir ve o gelmeden önce onu istememelidir; çünkü sizden biri öldüğünde, iyi ameller yapmayı bırakır ve bir müminin hayatı, sadece hayır için uzatılır.'\""
+    },
+    {
+      "id": 16,
+      "narrator": "Ubida b. Samit reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Ubida b. Samit, Allah'ın Elçisi (ﷺ) şöyle dediğini bildirdi: \"Allah'la buluşmayı seven, Allah da onunla buluşmayı sever; Allah'la buluşmayı istemeyen ise, Allah da onunla buluşmayı sevmez.\""
+    },
+    {
+      "id": 17,
+      "narrator": "",
+      "text": "Bu hadisin 'Ubada b. Samit aracılığıyla başka bir rivayet zincirinden nakledildiği bildirilmiştir."
+    },
+    {
+      "id": 18,
+      "narrator": "A'isha reported that Allah's Messenger (ﷺ) said:",
+      "text": "A'işe, Allah'ın Elçisi (ﷺ) şöyle dediğini bildirdi: \"Allah'la buluşmayı seven, Allah da onunla buluşmayı sever; Allah'la buluşmayı istemeyen ise, Allah da onunla buluşmayı sevmez.\" Ben (A'işe) dedim ki: \"Allah'ın Elçisi, ölümle ilgili duyduğumuz tiksinti hissi açısından hepimiz bu hissi taşıyoruz.\" Bunun üzerine o (Peygamber) dedi ki: \"Bu (senin anladığın gibi) değil, fakat (şudur ki) bir mümin (ölüm anında) Allah'ın rahmetinin, rızasının ve cennetin müjdesini aldığında, Allah'la buluşmayı sever; Allah da onunla buluşmayı sever. Bir kafir ise, Allah'ın azabının ve O'nun tarafından gelecek sıkıntının haberini aldığında, Allah'la buluşmayı istemez; Allah da onunla buluşmayı sevmez.\""
+    },
+    {
+      "id": 19,
+      "narrator": "",
+      "text": "Bu hadis, Qatida aracılığıyla aynı rivayet zincirinden bildirilmiştir."
+    },
+    {
+      "id": 20,
+      "narrator": "'A'isha reported Allah's Messenger (ﷺ) as saying:",
+      "text": "A'işe, Allah'ın Elçisi (ﷺ) şöyle dediğini bildirdi: \"Allah'la buluşmayı seven, Allah da onunla buluşmayı sever; Allah'la buluşmayı istemeyen ise, Allah da onunla buluşmayı sevmez. Allah'la buluşmadan önce ölüm vardır.\""
+    },
+    {
+      "id": 21,
+      "narrator": "",
+      "text": "A'işe aracılığıyla bu gibi bir hadis başka bir rivayet zincirinden nakledilmiştir."
+    },
+    {
+      "id": 22,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Ebu Hureyre, Allah'ın Elçisi (ﷺ) şöyle dediğini bildirdi: \"Allah'la buluşmayı seven, Allah da onunla buluşmayı sever; Allah'la buluşmayı istemeyen ise, Allah da onunla buluşmayı sevmez.\" Ben (Şuraih b. Hani, bir rivayetçi) A'işe'ye geldim ve ona dedim: \"İman edenlerin annesi, Ebu Hureyre'nin Allah'ın Elçisi (ﷺ) tarafından naklettiğini duyduğum bir şey var ki, eğer gerçekten öyleyse, bu bizim için bir yıkımdır.\" Bunun üzerine o şöyle dedi: \"Gerçekten de yıkıma uğrayanlar, Allah'ın Elçisi (ﷺ) sözleriyle yıkıma uğrayanlardır. Senin görüşüne göre yıkımına sebep olacak sözler nelerdir?\" O, Allah'ın Elçisi (ﷺ) şöyle demiştir: \"Allah'la buluşmayı seven, Allah da onunla buluşmayı sever; Allah'la buluşmayı istemeyen ise, Allah da onunla buluşmayı sevmez.\" Ve içimizde ölümden nefret etmeyen yoktur. Bunun üzerine o şöyle dedi: \"Gerçekten de Allah'ın Elçisi (ﷺ) bunu belirtmiştir, ama senin anladığın gibi değildir; bu, gözün ışıltısını kaybettiği, boğazda hırıltı, bedende titreme ve parmaklarda kasılma olduğu zamandır (ölüm anında). (Bu zamanla ilgili olarak) denmiştir ki: 'Allah'la buluşmayı seven, Allah da onunla buluşmayı sever; Allah'la buluşmayı istemeyen ise, Allah da onunla buluşmayı sevmez.'\""
+    },
+    {
+      "id": 23,
+      "narrator": "",
+      "text": "Bu hadis, Mutarrif aracılığıyla aynı rivayet zincirinden bildirilmiştir."
+    },
+    {
+      "id": 24,
+      "narrator": "Abu Musa reported Allah's Apostle (ﷺ) as saying:",
+      "text": "Ebu Musa, Allah'ın Elçisi (ﷺ) şöyle dediğini bildirdi: \"Allah'la buluşmayı seven, Allah da onunla buluşmayı sever; Allah'la buluşmayı istemeyen ise, Allah da onunla buluşmayı sevmez.\""
+    },
+    {
+      "id": 25,
+      "narrator": "Abu Huraira reported Allah's Messenger (may peace be upon him as saying that Allah thus stated:",
+      "text": "Ebu Hureyre, Allah'ın Elçisi (ﷺ) şöyle dediğini bildirdi: \"Allah, şöyle buyurdu: 'Kulum, beni düşündüğü gibi ben de onu düşünürüm ve beni çağırdığı gibi ben de onunla beraberim.'\""
+    },
+    {
+      "id": 26,
+      "narrator": "Abu Huraira reported Allah's Apostle (ﷺ) as saying that Allah, the Exalted and Glorious, said:",
+      "text": "Ebu Hureyre, Allah'ın Elçisi (ﷺ) şöyle dediğini bildirdi: \"Allah, yüce ve azizdir, şöyle buyurdu: 'Kulum, bana bir avuç mesafe yaklaştığında, ben ona bir arşın mesafe yaklaşırım; eğer o bana bir arşın mesafe yaklaşırsa, ben ona iki kol mesafesi kadar yaklaşırım; eğer o bana yürüyerek gelirse, ben ona koşarak giderim.'\""
+    },
+    {
+      "id": 27,
+      "narrator": "",
+      "text": "Bu hadis, Mu'tamar'dan babası aracılığıyla aynı rivayet zincirinden, kelime değişikliği ile nakledilmiştir."
+    },
+    {
+      "id": 28,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying that Allah, the Exalted and Glorious, thus stated:",
+      "text": "Ebu Hureyre, Allah'ın Elçisi (ﷺ) şöyle dediğini bildirdi: \"Allah, yüce ve azizdir, şöyle buyurdu: 'Kulum, beni düşündüğü gibi ben de onu düşünürüm; beni hatırladığı gibi ben de onunla beraberim. Eğer o beni kalbinde hatırlarsa, ben de onu kalbimde hatırlarım; eğer o beni toplulukta hatırlarsa, ben de onu toplulukta, ondan daha iyi hatırlarım. Eğer o bana bir avuç mesafe yaklaşırsa, ben ona bir arşın mesafe yaklaşırım; eğer o bana bir arşın mesafe yaklaşırsa, ben ona iki el mesafesi kadar yaklaşırım. Eğer o bana yürüyerek gelirse, ben ona koşarak giderim.'\""
+    },
+    {
+      "id": 29,
+      "narrator": "Abu Dharr reported Allah's Messenger (ﷺ) as saying that Allah, the Exalted and Glorious, stated:",
+      "text": "Ebu Dharr, Allah'ın Elçisi (ﷺ) şöyle dediğini bildirdi: \"Allah, yüce ve azizdir, şöyle buyurdu: 'İyilikle gelen, onun için on katı ve daha fazlası vardır; kötülükle gelen ise, yalnızca bununla hesaba çekilir. Ben onu (istediğim gibi) affederim; eğer o bana bir avuç mesafe yaklaşırsa, ben ona bir arşın mesafe yaklaşırım; eğer o bana bir arşın mesafe yaklaşırsa, ben ona iki el mesafesi kadar yaklaşırım; eğer o bana yürüyerek gelirse, ben ona koşarak giderim; eğer o, günahları yeryüzünü dolduracak şekilde benimle buluşursa, ama benimle hiçbir şeyi ortak koşmadan, ben onu affetmekle karşılarım (benim katımda böyle bir affedicilikle).' Bu hadis, Vaki' aracılığıyla nakledilmiştir.\""
+    },
+    {
+      "id": 30,
+      "narrator": "A hadith like this has been transmitted on the authority of A'mash with the same chain of transmitters and he (further) said:",
+      "text": "Bu gibi bir hadis, A'mash aracılığıyla aynı rivayet zincirinden nakledilmiştir ve o (daha sonra) şöyle dedi: \"Onun için, yaptığı iyilik kadar veya daha fazla vardır.\""
+    },
+    {
+      "id": 31,
+      "narrator": "Anas reported that Allah's Messenger (ﷺ) visited a person from amongst the Muslims in order to inquire (about his health) who had grown feeble like the chicken. Allah's Messenger (ﷺ) said:",
+      "text": "Anas, Allah'ın Elçisi (ﷺ) bir Müslümandan birini ziyaret etti ve onun sağlığı hakkında bilgi almak istedi. O kişi tavuk gibi zayıflamıştı. Allah'ın Elçisi (ﷺ) dedi ki: \"Bir şey için dua ettin mi yoksa O'ndan bununla ilgili bir şey mi istedin?\" O da: \"Evet. Ben bu sözleri söylerdim: 'Beni bu dünyada, ahirette üzerime gelecek olan azabı daha önce tatbik et.'\" Bunun üzerine Allah'ın Elçisi (ﷺ) dedi: \"Allah'ı tenzih ederim, senin O'nun azabını yüklenmeye ne gücün ne de sabrın var. Neden şöyle demedin: 'Ey Allah, bize dünyada hayır, ahirette hayır ver ve bizi ateşin azabından koru.' O (Peygamber) onun için bu duayı yaptı ve o iyileşti."
+    },
+    {
+      "id": 32,
+      "narrator": "",
+      "text": "Bu hadis Humaid'in rivayetiyle aynı isnat zinciri üzerinden, ancak kelime farklılığı ile nakledilmiştir."
+    },
+    {
+      "id": 33,
+      "narrator": "Anas reported that Allah's Messenger (ﷺ) visited a person from amongst his Companions who had grown as feeble as the chicken. The rest of the hadith is the same, but with this variation that he (the Holy Prophet) said:",
+      "text": "Anas, Allah'ın Elçisi (ﷺ) bir arkadaşını ziyaret etti ve o kişi tavuk gibi zayıflamıştı. Hadisin geri kalanı aynıdır, ancak burada (Peygamber) şöyle demiştir: \"Senin Allah tarafından verilen azabı çekmeye gücün yok.\" Ve: \"O, onun için dua etti ve O onu iyileştirdi\" ifadesi geçmemektedir."
+    },
+    {
+      "id": 34,
+      "narrator": "",
+      "text": "Bu hadis Anas'tan başka bir rivayet zinciriyle aktarılmıştır."
+    },
+    {
+      "id": 35,
+      "narrator": "Abu Huraira reported Allah's Apostle (ﷺ) as saying Allah has mobile (squads) of angels, who have no other work (to attend to but) to follow the assemblies of Dhikr and when they find such assemblies in which there is Dhikr (of Allah) they sit in them and some of them surround the others with their wings till the space between them and the sky of the world is fully covered, and when they disperse (after the assembly of Dhikr is adjourned) they go upward to the heaven and Allah, the Exalted and Glorious, asks them although He is best informed about them:",
+      "text": "Ebu Hureyre, Allah'ın Elçisi (ﷺ) şöyle buyurdu: \"Allah'ın, zikr meclislerini takip eden, başka bir işte bulunmayan, hareket eden (melek) takımları vardır. Zikr meclislerinde Allah'ı zikredenleri bulduklarında, onlarla birlikte otururlar ve bazıları diğerlerini kanatlarıyla kuşatır, ta ki aralarındaki mesafe gökyüzü ile tamamen kaplanana kadar. Zikr meclisi dağıldığında, yukarı doğru yükselirler ve Allah, yüce ve şanlıdır, onlara sorar, oysa O, onların hakkında en iyi bilgiye sahiptir: 'Nereden geldiniz?' der. Onlar: 'Biz, yeryüzündeki kullarından geldik, O'nu tesbih ediyorlardı (Subhan Allah diyerek), O'nun büyüklüğünü ifade ediyorlardı (Allah-u Ekber diyerek) ve O'na birliğini (La ilaha illallah diyerek) ifade ediyor ve O'na hamd ediyorlardı (Elhamdulillah diyerek) ve O'ndan dilekte bulunuyorlardı.' derler. Allah: 'Benden ne istiyorlar?' der. Onlar: 'Cennetinizi istiyorlar.' derler. O (Allah): 'Cennetimi gördüler mi?' der. Onlar: 'Hayır, Rabbimiz.' derler. O: 'Eğer benim cennetimi görselerdi, ne olurdu?' der. Onlar: 'Sana sığınırlar.' der. O: 'Neden benim korumamdan sığınıyorlar?' der. Onlar: 'Rabbimiz, cehennem ateşinden.' derler. O: 'Ateşimi gördüler mi?' der. Onlar: 'Hayır.' derler. O: 'Eğer benim ateşimi görselerdi, ne olurdu?' der. Onlar: 'Senden af diliyorlar.' der. O: 'Onlara af dilerim, istediklerini onlara veririm ve sığındıkları şeyden onları korurum.' der. Onlar tekrar derler: 'Rabbimiz, aralarında şöyle bir basit kul var ki, o (o meclisten) geçerken onlarla birlikte oturdu.' O (Allah): 'Ben ona da af dilerim, çünkü onlar, oturdukları yerlerde hiç de talihsiz bir topluluk değildirler.'\""
+    },
+    {
+      "id": 36,
+      "narrator": "Qatada asked Anas which Supplication Allah's Apostle (ﷺ) frequently made. He said:",
+      "text": "Katade, Anas'a Allah'ın Elçisi (ﷺ) hangi duayı sıkça yaptığını sordu. O da: \"O'nun çok sık yaptığı dua şudur: 'Ey Allah, bize dünyada hayır, ahirette hayır ver ve bizi cehennem azabından koru.' dedi. Katade, Anas dua etmek istediğinde bu duayı yaptığını ve başka bir dua yapmayı düşündüğünde bu duayı o duaya eklediğini söyledi."
+    },
+    {
+      "id": 37,
+      "narrator": "Anas reported that Allah's Messenger (ﷺ) used to supplicate (in these words):",
+      "text": "Anas, Allah'ın Elçisi (ﷺ) bu sözlerle dua ettiğini bildirdi: \"Rabbimiz, bize dünyada hayır, ahirette hayır ver ve bizi cehennem ateşinin azabından koru.\""
+    },
+    {
+      "id": 38,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Ebu Hureyre, Allah'ın Elçisi (ﷺ) şöyle buyurdu: \"Bu sözleri her gün yüz defa söyleyen kimseye, on köle azat etme sevabı verilir, ona yüz sevap yazılır, yüz günahı silinir ve bu, o gün akşama kadar şeytandan korunma sağlar. Bunun dışında daha fazlasını getiren kimse yoktur, ancak bu sözleri yüz defadan fazla söyleyen veya daha fazla hayır işleyen birisi hariç.\" Ve: \"Allah'ı tenzih ederim, hamd O'na aittir.\" sözlerini günde yüz defa söyleyenin günahları, okyanusun köpüğü kadar bile olsa silinir."
+    },
+    {
+      "id": 39,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Ebu Hureyre, Allah'ın Elçisi (ﷺ) şöyle buyurdu: \"Sabah ve akşam bu sözleri yüz defa okuyan kimse, Kıyamet Günü bunun dışında daha iyi bir şey getiremez, ancak bu sözleri söyleyen veya bunlardan daha fazla söyleyen biri hariç.\""
+    },
+    {
+      "id": 40,
+      "narrator": "'Amr b. Maimun reported:",
+      "text": "Amr b. Maimun bildirdi: \"Bu sözleri on defa söyleyen kimse, İsmail'in soyundan dört köle azat eden kimse gibidir.\" Rabi' b. Khuthaim bu konuda benzer bir hadis rivayet etti. Şa'bi, Rabi'ye: \"Bunu kiminle duydun?\" dedi. O: \"Amr b. Maimun'dan.\" dedi. Ben Amr b. Maimun'a geldim ve ona: \"Bu hadisi kiminle duydun?\" dedim. O: \"İbn Ebi Leyla'dan.\" dedi. Ben İbn Ebi Leyla'ya geldim ve ona: \"Bu hadisi kiminle duydun?\" dedim. O: \"Ebu Eyyub el-Ensari'den, o da Allah'ın Elçisi (ﷺ) den rivayet etti.\" dedi."
+    },
+    {
+      "id": 41,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Ebu Hureyre, Allah'ın Elçisi (ﷺ) şöyle buyurdu: \"Dili hafif ama tartıda ağır olan iki söz vardır, merhamet edene sevgili: 'Allah'ı tenzih ederim ve hamd O'na aittir'; 'Allah, büyüktür.'\""
+    },
+    {
+      "id": 42,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Ebu Hureyre, Allah'ın Elçisi (ﷺ) şöyle buyurdu: \"Bu sözlerin söylenmesi: 'Allah'ı tenzih ederim; hamd Allah'a aittir; Allah'tan başka ilah yoktur ve Allah en büyüktür,' benim için güneşin doğduğu her şeyden daha sevimlidir.\""
+    },
+    {
+      "id": 43,
+      "narrator": "Mu'sab b. Sa'd reported on the authority of his father that a desert Arab came to Allah's Messenger (ﷺ) and said to him:",
+      "text": "Mu'sab b. Sa'd, babasından, bir bedevinin Allah'ın Elçisi (ﷺ) yanına gelerek: \"Bana sıkça söylemem gereken sözleri öğret.\" dediğini bildirdi. O da: \"De ki: 'Allah'tan başka ilah yoktur, O tektir, O'nun ortağı yoktur. Allah, en büyük olanıdır ve hamd O'na aittir. Allah, alemlerin Rabbi'dir, güç ve kuvvet yalnızca Allah'a aittir, O, her şeye gücü yetendir ve hikmet sahibidir.'\" dedi. O (bedevi): \"Bunlar hepsi Rabbimi tesbih ediyor. Ama benim için ne var?\" Bunun üzerine o (Peygamber) dedi: \"Şöyle demelisin: 'Ey Allah, beni affet, bana merhamet et, beni doğru yola ilet ve bana rızık ver.'\" Musa (rivayet edenlerden biri) dedi: \"Sanırım o, 'Bana güvenlik ver.' de dedi. Ama bu sözleri kesin olarak söylediğini söyleyemem. İbn Ebi Şeybe, Musa'nın sözlerini rivayetinde zikretmemiştir.\""
+    },
+    {
+      "id": 44,
+      "narrator": "Abu Malik Ashaja'i reported on the authority of his father that whenever a person embraced Islam, Allah's Messenger (ﷺ) instructed him to recilte:",
+      "text": "Ebu Malik el-Eşca'i, babasından, bir kişi İslam'a girdiğinde, Allah'ın Elçisi (ﷺ) ona: \"Ey Allah, beni affet, bana merhamet et, beni doğru yola ilet ve bana rızık ver.\" demesini emrettiğini bildirdi."
+    },
+    {
+      "id": 45,
+      "narrator": "Abu Malik reported on the authority of his father that when a person embraced Islam, Allah's Messenger (ﷺ) used to teach him how to observe prayer and then commanded him to supplicate in these words:",
+      "text": "Ebu Malik, babasından, bir kişi İslam'a girdiğinde, Allah'ın Elçisi (ﷺ) ona nasıl namaz kılacağını öğretti ve sonra ona şu sözlerle dua etmesini emretti: \"Ey Allah, beni affet, bana merhamet et, beni doğru yola ilet, beni koru ve bana rızık ver.\""
+    },
+    {
+      "id": 46,
+      "narrator": "Abu Malik reported on the authority Of his father that he heard Allah's Messenger (ﷺ) as saying to the person who bad come to him and asked him as to how he should beg his Lord, that he should utter these words:",
+      "text": "Ebu Malik, babasından, Allah'ın Elçisi'nin (ﷺ) kendisine gelen bir kişiye, Rabbinden nasıl dilekte bulunması gerektiğini sorduğunda, şu sözleri söylemesini tavsiye ettiğini aktarmıştır: \"Ey Allah, beni affet, bana merhamet et, beni koru, rızık ver.\" ve parmaklarını birleştirerek baş parmağını ayırdı ve şöyle dedi: \"Bu sözlerde (dua) vardır ki, bu dünya ve ahiretin hayırlarını özetler.\""
+    },
+    {
+      "id": 47,
+      "narrator": "Mus'ab b. Sa'd reported that his father told him that he had been in the company of Allah's Messenger (ﷺ) that he said:",
+      "text": "Mus'ab b. Sa'd, babasının, Allah'ın Elçisi'nin (ﷺ) yanında bulunduğunu ve şöyle dediğini aktardı: \"Sizlerden biri her gün bin sevap kazanmakta aciz mi?\" Orada oturanlardan biri sordu: \"Bizden biri her gün nasıl bin sevap kazanabilir?\" O da dedi: \"Yüz kere 'Subhanallah' okuyun; çünkü (bunu okuyarak) bin sevap kaydedilir ve bin günah silinir.\""
+    },
+    {
+      "id": 48,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Ebu Hüreyre, Allah'ın Elçisi'nin (ﷺ) şöyle söylediğini bildirdi: \"Bir kardeşinin dünyadaki sıkıntısını hafifleten kimseye, Allah, Kıyamet Günü'ndeki sıkıntısını hafifletir. Zor durumda olan birine yardım eden kimseye, Allah, ahirette işlerini kolaylaştırır. Bir Müslümanın kusurlarını gizleyen kimseye, Allah, dünyada ve ahirette kusurlarını gizler. Allah, bir kulun arkasındadır; kul, kardeşinin arkasında olduğu sürece. Kim bilgi arayışı yolunda yürürse, Allah, o yolu ona cennete giden kolaylaştırır. Allah'ın evlerinden (camilerden) birinde toplanan ve Allah'ın Kitabını okuyan, öğrenen ve birbirlerine Kur'an'ı öğreten kimselere, üzerlerine huzur iner, merhamet onları kaplar, melekler onları kuşatır ve Allah, onları yanındakilere anar. İyilikte yavaş giden kimsenin (soylu) nesli onu öne geçiremez.\""
+    },
+    {
+      "id": 49,
+      "narrator": "",
+      "text": "Bu hadis, Ebu Hüreyre'den başka bir rivayet zinciriyle ancak kelime değişikliği ile aktarılmıştır."
+    },
+    {
+      "id": 50,
+      "narrator": "Agharr Abi Muslim reported:",
+      "text": "Ebu Musa, Ebu Hüreyre ve Ebu Sa'id el-Hudri'nin, Allah'ın Elçisi'nin (ﷺ) şöyle dediğine şahit olduğunu bildirdi: \"İnsanlar oturduğunda, melekler onları kuşatır ve merhametle kaplanırlar; Allah'ı anarken üzerlerine huzur iner ve Allah, onları yanındakilere anar.\" Bu hadis, Şu'ba aracılığıyla aynı rivayet zinciriyle aktarılmıştır."
+    },
+    {
+      "id": 51,
+      "narrator": "Abu Sa'id Khudri reported that Mu'awiya went to a circle in the mosque and said:",
+      "text": "Ebu Sa'id el-Hudri, Muaviye'nin camide bir halka gittiğini ve şöyle dediğini aktardı: \"Sizi burada oturmaya ne sebep oldu?\" Onlar da: \"Biz burada Allah'ı anmak için oturuyoruz.\" dediler. O da: \"Sizi bu konuda yemin ettiriyorum (bu amaçla mı oturuyorsunuz)?\" dedi. Onlar: \"Vallahi, biz burada tam da bu amaçla oturuyoruz.\" dediler. Bunun üzerine o: \"Ben sizden yemin etmenizi istemedim, sizlere karşı bir iddia nedeniyle değil; çünkü Allah'ın Elçisi'nin (ﷺ) gözünde benim gibi az hadis rivayet eden birinin rütbesi yoktur. Gerçek şu ki, Allah'ın Elçisi (ﷺ) arkadaşlarının halkasına çıktı ve: 'Sizi burada oturmaya ne sebep oldu?' dedi. Onlar: 'Biz burada Allah'ı anmak ve bizi İslam yoluna hidayet ettiği için O'na hamd etmek için oturuyoruz.' dediler. Bunun üzerine o, Allah'a yemin etti ve onların oturmasının tek amacının bu olup olmadığını sordu. Onlar: 'Vallahi, biz burada sadece bu amaçla oturuyoruz.' dediler. Bunun üzerine o (Elçi): 'Ben sizden yemin etmenizi istemiyorum, sizlere karşı bir iddia nedeniyle değil; fakat Cebrail bana geldi ve Allah'ın Azimüşşan'ın, meleklerle sizin büyüklüğünüz hakkında konuştuğunu bildirdi.'\""
+    },
+    {
+      "id": 52,
+      "narrator": "Al-Agharr al-Muzani, who was one amongst the Companions (of the Holy Prophet) reported that Allah's Messenger (ﷺ) said:",
+      "text": "Ebu Agharr el-Müzani, Allah'ın Elçisi'nin (ﷺ) şöyle dediğini aktardı: \"Bazen kalbimde bir gölge olur ve günde yüz kere Allah'tan af dilerim.\""
+    },
+    {
+      "id": 53,
+      "narrator": "Al-Agharr al-Muzani who was from amongst the Companions of Allah's Apostle (ﷺ) reported that Ibn 'Umar stated to him that Allah's Messenger (may peace 'be upon him) said:",
+      "text": "Ebu Agharr el-Müzani, Allah'ın Elçisi'nin (ﷺ) şöyle dediğini aktardı: \"Ey insanlar, Allah'tan tevbe edin. Gerçekten ben günde yüz kere tevbe ediyorum.\""
+    },
+    {
+      "id": 54,
+      "narrator": "",
+      "text": "Bu hadis, Şu'ba aracılığıyla aynı rivayet zinciriyle aktarılmıştır."
+    },
+    {
+      "id": 55,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as say- ing:",
+      "text": "Ebu Hüreyre, Allah'ın Elçisi'nin (ﷺ) şöyle söylediğini bildirdi: \"Güneş batıdan doğmadan önce (Kıyamet Günü'nden önce) tevbe eden kimseye, Allah merhametle döner.\""
+    },
+    {
+      "id": 56,
+      "narrator": "Abu Musa reported:",
+      "text": "Ebu Musa, Allah'ın Elçisi (ﷺ) ile bir yolculukta bulunduklarını ve insanların yüksek sesle \"Allahu Ekber\" dediklerini aktardı. Bunun üzerine Allah'ın Elçisi (ﷺ) şöyle dedi: \"Ey insanlar, kendinize merhamet edin; çünkü siz, sağır veya uzak birine seslenmiyorsunuz. Gerçekten, siz, her şeyi işiten ve size yakın olan birine sesleniyorsunuz.\" Ebu Musa, onun (Peygamberin) arkasında olduğunu ve \"Güç ve kuvvet yalnızca Allah'ındır.\" okuduğunu söyledi. O (Peygamber), Abdullah b. Kays'a hitaben: \"Sizi cennetin hazinelerinden biriyle yönlendireyim mi?\" dedi. Abdullah b. Kays: \"Ey Allah'ın Elçisi, yap!\" dedi. Bunun üzerine o (Peygamber): \"O zaman şöyle oku: 'Güç ve kuvvet yalnızca Allah'ındır.'\""
+    },
+    {
+      "id": 57,
+      "narrator": "",
+      "text": "Bu hadis, 'Asim aracılığıyla aynı rivayet zinciriyle aktarılmıştır."
+    },
+    {
+      "id": 58,
+      "narrator": "Abu Musa reported that he (and his other companions) were climbing upon the hillock along with Allah's Messenger (ﷺ) and when any person climbed up, he pronounced (loudly):",
+      "text": "Ebu Musa, Allah'ın Elçisi (ﷺ) ile birlikte bir tepeye tırmanırken, herhangi bir kişi yukarı çıktığında yüksek sesle \"Allah'tan başka ilah yoktur, Allah en büyüktür.\" dediğini aktardı. Bunun üzerine Allah'ın Elçisi (ﷺ) şöyle dedi: \"Gerçekten, siz, sağır veya uzak birine dua etmiyorsunuz.\" O (Peygamber) dedi: \"Ebu Musa veya Abdullah b. Kays, sizi cennetin hazinelerini oluşturan sözlerle yönlendireyim mi?\" Ben: \"Ey Allah'ın Elçisi, bunlar nedir?\" dedim. O: \"Güç ve kuvvet yalnızca Allah'ındır.\" dedi."
+    },
+    {
+      "id": 59,
+      "narrator": "",
+      "text": "Bu hadis, Ebu Musa'dan az bir kelime değişikliği ile aktarılmıştır."
+    },
+    {
+      "id": 60,
+      "narrator": "Abu Musa reported:",
+      "text": "Ebu Musa, Allah'ın Elçisi (ﷺ) ile bir yolculukta bulunduklarını; hadisin geri kalanı A'sim'in aktardığı gibi olduğunu bildirdi."
+    },
+    {
+      "id": 61,
+      "narrator": "Abu Musa, reported. We were along with Allah's Messenger (ﷺ) in an expedition. The rest of the hadith is the same (and there is an addi- tion of these words in that):",
+      "text": "Ebu Musa, bildirdi. Biz, Allah'ın Elçisi (ﷺ) ile bir seferdeydik. Hadisin geri kalanı aynıdır (ve bu sözlerin eklenmesi vardır): \"O (Kutsal Peygamber) dedi ki: Dua ettiğiniz kimse, her birinizin devesinin boynundan daha yakındır.\" Ve bu sözlerin zikri yoktur: \"Güç ve kuvvet yalnızca Allah'ındır.\""
+    },
+    {
+      "id": 62,
+      "narrator": "Abu Musa Ash'ari reported that Allah's Messenger (ﷺ) said to him:",
+      "text": "Ebu Musa el-Eş'ari, Allah'ın Elçisi (ﷺ) ona şöyle dediğini bildirdi: Size cennet hazinelerinden bir söz göstermeyeyim mi, ya da şöyle dedi: Cennet hazinelerinden bir hazine gibi? Ben de: Elbette, yap. Bunun üzerine o dedi ki: \"Güç ve kuvvet yalnızca Allah'ındır.\""
+    },
+    {
+      "id": 63,
+      "narrator": "Abu Bakr reported that he said to Allah's Messenger (ﷺ):",
+      "text": "Ebu Bekir, Allah'ın Elçisi (ﷺ)'ne şöyle dediğini bildirdi: Namazımda okuyacağım bir dua öğret. Bunun üzerine o (Kutsal Peygamber) dedi ki: \"Ya Allah, kendime büyük bir zulümde bulundum.\" Kütaybe'ye göre (sözler şöyleydi): çok (zulüm) - günahları affedecek olan yalnızca Sensin, de ki: \"Benden kendinden bağışla, bana merhamet et, çünkü Sen çok bağışlayansın ve merhametlisin.\""
+    },
+    {
+      "id": 64,
+      "narrator": "This hadith has been transmitted on the authority of 'Amr b. al-'As that Abu Bakr Siddiq said to Allah's Messenger (ﷺ) Allah's Messenger, teach me a supplication which I should make in my prayer and in my house. The rest of the hadith is the same except with this variation that he said:",
+      "text": "Bu hadis, 'Amr b. el-'As aracılığıyla nakledilmiştir ki Ebu Bekir Sıddık, Allah'ın Elçisi (ﷺ)'ne şöyle dedi: \"Allah'ın Elçisi, namazımda ve evimde yapmam gereken bir dua öğret.\" Hadisin geri kalanı aynıdır, tek farkla ki o dedi: Çok zulüm (Zulman Kathira)."
+    },
+    {
+      "id": 65,
+      "narrator": "'A'isha reported that Allah's Messenger (ﷺ) used to make these supplications:",
+      "text": "Aişe, Allah'ın Elçisi (ﷺ)'nin şu duaları yaptığını bildirdi: \"Ya Allah, beni cehennem ateşinin fitnesinden, cehennem ateşinin azabından, mezarın fitnesinden ve mezarın azabından, zenginliğin fitnesinin şerrinden ve yoksulluğun fitnesinin şerrinden, Dajjal'ın fitnesinin şerrinden sana sığınırım. Ya Allah, günahlarımı kar ve dolu suyu ile temizle, kalbimi günahlardan temizle, beyaz elbisenin kirden temizlendiği gibi, ve günahları benden doğu ile batı arasındaki mesafe kadar uzak tut; Ya Allah, tembellikten, ihtiyarlıktan, günahlardan ve borçtan sana sığınırım.\""
+    },
+    {
+      "id": 66,
+      "narrator": "",
+      "text": "Bu hadis Hişam aracılığıyla aynı nakil zinciri ile aktarılmıştır."
+    },
+    {
+      "id": 67,
+      "narrator": "Anas b. Malik reported that Allah's Messenger (ﷺ) used to say:",
+      "text": "Enes b. Malik, Allah'ın Elçisi (ﷺ)'nin şöyle dediğini bildirdi: \"Ya Allah, beni acizlikten, tembellikten, korkaklıktan, ihtiyarlıktan, cimrilikten sana sığınırım ve mezarın azabından ve hayat ve ölüm fitnesinden sana sığınırım.\""
+    },
+    {
+      "id": 68,
+      "narrator": "Anas reported from Allah's Messenger (ﷺ) (this suppli- cation) but with this variation that these words are not found in that supplication:",
+      "text": "Enes, Allah'ın Elçisi (ﷺ)'nden (bu duayı) bildirdi ancak bu sözlerin o duada bulunmadığına dair bir farklılıkla: \"Hayat ve ölüm fitnesinden.\""
+    },
+    {
+      "id": 69,
+      "narrator": "",
+      "text": "Enes b. Malik, Allah'ın Elçisi (ﷺ)'nin yukarıda belirtilen hadiste bahsedilen şeylerden ve \"cimrilikten\" de Allah'a sığındığını bildirdi."
+    },
+    {
+      "id": 70,
+      "narrator": "Anas reported that Allah's Messenger (may peace he upon him) wed to make this supplication:",
+      "text": "Enes, Allah'ın Elçisi (ﷺ)'nin bu duayı yaptığını bildirdi: \"Ya Allah, beni cimrilikten, tembellikten ve ihtiyarlıktan sana sığınırım.\""
+    },
+    {
+      "id": 71,
+      "narrator": "It was narrated from Abu Huraira that:",
+      "text": "Ebu Hureyre'den nakledildiğine göre: Allah'ın Elçisi (ﷺ) başına gelenlerin şerrinden, sıkıntıdan, (zafer kazanmış) düşmanların alayından ve şiddetli belalardan Allah'a sığınırdı."
+    },
+    {
+      "id": 72,
+      "narrator": "Khaula bint Hakim Sulamiyya reported:",
+      "text": "'Amr (nakil yapanlardan biri) kendi rivayetinde şöyle dedi: \"Süfyân dedi ki: 'Birini (ifadelerden) eklemiş olabileceğinden korkuyorum.'\""
+    },
+    {
+      "id": 73,
+      "narrator": "Khaula bint Hakim Sulamiyya reported:",
+      "text": "Havla bint Hakim Sülemiye, Allah'ın Elçisi (ﷺ)'nin şöyle dediğini işittiğini bildirdi: \"Birisi bir yere indiğinde, sonra şöyle derse: 'Ben, yarattıklarının şerrinden Allah'ın Kamil Kelimesine sığınırım,' o zaman o yere kadar ona hiçbir zarar vermez.\""
+    },
+    {
+      "id": 74,
+      "narrator": "",
+      "text": "Havla bint Hakim Sülemiye, Allah'ın Elçisi (ﷺ)'nin şöyle dediğini işittiğini bildirdi: \"Sizden biri bir yerde kaldığında, şöyle demelidir: 'Ben, yarattıklarının şerrinden Allah'ın Kamil Kelimesine sığınırım.' O zaman o yere kadar ona hiçbir zarar vermez.\" Ebu Hureyre, bir kişinin Allah'ın Elçisi (ﷺ)'ne geldiğini ve şöyle dediğini bildirdi: \"Allah'ın Elçisi, gece boyunca akrep tarafından sokuldum.\" Bunun üzerine o dedi: \"Eğer akşam bu sözleri okusaydın: 'Ben, yarattıklarının şerrinden Allah'ın Kamil Kelimesine sığınırım,' sana zarar vermezdi.\""
+    },
+    {
+      "id": 75,
+      "narrator": "Al-Bara' b. 'Azib reported that Allah's, Messenger (may peace be upon said:",
+      "text": "Bu hadis, Ebu Hureyre aracılığıyla hafif bir kelime değişikliği ile aktarılmıştır."
+    },
+    {
+      "id": 76,
+      "narrator": "This hadith has been transmitted on the authority of al-Bara' b. 'Azib with a slight variation of wording and there is this addition in the hadith transmitted on the authority of Husain:",
+      "text": "Bu hadis, al-Bara' b. 'Azib'in rivayetiyle, kelime farklılığıyla aktarılmıştır ve Husain'in rivayetinde şu ekleme bulunmaktadır: \"Eğer sabah kalkarsan, mutlulukla kalkarsın.\""
+    },
+    {
+      "id": 77,
+      "narrator": "Al-Bara' b. 'Azib reported that Allah's Messenger (in may peace be upon him) commanded a person (in these words):",
+      "text": "Al-Bara' b. 'Azib, Allah'ın Elçisi'nin (salat ve selam üzerine olsun) bir kişiye şu sözlerle emir verdiğini bildirmiştir: \"Gece yatağına gittiğinde şöyle de: 'Ey Allah, kendimi sana teslim ettim ve işimi sana havale ettim, sana umutla ve senden korkarak. Senden başka hiçbir sığınak ve kurtarıcı yoktur. İndirdiğin Kitaba ve gönderdiğin Elçilere iman ettim.' Eğer bu halde ölürsen, Fıtrat üzere ölürsün.\" İbn Bashshdr, bu hadiste \"gece\" kelimesini anmamıştır."
+    },
+    {
+      "id": 78,
+      "narrator": "This hadith has been transmitted on the authority of al-Bara' b. 'Azib that Allah's Messenger (ﷺ) said to a person:",
+      "text": "Bu hadis, al-Bara' b. 'Azib'in rivayetiyle, Allah'ın Elçisi'nin (ﷺ) bir kişiye şöyle dediği aktarılmıştır: \"Ey filan, yatağına gittiğinde...\" Hadisin geri kalanı aynıdır, ancak kelime farklılığıyla şöyle demiştir: \"Seni gönderen Elçin.\" Eğer o gece ölürsen, Fıtrat üzere ölürsün ve sabah kalkarsan, mutlulukla kalkarsın."
+    },
+    {
+      "id": 79,
+      "narrator": "This hadith has been transmitted on the authority of al-Bara' b. 'Azib that Allah's Messenger (ﷺ) commanded a person (in these words) and there is no mention of this:",
+      "text": "Bu hadis, al-Bara' b. 'Azib'in rivayetiyle, Allah'ın Elçisi'nin (ﷺ) bir kişiye şu sözlerle emir verdiği aktarılmıştır ve \"Eğer sabah kalkarsan, mutlulukla kalkarsın.\" ifadesi burada yer almamaktadır."
+    },
+    {
+      "id": 80,
+      "narrator": "Al-Bara' reported that whenever Allah's Messenger (ﷺ) went to bed, he said:",
+      "text": "Al-Bara' bildirmiştir ki, Allah'ın Elçisi (ﷺ) yatağa gittiğinde şöyle derdi: \"Ey Allah, senin adınla yaşarım ve senin adınla ölürüm.\" Ve kalktığında şöyle derdi: \"Övgüler, bizi ölümden (uyku) sonra hayata kavuşturan Allah'a aittir ve dönüş yalnızca sana aittir.\""
+    },
+    {
+      "id": 81,
+      "narrator": "Abdullah b. 'Umar commanded a person that as he went to bed, he should say:",
+      "text": "Abdullah b. 'Umar, bir kişiye yatağa gittiğinde şöyle demesini emretti: \"Ey Allah, beni yarattın ve beni nihai amacına ulaştırman sana aittir. Ölüm ve yaşam sana aittir, eğer ona hayat verirsen, onu koru; eğer ölüm getirirsen, ona afiyet ver. Ey Allah, senden güvenlik diliyorum.\" Bir kişi ona: \"Bunu Umar'dan mı duydun?\" dedi. O da: \"Umar'dan daha hayırlı birinden, yani Allah'ın Elçisi'nden (ﷺ) duydum.\" dedi. İbn Nafi, bunu Abdullah b. Harith'ten rivayet etti, ancak \"bunu kendisi duydu\" ifadesini anmamıştır."
+    },
+    {
+      "id": 82,
+      "narrator": "Suhail reported that Abu Salih used to command us (in these words):",
+      "text": "Suhail, Abu Salih'in bize şu sözlerle emir verdiğini bildirdi: \"Eğer biriniz uyumayı düşünüyorsa, sağ tarafına yatmalı ve sonra şöyle demelidir: 'Ey Allah, göklerin Rabbi, yerin Rabbi ve muhteşem tahtın Rabbi, bizim Rabbimiz ve her şeyin Rabbi, mısır tanesini ve çekirdeği yarıp çıkaran, Tevrat'ı ve İncil'i indiren ve Kuran'ı (Kuran-ı Kerim) ayıran, her şeyin şerrinden sana sığınırım; sen onun önünde tam kontrol sahibisin. Ey Allah, sen birincisin, senin önünde hiçbir şey yoktur, sen sonuncusun, senin ardında hiçbir şey yoktur, sen açıksın, senin üstünde hiçbir şey yoktur, sen en içtesin ve senin ötesinde hiçbir şey yoktur. Borç yükünü üzerimizden kaldır ve bizi ihtiyaçtan kurtar.' Abu Salih bunu, Allah'ın Elçisi'nden (ﷺ) rivayet eden Abu Huraira'dan nakletmiştir.\""
+    },
+    {
+      "id": 83,
+      "narrator": "Abu Huraira reported that Allah's Messenger (ﷺ) used to command us that as we go to our bedo, we should utter the words (as mention- ed above) and he also said (these words):",
+      "text": "Abu Huraira, Allah'ın Elçisi'nin (ﷺ) bize, yatağımıza gittiğimizde yukarıda belirtilen kelimeleri söylememizi emrettiğini ve ayrıca şu sözleri de söylediğini bildirdi: \"Her hayvanın şerrinden, sen onun önünde tam kontrol sahibisin.\""
+    },
+    {
+      "id": 84,
+      "narrator": "Abu Huraira reported that Fatima (the daughter of the Holy Prophet) came to Allah's Apostle (ﷺ) and asked for a servant. He said to her:",
+      "text": "Abu Huraira, Fatıma'nın (Peygamberimizin kızı) Allah'ın Elçisi'ne (ﷺ) gelerek bir hizmetçi istediğini bildirdi. O da ona: \"De ki: 'Ey Allah, yedi göğün Rabbi'; hadisin geri kalanı aynıdır.\""
+    },
+    {
+      "id": 85,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as say- ing:",
+      "text": "Abu Huraira, Allah'ın Elçisi'nin (ﷺ) şöyle söylediğini bildirdi: \"Eğer biriniz yatağa gidecekse, alt giysisinin kenarını tutmalı ve sonra onu temizlemek için onunla yatağını silmeli ve ardından Allah'ın adını anmalıdır; çünkü kendisi yatağında ne bıraktığını bilmez. Yatmaya niyet ettiğinde sağ tarafına yatmalı ve şu sözleri söylemelidir: 'Allah'ım, benim Rabbim, yanımı (yatağa) seninle koyuyorum ve seninle kaldırıyorum (uykudan sonra). Eğer beni alıkoyarsan (eğer beni öldürürsen), ruhuma afiyet ver; eğer bu nefes alma işlemini devam ettirirsen, onu, senin salih kullarını koruduğun şekilde koru.'\""
+    },
+    {
+      "id": 86,
+      "narrator": "This hadith has been narrated on the authority of Ubaidullah b. Umar with the same chain of transmitters and he said:",
+      "text": "Bu hadis, Ubaidullah b. Umar'dan aynı senedle nakledilmiştir ve o da şöyle demiştir: \"O zaman şöyle de: 'Rabbim, senin adınla yanımı koyuyorum ve eğer beni yaşatırsan, kendime merhamet et.'\""
+    },
+    {
+      "id": 87,
+      "narrator": "Anas reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Anas, Allah'ın Elçisi'nin (ﷺ) şöyle söylediğini bildirdi: \"Yatağa gittiğinizde şöyle deyin: 'Övgüler, bize rızık veren, içiren, bize yeterli olan ve bize barınak sağlayan Allah'a aittir; birçok insan için yeterli olan ve barınak sağlayan yoktur.'\""
+    },
+    {
+      "id": 88,
+      "narrator": "Farwa' b. Naufal Ashja'i reported:",
+      "text": "Farwa' b. Naufal Ashja'i bildirdi: 'A'işe'ye, Allah'ın Elçisi'nin (ﷺ) Allah'a hangi sözlerle dua ettiğini sordum. O da, \"Şöyle derdi: 'Yaptıklarımdan ve yapmadıklarımdan, senin şerrinden sana sığınırım.'\" dedi."
+    },
+    {
+      "id": 89,
+      "narrator": "Farwa' b. Naufal reported:",
+      "text": "Farwa' b. Naufal bildirdi: 'A'işe'ye, Allah'ın Elçisi'nin (ﷺ) yaptığı duayı sordum. O da, \"Şöyle derdi: 'Ey Allah, yaptıklarımdan ve yapmadıklarımdan, senin şerrinden sana sığınırım.'\" dedi."
+    },
+    {
+      "id": 90,
+      "narrator": "",
+      "text": "Bu hadis, Muhammad b. Ca'fer'in başka bir senedle rivayet edilmiştir."
+    },
+    {
+      "id": 91,
+      "narrator": "Farwa' b. Naufal reported on the authority of 'A'isha that Allah's Mes- senger (ﷺ) used to supplicate (in these words):",
+      "text": "Farwa' b. Naufal, 'A'isha'dan rivayet etmiştir ki, Allah'ın Messenger'i (ﷺ) şu sözlerle dua ederdi: \"Ey Allah, yaptıklarımdan ve yapmadıklarımdan gelen şerden sana sığınırım.\""
+    },
+    {
+      "id": 92,
+      "narrator": "Ibn 'Abbas reported that Allah's Messenger (ﷺ) used to say:",
+      "text": "İbn 'Abbas, Allah'ın Messenger'inin (ﷺ) şöyle dediğini bildirmiştir: \"Ey Allah, kendimi sana teslim ediyorum. Sana iman ediyorum, sana güveniyorum, sana yöneliyorum ve senin yardımlarınla düşmanlarıma karşı savaşıyorum. Ey Allah, gücünle sana sığınıyorum; senden başka ilah yoktur, beni saptırma. Sen, ölmez olan daima yaşayan, cinler ve insanlar ise ölendir.\""
+    },
+    {
+      "id": 93,
+      "narrator": "Abu Huraira reported that when Allah's Messenger (ﷺ) set out on a journey in the morning, he used to say:",
+      "text": "Abu Huraira, Allah'ın Messenger'inin (ﷺ) sabah bir yolculuğa çıktığında şöyle dediğini bildirmiştir: \"Bir dinleyici, Allah'ı (bizim O'na olan) övgülerimizi dinledi. Rabbimiz! Bize eşlik et, bizi koru ve bize lütfunda bulun. Ben, ateşten Allah'a sığınan biriyim.\""
+    },
+    {
+      "id": 94,
+      "narrator": "Abu Musa Ash'ari reported on the authority of his father that Allahs Apostle (ﷺ) used to supplicate in these words:",
+      "text": "Abu Musa Ash'ari, babasından rivayet etmiştir ki, Allah'ın Elçisi (ﷺ) şu sözlerle dua ederdi: \"Ey Allah, hatalarımı, cehaletimi, işimdeki aşırılığı affet. Ve sen, işlerim hakkında benden daha iyi bilirsin. Ey Allah, ciddiyetle veya başka bir şekilde (veya istemeden ya da bilerek) yaptığım hatalardan beni affet. Tüm bu (eksiklikler) bendedir. Ey Allah, aceleyle veya erteleyerek, gizli veya açık yaptığım hatalardan beni affet, sen bunları benden daha iyi bilirsin. Sen, İlk ve Son'sun ve her şey üzerinde güç sahibisin.\""
+    },
+    {
+      "id": 95,
+      "narrator": "",
+      "text": "Bu hadis, aynı nakil zinciriyle Shu'ba'dan rivayet edilmiştir."
+    },
+    {
+      "id": 96,
+      "narrator": "Abu Huraira reported that Allah's Messenger (ﷺ) used to supplicate (in these words):",
+      "text": "Abu Huraira, Allah'ın Messenger'inin (ﷺ) şu sözlerle dua ettiğini bildirmiştir: \"Ey Allah, işlerimin koruyucusu olan dinimi düzelt. Yaşadığım dünyadaki işlerimi düzelt. Ahiretimi düzelt ki, ahiret hayatım buna bağlıdır. Ve hayatımı her hayır için bir kaynak yap ve ölümümü her kötülükten koruyarak benim için bir rahatlık kaynağı yap.\""
+    },
+    {
+      "id": 97,
+      "narrator": "Abdullah reported that Allah's Messenger (ﷺ) used to supplicate (in these words):",
+      "text": "Abdullah, Allah'ın Messenger'inin (ﷺ) şu sözlerle dua ettiğini bildirmiştir: \"Ey Allah, bana doğru rehberlik, kötülüklerden korunma, iffet ve ihtiyaçtan kurtuluş istiyorum.\""
+    },
+    {
+      "id": 98,
+      "narrator": "",
+      "text": "Bu hadis, aynı nakil zinciriyle Abu Ishaq'tan rivayet edilmiştir ancak kelime seçiminde hafif bir farklılık vardır."
+    },
+    {
+      "id": 99,
+      "narrator": "Zaid b. Alqam reported:",
+      "text": "Zaid b. Alqam bildirdi: Ben, Allah'ın Messenger'inin (sallallahu aleyhi ve sellem) söylediğinden başka bir şey söylemeyeceğim. O, şöyle dua ederdi: \"Ey Allah, acizlikten, tembellikten, korkaklıktan, cimrilikten, yaşlılıktan ve kabir azabından sana sığınıyorum. Ey Allah, ruhuma doğruluk hissini ver ve onu temizle, çünkü sen onun en iyi temizleyicisisin. Sen onun koruyucu dostusun ve onun bekçisisin. Ey Allah, fayda vermeyen bilgiden, kalpten Allah korkusu taşımayan, tatmin olmayan bir ruhdan ve kabul edilmeyen dualardan sana sığınıyorum.\""
+    },
+    {
+      "id": 100,
+      "narrator": "Abdullah b. Mas'ud reported that when it was evening Allah's Messenger (ﷺ) used to supplicate:",
+      "text": "Abdullah b. Mas'ud, akşam olduğunda Allah'ın Messenger'inin (ﷺ) şöyle dua ettiğini bildirmiştir: \"Akşama girdik ve Allah'ın tüm Krallığı da akşama girdi ve hamd, Allah'a aittir. O'ndan başka ilah yoktur, O'nun hiçbir ortağı yoktur.\" Hasan, Zubaid'in kendisine bunu İbrahim'den bu kelimelerle ezberlediğini söylediğini aktardı: \"O'nun mülkü vardır ve hamd O'na aittir, O her şeye güç yetirendir. Ey Allah, bu gecenin hayrını istiyorum ve bu gecenin ve sonrasının şerrinden sana sığınıyorum. Ey Allah, tembellikten, gururun şerrinden sana sığınıyorum. Ey Allah, cehennem azabından ve kabir azabından sana sığınıyorum.\""
+    },
+    {
+      "id": 101,
+      "narrator": "Abdullah reported that when it was evening Allah's Messenger (ﷺ) used to supplicate:",
+      "text": "Abdullah, akşam olduğunda Allah'ın Messenger'inin (ﷺ) şöyle dua ettiğini bildirmiştir: \"Akşama girdik ve Allah'ın Krallığı da akşama girdi. Hamd, Allah'a aittir. O'ndan başka ilah yoktur, O'nun hiçbir ortağı yoktur.\" O (rivayet eden) dedi ki: \"Sanırım o bu duada şu sözleri de söyledi: 'O'nun mülkü vardır ve hamd O'na aittir ve O her şeye güç yetirendir. Rabbim, bu gecede ve sonrasında hayır istiyorum ve bu gecenin ve sonrasının şerrinden sana sığınıyorum. Rabbim, tembellikten, gururun şerrinden sana sığınıyorum. Rabbim, cehennem azabından ve kabir azabından sana sığınıyorum.\" Ve sabah olduğunda şöyle dedi: \"Sabaha girdik ve Allah'ın tüm Krallığı sabaha girdi.\""
+    },
+    {
+      "id": 102,
+      "narrator": "Abdullah reported that when it was evening Allah's Messenger (ﷺ) used to supplicate:",
+      "text": "Abdullah, akşam olduğunda Allah'ın Messenger'inin (ﷺ) şöyle dua ettiğini bildirmiştir: \"Akşama girdik ve Allah'ın Krallığı da akşama girdi; hamd, Allah'a aittir, O'ndan başka ilah yoktur, O'nun hiçbir ortağı yoktur. Ey Allah, bu gecenin bereketini ve içindeki hayrı istiyorum. İçindeki şerden ve onun kötülüğünden sana sığınıyorum. Ey Allah, tembellikten, yaşlılıktan, gururun şerrinden, dünyanın imtihanından ve kabir azabından sana sığınıyorum.\" Zubaid, başka bir nakil zinciriyle Abdullah'dan doğrudan bu eklemeyi aktarmıştır: \"O'ndan başka ilah yoktur, O'nun hiçbir ortağı yoktur, O'nun mülkü vardır ve hamd O'na aittir ve O her şeye güç yetirendir.\""
+    },
+    {
+      "id": 103,
+      "narrator": "This hadith has been transmitted on the authority of Abu Huraira that Allah's Messenge; (ﷺ) used to supplicate thus:",
+      "text": "Bu hadis, Allah'ın Messenger'inin (ﷺ) şu şekilde dua ettiğini Abu Huraira'dan rivayet edilmiştir: \"O'ndan başka ilah yoktur, O, ordularına zafer onurlandıran ve kullarını aşiretleri bozguna uğratan O'dur; bunun sonrasında hiçbir şey yoktur.\""
+    },
+    {
+      "id": 104,
+      "narrator": "'Ali reported that Allah's Messenger (ﷺ) said to him:",
+      "text": "'Ali, Allah'ın Messenger'inin (ﷺ) kendisine şöyle dediğini bildirmiştir: \"De ki, 'Ey Allah, beni doğru yola yönlendir ve beni doğru yolda tut,' ve doğru rehberlikten bahsettiğinde doğru yolu aklında tut ve düz yoldan bahsettiğinde okların doğruluğunu aklında tut.\""
+    },
+    {
+      "id": 105,
+      "narrator": "This hadith has been narrated on the authority of 'Asim b. Kulaib with the same chain of transmitters that Allah's Messenger (ﷺ) said to me:",
+      "text": "Bu hadis, 'Asim b. Kulaib'in aynı nakil zinciriyle Allah'ın Messenger'inin (ﷺ) bana şöyle dediğini rivayet etmiştir: \"De ki: 'Ey Allah, bana doğruluk ve doğru yolda kalmayı istiyorum.'\""
+    },
+    {
+      "id": 106,
+      "narrator": "Juwairiya reported that Allah's Messenger (ﷺ) came out from (her apartment) in the morning as she was busy in observing her dawn prayer in her place of worship. He came back in the forenoon and she was still sitting there. He (the Holy Prophet) said to her:",
+      "text": "Cüveyriye, Allah'ın Elçisi (ﷺ) sabahleyin (kendi dairesinden) çıkarken, kendisinin sabah namazını kıldığı yerde meşgul olduğunu bildirdi. O, öğle vakti geri döndüğünde, hala orada oturduğunu gördü. O (Peygamberimiz) ona şöyle dedi: \"Seni terk ettiğimden beri aynı yerde oturuyorsun.\" O da: \"Evet.\" dedi. Bunun üzerine Allah'ın Elçisi (ﷺ) şöyle dedi: \"Seni terk ettikten sonra üç kez dört kelime okudum ve eğer bunlar sabah boyunca okuduğunla tartılacak olursa, bunlar onlardan daha ağır gelir ve (bu kelimeler) şunlardır: 'Allah'ı tesbih ederim ve O'na hamd ederim, O'nun yaratıkları sayısınca, O'nun nefsinin rızası kadar, O'nun arşının ağırlığı kadar ve O'nun övgü kelimelerinin yazılmasında kullanılan mürekkep kadar.'\""
+    },
+    {
+      "id": 107,
+      "narrator": "Juwairiya reported that Allah's Messenger (ﷺ) happened to pass by her as she was observing her dawn prayer; or after she had observed her dawn prayer. The rest of the hadith is the same but with this variation that he said:",
+      "text": "Cüveyriye, Allah'ın Elçisi (ﷺ) sabah namazını kılarken ya da sabah namazını kıldıktan sonra yanından geçtiğini bildirdi. Hadisin geri kalanı aynıdır, ancak bu farklılıkla: \"Allah'ı yaratıkları sayısınca tesbih ederim, Allah'ı nefsinin rızası kadar tesbih ederim, Allah'ı arşının ağırlığı kadar tesbih ederim, Allah'ı O'nun kelimelerinin yazılmasında kullanılan mürekkep kadar tesbih ederim.\" dedi."
+    },
+    {
+      "id": 108,
+      "narrator": "It is reported on the authority of Ali that Fatima had corns in her hand because of working at the hand-mill. There had fallen to the lot of Allah's Apostle (ﷺ) some prisoners of war. She (Fatima) came to the Prophet (ﷺ) but she did not find him (in the house). She met A'isha and informed her (about her hardship). When Allah's Apostle (ﷺ) came, she (A'isha) informed him about the visit of Fatima. Allah's Messenger (ﷺ) came to them (Fatima and her family). They had gone to their beds. 'Ali further (reported):",
+      "text": "Ali'den rivayet edildiğine göre, Fatıma'nın elinde değirmenle çalışmaktan dolayı nasırları vardı. Allah'ın Elçisi (ﷺ) bazı savaş esirlerine sahip olmuştu. O (Fatıma), Peygamber (ﷺ) ile görüşmek için geldi ama onu (evde) bulamadı. Aişe ile karşılaştı ve ona (çilesini) anlattı. Allah'ın Elçisi (ﷺ) geldiğinde, Aişe ona Fatıma'nın ziyaretini bildirdi. Allah'ın Elçisi (ﷺ) onlara (Fatıma ve ailesine) geldi. Onlar yataklarına gitmişlerdi. Ali daha sonra (şöyle bildirdi): Saygı göstermek için ayağa kalkmaya çalıştık ama Allah'ın Elçisi (ﷺ) şöyle dedi: \"Yataklarınıza dönün.\" Ve bizimle oturdu, ben de göğsümde ayaklarının soğukluğunu hissettim. Sonra şöyle dedi: \"Sizlere istediğinizden daha hayırlı bir şey göstermeyeyim mi? Yataklarınıza gittiğinizde, otuz dört kez Tekbir (Allah-u Ekber), otuz üç kez Tesbih (Subhan Allah) ve otuz üç kez Tahmid (Elhamdülillah) okuyun, bu sizin için hizmetçiden daha hayırlıdır.\""
+    },
+    {
+      "id": 109,
+      "narrator": "",
+      "text": "Bu hadis, aynı isnat zinciriyle Şu'be'den rivayet edilmiştir, ancak kelime farklılıklarıyla."
+    },
+    {
+      "id": 110,
+      "narrator": "This hadith has been transmitted on the authority of Ibn Abi Laili but with this addition:",
+      "text": "Bu hadis, İbn Ebi Leyla'dan rivayet edilmiştir, ancak şu eklemeyle: \"Ali dedi ki: Allah'ın Elçisi (ﷺ) bu (dua)yı duyduğum günden beri onu terk etmedim. Kendisine, 'Sıffin gecesinde bile mi?' denildi. O da: 'Evet, Sıffin gecesinde bile.' dedi.\""
+    },
+    {
+      "id": 111,
+      "narrator": "Abu Huraira reported that Fatima came to Allah's Apostle (ﷺ) and asked for a servant and told him of the hardship of household work. He said:",
+      "text": "Ebu Hureyre, Fatıma'nın Allah'ın Elçisi (ﷺ) yanına gelip bir hizmetçi istediğini ve ev işlerinin zorluğundan bahsettiğini bildirdi. O da: \"Bizden bir hizmetçi alamazsın. Senin için hizmetçiden daha hayırlı bir şey göstermeyeyim mi? Yatarken otuz üç kez Subhan Allah, otuz üç kez Elhamdülillah ve otuz dört kez Allah-u Ekber oku.\" dedi. Bu hadis, aynı isnat zinciriyle Suhail'den de rivayet edilmiştir."
+    },
+    {
+      "id": 112,
+      "narrator": "",
+      "text": "Ebu Hureyre, Allah'ın Elçisi (ﷺ) şöyle buyurdu: \"Horozun ötüşünü duyduğunuzda, Allah'tan lütuf isteyin, çünkü o melekleri görür; eşeğin anırmasını duyduğunuzda ise, şeytandan Allah'a sığının, çünkü o şeytanı görür.\""
+    },
+    {
+      "id": 113,
+      "narrator": "Ibn 'Abbas reported that Allah's Apostle (ﷺ) used to supplicate during the time of trouble (in these words):",
+      "text": "İbn Abbas, Allah'ın Elçisi (ﷺ) zor zamanlarda şu sözlerle dua ettiğini bildirdi: \"Allah'tan başka ilah yoktur, O Büyük, O Hoşgörendir; Allah'tan başka ilah yoktur, O Muazzam Arş'ın Rabbidir; Allah'tan başka ilah yoktur, O Göklerin ve yerin Rabbidir, O İzzetli Arş'ın Rabbidir.\""
+    },
+    {
+      "id": 114,
+      "narrator": "",
+      "text": "Bu hadis, aynı isnat zinciriyle Hişam'dan rivayet edilmiştir."
+    },
+    {
+      "id": 115,
+      "narrator": "Ibn Abbas reported that Allah's Messenger (ﷺ) used to supplicate (with these words) and he (uttered these words) at the time of trouble; the rest of the hadith is the same except with this difference that insted of saying:",
+      "text": "İbn Abbas, Allah'ın Elçisi (ﷺ) zor zamanlarda şu sözlerle dua ettiğini bildirdi; hadisin geri kalanı aynıdır, ancak \"Göklerin ve yerin Rabbi\" demek yerine \"Göklerin Rabbi ve yerin Rabbi\" dedi."
+    },
+    {
+      "id": 116,
+      "narrator": "",
+      "text": "İbn Abbas, bu hadisi başka bir isnat zinciriyle, kelime farklılıklarıyla rivayet etmiştir."
+    },
+    {
+      "id": 117,
+      "narrator": "Abu Dharr reported that Allah's Messenger (ﷺ) was asked as to which words were the best. He said:",
+      "text": "Ebu Dharr, Allah'ın Elçisi (ﷺ) en güzel sözlerin hangileri olduğunu sorduğunda, \"Allah'ın melekleri ve kulları için seçtiği sözlerdir.\" dedi: \"Allah'ı tesbih ederim ve O'na hamd ederim.\""
+    },
+    {
+      "id": 118,
+      "narrator": "Abu Dharr reported that Allah's Messenger (ﷺ) said:",
+      "text": "Ebu Dharr, Allah'ın Elçisi (ﷺ) şöyle dedi: \"Sizlere Allah'ın en çok sevdiği sözleri bildirmeyeyim mi?\" Ben de: \"Allah'ın Elçisi, lütfen bana Allah'ın en çok sevdiği sözleri bildir.\" dedim. O da: \"Şüphesiz, Allah'ın en çok sevdiği sözler şunlardır: 'Allah'ı tesbih ederim ve O'na hamd ederim.'\""
+    },
+    {
+      "id": 119,
+      "narrator": "Abu Dharr reported that Allah's Messenger (ﷺ) said:",
+      "text": "Ebu Dharr, Allah'ın Elçisi (ﷺ) şöyle dedi: \"Kardeşi için arkasından dua eden hiçbir mümin kul yoktur ki, melekler ona: 'Senin için de aynı olsun.' demesin.\""
+    },
+    {
+      "id": 120,
+      "narrator": "Umm Darda' reported:",
+      "text": "Ümmü Derdâ' şöyle bildirdi: \"Kocam, Allah'ın Elçisi (ﷺ) şöyle derken duyduğunu aktardı: 'Kardeşi için arkasından dua eden kimseye, dua ile görevlendirilen melek: 'Âmin, senin için de olsun.' der.'\""
+    },
+    {
+      "id": 121,
+      "narrator": "Safwan (and he was Ibn 'Abdullah b. Safwan, and he had been married to Umm Darda') reported:",
+      "text": "Safvan (o, Abdullah b. Safvan'dır ve Umm Darda' ile evliydi) şöyle bildirdi: Suriye'de Abu Darda'nın evini ziyaret ettim. Orada onu bulamadım ama Umm Darda' (evdeydi). O dedi ki: Bu yıl Hac yapmayı mı düşünüyorsun? Ben de: Evet, dedim. O: Bizim için Allah'a dua et, çünkü Allah'ın Elçisi (ona selam olsun) şöyle derdi: Bir Müslümanın kardeşi için arkasında (yokluğunda) yaptığı dua kabul edilir, o, kardeşi için hayır dua ederse ve görevlendirilen Melek: Âmin der ve: Senin için de olsun der. Ben de pazara gittim ve Abu Darda ile karşılaştım, o da Allah'ın Elçisi'nden (ﷺ) böyle nakletti."
+    },
+    {
+      "id": 122,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 123,
+      "narrator": "Anas b. Malik reported that Allah's Messenger (ﷺ) said:",
+      "text": "Bu hadis, Safvan b. Abdullah b. Safvan'dan aynı isnatla rivayet edilmiştir."
+    },
+    {
+      "id": 124,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 125,
+      "narrator": "Abu Huraira reported that Allah's Messenger (ﷺ) said:",
+      "text": "Anas b. Malik, Allah'ın Elçisi'nin (ﷺ) şöyle söylediğini bildirdi: Allah, bir lokma yemek alırken ve su içerken \"Elhamdulillah\" diyen kulundan razı olur."
+    },
+    {
+      "id": 126,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+      "text": "---"
+    },
+    {
+      "id": 127,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Bu hadis, İshak b. Yusuf Al-Azrak'tan, Zekeriya b. Ebu Zaid'den aynı isnatla rivayet edilmiştir."
+    }
+  ]
+}

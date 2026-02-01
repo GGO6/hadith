@@ -1,0 +1,61 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 9,
+    "arabic": {
+      "title": "الأدب المفرد",
+      "author": "الإمام البخاري"
+    },
+    "english": {
+      "title": "Al-Adab Al-Mufrad",
+      "author": "Imam al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "",
+      "text": "Ebu Hureyre, Allah ona salat ve selam etsin, Peygamber'in şöyle söylediğini rivayet etmiştir: \"Çocuklarımıza merhamet etmeyen ve yaşlılarımıza haklarını tanımayan bizden değildir.\""
+    },
+    {
+      "id": 2,
+      "narrator": "",
+      "text": "Abdullah ibn Amr ibn al-As, Allah ona salat ve selam etsin, Peygamber'in şöyle söylediğini kendisine ulaştığını rivayet etmiştir: \"Çocuklarımıza merhamet etmeyen ve yaşlılarımıza haklarını tanımayan bizden değildir.\""
+    },
+    {
+      "id": 3,
+      "narrator": "",
+      "text": "Aynı şekilde Amr ibn Şu'ayb'den."
+    },
+    {
+      "id": 4,
+      "narrator": "",
+      "text": "Aynı şekilde Ebu Ümame'den."
+    },
+    {
+      "id": 5,
+      "narrator": "",
+      "text": "El-Eş'ari şöyle dedi: \"Allah'a saygının bir parçası, yaşlı bir Müslümana ve Kur'an'ı bilen birine saygı göstermektir; yeter ki bu konuda aşırıya kaçmasın veya ondan yüz çevirmesin ve adil bir yöneticiyi saygı göstermektir.\""
+    },
+    {
+      "id": 6,
+      "narrator": "",
+      "text": "354 ile aynı."
+    },
+    {
+      "id": 7,
+      "narrator": "",
+      "text": "Rafi' ibn Khudayj ve Sahl ibn Abi Hathama, Abdullah ibn Sahl ve Muhayyisa ibn Mas'ud'un Hayber'e geldiğini ve hurma ağaçlarının arasında ayrıldıklarını bildirmiştir. Abdullah ibn Sahl öldürülmüştür. Abdurrahman ibn Sahl ve Huveyisa ile Muhayyisa, Mas'ud'un oğulları, Peygamber'e, Allah ona salat ve selam etsin, gelip (öldürülen) arkadaşları hakkında konuştular. Orada bulunanların en küçüğü olan Abdurrahman konuşmaya başladı, fakat Peygamber, Allah ona salat ve selam etsin, \"Önce en yaşlısı konuşsun.\" dedi. (veya \"En büyüğünü yüceltin.\") Arkadaşları hakkında konuştular ve Peygamber, Allah ona salat ve selam etsin, \"Aranızdan ellisi, öldürülen adamınızın diyetine hak sahibi olduğuna yemin edecek mi?\" diye sordu. Onlar, \"Ey Allah'ın Resulü, bu bizim görmediğimiz bir şey.\" dediler. O da, \"O zaman Yahudiler, aralarından ellisinin yeminleriyle kendilerini aklayacak mı?\" dedi. Onlar itiraz ettiler, \"Ey Allah'ın Resulü, onlar kâfir!\" Bunun üzerine Allah'ın Resulü, Allah ona salat ve selam etsin, kendisi diyetini ödedi."
+    },
+    {
+      "id": 8,
+      "narrator": "",
+      "text": "İbn Ömer şöyle dedi: \"Allah'ın Resulü, Allah ona salat ve selam etsin, 'Bana söyleyin, Müslüman'a benzeyen ağaç hangisidir? Rabbinin izniyle her zaman meyve verir ve yaprakları dökülmez.' dedi. Benim aklıma hurma ağacı geldi, ama Ebu Bekir ve Ömer'in, Allah onlardan razı olsun, orada bulunduğu için konuşmak istemedim. Onlar konuşmayınca, Peygamber, Allah ona salat ve selam etsin, 'O hurma ağacıdır.' dedi. Babamla çıktığımda, 'Baba, ben onun hurma ağacı olduğunu düşündüm.' dedim. O da, 'Söylemene ne engel oldu? Eğer söyleseydin, ben bunu şu ve bu şeyden daha çok tercih ederdim.' dedi. Ben de, 'Bunu söylememe engel olan, seni veya Ebu Bekir'i konuşurken görmemdi, bu yüzden konuşmak istemedim.' dedim.\""
+    },
+    {
+      "id": 9,
+      "narrator": "Hakim ibn Qays ibn 'Asim reported that when his father was dying,\nhe enjoined his sons:",
+      "text": "Hakim ibn Kays ibn Asim, babası ölmekteyken oğullarına şöyle tavsiyede bulundu: \"Allah'tan korkun ve aranızdan en yaşlı olanı lider seçin. İnsanlar aralarından en yaşlı olanı lider seçtiklerinde, babalarını takip ederler. En genç olanı lider seçtiklerinde, bu onları akranları nezdinde küçültür. Zengin olmalısınız ve bunu iyi kullanmalısınız. Bu, cömertler için bir teşvik olur ve sizi eleştirilerden bağımsız kılar. İnsanlardan istemekten sakının. Bu, bir adamın son gelir kaynağıdır. Ben öldüğümde, feryat etmeyin. Allah'ın Resulü, Allah ona salat ve selam etsin, için feryat edilmedi. Ben öldüğümde, beni Bakr ibn Vail'in bilmeyeceği bir yere gömün. Cahiliye döneminde yollarda pusu kurardım.\""
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 5,
+    "arabic": {
+      "title": "موطأ مالك",
+      "author": "الإمام مالك بن أنس"
+    },
+    "english": {
+      "title": "Muwatta Malik",
+      "author": "Imam Malik ibn Anas"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Rabia ibn Abd ar-Rahman'dan, Handhala ibn Qays az-Zuraqi'den, Rafi ibn Khadij'den, Allah'ın Resulü'nün, ona salat ve selam olsun, tarlaların kiralanmasını yasakladığını rivayet etti."
+    },
+    {
+      "id": 2,
+      "narrator": "",
+      "text": "Handhala dedi ki: \"Rafi ibn Khadij'e, altın ve gümüşle ödeme hakkında sordum, o da 'Bunda bir sakınca yoktur.' dedi.\""
+    },
+    {
+      "id": 3,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 4,
+      "narrator": "",
+      "text": "Malik, bana İbn Şihab'dan aktardı ki, \"Ben Said ibn al-Musayyab'a altın veya gümüşle arazi kiralamak hakkında sordum, o da 'Bunda bir sakınca yoktur.' dedi.\""
+    },
+    {
+      "id": 5,
+      "narrator": "",
+      "text": "---"
+    }
+  ]
+}

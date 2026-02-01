@@ -1,0 +1,21 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 1,
+    "arabic": {
+      "title": "موطأ مالك",
+      "author": "الإمام مالك بن أنس"
+    },
+    "english": {
+      "title": "Muwatta Malik",
+      "author": "Imam Malik ibn Anas"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Luqman el-Hakim'in vasiyet ettiğini ve oğluna şöyle tavsiyede bulunduğunu duyduğunu aktardı: \"Oğlum! Alimlerle otur ve onlara yakın ol. Allah, kalpleri hikmetin nuru ile diriltir, tıpkı Allah'ın ölü toprağı gökyüzünün bol yağmurlarıyla dirilttiği gibi.\""
+    }
+  ]
+}

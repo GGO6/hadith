@@ -1,0 +1,36 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 4,
+    "arabic": {
+      "title": "الأدب المفرد",
+      "author": "الإمام البخاري"
+    },
+    "english": {
+      "title": "Al-Adab Al-Mufrad",
+      "author": "Imam al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "",
+      "text": "Salim ibn Abdullah, babasından, 'Umar'ın oğullarına şöyle dediğini bildirmiştir: \"Sabahleyin ayrılın ve aynı evde bir araya gelmeyin. Aranızda bir ayrılık olmasından veya kötü bir şeyin meydana gelmesinden korkuyorum.\""
+    },
+    {
+      "id": 2,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 3,
+      "narrator": "",
+      "text": "İbn 'Umar, kötü bir yerde bazı koyunları olan bir çoban gördü ve daha iyi bir yer gördü. Ona, \"Vay haline, çoban! Onları hareket ettir! Allah'ın Resulü'nün, ona salat ve selam olsun, 'Her çoban, sürüsünden sorumludur.' dediğini duydum.\" dedi."
+    },
+    {
+      "id": 4,
+      "narrator": "",
+      "text": "---"
+    }
+  ]
+}

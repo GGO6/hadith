@@ -1,0 +1,41 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 5,
+    "arabic": {
+      "title": "موطأ مالك",
+      "author": "الإمام مالك بن أنس"
+    },
+    "english": {
+      "title": "Muwatta Malik",
+      "author": "Imam Malik ibn Anas"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Malik de İbn Şihab'dan, o da Said ibn al-Musayyab ve Abu Salama ibn Abd ar-Rahman ibn Awf'tan, Allah'ın Elçisi'nin (salat ve selam üzerine olsun) henüz bölünmemiş mülklerde ortaklara öncelik hakkı tanıdığını bildirdi. Aralarındaki sınırlar belirlendiğinde, artık öncelik hakkı yoktur."
+    },
+    {
+      "id": 2,
+      "narrator": "",
+      "text": "Malik dedi ki, \"Bu, aramızda tartışmasız olan sünnettir.\""
+    },
+    {
+      "id": 3,
+      "narrator": "",
+      "text": "Malik, Said ibn al-Musayyab'ın, öncelik hakkı hakkında sorulduğunda ve bunun bir sünnet olup olmadığına dair, \"Evet. Öncelik hakkı evlerde ve arazilerde vardır ve yalnızca ortaklar arasında geçerlidir.\" dediğini duyduğunu söyledi."
+    },
+    {
+      "id": 4,
+      "narrator": "",
+      "text": "Malik, bu konuda Sulayman ibn Yasar'dan benzer şeyler duyduğunu aktardı."
+    },
+    {
+      "id": 5,
+      "narrator": "",
+      "text": "Malik, ortak bir mülkten bir ortağı hayvan, köle, cariye veya bunların eşdeğeri bir mal ile satın alan bir adamdan bahsetti. Sonra diğer bir ortak, öncelik hakkını kullanmak istedi ve kölenin veya cariyenin öldüğünü, değerinin ne olduğunu kimsenin bilmediğini öğrendi. Alıcı, \"Kölenin veya cariyenin değeri 100 dinardı.\" dedi. Öncelik hakkına sahip ortak ise, \"Değeri 50 dinardı.\" iddia etti."
+    }
+  ]
+}

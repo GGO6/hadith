@@ -1,0 +1,26 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 2,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Muhammad ibn Jubair ibn Mut'im reported that his father said:",
+      "text": "Muhammed ibn Cubeyr ibn Mut'im, babasından şöyle rivayet etmiştir: \"Allah'ın Elçisi (Allah ona salat ve selam eylesin) dedi ki: “Şüphesiz benim birçok ismim vardır: Ben Muhammed'im; Ben Ahmed'im; Ben al-Mahi'yim (sonrasında hiçbir Peygamberin gelmeyeceği anlamına gelir).”"
+    },
+    {
+      "id": 2,
+      "narrator": "Hudhaifa said:",
+      "text": "Hudeyfe dedi ki: \"Medine'nin sokaklarından birinde Peygamber (Allah ona salat ve selam eylesin) ile karşılaştım ve o şöyle dedi: “Ben Muhammed'im; Ben Ahmed'im; Ben Rahmet Peygamberiyim ve Tövbe Peygamberiyim; Ben Takipçiyim; Ben Toplayıcıyım ve Şiddetli Savaşların Peygamberiyim.”"
+    }
+  ]
+}

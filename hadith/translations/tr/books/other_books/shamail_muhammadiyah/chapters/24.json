@@ -1,0 +1,56 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 8,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "'A’isha said:",
+      "text": "Aişe dedi ki: \"Muhammed'in (Allah ona salat ve selam eylesin) ailesi, Allah'ın Elçisi (Allah ona salat ve selam eylesin) bu dünyadan alındığı güne kadar ardı ardına iki gün bile arpa ekmeğiyle doymadı.\""
+    },
+    {
+      "id": 2,
+      "narrator": "Abu Umama al-Bahili say:",
+      "text": "Ebu Ümame el-Bahili dedi ki: \"Allah'ın Elçisi (Allah ona salat ve selam eylesin) ailesinin evinde asla yeterli miktarda arpa ekmeği bulunmadı.\""
+    },
+    {
+      "id": 3,
+      "narrator": "Ibn 'Abbas said:",
+      "text": "İbn Abbas dedi ki: \"Allah'ın Elçisi (Allah ona salat ve selam eylesin) geceleri aç geçirdi. O ve ailesi akşam yemeği yiyemezdi ve ekmeklerinin çoğu arpa ekmeğiydi.\""
+    },
+    {
+      "id": 4,
+      "narrator": "Sahl ibn Sa'd said that he was asked:",
+      "text": "Sahl ibn Sa'd şöyle dedi: \"Bana soruldu: 'Allah'ın Elçisi (Allah ona salat ve selam eylesin) en iyi un, yani beyaz ekmek yedi mi?' Sahl dedi ki: 'Allah'ın Elçisi (Allah ona salat ve selam eylesin) en iyi unu, Allah ile buluşana kadar görmedi.' Sonra ona soruldu: 'Allah'ın Elçisi (Allah ona salat ve selam eylesin) zamanında eleğimiz var mıydı?' Dedi ki: 'Eleğimiz yoktu.' Ona soruldu: 'Arpayı nasıl işliyordunuz?' Dedi ki: 'Üzerine üflerdik, böylece uçan her şey uçar, sonra yoğururduk.'\""
+    },
+    {
+      "id": 5,
+      "narrator": "Anas ibn Malik said:",
+      "text": "Enes ibn Malik dedi ki: \"Allah'ın Peygamberi (Allah ona salat ve selam eylesin) masada yemek yemezdi, ne de olsa ince ve düz açılmış ekmek onun için pişirilmezdi. Kâtade'ye sordum: 'O zaman ne üzerinde yiyorlardı?' Dedi ki: 'Bu deri parçaları üzerinde.'\""
+    },
+    {
+      "id": 6,
+      "narrator": "Masruq said:",
+      "text": "Mesruk dedi ki: \"Aişe'yi ziyarete gittim, o da benim için bir yemek sipariş etti ve şöyle dedi: 'Ben bir yemekten doymuyorum, ağlamadıkça ağlama isteği duyuyorum.' Ben de: 'Neden?' dedim. O da: 'Allah'ın Elçisi (Allah ona salat ve selam eylesin) bu dünyadan ayrıldığı durumu hatırlıyorum. Vallahi, o günde iki kez ekmek ve etten doymadı!'\""
+    },
+    {
+      "id": 7,
+      "narrator": "'A’isha said:",
+      "text": "Aişe dedi ki: \"Allah'ın Elçisi (Allah ona salat ve selam eylesin) iki gün ardı ardına arpa ekmeğiyle doymadı, ta ki vefat edene kadar.\""
+    },
+    {
+      "id": 8,
+      "narrator": "Anas said:",
+      "text": "Enes dedi ki: \"Allah'ın Elçisi (Allah ona salat ve selam eylesin) masada yemek yemezdi ve ince ve düz açılmış ekmek yemezdi, ta ki vefat edene kadar.\""
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 72,
+    "arabic": {
+      "title": "صحيح مسلم",
+      "author": "الإمام مسلم بن الحجاج"
+    },
+    "english": {
+      "title": "Sahih Muslim",
+      "author": "Imam Muslim ibn al-Hajjaj"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "",
+      "text": "'A'isha, Allah'ın Elçisi (ﷺ) hakkında şöyle bildirmiştir: Hırsızın elinin, bir çeyrek dinar ve yukarısı için kesileceğini."
+    },
+    {
+      "id": 2,
+      "narrator": "",
+      "text": "Bu hadis, Zuhri'nin rivayetiyle aktarılmıştır."
+    },
+    {
+      "id": 3,
+      "narrator": "'A'isha reported Allah's Messenger (ﷺ) as saying:",
+      "text": "'A'isha, Allah'ın Elçisi (ﷺ) şöyle buyurduğunu bildirmiştir: Hırsızın eli, ancak bir çeyrek dinar ve yukarısı için kesilmelidir."
+    },
+    {
+      "id": 4,
+      "narrator": "'A'isha reported:",
+      "text": "'A'isha, Allah'ın Elçisi (ﷺ) şöyle buyurduğunu bildirmiştir: Hırsızın eli, bir çeyrek dinar ve bunun üzerindeki bir miktar için kesilmelidir."
+    },
+    {
+      "id": 5,
+      "narrator": "'A'isha reported that she heard Allah's Apostle (ﷺ) as saying:",
+      "text": "'A'isha, Allah'ın Elçisi (ﷺ) şöyle buyurduğunu bildirmiştir: Hırsızın eli, bir çeyrek dinar ve yukarısı için kesilmez."
+    },
+    {
+      "id": 6,
+      "narrator": "",
+      "text": "Bu hadis, Yazid b. Abdullah b. al-Had'ın rivayetiyle aynı isnat zinciriyle aktarılmıştır."
+    },
+    {
+      "id": 7,
+      "narrator": "",
+      "text": "'A'isha, Allah'ın Elçisi (ﷺ) döneminde, hırsızın elinin, bir kalkan, demir zırh veya zırhın fiyatından daha az bir miktar için kesilmediğini bildirmiştir; her ikisi de değerlidir."
+    },
+    {
+      "id": 8,
+      "narrator": "This hadith has been narrated on the authority of Hisham through another chain of transmitters, and in the hadith narrated by 'Abd al-Rahim and Abu Usama (the words are):",
+      "text": "Bu hadis, Hişam'ın başka bir isnat zinciriyle aktarılmıştır ve 'Abd al-Rahim ile Ebu Usama'nın rivayetinde (şöyle denir): \"O (kalkan) o günlerde değerliydi.\""
+    },
+    {
+      "id": 9,
+      "narrator": "",
+      "text": "İbn 'Umar, Allah'ın Elçisi (sallallahu aleyhi ve sellem) hırsızın elini, fiyatı üç dirhem olan bir kalkanın çalınması durumunda kestiğini bildirmiştir."
+    },
+    {
+      "id": 10,
+      "narrator": "",
+      "text": "Bu hadis, İbn 'Umar'ın başka bazı isnat zincirleriyle aktarılmıştır, ancak kelimelerde hafif bir değişiklik vardır."
+    },
+    {
+      "id": 11,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Ebu Hureyre, Allah'ın Elçisi (ﷺ) şöyle buyurduğunu bildirmiştir: Bir yumurta çalan ve elinin kesilmesine sebep olan hırsıza Allah'ın laneti olsun; bir ip çalan ve elinin kesilmesine sebep olan hırsıza da Allah'ın laneti olsun."
+    },
+    {
+      "id": 12,
+      "narrator": "",
+      "text": "Bu hadis, A'mash'ın aynı isnat zinciriyle hafif bir kelime değişikliğiyle aktarılmıştır."
+    },
+    {
+      "id": 13,
+      "narrator": "'A'isha reported that the Quraish had been anxious about the Makhzumi woman who had committed theft, and said:",
+      "text": "'A'isha, Kureyş'in hırsızlık yapan Makhzumi kadınından endişe duyduğunu ve şöyle dediğini bildirmiştir: Allah'ın Elçisi (ﷺ) ile onun hakkında kim konuşacak? Onlar: Bunu yapmaya cesaret edebilecek kim var ki, Allah'ın Elçisi (ﷺ) tarafından sevilen Usame dışında? Usame ona konuştu. Bunun üzerine Allah'ın Elçisi (ﷺ) dedi ki: Allah'ın belirlediği cezalardan biri hakkında mı araya giriyorsun? Sonra ayağa kalktı ve (insanlara) hitap ederek: Ey insanlar, sizden önceki topluluklar helak oldu; çünkü içlerinden yüksek rütbeli biri hırsızlık yaptığında onu affediyorlar, ama aralarından düşük rütbeli biri hırsızlık yaptığında ona belirlenen ceza uygulanıyordu. Allah'a yemin ederim ki, eğer Fatıma, Muhammed'in kızı hırsızlık yapsa, onun elini keserdim. İbn Rumh'ın rivayetinde (şöyle denir): \"Gerçekten sizden öncekiler helak oldu.\""
+    },
+    {
+      "id": 14,
+      "narrator": "`A'isha, the wife of Allah's Apostle (ﷺ), reported that the Quraish were concerned about the woman who had committed theft during the lifetime of Allah's Apostle (ﷺ), in the expedition of Victory (of Mecca). They said:",
+      "text": "'A'isha, Allah'ın Elçisi (ﷺ) döneminde Kureyş'in, fetih seferinde hırsızlık yapan kadından endişe duyduğunu bildirmiştir. Onlar: Allah'ın Elçisi (ﷺ) ile onun hakkında kim konuşacak? Yine dediler: Bunu yapmaya cesaret edebilecek kim var ki, Allah'ın Elçisi (ﷺ) tarafından sevilen Usame b. Zaid dışında? Kadın, Allah'ın Elçisi (ﷺ) huzuruna getirildi ve Usame b. Zaid onun hakkında (şefaatte) bulundu. Allah'ın Elçisi (ﷺ)'nin yüzünün rengi değişti ve dedi ki: Allah'ın belirlediği cezalardan birine mi araya giriyorsun? Usame dedi: 'Ey Allah'ın Elçisi, benim için bağışla.' Akşam olunca, Allah'ın Elçisi (ﷺ) ayağa kalktı ve bir konuşma yaptı. Önce Allah'ı, O'na layık olduğu şekilde tesbih etti, sonra dedi ki: Şimdi konumuza gelelim. Bu (adaletsizlik) sizden öncekileri helak etti; çünkü içlerinden yüksek rütbeli biri hırsızlık yaptığında onu affediyorlar, ama aralarından zayıf biri hırsızlık yaptığında ona belirlenen ceza uygulanıyordu. Canım elinde olan Allah'a yemin ederim ki, eğer Fatıma, Muhammed'in kızı hırsızlık yapsa, onun elini keserdim. Sonra o hırsızlık yapan kadın hakkında emir verdi ve elinin kesilmesini sağladı. 'A'isha (daha sonra) dedi ki: Onun iyi bir tevbesi vardı, sonra evlendi ve daha sonra bana gelirdi ve ben onun ihtiyaçlarını (ve sorunlarını) Allah'ın Elçisi (ﷺ)'ne iletirdim."
+    },
+    {
+      "id": 15,
+      "narrator": "",
+      "text": "'A'isha, Makhzum kabilesinden bir kadının insanlardan eşyalar borç alıp sonra bunları aldığını inkar ettiğini bildirmiştir. Allah'ın Elçisi (ﷺ) onun elinin kesilmesini emretti. Onun akrabaları Usame b. Zaid'e geldiler ve ona (şefaat etmesi için) konuştular. O da Allah'ın Elçisi (ﷺ) ile onun hakkında konuştu. Hadisin geri kalanı aynıdır."
+    },
+    {
+      "id": 16,
+      "narrator": "Jaibir reported that a woman from the tribe of Makhzum committed theft. She was brought to Allah's Apostle (ﷺ) and she sought refuge (intercession) from Umm Salama, the wife of Allah's Apostle (ﷺ). Thereupon Allah's Apostle (ﷺ) said:",
+      "text": "Cabir, Makhzum kabilesinden bir kadının hırsızlık yaptığını bildirdi. Kadın, Allah'ın Elçisi'ne (ﷺ) getirildi ve Allah'ın Elçisi'nin (ﷺ) eşi Ümmü Seleme'den (şefaat) sığındı. Bunun üzerine Allah'ın Elçisi (ﷺ) şöyle dedi: \"Allah'a yemin ederim ki, eğer o Fatıma olsa bile, onun elini keserdim.\" Ve böylece onun eli kesildi."
+    },
+    {
+      "id": 17,
+      "narrator": "'Ubada b. as-Samit reported:",
+      "text": "Ubade b. es-Samit, Allah'ın Elçisi'nin (ﷺ) şöyle dediğini bildirdi: \"Benden (öğrenin), benden (öğrenin). Allah, (bu kadınlar için) bir yol belirlemiştir. Bekar bir erkek, bekar bir kadınla zina ederse, yüz sopa ve bir yıl sürgün cezası almalıdır. Evli bir erkek, evli bir kadınla zina ederse, yüz sopa ve taşlanarak öldürülmelidir.\""
+    },
+    {
+      "id": 18,
+      "narrator": "",
+      "text": "Yukarıdaki hadis, başka bir rivayet zinciriyle de aktarılmıştır."
+    },
+    {
+      "id": 19,
+      "narrator": "'Ubada b. as-Samit reported that whenever Allah's Apostle (ﷺ) received revelation, he felt its rigour and the complexion of his face changed. One day revelation descended upon him, he felt the same rigour. When it was over and he felt relief, he said:",
+      "text": "Ubade b. es-Samit, Allah'ın Elçisi'ne (ﷺ) vahiy geldiğinde, bunun zorluğunu hissettiğini ve yüzünün renginin değiştiğini bildirdi. Bir gün vahiy indiğinde, aynı zorluğu hissetti. Vahiy sona erdiğinde ve rahatladığında, \"Benden alın. Şüphesiz Allah, onlara (zina eden kadınlara) bir yol belirlemiştir: Evli bir erkek evli bir kadınla zina ederse, ve bekar bir erkek bekar bir kadınla zina ederse, evli olanlar için yüz sopa ve ardından taşlanarak öldürme cezası vardır. Bekar olanlar için ise, yüz sopa ve bir yıl sürgün cezası vardır.\""
+    },
+    {
+      "id": 20,
+      "narrator": "",
+      "text": "Bu hadis, Katade'nin rivayetiyle aynı zincirden aktarılmıştır, ancak bekar olanın sopa ve sürgün cezası alacağı, evli olanın ise sopa ve taşlanarak öldürüleceği belirtilmiştir. Bir yıl veya yüz sopa hakkında herhangi bir bahsedilmemiştir."
+    },
+    {
+      "id": 21,
+      "narrator": "'Abdullah b. 'Abbas reported that 'Umar b. Khattab sat on the pulpit of Allah's Messenger (ﷺ) and said:",
+      "text": "Abdullah b. Abbas, Ömer b. Hattab'ın Allah'ın Elçisi'nin (ﷺ) minberinde oturduğunu ve şöyle dediğini bildirdi: \"Şüphesiz Allah, Muhammed'i (ﷺ) hak ile göndermiştir ve ona Kitap indirmiştir, ve taşlama ayeti de ona indirilenler arasındadır. Biz onu okuduk, hafızamızda tuttuk ve anladık. Allah'ın Elçisi (ﷺ) evli zina edenlere taşlama cezası vermiştir ve ondan sonra biz de taşlama cezası verdik. Zamanla insanların bunu unutmasından korkuyorum ve 'Allah'ın Kitabında taşlama cezasını bulamıyoruz' diyerek Allah'ın bu farzını terk ederler. Taşlama, evli erkekler ve kadınlar için, delil bulunduğunda, ya da hamilelik durumunda veya itiraf durumunda Allah'ın Kitabında belirlenmiş bir görevdir.\""
+    },
+    {
+      "id": 22,
+      "narrator": "",
+      "text": "Bu hadis, Zuhri'nin rivayetiyle aynı zincirden aktarılmıştır."
+    },
+    {
+      "id": 23,
+      "narrator": "Abu Huraira reported that a person from amongst the Muslims came to Allah's Messenger (ﷺ) while he was in the mosque. He called him saying:",
+      "text": "Ebu Hureyre, Müslümanlardan bir kişinin Allah'ın Elçisi'nin (ﷺ) yanında camide olduğunu bildirdi. O, \"Allah'ın Elçisi, zina ettim\" dedi. (Peygamber) ona döndü, o tekrar yüzüne bakarak \"Allah'ın Elçisi, zina ettim\" dedi. (Peygamber) ona döndü, ta ki bunu dört kez tekrarlayana kadar. Kendi aleyhine dört kez şehadet ettikten sonra, Allah'ın Elçisi (ﷺ) ona \"Delimi oldun?\" dedi. O \"Hayır\" dedi. (Peygamber) tekrar \"Evli misin?\" dedi. O \"Evet\" dedi. Bunun üzerine Allah'ın Elçisi (ﷺ) \"Onu al ve taşla\" dedi."
+    },
+    {
+      "id": 24,
+      "narrator": "Ibn Shihab (one of the narrators) said:",
+      "text": "İbn Şihab (rivayet edenlerden biri) dedi ki: \"Cabir b. Abdullah'ın bunu söylediğini duyan biri bana şöyle bildirdi: Ben onu taşlayanlardan biriydim. Onu namaz yerinde (ya 'İd ya da cenaze) taşladık. Taşlar ona zarar verdiğinde, o kaçtı. Biz onu Harra'da yakaladık ve taşlayarak öldürdük.\""
+    },
+    {
+      "id": 25,
+      "narrator": "",
+      "text": "Bu hadis, başka bir rivayet zinciriyle aktarılmıştır."
+    },
+    {
+      "id": 26,
+      "narrator": "",
+      "text": "Bu hadis, Ebu Hureyre'den başka rivayet zincirleriyle aktarılmıştır."
+    },
+    {
+      "id": 27,
+      "narrator": "Jabir b. Samura reported:",
+      "text": "Cabir b. Semura, Allah'ın Elçisi'ne (ﷺ) getirildiğinde, Ma'iz b. Malik'i gördüğünü bildirdi - kısa boylu, güçlü kaslara sahip, üstünde bir örtü olmayan bir kişi. Kendi aleyhine dört kez zina ettiğini şehadet etti, bunun üzerine Allah'ın Elçisi (ﷺ) \"Belki (onu öptün ya da kucakladın)\" dedi. O \"Hayır, Allah'a yemin ederim ki, sapkın birisi zina etmiştir.\" Sonra onu taşlayarak öldürdü ve ardından hitap etti: \"Bakın, Allah yolunda cihada çıktığımızda, aranızdan biri geri kaldı ve bir keçinin melemeleri gibi çığlık attı ve az miktarda süt verdi. Allah'a yemin ederim ki, eğer onu yakalarsam, kesinlikle ceza vereceğim.\""
+    },
+    {
+      "id": 28,
+      "narrator": "Jabir b. Samura reported that there was brought to Allah's Messenger (ﷺ) a short-statured person with thick uncombed hair, muscular body, having a mantle around him and he had committed adultery. He turned him away twice and then made pronouncement about him and he was stoned. Then Allah's Messenger (ﷺ) said:",
+      "text": "Cabir b. Semura, Allah'ın Elçisi'ne (ﷺ) getirilen kısa boylu, dağınık saçlı, kaslı bir kişinin olduğunu bildirdi. Üzerinde bir örtü vardı ve zina etmişti. Onu iki kez geri çevirdi ve sonra hakkında hüküm verdi ve taşlandı. Sonra Allah'ın Elçisi (ﷺ) şöyle dedi: \"Allah yolunda cihada çıktık ve aranızdan biri geri kaldı ve bir keçinin melemeleri gibi çığlık attı ve onlardan biri az miktarda süt verdi. Eğer Allah bana onlardan birine güç verirse, onu (öyle bir şekilde cezalandıracağım ki, diğerlerine de caydırıcı etkisi olsun).\" Başka bir rivayette Sa'id b. Cübeyr'in rivayetiyle, \"O (Peygamber) onu dört kez geri çevirdi\" şeklinde geçmektedir."
+    },
+    {
+      "id": 29,
+      "narrator": "",
+      "text": "Bu hadis, Cabir b. Semura'nın rivayetiyle başka bir zincirden aktarılmıştır; ancak (Peygamber) onu iki veya üç kez geri çevirdiği belirtilmiştir."
+    },
+    {
+      "id": 30,
+      "narrator": "Ibn Abbas reported that Allah's Apostle (ﷺ) said to Ma'iz b. Malik:",
+      "text": "İbn Abbas, Allah'ın Elçisi'nin (ﷺ) Ma'iz b. Malik'e şöyle dediğini bildirdi: \"Hakkında bana ulaşan doğru mu?\" O \"Sana ne ulaştı?\" dedi. O \"Şöyle ulaştı: Sen, falan kişinin cariyesiyle zina ettin mi?\" dedi. O \"Evet\" dedi. (Rivayet eden) dedi ki: \"O dört kez şehadet etti. Sonra (Peygamber) onun hakkında hüküm verdi ve taşlandı.\""
+    },
+    {
+      "id": 31,
+      "narrator": "Abu Sa'id reported that a person belonging to the clan of Aslam, who was called Ma, iz b. Malik, came to Allah's Messenger (ﷺ) and said:",
+      "text": "Ebu Sa'id, Aslam kabilesinden Ma'iz b. Malik adında bir kişinin Allah'ın Resulü'ne (ﷺ) gelerek, \"Ben zina ettim, bana ceza ver\" dediğini bildirdi. Allah'ın Resulü (ﷺ) onu defalarca geri çevirdi. Sonra onun akıl durumu hakkında halkına sordu. Onlar, \"Onun hakkında bildiğimiz bir hastalık yok, sadece yaptığı şeyin yükünden kurtulamayacağını düşündüğü bir şey var\" dediler. Ma'iz, Allah'ın Resulü'ne (ﷺ) geri döndü ve ona taşlanmasını emretti. Biz onu Baqi' al-Gharqad'a (Medine mezarlığı) götürdük. Ne onu bağladık ne de onun için bir çukur kazdık. Ona kemiklerle, toprak parçalarıyla ve çakıllarla saldırdık. O kaçtı ve biz de peşinden koştuk, ta ki taşlık alana (el-Harra) gelene kadar orada durdu ve biz onu Harra'nın ağır taşlarıyla taşladık, ta ki hareketsiz kalana (ölene) kadar. O (Peygamber) akşam bize hitap ederek şöyle dedi: \"Allah yolunda bir sefere çıktığımızda, aramızdan biri arkamızda kalıp, erkek keçinin melemeleri gibi çığlık atıyor. Eğer böyle bir fiil işleyen biri bana getirilirse, onu cezalandırmam şarttır.\" Ne onun için af diledi ne de ona lanet etti."
+    },
+    {
+      "id": 32,
+      "narrator": "Dawud narrated the hadith with the same chain of transmitters (and the words are):",
+      "text": "Davud, aynı raviler zinciriyle hadisi nakletti (ve sözler şöyle): Allah'ın Resulü (ﷺ) akşamleyin ayağa kalktı (cemaatle hitap etmek için) ve Allah'ı övdü, yüceltti, sonra şöyle dedi: \"Sefere çıktığımızda, aramızdan biri arkamızda kalıp, erkek keçinin melemeleri gibi çığlık atıyor? Ama o (bu sözleri) söylemedi: \"Bizimle bağlantılı insanlar.\""
+    },
+    {
+      "id": 33,
+      "narrator": "This hadith has been narrated on the authority of Dawud with the same chain of transmitters but with this variation that in the hadith narrated by Sufyan (the words are):",
+      "text": "Bu hadis, Davud'un rivayetiyle aynı raviler zincirinden nakledilmiştir, ancak Sufyan tarafından nakledilen hadisteki farklılık şudur: \"Zina ettiğini üç kez itiraf etti.\""
+    },
+    {
+      "id": 34,
+      "narrator": "Sulaiman b. Buraida reported on the authority of his father that Ma, iz b. Malik came to Allah's Apostle (ﷺ) and said to him:",
+      "text": "Süleyman b. Buraida, babasından naklen, Ma'iz b. Malik'in Allah'ın Resulü'ne (ﷺ) gelerek, \"Allah'ın Resulü, beni temizle\" dediğini bildirdi. Bunun üzerine o, \"Vay haline, geri dön, Allah'tan af dile ve O'na tevbe et\" dedi. (Ravi) dedi ki, o çok uzaklaşmadan geri döndü, sonra geldi ve \"Allah'ın Resulü, beni temizle\" dedi. Bunun üzerine Allah'ın Resulü (ﷺ) yine \"Vay haline, geri dön ve Allah'tan af dile ve O'na tevbe et\" dedi. (Ravi) dedi ki, o çok uzaklaşmadan geri döndü ve \"Allah'ın Resulü, beni temizle\" dedi. Allah'ın Resulü (ﷺ) daha önce söylediği gibi söyledi. Dördüncü kez olduğunda, onun için bir çukur kazıldı ve (Allah'ın Resulü) onun hakkında hüküm verdi ve taşlandı. (Ravi) dedi ki, ona (Allah'ın Resulü) Ghamid kabilesinden bir kadın geldi ve \"Allah'ın Resulü, ben zina ettim, beni temizle\" dedi. O (Peygamber) onu geri çevirdi. Ertesi gün, \"Allah'ın Resulü, neden beni geri çeviriyorsun? Belki de beni Ma'iz b. Malik gibi geri çeviriyorsun. Vallahi, hamile kaldım\" dedi. O (Peygamber) dedi ki, \"Eğer ısrar ediyorsan, o zaman doğurana kadar git.\" Doğum yaptıktan sonra, çocuğu (bir bezle) sarılı halde getirdi ve \"İşte doğurduğum çocuk\" dedi. O (Peygamber) dedi ki, \"Git ve onu emzir, ta ki onu sütten kesene kadar.\" O, çocuğu sütten kestikten sonra, çocuğu elinde ekmek parçası tutarken getirdi. \"Allah'ın Resulü, işte onu sütten kestim ve yiyecek yiyor\" dedi. O (Peygamber) çocuğu Müslümanlardan birine emanet etti ve sonra ceza verdi. O, çukurda beline kadar gömüldü ve insanlara emir verdi ve taşlandılar. Halid b. Velid, bir taşla geldi ve onu başına fırlattı, kan Halid'in yüzüne sıçradı ve ona hakaret etti. Allah'ın Resulü (ﷺ) onun (Halid'in) ona hakaret ettiğini duydu. Bunun üzerine o (Peygamber) dedi: \"Halid, nazik ol. Canım elinde olan Allah'a yemin ederim ki, o öyle bir tevbe etti ki, eğer bir haksız vergi toplayıcısı tevbe etseydi, affedilirdi.\" Sonra onunla ilgili emir vererek, onun için dua etti ve gömüldü."
+    },
+    {
+      "id": 35,
+      "narrator": "'Abdullah b. Buraida reported on the authority of his father that Ma'iz b. Malik al-Aslami came to Allah's Messenger (ﷺ) and said:",
+      "text": "Abdullah b. Buraida, babasından naklen, Ma'iz b. Malik el-Aslami'nin Allah'ın Resulü'ne (ﷺ) gelerek, \"Allah'ın Resulü, kendime zulmettim; zina ettim ve beni temizlemeni istiyorum\" dediğini bildirdi. O, onu geri çevirdi. Ertesi gün, o (Ma'iz) tekrar geldi ve \"Allah'ın Resulü, zina ettim\" dedi. Allah'ın Resulü (ﷺ) onu ikinci kez geri çevirdi ve halkına, \"Onun aklında bir sorun var mı?\" diye sordu. Onlar, \"Onun aklında böyle bir şey yok, onu akıllı bir iyi adam olarak biliyoruz\" dediler. O (Ma'iz) üçüncü kez geldi ve o (Peygamber) onu daha önce yaptığı gibi geri çevirdi. Onun hakkında sordular ve ona, \"Onun aklında ya da aklında bir sorun yok\" dediler. Dördüncü kez olduğunda, onun için bir çukur kazıldı ve o (Peygamber) onun hakkında hüküm verdi ve taşlandı. (Ravi) dedi ki, ona (Peygamber) Ghamid kabilesinden bir kadın geldi ve \"Allah'ın Resulü, zina ettim, beni temizle\" dedi. O (Peygamber) onu geri çevirdi. Ertesi gün, \"Allah'ın Resulü, neden beni geri çeviriyorsun? Belki de beni Ma'iz gibi geri çeviriyorsun. Vallahi, hamile kaldım\" dedi. O (Peygamber) dedi ki, \"Eğer ısrar ediyorsan, o zaman doğurana kadar git.\" Doğum yaptıktan sonra, çocuğu (bir bezle) sarılı halde getirdi ve \"İşte doğurduğum çocuk\" dedi. O (Peygamber) dedi ki, \"Git ve onu emzir, ta ki onu sütten kesene kadar.\" O, çocuğu sütten kestikten sonra, çocuğu elinde ekmek parçası tutarken getirdi. \"Allah'ın Resulü, işte onu sütten kestim ve yiyecek yiyor\" dedi. O (Peygamber) çocuğu Müslümanlardan birine emanet etti ve sonra ceza verdi. O, çukurda beline kadar gömüldü ve insanlara emir verdi ve taşlandılar. Halid b. Velid, bir taşla geldi ve onu başına fırlattı, kan Halid'in yüzüne sıçradı ve ona hakaret etti. Allah'ın Resulü (ﷺ) onun (Halid'in) ona hakaret ettiğini duydu. Bunun üzerine o (Peygamber) dedi: \"Halid, nazik ol. Canım elinde olan Allah'a yemin ederim ki, o öyle bir tevbe etti ki, eğer bir haksız vergi toplayıcısı tevbe etseydi, affedilirdi.\" Sonra onunla ilgili emir vererek, onun için dua etti ve gömüldü."
+    },
+    {
+      "id": 36,
+      "narrator": "Imran b. Husain reported that a woman from Juhaina came to Allah's Apostle (ﷺ) and she had become pregnant because of adultery. She said:",
+      "text": "İmran b. Hüsayn, Cuhayna kabilesinden bir kadının Allah'ın Resulü'ne (ﷺ) gelerek zina nedeniyle hamile kaldığını bildirdi. O, \"Allah'ın Resulü, benim üzerime (ceza) konulması gereken bir şey yaptım, o yüzden bunu uygula\" dedi. Allah'ın Resulü (ﷺ) onun efendisini çağırdı ve \"Ona iyi davran, doğum yapınca beni getir\" dedi. O, buna göre hareket etti. Sonra Allah'ın Resulü (ﷺ) onun hakkında hüküm verdi ve elbiseleri bağlandı ve sonra emir verdi ve taşlandı. O, onun (ölü bedenine) dua etti. Bunun üzerine Ömer ona dedi: \"Allah'ın Resulü, sen onun için dua ediyorsun, oysa o zina etti!\" Bunun üzerine o dedi: \"O, öyle bir tevbe etti ki, eğer bu tevbe yetmiş Medineliye bölünseydi, hepsine yeterdi. Onun için daha iyi bir tevbe buldun mu ki, o hayatını Allah'a, yüce olanına feda etti?\""
+    },
+    {
+      "id": 37,
+      "narrator": "",
+      "text": "Bu hadis, Yahya b. Ebu Katir'in rivayetiyle aktarılmıştır."
+    },
+    {
+      "id": 38,
+      "narrator": "Abu Huraira and Zaid b Khalid al-Juhani reported that one of the desert tribes came to Allah's Messenger (ﷺ) and said:",
+      "text": "Ebu Hureyre ve Zaid b. Halid el-Cuhani, çöl kabilelerinden birinin Allah'ın Resulü'ne (ﷺ) gelerek, \"Allah'ın Resulü, Allah adına senden rica ediyorum ki, benimle Allah'ın Kitabı'na göre hüküm ver\" dediğini bildirdi. İkinci davacı, ondan daha akıllı olanı, \"Peki, Allah'ın Kitabı'na göre aramızda hüküm ver, ama bana (bir şey söylememe) izin ver\" dedi. Bunun üzerine Allah'ın Resulü (ﷺ) dedi: \"Söyle.\" O dedi: \"Oğlum bu kişinin evinde bir hizmetçiydi ve onun karısıyla zina etti. Oğlumun bu suç için taşlanması gerektiği söylendi. Bunun için yüz koyun ve bir cariye fidye verdim. Bu suç için bir kefaret olarak bu yeter mi diye âlimlere sordum. Onlar, oğlumun yüz değnek ve bir yıl sürgün cezasına çarptırılacağını, bu kadının ise (evli olduğu için) taşlanması gerektiğini söylediler. Bunun üzerine Allah'ın Resulü (ﷺ) dedi: \"Canım elinde olan Allah'a yemin ederim ki, ben sizin aranızda Allah'ın Kitabı'na göre hüküm vereceğim. Cariye ve koyunlar geri verilecek, oğlunuz yüz değnek ve bir yıl sürgün cezasına çarptırılacak. Ve, ey Unais (b. Zuhaq el-Aslami), bu kadına sabah gidin, eğer itiraf ederse, onu taşlayın.\" (Ravi) dedi ki, sabah ona gitti ve o itiraf etti. Ve Allah'ın Resulü (ﷺ) onun hakkında hüküm verdi ve taşlandı."
+    },
+    {
+      "id": 39,
+      "narrator": "",
+      "text": "Bu hadis, Zuhri'nin aynı raviler zincirinden nakledilmiştir."
+    },
+    {
+      "id": 40,
+      "narrator": "Abdullah b. 'Umar reported that a Jew and a Jewess were brought to Allah's Messenger (ﷺ) who had committed adultery. Allah's Messenger (ﷺ) came to the Jews and said:",
+      "text": "Abdullah b. Ömer, zina eden bir Yahudi ve bir Yahudi kadının Allah'ın Resulü'ne (ﷺ) getirildiğini bildirdi. Allah'ın Resulü (ﷺ) Yahudilere geldi ve \"Zina eden biri için Tevrat'ta ne buluyorsunuz?\" dedi. Onlar, \"Yüzlerini karartır ve onları eşeklerin üzerine, yüzleri ters yöne dönük ve sırtları birbirine değecek şekilde bindiririz, sonra şehri dolaştırırız\" dediler. O dedi: \"Eğer doğru söylüyorsanız, Tevrat'ı getirin.\" Onlar onu getirdiler ve okumaya başladılar, ta ki taşlama ile ilgili ayete geldiklerinde, okuyan kişi elini taşlama ile ilgili ayetin üzerine koydu ve sadece ellerinin arasındaki ve sonrasını okudu. O sırada Allah'ın Resulü (ﷺ) yanında bulunan Abdullah b. Selim, \"Ona (okuyana) elini kaldırmasını emret\" dedi. O, elini kaldırdı ve altında taşlama ile ilgili ayet vardı. Allah'ın Resulü (ﷺ) her ikisi hakkında hüküm verdi ve taşlandılar. Abdullah b. Ömer dedi ki: \"Ben de onları taşlayanlardan biriydim ve onu (Yahudi erkeği) onun (Yahudi kadını) korurken gördüm.\""
+    },
+    {
+      "id": 41,
+      "narrator": "",
+      "text": "İbn Ömer, zina eden Yahudilerin, hem erkek hem de kadın, Allah'ın Resulü (ﷺ) tarafından taşlandığını bildirdi. Yahudiler onları Allah'ın Resulü'ne (ﷺ) getirdiler. Hadisin geri kalanı aynıdır."
+    },
+    {
+      "id": 42,
+      "narrator": "",
+      "text": "İbn Ömer, zina eden bir erkek ve bir kadının Yahudiler tarafından Allah'ın Resulü'ne (ﷺ) getirildiğini bildirdi. Hadisin geri kalanı aynıdır."
+    },
+    {
+      "id": 43,
+      "narrator": "Al-Bara' b. 'Azib reported:",
+      "text": "El-Bara' b. Azib, Allah'ın Resulü'nün (ﷺ) yanından geçen bir Yahudi'nin karartılmış ve kırbaçlanmış olduğunu bildirdi. Allah'ın Resulü (ﷺ) onları (Yahudileri) çağırdı ve \"Bu, zina için Kitabınızda bulduğunuz bir ceza mı?\" dedi. Onlar, \"Evet\" dediler. O (Peygamber) içlerinden bir âlimi çağırdı ve \"Musa'ya indirilmiş Tevrat'a yemin ederim ki, bu sizin Kitabınızda zina için belirlenmiş bir ceza mı?\" dedi. O, \"Hayır. Eğer bana Allah adına sormasaydın, bu bilgiyi vermezdim. Biz, Tevrat'ta taşlama cezasını buluyoruz. Ama bu (suç) aristokrat sınıfımız arasında oldukça yaygın hale geldi. Bu yüzden, zengin birini yakaladığımızda, onu affettik, ama çaresiz birini yakaladığımızda, ona belirlenmiş cezayı uyguladık. Sonra dedik ki: Hem zenginlere hem de fakirlere uygulayabileceğimiz bir ceza üzerinde anlaşalım. Böylece yüzlerini kömürle karartmak ve taşlama yerine kırbaçlamak kararı aldık.\" Bunun üzerine Allah'ın Resulü (ﷺ) dedi: \"Ey Allah, ben senin emrini dirilten ilk kişiyim, onlar onu öldürmüşlerdi.\" Sonra emir verdi ve (suçlu) taşlandı. Yüce ve Şanlı Allah, \"Ey Resulüm, birbirleriyle yalan söylemekte yarışanların davranışları seni üzmesin...\" ayetini indirdi."
+    },
+    {
+      "id": 44,
+      "narrator": "This hadith has been narrated on the authority of A'mash up to the words:",
+      "text": "Bu hadis, A'maş'tan, \"Allah'ın Resulü (ﷺ) hüküm verdi ve taşlandı\" sözlerine kadar aktarılmıştır. Ve ayetlerin indirilmesiyle ilgili hiçbir şey zikredilmemiştir."
+    },
+    {
+      "id": 45,
+      "narrator": "",
+      "text": "Cabir b. Abdullah, Allah'ın Resulü'nün (ﷺ) Banu Aslam'dan bir kişiyi ve bir Yahudi ile karısını taşladığını bildirdi."
+    },
+    {
+      "id": 46,
+      "narrator": "",
+      "text": "Bu hadis, Juraij'in rivayetiyle, kelimelerde hafif bir değişiklikle aktarılmıştır."
+    },
+    {
+      "id": 47,
+      "narrator": "Abu Ishaq Shaibani said:",
+      "text": "Ebu İshak Şaibani dedi ki: 'Abdullah b. Ebu Aufa'ya, Allah'ın Resulü (ﷺ) taşlama cezası verdi mi diye sordum. O da: Evet, dedi. Ben de: Nur Suresi indirildikten sonra mı yoksa öncesinde mi? dedim. O: Bilmiyorum, dedi."
+    },
+    {
+      "id": 48,
+      "narrator": "Abu Huraira reported that he heard Allah's Messenger (ﷺ) as saying:",
+      "text": "Ebu Hureyre, Allah'ın Resulü (ﷺ) şöyle derken duyduğunu bildirdi: Sizden herhangi birinin cariyesi zina ettiğinde ve bu (suçu) açığa çıktığında, ona (belirtilen) ceza olarak kırbaç vurulmalıdır, fakat ona hakaret edilmemelidir. Eğer tekrar zina ederse, ona (yine) kırbaç vurulmalıdır, fakat ona hakaret edilmemelidir. Eğer üçüncü kez zina eder ve bu açığa çıkarsa, o zaman onu satmalıdır, hatta sadece bir saç ipi karşılığında bile."
+    },
+    {
+      "id": 49,
+      "narrator": "",
+      "text": "Bu hadis, Ebu Hureyre'den başka bir rivayet zinciriyle, kelimelerde hafif bir değişiklikle aktarılmıştır."
+    },
+    {
+      "id": 50,
+      "narrator": "Abu Huraira reported that Allah's Messenger (ﷺ) was asked about the slave-woman who committed adultery and was not protected (married). He said:",
+      "text": "Ebu Hureyre, Allah'ın Resulü (ﷺ) zina eden ve korunmayan (evli olmayan) cariye hakkında sorulduğunda şöyle dedi: Eğer zina ederse, onu kırbaçla vurun ve eğer tekrar zina ederse, onu kırbaçla vurun ve sonra onu bir ip karşılığında bile satın. İbn Şihab dedi ki: Bu (cariyenin satılmasıyla ilgili) sözünü üçüncü veya dördüncü kez mi söylediğini bilmiyorum. İbn Şihab, metinde geçen \"dafir\" kelimesinin ip anlamına geldiğini söyledi."
+    },
+    {
+      "id": 51,
+      "narrator": "",
+      "text": "Bu hadis, Ebu Hureyre ve Zeyd b. Halid el-Cüheni'den rivayet edilmiştir, ancak burada İbn Şihab'ın \"dafir ip demektir\" sözlerine yer verilmemiştir."
+    },
+    {
+      "id": 52,
+      "narrator": "",
+      "text": "Bu hadis, Ebu Hureyre ve Zeyd b. Halid el-Cüheni'den, Malik'in rivayet ettiği gibi aktarılmıştır; ancak burada, zina eden cariyenin satışının üçüncü mü yoksa dördüncü kez mi zikredildiği konusunda bir şüphe vardır."
+    },
+    {
+      "id": 53,
+      "narrator": "Abd al-Rahman reported that 'Ali, while delivering the address said:",
+      "text": "Abd al-Rahman, 'Ali'nin bir konuşma yaparken şöyle dediğini bildirdi: Ey insanlar, kölelerinize, evli olanlara ve evli olmayanlara, belirlenmiş cezayı uygulayın; çünkü Allah'ın Resulü (ﷺ) bir cariyenin zina ettiğini bildirdi ve onu kırbaçlamamı emretti. Fakat o yeni doğum yapmıştı ve ben onu kırbaçlarsam öldürebileceğimden korktum. Bunu Allah'ın Resulü'ne (ﷺ) söyledim ve o: İyi yaptın, dedi."
+    },
+    {
+      "id": 54,
+      "narrator": "This hadith has been narrated on the authority of as-Suddi with the same chain of trznsmitters, but he did not mention:",
+      "text": "Bu hadis, as-Suddi'den aynı rivayet zinciriyle aktarılmıştır, ancak o: \"Evli olanlar ve evli olmayanlar\" ifadesini zikretmemiştir. Ayrıca: \"Onu iyi olana kadar bekletiyorum.\" şeklinde bir ek vardır."
+    },
+    {
+      "id": 55,
+      "narrator": "Anas b. Malik reported that a person who had drink wine was brought to Allah's Apostle (ﷺ). He gave him forty stripes with two lashes. Abu Bakr also did that, but when Umar (assumed the responsibilities) of the Caliphate, he consulted people and Abd al-Rahman said:",
+      "text": "Anas b. Malik, içki içen bir kişinin Allah'ın Resulü'ne (ﷺ) getirildiğini bildirdi. O, ona iki kırbaçla kırk sopa vurdu. Ebu Bekir de bunu yaptı, fakat Umar (halifelik görevine) geçtiğinde, insanlarla istişare etti ve Abd al-Rahman dedi ki: İçki için en hafif ceza seksen (sopa)dır ve 'Umar bu cezayı belirledi."
+    },
+    {
+      "id": 56,
+      "narrator": "",
+      "text": "Bu hadis, Anas'tan başka bir rivayet zinciriyle aktarılmıştır."
+    },
+    {
+      "id": 57,
+      "narrator": "Anas b. Malik reported that Allah's Apostle (ﷺ) gave a beating with palm branches and shoes, and that Abu Bakr gave forty lashes. When Umar (became the Commander of the Faithful) and the people went near to pastures and towns, he said (to the Companions of the Holy Prophet). What is your opinion about lashing for drinking? Thereupon Abd al-Rahman b. Auf said:",
+      "text": "Anas b. Malik, Allah'ın Resulü (ﷺ) içki içenlere hurma dalları ve ayakkabılarla kırbaç vurduğunu, Ebu Bekir'in de kırk sopa vurduğunu bildirdi. Umar (müminlerin emiri olduğunda) insanlar meralara ve şehirlere yaklaştıklarında, (Peygamberin arkadaşlarına) içki için kırbaç cezası hakkında ne düşündüğünüzü sordu. Bunun üzerine Abd al-Rahman b. Auf dedi ki: Benim görüşüm, bunu en hafif ceza olarak belirlemenizdir. Sonra 'Umar seksen sopa vurdu."
+    },
+    {
+      "id": 58,
+      "narrator": "",
+      "text": "Bu hadis, Hişam'dan aynı rivayet zinciriyle aktarılmıştır."
+    },
+    {
+      "id": 59,
+      "narrator": "",
+      "text": "Anas, Allah'ın Resulü (ﷺ) içki içenlere kırk kez ayakkabılarla ve hurma dallarıyla vurduğunu bildirdi. Hadisin geri kalanı aynıdır ve meralar ve şehirlerden bahsedilmemektedir."
+    },
+    {
+      "id": 60,
+      "narrator": "Hudain b. al-Mundhir Abu Sasan reported:",
+      "text": "Hudain b. el-Mundhir Ebu Sasan, Walid'in sabah namazının iki rekâtını kıldıktan sonra Uthman b. Affan'a getirildiğini gördüğünü bildirdi. Sonra: Size bir artış yapıyorum, dedi. İki adam ona karşı şahitlik etti. Bunlardan biri Humran'dı ve onun içki içtiğini söyledi. Diğeri ise onu kusarken gördüğünü şahitlik etti. Uthman: O, içki içmeden kusmazdı, dedi. 'Ali, ayağa kalk ve onu kırbaçla vur, dedi. 'Ali: Hasan, ayağa kalk ve onu kırbaçla vur, dedi. Bunun üzerine Hasan: Onun sıcaklığını (halifeliğin) çeken, soğukluğunu (zevkini) tadan olsun, dedi. ('Ali bu sözden rahatsız oldu) ve: 'Abdullah b. Ca'fer, ayağa kalk ve onu kırbaçla vur, dedi. O da onu kırbaçlamaya başladı ve 'Ali kırbaçları saydı, bunlar kırk oluncaya kadar. O (Hadrat 'Ali): Şimdi dur, dedi ve sonra: Allah'ın Resulü (ﷺ) kırk sopa vurdu, Ebu Bekir de kırk sopa vurdu, Umar seksen sopa vurdu ve bunların hepsi Sünnet kapsamına giriyor, fakat bu (kırk sopa) benim için daha sevimlidir, dedi."
+    },
+    {
+      "id": 61,
+      "narrator": "Ali reported:",
+      "text": "Ali şöyle bildirmiştir: Eğer birine hadd uygularsam ve o (ceza sırasında) ölürse, bunun için umurumda olmaz, ancak sarhoş olan birisi için. Eğer o ölürse, onun için tazminat öderim çünkü Allah'ın Resulü (ﷺ) bununla ilgili bir kural koymamıştır."
+    },
+    {
+      "id": 62,
+      "narrator": "",
+      "text": "Bu hadisi Sufyan'dan rivayet edilmiştir."
+    },
+    {
+      "id": 63,
+      "narrator": "Abu Barda Ansari reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Ebu Barda Ensari, Allah'ın Resulü (ﷺ) şöyle buyurduğunu bildirmiştir: Hiç kimseye on kamçıdan fazlası verilmemelidir, ancak Allah'ın hududundan herhangi bir hadd durumunda."
+    },
+    {
+      "id": 64,
+      "narrator": "Ubida b. as-Samit reported:",
+      "text": "Ubida b. as-Samit şöyle bildirmiştir: Allah'ın Resulü (kendisine selam olsun) ile birlikteyken, bize yemin ettirdi ki, Allah'a hiçbir şeyi ortak koşmayacaksınız, zina etmeyeceksiniz, hırsızlık yapmayacaksınız, Allah'ın haram kıldığı bir canı ancak (hukuki) bir gerekçe ile almayacaksınız; ve içinizden bunu yerine getirenin mükafatı Allah katındadır ve içinizden herhangi birini bu tür bir şeyden dolayı cezalandırılırsa, bu onun için bir kefaret olacaktır. Ve eğer birisi bir şey yaparsa ve Allah onun günahlarını gizlerse, onun durumu Allah'a aittir. Dilerse affeder, dilerse ceza verir."
+    },
+    {
+      "id": 65,
+      "narrator": "This hadith has been narrated on the authority of Zuhri with the same chain of transmitters with this addition:",
+      "text": "Bu hadis, Zuhri'den aynı isnatla rivayet edilmiştir, ek olarak: \"Bize kadınlarla ilgili ayeti okudu, yani onların Allah'a hiçbir şeyi ortak koşmayacaklarını.\""
+    },
+    {
+      "id": 66,
+      "narrator": "'Ubida b. as-Samit reported:",
+      "text": "Ubida b. as-Samit şöyle bildirmiştir: Allah'ın Resulü (ﷺ) bizden, kadınlardan aldığı gibi, Allah'a hiçbir şeyi ortak koşmayacağımıza, hırsızlık yapmayacağımıza, zina etmeyeceğimize, çocuklarımızı öldürmeyeceğimize ve birbirimize iftira atmayacağımıza dair bir taahhüt aldı. İçinizden bu taahhüdü yerine getirenin mükafatı Allah katındadır ve içinizden kural olarak belirlenen ceza uygulanan kimse, bu onun için bir kefaret olacaktır; ve günahları Allah tarafından örtülen kimsenin durumu Allah'a aittir. Dilerse ona ceza verebilir, dilerse affedebilir."
+    },
+    {
+      "id": 67,
+      "narrator": "Ubida b. as-Samit repnrted:",
+      "text": "Ubida b. as-Samit şöyle bildirmiştir: Ben, Allah'ın Resulü (ﷺ) ile yemin eden başkanlardan biriydim ki, Allah'a hiçbir şeyi ortak koşmayacağımıza, zina etmeyeceğimize, hırsızlık yapmayacağımıza, Allah'ın haram kıldığı hiçbir canı adalet olmaksızın öldürmeyeceğimize, ne de olsa isyan etmeyeceğimize dair yemin ettik; o zaman cennet (mükafatımız) olacaktır; ve eğer herhangi bir kötülük yaparsak (ve bu dünyada cezasız kalırsa), bunun hakkında karar verecek olan Allah'tır. İbn Rumh şöyle dedi: Onun hükmü Allah'a aittir."
+    },
+    {
+      "id": 68,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Ebu Hureyre, Allah'ın Resulü (ﷺ) şöyle buyurduğunu bildirmiştir: Bir hayvanın neden olduğu yaralanma için herhangi bir tazminat ödenmez; kuyuya düşme ve maden için de ödenmez; gömülü hazine (hazine-trove) için devletin payı beşte birdir."
+    },
+    {
+      "id": 69,
+      "narrator": "",
+      "text": "Bu gibi bir hadis, Zuhri'den rivayet edilmiştir."
+    },
+    {
+      "id": 70,
+      "narrator": "",
+      "text": "Bu gibi bir hadis, Ebu Hureyre'den rivayet edilmiştir."
+    },
+    {
+      "id": 71,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Ebu Hureyre, Allah'ın Resulü (ﷺ) şöyle buyurduğunu bildirmiştir: Kuyuya düşme, maden ve hayvan tarafından meydana gelen yaralanmalar için herhangi bir tazminat yoktur; ve gömülü hazine için devletin payı beşte birdir."
+    },
+    {
+      "id": 72,
+      "narrator": "",
+      "text": "Bu gibi bir hadis, Ebu Hureyre'den rivayet edilmiştir."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 14,
+    "arabic": {
+      "title": "سنن الترمذي",
+      "author": "الإمام محمد بن عيسى الترمذي"
+    },
+    "english": {
+      "title": "Jami at-Tirmidhi",
+      "author": "Imam Muhammad ibn Isa at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Ali bin Abi Talib narrated:",
+      "text": "Ali bin Ebi Talib rivayet etti: \"Bayram için yürüyerek çıkmak ve çıkmadan önce bir şeyler yemek Sünnet'tendir.\""
+    },
+    {
+      "id": 2,
+      "narrator": "Ibn Umar narrated:",
+      "text": "İbn Ömer rivayet etti: \"Allah'ın Resulü, Ebu Bekir ve Ömer, iki bayramda hutbeden önce namaz kılardı, sonra hutbe verirdi.\""
+    },
+    {
+      "id": 3,
+      "narrator": "Jabir bin Samurah narrated:",
+      "text": "Cabir bin Semurah rivayet etti: \"Ben, Peygamber ile iki bayram namazını kıldım - bir kez değil, iki kez - ne ezan ne de ikamet olmadan.\""
+    },
+    {
+      "id": 4,
+      "narrator": "An-Numan bin Bashir narrated:",
+      "text": "Numan bin Beşir rivayet etti: \"Peygamber, iki bayram ve Cuma namazında: 'Rabbini en yüce ismiyle tesbih et' ve 'Ona gelen haberin sana ulaştı mı?' ayetlerini okurdu. Bazen bu iki bayram aynı güne denk gelirdi, bu yüzden ikisini de okurdu.\""
+    },
+    {
+      "id": 5,
+      "narrator": "Ubaidullah bin Abdullah bin Utbah narrated:",
+      "text": "Ubeydullah bin Abdullah bin Utbe rivayet etti: \"Ömer bin Hattab, Ebu Vakid el-Leysi'ye Allah'ın Resulü'nün Fıtır ve Adha'da ne okuduğunu sordu, o da: 'O, Kaf, Şanlı Kur'an'a yemin ederim ve saat yaklaştı, ay yarıldı.' okurdu.'\""
+    },
+    {
+      "id": 6,
+      "narrator": "Ubaidullah bin Abdullah bin Utbah:",
+      "text": "Ubeydullah bin Abdullah bin Utbe: Benzer bir rivayet başka bir isnadla vardır."
+    },
+    {
+      "id": 7,
+      "narrator": "Kathir bin Abdullah narrated from this father, from his grandfather:",
+      "text": "Kethir bin Abdullah, babasından, dedesinden rivayet etti: \"Peygamber, ilk (rek'at) da yedi (kez) tekbir alırdı, sonuncusunda ise beş (kez) tekbir alırdı.\""
+    },
+    {
+      "id": 8,
+      "narrator": "Ibn Abbas narrated:",
+      "text": "İbn Abbas rivayet etti: \"Peygamber, Fıtır günü dışarı çıktı, iki rek'at namaz kıldı, sonra öncesinde ve sonrasında namaz kılmadı.\""
+    },
+    {
+      "id": 9,
+      "narrator": "Abu Bakr bin Hafs - and he is Ibn Umar bin Sa'd bin Abi Waqas - narrated about Ibn Umar, that:",
+      "text": "Ebu Bekir bin Hafs - o, İbn Ömer bin Sa'd bin Ebu Vakid'dir - İbn Ömer hakkında rivayet etti: \"O, bayram günü dışarı çıktı ve öncesinde ve sonrasında namaz kılmadı. Peygamber'in böyle yaptığını belirtti.\""
+    },
+    {
+      "id": 10,
+      "narrator": "Umm Atiyyah narrated:",
+      "text": "Ümmü Atiyye rivayet etti: \"Allah'ın Resulü, genç kızları, olgun kadınları, yalnız kalanları ve adet görenleri iki bayram için dışarı çıkmaya emrederdi. Adet gören kadınlar, Musalla'dan uzak durmalı ve Müslümanların dualarına katılmalıydı.\" İçlerinden biri dedi ki: 'Ey Allah'ın Resulü! Eğer onun bir cübbesi yoksa ne olacak?' O da: 'O zaman kız kardeşi ona bir cübbe versin.' dedi.\""
+    },
+    {
+      "id": 11,
+      "narrator": "There is a similar narration from Umm Atiyyah :",
+      "text": "Ümmü Atiyye'den benzer bir rivayet: başka bir isnadla vardır."
+    },
+    {
+      "id": 12,
+      "narrator": "Abu Hurairah narrated:",
+      "text": "Ebu Hureyre rivayet etti: \"Allah'ın Resulü, bayram günü bir yoldan çıkıp, başka bir yoldan dönerdi.\""
+    },
+    {
+      "id": 13,
+      "narrator": "Abdullah bin Buraidah narrated from his father:",
+      "text": "Abdullah bin Bureydah, babasından rivayet etti: \"Peygamber, Fıtır günü çıkmadan önce yemek yemezdi, Adha günü ise namaz kılmadan önce yemek yemezdi.\""
+    },
+    {
+      "id": 14,
+      "narrator": "Anas bin Malik narrated:",
+      "text": "Enes bin Malik rivayet etti: \"Peygamber, Musalla'ya gitmeden önce Fıtır günü hurma ile kahvaltı yapardı.\""
+    }
+  ]
+}

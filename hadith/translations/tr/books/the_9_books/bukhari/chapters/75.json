@@ -1,0 +1,201 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 37,
+    "arabic": {
+      "title": "صحيح البخاري",
+      "author": "الإمام محمد بن إسماعيل البخاري"
+    },
+    "english": {
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Muhammad ibn Ismail al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle buyurdu: \"Bir Müslümanın başına gelen hiçbir bela yoktur ki, Allah onun bu belası sebebiyle günahlarından bir kısmını affetmesin, hatta bu bir dikenin batması bile olsa.\""
+    },
+    {
+      "id": 2,
+      "narrator": "Narrated Abu Sa`id Al-Khudri and Abu Huraira:",
+      "text": "Ebu Sa'id el-Hudri ve Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Bir Müslümanın başına hiçbir yorgunluk, hastalık, üzüntü, keder, zarar veya sıkıntı gelmez, hatta bu bir dikenin batması bile olsa, Allah onun bu sebep ile günahlarından bir kısmını affeder.\""
+    },
+    {
+      "id": 3,
+      "narrator": "Narrated Ka`b:",
+      "text": "Kâ'b'den rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Müminin örneği, rüzgarın bazen eğip, bazen düzelttiği taze bir bitkiye benzer. Münafığın örneği ise, kökü bir kez aniden söküldüğünde düz durmaya devam eden bir çam ağacına benzer.\""
+    },
+    {
+      "id": 4,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle buyurdu: \"Müminin örneği, taze bir bitkidir; rüzgar hangi yönden gelirse onu eğer, ama rüzgar durulduğunda tekrar düzelir. Aynı şekilde, bir mümin belalarla imtihan edilir (ama Allah zorluklarını giderene kadar sabırlı kalır). Ve günahkâr bir kişi, Allah dilediğinde onu kırıp geçene kadar sert ve dik kalan bir çam ağacına benzer.\" (Bkz. Hadis No. 558, Cilt 9.)"
+    },
+    {
+      "id": 5,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle buyurdu: \"Eğer Allah birine hayır yapmak isterse, onu imtihanlarla sınar.\""
+    },
+    {
+      "id": 6,
+      "narrator": "Narrated Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) kadar hastalıktan muzdarip birini hiç görmedim."
+    },
+    {
+      "id": 7,
+      "narrator": "Narrated `Abdullah:",
+      "text": "Abdullah'dan rivayet edilmiştir: Peygamber (ﷺ) hastalığı sırasında ziyaret ettim ve yüksek ateşten muzdaripti. \"Yüksek ateşin var. Bu, senin için iki kat ödül alacağın anlamına mı geliyor?\" dedim. O da, \"Evet, çünkü hiçbir Müslüman başına gelen bir zarardan dolayı, Allah onun günahlarını ağaç yapraklarının dökülmesi gibi affetmez.\" dedi."
+    },
+    {
+      "id": 8,
+      "narrator": "Narrated `Abdullah:",
+      "text": "Abdullah'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) yüksek ateşten muzdaripken onu ziyaret ettim. \"Ey Allah'ın Elçisi (ﷺ)! Yüksek ateşin var.\" dedim. O da, \"Evet, sizin iki adamınız kadar ateşim var.\" dedi. \"Bu, senin için iki kat ödül alacağın anlamına mı geliyor?\" dedim. O da, \"Evet, öyledir. Hiçbir Müslüman başına gelen bir zarardan dolayı, hatta bir dikenin batması bile olsa, Allah onun günahlarını affetmez.\" dedi."
+    },
+    {
+      "id": 9,
+      "narrator": "Narrated Abu Muisa Al-Ash`ari:",
+      "text": "Ebu Musa el-Eş'ari'den rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Açları doyurun, hastaları ziyaret edin ve esirleri serbest bırakın.\""
+    },
+    {
+      "id": 10,
+      "narrator": "Narrated Al-Bara bin Azib:",
+      "text": "Al-Bara bin Azib'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) bize yedi şey yapmamızı emretti ve yedi şeyden de sakındırdı. Altın yüzük takmayı, ipek giymeyi, dibac, istabriq, kıssy ve maithara giymeyi yasakladı; cenaze alaylarına katılmayı, hastaları ziyaret etmeyi ve herkese selam vermeyi emretti. (Bkz. Hadis No. 104)"
+    },
+    {
+      "id": 11,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Cabir bin Abdullah'dan rivayet edilmiştir: Bir gün hastalandım. Peygamber (ﷺ) ve Ebu Bekir, beni ziyaret etmek için yürüyerek geldiler ve beni baygın buldular. Peygamber (ﷺ) abdest aldı ve ardından kalan suyu üzerime döktü, ben de kendime geldim ve Peygamberi gördüm. \"Ey Allah'ın Elçisi (ﷺ)! Malımla ne yapmalıyım? Malımı nasıl tasfiye etmeliyim?\" dedim. O, miras ayeti inene kadar cevap vermedi."
+    },
+    {
+      "id": 12,
+      "narrator": "Narrated 'Ata bin Abi Rabah:",
+      "text": "Ata bin Ebi Rabah'tan rivayet edilmiştir: İbn Abbas bana şöyle dedi: \"Sana cennetlik bir kadını göstereyim mi?\" Ben de, \"Evet.\" dedim. O, \"Bu siyah kadın, Peygamber (ﷺ)'e geldi ve 'Epilepsi nöbeti geçiriyorum ve bedenim açılıyor; lütfen Allah'a dua et.' dedi. Peygamber (ﷺ) ona, 'İstersen sabret, cennete gireceksin; istersen, ben Allah'a dua ederim seni iyileştirsin.' dedi. O da, 'Sabredeceğim,' dedi ve ekledi, 'ama açılıyorum, lütfen Allah'a dua et ki açılmayayım.' Böylece o, Allah'a dua etti.\""
+    },
+    {
+      "id": 13,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Ata'dan rivayet edilmiştir: Um Zafar'ı, Kâbe'nin örtüsünü tutarken gördüğünü söyledi."
+    },
+    {
+      "id": 14,
+      "narrator": "Narrated `Aisha:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir: Allah'ın Elçisi (ﷺ)'nin şöyle dediğini duydum: \"Allah, eğer kulunu iki sevdiğinden (yani gözlerinden) mahrum ederse ve o sabrederse, onu bunların karşılığında cennete sokarım.\""
+    },
+    {
+      "id": 15,
+      "narrator": "Narrated Abu `Uthman:",
+      "text": "Aişe'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) Medine'ye hicret ettiğinde, Ebu Bekir ve Bilal ateşlenmişti. Onların yanına girdim ve \"Ey babacığım! Nasılsınız? Ey Bilal! Nasılsın?\" diye sordum. Ebu Bekir ateşlendiğinde şu şiirsel sözleri okurdu: \"Herkes kendi halkı arasında yaşıyor, ama ölüm ona ayakkabı bağcıklarından daha yakındır.\" Ve Bilal ateşi düştüğünde şu iki dizeyi okurdu: \"Keşke bir vadide geceleyebilsem, etrafımda İdhkır ve Jalil (iki çeşit güzel kokulu ot) olsa. Keşke bir gün Majinna suyundan içebilsem ve keşke Şama ve Tafil (Mekke'deki iki dağ) bana görünse.\" Sonra gidip Allah'ın Elçisi (ﷺ)'ne bunları bildirdim, o da, \"Ey Allah'ım! Bizi Medine'yi Mekke'yi sevdiğimiz kadar ya da daha fazla sevdirecek şekilde sevdir. Ey Allah'ım! Onu sağlıklı kıl ve onun Mudd ve Sa'sını bizim için bereketli kıl, ateşini al ve onu El Cuhfa'ya koy.\" dedi."
+    },
+    {
+      "id": 16,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) hasta bir bedeviyi ziyaret etti. Peygamber (ﷺ) bir hastayı ziyaret ettiğinde, ona \"Endişelenme, eğer Allah dilerse, bu senin günahların için bir kefaret olacaktır\" derdi. Bedevi, \"Sen kefaret mi diyorsun? Hayır, bu sadece bir ateş ve yaşlı bir adamı rahatsız eden bir ateş ve onu kendi iradesi olmadan mezarına götürecek\" dedi. Peygamber (ﷺ) dedi ki, \"O zaman, evet, öyledir.\""
+    },
+    {
+      "id": 17,
+      "narrator": "Narrated Anas:",
+      "text": "Anas'tan rivayet edilmiştir: Bir Yahudi çocuk, Peygamber (ﷺ) için hizmet ediyordu ve hasta oldu. Peygamber (ﷺ) onu ziyaret etti ve \"İslam'ı kabul et\" dedi, o da İslam'ı kabul etti. Al-Musaiyab dedi ki: Abu Talib ölüm döşeğindeyken, Peygamber (ﷺ) onu ziyaret etti."
+    },
+    {
+      "id": 18,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Peygamber (ﷺ) hastalandığında bazı insanlar onu ziyaret etti. Onlara oturarak namaz kıldırdı, ancak onlar ayakta namaz kıldılar, bu yüzden onlara oturmalarını işaret etti. Namazı bitirdiğinde, \"Bir imamın arkasında takip edilmelidir, bu yüzden o rükûya gittiğinde, siz de rükû yapmalısınız. Ve o başını kaldırdığında, siz de başınızı kaldırmalısınız, eğer o oturarak namaz kılarsa, siz de oturarak namaz kılmalısınız\" dedi. Abu Abdullah dedi ki: Al-Humaidi dedi, \"Bu rivayet, Peygamber (ﷺ) oturarak namaz kıldığında, insanların onun arkasında ayakta namaz kılmalarıyla abroge edilmiştir.\""
+    },
+    {
+      "id": 19,
+      "narrator": "Narrated Sa`d:",
+      "text": "Sa'd'dan rivayet edilmiştir: Mekke'de ciddi şekilde hastalandım ve Peygamber (ﷺ) beni ziyaret etti. \"Ey Allah'ın Elçisi (ﷺ)! Arkada iyi bir servet bırakacağım, ama mirasçım tek kızım; malımın üçte ikisini sadaka olarak bırakıp, üçte birini (mirasçım için) bırakabilir miyim?\" dedim. O, \"Hayır\" dedi. \"Yarısını bırakıp yarısını mı?\" dedim. O, \"Hayır\" dedi. \"Üçte birini bırakıp iki üçte birini mi?\" dedim. O, \"Üçte bir iyidir, ama hatta üçte bir bile çoktur\" dedi. Sonra elini alnıma koydu ve yüzümün ve karnımın üzerinden geçirdi ve \"Ey Allah! Sa'd'ı şifa ver ve hicretini tamamla\" dedi. O günden beri, elinin soğukluğunu karaciğerimde hissediyorum."
+    },
+    {
+      "id": 20,
+      "narrator": "Narrated `Abdullah bin Mas`ud:",
+      "text": "Abdullah bin Mes'ud'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) yüksek ateşten muzdaripken onu ziyaret ettim. Ona elimi dokundurdum ve \"Ey Allah'ın Elçisi (ﷺ)! Yüksek ateşin var\" dedim. Allah'ın Elçisi (ﷺ) dedi ki, \"Evet, sizden iki adam kadar ateşim var.\" \"Bu, iki kat ödül alacağın için mi?\" dedim. Allah'ın Elçisi (ﷺ) dedi, \"Evet, hiçbir Müslüman hastalık veya başka bir rahatsızlık nedeniyle zarar görmez ki, Allah onun günahlarını ağaç yapraklarını döktüğü gibi dökmesin.\""
+    },
+    {
+      "id": 21,
+      "narrator": "Narrated `Abdullah:",
+      "text": "Abdullah'tan rivayet edilmiştir: Peygamber (ﷺ) hastalığı sırasında onu ziyaret ettim ve ateşi olduğunda ona dokundum. \"Yüksek ateşin var; bu, iki kat ödül alacağın için mi?\" dedim. O, \"Evet. Hiçbir Müslüman bir zarar görmez ki, günahları ağaç yapraklarının dökülmesi gibi silinmesin\" dedi."
+    },
+    {
+      "id": 22,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) hasta bir adamı ziyaret etti ve ona \"Endişelenme, eğer Allah dilerse, (hastalığın) senin günahların için bir kefaret olacaktır\" dedi. Adam, \"Hayır, bu sadece yaşlı bir adamı rahatsız eden bir ateş ve onu mezarına gönderecek\" dedi. Bunun üzerine Peygamber (ﷺ) dedi ki, \"O zaman evet, öyledir.\""
+    },
+    {
+      "id": 23,
+      "narrator": "Narrated Usama bin Zaid:",
+      "text": "Usame bin Zaid'den rivayet edilmiştir: Peygamber (ﷺ) Fadakiyya kadifesiyle kaplı bir eyerle bir eşeğe bindi. Beni arkasına aldı ve Sa'd bin Ubade'yi ziyaret etmeye gitti, bu Badr savaşından önceydi. Peygamber (ﷺ) ilerledi ve Abdullah bin Ubai bin Salul'un bulunduğu bir topluluğun yanından geçti, bu Abdullah İslam'ı kabul etmeden önceydi. Topluluk Müslümanlar, müşrikler ve Yahudilerden oluşuyordu. Abdullah bin Rawaha da o toplulukta bulunuyordu. Eşek tarafından kaldırılan toz topluluğu kapladığında, Abdullah bin Ubai burnunu üst elbisesiyle kapadı ve \"Bizi tozla rahatsız etmeyin\" dedi. Peygamber (ﷺ) onlara selam verdi, durdu ve indi. Sonra onları Allah'a (yani İslam'ı kabul etmeye) davet etti ve onlara Kuran'dan bazı ayetler okudu. Bunun üzerine Abdullah bin Ubai, \"Ey adam! Eğer söylediklerin doğruysa, söylediklerinden daha iyisi yok. Bizi topluluğumuzda bununla rahatsız etme, ama evine dön, eğer biri sana gelirse, orada ona öğret\" dedi. Bunun üzerine Abdullah bin Rawaha, \"Evet, ey Allah'ın Elçisi (ﷺ)! Öğretilerini topluluğumuza getir, çünkü bunu seviyoruz\" dedi. Böylece Müslümanlar, putperestler ve Yahudiler birbirlerine hakaret etmeye başladılar ve neredeyse kavga edeceklerdi. Peygamber (ﷺ) onları sakinleştirmeye devam etti ta ki sakinleşene kadar. Sonra Peygamber hayvanına bindi ve Sa'd bin Ubade'ye girdi. Ona \"Ey Sa'd! Abu Hubab'ın (yani Abdullah bin Ubai) ne dediğini duymadın mı?\" dedi. Sa'd, \"Ey Allah'ın Elçisi! Onu affet ve bağışla, çünkü Allah sana verdiğiyle seni onurlandırdı. Bu şehrin insanları (Medine) seni taçlandırmak ve başına bir sarık koymak için oybirliğiyle karar vermişti, ama Allah'ın sana verdiği gerçek engellendiği için o (Abdullah bin Ubai) kıskançlıktan dolayı üzüldü ve bu yüzden gördüğün şekilde davrandı\" dedi."
+    },
+    {
+      "id": 24,
+      "narrator": "Narrated Jabir:",
+      "text": "Cabir'den rivayet edilmiştir: Peygamber (ﷺ) beni (hasta olduğumda) ziyaret etti ve ne bir katır ne de bir at biniyordu."
+    },
+    {
+      "id": 25,
+      "narrator": "Narrated Ka`b bin 'Ujara:",
+      "text": "Ka'b bin 'Ujara'dan rivayet edilmiştir: Peygamber (ﷺ) bir (pişirme) tencerenin altında ateş yakarken yanımdan geçti. \"Başındaki bitler seni rahatsız mı ediyor?\" dedi. \"Evet\" dedim. Bunun üzerine bir berber çağırdı ve başımı tıraş etmesini emretti ve bunun için kefaret vermemi söyledi."
+    },
+    {
+      "id": 26,
+      "narrator": "Narrated Al-Qasim bin Muhammad:",
+      "text": "Al-Qasim bin Muhammed'den rivayet edilmiştir: Aişe, (baş ağrısından şikayet ederek) \"Ah, başım!\" dedi. Allah'ın Elçisi (ﷺ) dedi ki, \"Keşke bu benim yaşarken olsaydı, o zaman senin için Allah'tan af diler ve senin için dua ederdim.\" Aişe dedi ki, \"Vah, Allah'a yemin ederim ki, senin beni öldürmeni istiyorsun; eğer bu olursa, günün son kısmını karıncalarından biriyle uyuyarak geçireceksin!\" Peygamber (ﷺ) dedi, \"Hayır, 'Ah başım!' demeliyim. Abu Bekir ve oğlunu çağırmak istedim ve onu halefim olarak tayin etmeliyim ki bazı insanlar bir şey iddia etmesin veya bazıları bir şey istemesin, ama sonra kendime dedim ki, 'Allah bunu başka türlü olmasına izin vermeyecek ve Müslümanlar da başka türlü olmasına izin vermeyecek.'\""
+    },
+    {
+      "id": 27,
+      "narrator": "Narrated Ibn Mas`ud:",
+      "text": "İbn Mes'ud'dan rivayet edilmiştir: Peygamber (ﷺ) yüksek ateşten muzdaripken onu ziyaret ettim. Ona dokundum ve \"Çok yüksek ateşin var\" dedim. O, \"Evet, sizden iki adam kadar ateşim var\" dedi. \"İki kat ödül alacak mısın?\" dedim. O, \"Evet. Hiçbir Müslüman hastalık veya başka bir rahatsızlık nedeniyle zarar görmez ki, Allah onun günahlarını ağaç yapraklarını döktüğü gibi dökmesin\" dedi."
+    },
+    {
+      "id": 28,
+      "narrator": "Narrated Sa`d:",
+      "text": "Sa'd'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) Hacjat-ul-Veda sırasında hastalığım sırasında beni ziyaret etti. \"Ne kadar hasta olduğumu görüyorsun. Çok malım var ama tek mirasçım tek kızım. Malımın üçte ikisini sadaka olarak verebilir miyim?\" dedim. O, \"Hayır\" dedi. \"Yarısını mı?\" dedim. O, \"Hayır\" dedi. \"Üçte birini mi?\" dedim. O, \"Üçte bir fazla, çünkü mirasçılarını zengin bırakmak, onları yoksul bırakmaktan daha iyidir, başkalarından dilenmekten. Allah rızası için harcadığın hiçbir şey yoktur ki onun karşılığını almayasın, hatta eşinin ağzına koyduğun şey için bile.\""
+    },
+    {
+      "id": 29,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) ölüm döşeğinde iken evde bazı insanlar vardı, bunlar arasında Ömer bin Hattab da vardı. Peygamber (ﷺ) dedi ki, \"Gel, size bir beyan yazayım, ondan sonra sapıtmayacaksınız.\" Ömer dedi ki, \"Peygamber (ﷺ) ciddi şekilde hasta ve sizde Kuran var; Allah'ın Kitabı bizim için yeterlidir.\" Evde bulunan insanlar farklı görüşler bildirdiler ve tartıştılar. Bazıları \"Peygamber (ﷺ) size sapıtmayacağınız bir beyan yazsın diye yaklaşın\" derken, diğerleri Ömer'in dediği gibi söylediler. Peygamberin önünde gürültü yaptıklarında, Allah'ın Elçisi (ﷺ) \"Uzaklaşın!\" dedi. 'Ubaidullah'tan rivayet edilmiştir: İbn Abbas derdi ki, \"Allah'ın Elçisi (ﷺ) bu beyanı yazmaktan, onların anlaşmazlığı ve gürültüsü nedeniyle mahrum kaldığı için çok talihsizdi.\""
+    },
+    {
+      "id": 30,
+      "narrator": "Narrated As-Sa'ib:",
+      "text": "Es-Sa'ib'den rivayet edilmiştir: Teyzem beni Allah'ın Elçisi (ﷺ)'ne götürdü ve \"Ey Allah'ın Elçisi (ﷺ)! Yeğenim hasta\" dedi. Peygamber (ﷺ) başımı elinin tersiyle okşadı ve Allah'tan benim için bereket dileğinde bulundu. Sonra abdest aldı ve abdestinin kalan suyunu içtim ve arkasında durdum ve \"Nübüvvet Mührü\"nü (Peygamberlik Mührü) omuzları arasında bir çadır düğmesi gibi gördüm."
+    },
+    {
+      "id": 31,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Hiçbiriniz başına gelen bir beladan dolayı ölüm dilemesin; fakat eğer ölüm dilemesi gerekiyorsa, şöyle demelidir: 'Ya Allah! Beni, hayat benim için daha hayırlı olduğu sürece yaşat, eğer ölüm benim için daha hayırlıysa, beni öldür.'\""
+    },
+    {
+      "id": 32,
+      "narrator": "Narrated Qais bin Abi Hazim:",
+      "text": "Kays bin Ebu Hazim'den rivayet edilmiştir: Hastalığı nedeniyle Khabbab'ı ziyarete gittik ve vücudunun yedi yerinde dağlanmıştı. Şöyle dedi: \"Peygamber döneminde ölen arkadaşlarımız, bu dünyadan, bu hayatın zevklerinden yararlanarak mükafatları eksilmeden ayrıldılar; ama biz o kadar zengin olduk ki, harcayacak bir yol bulamıyoruz, sadece binalar inşa etmekte harcıyoruz. Eğer Peygamber bize ölüm dilemeyi yasaklamasaydı, ben onu dilerdim.\" Onu ikinci kez ziyaret ettiğimizde bir duvar inşa ediyordu. Şöyle dedi: \"Bir Müslüman, harcadığı her şeyden (ahirette) mükafat alır, yalnızca bina inşaatına harcadığı şeyler hariç.\""
+    },
+    {
+      "id": 33,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hüreyre'den rivayet edilmiştir: Allah'ın Resulü (ﷺ) şöyle buyurdu: \"Hiçbir kişinin iyi amelleri onu cennete sokmaz.\" (yani, hiç kimse iyi amelleriyle cennete giremez.) Onlar (Peygamber'in arkadaşları) dediler ki: \"Sen bile, ey Allah'ın Resulü (ﷺ)?\" O da şöyle dedi: \"Ben bile, Allah bana lütfeder ve merhamet ederse.\" Bu yüzden dinî amellerinizde ölçülü olun ve gücünüzün yettiği amelleri yapın: ve hiçbiriniz ölüm dilemesin, çünkü eğer iyi bir kişi ise, iyi amellerini artırabilir; eğer kötü bir kişi ise, Allah'a tevbe edebilir.\""
+    },
+    {
+      "id": 34,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Peygamber (ﷺ) benim yanımda dinlenirken şöyle dedi: \"Ya Allah! Beni affet ve bana merhamet et ve beni cennetteki en yüksek arkadaşlarla birleştir.\" Bakara Suresi (4.69) için bakınız."
+    },
+    {
+      "id": 35,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Allah'ın Resulü (ﷺ) bir hastayı ziyaret ettiğinde veya bir hasta ona getirildiğinde, Allah'a dua ederdi, şöyle derdi: \"Ey insanların Rabbi! Hastalığı al, onu iyileştir, çünkü sen iyileştiren tek olanısın. Senin dışında bir şifa yoktur, hastalık bırakmayan bir şifa.\""
+    },
+    {
+      "id": 36,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Cabir bin Abdullah'tan rivayet edilmiştir: Peygamber (ﷺ) beni hastayken ziyaret etti. Abdest aldı ve kalan suyu üzerime döktü (veya \"Onun üzerine dök\" dedi). Kendime geldiğimde, \"Ey Allah'ın Resulü (ﷺ)! Mirasçım olacak bir oğlum veya babam yok, peki mirasım ne olacak?\" dedim. Sonra miras ayeti indirildi."
+    },
+    {
+      "id": 37,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Allah'ın Resulü (ﷺ) Medine'ye hicret ettiğinde, Ebu Bekir ve Bilal ateşlenmişti. Onların yanına girdim ve \"Ey babacığım! Nasılsın? Ey Bilal! Nasılsın?\" dedim. Ebu Bekir ateşlendiğinde, \"Herkes kendi kavmiyle yaşıyor, ama ölüm ona, ayakkabı bağcıklarından daha yakındır.\" derdi. Ve Bilal ateşi düştüğünde, iki şiir dizesi okurdu: \"Keşke bir vadide geceleyebilsem, etrafımda İdhkır ve Celi (iki çeşit güzel kokulu ot) olsa. Keşke bir gün Mecnun suyundan içebilsem ve keşke Şama ve Tafil (Mekke'deki iki dağ) bana görünebilse!\" Ben Allah'ın Resulü (ﷺ) yanına gittim ve ona bunu bildirdim. O da şöyle dedi: \"Ya Allah! Bize Medine'yi, Mekke'yi sevdiğimiz kadar veya daha fazla sevdirt, onu sağlıklı kıl, Sa'sını ve Mudd'unu bereketlendir, ateşini al ve Al-Cuhfa'ya koy.\" (Hadis No 558 için bakınız.)"
+    }
+  ]
+}

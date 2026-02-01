@@ -1,0 +1,61 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 9,
+    "arabic": {
+      "title": "سنن الترمذي",
+      "author": "الإمام محمد بن عيسى الترمذي"
+    },
+    "english": {
+      "title": "Jami at-Tirmidhi",
+      "author": "Imam Muhammad ibn Isa at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Aishah narrated that she wanted to buy Barrirah but (her owners) stipulated that they should have her Wala', so the Prophet (s.a.w) said:",
+      "text": "Aişe, Barrirah'ı satın almak istediğini ancak (sahiplerinin) onlardan Wala' alacaklarını şart koştuğunu nakletti. Bunun üzerine Peygamber (s.a.v) şöyle dedi: \"Wala', bedeli verenin veya iyilikte bulunanın hakkıdır.\""
+    },
+    {
+      "id": 2,
+      "narrator": "'Abdullah bin 'Umar narrated that :",
+      "text": "Bu konuda İbn 'Umar ve Ebu Hureyre'den rivayetler vardır. Bu Hadis Hasan Sahih'dir ve bu, ilim ehli tarafından uygulanmaktadır."
+    },
+    {
+      "id": 3,
+      "narrator": "Ibrahim At-Taimi narrated from his father:",
+      "text": "---"
+    },
+    {
+      "id": 4,
+      "narrator": "Abu Hurairah narrated :",
+      "text": "Abdullah bin 'Umar, Allah'ın Resulü (ﷺ)'nün Wala'nın satışını ve ona müsaade edilmesini yasakladığını nakletti."
+    },
+    {
+      "id": 5,
+      "narrator": "Aishah narrated that the Prophet (ﷺ) visited her in a very happy mood, his face beaming with joy and said:",
+      "text": "Bu Hadis Hasan Sahih'dir. Bunu sadece Abdullah bin Dinar'ın İbn 'Umar'dan, Peygamber (ﷺ)'den rivayet ettiğini biliyoruz. Şu'bah, Sufyan es-Savri ve Malik bin Enes de bunu Abdullah bin Dinar'dan rivayet etmiştir. Şu'bah'ın şöyle dediği rivayet edilmiştir: \"Keşke Abdullah bin Dinar bu Hadisi naklederken ayağa kalkmama izin verseydi, başını öpsün diye.\" Yahya bin Süleym bu Hadisi Ubaidullah bin 'Umar'dan, Nafi' üzerinden, İbn 'Umar'dan, Peygamber (ﷺ)'den rivayet etmiştir. Ancak bu yanlıştır, Yahya bin Süleym burada hata etmiştir, doğru olanı: \"Ubaidullah bin 'Umar'dan, Abdullah bin Dinar'dan, İbn 'Umar'dan, Peygamber (ﷺ)'den\" şeklindedir. Bu, Ubaidullah bin 'Umar'dan birden fazla raviden böyle rivayet edilmiştir."
+    },
+    {
+      "id": 6,
+      "narrator": "Sufyan bin 'Uyainah reported this Hadith from Az-Zuhri, from 'Urwah, from 'Aishah and he added in it:",
+      "text": "Ve Abdullah bin Dinar bu Hadis ile tek başınadır."
+    },
+    {
+      "id": 7,
+      "narrator": "Abu Hurairah narrated that the Prophet (s.a.w) said:",
+      "text": "---"
+    },
+    {
+      "id": 8,
+      "narrator": "Ibn 'Umar narrated that the Messenger of Allah (S.A.W)said:",
+      "text": "İbrahim et-Teymi, babasından nakletti: \"'Ali bize bir hutbe verdi ve şöyle dedi: 'Eğer birisi, Allah'ın Kitabı ve bu kağıt dışında okumamız gereken bir kitabımız olduğunu iddia ederse, ki bu kağıtta deve yaşları ve yaralara ilişkin şeyler bulunmaktadır, o yalan söylemiştir.' Ve hutbesinde şöyle dedi: 'Medine kutsaldır, 'Air ile Thawr arasındaki yerler de öyledir; bu bölgede herhangi bir yenilik getiren veya bir yenilik sahibine sığınan kimseye Allah'ın, meleklerin ve tüm insanların laneti olsun. Kıyamet Günü, Allah onun farz ve nafile amellerini kabul etmeyecektir. Ve eğer birisi başkasını babası olarak iddia ederse veya Wala'yı, kendi Mawali'sinden başkası için talep ederse, o kimseye Allah'ın, meleklerin ve insanların laneti olsun; onun farz ve nafile amelleri kabul edilmeyecektir. Müslümanların ahitleri birdir, diğerlerini kapsar.'"
+    },
+    {
+      "id": 9,
+      "narrator": "Ibn 'Umar and Ibn 'Abbas narrated the Marfu Hadith:",
+      "text": "Bu Hadis Hasan Sahih'dir. Bazıları bunu Al-A'maş'tan, İbrahim et-Teymi'den, Al-Harith bin Suwaid'den, 'Ali'den benzer şekilde rivayet etmiştir."
+    }
+  ]
+}

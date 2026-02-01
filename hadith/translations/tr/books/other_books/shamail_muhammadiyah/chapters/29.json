@@ -1,0 +1,51 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 7,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "'Abdullah ibn Ja'far said:",
+      "text": "Abdullah ibn Ca'fer dedi ki: \"Peygamber (Allah ona salat ve selam eylesin) salatalığı olgun hurmalarla yerdi.”"
+    },
+    {
+      "id": 2,
+      "narrator": "'A’isha said:",
+      "text": "Aişe (Allah ondan razı olsun) dedi ki: \"Peygamber (Allah ona salat ve selam eylesin) karpuzu olgun hurmalarla yerdi.”"
+    },
+    {
+      "id": 3,
+      "narrator": "Anas ibn Malik said:",
+      "text": "Enes ibn Malik dedi ki: \"Allah'ın Elçisi (Allah ona salat ve selam eylesin) karpuz ile olgun hurmayı bir arada yedi.”"
+    },
+    {
+      "id": 4,
+      "narrator": "A’isha(may Allah be well pleased with her) said:",
+      "text": "Aişe (Allah ondan razı olsun) dedi ki: \"Peygamber (Allah ona salat ve selam eylesin) karpuzu olgun hurmalarla yedi.”"
+    },
+    {
+      "id": 5,
+      "narrator": "Abu Huraira said:",
+      "text": "Ebu Hureyre dedi ki: \"İnsanlar ilk meyveyi gördüklerinde, 'Ve senin Peygamberin, ben de senin kulun ve Peygamberinim. O, Mekke için senin adına dua etti, ben de Medine için senin adına dua ediyorum, Mekke için dua ettiği gibi, onun gibi!' dedi. Sonra gördüğü en küçük çocuğu çağırır ve ona o meyveyi verirdi.”"
+    },
+    {
+      "id": 6,
+      "narrator": "Ar-Rubai bint Mu'awwidh ibn 'Afra’ said:",
+      "text": "Ar-Rubai bint Mu'awwidh ibn 'Afra’ dedi ki: \"Mu'adh ibn 'Afra, bana olgun hurmalarla dolu bir tepsi gönderdi, üzerinde yumuşak salatalık parçaları vardı. O (Allah ona salat ve selam eylesin) salatalıkları severdi, bu yüzden onları ona getirdim. Yanında Bahreyn'den gelen bazı süs eşyaları vardı, bir avuç alıp bana verdi.”"
+    },
+    {
+      "id": 7,
+      "narrator": "Ar-Rubai bint Mu'awwidh ibn 'Afra said:",
+      "text": "Ar-Rubai bint Mu'awwidh ibn 'Afra’ dedi ki: \"Peygamber (Allah ona salat ve selam eylesin) için olgun hurmalar ve yumuşak salatalık getirdim, o da bana bir avuç süs eşyası verdi, ya da o şöyle dedi: altın.”"
+    }
+  ]
+}

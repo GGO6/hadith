@@ -1,0 +1,376 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 72,
+    "arabic": {
+      "title": "موطأ مالك",
+      "author": "الإمام مالك بن أنس"
+    },
+    "english": {
+      "title": "Muwatta Malik",
+      "author": "Imam Malik ibn Anas"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Hişam ibn Urva'dan, babasından, Zeynep bint Ebi Selama'dan, Nebi'nin eşi Ümmü Seleme'den, Allah'ın Elçisi'nin, ona salat ve selam olsun, \"Ben sadece sizin ihtilaflarınızı getirdiğiniz bir insanım. Belki biriniz diğerinden daha iyi delil getirir, bu yüzden ben onun söylediklerine göre hüküm veriyorum. Kardeşinin hakkından bir şey karar verirsem, ondan hiçbir şey almaz; çünkü ben ona ateşten bir pay vermiş oluyorum.\" dediğini aktardı."
+    },
+    {
+      "id": 2,
+      "narrator": "",
+      "text": "Malik, Yahya ibn Said'den, Said ibn el-Musayyab'dan, Umar ibn el-Hattab'a bir Müslüman ile bir Yahudi arasındaki bir ihtilafın getirildiğini aktardı. Umar, hakkın Yahudiye ait olduğunu gördü ve onun lehine hüküm verdi. Yahudi ona, \"Vallahi! Doğru hüküm verdin.\" dedi. Bunun üzerine Umar ibn el-Hattab onu bir kamçıyla vurdu ve, \"Bundan nasıl emin olabilirsin?\" dedi. Yahudi ona, \"Doğru hüküm veren bir hakimin yanında sağında bir melek ve solunda bir melek vardır; onlar onu doğruya yönlendirir ve ona başarı verir. O, doğru ile birlikte olduğu sürece. Doğrudan ayrıldığı zaman, onlar kalkar ve onu terk eder.\" dedi."
+    },
+    {
+      "id": 3,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abdullah ibn Ebi Bekir ibn Muhammed ibn Amr ibn Hazm'dan, babasından, Abdullah ibn Amr ibn Osman'dan, Ebu Amra el-Ensari'den, Zayd ibn Halid el-Cuhani'den, Allah'ın Elçisi'nin, ona salat ve selam olsun, \"Size en iyi şahit kimdir, söylemeyeyim mi? Kendisine sorulmadan önce şahitliğini getiren veya kendisine sorulmadan önce şahitliğini söyleyen.\" dediğini aktardı."
+    },
+    {
+      "id": 4,
+      "narrator": "",
+      "text": "Malik, Rabia ibn Ebi Abd ar-Rahman'dan, \"Bir Iraklı adam Umar ibn el-Hattab'ın huzuruna geldi ve 'Başlangıcı ve sonu olmayan bir mesele için geldim.' dedi. Umar, 'Nedir o?' dedi. Adam, 'Yalan şahitlik bizim diyarımızda ortaya çıktı.' dedi. Umar, 'Öyle mi?' dedi. Adam, 'Evet.' dedi. Umar, 'Vallahi! İslam'da bir adam adil şahitler olmadan tutuklanamaz.' dedi.\" şeklinde aktardı."
+    },
+    {
+      "id": 5,
+      "narrator": "",
+      "text": "Malik, Umar ibn el-Hattab'ın, \"Kin besleyen veya güvenilir olmayan birinin şahitliği kabul edilmez.\" dediğini aktardı."
+    },
+    {
+      "id": 6,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Sulayman ibn Yasar ve diğerlerinden, hadd suçundan dolayı kırbaçlanan bir adamın şahitliğinin kabul edilip edilmediği sorulduğunda, \"Evet, eğer ondan tevbe (tawba) gelirse.\" dediklerini aktardı."
+    },
+    {
+      "id": 7,
+      "narrator": "",
+      "text": "Malik, bunun üzerine, \"Bu bizim topluluğumuzda yapılan şeydir. Allah, Mukaddes ve Yüce olan, 'Ve iffetli kadınları suçlayanlar, sonra dört şahit getirmeyenler, onları seksen kırbaçla vurun ve onların şahitliğini asla kabul etmeyin. Onlar gerçekten de zalimdirler, ancak ondan sonra tevbe eden ve ıslah edenler müstesna. Allah, Bağışlayandır, Merhamet edendir.' (Nisa Suresi 24:4).\" dedi."
+    },
+    {
+      "id": 8,
+      "narrator": "",
+      "text": "Yahya, \"Malik, Jafar ibn Muhammad'dan, babasından, Allah'ın Elçisi'nin, ona salat ve selam olsun, bir şahitle yemin üzerine hüküm verdiğini söyledi.\" dedi."
+    },
+    {
+      "id": 9,
+      "narrator": "",
+      "text": "Malik, Abu'z-Zinad'dan, Umar ibn Abd al-Aziz'in Kufa valisi Abd al-Hamid ibn Abd ar-Rahman ibn Zayd ibn el-Hattab'a, \"Bir şahitle yemin üzerine hüküm ver.\" diye yazdığını aktardı."
+    },
+    {
+      "id": 10,
+      "narrator": "",
+      "text": "Malik, Abu Salama ibn Abd ar-Rahman ve Sulayman ibn Yasar'ın her ikisine, \"Bir şahitle yemin üzerine hüküm verilir mi?\" diye sorulduğunda, \"Evet.\" dediklerini aktardı."
+    },
+    {
+      "id": 11,
+      "narrator": "",
+      "text": "Malik, \"Bir şahitle yemin etmenin sünneti, davacı yemin ettiğinde, hakkı onaylanır. Eğer geri çekilir ve yemin etmeyi reddederse, davalı yemin ettirilir. Eğer yemin ederse, ona karşıki dava düşer. Eğer yemin etmeyi reddederse, dava ona karşı onaylanır.\" dedi."
+    },
+    {
+      "id": 12,
+      "narrator": "",
+      "text": "Malik, \"Bu prosedür özellikle mülk davalarına aittir. Hadd cezalarında, evlilikte, boşanma, köleleri serbest bırakma, hırsızlık veya iftira gibi durumlarda geçerli değildir. Eğer biri 'Köleleri serbest bırakma mülke girer.' derse, yanılır. O, söylediği gibi değildir. Eğer öyle olsaydı, bir köle, efendisinin onu serbest bıraktığını iddia edebilirdi.\" dedi."
+    },
+    {
+      "id": 13,
+      "narrator": "",
+      "text": "Malik, \"Ancak bir köle bir mülk talep ettiğinde, bir şahitle yemin edebilir ve hakkını talep edebilir.\" dedi."
+    },
+    {
+      "id": 14,
+      "narrator": "",
+      "text": "Malik, \"Bizim sünnetimiz, bir köle, kendisinin serbest bırakıldığını şahitlik eden birini getirdiğinde, efendisi yemin ettirilir ve onun serbest bırakmadığına dair yemin etmesi istenir, kölenin talebi düşer.\" dedi."
+    },
+    {
+      "id": 15,
+      "narrator": "",
+      "text": "Malik, \"Boşanma konusundaki sünnetimiz de böyledir. Bir kadın, kocasının onu boşadığını şahitlik eden birini getirdiğinde, koca yemin ettirilir ve boşamadığına dair yemin etmesi istenir. Eğer yemin ederse, boşanma gerçekleşmez.\" dedi."
+    },
+    {
+      "id": 16,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Da'ud ibn al-Husayn'dan, Abu Ghatafan ibn Tarif al-Muriyi'nin şöyle dediğini duydu: \"Zayd ibn Thabit al-Ansari ile Ibn Muti arasında paylaştıkları bir ev hakkında bir ihtilaf çıktı. Marwan ibn al-Hakam'a, Medine'nin Amirine gittiler. Marwan, Zayd ibn Thabit'in minberde yemin etmesi gerektiğine karar verdi. Zayd ibn Thabit, 'Nerede yemin ediyorum, buna yemin ederim.' dedi. Marwan, 'Hayır, Allah'a yemin ederim! Sadece taleplerin çözüldüğü yerde (yani minberde) yemin etmelisin.' dedi. Zayd ibn Thabit, hakkının doğru olduğuna yemin etmeye başladı ve minberin yanında yemin etmeyi reddetti. Marwan ibn al-Hakam buna hayret etti.\""
+    },
+    {
+      "id": 17,
+      "narrator": "",
+      "text": "Malik, \"Birinin minberin yanında bir dinarın dörtte birinden daha az bir şey için yemin ettirilmesini doğru bulmuyorum, bu da üç dirhemdir.\" dedi."
+    },
+    {
+      "id": 18,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 19,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Ibn Shihab'dan, Sa'id ibn al-Musayyab'dan, Allah'ın Messenger'ı, Allah ona salat ve selam eylesin, şöyle dediğini duydu: \"Teminat olarak verilen taahhüt kaybolmaz.\""
+    },
+    {
+      "id": 20,
+      "narrator": "",
+      "text": "Malik, \"Bu konudaki açıklamamız - ve Allah en iyi bilendir - bir adamın birine bir şeyin teminatı olarak taahhüt vermesidir. Taahhüt, üzerine ipotek verilen şeyden üstündür. Taahhüt eden, ipotekçiye, 'Belirli bir süre sonra sana alacağını getireceğim. Eğer getirmezsem, taahhüt, ipotek için verildiği şeydir.' der.\""
+    },
+    {
+      "id": 21,
+      "narrator": "",
+      "text": "Malik, \"Bu işlem iyi değildir ve helal değildir. Bu yasaklanmıştır. Eğer sahibi, taahhüt ettiği şeyi süreden sonra getirirse, o onun olur. Zaman şartının geçersiz olduğunu düşünüyorum.\" dedi."
+    },
+    {
+      "id": 22,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 23,
+      "narrator": "",
+      "text": "Yahya, Malik'in şöyle dediğini duydu: \"Eğer bir adam bahçesini belirli bir süre için ipotek ederse ve o bahçenin meyveleri, o sürenin sonundan önce olgunlaşırsa, meyveler, gayrimenkul ile birlikte ipoteğe dahil değildir, ancak taahhüt edenin taahhüdünde belirtilmişse. Ancak, eğer bir adam bir cariyeyi taahhüt olarak alır ve o hamile ise ya da onu taahhüt ettikten sonra hamile kalırsa, çocuğu onunla birlikte ipoteğe dahildir."
+    },
+    {
+      "id": 24,
+      "narrator": "",
+      "text": "\"Cariyenin meyvesi ile çocuğu arasında bir ayrım yapılır. Allah'ın Messenger'ı, Allah ona salat ve selam eylesin, 'Eğer birisi polenlenmiş bir hurma satarsa, meyve satıcıya aittir, alıcı bunun dahil edilmesini istemedikçe.' dedi. Toplumumuzda tartışmasız bir uygulama vardır ki, eğer bir adam hamile bir cariye veya hayvanı satarsa, fetüs alıcıya aittir, alıcı bunun dahil edilmesini istemese bile. Hurma, hayvana benzemez. Meyve, annesinin karnındaki fetüs gibi değildir. Bunu açıklayan bir kısım da, insanların bir adamın hurmanın meyvesini hurmadan ayrı olarak ipotek etme alışkanlığıdır. Hiç kimse, kölelerin veya hayvanların annesinin karnındaki fetüsü ipotek etmez.\""
+    },
+    {
+      "id": 25,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 26,
+      "narrator": "",
+      "text": "Yahya, Malik'in şöyle dediğini duydu: \"Toplumumuzda ipotekler hakkında tartışmasız bir uygulama vardır ki, eğer arazi, ev veya hayvanın, ipotek brokerinin elinde yok olduğu biliniyorsa ve kaybın koşulları biliniyorsa, kayıp taahhüt edene karşıdır. Brokerin alacağı miktardan hiçbir kesinti yapılmaz. Brokerin elinde yok olan herhangi bir ipotek ve kaybın koşulları yalnızca onun sözüyle biliniyorsa, kayıp brokerin aleyhine olup, onun değerinden sorumludur. Yok olan şeyin ne olduğunu tarif etmesi istenir ve ardından o tarif hakkında yemin etmesi sağlanır ve güvenilir kişiler o tarife değer biçer. Eğer ipoteğin değeri brokerin verdiğinden fazlaysa, taahhüt eden fazlasını alır. Eğer ipoteğin tahmini değeri, kendisine verilen miktardan azsa, taahhüt eden brokerin verdiği miktar hakkında yemin ettirilir ve brokerin verdiği ipoteğin tahmini değerinin üzerindeki fazlayı ödemesi gerekmez. Eğer taahhüt eden yemin etmeyi reddederse, ipoteğin tahmini değerinin üzerindeki fazlayı broker'e vermek zorundadır. Eğer broker, ipoteğin değerini bilmediğini söylerse, taahhüt eden ipoteğin tarifinde yemin ettirilir ve eğer onaylanmamış bir mesele getirirse, o ona aittir.\""
+    },
+    {
+      "id": 27,
+      "narrator": "",
+      "text": "Malik, \"Bütün bunlar, brokerin ipoteği alıp başka birine vermediği durumlarda geçerlidir.\" dedi."
+    },
+    {
+      "id": 28,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 29,
+      "narrator": "",
+      "text": "Yahya, Malik'in, aralarında bir ipotek bulunan iki adam hakkında şöyle dediğini duydu: Birisi ipoteğini satmayı üstlendi ve diğeri, alacağı için bir yıl beklemesini istedi. O, \"Eğer ipoteği bölmek mümkünse ve beklemesini isteyenin alacağı azalmazsa, aralarındaki ipoteğin yarısı onun için satılır ve alacağı verilir. Eğer hakkının azalmasından korkuluyorsa, tüm ipotek satılır ve ipoteğini satmayı üstlenen kişiye alacağı o miktardan verilir. Eğer beklemesini isteyen kişi kendisinde hoşnut olursa, fiyatın yarısı taahhüt edene ödenir. Eğer hoşnut olmazsa, ipotek alan kişi, 'Ben sadece onun ipoteğini bana aktarması için beklemesini istedim.' diye yemin ettirilir. Sonra hemen alacağı verilir.\""
+    },
+    {
+      "id": 30,
+      "narrator": "",
+      "text": "Yahya, Malik'in, bir efendisi tarafından ipotek edilen bir köle hakkında ve kölenin kendi malı olduğu hakkında şöyle dediğini duydu: \"Kölenin malı, brokerin bunu şart koşmadığı sürece ipoteğin bir parçası değildir.\""
+    },
+    {
+      "id": 31,
+      "narrator": "",
+      "text": "Malik, Yazid ibn Abdullah ibn al-Hadi'den, Muhammad ibn Ibrahim ibn al-Harith at-Taymi'den, Sulayman ibn Yasar'dan, Abdullah ibn Abi Umayya'dan rivayet etti ki, bir kadının kocası vefat etti ve o, dört ay on gün iddet bekledi. Sonra evlenme izni olduğunda evlendi. Kocasıyla dört buçuk ay birlikte kaldı, ardından tam gelişmiş bir çocuk doğurdu. Kocası, bu durumu Ömer ibn al-Hattab'a anlattı, Ömer de Cahiliye döneminin bazı yaşlı kadınlarını çağırarak onlara sordu. Kadınlardan biri şöyle dedi: \"Bu kadının başına geleni anlatayım. Kocası vefat ettiğinde, onunla hamileydi, ama onun ölümüyle kanı aktı ve çocuk karnında kurudu. Yeni kocası onunla cinsel ilişkiye girdiğinde ve su çocuğa ulaştığında, çocuk karnında hareket etti ve büyüdü.\" Ömer ibn al-Hattab ona inandı ve onları ayırdı (iddetini tamamlayana kadar). Ömer dedi ki, \"Siz ikiniz hakkında bana sadece hayır ulaştı,\" ve çocuğu ilk kocaya bağladı."
+    },
+    {
+      "id": 32,
+      "narrator": "",
+      "text": "Malik, Yahya ibn Said'den, Sulayman ibn Yasar'dan rivayet etti ki, Ömer ibn al-Hattab, Cahiliye çocuklarını İslam'da onları iddia eden kişilere bağlardı. İki adam geldi ve her biri bir kadının çocuğunu iddia etti. Ömer ibn al-Hattab, özellikleri inceleyen bir kişiyi çağırdı ve onlara baktı. İnceleyen kişi, \"İkisi de onda pay sahibidir,\" dedi. Ömer ibn al-Hattab ona bir kamçı ile vurdu. Sonra kadını çağırdı ve dedi ki, \"Bana hikayeni anlat.\" Kadın, \"Bu (iki adamdan birini işaret ederek) benim halkımın develeriyle birlikteyken bana gelirdi. Beni bırakmadı ta ki hamile olduğumu düşündüğümüz zamana kadar. Sonra beni bıraktı ve benden kan aktı, bu diğer adam onun yerini aldı. Çocuğun kimin olduğunu bilmiyorum,\" dedi. İnceleyen kişi, \"Allah daha büyüktür,\" dedi. Ömer çocuğa, \"İstediğin kişiye git,\" dedi."
+    },
+    {
+      "id": 33,
+      "narrator": "",
+      "text": "Malik, Ömer ibn al-Hattab veya Osman ibn Affan'ın, kendisini aldatıp özgür olduğunu söyleyen bir cariye hakkında bir hüküm verdiğini duyduğunu aktardı. Adam onu evlendi ve çocuklar doğurdu. Çocuklarının fidye olarak benzer kölelerle ödenmesi kararlaştırıldı. Yahya, Malik'in \"Onları fiyatlarıyla fidye vermek bu durumda daha adil, Allah dilerse,\" dediğini duydu."
+    },
+    {
+      "id": 34,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, bir adam öldüğünde ve oğulları olduğunda ve bunlardan biri, \"Babam, falan kişi onun oğludur,\" iddiasında bulunduğunda, toplumumuzda genel olarak kabul edilen uygulamanın, bir adamın şahitliği ile akrabalığın kurulmadığı ve bunu doğrulayan kişinin sadece kendi payı açısından babasının malının bölünmesinde geçerli olduğu olduğunu duydu. Şahitlik edilen kişiye, şahitlik edenin payından sadece hakkı verilir. Malik, \"Bunun bir örneği, bir adamın iki oğlu ve 600 dinar bırakmasıdır. Her biri 300 dinar alır. Sonra bunlardan biri, vefat eden babasının falan kişinin onun oğlu olduğunu doğruladığını şahitlik eder. Şahitlik eden, bu şekilde bağlı olan kişiye 100 dinar vermekle yükümlüdür. Bu, akraba olduğu düşünülseydi, onun mirasının yarısıdır. Eğer diğeri onu doğruluyorsa, diğer 100'ü alır ve böylece hakkını tamamlar ve akrabalığı kurulur. Durumu, babası veya kocası aleyhine bir borcu doğrulayan bir kadının durumu gibidir ve diğer mirasçılar bunu inkar eder. Borcu doğruladığı kişiye, borcun tamamının kendisine doğrulandığı takdirde, kendi payına göre ödeme yapmalıdır. Eğer kadın sekizde bir miras alıyorsa, alacaklıya borcunun sekizde birini öder. Eğer bir kız yarım miras alıyorsa, alacaklıya borcunun yarısını öder. Hangi kadınlar onu doğruluyorsa, ona buna göre ödeme yaparlar. Malik, \"Eğer bir adamın şahitliği, kadının babası aleyhine bir borcu olduğunu doğrulayan şahitliği ile uyumluysa, alacaklı bir şahit ile yemin ettirilir ve tüm hakları verilir. Bu, kadınlar için böyle değildir çünkü bir adamın şahitliği kabul edilir ve alacaklı, şahitliğinin yeminini almalı ve tüm haklarını almalıdır. Eğer yemin etmezse, sadece onu doğrulayan kişinin mirasından, borcun payına göre alır, çünkü hakkını doğrulamış ve diğer mirasçılar bunu inkar etmiştir. Onu doğrulaması kendisine izin verilmiştir,\" dedi."
+    },
+    {
+      "id": 35,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, İbn Şihab'dan, Salim ibn Abdullah ibn Umar'dan babasından, Ömer ibn al-Hattab'ın şöyle dediğini duydu: \"Kendi cariyeleriyle cinsel ilişkiye girip sonra onları boşayan adamlara ne oluyor? Bana, efendisi onunla cinsel ilişkiye girdiğini itiraf eden hiçbir cariye gelmez ki, ben onun çocuğunu ona bağlamayayım, isterse cinsel ilişkiye kesintili olarak girmiş olsun ya da onunla cinsel ilişkiyi bırakmış olsun.\""
+    },
+    {
+      "id": 36,
+      "narrator": "",
+      "text": "Malik, Nafi'den, Safiyya bint Abi Ubayd'ın kendisine Ömer ibn al-Hattab'ın şöyle dediğini bildirdiğini aktardı: \"Kendi cariyeleriyle cinsel ilişkiye girip sonra onları bırakıp giden adamlara ne oluyor? Bana, efendisi onunla cinsel ilişkiye girdiğini itiraf eden hiçbir cariye gelmez ki, ben onun çocuğunu ona bağlamayayım, isterse cinsel ilişkiye kesintili olarak girmiş olsun ya da onunla cinsel ilişkiyi bırakmış olsun.\" Yahya, Malik'in \"Toplumumuzda bir umm walad (çocuk doğurmuş köle kadın) bir suç işlediğinde, efendisi onun yaptıklarından dolayı değerine kadar sorumludur. Onu teslim etmek zorunda değildir ve suçundan dolayı onun değerinden fazlasını ödemek zorunda kalamaz,\" dediğini duydu."
+    },
+    {
+      "id": 37,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Hişam ibn Urwa'dan babasından, Allah'ın Elçisi'nin, Allah ona salat ve selam eylesin, \"Kim ölü toprağı ihya ederse, o ona aittir ve zalim kök hakkı yoktur,\" dediğini aktardı. Malik, \"Zalim kök, haksız yere alınan veya dikilen her şeydir,\" diye açıkladı."
+    },
+    {
+      "id": 38,
+      "narrator": "",
+      "text": "Malik, İbn Şihab'dan, Salim ibn Abdullah'dan babasından, Ömer ibn al-Hattab'ın \"Kim ölü toprağı ihya ederse, o ona aittir,\" dediğini aktardı. Malik, \"Bu, toplumumuzda yapılan şeydir,\" dedi."
+    },
+    {
+      "id": 39,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abdullah ibn Abi Bakr ibn Muhammad ibn Amr ibn Hazm'dan, Allah'ın Elçisi'nin, Allah ona salat ve selam eylesin, Mahzur ve Mudhaynib (Medine'de) sel kanalları hakkında \"Onları sistematik olarak kapatın, böylece su her mülkü sırayla ayak bileği seviyesine kadar yönlendirsin, yukarıdan başlayarak,\" dediğini duydu."
+    },
+    {
+      "id": 40,
+      "narrator": "",
+      "text": "Malik, Ebu'z-Zinad'dan, el-Araj'dan, Ebu Hurayra'dan, Allah'ın Elçisi'nin, Allah ona salat ve selam eylesin, \"Fazla su, otların büyümesini engellemek için tutulmaz,\" dediğini aktardı."
+    },
+    {
+      "id": 41,
+      "narrator": "",
+      "text": "Malik, Ebu'r-Rijal Muhammad ibn Abd ar-Rahman'dan, annesi Amra bint Abd ar-Rahman'dan, Allah'ın Elçisi'nin, Allah ona salat ve selam eylesin, \"Bir kuyunun fazla suyunu insanlardan esirgemeyin,\" dediğini bildirdi."
+    },
+    {
+      "id": 42,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Amr ibn Yahya al-Mazini'den babasından, Allah'ın Elçisi'nin, Allah ona salat ve selam eylesin, \"Ne yaralanma ne de yaralanmaya karşılık vardır,\" dediğini duydu."
+    },
+    {
+      "id": 43,
+      "narrator": "",
+      "text": "Malik, İbn Şihab'dan, el-Araj'dan, Ebu Hurayra'dan, Allah'ın Elçisi'nin, Allah ona salat ve selam eylesin, \"Hiç kimse komşusunun duvarına bir tahta çakmasını engellememelidir,\" dediğini aktardı. Sonra Ebu Hurayra, \"Neden ondan yüz çevirdiğini görüyorum? Allah'a yemin ederim ki, bu konuda seni rahatsız edeceğim,\" dedi."
+    },
+    {
+      "id": 44,
+      "narrator": "",
+      "text": "Malik, Amr ibn Yahya al-Mazini'den babasından, ad-Dahhak ibn Khalifa'nın büyük bir su kaynağından sulama kanalını suladığını, bunu Muhammad ibn Maslama'nın arazisinden geçirmek istediğini ve Muhammad'ın buna karşı çıktığını aktardı. Ad-Dahhak ona, \"Beni neden engelliyorsun? Bu sana fayda sağlayacak. Önce ve en son ondan içebilirsin ve sana zarar vermeyecek,\" dedi. Muhammed buna karşı çıktı, bu yüzden ad-Dahhak bunu Ömer ibn al-Hattab'a anlattı ve Ömer ibn al-Hattab, Muhammad ibn Maslama'yı çağırarak ona yolu açmasını emretti. Muhammad, \"Hayır,\" dedi. Ömer, \"Kardeşini fayda sağlayacak bir şeyden neden engelliyorsun ve bu senin için de faydalı? Önce ve en son ondan su alacaksın ve sana zarar vermeyecek,\" dedi. Muhammad, \"Hayır, Allah'a yemin ederim!\" dedi. Ömer, \"Allah'a yemin ederim ki, onu geçirecek, hatta karnının üstünden bile olsa!\" dedi. Ömer, ona geçiş izni vermesini emretti ve ad-Dahhak da öyle yaptı."
+    },
+    {
+      "id": 45,
+      "narrator": "",
+      "text": "Malik, Amr ibn Yahya al-Mazini'den, babasının şöyle dediğini aktardı: \"Dedemin bahçesinde Abd ar-Rahman ibn Awf'a ait bir dere vardı. Abd ar-Rahman ibn Awf, onu bahçenin köşesine, kendi arazisine daha yakın bir yere taşımak istedi ve bahçenin sahibi ona engel oldu. Abd ar-Rahman ibn Awf, bunu Ömer ibn al-Hattab'a anlattı ve Ömer, Abd ar-Rahman ibn Awf'a onu taşımayı emretti.\""
+    },
+    {
+      "id": 46,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Thawr ibn Zayd ad-Dili'nin şöyle dediğini aktardı: \"Ben, Allah'ın Resulü'nün, Allah ona salat ve selam eylesin, 'Cahiliye döneminde bölünmüş bir ev veya arazi, Cahiliye dönemine göre bölünmüştür. İslam'ın gelmesinden önce bölünmemiş bir ev veya arazi, İslam'a göre bölünür.' dediğini işittim.\""
+    },
+    {
+      "id": 47,
+      "narrator": "",
+      "text": "Yahya, Malik'in, Aliya ve Safila (Medine'nin dış bölgeleri) dağlarında mülk bırakan bir adamdan bahsettiğini aktardı. Malik şöyle dedi: \"Sulama yapılmayan, doğal olarak sulanan arazi, sulanan arazi ile aynı kategoride değildir, ancak aile bununla razı olursa. Sulama yapılmayan arazi, ancak bir kaynakla benzerlik gösterdiğinde, kaynak olan arazi ile aynı kategoridedir. Mülkler bir arazide ve birbirine yakın olduğunda, her bir mülk değerlendirilir ve ardından mirasçılar arasında bölünür. Konutlar ve evler de aynı durumdadır.\""
+    },
+    {
+      "id": 48,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Ibn Shihab'dan, Haram ibn Sad ibn Muhayyisa'dan, al-Bara ibn Azib'in bir dişi devenin bir adamın bahçesine girdiğini ve ona zarar verdiğini aktardığını söyledi. Allah'ın Resulü, Allah ona salat ve selam eylesin, bahçenin gündüz korunmasından bahçe sahiplerinin sorumlu olduğunu ve hayvanların sahibinin gece hayvanların verdiği zarardan sorumlu olduğunu belirtti."
+    },
+    {
+      "id": 49,
+      "narrator": "",
+      "text": "Malik, Hisham ibn Urwa'dan, babasından, Yahya ibn Abd ar-Rahman ibn Hatib'ten, Hatib'in bazı kölelerinin Muzayna kabilesine ait bir dişi deveyi çalıp kestiklerini aktardı. Bu mesele Umar ibn al-Khattab'a götürüldü ve Umar, Kathir ibn as-Salt'a onların ellerini kesmesini emretti. Sonra Umar, Habib'e, \"Onları aç bırakıyorsun sanırım,\" dedi ve ekledi: \"Vallahi! Sana öyle bir ceza vereceğim ki, bu senin için ağır olacak.\" Muzayna kabilesinden adama, \"Devenin fiyatı neydi?\" diye sordu. Muzayni, \"Vallahi, onu 400 dirheme satmayı reddettim.\" dedi. Umar, \"Ona 800 dirhem verin.\" dedi."
+    },
+    {
+      "id": 50,
+      "narrator": "",
+      "text": "Yahya, Malik'in şöyle dediğini işitti: \"Fiyatı iki katına çıkarmak, bizim toplumumuzun davranışı değildir. Bizim aramızda yerleşmiş olan şey, adamın, deveyi veya hayvanı aldığı gün, hayvanın değerini ödemekle yükümlü olduğudur.\""
+    },
+    {
+      "id": 51,
+      "narrator": "",
+      "text": "Yahya, Malik'in, evcil bir hayvana zarar verenin, hayvanın fiyatını ne kadar azalttığı kadar tazminat ödemesi gerektiğini söylediğini aktardı. Yahya, Malik'in, bir devenin bir adama saldırdığını ve adamın kendisi için korktuğunu, onu öldürdüğünü veya arka bacaklarını kestiğini söylediğini işitti. Malik, \"Eğer onun kendisine doğru gittiğine ve ona saldırdığına dair açık bir delili varsa, ona karşı tazminat yoktur. Eğer açık bir delil yoksa, sadece onun sözü varsa, deve için sorumludur.\" dedi."
+    },
+    {
+      "id": 52,
+      "narrator": "",
+      "text": "Yahya, Malik'in, bir adamın bir yıkayıcıya bir giysi boyaması için verdiğini ve yıkayıcının onu boyadığını, sonra giysinin sahibi \"Ben sana bu boyayı kullanmanı emretmedim.\" dediğinde, yıkayıcının bu konuda itiraz ettiğini, bu durumda yıkayıcının kabul edileceğini söylediğini aktardı. Terzi ve altıncı için de durum aynıdır. Normalde yapılması beklenmeyen bir şey sunmadıkları sürece, bununla ilgili yemin ederler. O durumda, beyanları kabul edilmez ve giysi sahibi yemin etmek zorundadır. Eğer reddeder ve yemin etmeyi kabul etmezse, o zaman boyacı yemin ettirilir."
+    },
+    {
+      "id": 53,
+      "narrator": "",
+      "text": "Yahya, Malik'in, bir boyacının bir giysi alıp hata yaparak onu başka bir adama verdiğini ve o kişinin onu giydiğini söylediğini aktardı. Malik, \"Onu giyen kişinin ona karşı tazminatı yoktur ve yıkayıcı, giysi sahibine tazminat öder. Bu, adamın kendisine verilmiş giysiyi tanımadan giymesi durumunda geçerlidir. Eğer giysiyi, kendisinin olmadığını bilerek giyerse, ondan sorumludur.\" dedi."
+    },
+    {
+      "id": 54,
+      "narrator": "",
+      "text": "Yahya, Malik'in, bir adamın bir alacaklıyı başka bir adama yönlendirmesi durumunda, eğer yönlendirilen iflas eder veya ölürse ve borcu ödeyecek kadar mal bırakmazsa, alacaklının yönlendiren kişi hakkında bir şey talep edemeyeceğini ve borcun ilk tarafa geri dönmeyeceğini söylediğini aktardı. Malik, \"Bu, toplumumuzda üzerinde tartışma olmayan bir uygulamadır.\" dedi. Malik, \"Eğer bir adamın borcu başka bir adam tarafından üstlenilmişse ve sonra bu adam ölür veya iflas ederse, o zaman onun üstlendiği şey ilk borçluya geri döner.\" dedi."
+    },
+    {
+      "id": 55,
+      "narrator": "",
+      "text": "Yahya, Malik'in, bir adamın bir kusuru, yanık veya başka bir şey olan bir giysi satın alması durumunda, satıcının bunun farkında olduğunu ve bunun aleyhine tanıklık edildiğini veya bunu doğruladığını, ve satın alan kişinin giysiyi kesip yeni bir yırtık oluşturduğunda, ardından orijinal kusuru öğrendiğinde, giysiyi satıcıya geri verebileceğini ve yırtma nedeniyle sorumlu olmadığını söylediğini aktardı."
+    },
+    {
+      "id": 56,
+      "narrator": "",
+      "text": "\"Eğer bir adam, yanık veya kusur olan bir giysi satın alırsa ve onu satan kişi bunun farkında olmadığını iddia ederse ve alıcı giysiyi kesmiş veya boyamışsa, alıcının bir seçeneği vardır. İsterse, yanık veya kusurun giysinin fiyatını ne kadar azalttığına göre bir indirim alabilir ve giysiyi tutabilir, ya da kesme veya boyama nedeniyle giysinin fiyatından ne kadar azaldığına karşılık tazminat ödemek isterse, bunu yapabilir."
+    },
+    {
+      "id": 57,
+      "narrator": "",
+      "text": "\"Eğer alıcı giysiyi, değerini artıran bir boya ile boyamışsa, alıcının bir seçeneği vardır. İsterse, kusurun azalttığı fiyat kadar giysinin fiyatında bir indirim alabilir veya giysiyi satan kişi ile ortak olmak isterse, bunu yapabilir. Yanık veya kusur olan giysinin fiyatı dikkate alınır. Eğer fiyat on dirhemse ve boyamanın değeri beş dirhem artırdıysa, o zaman giyside her biri kendi payına göre ortak olurlar. Bu hesaplamada, boyamanın giysinin fiyatını artırdığı miktar vardır.\""
+    },
+    {
+      "id": 58,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Ibn Shihab'dan, Humayd ibn Abd ar-Rahman ibn Awf ve Muhammad ibn an-Numan ibn Bashir'den, an-Numan ibn Bashir'in, babası Bashir'in onu Allah'ın Resulü'ne, Allah ona salat ve selam eylesin, getirdiğini ve \"Bu oğluma kölelerimden birini verdim.\" dediğini aktardığını söyledi. Allah'ın Resulü, Allah ona salat ve selam eylesin, \"Çocuklarının her birine bunun gibi verdin mi?\" dedi. O da, \"Hayır.\" dedi. Allah'ın Resulü, \"O zaman köleyi geri al.\" dedi."
+    },
+    {
+      "id": 59,
+      "narrator": "",
+      "text": "Malik, Ibn Shihab'dan, Urwa ibn az-Zubayr'dan, A'isha'nın, Peygamber'in eşi, Allah ona salat ve selam eylesin, \"Abu Bakr as-Sıddık, bana al-Ghaba'daki mülkünden yirmi awsuk meyve veren palmiyeler verdi. Ölmekteyken, 'Vallahi, küçük kızım, öldükten sonra zengin olmanı istediğim kimse yok. Ölümümden sonra seni fakir görmek benim için daha zor.' dedi. 'Yirmi awsuk meyve veren palmiyeleri sana verdim. Eğer onları kesip sahip olsaydın, senin olurdu, ama bugün bunlar mirasçıların mülkü, ve senin iki kardeşin ve iki kız kardeşin var, bu yüzden bunu Allah'ın Kitabı'na göre böl.' A'isha devam etti, 'Ben dedim ki, 'Babacığım! Vallahi, daha fazla olsaydı bile, onu bırakırdım. Sadece Asma var. Diğer kız kardeşim kim?' Abu Bakr, 'Kharija'nın karnındaki nedir? (Kharija, Abu Bakr'ın Ensar'dan olan 'kardeşinin' karısıydı.) Sanırım bir kız olacak.' dedi.\""
+    },
+    {
+      "id": 60,
+      "narrator": "",
+      "text": "Malik, Ibn Shihab'dan, Urwa ibn az-Zubayr'dan, Abd ar-Rahman ibn Abd al-Qari'den, Umar ibn al-Khattab'ın, \"Oğullarına hediyeler veren ve sonra onları tutan, eğer oğlu ölürse, 'Mülküm elimde ve kimseye vermedim.' diyen adamlara ne oluyor? Ama kendileri ölmekteyken, 'O benim oğluma aittir, ona verdim.' diyorlar. Kim bir hediye verirse ve onu hediye edilen kişiye teslim etmezse, hediye geçersizdir ve eğer ölürse, mirasçılara aittir.\" dediğini aktardı."
+    },
+    {
+      "id": 61,
+      "narrator": "",
+      "text": "Malik, Yahya ibn Said'den, Abd ar-Rahman ibn al-Qasim ibn Muhammad'ın Makhul ad-Dimashqi'nin al-Qasim ibn Muhammad'a yaşam maaşı ve bunun hakkında insanların ne dediğini sorduğunu duyduğunu aktardı. Al-Qasim ibn Muhammad, \"Ben sadece mülkleri ve kendilerine verilenleri hakkında yaptıkları şartlara uyan insanlarla karşılaştım,\" dedi."
+    },
+    {
+      "id": 62,
+      "narrator": "",
+      "text": "Yahya, Malik'in şöyle dediğini duyduğunu söyledi: \"Topluluğumuzda yapılan şey, yaşam maaşının onu bir yaşam maaşı yapan kişiye geri dönmesidir, eğer 'Bu senin ve neslin içindir' demezse.\""
+    },
+    {
+      "id": 63,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 64,
+      "narrator": "",
+      "text": "Malik, Nafi'den, Abdullah ibn Umar'ın Hafsa bint Umar'ın evini miras aldığını aktardı. Abdullah, \"Hafsa, Zayd ibn al-Khattab'ın kızına yaşadığı sürece konukseverlik yaptı. Zayd'ın kızı öldüğünde, Abdullah ibn Umar evi aldı ve bunun kendisine ait olduğunu düşündü,\" dedi."
+    },
+    {
+      "id": 65,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 66,
+      "narrator": "",
+      "text": "Malik, Rabia ibn Abi Abd ar-Rahman'dan, Yazid, al-Munbaith'in kölesinden, Zayd ibn Khalid al-Juhani'nin şöyle dediğini aktardı: \"Bir adam, Allah'ın Elçisi'ne, Allah ona rahmet etsin ve selam versin, buluntular hakkında sordu. O da, 'Bulunan nesnenin özelliklerini ezberle, sonra bir yıl boyunca bunu duyur. Eğer sahibi gelirse, ona ver. Gelmezse, o senin işin,' dedi. Adam, 'Ya kaybolan koyunlar, Allah'ın Elçisi?' dedi. O da, 'Onlar senindir, kardeşinindir ya da kurdun,' dedi. Adam, 'Ya kaybolan deve?' dedi. O da, 'Bu senin işin değil. Suya ve ayaklarına sahiptir. Suya ulaşacak ve ağaçları yiyecek, ta ki sahibi onu bulana kadar,' dedi.\""
+    },
+    {
+      "id": 67,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 68,
+      "narrator": "",
+      "text": "Malik, Ayyub ibn Musa'dan, Muawiya ibn Abdullah ibn Badr al-Juhani'den, babasının ona, Suriye'ye giderken bir toplulukta durduğunda içinde seksen dinar olan bir çanta bulduğunu bildirdiğini aktardı. Bunu Umar ibn al-Khattab'a anlattı. Umar ona, \"Bunu camilerin kapılarında duyur ve Suriye'den gelen herkese bir yıl boyunca söyle,\" dedi. \"Bir yıl geçtikten sonra, o senin işin.\""
+    },
+    {
+      "id": 69,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 70,
+      "narrator": "",
+      "text": "Malik, Nafi'den, bir adamın bir şey bulup Abdullah ibn Umar'a gittiğini ve ona, \"Bir şey buldum. Bununla ne yapmalıyım?\" dediğini aktardı. Abdullah ibn Umar ona, \"Duyur!\" dedi. Adam, \"Bunu yaptım,\" dedi. Abdullah, \"Tekrar yap,\" dedi. Adam, \"Bunu yaptım,\" dedi. Abdullah, \"Sana bunu kullanmanı emretmiyorum. İstersen, onu bırakabilirdin,\" dedi."
+    },
+    {
+      "id": 71,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 72,
+      "narrator": "",
+      "text": "Yahya, Malik'in şöyle dediğini duyduğunu aktardı: \"Topluluğumuzda, bir kölenin bir şey bulup buluntular için belirlenen süre olan bir yıl dolmadan kullanması durumunda, bu onun şahsına karşıdır. Ya efendisi, kölenin kullandığı şeyin bedelini öder ya da kölesini tazminat olarak teslim eder. Eğer buluntular için belirlenen süre dolana kadar bunu saklarsa ve kullanırsa, bu onun aleyhine bir borçtur ve şahsına karşı değildir ve efendisi aleyhine de bir şey yoktur.\""
+    }
+  ]
+}

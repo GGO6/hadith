@@ -1,0 +1,46 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 6,
+    "arabic": {
+      "title": "صحيح البخاري",
+      "author": "الإمام محمد بن إسماعيل البخاري"
+    },
+    "english": {
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Muhammad ibn Ismail al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Narrated Shu'aib:",
+      "text": "Şu'be'den rivayet edilmiştir: Az-Zuhri'ye sordum, \"Peygamber (ﷺ) hiç Korku Namazı kıldırdı mı?\" Az-Zuhri, \"Salim'in bana söylediğine göre, Abdullah bin Ömer dedi ki: 'Ben, Allah'ın Resulü (ﷺ) ile birlikte Najd'de bir cihad'a katıldım. Düşmanla karşılaştık ve saf tuttuk. Sonra Allah'ın Resulü (ﷺ) namaz kıldırmak için ayağa kalktı ve bir grup onunla namaz kılarken diğer grup düşmana karşı durdu. Allah'ın Resulü (ﷺ) ve ilk grup rükû yaptılar ve iki secde ettiler. Sonra o grup ayrıldı ve namaz kılmayanların yerini aldı. Allah'ın Resulü (ﷺ) ikinci grup ile bir rek'at kıldı ve iki secde yaptı ve namazını selam ile tamamladı. Sonra her biri bir kez rükû yaptı ve bireysel olarak iki secde etti.'\""
+    },
+    {
+      "id": 2,
+      "narrator": "Narrated Nafi`:",
+      "text": "Nafi' rivayet etmiştir: İbn Ömer, Mücahid'in söylediğine benzer bir şey söyledi: \"Her ne zaman (Müslümanlar ve müşrikler) savaşta karşı karşıya gelirlerse, Müslümanlar ayakta namaz kılabilirler.\" İbn Ömer ekledi, \"Peygamber (ﷺ) dedi ki: 'Eğer düşmanın sayısı Müslümanlardan fazlaysa, ayakta veya binerken (bireysel olarak) namaz kılabilirler.'\""
+    },
+    {
+      "id": 3,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Bir gün Peygamber (p.b.u.h) korku namazı kıldırdı ve insanlar arkasında durdular. Takbir (Allahu-Akbar) dedi ve insanlar da aynı şekilde söylediler. Rükû yaptı ve bazıları rükû yaptı. Sonra secde etti ve onlar da secde ettiler. Sonra ikinci rek'at için ayağa kalktı ve birinci rek'atı kılanlar ayrıldı ve kardeşlerini korudular. İkinci grup ona katıldı ve onunla birlikte rükû ve secde yaptılar. Tüm insanlar namazdaydı ama namaz sırasında birbirlerini koruyorlardı."
+    },
+    {
+      "id": 4,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Jabir bin Abdullah'tan rivayet edilmiştir: Hendek günü, Ömer geldi, Kureyş'in kafirlerini lanetleyerek dedi ki, \"Ey Allah'ın Resulü! Ben 'Asr namazını kılmadım ve güneş battı.\" Peygamber (ﷺ) cevap verdi, \"Vallahi! Ben de henüz namaz kılmadım.\" Peygamber (ﷺ) sonra Buthan'a gitti, abdest aldı ve güneş battıktan sonra 'Asr namazını kıldı ve ardından Magrib namazını kıldı.\""
+    },
+    {
+      "id": 5,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn Ömer'den rivayet edilmiştir: Peygamber (ﷺ) Hendek savaşından döndüğünde, bize şöyle dedi: \"Hiç kimse 'Asr namazını Beni Kureyza'dan başka bir yerde kılmasın.\" Yolda bazılarına 'Asr namazı vaktinin geldi. Bazıları, Salat'ı sadece Beni Kureyza'da kılmayı tercih ederken, diğerleri o anda Salat'ı kılmayı tercih etti ve Peygamber (ﷺ)'in niyetinin ilk grubun anladığı gibi olmadığını söylediler. Bu durum Peygamber (ﷺ)'e iletildiğinde, onlardan hiç kimseyi kınamadı."
+    },
+    {
+      "id": 6,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir: Allah'ın Resulü (ﷺ) (p.b.u.h) karanlıkta Fajr namazını kıldırdı, sonra bindi ve dedi ki, \"Allah Akbar! Hayber harabe oldu. Bir millete yaklaştığımızda, uyarılanların sabahı en talihsizidir.\" İnsanlar sokaklara çıkarak, \"Muhammed ve ordusu.\" dediler. Allah'ın Resulü (ﷺ) onları güç kullanarak yendi ve savaşçıları öldürüldü; çocuklar ve kadınlar esir alındı. Safiye, Dihya el-Kalbi tarafından alındı ve daha sonra Allah'ın Resulü'ne ait oldu, o da onunla evlendi ve onun mehir bedeli, özgürlüğü oldu."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 1,
+    "arabic": {
+      "title": "موطأ مالك",
+      "author": "الإمام مالك بن أنس"
+    },
+    "english": {
+      "title": "Muwatta Malik",
+      "author": "Imam Malik ibn Anas"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "",
+      "text": "Malik, bana İbn Şihab'dan, o da Muhammed ibn Cubeyr ibn Mut'im'den, Peygamber'in (sallallahu aleyhi ve sellem) şöyle söylediğini aktardı: \"Beş ismim var. Ben Muhammed'im. Ben Ahmed'im. Ben el-Mahi'yim (silici), Allah'ın küfrü sildiği kişi. Ben el-Haşir'im (toplayıcı), insanların toplandığı kişi. Ben el-Akib'im (son).\""
+    }
+  ]
+}

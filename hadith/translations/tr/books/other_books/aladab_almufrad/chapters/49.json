@@ -1,0 +1,46 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 6,
+    "arabic": {
+      "title": "الأدب المفرد",
+      "author": "الإمام البخاري"
+    },
+    "english": {
+      "title": "Al-Adab Al-Mufrad",
+      "author": "Imam al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "",
+      "text": "Ebu Hureyre dedi ki, \"Sabahları, Allah'ın selamı ve bereketi üzerine olsun, Peygamber, 'Ya Allah, sabahı Seninle karşılıyoruz ve akşamı Seninle karşılıyoruz. Seninle yaşıyoruz ve Seninle ölüyoruz ve dönüş yalnızca Sinedir.' derdi. Akşamları ise, 'Ya Allah, akşamı Seninle karşılıyoruz ve sabahı Seninle karşılıyoruz. Seninle yaşıyoruz ve Seninle ölüyoruz ve dönüş yalnızca Sinedir.' derdi.\""
+    },
+    {
+      "id": 2,
+      "narrator": "Ibn 'Umar said, \"The Messenger of Allah, may Allah bless him and\ngrant him peace, did not omit saying the following words in the morning\nand evening:",
+      "text": "İbn Ömer dedi ki, \"Allah'ın elçisi, Allah ona selam ve bereket versin, sabah ve akşam şu sözleri söylemeyi asla ihmal etmezdi: 'Ya Allah, bu dünyada ve ahirette bana sağlık vermeni istiyorum. Ya Allah, dinimde, bu dünyada, ailemde ve malımda bağışlanma ve sağlık istiyorum. Ya Allah, hatalarımı ört ve korkularımı yatıştır. Ya Allah, önümde, arkamda, sağımda, solumda ve üstümde bana koruma ver. Beni altımdan çiğnenmekten, Senin kudretine sığınırım.'\""
+    },
+    {
+      "id": 3,
+      "narrator": "",
+      "text": "Maymuna, Peygamber'in eşi, dedi ki, \"Anas ibn Malik'in, Allah'ın elçisi, Allah ona selam ve bereket versin, şöyle dediğini duydum: 'Sabahları, \"Ya Allah, sana şahitlik ediyoruz ve Senin Arş'ını taşıyanlara, meleklerine ve tüm yaratıklarına şahitlik ediyoruz. Sen Allah'sın. Senden başka ilah yoktur, tek başına ve ortağı olmadan ve Muhammed Senin kulun ve elçindir\" diyen kimse, o gün Allah onu ateşten dörtte bir oranında kurtarır. Eğer bunu iki kez söylerse, Allah onu ateşten yarı oranında kurtarır. Eğer dört kez söylerse, o gün Allah onu tamamen ateşten kurtarır.'\""
+    },
+    {
+      "id": 4,
+      "narrator": "",
+      "text": "Ebu Hureyre, Ebu Bekir'in şöyle dediğini bildirdi: \"Allah'ın elçisi, bana sabah ve akşam söyleyebileceğim bir şey öğret.\" Peygamber şöyle dedi: \"Ya Allah, görünmeyeni ve görüneni bilen, göklerin ve yerin yaratıcısı, her şey Senin ellerindedir. Senden başka ilah yoktur. Kendi nefsimin şerrinden ve şeytanın şerrinden ve onun (Sana ortak koşma) teşvikinden Sana sığınırım.\" Bunu sabah ve akşam ve uykuya gittiğinde söyle.\""
+    },
+    {
+      "id": 5,
+      "narrator": "",
+      "text": "Ebu Hureyre'den benzer bir rivayet, \"Her şeyin Rabbi ve sahibi.\" dedi. \"Şeytanın şerrinden ve onun teşvikinden sığınırım.\" dedi."
+    },
+    {
+      "id": 6,
+      "narrator": "Abu Rashid al-Hubrani said, \"I came to 'Abdullah ibn 'Umar and\nasked him to relate to us what he had heard from the Messenger of Allah,\nmay Allah bless him and grant him peace. He handed me a paper and said,\n'This is what the Prophet, may Allah bless him and grant him peace, wrote\nfor me.' I looked at it and it read:",
+      "text": "Ebu Raşid el-Hubrani dedi ki, \"Abdullah ibn Ömer'e geldim ve Allah'ın elçisinden, Allah ona selam ve bereket versin, duyduğu şeyleri bize aktarmasını istedim. Bana bir kağıt verdi ve 'Bu, Peygamber'in, Allah ona selam ve bereket versin, benim için yazdığıdır.' dedi. Ona baktım ve şunları yazıyordu: 'Ebu Bekir es-Sıddik, Peygamber'e, Allah ona selam ve bereket versin, \"Allah'ın elçisi, sabah ve akşam ne söyleyeceğimi öğret.\" dedi. O da, \"Ebu Bekir, de ki, 'Ya Allah, göklerin ve yerin yaratıcısı, görünmeyeni ve görüneni bilen, her şeyin Rabbi ve sahibi. Şeytanın şerrinden ve onun ortak koşma teşvikinden, kendime ya da başka bir Müslümana kötülük getirmekten Sana sığınırım.'\"'\""
+    }
+  ]
+}

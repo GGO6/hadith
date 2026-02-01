@@ -1,0 +1,31 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 3,
+    "arabic": {
+      "title": "صحيح البخاري",
+      "author": "الإمام محمد بن إسماعيل البخاري"
+    },
+    "english": {
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Muhammad ibn Ismail al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Abu Huraira'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Zengin bir adamın borcunu ödemekte gecikmesi adaletsizliktir. Eğer borcunuz, borçlunuzdan zengin bir borçluya devredilirse, kabul etmelisiniz.\""
+    },
+    {
+      "id": 2,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Abu Huraira'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Zengin bir kişinin borcunu ödemekte gecikmesi adaletsizliktir. Eğer borcunuz, borçlunuzdan zengin bir borçluya devredilirse, kabul etmelisiniz.\""
+    },
+    {
+      "id": 3,
+      "narrator": "Narrated Salama bin Al-Akwa:",
+      "text": "Salama bin Al-Akwa'dan rivayet edilmiştir: Bir gün, Peygamber'in (ﷺ) yanında otururken, bir ölü getirildi. Peygamber (ﷺ) için cenaze namazını kıldırması istendi. O, \"Borcu var mı?\" diye sordu. İnsanlar hayır dedi. O, \"Herhangi bir mal bıraktı mı?\" diye sordu. Onlar, \"Hayır.\" dediler. Bunun üzerine cenaze namazını kıldırdı. Başka bir ölü getirildi ve insanlar, \"Ey Allah'ın Elçisi (ﷺ)! Cenaze namazını kıldır.\" dediler. Peygamber (ﷺ) \"Borcu var mı?\" diye sordu. Onlar, \"Evet.\" dediler. O, \"Herhangi bir mal bıraktı mı?\" diye sordu. Onlar, \"Üç Dinar.\" dediler. Bunun üzerine namazı kıldırdı. Sonra üçüncü bir ölü getirildi ve insanlar (Peygamber'e (ﷺ) ) \"Lütfen cenaze namazını kıldır.\" dediler. O, \"Herhangi bir mal bıraktı mı?\" diye sordu. Onlar, \"Hayır.\" dediler. O, \"Borcu var mı?\" diye sordu. Onlar, \"Evet! Üç Dinar borcu var.\" dediler. O (namazı kılmayı reddetti ve) \"O zaman arkadaşınız için dua edin.\" dedi. Abu Qatada, \"Ey Allah'ın Elçisi (ﷺ)! Cenaze namazını kıldır, ben borcunu ödeyeceğim.\" dedi. Bunun üzerine namazı kıldırdı."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 7,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Abu Ayyub Al-Ansari said:",
+      "text": "Ebu Eyyub el-Ensari dedi ki: \"Bir gün Peygamber (Allah ona salat ve selam eylesin) evinde bir yemek hazırladı. Yemeğimizin başlangıcında daha büyük bir bereket gördüğümü, sonunda ise daha az bereket gördüğümü hiç görmemiştim, bu yüzden dedik ki: 'Ey Allah’ın Elçisi, bu nasıl olur?' O da dedi ki: 'Biz yemek yerken Allah’ın adını anmıştık. Sonra Allah’ı anmayan birisi oturdu ve şeytan onunla birlikte yedi!'\""
+    },
+    {
+      "id": 2,
+      "narrator": "'A’isha said:",
+      "text": "Aişe dedi ki: \"Allah’ın Elçisi (Allah ona salat ve selam eylesin) şöyle dedi: 'Eğer biriniz yemek yerken Allah’ı (Yüce Olan) anmayı unutur ise, şöyle desin: B'ismillah awwalahu wa akhirahu, yani 'Yemeğin başında ve sonunda Allah’ın adıyla' demektir.'\""
+    },
+    {
+      "id": 3,
+      "narrator": "'Umar ibn Abi Salama said that he went in to see Allah’s Messenger (Allah bless him and give him peace), who had a meal before him, so he said to him:",
+      "text": "Ömer ibn Ebi Selame dedi ki: \"Ben Allah’ın Elçisi’ni (Allah ona salat ve selam eylesin) ziyarete gittiğimde, önünde bir yemek vardı, bu yüzden ona dedim: 'Ey sevgili oğlum, Allah’ın adını an, sağ elinle ye ve önündeki şeyleri ye!'\""
+    },
+    {
+      "id": 4,
+      "narrator": "Abu Sa‘id al-Khudri said:",
+      "text": "Ebu Sa'id el-Hudri dedi ki: \"Allah’ın Elçisi (Allah ona salat ve selam eylesin) yemeğini bitirdikten sonra şöyle derdi: 'Bütün hamd, bizi doyuran, susuzluğumuzu gideren ve bizi Müslüman yapan Allah’a aittir!'\""
+    },
+    {
+      "id": 5,
+      "narrator": "Abu Umama said:",
+      "text": "Ebu Ümame dedi ki: \"Önünden masa kaldırıldığında, Allah’ın Elçisi (Allah ona salat ve selam eylesin) şöyle derdi: 'Allah’a çok güzel ve bereketli hamd olsun! Bu, bizim yiyeceğimizin sonu değildir, ne de olsa O’na muhtaç değiliz, ey Rabbimiz!'\""
+    },
+    {
+      "id": 6,
+      "narrator": "'Aisha said:",
+      "text": "Aişe dedi ki: \"Peygamber (Allah ona salat ve selam eylesin) altı sahabesiyle yemek yerken, bir bedevi geldi ve iki lokmada yemeği bitirdi, bunun üzerine Allah’ın Elçisi (Allah ona salat ve selam eylesin) şöyle dedi: 'Eğer o Allah’ın adını anmış olsaydı, hepiniz için yeterli olurdu!'\""
+    },
+    {
+      "id": 7,
+      "narrator": "Anas ibn Malik said:",
+      "text": "Enes ibn Malik dedi ki: \"Allah’ın Elçisi (Allah ona salat ve selam eylesin) şöyle dedi: 'Şüphesiz Allah, kulun yemeğinden ve ona şükretmesinden, ya da içeceğinden ve ona şükretmesinden hoşnut olur!'”"
+    }
+  ]
+}

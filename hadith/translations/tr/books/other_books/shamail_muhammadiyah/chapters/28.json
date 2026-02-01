@@ -1,0 +1,26 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 2,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Thabit said:",
+      "text": "Thabit dedi ki: “Anas ibn Malik bize demirle kaba bir şekilde sıkıştırılmış ahşap bir içme kabı getirdi, sonra dedi ki: ‘Ey İhab, bu Allah’ın Messenger’ının (Allah ona salat ve selam eylesin) içme kabıdır!’”"
+    },
+    {
+      "id": 2,
+      "narrator": "Anas said:",
+      "text": "Anas dedi ki: \"Ben Allah’ın Messenger’ına (Allah ona salat ve selam eylesin) bu kapla içmesi için her türlü içeceği verdim: su, hurma suyu, bal ve süt.”"
+    }
+  ]
+}

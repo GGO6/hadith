@@ -1,0 +1,46 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 6,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Al-Bara’ ibn 'Azib said:",
+      "text": "Al-Bara’ ibn 'Azib dedi ki: “Peygamber (Allah ona salat ve selam eylesin) uykuya yattığında, sağ elinin avucunu sağ yanağının altına koyar ve derdi ki: ‘Ey Rabbim, kullarını dirilttiğin günde, beni azabından koru!’”"
+    },
+    {
+      "id": 2,
+      "narrator": "Hudhaifa said:",
+      "text": "Hudhaifa dedi ki: “Peygamber (Allah ona salat ve selam eylesin) yatağına gittiğinde, ‘Ey Allah, Senin adınla öleceğim ve yaşayacağım’ derdi, uyandığında ise: ‘Ölüme mahkum olduğumuzdan sonra bizi dirilten Allah’a hamdolsun, dönüş O’nadır!’ derdi.”"
+    },
+    {
+      "id": 3,
+      "narrator": "'A’isha said:",
+      "text": "'A’isha dedi ki: \"Allah’ın Messenger’ı (Allah ona salat ve selam eylesin) her gece yatağına gittiğinde, ellerini birleştirir, sonra onlara üfler ve şöyle okurdu: ‘De ki: O, Allah'tır, tektir!’ (Kur'an; 114:1), sonra bu ellerini mümkün olduğu kadar vücudunun üzerine, başından, yüzünden ve ön kısmından başlayarak, üç kez geçirirdi.”"
+    },
+    {
+      "id": 4,
+      "narrator": "Ibn 'Abbas said:",
+      "text": "Ibn 'Abbas dedi ki: “Allah’ın Messenger’ı (Allah ona salat ve selam eylesin) nefes nefese kalıncaya kadar uyudu, uyurken nefes nefese kalmıştı, bunun üzerine Bilal ona geldi ve onu namaza çağırdı, o da kalkıp namaz kıldı ve küçük abdest almadı. Bu hadisin arkasında bir hikaye vardır.”"
+    },
+    {
+      "id": 5,
+      "narrator": "Anas ibn Malik said:",
+      "text": "Anas ibn Malik dedi ki: “Allah’ın Messenger’ı (Allah ona salat ve selam eylesin) yatağına gittiğinde, ‘Bize rızık veren, susuzluğumuzu gideren, bize yeterli olan ve barındıran Allah’a hamdolsun, ne kadar çok kimse var ki, yeterli bir rızık vereni ve barındıranı yok!’ derdi.”"
+    },
+    {
+      "id": 6,
+      "narrator": "Abu Qatada said:",
+      "text": "Abu Qatada dedi ki: “Peygamber (Allah ona salat ve selam eylesin) gece dinlenmek için yattığında, sağ tarafına yaslanır, sabahın erken saatlerinde dinlenmek için yattığında, ön kolunu kaldırır ve başını elinin avucunun üzerine koyardı.”"
+    }
+  ]
+}

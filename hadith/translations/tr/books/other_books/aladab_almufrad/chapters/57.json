@@ -1,0 +1,51 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 7,
+    "arabic": {
+      "title": "الأدب المفرد",
+      "author": "الإمام البخاري"
+    },
+    "english": {
+      "title": "Al-Adab Al-Mufrad",
+      "author": "Imam al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "",
+      "text": "Ebu Hureyre, Allah'ın Rasûlü'nün (sallallahu aleyhi ve sellem) şöyle söylediğini rivayet etmiştir: \"Güçlü olan kişi, insanları yere sermesiyle güçlü değildir. Güçlü olan, öfkelendiğinde kendini kontrol edendir.\""
+    },
+    {
+      "id": 2,
+      "narrator": "",
+      "text": "İbn 'Umar dedi ki: \"Allah katında en büyük mükafata ulaşan şey, Allah'ın rızasını kazanmak için kinini yutan ve kendini kontrol eden bir kuludur.\""
+    },
+    {
+      "id": 3,
+      "narrator": "Sulayman ibn Surad said, \"Two men abused one another in the presence\nof the Prophet, may Allah bless him and grant him peace, and one of them\nbegan to get angry and his face got red. The Prophet, may Allah bless him\nand grant him peace, looked at him and said, 'I know some words that, if\nhe says them, will remove this from him. They are:",
+      "text": "Süleyman b. Surad dedi ki: \"İki adam, Peygamber'in (sallallahu aleyhi ve sellem) huzurunda birbirlerine hakaret ettiler ve bunlardan biri öfkelenmeye başladı, yüzü kızardı. Peygamber (sallallahu aleyhi ve sellem) ona baktı ve 'Onun bu durumunu ortadan kaldıracak bazı kelimeler biliyorum. Onlar şunlardır: \"Allah'a sığınırım lanetli şeytandan.\"' dedi. Adam, diğer adama gitti ve 'Biliyor musun, o ne dedi? \"Allah'a sığınırım lanetli şeytandan.\" dedi.' Adam karşılık verdi: 'Beni deli mi sanıyorsun?'\""
+    },
+    {
+      "id": 4,
+      "narrator": "",
+      "text": "Önceki hadisin bir varyantı."
+    },
+    {
+      "id": 5,
+      "narrator": "",
+      "text": "İbn Abbas dedi ki: \"Allah'ın Rasûlü (sallallahu aleyhi ve sellem) şöyle dedi: 'Öğretin ve kolaylaştırın. Öğretin ve kolaylaştırın.' bunu üç kez tekrar etti. Sonra, 'Öfkelendiğinizde susun.' dedi, bunu iki kez söyledi.\""
+    },
+    {
+      "id": 6,
+      "narrator": "",
+      "text": "Ali'nin İbn el-Kavva'ya şöyle dediği duyuldu: \"İlk söyleneni biliyor musun? 'Sevdiğin kişiyi sevmek kolay bir meseledir. Belki bir gün o, nefret ettiğin kişi olacaktır. Nefret ettiğin kişiyi sevmek de kolay bir meseledir. Belki bir gün o, sevdiğin kişi olacaktır.'\""
+    },
+    {
+      "id": 7,
+      "narrator": "",
+      "text": "Aslam dedi ki: \"Ömer b. Hattab şöyle dedi: 'Sevginiz tam bir tutku olmasın. Öfkeniz yıkım olmasın.' Ben sordum: 'Bu nasıl olur?' O cevap verdi: 'Sevdiğinizde, bir çocuk gibi tutkulu olursunuz. Nefret ettiğinizde, arkadaşınıza yıkım arzu edersiniz.'\""
+    }
+  ]
+}

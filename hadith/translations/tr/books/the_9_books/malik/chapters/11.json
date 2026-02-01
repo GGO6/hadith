@@ -1,0 +1,41 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 5,
+    "arabic": {
+      "title": "موطأ مالك",
+      "author": "الإمام مالك بن أنس"
+    },
+    "english": {
+      "title": "Muwatta Malik",
+      "author": "Imam Malik ibn Anas"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Yazid ibn Ruman'dan, Salih ibn Khawwat'tan, Allah'ın Messenger'ı ile, Allah ona salat ve selam eylesin, Dhat ar-Riqa günü korku namazı kılan birinden şöyle rivayet etti: Bir grup onunla bir saf oluşturdu ve diğer bir grup düşmana karşı bir saf oluşturdu. O, kendisiyle olan grupla bir rekat kıldı, sonra onlar kendi başlarına bitirene kadar ayakta kaldı. Sonra ayrıldılar ve düşmana karşı bir saf oluşturdular, diğer grup geldi ve o, namazının kalan rekatını onlarla kıldı, sonra onlar kendi başlarına bitirene kadar oturdu. Sonra onlarla birlikte selam verdi."
+    },
+    {
+      "id": 2,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Yahya ibn Said'den, al-Qasim ibn Muhammad'dan, Salih ibn Khawwat'tan, Sahl ibn Abi Hathma'nın kendisine aktardığına göre, korku namazının şekli şuydu: İmam, bir grup sahabesiyle birlikte dururken, diğer bir grup düşmana karşı duruyordu. İmam, onlarla birlikte bir rekat kıldı, secde de dahil olmak üzere, sonra ayakta durdu. Onlar kalan rekatı kendi başlarına tamamlayana kadar ayakta kaldı. Sonra selam verdiler, ayrıldılar ve imam ayakta kalırken düşmana karşı bir saf oluşturdular. Daha sonra, namaz kılmamış olan diğerleri öne geçti ve imamın arkasında tekbir getirdiler ve o, onlarla birlikte bir rekat kıldı, secde de dahil olmak üzere. Sonra selam verdi, onlar da ayakta durarak kalan rekatı kendi başlarına kıldılar. Sonra selam verdiler."
+    },
+    {
+      "id": 3,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Nafi'den, Abdullah ibn Umar'ın korku namazı hakkında sorulduğunda şöyle dediğini rivayet etti: \"İmam ve bir grup insan öne geçer ve imam onlarla bir rekat kılar, diğer bir grup ise henüz namaz kılmamış olanlar, onunla düşman arasında yer alır. Onunla olanlar bir rekat kıldıklarında, namaz kılmamış olanların yanına geri çekilirler ve selam vermezler. Sonra namaz kılmamış olanlar öne geçer ve onunla bir rekat kılarlar. Sonra imam ayrılır, çünkü artık iki rekat kılmıştır. Diğer herkes iki gruptan birer rekat kılar, imam ayrıldıktan sonra. Bu şekilde her iki grup da iki rekat kılmış olur. Eğer korku daha fazlaysa, o zaman erkekler ayakta veya binek üzerinde, kıblaya karşı veya başka bir şekilde namaz kılarlar.\""
+    },
+    {
+      "id": 4,
+      "narrator": "",
+      "text": "Malik, Nafi'den şöyle dedi: \"Abdullah ibn Umar'ın bunu Allah'ın Messenger'ından, Allah ona salat ve selam eylesin, başka birinden rivayet ettiğini düşünmüyorum.\""
+    },
+    {
+      "id": 5,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Yahya ibn Said'den, Said ibn al-Musayyab'ın şöyle dediğini rivayet etti: \"Allah'ın Messenger'ı, Allah ona salat ve selam eylesin, Hendek günü öğle ve ikindi namazını güneş battıktan sonra kıldı.\" Malik, \"Salih ibn Khawwat'tan al-Qasim ibn Muhammad'ın hadisi, korku namazı hakkında duyduğum en çok hoşlandığım hadistir.\" dedi."
+    }
+  ]
+}

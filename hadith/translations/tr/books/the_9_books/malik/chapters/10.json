@@ -1,0 +1,86 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 14,
+    "arabic": {
+      "title": "موطأ مالك",
+      "author": "الإمام مالك بن أنس"
+    },
+    "english": {
+      "title": "Muwatta Malik",
+      "author": "Imam Malik ibn Anas"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, onun birden fazla ilim sahibinden duyduğunu aktardı: \"Resulullah döneminden beri, bayram namazı için ezan veya ikamet yoktur.\" Malik, \"Bu konuda aramızda bir ihtilaf yoktur.\" dedi."
+    },
+    {
+      "id": 2,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Nafi'den, Abdullah ibn Umar'ın Fıtır günü namaz yerine gitmeden önce gusül aldığını aktardı."
+    },
+    {
+      "id": 3,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Ibn Shihab'dan, Resulullah'ın, Fıtır ve Adha günlerinde hutbeden önce namaz kıldığını aktardı."
+    },
+    {
+      "id": 4,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abu Bekir ve Ömer'in de böyle yaptığını duyduğunu aktardı."
+    },
+    {
+      "id": 5,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Ibn Shihab'dan, Abu Ubayd, Ibn Azhar'ın kölesi, \"Ömer ibn al-Khattab ile bir bayramda bulundum. Namaz kıldıktan sonra halka bir hutbe verdi ve 'Resulullah, bu iki günde oruç tutmayı yasakladı - Ramazan'dan sonra oruç açtığınız gün ve kurbanınızı yediğiniz gün.' dedi.\" Abu Ubayd devam etti, \"Sonra Osman ibn Affan ile bir bayramda bulundum. Geldi ve namaz kıldı, namazı bitirdikten sonra bir hutbe verdi ve 'Bugün sizin için iki bayram bir araya getirildi. Eğer al-Aliyya (Medine'nin çevresindeki tepeler) halkından biri cuma için beklemek isterse bekleyebilir, eğer geri dönmek isterlerse, onlara izin verdim.' dedi.\" Abu Ubayd devam etti, \"Sonra Ali ibn Abi Talib ile bir bayramda bulundum (Osman'ın gözaltında olduğu zaman). Geldi ve namaz kıldı, namazdan sonra bir hutbe verdi.\""
+    },
+    {
+      "id": 6,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Hisham ibn Urwa'dan, babasının Fıtır günü dışarı çıkmadan önce yemek yediğini aktardı."
+    },
+    {
+      "id": 7,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Ibn Shihab'dan, Said al-Musayyab'ın kendisine, Fıtır günü dışarı çıkmadan önce insanlara yemek yemeleri gerektiğini söylediklerini aktardığını duydu. Malik, Adha için insanların bunu yapması gerektiğini düşünmediğini söyledi."
+    },
+    {
+      "id": 8,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Damra ibn Said al-Mazini'den, Ubaydullah ibn Abdullah ibn Utba ibn Masud'dan, Ömer ibn al-Khattab'ın, Resulullah'ın Adha ve Fıtır namazlarında ne okuduğunu sorduğunu aktardı. O da, \"Kaf (Sura 50) ve İnşiqaq (Sura 84) okurdu.\" dedi."
+    },
+    {
+      "id": 9,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abdullah ibn Umar'ın, Fıtır günü namazdan önce veya sonra namaz kılmadığını aktardı."
+    },
+    {
+      "id": 10,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Said ibn al-Musayyab'ın, sabah namazını kıldıktan sonra, güneş doğmadan önce namaz yerine gittiğini duyduğunu aktardı."
+    },
+    {
+      "id": 11,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abd ar-Rahman ibn al-Qasim'den, babasının namaz yerine gitmeden önce dört rekat namaz kıldığını aktardı."
+    },
+    {
+      "id": 12,
+      "narrator": "",
+      "text": "Yahya, Hisham ibn Urwa'dan, babasının Fıtır günü camide namazdan önce namaz kıldığını aktardı."
+    },
+    {
+      "id": 13,
+      "narrator": "",
+      "text": "Yahya, Malik'in, \"Fıtır ve Adha bayramlarındaki namaz zamanı ile ilgili sünnet - bu konuda aramızda bir ihtilaf yoktur - imam evinden çıkıp namaz yerine ulaştığında namazın farz olduğunu\" söylediğini aktardı. Yahya, Malik'e, imamla birlikte namaz kılan bir adamın hutbeden önce çıkıp çıkamayacağını sorduğunda, \"İmam çıkmadan çıkmamalıdır.\" dediğini aktardı."
+    },
+    {
+      "id": 14,
+      "narrator": "",
+      "text": "Yahya related to me that Malik said, \"The sunna concerning the\ntime of prayer on the ids of Fitr and Adha - and there is no\ndisagreement amongst us about it - is that the imam leaves his house\nand as soon as he has reached the place of prayer the prayer falls\ndue.\"\n\n\nYahya said that Malik was asked whether a man who\nprayed with the imam could leave before the khutba, and he said, \"He\nshould not leave until the imam leaves.\""
+    }
+  ]
+}

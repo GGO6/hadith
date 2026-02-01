@@ -1,0 +1,786 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 154,
+    "arabic": {
+      "title": "صحيح البخاري",
+      "author": "الإمام محمد بن إسماعيل البخاري"
+    },
+    "english": {
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Muhammad ibn Ismail al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Allah, Adem'i 60 arşın boyunda yarattı. Onu yarattığında, ona 'Git o grup meleğe selam ver ve onların cevabını dinle, çünkü bu senin selamın (selamlaşman) ve neslinin selamı olacak.' dedi. Bunun üzerine Adem, meleklere 'Esselamu Aleyküm' dedi. Melekler de 'Esselamu Aleyke ve Rahmetullahi' dediler. Böylece melekler Adem'in selamına 'Ve Rahmetullahi' ifadesini eklediler. Cennete girecek olan her kişi, Adem'e (görünüm ve şekil olarak) benzeyecektir. Adem'in yaratılışından bu yana insanlar boy olarak azalmaktadırlar.\""
+    },
+    {
+      "id": 2,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Cennete girecek ilk grup insanlar, dolunay gibi parlayacaklar ve onları takip edenler, gökyüzündeki en parlak yıldız gibi parlayacaklar. Onlar ne idrar yapacak, ne doğa ihtiyaçlarını giderecek, ne tükürecek, ne de burun akıntısı olacak. Tarakları altından olacak ve terleri misk gibi kokacak. Merhamet ağaçları onların ortasında kullanılacak. Eşleri huriler olacak. Hepsi birbirine benzeyecek ve babaları Adem'e (boy olarak) benzer olacak, altmış arşın boyunda.\""
+    },
+    {
+      "id": 3,
+      "narrator": "Narrated Zainab bint Abi Salama:",
+      "text": "Zeynep bint Ebi Seleme'den rivayet edilmiştir: Ümmü Seleme dedi ki: \"Ümmü Süleym dedi ki, 'Ey Allah'ın Elçisi (ﷺ)! Allah gerçeği söylemekten çekinmez! Bir kadının gece boşalması (hayız) sonrası gusül alması farz mıdır?' O da, 'Evet, eğer suyu (yani boşalmayı) hissederse.' dedi. Ümmü Seleme gülümsedi ve 'Bir kadının boşalması olur mu?' dedi. Allah'ın Elçisi, 'O zaman çocuk neden annesine benziyor?' dedi.\""
+    },
+    {
+      "id": 4,
+      "narrator": "Narrated Anas:",
+      "text": "Enes'ten rivayet edilmiştir: Abdullah bin Selam, Peygamber (ﷺ) Medine'ye geldiğini duyduğunda ona geldi ve şöyle dedi: \"Senden, yalnızca bir peygamberin bilebileceği üç şey soracağım: Saatin ilk alameti nedir? Cennet halkının yiyeceği ilk yemek nedir? Neden bir çocuk babasına benziyor ve neden amcasına benziyor?\" Allah'ın Elçisi (ﷺ) dedi ki: \"Cebrail az önce bana bunların cevaplarını bildirdi.\" Abdullah dedi ki: \"O (yani Cebrail), bütün melekler arasında Yahudilerin düşmanıdır.\" Allah'ın Elçisi (ﷺ) dedi ki: \"Saati ilk alâmeti, doğudan batıya insanları toplayan bir ateş olacaktır; cennet halkının ilk yiyeceği, balık karaciğerinin ekstra lobu olacaktır. Çocuğun ebeveynlerine benzerliği hakkında: Eğer bir adam karısıyla cinsel ilişkiye girer ve önce boşalırsa, çocuk babasına benzer, eğer kadın önce boşalırsa, çocuk ona benzer.\" Bunun üzerine Abdullah bin Selam dedi ki: \"Ben, senin Allah'ın Elçisi olduğuna şehadet ederim.\" Abdullah bin Selam ayrıca dedi ki: \"Ey Allah'ın Elçisi (ﷺ)! Yahudiler yalancıdır, eğer benim İslam'a girdiğimi bilseler, benim hakkımda yalan söylerler.\" Yahudiler, Allah'ın Elçisi (ﷺ) yanına geldiler ve Abdullah içeri girdi. Allah'ın Elçisi, (Yahudilere) \"Sizler arasında Abdullah bin Selam nasıl birisidir?\" diye sordu. Onlar cevap verdiler: \"O, aramızda en bilgili ve en iyi olanıdır, en iyi olanın oğludur.\" Allah'ın Elçisi (ﷺ) dedi ki: \"Eğer o İslam'a girerse, ne yaparsınız?\" Yahudiler, \"Allah onu bundan korusun.\" dediler. Sonra Abdullah bin Selam onların önünde çıkarak, \"Ben şehadet ederim ki, Allah'tan başka ibadet edilecek yoktur ve Muhammed Allah'ın Elçisidir.\" dedi. Bunun üzerine onlar, \"O, aramızda en kötü olanıdır ve en kötü olanın oğludur.\" diyerek onun hakkında kötü konuşmaya devam ettiler."
+    },
+    {
+      "id": 5,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"İsrailoğulları olmasaydı, et bozulmazdı ve Havva olmasaydı, kadınlar asla kocalarını aldatmazdı.\""
+    },
+    {
+      "id": 6,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) dedi ki: \"Kadınlara güzel davranın, çünkü kadın bir kaburga kemiğinden yaratılmıştır ve kaburganın en eğri yeri üst kısmıdır; eğer onu düzeltmeye çalışırsanız kırılır, ama onu olduğu gibi bırakırsanız eğri kalır. Bu yüzden kadınlara güzel davranın.\""
+    },
+    {
+      "id": 7,
+      "narrator": "Narrated `Abdullah:",
+      "text": "Abdullah'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ), doğru ve ilham edilmiş olarak şöyle dedi: \"(Yaratılışınız hakkında) Her biriniz, annesinin karnında ilk kırk gün toplanır, sonra kırk gün bir kan pıhtısı olur, ardından kırk gün bir et parçası olur. Sonra Allah, bir meleği gönderir ve dört şeyi yazar: Amellerini, ölüm zamanını, geçim vasıtalarını ve din açısından sefil mi yoksa mübarek mi olacağını yazar. Sonra ruh, bedenine üflenir. Böylece bir insan, (Cehennem) ateşinin halkına özgü ameller yapabilir, öyle ki aralarında sadece bir arşın mesafe kalır, sonra meleğin yazdığı (şey) geçer ve cennet halkına özgü ameller yapmaya başlar ve cennete girer. Benzer şekilde, bir kişi cennet halkına özgü ameller yapabilir, öyle ki aralarında sadece bir arşın mesafe kalır, sonra meleğin yazdığı (şey) geçer ve cehennem halkına özgü ameller yapmaya başlar ve cehenneme girer.\""
+    },
+    {
+      "id": 8,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir: Peygamber (ﷺ) dedi ki: \"Allah, rahimde bir melek tayin etmiştir ve melek şöyle der: 'Ey Rabbim! Bir damla boşalma (yani meni), Ey Rabbim! Bir pıhtı, Ey Rabbim! Bir et parçası.' Ve sonra, eğer Allah çocuğun yaratılışını tamamlamak isterse, melek şöyle der: 'Ey Rabbim! Bir erkek mi yoksa bir kadın mı? Ey Rabbim! Sefil mi yoksa mübarek mi (dinde)? Geçimi ne olacak? Yaşı ne olacak?' Melek, bütün bunları çocuk annesinin karnındayken yazar.\""
+    },
+    {
+      "id": 9,
+      "narrator": "Narrated Anas:",
+      "text": "Enes'ten rivayet edilmiştir: Peygamber (ﷺ) dedi ki: \"Allah, (Cehennem) ateşinde en az ceza alacak olan kişiye şöyle diyecek: 'Eğer yeryüzündeki her şey senin olsaydı, kendini kurtarmak için (yani bu ateşten kurtulmak için) fidye olarak verir miydin?' O da, 'Evet.' diyecek. Sonra Allah, 'Sen Adem'in belinde iken, senden çok daha az bir şey istemiştim, yani bana ibadet etmeni istemiştim, ama sen başkalarına ibadet etmeye ısrar ettin.' diyecek.\""
+    },
+    {
+      "id": 10,
+      "narrator": "Narrated `Abdullah:",
+      "text": "Abdullah'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) dedi ki: \"Bir kişi haksız yere öldürüldüğünde, bu cinayetin yükünden Adem'in ilk oğluna bir pay vardır; çünkü o, cinayet işleme geleneğinin ilkini başlatmıştır.\""
+    },
+    {
+      "id": 11,
+      "narrator": "Narrated Aishah (ra):",
+      "text": "Aişe (ra) tarafından rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Ruhlar, askere alınmış birlikler gibidir: Benzer niteliklere sahip olanlar birbirine yönelir, ama farklı niteliklere sahip olanlar ayrılır.\""
+    },
+    {
+      "id": 12,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn Ömer'den rivayet edilmiştir: Bir gün Allah'ın Elçisi (ﷺ) insanların arasında durdu, Allah'ı layık olduğu şekilde tesbih etti ve övdü, sonra Dajjal'dan bahsederek şöyle dedi: \"Ben sizi (Dajjal) hakkında uyarıyorum ve hiçbir peygamber yoktur ki, kendi kavmini ondan uyarmamış olsun. Şüphesiz Nuh, kendi kavmini ondan uyarmıştır, ama ben size onun hakkında, benden önce hiçbir peygamberin kavmine söylemediği bir şey söylüyorum. Bilin ki o, tek gözlüdür ve Allah tek gözlü değildir.\""
+    },
+    {
+      "id": 13,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) dedi ki: \"Sizlere Dajjal hakkında, hiçbir peygamberin kavmine anlatmadığı bir hikaye anlatmayacak mıyım? Dajjal tek gözlüdür ve yanında Cehennem ve Cennet'e benzeyen şeyler getirecektir; ve onun Cennet dediği şey aslında Cehennem olacaktır; bu yüzden ben sizi (ondan) uyarıyorum, tıpkı Nuh'un kendi kavmini uyardığı gibi.\""
+    },
+    {
+      "id": 14,
+      "narrator": "Narrated Abu Sa`id:",
+      "text": "Ebu Said'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) dedi ki: \"Nuh ve onun kavmi (Kıyamet Günü) gelecek ve Allah, Nuh'a 'Mesajı ilettin mi?' diye soracak. O da, 'Evet, Ey Rabbim!' diyecek. Sonra Allah, Nuh'un kavmine, 'Nuh, size mesajımı iletti mi?' diye soracak. Onlar da, 'Hayır, bize hiçbir peygamber gelmedi.' diyecekler. Sonra Allah, Nuh'a, 'Senin için kim şahitlik edecek?' diyecek. O da, 'Muhammed ve onun takipçileri (benim için şahitlik edecekler).' diyecek. Böylece ben ve takipçilerim, onun için Allah'ın mesajını ilettiğine şahitlik edeceğiz.\" Yani, Allah'ın şu ifadesinin tefsiri: \"İşte biz sizi, insanlara şahitler olasınız diye, en iyi ve en adil bir ümmet kıldık..\" (2.143)"
+    },
+    {
+      "id": 15,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) bir ziyafet sırasında bizimle birlikteydi ve önüne pişirilmiş (koyun) önkolu konuldu, ve onu severdi. Ondan bir lokma yedi ve şöyle dedi: \"Kıyamet Günü insanların en büyüğü olacağım. Biliyor musunuz, Allah bütün ilk ve son (insanları) nasıl bir düzlemde toplayacak, orada bir gözlemci hepsini görebilecek ve onlar da anons edeni duyabilecekler, ve güneş onlara yaklaşacak. Bazı insanlar şöyle diyecek: 'Görmüyor musunuz, hangi durumda olduğunuzu ve ulaştığınız durumu? Neden Rabbinizle sizin için şefaat edecek birini aramıyorsunuz?' Bazı insanlar da şöyle diyecek: 'Babanız Adem'e başvurun.' Onlar ona gidecek ve 'Ey Adem! Sen tüm insanlığın babasısın, Allah seni kendi elleriyle yarattı, ve meleklerin sana secde etmesini emretti, ve seni Cennet'te yaşattı. Bizim için Rabbinizle şefaat eder misiniz? Görmüyor musunuz, hangi (perişan) durumda olduğumuzu ve ulaştığımız durumu?' Bunun üzerine Adem şöyle cevap verecek: 'Rabbim, daha önce hiç olmadığı kadar öfkeli ve gelecekte de olmayacak; (ayrıca) O, bana (o ağaçtan yemeyi) yasakladı, ama ben O'na isyan ettim, (ben kendim için endişeliyim)! Kendim için! Başka birine gidin; Nuh'a gidin.' Onlar Nuh'a gidecek ve 'Ey Nuh! Sen, yeryüzündeki insanların peygamberlerinin ilki, ve Allah seni şükreden bir kul olarak adlandırdı. Görmüyor musun, hangi (perişan) durumda olduğumuzu ve ulaştığımız durumu? Bizim için Rabbinizle şefaat eder misiniz?' Nuh şöyle cevap verecek: 'Bugün Rabbim, daha önce hiç olmadığı kadar öfkeli ve gelecekte de olmayacak; Kendim için! Kendim için! Peygamber (Muhammed) ile gidin.' İnsanlar bana gelecek ve ben Allah'ın Arşının altına secde edeceğim. Sonra bana şöyle denilecek: 'Ey Muhammed! Başını kaldır; şefaat et, çünkü senin şefaatin kabul edilecektir, ve iste, sana verilecektir.'\""
+    },
+    {
+      "id": 16,
+      "narrator": "Narrated `Abdullah:",
+      "text": "Abdullah'dan rivayet edilmiştir: Allah'ın Messenger'ı (ﷺ) şu Ayeti, alışılmış tonuyla okudu: 'Fahal-Min-Muddalkir.' (54.15)"
+    },
+    {
+      "id": 17,
+      "narrator": "Narrated Anas (ra):",
+      "text": "Anas (ra) rivayet etmiştir: Ebu Zarr (ra) derdi ki, Allah'ın Messenger'ı (ﷺ) şöyle dedi: \"Ben Mekkede iken, evimin çatısı açıldı ve Cebrail indi, göğsümü açtı ve onu Zemzem suyu ile yıkadı. Sonra bir altın tepsi getirdi, dolu bir hikmet ve iman ile, içindekileri göğsüme döktü ve kapattı. Sonra elimi aldı ve benimle birlikte göğe yükseldi. Cebrail en yakın göğe ulaştığında, cennetin kapıcısına 'Aç (kapıyı)' dedi. Kapıcı sordu: 'Kimdir bu?' Cebrail cevap verdi: 'Cebrail.' O da sordu: 'Seninle birlikte kim var?' Cebrail cevapladı: 'Muhammed (ﷺ) benimle birlikte.' O sordu: 'O çağrıldı mı?', Cebrail dedi: 'Evet.' Böylece kapı açıldı ve en yakın göğün üzerine geçtik, orada sağında Aswida (birçok insan) ile oturan bir adam gördük ve solunda da Aswida vardı. Sağ tarafına baktığında güldü, sol tarafına baktığında ağladı. Bana dedi ki: 'Hoş geldin, ey salih Peygamber ve salih oğul.' Ben de dedim ki: 'Bu adam kim, ey Cebrail?' Cebrail cevapladı: 'O Adem'dir, sağında ve solundaki insanlar onun soylarının ruhlarıdır. Sağdakiler cennet halkıdır, soldakiler ise (Cehennem) ateş halkıdır. Bu yüzden sağa baktığında güler, sola baktığında ağlar.' Sonra Cebrail benimle birlikte ikinci göğe yükseldi ve kapıcıya 'Aç (kapıyı)' dedi. Kapıcı ona ilk göğün kapıcısının söylediği gibi aynı şeyi söyledi ve kapıyı açtı.\""
+    },
+    {
+      "id": 18,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "Anas ekledi: Ebu Zarr, Peygamberin (ﷺ) İdris, Musa (Musa), 'Isa (İsa) ve İbrahim (İbrahim) ile göklerde buluştuğunu, ancak onların yerlerini (yani her birinin hangi gökte olduğunu) belirtmediğini, ancak onun (Peygamberin (ﷺ)) en yakın gökte Adem ile buluştuğunu ve altıncı gökte İbrahim ile buluştuğunu belirtti. Anas dedi ki: \"Cebrail ve Peygamber (ﷺ) İdris'in yanından geçerken, o dedi ki: 'Hoş geldin, ey salih Peygamber ve salih kardeş!' Peygamber (ﷺ) sordu: 'O kim?' Cebrail dedi: 'O İdris.' \" Peygamber (ﷺ) ekledi: \"Sonra Musa'nın yanından geçtim, o dedi ki: 'Hoş geldin, ey salih Peygamber ve salih kardeş!' Ben de dedim ki: 'O kim?' Cebrail dedi: 'O Musa.' Sonra 'Isa'nın yanından geçtim, o dedi ki: 'Hoş geldin, ey salih Peygamber ve salih kardeş!' Ben de dedim ki: 'O kim?' O cevapladı: 'O 'Isa.' Sonra Peygamber (ﷺ) İbrahim'in yanından geçtim, o dedi ki: 'Hoş geldin, ey salih Peygamber ve salih oğul!' Ben de dedim ki: 'O kim?' Cebrail cevapladı: 'O İbrahim'dir.'\""
+    },
+    {
+      "id": 19,
+      "narrator": "Narrated Abu Sa`id:",
+      "text": "İbn Abbas ve Ebu Hayya El-Ensari'den rivayet edilmiştir: Peygamber (ﷺ) dedi ki: \"Sonra Cebrail benimle birlikte, kalemlerin gıcırdadığını duyduğum bir yere yükseldi.\" İbn Hazm ve Anas bin Malik, Peygamber (ﷺ) şöyle dedi: \"Allah bana elli Salat (namaz) farz kıldı. Bu emirle döndüğümde, Musa'nın yanından geçtim, o bana sordu: 'Allah senin takipçilerine ne farz kıldı?' Ben de cevap verdim: 'Onlara elli Salat (namaz) farz kıldı.' Musa bana dedi: 'Rabbine geri dön (ve azaltma talep et), çünkü senin takipçilerin bunu kaldıramayacaklar.' Böylece Rabbinin yanına döndüm ve biraz azaltma istedim, O da yarıya indirdi. Tekrar Musa'nın yanından geçtim ve ona bunu bildirdim, o bir kez daha bana dedi: 'Rabbine geri dön, çünkü senin takipçilerin bunu kaldıramayacaklar.' Böylece daha önceki gibi Rabbinin yanına döndüm ve yarısı daha azaltıldı. Yine Musa'nın yanından geçtim ve o bana dedi: 'Rabbine geri dön, çünkü senin takipçilerin bunu kaldıramayacaklar.' Ben tekrar Rabbinin yanına döndüm ve O dedi: 'Bunlar beş (Salat-namaz) ve hepsi (ödül olarak) elliye eşittir, çünkü Benim sözüm değişmez.' Musa'ya döndüm, o yine Rabbinin yanına dönmemi söyledi ama ben ona 'Artık Rabbinizden istemekten utanıyorum.' dedim. Sonra Cebrail beni Sidrat-ul-Muntaha'ya (yani en yüksek sınırdaki sidr ağacı) götürdü, orası tarif edilemez renklerle örtülüydü. Sonra cennete kabul edildim, orada inci gibi küçük çadırlar buldum ve toprağı misk (bir tür parfüm) idi.\""
+    },
+    {
+      "id": 20,
+      "narrator": "Narrated `Abdullah:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) dedi ki: \"Ben As-Saba (yani doğu rüzgarı) ile zafer kazandım ve 'Ad halkı Ad-Dabur (yani batı rüzgarı) ile helak oldu.\""
+    },
+    {
+      "id": 21,
+      "narrator": "Narrated Zainab bint Jahsh:",
+      "text": "Ebu Said'den rivayet edilmiştir: Ali, Peygamber (ﷺ) için bir parça altın gönderdi, o da bunu dört kişiye dağıttı: Al-Aqra' bin H`Abis Al-Hanzali, Mücaşili kabilesinden, 'Uyaina bin Badr Al-Fazari, Zaid at-Ta'i, Bani Nahban kabilesindendi ve 'Alqama bin Ulatha Al-`Amir, Bani Kilab kabilesindendi. Bunun üzerine Kureyş ve Ensar öfkelendi ve 'O (yani Peygamber) Najd'in liderine veriyor, bize vermiyor.' dediler. Peygamber (ﷺ) dedi ki: 'Onlara veriyorum ki kalplerini (İslam'a) çekeyim.' Sonra çökük gözleri, belirgin yanakları, yüksek bir alnı, kalın bir sakalı ve traşlı bir kafası olan bir adam (Peygamber (ﷺ) 'in önüne geldi) ve dedi ki: 'Allah'tan kork, ey Muhammed!' Peygamber (ﷺ) dedi ki: 'Eğer ben O'na isyan edersem, Allah'a kim itaat eder? (Bu adil mi?) Allah, yeryüzündeki tüm insanları bana emanet etti, ama sen bana güvenmiyorsun?' Birisi, sanırım Halid bin Velid, Peygamber (ﷺ) 'den o adamın başını kesmesini istedi, ama o engelledi. Adam ayrıldığında, Peygamber (ﷺ) dedi ki: 'Bu adamın soyundan bazıları Kur'an okuyacak, ama Kur'an boğazlarından öteye geçmeyecek (yani papağan gibi okuyacaklar, ama anlamayacaklar ve ona göre hareket etmeyecekler) ve dinlerinden dönecekler, bir ok av hayvanının bedeninden geçerken geçtiği gibi. Müslümanları öldürecekler ama putperestlere dokunmayacaklar. Eğer onların zamanına kadar yaşarsam, onları 'Ad halkı gibi öldüreceğim (yani hepsini öldüreceğim).\""
+    },
+    {
+      "id": 22,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Abdullah'dan rivayet edilmiştir: Peygamber (ﷺ) 'in okuduğunu duydum: \"Fahal Min Muddakir.\" (Bkz. Hadis No. 557)"
+    },
+    {
+      "id": 23,
+      "narrator": "Narrated Abu Sa`id Al-Khudri:",
+      "text": "Zeynep bint Cahş'tan rivayet edilmiştir: Peygamber (ﷺ) bir gün korku içinde yanına geldi ve dedi ki: \"Allah'tan başka ibadet edilecek yoktur. Araplara, yaklaşan bir tehlikeden vay haline. Gog ve Magog'un duvarında böyle bir açılma oldu,\" baş parmağı ve işaret parmağı ile bir daire yaparak. Zeynep bint Cahş dedi ki: \"Ey Allah'ın Messenger'ı (ﷺ)! İçimizde salih kişiler varken biz helak mı olacağız?\" O dedi ki: \"Evet, kötü kişi arttığında.\""
+    },
+    {
+      "id": 24,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) dedi ki: \"Allah, Gog ve Magog (halkının) duvarında böyle bir açılma yaptı ve elini (parmaklarıyla) yaptı.\""
+    },
+    {
+      "id": 25,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Said El-Hudri'den rivayet edilmiştir: Peygamber (ﷺ) dedi ki: \"Allah, Kıyamet Günü'nde şöyle diyecek: 'Ey Adem.' Adem cevap verecek: 'Labbaik wa Sa'daik, ve tüm hayır Senin elindedir.' Allah diyecek: 'Ateş halkını çıkar.' Adem diyecek: 'Ey Allah! Ateş halkı ne kadar?' Allah cevap verecek: 'Her bin kişiden dokuz yüz doksan dokuzunu çıkar.' O zaman çocuklar saçları beyazlayacak, her hamile kadın düşük yapacak ve insanlar sarhoş gibi görünecek, ama sarhoş olmayacaklar, fakat Allah'ın gazabı korkunç olacak.\" Peygamber (ﷺ) 'in arkadaşları sordu: \"Ey Allah'ın Elçisi! O (hariç) olan kim?\" O dedi: \"Müjdeler olsun; bir kişi sizden ve bin kişi Gog ve Magog'dan olacak.\" Peygamber (ﷺ) ayrıca dedi: \"Canım elinde olan Allah'a yemin ederim, umarım ki siz cennetin dörtte biri olursunuz.\" Biz bağırdık: \"Allahu Ekber!\" O ekledi: \"Umarım ki siz cennetin üçte biri olursunuz.\" Biz bağırdık: \"Allahu Ekber!\" O dedi: \"Umarım ki siz cennetin yarısı olursunuz.\" Biz bağırdık: \"Allahu Ekber!\" O ayrıca dedi: \"Siz (Müslümanlar) (kafirlerle) beyaz bir öküzün derisindeki siyah bir kıl gibi veya siyah bir öküzün derisindeki beyaz bir kıl gibi (yani sayınız onlarınkine kıyasla çok az).\""
+    },
+    {
+      "id": 26,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) dedi ki: \"Kıyamet Günü'nde, çıplak, sahipsiz ve sünnetsiz toplanacaksınız.\" Sonra şöyle okudu: \"İlk yaratılışı başlattığımız gibi, onu tekrar yapacağız: Üstlendiğimiz bir vaad: Gerçekten bunu yapacağız.\" (21.104) Ekledi: \"Kıyamet Günü'nde giydirilecek ilk kişi İbrahim olacak ve bazı arkadaşlarım sol tarafa (yani Cehennem'e) götürülecek ve ben diyeceğim: 'Arkadaşlarım! Arkadaşlarım!' Denilecek ki: 'Onlar, senin arandığın zaman İslam'dan döndüler.' Sonra ben, Allah'ın salih kulu (yani İsa) gibi diyeceğim: 'Ben onların arasında bulunduğum sürece onlara şahit oldum. Sen beni aldığında, sen onların üzerinde gözetleyici idin ve sen her şeye şahit olansın. Eğer onları azap edersen, onlar senin kullarındır ve eğer onları affedersen, gerçekten sen, yalnızca sen, Mutlak Güçlü, Hikmet Sahibi'sin.\" (5.120-121)"
+    },
+    {
+      "id": 27,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) dedi ki: \"Kıyamet Günü'nde İbrahim, babası Azar ile karşılaşacak, onun yüzü kararmış ve toprakla kaplanmış olacak. (Peygamber (ﷺ) İbrahim ona diyecek): 'Sana itaat etmemeni söylemedim mi?' Babası cevap verecek: 'Bugün sana itaat etmeyeceğim.' İbrahim diyecek: 'Ey Rabbim! Beni Kıyamet Günü'nde rezil etmeyeceğine söz verdin; ve benim için babama lanet etmekten daha aşağılayıcı ne olabilir?' Sonra Allah ona diyecek: 'Ben cenneti inkârcılara haram kıldım.' Sonra ona hitap edilecek: 'Ey İbrahim! Bak! Ayaklarının altındaki nedir?' O bakacak ve orada bir Dhabh (bir hayvan) görecek, kanlı, bacaklarından tutulmuş ve (Cehennem) ateşine atılmış.\""
+    },
+    {
+      "id": 28,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) Kabe'ye girdi ve içinde İbrahim ve Meryem'in resimlerini buldu. Bunun üzerine şöyle dedi: \"Onların (yani Kureyş'in) durumu nedir? Onlar, meleklerin içinde resim olan bir eve girmediğini zaten duydular; ama bu İbrahim'in resmi. Ve neden o, okla fal bakıyormuş gibi tasvir ediliyor?\""
+    },
+    {
+      "id": 29,
+      "narrator": "Narrated Samura:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) Kabe'de resimleri görünce, onları silinmesini emretmeden içeri girmedi. İbrahim ve İsmail'in fal oklarını taşıdığı resimleri görünce, \"Allah onları lanetlesin (yani Kureyş)! Allah'a yemin ederim ki, ne İbrahim ne de İsmail fal oklarıyla fal bakmadı.\""
+    },
+    {
+      "id": 30,
+      "narrator": "Narrated Mujahid:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: İnsanlar dediler ki: \"Ey Allah'ın Messenger'ı (ﷺ)! İnsanlar arasında en onurlu olan kimdir?\" O dedi ki: \"Onların en takvalısı.\" Onlar dediler ki: \"Bunun hakkında sormuyoruz.\" O dedi ki: \"O zaman Yusuf, Allah'ın Peygamberi, Allah'ın Peygamberinin oğlu, Allah'ın Peygamberinin oğlu, Allah'ın Halilinin (yani İbrahim) oğlu.\" Onlar dediler ki: \"Bunun hakkında sormak istemiyoruz,\" O dedi: \"O zaman Arapların soyu hakkında sormak istiyorsunuz. Cahiliye döneminde en iyi olanlar, İslam'da da en iyi olacaklar, yeter ki dini bilgiyi kavrasınlar.\""
+    },
+    {
+      "id": 31,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Abu Huraira'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"İbrahim, seksen yaşında bir balta ile sünnet oldu.\""
+    },
+    {
+      "id": 32,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Abu Az-Zinad'dan rivayet edilmiştir: (yukarıda) Bir balta ile."
+    },
+    {
+      "id": 33,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "---"
+    },
+    {
+      "id": 34,
+      "narrator": "Narrated Um Sharik:",
+      "text": "Abu Huraira'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"İbrahim, yalnızca üç kez yalan söyledi.\""
+    },
+    {
+      "id": 35,
+      "narrator": "Narrated `Abdullah:",
+      "text": "---"
+    },
+    {
+      "id": 36,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Abu Huraira'dan rivayet edilmiştir: İbrahim, yalnızca üç kez yalan söyledi. İki kez Allah rızası için, \"Ben hastayım,\" dediğinde ve \"Bunu yapmadım, büyük put yaptı,\" dediğinde. (Üçüncüsü ise) İbrahim ve eşi Sara (yolculuğa çıkarken) bir zalimin (topraklarından) geçtiklerinde, birisi zalime, \"Bu adam (yani İbrahim) çok güzel bir hanımla birlikte,\" dedi. Bunun üzerine zalim İbrahim'i çağırdı ve Sara hakkında, \"Bu kadın kimdir?\" diye sordu. İbrahim, \"O benim kız kardeşim,\" dedi. İbrahim, Sara'ya gitti ve \"Ey Sara! Yeryüzünde sen ve ben dışında hiçbir mümin yok. Bu adam bana seni sordu ve ben ona senin kız kardeşim olduğunu söyledim, bu yüzden benim söylediklerime karşı çıkma,\" dedi. Zalim daha sonra Sara'yı çağırdı ve o yanına gittiğinde, onu elinden tutmaya çalıştı, ama (eli sertleşti ve) şaşırdı. Sara'ya, \"Allah'a dua et, sana zarar vermeyeceğim,\" dedi. Bunun üzerine Sara, Allah'tan onu iyileştirmesini istedi ve iyileşti. İkinci kez onu tutmaya çalıştı, ama (eli daha önceki kadar sertleşti veya daha sertleşti ve) daha da şaşırdı. Yine Sara'dan, \"Allah'a dua et, sana zarar vermeyeceğim,\" dedi. Sara tekrar Allah'a dua etti ve o iyi oldu. Sonra, onu getiren bekçilerden birini çağırdı ve \"Bana bir insan değil, bir şeytan getirdin,\" dedi. Zalim daha sonra Hacer'i Sara'ya bir hizmetçi olarak verdi. Sara, İbrahim'in dua ettiği sırada geri döndü. İbrahim, elini işaret ederek, \"Ne oldu?\" diye sordu. O, \"Allah, kafirin (veya ahlaksız kişinin) kötü planını bozdu ve bana Hacer'i hizmetçi olarak verdi,\" diye yanıtladı. (Abu Huraira daha sonra dinleyicilerine hitaben, \"O (Hacer) sizin annenizdi, Ey Beni Ma-is-Sama (yani Araplar, İsmail'in oğlu Hacer'in soyları).\")"
+    },
+    {
+      "id": 37,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "---"
+    },
+    {
+      "id": 38,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "Um Sharik'ten rivayet edilmiştir: Allah'ın Elçisi (ﷺ) kelerlerin öldürülmesini emretti ve \"O (yani keler) İbrahim'e ateşi üfledi,\" dedi."
+    },
+    {
+      "id": 39,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "---"
+    },
+    {
+      "id": 40,
+      "narrator": "Narrated Abu Dhar:",
+      "text": "Abdullah'dan rivayet edilmiştir: \"O inananlardır ki, inançlarını yanlışla (yani Allah'a ibadet ederken başkalarını katmakla) karıştırmazlar\" (6.83) ayeti indirildiğinde, biz dedik ki, \"Ey Allah'ın Elçisi (ﷺ)! İçimizde kendine zulmetmeyen kim var?\" O, \"Söylediğiniz gibi değil, çünkü ayetteki 'zulüm' ve 'inançlarını yanlışla karıştırmamak' 'ŞİRK' (yani Allah'a ibadet ederken başkalarını katmak) anlamına gelir. Luqman'ın oğluna söylediğini duymadınız mı, 'Ey oğul! Allah'a ibadet ederken başkalarını katma, çünkü Allah'a ibadet ederken başkalarını katmak gerçekten büyük bir zulümdür.\" (31.13)"
+    },
+    {
+      "id": 41,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "---"
+    },
+    {
+      "id": 42,
+      "narrator": "Narrated `Aisha:",
+      "text": "Abu Huraira'dan rivayet edilmiştir: Bir gün Peygamber'e (ﷺ) biraz et verildi ve o, \"Kıyamet Günü Allah, ilk ve son (insanları) bir düzlemde toplayacak ve anons edenin sesi onlara ulaşacak ve herkes onları görebilecek ve güneş onlara yaklaşacak,\" dedi. (Rivayetçi daha sonra şefaat konusunu anlattı): \"İnsanlar İbrahim'e gidecek ve 'Sen Allah'ın Peygamberi ve yeryüzündeki Halilisin. Rabbine bizim için şefaat eder misin?' diyecekler. İbrahim, yalanlarını hatırlayacak ve 'Kendim! Kendim! Musa'ya gidin,' diyecek.\""
+    },
+    {
+      "id": 43,
+      "narrator": "Narrated Abu Humaid As-Sa`idi:",
+      "text": "---"
+    },
+    {
+      "id": 44,
+      "narrator": "Narrated `Abdur-Rahman bin Abi Laila:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Allah, İsmail'in annesine merhamet etsin! Eğer o (Zamzam kuyusundan su doldurmak için) acele etmemiş olsaydı, Zamzam yeryüzünde akan bir dere olurdu.\" İbn Abbas ayrıca şunu ekledi: \"(Peygamber) İbrahim, İsmail ve annesini (Mekke'ye) getirdi ve o İsmail'i emziriyordu ve yanında bir su tulumu vardı.\""
+    },
+    {
+      "id": 45,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "---"
+    },
+    {
+      "id": 46,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Abu Huraira'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"İbrahim'in 'Rabbim! Ölüleri nasıl dirilttiğini bana göster' dediği zamanki kadar şüphe içinde olmaya daha yatkınız.\" O (yani Allah) şöyle dedi: \"O zaman inanmaz mısın?\" O (yani İbrahim) dedi: \"Evet, ama (soruyorum) imanımı güçlendirmek için.\" (2.260) Ve Allah, Lut'a merhamet etsin! Güçlü bir destek istemişti. Eğer Yusuf'un yaptığı gibi uzun bir süre hapiste kalsaydım, suçsuz olduğumun ilan edilmesini talep etmeden özgürlük teklifini kabul ederdim."
+    },
+    {
+      "id": 47,
+      "narrator": "Narrated Salama bin Al-Akwa`:",
+      "text": "Salama bin Al-Akwa`dan rivayet edilmiştir: Peygamber (ﷺ), okçuluk yapan Aslam kabilesinden bazı kişilerin yanından geçti. Allah'ın Elçisi (ﷺ) şöyle dedi: \"Ey İsmail'in soyundan gelenler! Okçuluk yapın (yani ok atın), çünkü babanız büyük bir okçuydu (yani ok atan). Ben filan kişinin oğluyum.\" Bunu duyan iki takımdan biri ok atmaktan vazgeçti. Allah'ın Elçisi (ﷺ) onlara sordu: \"Neden atmıyorsunuz?\" Onlar cevap verdiler: \"Ey Allah'ın Elçisi (ﷺ)! Siz karşı takımda olduğunuzda nasıl atabiliriz?\" O dedi: \"Atın, çünkü ben hepinizle birlikteyim.\""
+    },
+    {
+      "id": 48,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Abu Huraira'dan rivayet edilmiştir: Bazı insanlar Peygamber'e sordular: \"İnsanlar arasında en onurlu kimdir?\" O cevap verdi: \"Onların en onurlusu, en çok Allah'tan korkanıdır.\" Onlar dediler: \"Ey Allah'ın Peygamberi! Bunun hakkında sormuyoruz.\" O dedi: \"O zaman en onurlu kişi Yusuf'tur, Allah'ın Peygamberi, Allah'ın Peygamberinin oğlu, Allah'ın Peygamberinin oğlu, Allah'ın Halilinin oğlu.\" Onlar dediler: \"Bunun hakkında sormuyoruz.\" O dedi: \"O zaman Arapların soyunu mu sormak istiyorsunuz?\" Onlar dediler: \"Evet.\" O dedi: \"Cahiliye döneminde en iyi olanlar, İslam'da da en iyidir, eğer (dinî bilgiyi) anlarlarsa.\""
+    },
+    {
+      "id": 49,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Abu Huraira'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Allah, Lut'u affetsin: Güçlü bir destek istemişti.\""
+    },
+    {
+      "id": 50,
+      "narrator": "Narrated `Abdullah:",
+      "text": "Abdullah'dan rivayet edilmiştir: Peygamber (ﷺ) şunu okudu: -- 'Hal-min-Muddakir' (54.15) (Hatırlayacak olan var mı) (ve kötülükten kaçınacak)."
+    },
+    {
+      "id": 51,
+      "narrator": "Narrated `Abdullah bin Zam`a:",
+      "text": "Abdullah bin Zam`a'dan rivayet edilmiştir: Peygamber (ﷺ) Salih'in dişi devesinin bacaklarını kesen kişi hakkında şöyle dedi: \"Bu işi yapmak için atanan adam, kendi toplumunda onurlu ve güçlü biriydi, tıpkı Abu Zam`a gibi.\""
+    },
+    {
+      "id": 52,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn `Umar'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) Tabuk gazvesi sırasında Al-Hicr'a indiğinde, arkadaşlarına oranın kuyusundan su içmemelerini veya su biriktirmemelerini emretti. Onlar dediler: \"Biz zaten onun suyu ile hamuru yoğurduk ve çantalarımızı onun suyu ile doldurduk.\" Bunun üzerine Peygamber (ﷺ) onlara hamuru atmalarını ve suyu dökmelerini emretti."
+    },
+    {
+      "id": 53,
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "Abdullah bin `Umar'dan rivayet edilmiştir: İnsanlar, Allah'ın Elçisi (ﷺ) ile birlikte Al-Hicr denilen Thamud topraklarına geldiler ve oranın kuyusundan içmek ve hamur yoğurmak için su aldılar. (Allah'ın Elçisi (ﷺ) bunu duyduğunda) onlara, aldıkları suyu dökmelerini ve develere hamur vermelerini emretti ve onlara, Salih'in dişi devesinin içtiği kuyudan su almalarını emretti."
+    },
+    {
+      "id": 54,
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "Abdullah bin `Umar'dan rivayet edilmiştir: Peygamber (ﷺ) Al-Hicr'den geçerken şöyle dedi: \"Kendilerine zulmedenlerin evlerine girmeyin, ancak ağlayarak girin; yoksa onlara verilen aynı azabı çekersiniz.\" Sonrasında, deve semerindeyken yüzünü örtüyle kapadı."
+    },
+    {
+      "id": 55,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn `Umar'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Kendilerine zulmedenlerin harabe olmuş yerlerine girmeyin, ancak ağlayarak girin; yoksa onlara verilen aynı azabı çekersiniz.\""
+    },
+    {
+      "id": 56,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn `Umar'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Onurlu olan, onurlunun oğludur, onurlunun oğlu, yani Yusuf, Yakup'un oğlu, İshak'ın oğlu, İbrahim'in oğlu.\""
+    },
+    {
+      "id": 57,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Abu Huraira'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) soruldu: \"İnsanlar arasında en onurlu kimdir?\" O cevap verdi: \"En çok Allah'tan korkan.\" İnsanlar dediler: \"Bunun hakkında sormak istemiyoruz.\" O dedi: \"En onurlu kişi Yusuf'tur, Allah'ın Peygamberi, Allah'ın Peygamberinin oğlu, Allah'ın Peygamberinin oğlu, Allah'ın Halilinin oğlu.\" İnsanlar dediler: \"Bunun hakkında sormak istemiyoruz.\" O dedi: \"O zaman Arapların kökenleri hakkında mı sormak istiyorsunuz? İnsanlar çeşitli kökenlere sahiptir. Cahiliye döneminde en iyi olanlar, İslam'da da en iyidir, eğer (dinî bilgiyi) anlarlarsa.\""
+    },
+    {
+      "id": 58,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Peygamber (ﷺ) ona şöyle dedi: \"Abu Bekir'i insanlara namaz kıldırması için emret.\" O cevap verdi: \"Abu Bekir yumuşak kalpli bir insandır ve senin yerinde durduğunda ağlayacak (bu yüzden namazı kılamayacak).\" Peygamber (ﷺ) aynı emri tekrar etti ve o yine aynı cevabı verdi. Rivayet eden Şuba, Peygamber (ﷺ)'in üçüncü veya dördüncü kez şöyle dediğini söyledi: \"Sen, Yusuf'un kadın arkadaşları gibisin. Abu Bekir'i namaz kıldırması için emret.\""
+    },
+    {
+      "id": 59,
+      "narrator": "Narrated Abu Musa:",
+      "text": "Abu Musa'dan rivayet edilmiştir: Peygamber (ﷺ) hastalandığında, \"Abu Bekir'i insanlara namaz kıldırması için emret.\" dedi. Aişe şöyle dedi: \"Abu Bekir yumuşak kalpli bir insandır.\" Peygamber (ﷺ) aynı emri tekrar verdi ve o yine aynı cevabı verdi. O tekrar şöyle dedi: \"Abu Bekir'i (namaz kıldırması için) emret! Sen, Yusuf'un kadın arkadaşları gibisin.\" Sonuç olarak, Abu Bekir, Peygamber'in hayatında insanlara namaz kıldırdı."
+    },
+    {
+      "id": 60,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Abu Huraira'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Ey Allah! `Aiyyash bin Abi Rabi`a'yı (kafirlerin zulmünden) kurtar. Ey Allah! Salama bin Hişam'ı kurtar. Ey Allah! Mudar kabilesine azap gönder. Ey Allah! Onlara, Yusuf'un hayatında olduğu gibi yıllarca (kuraklık) yaşat.\""
+    },
+    {
+      "id": 61,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Allah, Lut'a merhamet etsin. O, güçlü bir destek istemişti. Eğer ben Yusuf'un (hapisteki) kalma süresi kadar hapiste kalsaydım ve sonra özgürlük teklifi gelseydi, onu kabul ederdim.\" (Bkz. Hadis No. 591)"
+    },
+    {
+      "id": 62,
+      "narrator": "Narrated Masruq:",
+      "text": "Masruq'tan rivayet edilmiştir: Aişe'nin annesi Ümmü Rüman'a Aişe'ye yöneltilen iftira hakkında sordum. O şöyle dedi: \"Aişe ile otururken, bize bir Ensar kadını geldi ve 'Allah, falan kişiyi lanetlesin' dedi. Ben de ona, 'Neden böyle söylüyorsun?' diye sordum. O, 'Çünkü o, (iftira) hikayesini yaydı' dedi. Aişe, 'Hangi hikaye?' dedi. Kadın ona hikayeyi anlattı. Aişe sordu: 'Abu Bekir ve Allah'ın Elçisi (ﷺ) bunun hakkında bir şey duydular mı?' Kadın, 'Evet' dedi. Aişe bu sözü duyunca bayıldı ve kendine geldiğinde ateşler içinde titremeye başladı. Peygamber (ﷺ) geldi ve 'Onun durumu nedir?' diye sordu. Ben de, 'Bir hikaye yüzünden ateşi var' dedim. Aişe ayağa kalktı ve 'Vallahi! Eğer yemin etsem, bana inanmazsınız; ve eğer bir mazeret öne sürsem, beni affetmezsiniz. Benim örneğim ve sizin örneğiniz, Yakup ve oğulları örneği gibidir. İddia ettiğiniz şeyin aksine, yardım istenilecek tek merci Allah'tır.' (12.18) Peygamber (ﷺ) gitti ve sonra Allah, bu konuyla ilgili ayetleri indirdi; bunun üzerine Aişe, 'Şükürler olsun yalnızca Allah'a, başkasına değil' dedi.\""
+    },
+    {
+      "id": 63,
+      "narrator": "Narrated `Urwa:",
+      "text": "Urve'den rivayet edilmiştir: Aişe'ye (ﷺ) şu ayetin anlamını sordum: -- \"(Müfettişler umudu kestikleri zaman) 'Apostoller, (kavmlerinin) kendilerine yalan söylediklerini düşündüler...' (12.110) Aişe cevap verdi: \"Gerçekten, onların kavimleri onlara inanmadı.\" Ben de dedim ki: \"Vallahi! Onlar kesin olarak kavimlerinin kendilerini yalancı saydıklarını biliyorlardı ve bu bir şüphe meselesi değildi.\" Aişe dedi ki: \"Ey Urve! Şüphesiz, bu konuda kesin bir bilgiye sahiptiler.\" Ben de: \"Ayeti, apostollerin Allah'ın kendilerine yardım etmeyeceğini düşündükleri anlamında okuyabilir miyiz?\" dedim. Aişe: \"Allah korusun! (İmkansız) Apostoller, Rablerine böyle bir şeyden şüphe etmediler. Ancak bu ayet, Rablerine iman eden ve apostollerine inanan apostollerin takipçileri ile ilgilidir ve onların denemeleri uzun sürdü ve Allah'ın yardımı, apostoller, kavimlerinden inkar edenlerin dönüşümünden umudu kestikleri ve takipçilerinin inançlarının sarsıldığını düşündükleri zamana kadar gecikti; o zaman Allah'ın yardımı onlara geldi.\""
+    },
+    {
+      "id": 64,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn Ömer'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Şerefli, şerefli olanın oğlu, şerefli olanın oğlu, (Yusuf'tur) Yakup'un oğlu, İshak'ın oğlu, İbrahim'in oğlu.\""
+    },
+    {
+      "id": 65,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Eyüp, çıplakken banyo yaparken, üzerine bir altın çekirge sürüsü düştü ve onları elbisesine toplamaya başladı. Rabbi ona seslendi: 'Ey Eyüp! Gördüğün şeye ihtiyaç duymayacak kadar zengin etmedim mi?' O da, 'Evet, ey Rabbim! Ama senin nimetinden vazgeçemem.'\""
+    },
+    {
+      "id": 66,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Peygamber (ﷺ), kalbi hızlı atarak Hatice'ye döndü. O, onu Hristiyan olan ve İncil'i Arapça okuyan Vahra bin Nüfeyl'e götürdü. Vahra (Peygamber'e) sordu: \"Ne gördün?\" O da ona söyledi. Vahra, \"Bu, Allah'ın Musa Peygamber'e gönderdiği aynı melektir. Eğer sen ilahi mesajı alana kadar yaşarsam, seni güçlü bir şekilde destekleyeceğim.\" dedi."
+    },
+    {
+      "id": 67,
+      "narrator": "Narrated Malik bin Sasaa:",
+      "text": "Malik bin Sa'sa'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ), arkadaşlarına gece göğe yükselişini anlattı. Beşinci semaya ulaştığında Harun ile karşılaştı. (Cebrail Peygamber'e) \"Bu Harun'dur\" dedi. Peygamber (ﷺ) \"Cebrail selam verdi, ben de selam verdim, o da 'Hoş geldin, ey Salih Kardeş ve Salih Peygamber' diyerek selamı aldı.\" dedi."
+    },
+    {
+      "id": 68,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Göğe yükseliş gecemde, ince yapılı, sönük saçlı bir adam olan Musa'yı gördüm; Şanu'a kabilesinin bir adamına benziyordu; ve banyo çıkmış gibi kırmızı yüzlü olan bir adam olan İsa'yı gördüm. Ve ben, İbrahim Peygamber'e, onun soyundan herhangi birine benzemekten daha çok benziyordum. Sonra bana birer kadeh verildi, birinde süt, diğerinde şarap vardı. Cebrail, 'Hangisini istersen iç' dedi. Ben sütü aldım ve içtim. Cebrail, 'Doğal olanı kabul ettin, (Gerçek Din yani İslam) ve eğer şarabı içseydin, takipçilerin sapıtacaktı.'\""
+    },
+    {
+      "id": 69,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Yunus (i.e. Yunus) bin Matta'dan daha iyi olduğumu söylememelidir.\" O, babası Matta'yı anarak. Peygamber (ﷺ) yükseliş gecesini anarak şöyle dedi: \"Musa, kahverengi, uzun bir adamdı, sanki Şanu'a kabilesinden. İsa ise, orta boylu, kıvırcık saçlı bir adamdı.\" Ayrıca, Cehennem ateşinin kapıcısı olan Malik ve Deccal'den de bahsetti."
+    },
+    {
+      "id": 70,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) Medine'ye geldiğinde, 'Aşura' (yani Muharrem ayının 10. günü) günü oruç tuttuklarını gördü. Onlar şöyle diyordu: \"Bu, Allah'ın Musa'yı kurtardığı ve Firavun'un halkını boğduğu büyük bir gündür. Musa, Allah'a şükür olarak bu günde oruç tutmuştur.\" Peygamber (ﷺ) dedi ki: \"Ben, onlardan Musa'ya daha yakınım.\" Böylece o gün oruç tuttu ve Müslümanlara da oruç tutmalarını emretti."
+    },
+    {
+      "id": 71,
+      "narrator": "Narrated Abu Sa`id:",
+      "text": "Ebu Said'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Kıyamet Günü insanlar bayılacak ve ben ilk uyanan olacağım, ve bakacağım! Orada Musa'yı Allah'ın Arşının sütunlarından birini tutarken göreceğim. Onun benden önce mi bilinçlendiğini yoksa Tur (dağında) aldığı baygınlıktan dolayı mı muaf tutulduğunu merak edeceğim.\""
+    },
+    {
+      "id": 72,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Eğer Beni İsrail olmasaydı, et bozulmazdı; ve eğer Havva olmasaydı, hiçbir kadın kocasına ihanet etmezdi.\""
+    },
+    {
+      "id": 73,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Musa'nın arkadaşının kim olduğu konusunda Al-Hur bin Kays Al-Fazari ile ihtilaf etti. İbn Abbas, onun Al-Khadir olduğunu söyledi. Bu sırada Ubai bin Ka'b yanlarından geçti ve İbn Abbas ona seslendi: \"Arkadaşım ve ben, Musa'nın, görüşmek için yolunu sorduğu arkadaşının kim olduğu konusunda ihtilaf ettik. Allah'ın Elçisi (ﷺ) onun hakkında bir şey söylediğini duydun mu?\" O da, \"Evet, Allah'ın Elçisi'nin şöyle dediğini duydum: 'Musa, bazı İsrailoğulları ile otururken, bir adam geldi ve ona, 'Senden daha bilgili birini tanıyor musun?' diye sordu. Musa, 'Hayır' dedi. Bunun üzerine Allah, Musa'ya ilahi vahiy gönderdi: 'Evet, bizim kulumuz Khadir, senden daha bilgili.' Musa, ona nasıl ulaşacağını sordu. Bunun üzerine balık, onun için bir işaret olarak hazırlandı ve balığın kaybolduğu yerde onu bulması gerektiği söylendi. Musa, denizde balığın işaretini aramaya başladı. Musa'nın hizmetkârı ona, 'Biliyor musun, biz o kayaya oturduğumuzda, balığı unuttum ve beni unutturan yalnızca şeytandı' dedi. Musa, 'Aradığımız şey buydu' dedi ve her ikisi de geri dönerek izlerini takip etti ve Khadir'i buldular; ve onlara ne olduğu, Allah'ın Kitabında belirtilmiştir.\""
+    },
+    {
+      "id": 74,
+      "narrator": "Narrated Sa`id bin Jubair:",
+      "text": "Said bin Cubeyr'den rivayet edilmiştir: İbn Abbas'a dedim ki: \"Nauf Al-Bukah, Al-Khadir'in arkadaşı olan Musa'nın, Beni İsrail'in (peygamberi) Musa olmadığını, başka bir Musa olduğunu iddia ediyor.\" İbn Abbas, \"Allah'ın düşmanı (yani Nauf) yalan söylüyor. Ubai bin Ka'b bize, Peygamber (ﷺ) şöyle dedi: 'Bir zaman Musa ayağa kalktı ve Beni İsrail'e hitap etti. İnsanlar arasında en bilgili olanın kim olduğunu sordu. O, 'Benim' dedi. Allah ona, kendisini mutlak bilgiye atfetmediği için nasihat etti. Bunun üzerine Allah, 'Evet, iki denizin kesişim yerinde, senden daha bilgili bir kulum var' dedi. Musa, 'Ey Rabbim! Onunla nasıl buluşabilirim?' dedi. Allah, 'Bir balık al ve büyük bir sepetin içine koy, onu kaybettiğin yerde bulacaksın' dedi. Musa, bir balık aldı ve bir sepete koydu ve hizmetçisi Yuşa bin Nun ile birlikte yola çıktı, kayaya ulaştıklarında başlarını koydular (yani yattılar). Musa uyudu ve balık sepetten çıkıp denize düştü. Balık, denizde (doğrudan) bir tünel gibi yol aldı. Allah, balığın üzerindeki su akışını durdurdu ve balık bir kemer gibi oldu (Peygamber (ﷺ) bu kemeri elleriyle gösterdi). Geceyi geri kalan kısmında seyahat ettiler ve ertesi gün Musa, hizmetçisine, 'Bize yiyecek ver, çünkü bu yolculukta çok yorgunluk çektik' dedi. Musa, Allah'ın kendisine aramasını emrettiği yeri geçene kadar yorgunluk hissetmedi. Hizmetkârı ona, 'Biliyor musun, o kayaya oturduğumuzda balığı unuttum ve beni unutturan yalnızca şeytandı ve o, denize olağanüstü bir şekilde gitti' dedi. Böylece balık için bir yol oldu ve bu onları hayrete düşürdü. Musa, 'Aradığımız şey buydu' dedi. Her ikisi de geri dönerek kayaya ulaştılar. Orada, üzeri örtülü bir elbiseyle yatan bir adam gördüler. Musa ona selam verdi ve o da, 'Sizin ülkenizde insanlar birbirlerine nasıl selam verir?' dedi. Musa, 'Ben Musa'yım' dedi. Adam, 'Beni İsrail'in Musa'sı mı?' diye sordu. Musa, 'Evet, sana Allah'ın sana öğrettiği şeylerden bir kısmını öğretmen için geldim' dedi. O, 'Ey Musa! Benim, Allah'ın bana öğrettiği bazı bilgiler var, senin bilmediğin; senin de, Allah'ın sana öğrettiği bazı bilgiler var, benim bilmediğim' dedi. Musa, 'Seni takip edebilir miyim?' dedi. O, 'Ama benimle sabırlı olamazsın; anlayamayacağın şeyler hakkında nasıl sabırlı olabilirsin?' dedi. (Musa, 'Eğer Allah dilerse, beni sabırlı bulacaksın ve sana hiçbir şeyde isyan etmeyeceğim') dedi. Böylece her ikisi de deniz kıyısında yürümeye başladılar, bir tekne yanlarından geçti ve teknenin mürettebatından onları almasını istediler. Mürettebat, Al-Khadir'i tanıdı ve onları ücretsiz olarak tekneye aldılar. Tekneye bindiklerinde, bir serçe geldi ve teknenin kenarında durdu ve denize bir veya iki kez gagasını daldırdı. Al-Khadir, Musa'ya, 'Ey Musa! Benim bilgim ve senin bilgin, Allah'ın bilgisini, bu serçenin gagası ile denizin suyunu ne kadar azalttığı kadar azaltmadı' dedi. Sonra aniden Al-Khadir bir balta aldı ve bir tahtayı çekti, Musa bunu fark etmedi, tahta çekilene kadar. Musa ona, 'Ne yaptın? Bizi ücretsiz olarak tekneye aldılar; ama sen, kasıtlı olarak onların teknesine bir delik açtın ki, yolcularını boğasın. Gerçekten korkunç bir şey yaptın' dedi. Al-Khadir, 'Sana, benimle sabırlı olamayacağını söylemedim mi?' dedi. Musa, 'Unuttuğum şey için beni suçlama ve hatam için bana sert davranma' dedi. Böylece Musa'nın ilk mazereti unuttuğuydu. Denizi terk ettiklerinde, başka çocuklarla oynayan bir çocuğun yanından geçtiler. Al-Khadir, çocuğun başını tuttu ve elini bu şekilde çekti. (Sufyan, alt anlatıcı, parmak uçlarıyla sanki bir meyve topluyormuş gibi işaret etti.) Musa ona, 'Hiç kimseyi öldürmemiş masum birini mi öldürdün? Gerçekten korkunç bir şey yaptın' dedi. Al-Khadir, 'Sana, benimle sabırlı olamayacağını söylemedim mi?' dedi. Musa, 'Eğer bundan sonra sana bir şey sorarsam, benimle birlikte olma. Benden bir mazeret aldın' dedi. Sonra her ikisi de, bir köy halkına geldiler ve oradan odun istediler ama köy halkı onları misafir olarak kabul etmedi. Sonra orada, tam yıkılmak üzere olan bir duvar gördüler (ve Al-Khadir, onu sadece elleriyle dokunarak onardı). (Sufyan, alt anlatıcı, Al-Khadir'in duvarın üzerine yukarıya doğru elleriyle nasıl geçtiğini gösterdi.) Musa, 'Bunlar, kendilerine başvuruda bulunduğumuz insanlar; ama ne bize yiyecek verdiler, ne de misafir olarak kabul ettiler; yine de sen duvarlarını onardın. İstersen, bunun için ücret alabilirdin' dedi. Al-Khadir, 'Bu, seninle benim aramdaki ayrılıştır ve sabırlı olamadığın şeylerin açıklamasını sana söyleyeceğim' dedi. Peygamber (ﷺ) ekledi: \"Musa'nın sabırlı kalmasını dilerdik; böylece Allah, bize onların hikayesini daha fazla anlatabilirdi. (Sufyan, alt anlatıcı, Peygamber (ﷺ) şöyle dedi: \"Allah, Musa'ya merhamet etsin! Eğer sabırlı kalsaydı, onların durumu hakkında daha fazla bilgi verilirdi.\")"
+    },
+    {
+      "id": 75,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Al-Khadir, üzerine oturduğu ıssız beyaz toprak yeşerdiği için bu ismi aldı.\""
+    },
+    {
+      "id": 76,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Resulü (ﷺ) şöyle dedi: \"Beni İsrail'e, kapıdan (şehrin) alçakgönüllülükle (secde ederek) ve 'Tövbe' diyerek girin denildi, fakat onlar kelimeyi değiştirdiler ve şehre, popolarının üzerinde sürünerek ve 'Saçta bir buğday tanesi' diyerek girdiler.\""
+    },
+    {
+      "id": 77,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Resulü (ﷺ) şöyle dedi: \"(Peygamber) Musa utangaç biriydi ve aşırı utangaçlığı sebebiyle bedenini tamamen örtüyordu. Beni İsrail'den bir çocuk ona, 'O, bedenini sadece derisindeki bir kusurdan dolayı, ya cüzzam ya da kasık fıtığı yüzünden örtüyor, ya da başka bir kusuru var.' diyerek zarar verdi. Allah, Musa'yı onların söylediklerinden temizlemek istedi, bu yüzden bir gün Musa yalnızken elbiselerini çıkardı, bir taşın üzerine koydu ve banyo yapmaya başladı. Banyosunu bitirdiğinde elbiselerine doğru gitti, fakat taş elbiselerini alıp kaçtı; Musa asasını aldı ve taşı takip etmeye başladı, 'Ey taş! Bana elbisemi ver!' diyerek. Nihayet Beni İsrail'den bir grup gördü ve onu çıplak buldular, Allah'ın yarattıklarının en güzeli olarak gördüler ve Allah onu, hakkında söylediklerinden temizledi. Taş orada durdu ve Musa elbisesini aldı ve giydi, taşla asasını vurmaya başladı. Vallahi, taş hala vurmanın izlerini taşımaktadır, üç, dört veya beş işaret. Allah'ın, 'Ey iman edenler! Musa'yı rahatsız edenler gibi olmayın. Ama Allah, onun suçsuzluğunu ispatladı ve o, Allah katında onurluydu.' (33.69) dediği şey budur.\""
+    },
+    {
+      "id": 78,
+      "narrator": "Narrated `Abdullah:",
+      "text": "Abdullah'dan rivayet edilmiştir: Bir gün Peygamber (ﷺ) bir şey dağıttı. Bir adam, \"Bu dağıtım, Allah'ın rızasını kazanmak için adil bir şekilde yapılmamıştır.\" dedi. Ben de Peygamber'e (ﷺ) gittim ve ona bunu söyledim. O kadar öfkelendi ki, yüzünde öfke belirtilerini gördüm. Sonra şöyle dedi: \"Allah, Musa'ya merhamet etsin; çünkü o, bundan daha kötü bir şekilde zarar gördü; ama o sabırla dayandı.\""
+    },
+    {
+      "id": 79,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Cabir bin Abdullah'dan rivayet edilmiştir: Biz Allah'ın Resulü (ﷺ) ile 'Arak ağaçlarının meyvelerini topluyorduk, Allah'ın Resulü (ﷺ) şöyle dedi: \"Siyah meyveyi toplayın, çünkü o en iyisidir.\" Ashab, \"Siz bir çoban mıydınız?\" diye sordu. O da, \"Hiçbir peygamber çoban olmadan geçmemiştir.\" diye cevap verdi."
+    },
+    {
+      "id": 80,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Azrail, Musa'ya gönderildiğinde, Musa ona gözünün üzerine vurdu. Melek, Rabbine döndü ve \"Beni, ölmek istemeyen bir kulun yanına gönderdin.\" dedi. Allah, \"Ona geri dön ve ona, elini bir öküzün sırtına koymasını söyle; onun altına gelecek her bir kıl için ona bir yıl ömür vereceğim.\" dedi. Musa, \"Ey Rabbim! Peki, ondan sonra ne olacak?\" dedi. Allah, \"Sonra ölüm.\" dedi. Musa, \"O zaman gelsin.\" dedi. Musa, Allah'tan Kutsal Topraklar'a yakın bir yerde ölmesini istedi, öyle ki, oraya bir taş atımı mesafede olsun.\" Ebu Hureyre ekledi: \"Allah'ın Resulü (ﷺ) şöyle dedi: 'Eğer orada olsaydım, size yolun kenarındaki kırmızı kum tepesinin altında onun kabrini gösterirdim.'\""
+    },
+    {
+      "id": 81,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Bir Müslüman ile bir Yahudi tartıştı. Müslüman, \"Muhammed'i tüm insanlardan üstün kılan Allah'a yemin ederim...!\" dedi. Yahudi, \"Musa'yı tüm insanlardan üstün kılan Allah'a yemin ederim.\" dedi. Müslüman, elini kaldırdı ve Yahudi'ye vurdu. Yahudi, Peygamber'e (ﷺ) giderek onunla olan olayını anlattı. Peygamber (ﷺ) dedi ki: \"Bana Musa'dan üstünlük verme, çünkü insanlar (Kıyamet Günü) bayılacaklar ve ben, ilk bilincimi kazanacak olan olacağım; Musa'nın Allah'ın Arşının bir tarafını tuttuğunu göreceğim. Onun, bayılanlar arasında olup olmadığını ve benim önceden bilincini kazanıp kazanmadığını bilemeyeceğim; ya da Allah'ın muaf tuttuğu kişilerden biri olup olmadığını bilemeyeceğim.\""
+    },
+    {
+      "id": 82,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Resulü (ﷺ) şöyle dedi: \"Âdem ile Musa birbirleriyle tartıştılar. Musa, Âdem'e, 'Sen, seni Cennet'ten çıkaran hatayı yapan Âdem'sin.' dedi. Âdem ona, 'Sen, Allah'ın elçisi olarak seçtiği ve doğrudan konuştuğu Musa'sın; yine de beni, yaratılışım öncesinde kaderime yazılmış bir şeyle suçluyorsun?' dedi. Allah'ın Resulü (ﷺ) iki kez şöyle dedi: 'Böylece Âdem, Musa'yı yendi.'\""
+    },
+    {
+      "id": 83,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) bir gün bize geldi ve şöyle dedi: \"Tüm milletler önümde sergilendi ve ufukta büyük bir kalabalık gördüm. Birisi, 'Bu, Musa ve onun takipçileridir.' dedi.\""
+    },
+    {
+      "id": 84,
+      "narrator": "Narrated Abu Musa:",
+      "text": "Ebu Musa'dan rivayet edilmiştir: Allah'ın Resulü (ﷺ) şöyle dedi: \"İnsanlar arasında birçok kişi (olgunluk seviyesine) ulaştı, fakat kadınlar arasında bu seviyeye ulaşan tek kişi Asiye, Firavun'un eşi ve İmran'ın kızı Meryem'dir. Ve hiç şüphesiz, Aişe'nin diğer kadınlara üstünlüğü, Tharid'in (yani et ve ekmek yemeği) diğer yemeklere üstünlüğü gibidir.\""
+    },
+    {
+      "id": 85,
+      "narrator": "Narrated `Abdullah:",
+      "text": "Abdullah'tan rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Hiçbiriniz, 'Ben Yunus'tan (yani Yûnus) daha iyiyim.' dememelidir.\" Musadded, \"Yunus bin Matta.\" ekledi."
+    },
+    {
+      "id": 86,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Hiçbir Allah kulu, 'Ben Yunus bin Matta'dan daha iyiyim.' dememelidir.\" Böylece Peygamber, ismiyle birlikte babasının adını da anmıştır."
+    },
+    {
+      "id": 87,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Bir gün bir Yahudi bir şey satıyordu, ona hoşuna gitmeyen bir fiyat teklif edildi. O da, \"Hayır, beni tüm insanlardan üstün kılan Allah'a yemin ederim!\" dedi. Bunu duyan bir Ensar adamı kalktı, ona tokat attı ve \"Sen, tüm insanlardan Musa'yı üstün kılan Allah'a yemin ediyorsun, halbuki Peygamber (Muhammed) aramızda!\" dedi. Yahudi, Peygamber'e (ﷺ) gitti ve \"Ey Ebu'l-Kasım! Ben güvenlik sözleşmesi altındayım, o zaman filan kişinin bana tokat atma hakkı nedir?\" dedi. Peygamber (ﷺ) diğerine sordu: \"Neden vurdun?\" O da ona tüm hikayeyi anlattı. Peygamber (ﷺ) öfkelendi, öfke yüzünde belirdi ve \"Allah'ın peygamberleri arasında hiçbirine üstünlük vermeyin, çünkü sur üflendiğinde, yeryüzündeki ve gökyüzündeki herkes bayılacak, Allah'ın muaf tuttuğu kişiler hariç. Sur ikinci kez üflenecek ve ben, Allah'ın Arşını tutan Musa'yı görecek ilk kişi olacağım. Musa'nın Tur Günü'nde aldığı bayılmanın, onun için yeterli olup olmadığını ya da benden önce mi bilincini kazandığını bilemeyeceğim. Ve ben, Yunus bin Matta'dan daha iyi olduğunu söylemiyorum.\" dedi."
+    },
+    {
+      "id": 88,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Hiç kimse, 'Ben Yunus bin Matta'dan daha iyiyim.' dememelidir.\""
+    },
+    {
+      "id": 89,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Zabur (yani Mezmurlar) Davud'a kolaylaştırıldı. O, binek hayvanlarının eyerlenmesini emrederdi ve eyerlenmeden önce Zabur'u okumayı bitirirdi. Ve o, hiçbir zaman el emeğiyle kazandığı şeyler dışında bir şey yemezdi.\""
+    },
+    {
+      "id": 90,
+      "narrator": "Narrated `Abdullah bin `Amr:",
+      "text": "Abdullah bin Amr'dan rivayet edilmiştir: Allah'ın Resulü (ﷺ) bana, \"Allah'a yemin ederim ki, ben tüm günler oruç tutacağım ve tüm geceler namaz kılacağım.\" dediğimi duydu. Bunun üzerine Allah'ın Resulü (ﷺ) bana sordu: \"Sen, 'Ben tüm günler oruç tutacağım ve tüm geceler namaz kılacağım.' diyen misin?\" Ben de, \"Evet, bunu söyledim.\" dedim. O, \"Bunu yapamazsın. O yüzden (bazen) oruç tut ve (bazen) tutma. Namaz kıl ve uyu. Ayda üç gün oruç tut, çünkü bir iyi amelin sevabı on katına çıkar ve böylece ayda üç gün oruç tutmak, bir yıl oruç tutmaya eşittir.\" dedim: \"Ey Allah'ın Resulü (ﷺ)! Ben bundan daha fazlasını yapabilirim.\" O, \"Her üçüncü günde oruç tut.\" dedi. Ben, \"Bundan daha fazlasını yapabilirim.\" dedim. O, \"Alternatif günlerde oruç tut, bu da Davud'un oruç tutma şeklidir ki, en ılımlı oruç şeklidir.\" dedi. Ben, \"Ey Allah'ın Resulü (ﷺ)! Ben bundan daha fazlasını yapabilirim.\" dedim. O, \"Bundan daha iyisi yoktur.\" dedi."
+    },
+    {
+      "id": 91,
+      "narrator": "Narrated `Abdullah bin `Amr bin Al-As:",
+      "text": "Abdullah bin Amr bin Al-As'tan rivayet edilmiştir: Peygamber (ﷺ) bana, \"Gece boyunca namaz kıldığın ve gündüzleri oruç tuttuğun bana bildirildi; bu doğru mu?\" dedi. Ben de, \"Evet.\" dedim. O, \"Eğer böyle yaparsan, gözlerin zayıflar ve sıkılırsın. O yüzden ayda üç gün oruç tut; bu, bir yıl oruç tutmaya eşdeğerdir.\" dedi. Ben, \"Daha fazla oruç tutabileceğimi düşünüyorum.\" dedim. O, \"O zaman, (Peygamber) Davud'un oruç tuttuğu gibi oruç tut; o, her gün oruç tutar ve düşmanla karşılaştığında kaçmazdı.\" dedi."
+    },
+    {
+      "id": 92,
+      "narrator": "Narrated `Abdullah bin `Amr:",
+      "text": "Abdullah bin Amr'tan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) bana, \"Allah'a en sevimli oruç, (Peygamber) Davud'un tuttuğu oruçtur; o, her gün oruç tutardı. Ve Allah'a en sevimli namaz, Davud'un namazıdır; o, gecenin yarısını uyur, üçte birini namaz kılar ve altıda birini tekrar uyurdu.\" dedi."
+    },
+    {
+      "id": 93,
+      "narrator": "Narrated Mujahid:",
+      "text": "Mücahid'ten rivayet edilmiştir: İbn Abbas'a, \"Sad Suresini okurken secde etmemiz gerekir mi?\" diye sordum. O, 'Ve onun soyundan Davud, Süleyman...(devamı)...o halde onların rehberliğini takip edin (6.84-91)' ayetini okudu. Sonra, \"Senin Peygamberin, onlara (yani önceki peygamberlere) uyması emredilenler arasındadır.\" dedi."
+    },
+    {
+      "id": 94,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Sad Suresindeki secde, zorunlu secdelerden değildir; fakat ben Peygamber (ﷺ) onu okurken secde ederken gördüm."
+    },
+    {
+      "id": 95,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) dedi ki, \"Dün aniden üzerime güçlü bir cin geldi, namazımı bozmak için, ama Allah bana onu yenme gücü verdi; onu yakaladım ve sizi görmeniz için caminin direklerinden birine bağlamayı düşündüm, ama kardeşim Süleyman'ın duasını hatırladım: 'Bana, benden sonra hiç kimseye ait olmayacak bir krallık ver.' (38.35) bu yüzden onu lanetleyerek serbest bıraktım.\""
+    },
+    {
+      "id": 96,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) dedi ki, \"Davud'un oğlu Süleyman, 'Bu gece yetmiş kadınla birlikte olacağım; her biri, 'Allah'ın davası' için savaşacak bir çocuk doğuracak.' dedi. Arkadaşı, 'Eğer Allah dilerse.' dedi. Ama Süleyman böyle demedi; bu yüzden o kadınlardan hiçbiri hamile kalmadı, sadece biri yarım bir çocuk doğurdu.\" Peygamber (ﷺ) ayrıca, \"Eğer Peygamber (ﷺ) Süleyman bunu (yani 'Eğer Allah dilerse') demiş olsaydı, Allah'ın davasında savaşacak çocuklar doğurmuş olacaktı.\" dedi. Şuayb ve İbn Ebi Zinad, \"Doksan (kadın) yetmişten daha doğrudur.\" dediler."
+    },
+    {
+      "id": 97,
+      "narrator": "Narrated Abu Dhaar:",
+      "text": "Ebu Dhaar'dan rivayet edilmiştir: Ben, \"Ey Allah'ın Elçisi (ﷺ)! Hangi cami ilk inşa edildi?\" dedim. O, \"El-Masjid-ul-Haram.\" dedi. Ben, \"Sonra hangisi inşa edildi?\" dedim. O, \"El-Masjid-ul-Aqsâ (yani Kudüs).\" dedi. Ben, \"Aralarındaki süre ne kadardı?\" dedim. O, \"Kırk (yıl).\" dedi. Sonra ekledi, \"Namaz vakti geldiğinde, nerede olursan ol, namaz kıl; çünkü yeryüzü sizin için ibadet yeri olmuştur.\""
+    },
+    {
+      "id": 98,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) dedi ki, \"Benim örneğim ve insanların örneği, bir kişinin ateş yaktığı ve güvelerin, kelebeklerin ve bu böceklerin içine düştüğü gibidir.\" Ayrıca, \"İki kadın vardı, her birinin yanında bir çocuk vardı. Bir kurt geldi ve onlardan birinin çocuğunu aldı; diğer kadın, 'Senin çocuğunu aldı.' dedi. İlk kadın, 'Ama o senin çocuğunu aldı.' dedi. İkisi de Davud'un huzuruna çıktılar; o, canlı çocuğun büyük kadına verilmesine hükmetti. İkisi de Süleyman bin Davud'a gittiler ve ona (durumu) bildirdiler. O, 'Bana bir bıçak getirin, çocuğu iki parçaya kesip aralarında paylaşayım.' dedi. Küçük kadın, 'Allah sana merhamet etsin! Bunu yapma, çünkü o (diğer kadının) çocuğu.' dedi. Bunun üzerine çocuğu küçük kadına verdi.\""
+    },
+    {
+      "id": 99,
+      "narrator": "Narrated `Abdullah:",
+      "text": "Abdullah'tan rivayet edilmiştir: 'İman edenler ve imanlarını zulümle karıştırmayanlar...' ayeti indirildiğinde, Peygamber (ﷺ) arkadaşları, \"Bizden kim kendi nefsine zulmetmemiştir ki?\" dediler. Sonra Allah, \"Allah'a hiçbir şeyi ortak koşmayın; şüphesiz ki Allah'a ortak koşmak büyük bir zulümdür.\" ayetini indirdi."
+    },
+    {
+      "id": 100,
+      "narrator": "Narrated `Abdullah:",
+      "text": "Abdullah'tan rivayet edilmiştir: 'İman edenler ve imanlarını zulümle karıştırmayanlar...' ayeti indirildiğinde, Müslümanlar bu durumu çok zor buldular ve, \"Ey Allah'ın Elçisi (ﷺ)! Bizden kim kendisine zulmetmiyor?\" dediler. O, \"Ayet bunun anlamına gelmiyor. Ama (zulüm) Allah'a ortak koşmayı ifade ediyor: Luqman'ın oğluna tavsiyede bulunurken ne dediğini duymuyor musunuz? 'Oğulcuğum! Allah'a hiçbir şeyi ortak koşma. Şüphesiz ki Allah'a ortak koşmak büyük bir zulümdür.' (31.13) dedi.\""
+    },
+    {
+      "id": 101,
+      "narrator": "Narrated Malik bin Sasaa:",
+      "text": "Malik bin Sasaa'dan rivayet edilmiştir: Peygamber (ﷺ) onlara Miraç gecesinden bahsetti. Dedi ki, \"(Sonra Cebrail beni aldı) ve ikinci göğe kadar yükseldi; orada kapının açılmasını istedi, ama soruldu, 'Kimdir?' Cebrail, 'Ben Cebrail'im.' dedi. Soruldu, 'Seninle kim var?' O, 'Muhammed.' dedi. Soruldu, 'O çağrıldı mı?' O, 'Evet.' dedi. İkinci göğe ulaştığımızda, Yahya (yani John) ve İsa'yı gördüm; onlar kuzenlerdi. Cebrail, 'Bunlar Yahya ve İsa'dır; onlara selam ver.' dedi. Ben selam verdim ve onlar, 'Hoş geldin, Ey Salih Kardeş ve Salih Peygamber!' diyerek selamımı aldılar.\""
+    },
+    {
+      "id": 102,
+      "narrator": "Narrated Sa`id bin Al-Musaiyab:",
+      "text": "Sa'id bin Al-Musaiyab'tan rivayet edilmiştir: Ebu Hureyre, \"Ben Allah'ın Elçisi (ﷺ) şöyle derken duydum: 'Adem'in soyundan doğan hiç kimse yoktur ki, şeytan ona dokunmasın. Bu yüzden bir çocuk doğduğunda, şeytanın dokunuşu nedeniyle yüksek sesle ağlar; yalnızca Meryem ve onun çocuğu hariç.\" dedi. Sonra Ebu Hureyre, \"Ve ben, onu ve onun soyunu lanetli şeytandan sana sığınırım.\" (3.36) ayetini okudu."
+    },
+    {
+      "id": 103,
+      "narrator": "Narrated `Ali:",
+      "text": "Ali'den rivayet edilmiştir: Ben Peygamber (ﷺ) şöyle derken duydum: \"İmran'ın kızı Meryem, (zamanının) kadınları arasında en hayırlısıdır ve Hatice, (bu ümmetin) kadınları arasında en hayırlısıdır.\""
+    },
+    {
+      "id": 104,
+      "narrator": "Narrated Abu Musa Al-Ash`ari:",
+      "text": "Ebu Musa el-Eş'ari'den rivayet edilmiştir: Peygamber (ﷺ) dedi ki, \"Aişe'nin diğer kadınlara üstünlüğü, Tharid'in (yani et ve ekmek yemeği) diğer yemeklere üstünlüğü gibidir. Birçok erkek olgunluk seviyesine ulaştı, ama hiçbir kadın Meryem, İmran'ın kızı ve Firavun'un eşi Asiye dışında böyle bir seviyeye ulaşamadı.\""
+    },
+    {
+      "id": 105,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Ben Allah'ın Elçisi (ﷺ) şöyle derken duydum: \"Develeri (yani Arapları) süren tüm kadınlar arasında Kureyş kadınları en iyisidir. Onlar çocuklarına merhametli ve nazik, kocalarının mallarının en iyi koruyucularıdır.\" Ebu Hureyre ekledi, \"İmran'ın kızı Meryem asla deveye binmedi.\""
+    },
+    {
+      "id": 106,
+      "narrator": "Narrated 'Ubada:",
+      "text": "Ubade'den rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Kim Allah'tan başka ibadet edilmeye layık olanın olmadığını, O'nun ortağı olmadığını, Muhammed'in O'nun kulu ve elçisi olduğunu, İsa'nın Allah'ın kulu ve elçisi olduğunu, O'nun Meryem'e verdiği kelime ve O'nun yarattığı bir ruh olduğunu, Cennet'in gerçek olduğunu ve Cehennem'in gerçek olduğunu tasdik ederse, Allah onu, yaptığı az da olsa, amelleri ile Cennet'e alacaktır.\" (Cünada, alt rivayetçi şöyle dedi: \"Ubade ekledi, 'Böyle bir kişi, istediği sekiz kapıdan herhangi birinden Cennet'e girebilir.'\")"
+    },
+    {
+      "id": 107,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Beşikte konuşan sadece üç kişi vardır: (Birincisi) İsa, (ikincisi) Beni İsrail'den Juraij adında bir adamdır. O, namaz kılarken annesi geldi ve onu çağırdı. O, (kendi kendine) 'Ona cevap vereyim mi yoksa namazıma devam mı edeyim?' dedi. (Namazına devam etti) ve ona cevap vermedi, annesi şöyle dedi: 'Ya Allah! Onu, fahişelerin yüzlerini görmeden öldürme.' Sonra o, tefekküre dalmışken, bir kadın geldi ve onu baştan çıkarmaya çalıştı, ama o reddetti. Bunun üzerine kadın bir çobana gitti ve onunla yasadışı cinsel ilişkiye girmeyi teklif etti ve daha sonra bir çocuk doğurdu ve çocuğun Juraij'e ait olduğunu iddia etti. Bunun üzerine insanlar ona geldi ve onun hücresini yıktılar ve onu dışarı attılar ve ona hakaret ettiler. Juraij abdest aldı ve namaz kıldı, sonra çocuğa geldi ve 'Ey çocuk! Babaların kimdir?' dedi. Çocuk, 'Çoban.' diye cevap verdi. (Bunu duyunca) insanlar, 'Biz senin hücreni altınla yeniden inşa edeceğiz.' dediler, ama o, 'Hayır, sadece çamurdan.' dedi. (Üçüncüsü ise aşağıdaki hikayenin kahramanı) Beni İsrail'den bir kadın, çocuğunu emzirirken, yakışıklı bir binici yanından geçti. O, 'Ya Allah! Çocuğumu ona benzet.' dedi. Bunun üzerine çocuk, annesinin memesini bıraktı ve biniciye dönerek, 'Ya Allah! Beni ona benzetme.' dedi. Çocuk daha sonra annesinin memesini tekrar emmeye başladı. (Ebu Hureyre daha sonra şöyle dedi: \"Sanki şimdi Peygamberi (ﷺ) parmağını emiyormuş gibi görüyorum.\") Bir süre sonra insanlar, bir cariye ile geçtiler ve o (yani çocuğun annesi) şöyle dedi: 'Ya Allah! Çocuğumu bu (cariye) gibi yapma!' Bunun üzerine çocuk, annesinin memesini bıraktı ve 'Ya Allah! Beni ona benzet.' dedi. Nedenini sorduğunda çocuk, 'Bininci zalimlerden biridir, oysa bu cariye hırsızlık ve yasadışı cinsel ilişki ile suçlanıyor.' dedi.\""
+    },
+    {
+      "id": 108,
+      "narrator": "Narrated Hisham:",
+      "text": "Hişam'dan rivayet edilmiştir: Ma'mar'dan şöyle nakledilmiştir. Ebu Hureyre'den: Peygamber (ﷺ) şöyle buyurdu: \"Miraç gecemde Musa ile karşılaştım.\" Peygamber (ﷺ) onu şöyle tarif etti: \"O, uzun boylu ve ince saçlıydı, sanki Şanu kabilesine mensup gibiydi.\" Peygamber (ﷺ) ayrıca şöyle dedi: \"İsa ile de karşılaştım.\" Peygamber (ﷺ) onu şöyle tarif etti: \"O, orta boylu ve yüzü kırmızıydı, sanki banyo çıkmış gibiydi. İbrahim'i gördüm, ona en çok benzeyen ben oldum.\" Peygamber (ﷺ) ayrıca şöyle dedi: \"(O gece) bana iki kadeh verildi; biri sütle doluydu, diğeri şarapla doluydu. Hangisini istersem onu almam söylendi, ben de sütü aldım ve içtim. Bunun üzerine bana, 'Doğru yolu (din) seçtin. Eğer şarabı alsaydın, senin (Müslüman) ümmetin sapıtacaktı.' denildi.\""
+    },
+    {
+      "id": 109,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Miraç gecemde Musa, İsa ve İbrahim'i gördüm. İsa kırmızı tenli, kıvırcık saçlı ve geniş göğüslüydü. Musa esmer tenli, düz saçlı ve uzun boylu, sanki Az-Zutt halkından gibiydi.\""
+    },
+    {
+      "id": 110,
+      "narrator": "Narrated `Abdullah:",
+      "text": "Abdullah'tan rivayet edilmiştir: Peygamber (ﷺ) insanların önünde Mesih Deccal'den bahsederek şöyle dedi: \"Allah tek gözlü değildir, oysa Mesih Deccal sağ gözünden kördür ve gözü dışarı fırlamış bir üzüm gibidir. Geçen gece Kabe'nin yanında uyurken, rüyamda kahverengi bir adam gördüm, kahverengi arasında en güzeliydi ve saçları omuzlarının arasına düşecek kadar uzundu. Saçları inceydi ve başından su damlıyordu, Kabe'yi tavaf ederken iki adamın omuzlarına ellerini koyuyordu. Ben sordum: 'Bu kim?' Onlar cevap verdiler: 'Bu Meryem oğlu İsa.' Arkasında ise çok kıvırcık saçlı ve sağ gözünden kör olan bir adam gördüm, görünüşü itibarıyla İbn Katan'a (yani bir kafire) benziyordu. O da Kabe'yi tavaf ederken bir kişinin omuzlarına ellerini koyuyordu. Ben sordum: 'Bu kim?' Onlar cevap verdiler: 'Mesih Deccal.'\""
+    },
+    {
+      "id": 111,
+      "narrator": "Narrated Salim from his father:",
+      "text": "Salim, babasından rivayet etmiştir: Hayır, Allah'a yemin ederim ki, Peygamber (ﷺ) İsa'nın kırmızı tenli olduğunu söylemedi, ama şöyle dedi: \"Ben rüyamda Kabe'yi tavaf ederken, aniden kahverengi bir adam ve ince saçlı bir adam gördüm, iki adamın arasında yürüyordu ve başından su damlıyordu. Ben sordum: 'Bu kim?' İnsanlar 'O Meryem'in oğludur.' dediler. Sonra arkamı döndüm ve kırmızı tenli, şişman, kıvırcık saçlı bir adam gördüm, sağ gözü dışarı fırlamış bir üzüm gibiydi. Ben sordum: 'Bu kim?' Onlar cevap verdiler: 'O Deccal'dir.' İnsanlar arasında ona en çok benzeyen, İbn Katan'dı.\" (Az-Zuhri dedi ki: \"O (yani İbn Katan) Kureyş kabilesinden bir adamdı ve İslam öncesi dönemde vefat etti.\")"
+    },
+    {
+      "id": 112,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Ben, Meryem oğlu İsa'ya en yakın olan kişiyim ve tüm peygamberler kardeştir; aramızda İsa ile benim aramda başka bir peygamber yoktur.\""
+    },
+    {
+      "id": 113,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Bu dünyada ve ahirette, Meryem oğlu İsa'ya en yakın olan kişiyim. Peygamberler kardeştir; anneleri farklıdır, ama dinleri birdir.\""
+    },
+    {
+      "id": 114,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"İsa, bir adamın hırsızlık yaptığını görünce ona sordu: 'Hırsızlık mı yaptın?' Adam, 'Hayır, Allah'a yemin ederim, O'ndan başka ibadet edilmeye layık olan yoktur.' İsa, 'Ben Allah'a inanıyorum ve gözlerime şüphe duyuyorum.' dedi.\""
+    },
+    {
+      "id": 115,
+      "narrator": "Narrated `Umar:",
+      "text": "Ömer'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Beni, Meryem oğlu İsa gibi övmeyin, çünkü ben sadece bir kulum. Beni Allah'ın kulu ve elçisi olarak çağırın.\""
+    },
+    {
+      "id": 116,
+      "narrator": "Narrated Abu Musa Al-Ash`ari:",
+      "text": "Ebu Musa el-Eş'ari'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Eğer bir kişi cariyesine güzel ahlakı düzgün bir şekilde öğretir, onu iyi bir şekilde eğitir, sonra onu azat eder ve onunla evlenirse, iki kat ödül alır. Eğer bir adam İsa'ya inanır ve sonra bana inanırsa, o da iki kat ödül alır. Eğer bir köle, Rabbine (yani Allah'a) karşı gelirse ve efendilerine itaat ederse, o da iki kat ödül alır.\""
+    },
+    {
+      "id": 117,
+      "narrator": "Narrted Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle buyurdu: \"Siz, çıplak, ayaksız ve sünnetsiz olarak diriltileceksiniz.\" Peygamber (ﷺ) daha sonra şu ayeti okudu: \"İlk yaratılışı nasıl başlattıysak, onu tekrar yapacağız: Bu, üstlendiğimiz bir vaaddir. Gerçekten bunu yapacağız.\" (21.104) Ekledi: \"İlk giydirilen İbrahim olacaktır. Sonra bazı arkadaşlarım sağa ve sola gidecekler. Ben, 'Arkadaşlarım!' diyeceğim. Onlara, 'Onlar, seni terk ettiklerinden beri mürted oldular.' denilecek. Sonra ben, Meryem oğlu İsa'nın söylediği gibi söyleyeceğim: 'Ben, onların arasında bulunduğum sürece onlara şahit oldum; beni aldığın zaman, sen onların üzerinde gözetleyici idin ve sen her şeye şahit olansın. Eğer onları azap edersen, onlar senin kullarındır; eğer onları affedersen, sen, yalnızca sen, Mutlak Güçlü ve Hikmet sahibisin.' \" (5.117-118) Kuaggas'tan rivayet edilmiştir: \"Onlar, Ebu Bekir'in halifeliği döneminde İslam'dan dönen mürtedlerdi.\")"
+    },
+    {
+      "id": 118,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Canımın bulunduğu Allah'a yemin ederim ki, Meryem oğlu İsa, aranızda yakında inecek ve insanlara adaletle hükmedecektir (adaletli bir yönetici olarak); haçı kıracak ve domuzları öldürecektir ve artık cizye (yani gayrimüslimlerden alınan vergi) olmayacaktır. Para bol olacak, öyle ki kimse onu kabul etmeyecek ve Allah'a (namazda) tek bir secde, dünya ve içindekilerden daha hayırlı olacaktır.\" Ebu Hureyre ekledi: \"İsterseniz, bu ayeti okuyabilirsiniz: 'Ve Kitap Ehli'nden (Yahudiler ve Hristiyanlar) hiç kimse, onun (yani İsa'nın, Allah'ın elçisi ve bir insan olarak) ölümünden önce ona inanmayacaktır. Kıyamet Günü, o, onlara karşı bir şahit olacaktır.\" (4.159) (Bkz. Fath-ul-Bari, Sayfa 302, Cilt 7)"
+    },
+    {
+      "id": 119,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Meryem oğlu (yani İsa) aranızda indiğinde, imamınız aranızda olacak.\""
+    },
+    {
+      "id": 120,
+      "narrator": "Narrated Rabi bin Hirash:",
+      "text": "Rabi bin Hirash'tan rivayet edilmiştir: Ukbe bin Amr, Hudeyfe'ye şöyle dedi: \"Bize Allah'ın Elçisi'nden duyduğun bir şeyi anlatmayacak mısın?\" O da şöyle dedi: \"Onu şöyle derken duydum: 'Deccal ortaya çıktığında, yanında ateş ve su olacak. İnsanların soğuk su olarak gördüğü şey, aslında yakacak olan ateş olacaktır. Eğer biriniz buna rastlarsa, ona ateş gibi görünen şeye düşsün, çünkü aslında o, taze soğuk sudur.' Hudeyfe ayrıca şöyle dedi: \"Onu şöyle derken de duydum: 'Sizden önceki nesilden bir adam vardı ki, ölüm meleği onun ruhunu almak için geldi. (Ruhu alındı) ve ona herhangi bir iyi iş yapıp yapmadığı soruldu. O, 'Hiçbir iyi iş hatırlamıyorum.' dedi. Ona düşünmesi söylendi. O, 'Ben, insanlarla ticaret yapardım ve zenginlere süre tanır, fakirlere (borçlarımda) affederdim.' dedi. Bunun üzerine Allah onu Cennet'e soktu.\" Hudeyfe ayrıca şöyle dedi: \"Bir zamanlar bir adam ölüm döşeğindeydi, hayatta kalma umudunu kaybedince ailesine şöyle dedi: 'Öldüğümde, benim için büyük bir odun yığını toplayın ve beni yakmak için ateş yapın. Ateş etimi yerken ve kemiklerime ulaştığında, kemiklerim yandığında, alıp toz haline getirin ve rüzgarlı bir günde denize atın.' Bunu yaptılar, ama Allah onun parçalarını topladı ve ona şöyle sordu: 'Bunu neden yaptın?' O, 'Senden korktuğum için.' dedi. Bunun üzerine Allah onu affetti.\" Ukbe bin Amr, \"İsrailoğulları ölülerin mezarlarını kazıp kefenlerini çalarlardı.\" dedi."
+    },
+    {
+      "id": 121,
+      "narrator": "Narrated `Aisha and Ibn `Abbas:",
+      "text": "Aişe ve İbn Abbas'tan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) ölüm yatağında yüzüne bir örtü koydu ve sıcakladığında örtüyü yüzünden kaldırıyordu. O haldeyken (örtüyü koyup kaldırırken) şöyle dedi: \"Allah'ın laneti Yahudilerin ve Hristiyanların üzerine olsun; çünkü onlar peygamberlerinin mezarlarının üzerinde ibadet yerleri inşa ediyorlar.\" (Bununla) Müslümanları (Yahudilerin ve Hristiyanların) yaptıklarından sakındırmak istedi."
+    },
+    {
+      "id": 122,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"İsrailoğulları peygamberler tarafından yönetilir ve yönlendirilirdi: Herhangi bir peygamber öldüğünde, başka bir peygamber onun yerine geçerdi. Benden sonra peygamber yoktur, ama sayı olarak artacak halifeler olacaktır.\" İnsanlar sordular: \"Ey Allah'ın Elçisi (ﷺ)! Bize ne emrediyorsun?\" O da şöyle dedi: \"Önce biat alacak olanı dinleyin. Halifelerin (haklarını) yerine getirin; çünkü Allah, onlardan kendisine emanet edilenler hakkında (herhangi bir eksiklik) soracaktır.\""
+    },
+    {
+      "id": 123,
+      "narrator": "Narrated Abu Sa`id:",
+      "text": "Ebu Said'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Siz, atalarınızın yanlış yollarını o kadar tam ve harfi harfine takip edeceksiniz ki, eğer onlar bir akrebin deliğine girseler, siz de oraya gireceksiniz.\" Biz dedik ki: \"Ey Allah'ın Elçisi (ﷺ)! Yahudileri ve Hristiyanları mı kastediyorsun?\" O da cevap verdi: \"Başka kim?\" (Elbette, Yahudileri ve Hristiyanları kastediyordu.)"
+    },
+    {
+      "id": 124,
+      "narrator": "Narrated Anas:",
+      "text": "Enes'ten rivayet edilmiştir: İnsanlar ateşi ve çanı (namaz vaktini ilan etmek için önerilen araçlar olarak) zikrettiler ve bu öneriyle Yahudilere ve Hristiyanlara atıfta bulundular. Fakat Bilal'e şöyle emredildi: \"Ezan (yani namaz çağrısı) kelimelerini iki kez, ikamet kelimesini ise yalnızca bir kez söyle.\""
+    },
+    {
+      "id": 125,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Birinin namaz kılarken ellerini yanlarına koymasını nefret ederdi. Yahudilerin böyle yaptığını söyledi."
+    },
+    {
+      "id": 126,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn Ömer'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Sizin döneminiz (yani Müslümanların dönemi), önceki milletlerin dönemleriyle kıyaslandığında, ikindi namazı ile güneşin batışı arasındaki süre gibidir. Sizin Yahudiler ve Hristiyanlarla kıyaslandığınız örnek, bir adamın bazı işçileri işe alıp onlara, 'Kim benim için öğleye kadar çalışacak, her biri bir Kıraat karşılığında?' diye sorduğu örneğe benzer. Yahudiler bir Kıraat karşılığında yarım gün çalıştılar. Adam, 'Kim benim için öğle ile ikindi namazı arasında çalışacak, her biri bir Kıraat karşılığında?' diye sordu. Hristiyanlar, öğleden ikindi namazına kadar bir Kıraat karşılığında çalıştılar. Sonra adam, 'Kim benim için ikindiden güneş batışına kadar çalışacak, her biri iki Kıraat karşılığında?' diye sordu.\" Peygamber (ﷺ) ekledi: \"İkindi ile güneş batışı arasında çalışan sizlersiniz (yani Müslümanlar), bu yüzden iki kat ödül alacaksınız. Yahudiler ve Hristiyanlar sinirlendi ve 'Biz daha fazla iş yaptık ama daha az ücret aldık' dediler. Allah, 'Ben sizin haklarınız konusunda size haksızlık mı ettim?' dedi. Onlar da, 'Hayır' dediler. Bunun üzerine Allah, 'O halde, dilediğime ihsan ettiğim bir nimettir.' dedi.\""
+    },
+    {
+      "id": 127,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Umar'ın şöyle dediğini duydum: \"Allah, falanca kişiye lanet etsin! Peygamber (ﷺ) 'Yahudilere lanet olsun; çünkü onlara yağ yemek yasaklandı, fakat onu eritip sattılar' demedi mi?\""
+    },
+    {
+      "id": 128,
+      "narrator": "Narrated `Abdullah bin `Amr:",
+      "text": "Abdullah bin Amr'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"İnsanlara (öğretilerimi) bir cümle bile olsa iletin ve Beni İsrail'in (size öğretilen) hikayelerini başkalarına anlatın; çünkü bunu yapmak günah değildir. Ve kim benim üzerimden kasıtlı olarak yalan söylerse, kesinlikle cehennemdeki yerini alacaktır.\""
+    },
+    {
+      "id": 129,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Yahudiler ve Hristiyanlar (beyaz) saçlarını boyamazlar, o halde siz de onların yaptığının tersini yapın (yani beyaz saçlarınızı ve sakallarınızı boyayın).\""
+    },
+    {
+      "id": 130,
+      "narrator": "Narrated Jundub:",
+      "text": "Cündüb'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Sizden önceki milletlerden birinde bir adam yaralandı ve acısından sabırsızlandı; bir bıçak aldı ve elini kesti ve kanı durmadı, ta ki öldü. Allah, 'Kulum kendine ölüm getirmek için acele etti, bu yüzden onu (Cennet'e) girmesini yasakladım.'\""
+    },
+    {
+      "id": 131,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Allah, bir cüzamlı, bir kör ve bir kel olan üç İsrailoğlunu test etmek istedi. Onlara bir melek gönderdi. Melek, cüzamlıya geldi ve 'En çok neyi seversin?' diye sordu. O da, 'Güzel bir renk ve güzel bir cilt, çünkü insanlar bana karşı büyük bir nefret besliyorlar' dedi. Melek ona dokundu ve hastalığı iyileşti, güzel bir renk ve güzel bir cilt verildi. Melek ona, 'En çok hangi tür mülkü seversin?' diye sordu. O da, 'Develeri (veya inekleri)' dedi. (Rivayet eden kişi şüphe içindedir, çünkü ya cüzamlı ya da kel olan develeri istemiştir, diğeri ise inek istemiştir). Böylece ona hamile bir dişi deve verildi ve melek ona, 'Allah, seni bunda bereketlendirsin' dedi. Melek daha sonra kel olan adama gitti ve 'En çok neyi seversin?' diye sordu. O da, 'Güzel saçları severim ve bu hastalıktan kurtulmak isterim, çünkü insanlar bana karşı tiksinti duyuyorlar' dedi. Melek ona dokundu ve hastalığı iyileşti, güzel saçlar verildi. Melek ona, 'En çok hangi tür mülkü seversin?' diye sordu. O da, 'İnekleri' dedi. Melek ona hamile bir inek verdi ve 'Allah, seni bunda bereketlendirsin' dedi. Melek kör olan adama gitti ve 'En çok neyi seversin?' diye sordu. O da, 'Allah, gözlerimi geri versin ki insanları görebileyim' dedi. Melek gözlerine dokundu ve Allah ona gözlerini geri verdi. Melek ona, 'En çok hangi tür mülkü seversin?' diye sordu. O da, 'Koyunları' dedi. Melek ona hamile bir koyun verdi. Daha sonra, üç hamile hayvan da yavruladı ve o kadar çoğaldılar ki, üç adamdan biri bir vadiyi dolduran develere, diğeri bir vadiyi dolduran ineklere, diğeri ise bir vadiyi dolduran koyun sürüsüne sahip oldu. Sonra melek, cüzamlı olanın şekline ve görünümüne bürünerek cüzamlıya gitti ve 'Ben yolda kalmış bir fakir adamım, geçim kaynağımı kaybettim. Beni yalnızca Allah ve sonra sen kurtarabilirsin. Sana, sana bu güzel rengi ve güzel cildi veren Allah'ın adıyla, bana bir deve vermeni istiyorum ki varış yerime ulaşabileyim.' Adam cevap verdi: 'Birçok yükümlülüğüm var (bu yüzden sana veremem).' Melek, 'Sanırım seni tanıyorum; sen, insanlara karşı büyük bir nefret besleyen bir cüzamlı değil miydin? Fakir bir adam değil miydin, sonra Allah sana (bu mülkü) verdi?' dedi. O da, 'Bunların hepsi yanlış; bu mülkü atalarımdan miras aldım' dedi. Melek, 'Eğer yalan söylüyorsan, Allah seni eski haline getirsin.' Sonra melek, kel olanın şekline ve görünümüne bürünerek kel adama gitti ve ona aynı şeyi söyledi; o da ilkinin verdiği gibi cevap verdi. Melek, 'Eğer yalan söylüyorsan, Allah seni eski haline getirsin.' Melek, kör olanın şekline bürünerek kör adama gitti ve 'Ben yolda kalmış bir fakir adamım, geçim kaynağım tükendi. Beni yalnızca Allah ve sonra sen kurtarabilirsin. Gözlerimi geri veren Allah'ın adıyla, bana bir koyun vermeni istiyorum ki onun yardımıyla yolculuğumu tamamlayabileyim.' Adam, 'Şüphesiz, ben kördüm ve Allah gözlerimi geri verdi; fakirdim ve Allah beni zengin yaptı; bu yüzden mülkümden istediğin her şeyi alabilirsin. Allah'a yemin ederim ki, senin Allah rızası için almanı engellemeyeceğim.' Melek, 'Mülkünü kendine sakla. Siz (yani üç adam) test edildiniz ve Allah sizden razı oldu ve iki arkadaşınızdan öfkelidir.'\""
+    },
+    {
+      "id": 132,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn Ömer'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Bir zamanlar üç kişi (önceki milletlerden) seyahat ediyordu ve aniden yağmur yağmaya başladı ve bir mağaraya sığındılar. Mağaranın girişi kapandı. Birbirlerine dediler ki: 'Ey siz! Sizi kurtaracak tek şey doğru olanıdır, bu yüzden her biri Allah'tan yardım istemelidir; her biri, samimi olarak yaptığını düşündüğü bir ameli referans almalıdır (yani yalnızca Allah'ın rızasını kazanmak için).' Biri şöyle dedi: 'Ey Allah! Biliyorsun ki benim bir işçim vardı, bana bir Faraq (yani üç Sas) pirinç karşılığında çalışıyordu, ama o gitti ve (ücretini) bıraktı. Ben o Faraq pirinci ektim ve onun ürününden inekler aldım. Daha sonra o bana geldi ve ücretini istediğinde, 'O ineklere git ve onları sür' dedim. O bana, 'Ama bana sadece bir Faraq pirinç vermen gerekiyor' dedi. Ben de ona, 'O ineklere git ve al, çünkü onlar o Faraqın ürünüdür' dedim. O da onları sürdü. Ey Allah! Eğer bunu senin korkunla yaptığımı düşünüyorsan, o zaman lütfen taşı kaldır.' Taş, mağaranın ağzından biraz kaydı. İkincisi şöyle dedi: 'Ey Allah! Biliyorsun ki benim yaşlı ebeveynlerim vardı ve her gece onlara koyunlarımın sütünü veriyordum. Bir gece geciktim ve geldiğimde, onlar uyuyorlardı, oysa karım ve çocuklarım açlıktan ağlıyordu. Ben onların (yani ailemin) önce içmelerine izin vermezdim. Bu yüzden onları uyandırmayı ve onların içmeden uyumalarını istemedim, sabaha kadar bekledim. Ey Allah! Eğer bunu senin korkunla yaptığımı düşünüyorsan, o zaman lütfen taşı kaldır.' Taş kaydı ve gökyüzünü görebildiler. (Üçüncü) kişi şöyle dedi: 'Ey Allah! Biliyorsun ki benim bir kuzenim (yani amcamın kızı) vardı ve o bana çok sevimliydi ve onu baştan çıkarmak istedim, ama o kabul etmedi, ancak bana yüz Dinar (yani altın parça) ödemem gerekti. Ben de parayı topladım ve ona getirdim, o da benimle birlikte olmayı kabul etti. Ama ben onun bacakları arasında oturduğumda, 'Allah'tan kork ve beni yasal olarak baştan çıkarma' dedi. Ben kalktım ve yüz Dinar'ı (ona) bıraktım. Ey Allah! Eğer bunu senin korkunla yaptığımı düşünüyorsan, o zaman lütfen taşı kaldır.' Böylece Allah onları kurtardı ve mağaradan çıktılar.\""
+    },
+    {
+      "id": 133,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Bir kadın çocuğunu emzirirken, bir binekli yanından geçti ve o da, 'Ey Allah! Çocuğumun bu (binekli) gibi olana kadar ölmesine izin verme' dedi. Çocuk, 'Ey Allah! Beni onun gibi yapma' dedi ve sonra annesinin memesine geri döndü (emmekte). (Bir süre sonra) bir kadın geçti ve insanlar tarafından çekiştiriliyordu ve eziyet ediliyordu. Çocuğun annesi, 'Ey Allah! Çocuğumu onun gibi yapma' dedi. Çocuk, 'Ey Allah! Beni onun gibi yap' dedi. Sonra şöyle dedi: 'Binekli kişi, bir kafir; oysa kadın, (yanlış bir şekilde) zina ile suçlanıyor ve o şöyle diyor: Allah bana yeter (Gerçeği bilir).\""
+    },
+    {
+      "id": 134,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Bir köpek bir kuyu etrafında dönüyordu ve susuzluktan ölmek üzereydi; bir İsrailoğlu fahişe onu gördü ve ayakkabısını çıkardı ve ona su verdi. Bu yüzden Allah onu bu iyi ameli nedeniyle affetti.\""
+    },
+    {
+      "id": 135,
+      "narrator": "Narrated Humaid bin `Abdur-Rahman:",
+      "text": "Hümeyd bin Abdurrahman'dan rivayet edilmiştir: O, Muaviye bin Ebu Süfyan'ın, Hac yaptığı yıl minberde konuştuğunu duydu. Bir görevlinin elinde bulunan bir tutam saçı aldı ve şöyle dedi: \"Ey Medineli insanlar! Bilgeleriniz nerede? Peygamber (ﷺ) böyle bir şeyi (yani sahte saç) yasakladığını duydum ve 'İsrailoğulları, kadınlarının bu alışkanlığı (saçlarını uzatmak için sahte saç kullanmaları) uyguladıklarında helak oldular' derdi.\""
+    },
+    {
+      "id": 136,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Sizden önceki insanlar arasında 'Muhaddithun' (yani, gelecekte gerçekleşecek şeyleri tahmin edebilen, sanki ilahi bir güç tarafından ilham almış gibi olan kişiler) vardı. Eğer benim takipçilerim arasında böyle biri varsa, o da Ömer bin Hattab'dır.\""
+    },
+    {
+      "id": 137,
+      "narrator": "Narrated Abu Sa`id Al-Khudri:",
+      "text": "Ebu Sa'id el-Hudri'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Beni İsrail'den bir adam, doksan dokuz kişiyi öldürmüştü. Sonra tövbesinin kabul edilip edilmeyeceğini sormak için yola çıktı. Bir rahibe rastladı ve tövbesinin kabul edilip edilmeyeceğini sordu. Rahip olumsuz yanıt verdi ve adam onu öldürdü. Sormaya devam etti, ta ki birisi ona şu köye gitmesini tavsiye edene kadar. (O da oraya gitti) ama yolda ölümü onu yakaladı. Ölürken, göğsünü o köye (tövbesinin kabul edileceğini umduğu yere) çevirdi, bunun üzerine merhamet melekleri ile azap melekleri arasında onunla ilgili tartışma çıktı. Allah, (gittiği) köyün kendisine daha yakın olmasını emretti ve (geldiği) köyün uzaklaşmasını emretti, sonra meleklerden bedeninin iki köye olan mesafesini ölçmelerini istedi. Böylece onun, (gittiği) köye bir arşın daha yakın olduğu bulundu. Böylece affedildi.\""
+    },
+    {
+      "id": 138,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Bir gün Allah'ın Elçisi (ﷺ) sabah namazını kıldırdıktan sonra insanlara döndü ve şöyle dedi: \"Bir adam bir inek sürüyordu, aniden üzerine bindi ve onu dövdü. İnek, 'Biz bunun için yaratılmadık, biz süt vermek için yaratıldık.' dedi. Bunun üzerine insanlar hayretle, 'Allah'ı tesbih ederiz! Bir inek konuşuyor!' dediler. Peygamber (ﷺ) dedi ki: 'Ben buna inanıyorum, ve Ebu Bekir ile Ömer de buna inanıyor, oysa ikisi de orada değildi. Bir kişi koyunlarının arasında iken bir kurt saldırdı ve bir koyunu aldı. Adam, koyunu kurtun elinden kurtarana kadar kovalamıştı, bunun üzerine kurt, 'Beni kurtardın; ama yaban hayvanları gününde, onları koruyacak kimse yokken, kim koruyacak?' dedi.\" İnsanlar hayretle, \"Allah'ı tesbih ederiz! Bir kurt konuşuyor!\" dediler. Peygamber (ﷺ) dedi ki: \"Ama ben buna inanıyorum, ve Ebu Bekir ile Ömer de buna inanıyor, oysa ikisi de orada değildi.\""
+    },
+    {
+      "id": 139,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Bir adam bir diğerinden bir arazi satın aldı ve alıcı, arazide altın dolu bir toprak testi buldu. Alıcı, satıcıya, 'Altınını al, çünkü ben sadece arazini senden satın aldım, ama altını senden satın almadım.' dedi. Arazinin (eski) sahibi, 'Ben sana araziyi içindeki her şeyle birlikte sattım.' dedi. İkisi de bir adama başvurdular, o da sordu: 'Çocuklarınız var mı?' Birisi, 'Bir oğlum var.' dedi. Diğeri, 'Bir kızım var.' dedi. Adam, 'Kızı oğlana evlendir ve parayı ikisine de harca, gerisini de sadaka ver.' dedi.\""
+    },
+    {
+      "id": 140,
+      "narrator": "Narrated Usama bin Zaid:",
+      "text": "Usame bin Zeyd'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Veba, bir grup İsrailoğulları (ya da sizden önceki bazı insanlar) üzerine gönderilen bir azap aracıdır. Eğer bir yerde yayıldığını duyarsanız, o yere yaklaşmayın; ve eğer bulunduğunuz bir yerde veba ortaya çıkarsa, o yerden kaçmak için orayı terk etmeyin.\""
+    },
+    {
+      "id": 141,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: (Peygamberin eşi) Ben, Allah'ın Elçisine (ﷺ) veba hakkında sordum. O da bana bunun, Allah'ın dilediği kimseler üzerine gönderdiği bir azap olduğunu ve Allah'ın bunu müminler için bir merhamet kaynağı kıldığını söyledi. Zira bir kişi, bir veba salgını sırasında sabırla kendi ülkesinde kalır ve Allah'ın mükafatını umarak, başına geleceklerin yalnızca Allah'ın yazdığı şeyler olduğuna inanırsa, şehitlik mükafatını alır.\""
+    },
+    {
+      "id": 142,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Kureyşliler, hırsızlık yapan Beni Makhzum'dan bir kadın hakkında endişelendiler. 'Onun için Allah'ın Elçisi (ﷺ) ile kim araya girecek?' diye sordular. Bazıları, 'Usame bin Zeyd'den başka kimse buna cesaret edemez.' dediler. Usame, bunu Allah'ın Elçisine (ﷺ) söylediğinde, Allah'ın Elçisi (ﷺ) ona, 'Allah'ın belirlediği cezalarla ilgili birisi için araya girmeye mi çalışıyorsun?' dedi. Sonra ayağa kalktı ve bir vaaz verdi: 'Sizden önceki milletleri helak eden şey, eğer aralarından soylu biri hırsızlık yaparsa onu affetmeleri, ama aralarından fakir biri hırsızlık yaparsa ona Allah'ın cezasını uygulamalarıydı. Allah'a yemin ederim ki, eğer Muhammed'in kızı Fatıma hırsızlık yapsa, onun elini keserdim.'\""
+    },
+    {
+      "id": 143,
+      "narrator": "Narrated Ibn Mas`ud:",
+      "text": "İbn Mes'ud'dan rivayet edilmiştir: Bir kişinin bir (Kur'an) ayetini belirli bir şekilde okuduğunu duydum ve ben de Peygamber (ﷺ) aynı ayeti farklı bir şekilde okurken duymuştum. Onu Peygamber (ﷺ)'e götürdüm ve ona bunu bildirdim ama yüzünde onaylamama işareti gördüm, sonra şöyle dedi: 'İkiniz de doğrusunuz, bu yüzden ayrılmayın; zira sizden önceki milletler ayrıldıkları için helak oldular.'\""
+    },
+    {
+      "id": 144,
+      "narrator": "Narrated `Abdullah:",
+      "text": "Abdullah'dan rivayet edilmiştir: Sanki Peygamber (ﷺ)'i, bir kavmin kendisini dövüp kanattığı bir peygamberden bahsederken gördüm, o da yüzündeki kanı temizlerken, 'Ya Rabbi! Kavmime bağışla, çünkü onlar bilmezler.' diyordu.\""
+    },
+    {
+      "id": 145,
+      "narrator": "Narrated Abu Sa`id:",
+      "text": "Ebu Sa'id'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Sizden önceki insanlar arasında, Allah'ın çok para verdiği bir adam vardı. Ölüm döşeğinde, oğullarını çağırdı ve 'Ben size ne tür bir baba oldum?' dedi. Onlar, 'İyi bir baba oldun.' dediler. O da, 'Ben hiç iyi bir iş yapmadım; bu yüzden öldüğümde beni yak, bedenimi eziyip, çıkan küllerimi rüzgarlı bir günde savur.' dedi. Oğulları bunu yaptılar, ama Allah onun parçalarını topladı ve ona, 'Bunu neden yaptın?' diye sordu. O da, 'Senden korktum.' dedi. Bunun üzerine Allah ona merhamet etti (affetti).\""
+    },
+    {
+      "id": 146,
+      "narrator": "Narrated Rabi` bin Hirash:",
+      "text": "Rabi' bin Hirash'tan rivayet edilmiştir: Ukbe, Hudeyfe'ye, \"Bize Allah'ın Elçisi (ﷺ)'nden duyduğun bir şeyi anlatmayacak mısın?\" dedi. Hudeyfe, \"Onun şöyle dediğini duydum: 'Ölüm bir adamın yaklaştı ve hayatta kalma umudu kalmadığında, ailesine, 'Öldüğümde, benim için çok odun toplayın ve bir ateş yapın (beni yakmak için). Ateş etimi yiyip kemiklerime ulaştığında, kemikleri alın ve sıcak (ya da rüzgarlı) bir günde denize serpin.' dedi. (Bu yapıldı.) Ama Allah onun parçalarını topladı ve ona, 'Bunu neden yaptın?' diye sordu. O da, 'Senden korktum.' dedi. Bunun üzerine Allah onu affetti.\""
+    },
+    {
+      "id": 147,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Abdül Malik'ten rivayet edilmiştir: Yukarıdaki gibi, \"Rüzgarlı bir günde.\" diyerek."
+    },
+    {
+      "id": 148,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Bir adam insanlara borç verirdi ve hizmetçisine, 'Eğer borçlu fakirse, onu affet, ki Allah da bizi affetsin.' derdi. Ölümünden sonra Allah ile karşılaştığında, Allah onu affetti.\""
+    },
+    {
+      "id": 149,
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Bir adam günah işlerdi ve ölüm ona geldiğinde, oğullarına, 'Öldüğümde beni yakın ve sonra beni ezin, küllerimi havaya saçın, çünkü Allah'a yemin ederim ki, eğer Allah benim üzerimde bir kontrol sahibi olursa, bana daha önce hiç kimseye vermediği bir azap verecektir.' O öldüğünde, oğulları bunu yaptılar. Allah, yeryüzüne, 'Onun parçalarını topla.' dedi. Yeryüzü de bunu yaptı ve bakın! Orada (adam) duruyordu. Allah ona, 'Bunu neden yaptın?' diye sordu. O da, 'Ya Rabbi! Senden korktum.' dedi. Bunun üzerine Allah onu affetti.\" Başka bir rivayet eden, \"Adam, 'Senden korktum, Ya Rabbi!' dedi.\" dedi."
+    },
+    {
+      "id": 150,
+      "narrator": "Narrated Abu Masud `Uqba:",
+      "text": "Abdullah bin Ömer'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Bir kadın, bir kediyi hapsedip öldürdüğü için cezalandırıldı. O, bunun yüzünden (Cehennem) ateşine girdi; çünkü ona ne yiyecek verdi ne de su, onu serbest bırakıp yerden böcek yemesine izin vermedi.\""
+    },
+    {
+      "id": 151,
+      "narrator": "Narrated Abu Mus'ud:",
+      "text": "Abu Mus'ud'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"İnsanların sahip olduğu peygamberlerden biri şöyle demiştir: 'Eğer utanmıyorsanız, o zaman istediğinizi yapın.'\""
+    },
+    {
+      "id": 152,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn `Umar'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Bir adam yürürken, elbisesini gururla sürükleyerek, yer tarafından yutulmasına sebep oldu ve Kıyamet Günü'ne kadar orada batmaya devam edecektir.\""
+    },
+    {
+      "id": 153,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Biz sonuncularız (gelenler) ama Kıyamet Günü'nde önde olacağız, bizden önceki milletlere Kitap (yani Vahiy) verilmişti, ve biz onlardan sonra Kutsal Kitap'ı aldık. Bu (yani Cuma) hakkında ihtilaf ettiler. O yüzden bir sonraki gün (yani Cumartesi) Yahudilere, ondan sonraki gün (yani Pazar) Hristiyanlara farz kılındı. Her Müslümanın, her yedi günde en az bir kez bir Günde (yani Cuma) başını ve bedenini yıkaması vaciptir.\""
+    },
+    {
+      "id": 154,
+      "narrator": "Narrated Sa`id bin Al-Musaiyab:",
+      "text": "Sa`id bin Al-Musaiyab'dan rivayet edilmiştir: Muaviye bin Ebu Süfyan Medine'ye son kez geldiğinde, bizim önümüzde bir hutbe verdi. Bir tutam saç çıkardı ve şöyle dedi: \"Yahudiler dışında birinin böyle bir şey yapacağını (yani sahte saç kullanacağını) hiç düşünmemiştim. Peygamber (ﷺ) bu tür bir uygulamayı 'Az-Zur' (yani yalan) olarak adlandırdı,\" sahte saç kullanımını kastederek."
+    }
+  ]
+}

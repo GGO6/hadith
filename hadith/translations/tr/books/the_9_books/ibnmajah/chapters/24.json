@@ -1,0 +1,661 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 129,
+    "arabic": {
+      "title": "سنن ابن ماجه",
+      "author": "الإمام محمد بن يزيد ابن ماجه"
+    },
+    "english": {
+      "title": "Sunan Ibn Majah",
+      "author": "Imam Muhammad ibn Yazid Ibn Majah"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "It was\nnarrated from Abu Hurairah that the Messenger of Allah (ﷺ)\nsaid:",
+      "text": "Abu Hurayra'dan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle buyurmuştur: “Allah, O'nun yolunda (savaşmak için) çıkanlara bir (mükafat) hazırlamıştır: ‘Ve yalnızca benim yolumda, bana iman ederek ve elçilerime inanarak (savaşmak için) çıkmayın; fakat O'ndan bir garanti vardır ki, ben onu cennete kabul edeceğim ya da çıktığı yerden, elde ettiği mükafatla veya kazandığı ganimetle geri döndüreceğim.’ Sonra şöyle dedi: ‘Canım elinde olan Allah'a yemin ederim ki, eğer Müslümanlar için çok zor olmasaydı, Allah yolunda çıkan hiçbir seferden geri kalmazdım. Ama onlara binek temin edecek kaynakları bulamadım ve onlar da beni takip etmek için kaynak bulamadılar, ayrıca ben gittiğimde geride kalmaktan hoşnut olmayacaklardı. Canım elinde olan Allah'a yemin ederim ki, Allah yolunda savaşmayı ve öldürülmeyi, sonra tekrar savaşmayı ve öldürülmeyi, sonra yine savaşmayı ve öldürülmeyi çok isterdim.’”"
+    },
+    {
+      "id": 2,
+      "narrator": "It was\nnarrated from Abu Sa’eed Al-Khudri that the Prophet (ﷺ)\nsaid:",
+      "text": "Ebu Sa'id el-Hudri'den rivayet edilmiştir ki, Peygamber (ﷺ) şöyle buyurmuştur: “Allah yolunda savaşan kişinin Allah'tan bir garantisi vardır. Ya O, onu affı ve merhametiyle yükseltecek ya da onu mükafat ve savaş ganimetiyle geri gönderecektir. Allah yolunda savaşan kişinin benzeri, sürekli oruç tutan ve gece namaz kılan birine benzer, ta ki geri dönene kadar.”"
+    },
+    {
+      "id": 3,
+      "narrator": "It was\nnarrated from Abu Hurairah that the Messenger of Allah (ﷺ)\nsaid:",
+      "text": "Abu Hurayra'dan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle buyurmuştur: “Sabahın erken saatlerinde Allah yolunda çıkmak veya akşam saatlerinde çıkmak, dünya ve içindekilerden daha faziletlidir.”"
+    },
+    {
+      "id": 4,
+      "narrator": "It was\nnarrated from Sahl bin Sa’d As-Sa’idi that the Messenger of\nAllah\n(ﷺ) said:",
+      "text": "Sahl bin Sa'd as-Sa'idi'den rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle buyurmuştur: “Sabahın erken saatlerinde Allah yolunda çıkmak veya akşam saatlerinde çıkmak, dünya ve içindekilerden daha hayırlıdır.”"
+    },
+    {
+      "id": 5,
+      "narrator": "It was\nnarrated from Anas bin Malik that the Messenger of Allah (ﷺ)\nsaid:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle buyurmuştur: “Sabahın erken saatlerinde Allah yolunda çıkmak veya akşam saatlerinde çıkmak, dünya ve içindekilerden daha hayırlıdır.”"
+    },
+    {
+      "id": 6,
+      "narrator": "It was\nnarrated that ‘Umar bin Khattab said:",
+      "text": "'Umar bin Khattab'dan rivayet edilmiştir ki, “Allah'ın Resulü (ﷺ) şöyle buyurdu: ‘Kim Allah yolunda bir savaşçıyı tam donanımlı hale getirene kadar donatırsa, o kişi ölünceye veya geri dönünceye kadar onun mükafatı kendisine verilecektir.’”"
+    },
+    {
+      "id": 7,
+      "narrator": "It was\nnarrated from Zaid bin Khalid Al-Juhani that the Messenger of\nAllah\n(ﷺ) said:",
+      "text": "Zaid bin Khalid el-Cuhani'den rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle buyurmuştur: “Kim Allah yolunda bir savaşçıyı donatırsa, onun mükafatı kendisine verilecektir; bu, savaşçının mükafatından hiçbir şekilde eksiltmeyecektir.”"
+    },
+    {
+      "id": 8,
+      "narrator": "It was\nnarrated from Thawban that the Messenger of Allah (ﷺ) said:",
+      "text": "Thawban'dan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle buyurmuştur: “Bir adamın harcayabileceği en iyi Dinar, ailesine harcadığı Dinar, Allah yolunda bir ata harcadığı Dinar ve Allah yolunda arkadaşlarına harcadığı Dinar'dır.”"
+    },
+    {
+      "id": 9,
+      "narrator": "It was\nnarrated from ‘Ali bin Abu Talib, Abu Darda’, Abu Hurairah, Abu\nUmamah Al-Bahili, ‘Abdullah bin ‘Umar, ‘Abdullah bin ‘Amr,\nJabir bin\n‘Abdullah and ‘Imran bin Husain, all of them narrating\nthat the\nMessenger of Allah (ﷺ) said:",
+      "text": "'Ali bin Ebu Talib, Ebu Darda', Ebu Hurayra, Ebu Umame el-Bahili, Abdullah bin 'Umar, Abdullah bin 'Amr, Cabir bin Abdullah ve İmrân bin Hüseyin'den rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle buyurmuştur: “Kim Allah yolunda maddi destek gönderirse ve evde kalırsa, her bir Dirhem için yedi yüz Dirhem mükafatı olacaktır. Kim Allah yolunda kendisi savaşır ve buna harcama yaparsa, her bir Dirhem için yedi yüz bin Dirhem mükafatı olacaktır.” Sonra şu ayeti okudu: “Allah, dilediğine kat kat artırır.”"
+    },
+    {
+      "id": 10,
+      "narrator": "It was\nnarrated from Abu Umamah that the Prophet (ﷺ) said:",
+      "text": "Ebu Umame'den rivayet edilmiştir ki, Peygamber (ﷺ) şöyle buyurmuştur: “Kim savaşmaz, ya da bir savaşçıyı donatmaz, ya da bir savaşçının ailesine bakmak için geride kalmazsa, Allah onu Kıyamet Günü'nden önce bir belayla vuracaktır.”"
+    },
+    {
+      "id": 11,
+      "narrator": "It was\nnarrated from Abu Hurairah that the Messenger of Allah (ﷺ)\nsaid:",
+      "text": "Abu Hurayra'dan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle buyurmuştur: “Kim Allah'a, O'nun yolunda (savaşma) izni olmadan, üzerinde bir iz olmadan (savaşmadan) kavuşursa, O'na bir eksiklikle kavuşacaktır.”"
+    },
+    {
+      "id": 12,
+      "narrator": "It was\nnarrated that Anas bin Malik said:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir ki, “Allah'ın Resulü (ﷺ) Tabuk seferinden dönerken ve Medine'ye yaklaşırken şöyle dedi: ‘Medine'de, siz vadileri geçerken sizinle birlikte olan insanlar var.’ Onlar: ‘Ey Allah'ın Resulü, onlar Medine'de mi?’ dediler. O: ‘Evet, Medine'de. Onlar (geçerli) mazeretlerle geride kaldılar.’”"
+    },
+    {
+      "id": 13,
+      "narrator": "It was\nnarrated from Jabir that the Messenger of Allah (ﷺ) said:",
+      "text": "Cabir'den rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle buyurmuştur: “Medine'de, her seferde bir vadiyi geçtiğinizde veya bir yolda yol aldığınızda, sizinle birlikte mükafata ortak olan insanlar vardır. Onlar (geçerli) mazeretlerle geride kaldılar.”"
+    },
+    {
+      "id": 14,
+      "narrator": "It was\nnarrated that ‘Abdullah bin Zubair said:",
+      "text": "Abdullah bin Zubair'den rivayet edilmiştir ki, “Osman bin Affan halka hitap etti ve şöyle dedi: ‘Ey insanlar! Ben Allah'ın Resulü'nden bir Hadis duydum ve onu size aktarmaktan alıkoyan tek şey, sizi ve arkadaşlığınızı kaybetmek istememdir. Bu yüzden bu size kalmış. Allah'ın Resulü (ﷺ) şöyle buyurdu: “Kim Allah yolunda sınırda bir gece nöbet tutarsa, bu, bin gece oruç tutmak ve namaz kılmak gibidir.”"
+    },
+    {
+      "id": 15,
+      "narrator": "It was\nnarrated from Abu Hurairah that the Messenger of Allah (ﷺ)\nsaid:",
+      "text": "Abu Hurayra'dan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle buyurmuştur: “Kim Allah yolunda hazırlanmış olarak ölürse, yaptığı hayırlı amellerden sürekli mükafat alacaktır ve ona rızık verilecektir, Fattan'dan korunacaktır ve Allah, Kıyamet Günü'nde onu korkusuz olarak kaldıracaktır.”"
+    },
+    {
+      "id": 16,
+      "narrator": "It was\nnarrated that Ubayy bin Ka’b said:",
+      "text": "Ubayy bin Ka'b'dan rivayet edilmiştir: \"Allah'ın Elçisi (ﷺ) şöyle buyurdu: 'Allah yolunda bir gün sınırı korumanın, Müslümanları savunmanın, ödül arayışının, Ramazan ayı dışında, yüz yıl ibadet etmekten, oruç tutmaktan ve namaz kılmaktan daha büyük bir mükafatı vardır. Allah yolunda bir gün sınırı korumak, Müslümanları savunmak, ödül arayışı içinde, Ramazan ayında, Allah katında daha hayırlıdır ve daha büyük bir mükafat getirir' - sanırım şöyle dedi - 'bin yıl ibadet etmekten, oruç tutmaktan ve namaz kılmaktan daha hayırlıdır. Eğer Allah onu ailesine sağ salim döndürürse, bin yıl boyunca onun için hiçbir kötü iş kaydedilmeyecek, fakat onun iyi amelleri kaydedilecektir ve sınırı korumanın mükafatı, Kıyamet Günü'ne kadar ona ulaşacaktır.\""
+    },
+    {
+      "id": 17,
+      "narrator": "It was\nnarrated from ‘Uqbah bin ‘Amir Al-Juhani that the Messenger of\nAllah (ﷺ) said:",
+      "text": "'Uqbah bin 'Amir Al-Juhani'den rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurdu: \"Askerlerin başında nöbet tutan kimseye Allah merhamet etsin.\""
+    },
+    {
+      "id": 18,
+      "narrator": "It was\nnarrated that Sa’eed bin Khalid bin Abu Tuwail said:",
+      "text": "Sa’eed bin Khalid bin Abu Tuwail'den rivayet edilmiştir: Anas bin Malik'in şöyle dediğini duydum: \"Allah'ın Elçisi (ﷺ) şöyle buyurdu: 'Allah yolunda bir gece nöbet tutmak, ailesinin yanında bin yıl oruç tutup namaz kılan bir adamdan daha hayırlıdır. Bir yıl üç yüz altmış gündür ve bir gün bin yıl gibidir.'\""
+    },
+    {
+      "id": 19,
+      "narrator": "It was\nnarrated from Abu Hurairah that the Messenger of Allah (ﷺ)\nsaid to\na man:",
+      "text": "Abu Hurairah'tan rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) bir adama şöyle dedi: \"Sana Allah'tan korkmanı ve her yüksek yerde Tekbir (Allahu Akbar) getirmeni tavsiye ediyorum.\""
+    },
+    {
+      "id": 20,
+      "narrator": "It was\nnarrated from Hammad bin Zaid from Thabit, that the Prophet\n(ﷺ) was\nmentioned before Anas bin Malik and he said:",
+      "text": "Hammad bin Zaid'den, Thabit aracılığıyla rivayet edilmiştir ki, Anas bin Malik'in yanında Peygamber (ﷺ) anıldığında şöyle dedi: \"O, insanların en hayırlısı, en cömert olanı, en cesur olanıydı. Al-Medine halkı bir gece korkuya kapıldığında, onlardan ilk olarak gürültüyü araştırmaya giden oydu. Abu Talha'nın atına, eyer olmadan, çıplak sırtla bindi. Kılıcı boynundan sarkıyordu ve 'Ey insanlar, korkmayın' diyerek onları evlerine geri gönderiyordu. Sonra at hakkında, 'Onu bir deniz gibi bulduk' ya da 'O bir denizdir' dedi.\""
+    },
+    {
+      "id": 21,
+      "narrator": "It was\nnarrated from Ibn ‘Abbas that the Prophet (ﷺ) said:",
+      "text": "İbn 'Abbas'tan rivayet edilmiştir ki, Peygamber (ﷺ) şöyle buyurdu: \"Silah çağrıldığında, ileri çıkın.\""
+    },
+    {
+      "id": 22,
+      "narrator": "It was\nnarrated from Abu Hurairah that the Prophet (ﷺ) said:",
+      "text": "Abu Hurairah'tan rivayet edilmiştir ki, Peygamber (ﷺ) şöyle buyurdu: \"Allah yolundaki toz ve Cehennem dumanı, bir Müslümanın içinde asla birleşmeyecektir.\""
+    },
+    {
+      "id": 23,
+      "narrator": "It was\nnarrated from Anas bin Malik that the Messenger of Allah (ﷺ)\nsaid:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurdu: \"Allah yolunda çıkan kimse, Kıyamet Günü'nde üzerine düşen toz kadar misk ile mükafatlandırılacaktır.\""
+    },
+    {
+      "id": 24,
+      "narrator": "It was\nnarrated from Anas bin Malik that his maternal aunt Umm Harim\nbint\nMilhan said:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir ki, annesi Umm Harim bint Milhan şöyle dedi: \"Bir gün Allah'ın Elçisi (ﷺ) yanımda uyudu, sonra gülümseyerek uyandı. Ben de: 'Ey Allah'ın Elçisi, seni ne güldürdü?' dedim. O da: 'Rüyamda, benim ümmetimden bazı kimseler, bu deniz üzerinde tahtlar üzerinde krallar gibi biniyorlardı' dedi. Ben de: 'Allah'a dua et, beni onlardan eylesin.' O da onun için dua etti. Sonra tekrar uyudu, aynı şekilde yaptı, ben de daha önce söylediğim gibi söyledim, o da aynı şekilde cevap verdi. Ben: 'Allah'a dua et, beni onlardan eylesin,' dedim, o da: 'Sen ilklerden olacaksın' dedi. Sonra o, kocası 'Ubadah bin Samit ile birlikte, Müslümanların Mu’awiyah bin Abu Sufyan ile denizi geçtiği ilk seferde savaşçı olarak çıktı. Savaşlarını bitirdikten sonra dönerken Şam'da durdular. Onun bindiği bir hayvan getirildi, ama onu attı ve o da öldü.\""
+    },
+    {
+      "id": 25,
+      "narrator": "It was\nnarrated from Abu Darda’ that the Messenger of Allah (ﷺ)\nsaid:",
+      "text": "Abu Darda'dan rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurdu: \"Deniz yoluyla yapılan bir sefer, kara yoluyla yapılan on sefere eşittir. Deniz tutması çeken kimse, Allah yolunda kendi kanında ıslanmış olan kimse gibidir.\""
+    },
+    {
+      "id": 26,
+      "narrator": "It was\nnarrated that Sulaim bin ‘Amr said:",
+      "text": "Sulaim bin 'Amr'dan rivayet edilmiştir ki, Abu Umamah'ın şöyle dediğini duydum: \"Allah'ın Elçisi (ﷺ) şöyle buyurdu: 'Denizde şehit olan, karada iki şehit gibidir ve deniz tutması çeken, karada kendi kanında ıslanmış olan kimse gibidir. Bir dalga ile diğer dalga arasındaki zaman, Allah'a itaatle geçirilen bir ömür gibidir. Allah, Azrail'i ruhları almakla görevlendirmiştir, ancak denizdeki şehit için, Allah kendisi onların ruhlarını alır. Karadaki şehitlerin tüm günahlarını affeder, ancak borç hariç; ama denizdeki şehidin tüm günahlarını ve borcunu affeder.'\""
+    },
+    {
+      "id": 27,
+      "narrator": "It was\nnarrated from Abu Hurairah that the Messenger of Allah (ﷺ)\nsaid:",
+      "text": "Abu Hurairah'tan rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurdu: \"Eğer bu dünyada sadece bir gün kalsa bile, Allah onu, benim ailemden bir adam Dailam ve Konstantinopolis dağını ele geçirene kadar uzatır.\""
+    },
+    {
+      "id": 28,
+      "narrator": "It was\nnarrated from Anas bin Malik that the Messenger of Allah (ﷺ)\nsaid:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurdu: \"Ufuklar size açılacak ve Qazvin adında bir şehri fethedeceksiniz. Orada kırk gün veya kırk gece kalan kimse, cennette altın sütunlara sahip olacak, yeşil zümrütlerle süslenecek ve üzerine yakut bir kubbe olacak. Orada yetmiş bin kapı olacak, her kapıda gözleri büyük hurilerden bir eş olacak.'\""
+    },
+    {
+      "id": 29,
+      "narrator": "It was\nnarrated that Mu’awiyah bin Jahimah As-Sulaimi said:",
+      "text": "Mu’awiyah bin Jahimah As-Sulaimi'den rivayet edilmiştir ki, \"Ben Allah'ın Elçisi (ﷺ) yanına geldim ve dedim: 'Ey Allah'ın Elçisi, seninle cihad etmek istiyorum, bununla Allah'ın rızasını ve ahireti arıyorum.' O da: 'Vay haline! Annen hâlâ hayatta mı?' dedi. Ben: 'Evet.' dedi. O: 'Geri dön ve ona hürmet et.' Sonra ben ona diğer taraftan yaklaştım ve dedim: 'Ey Allah'ın Elçisi, seninle cihad etmek istiyorum, bununla Allah'ın rızasını ve ahireti arıyorum.' O da: 'Vay haline! Annen hâlâ hayatta mı?' dedi. Ben: 'Evet.' dedim. O: 'Geri dön ve ona hürmet et.' Sonra ben önünden yaklaştım ve dedim: 'Ey Allah'ın Elçisi, seninle cihad etmek istiyorum, bununla Allah'ın rızasını ve ahireti arıyorum.' O da: 'Vay haline! Annen hâlâ hayatta mı?' dedi. Ben: 'Evet.' dedim. O: 'Geri dön ve ona hizmet et, çünkü cennet oradadır.'\""
+    },
+    {
+      "id": 30,
+      "narrator": "It was\nnarrated that ‘Abdullah bin ‘Amr said:",
+      "text": "Başka bir isnad benzer bir hadisi aktarmaktadır."
+    },
+    {
+      "id": 31,
+      "narrator": "It was\nnarrated that Abu Musa said:",
+      "text": "Abu Musa'nın rivayet ettiğine göre: “Peygamber (ﷺ) bir adamın cesaretini kanıtlamak için, ya da yakın akrabaları için gurur ve onur duyarak, ya da gösteriş yapmak için savaştığı soruldu. Allah'ın Elçisi (ﷺ) şöyle dedi: 'Allah'ın kelimesi yüceltilsin diye savaşan kimse, Allah yolunda savaşan kişidir.'”"
+    },
+    {
+      "id": 32,
+      "narrator": "It was\nnarrated that Abu ‘Uqbah, who was the freed slave of some\nPersian\npeople, said:",
+      "text": "Bazı Perslerin azatlı kölesi olan Abu ‘Uqbah şöyle dedi: “Uhud Günü Peygamber (ﷺ) ile birlikteydim. Putperestlerden birine vurup: 'Al bunu! Ben bir Pers kölesiyim!' dedim. Bu haber Peygamber (ﷺ)'e ulaştı ve: 'Neden: “Al bunu! Ben bir Ensar kölesiyim!” demedin?' dedi.”"
+    },
+    {
+      "id": 33,
+      "narrator": "‘Abdullah bin ‘Amr said:",
+      "text": "Abdullah bin ‘Amr şöyle dedi: “Peygamber (ﷺ)'in şöyle dediğini duydum: 'Allah yolunda savaşan ve ganimet elde eden hiçbir savaşçı grubu yoktur ki, onlara ödüllerinin üçte ikisi verilmesin; eğer ganimet elde etmezlerse, o zaman ahirette tam ödüllerini alacaklardır.'”"
+    },
+    {
+      "id": 34,
+      "narrator": "It was\nnarrated from ‘Urwah Al-Bariqi that the Messenger of Allah\n(ﷺ)\nsaid:",
+      "text": "‘Urwah Al-Bariqi'den rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle dedi: “İyilik, atların yelelerine kadar bağlıdır, Kıyamet Günü'ne kadar.”"
+    },
+    {
+      "id": 35,
+      "narrator": "It was\nnarrated from ‘Abdullah bin ‘Umar that the Messenger of Allah\n(ﷺ) said:",
+      "text": "Abdullah bin ‘Umar'dan rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle dedi: “Atların yelelerinde iyilik vardır, Kıyamet Günü'ne kadar.”"
+    },
+    {
+      "id": 36,
+      "narrator": "It was\nnarrated from Abu Hurairah that the Messenger of Allah (ﷺ)\nsaid:",
+      "text": "Abu Hurairah'tan rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle dedi: “Atların yelelerinde iyilik vardır” – ya da şöyle dedi: “Atların yelelerinde bağlı olan iyilik vardır.” Suhail (rivayet edenlerden biri) şöyle dedi: “Ben kesin değilim” – “Kıyamet Günü'ne kadar. Atlar üç türdür: bir adam için sevap getirenler, bir adam için koruma aracı olanlar ve bir adam için günah yükü olanlar. Sevap getirenler, bir adam onları Allah yolunda tutar ve sürekli olarak cihada hazır tutar; bu yüzden onların karnına hiçbir yem girmediği halde, onun için sevap yazılır. Eğer onları meraya çıkarırsa, hiçbir şey yemediği halde onun için sevap yazılır. Eğer onlara akan bir nehirden içirirse, karnına giren her damla için sevap yazılır,” (devam ederek) onların idrarı ve dışkılarıyla birlikte sevap yazılacağını ve hatta kendiliğinden burada ve orada koşarken, her adım attıklarında onun için sevap yazılacağını belirtti – 'Koruma aracı olanlar, bir adam onları onur ve süs kaynağı olduğu için tutar, ama onların sırtlarının ve karınlarının haklarını (yani, fazla çalıştırılmamaları ve beslenme hakları) unutmaz; zorluk veya kolaylık zamanlarında. Günah yükü olanlar ise, onları yanlış amaçlar için veya insanlara karşı gösteriş yapmak için tutan kimse, onlara bir günah yükü getirir.'”"
+    },
+    {
+      "id": 37,
+      "narrator": "It was\nnarrated from Abu Qatadah Al-Ansari that the Messenger of\nAllah (ﷺ)\nsaid:",
+      "text": "Abu Qatadah Al-Ansari'den rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle dedi: “Atların en iyileri, derin siyah olanlardır; alınlarında alev, bacaklarında beyaz lekeler, burunlarında ve üst dudaklarında beyazlık olanlar ve sağ ön bacaklarında beyazlık olmayanlardır. Eğer derin siyah değilse, o zaman kızıl-kahverengi, bu işaretlerle olmalıdır.”"
+    },
+    {
+      "id": 38,
+      "narrator": "It was\nnarrated that Abu Hurairah said:",
+      "text": "Abu Hurairah'tan rivayet edilmiştir ki, Peygamber (ﷺ) üç beyaz lekesi olan atları ve vücudunun geri kalanıyla aynı renkte bir bacağı olan atları sevmezdi."
+    },
+    {
+      "id": 39,
+      "narrator": "It was\nnarrated that Tamim Ad-Dari said:",
+      "text": "Tamim Ad-Dari şöyle dedi: “Allah'ın Elçisi (ﷺ)'nin şöyle dediğini duydum: 'Kim Allah yolunda bir atı bağlayıp, kendi eliyle ona yem verirse, her bir tanesi için bir sevap alır.'”"
+    },
+    {
+      "id": 40,
+      "narrator": "Mu’adh\nbin Jabal narrated that he heard the Prophet (ﷺ) say:",
+      "text": "Mu’adh bin Cebel, Peygamber (ﷺ)'in şöyle dediğini rivayet etti: “Bir deve sütü sağma süresi arasında Allah yolunda savaşan her Müslüman, Cennet ile garantilidir.”"
+    },
+    {
+      "id": 41,
+      "narrator": "It was\nnarrated that Anas bin Malik said:",
+      "text": "Anas bin Malik şöyle dedi: “Bir savaşta bulundum, Abdullah bin Rawahah şöyle dedi: Ey canım! Cennete gitmek istemediğini görüyorum. Allah'a yemin ederim ki, kesinlikle oraya gireceksin, ister gönüllü ister gönülsüz.”"
+    },
+    {
+      "id": 42,
+      "narrator": "It was\nnarrated that ‘Amr bin ‘Abasah said:",
+      "text": "Amr bin ‘Abasah şöyle dedi: “Peygamber (ﷺ)'e geldim ve: 'Ey Allah'ın Elçisi, en iyi cihad hangisidir?' dedim. O da: 'Kanı dökülen ve atı yaralanan bir adamın cihadıdır.' dedi.”"
+    },
+    {
+      "id": 43,
+      "narrator": "It was\nnarrated from Abu Hurairah that the Messenger of Allah (ﷺ)\nsaid:",
+      "text": "Abu Hurairah'tan rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle dedi: “Allah yolunda yaralanan kimse yoktur – ve Allah, O'nun yolunda yaralananları en iyi bilendir – ki, Kıyamet Günü yaraları, yaralandığı günkü gibi görünecek; renkleri kan rengi olacak ama kokuları misk kokusu olacaktır.”"
+    },
+    {
+      "id": 44,
+      "narrator": "Isma’il\nbin Abu Khalid said:",
+      "text": "İsmail bin Abu Khalid şöyle dedi: “Abdullah bin Abu Awfa'nın şöyle dediğini duydum: 'Allah'ın Elçisi (ﷺ) Ahzab'a (Konfederasyonlar) karşı Allah'a dua etti ve şöyle dedi: 'Ey Allah, Kitabı indiren ve hesapta acele eden, Ahzab'ı helak et. Ey Allah, onları helak et ve sars.'”"
+    },
+    {
+      "id": 45,
+      "narrator": "Sahl bin\nAbu Umamah bin Sahl bin Hunaif narrated from his father,\nfrom his\ngrandfather that the Prophet (ﷺ) said:",
+      "text": "Sahl bin Abu Umamah bin Sahl bin Hunaif, babasından, dedesinden rivayet etti ki, Peygamber (ﷺ) şöyle dedi: “Kim Allah'tan şehitlik isterse, kalbinden samimi olarak, Allah onu şehitlerin mertebesine ulaştırır, hatta o kendi yatağında ölse bile.”"
+    },
+    {
+      "id": 46,
+      "narrator": "It was\nnarrated from Abu Hurairah:",
+      "text": "Abu Hurayra'dan rivayet edilmiştir: “Şehitlerin anılması, Peygamber (ﷺ) huzurunda yapıldı ve o şöyle dedi: ‘Şehidin kanı döküldükten sonra, yeryüzü onun iki eşinin yanına koşmadan kuruyamaz; onlar, çorak bir arazide yavrularını kaybeden iki süt anne gibi koşacaklar ve her birinin elinde, bu dünya ve içindekilerden daha hayırlı bir Hullah* olacak.’”"
+    },
+    {
+      "id": 47,
+      "narrator": "It was\nnarrated from Miqdam bin Ma’dikarib that the Messenger of\nAllah\n(ﷺ) said:",
+      "text": "Mikdam bin Ma’dikarib'den rivayet edilmiştir ki, Allah'ın Messenger'ı (ﷺ) şöyle buyurdu: “Şehidin Allah katında altı şeyi vardır: Dökülen ilk kan damlasından affedilir; cennetteki yeri gösterilir; kabir azabından korunur; Büyük Korkudan emniyette olur; iman elbisesi ile süslenir; gözleri güzel hurilerden (eşler) ile evlendirilir; ve yetmiş akrabası için şefaat etmesine izin verilir.”"
+    },
+    {
+      "id": 48,
+      "narrator": "It was\nnarrated from Jabir bin ‘Abdullah:",
+      "text": "Jabir bin Abdullah'dan rivayet edilmiştir: “'Abdullah bin 'Amr bin Haram, Uhud Günü'nde öldürüldüğünde, Allah'ın Messenger'ı (ﷺ) şöyle dedi: ‘Ey Jabir, Allah'ın babana ne söylediğini sana bildirmeyeyim mi?’ Ben de: ‘Evet.’ dedim. O şöyle dedi: ‘Allah, hiç kimseyle perde arkasından konuşmaz, ama babanla yüz yüze konuştu ve şöyle dedi: “Ey kulum, benden ne dilersen, sana vereceğim.” O da: “Ey Rabbim, beni tekrar hayata döndür ki, senin yolunda bir kez daha öldürüleyim.” dedi. Allah: “Onların (ölümden sonra) geri dönmeyeceklerine dair hükmü ben verdim.” dedi. O da: “Ey Rabbim, geride bıraktıklarıma (halim hakkında) müjdeyi ilet.” dedi. Bunun üzerine Allah bu Ayeti indirdi: ‘Allah yolunda öldürülenleri ölü sanmayın.’”"
+    },
+    {
+      "id": 49,
+      "narrator": "It was\nnarrated from ‘Abdullah concerning the Verse:",
+      "text": "Abdullah'dan, “Allah yolunda öldürülenleri ölü sanmayın. Hayır, onlar Rabbleri katında diridirler ve rızıklanmaktadırlar.” ayeti hakkında rivayet edilmiştir ki, o şöyle dedi: “Bunu sorduk ve (Peygamber (ﷺ)) şöyle dedi: ‘Onların ruhları, cennette istedikleri yere uçan yeşil kuşlar gibidir, sonra Taht'tan asılı lambalara geri dönerler. O haldeyken, Rabbin onlara baktı ve ‘Benden ne isterseniz isteyin.’ dedi. Onlar da: ‘Ey Rabbimiz, cennette istediğimiz yere uçabiliyorken, sana ne istemeliyiz?’ dediler. Bir şey istemeden bırakılmayacaklarını görünce, ‘Ruhlarımızı dünyada bedenlerimize geri döndürmeni istiyoruz ki, senin yolunda (bir kez daha) savaşalım.’ dediler. O da, başka bir şey istemeyeceklerini görünce, bırakıldılar.’”"
+    },
+    {
+      "id": 50,
+      "narrator": "It was\nnarrated from Abu Hurairah that the Messenger of Allah (ﷺ)\nsaid:",
+      "text": "Abu Hurayra'dan rivayet edilmiştir ki, Allah'ın Messenger'ı (ﷺ) şöyle dedi: “Şehit, öldürüldüğünde, sizden birinin bir böcek tarafından hafifçe ısırıldığında hissettiğinden daha fazla bir şey hissetmez.”"
+    },
+    {
+      "id": 51,
+      "narrator": "It was\nnarrated from ‘Abdullah bin ‘Abdullah bin Jabir bin ‘Atik, from\nhis father, that his grandfather fell sick and the Prophet (ﷺ) came\nto visit him. One of his family members said:",
+      "text": "Abdullah bin Abdullah bin Jabir bin 'Atik'ten, babasından rivayet edilmiştir ki, dedesi hastalandı ve Peygamber (ﷺ) onu ziyarete geldi. Aile üyelerinden biri: “Onun, Allah yolunda şehit olarak vefat etmesini umuyorduk.” dedi. Allah'ın Messenger'ı (ﷺ) şöyle dedi: “O zaman benim ümmetimin şehitleri az olur. Allah yolunda öldürülmek şehitliktir; veba nedeniyle ölmek şehitliktir; hamile bir kadının doğum sırasında ölmesi şehitliktir; boğulmak, yanmak veya plevra hastalığından ölmek de şehitliktir.”"
+    },
+    {
+      "id": 52,
+      "narrator": "It was\nnarrated from Abu Hurairah that the Prophet (ﷺ) said:",
+      "text": "Abu Hurayra'dan rivayet edilmiştir ki, Peygamber (ﷺ) şöyle dedi: “Sizler, şehit hakkında ne diyorsunuz?” Onlar: “Allah yolunda öldürülen.” dediler. O: “O zaman benim ümmetimde şehitler az olur. Allah yolunda öldürülen şehittir; Allah yolunda ölen şehittir; karın hastalığından ölen şehittir; ve veba nedeniyle ölen şehittir.”"
+    },
+    {
+      "id": 53,
+      "narrator": "",
+      "text": "Başka bir isnatta “ve boğulan da şehittir.” eklenmiştir."
+    },
+    {
+      "id": 54,
+      "narrator": "",
+      "text": "Anas bin Malik'ten rivayet edilmiştir ki, Peygamber (ﷺ) Fethi günü Mekkeye, başında bir miğferle girdi."
+    },
+    {
+      "id": 55,
+      "narrator": "Sulaiman\nbin Habib said:",
+      "text": "Sa’ib bin Yazid'den, Allah dilerse, rivayet edilmiştir ki, Peygamber (ﷺ) Uhud Günü iki zırh giymiştir, biri diğerinin üstünde."
+    },
+    {
+      "id": 56,
+      "narrator": "",
+      "text": "Süleyman bin Habib dedi ki: “Abu Umamah'a girdik ve o, kılıçlarımızda bazı gümüş süslemeleri gördü. Kızdı ve şöyle dedi: ‘İnsanlar toprakları fethetti ve kılıçları altın ve gümüşle süslenmedi, kurşun ve demirle ve ‘Alabi’ ile süslendi.’”"
+    },
+    {
+      "id": 57,
+      "narrator": "It was\nnarrated that ‘Ali bin Abi Talib said:",
+      "text": "İbn Abbas'tan rivayet edilmiştir ki, Allah'ın Messenger'ı (ﷺ) Badr Günü savaş ganimeti olarak Dhulfiqar kılıcını elde etti."
+    },
+    {
+      "id": 58,
+      "narrator": "It was\nnarrated that ‘Ali said:",
+      "text": "Ali bin Ebu Talib'den rivayet edilmiştir ki, “Mughirah bin Shu’bah, Peygamber (ﷺ) ile birlikte savaştığında bir mızrak taşırdı ve geri döndüğünde mızrağını yere atar, biri onu alıp geri versin diye.” Ali ona: “Ben bunu Allah'ın Messenger'ına (ﷺ) söyleyeceğim.” dedi. O (Peygamber (ﷺ)) şöyle dedi: “Bunu yapma, çünkü eğer bunu yaparsan, kaybolmuş bir eşya olarak geri alınmayacak.”"
+    },
+    {
+      "id": 59,
+      "narrator": "It was\nnarrated from ‘Uqbah bin ‘Amir Al-Juhani that the Prophet\n(ﷺ)\nsaid:",
+      "text": "Rivayet edilmiştir ki, Ali şöyle dedi: “Allah'ın Messenger'ı (ﷺ) elinde bir Arap yayı vardı ve elinde bir Pers yayı olan bir adam gördü. O şöyle dedi: ‘Bu nedir? Bunu at. Bunu ve benzerlerini, ve Qana* mızraklarını kullanmalısın. Belki Allah, bu sayede dinini destekler ve seni toprakları fethetmeye muvaffak kılar.’”"
+    },
+    {
+      "id": 60,
+      "narrator": "It was\nnarrated that ‘Amr bin ‘Abasah said:",
+      "text": "Ukba bin Amir El-Cuhani'den rivayet edilmiştir ki, Peygamber (ﷺ) şöyle dedi: “Allah, bir ok sayesinde cennete üç kişiyi alacaktır: Onu güzel bir şekilde yaparak karşılık bekleyen; onu atan; ve ona veren.” Ve Allah'ın Messenger'ı (ﷺ) şöyle dedi: “At ve binerken, eğer atarsan, bu benim için binerken atmandan daha sevimlidir. Müslüman bir adamın eğlence için yaptığı her şey boştur, ok atmak, atını eğitmek ve eşiyle oynamak dışında, çünkü bunlar sevap getiren şeylerdir.”"
+    },
+    {
+      "id": 61,
+      "narrator": "It was\nnarrated that ‘Uqbah bin ‘Amir Al-Juhani said:",
+      "text": "'Uqbah bin 'Amir Al-Juhani'den rivayet edilmiştir: \"Ben, Allah'ın Elçisi (ﷺ)'nin minberde okuduğunu duydum: 'Onlara karşı gücünüzün yettiği her şeyi hazırlayın.' (Bunu) üç kez söyledi - 'Güç, ok atmak demektir.'\""
+    },
+    {
+      "id": 62,
+      "narrator": "It was\nnarrated that ‘Uqbah bin ‘Amir Al-Juhani said:",
+      "text": "'Uqbah bin 'Amir Al-Juhani'den rivayet edilmiştir: \"Ben, Allah'ın Elçisi (ﷺ)'nin şöyle dediğini duydum: 'Ok atmayı öğrenip de bunu terk eden, bana itaat etmemiştir.'\""
+    },
+    {
+      "id": 63,
+      "narrator": "It was\nnarrated that Ibn ‘Abbas said:",
+      "text": "İbn 'Abbas'tan rivayet edilmiştir: \"Peygamber (ﷺ), ok atan bazı insanların yanından geçti ve şöyle dedi: 'Atın, Banu İsmail, çünkü babanız bir okçuydu.'\""
+    },
+    {
+      "id": 64,
+      "narrator": "It was\nnarrated that Harith bin Hassan said:",
+      "text": "Harith bin Hassan'dan rivayet edilmiştir: \"Ben Medine'ye geldim ve Peygamber (ﷺ)'in minberde durduğunu, Bilal'in önünde, kılıcı yanında durduğunu ve (bir) siyah bayrak gördüm. Ben: 'Bu kimdir?' dedim. O: 'Bu, yeni bir seferden dönen 'Amr bin 'As'tır.' dedi.\""
+    },
+    {
+      "id": 65,
+      "narrator": "",
+      "text": "Jabir bin 'Abdullah'dan rivayet edilmiştir ki, Peygamber (ﷺ) Fethi günü Mekkeye girdi ve onun sancağı beyazdı."
+    },
+    {
+      "id": 66,
+      "narrator": "",
+      "text": "İbn 'Abbas'tan rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ)'nin bayrağı siyah, sancağı ise beyazdı."
+    },
+    {
+      "id": 67,
+      "narrator": "It was\nnarrated from Abu ‘Umar, the freed slave of Asma’, from Asma’\nbint Abi Bakr, that she brought out a cloak edged with brocade and\nsaid:",
+      "text": "Abu 'Umar, Asma'nın azatlı kölesinden, Asma bint Abi Bekir'den rivayet edilmiştir ki, o, kenarları işlemeli bir örtü çıkardı ve şöyle dedi: \"Peygamber (ﷺ) düşmanla karşılaştığında bunu giyerdi.\""
+    },
+    {
+      "id": 68,
+      "narrator": "It was\nnarrated from ‘Umar that he used to forbid silk and brocade\nexcept\nthat which was like that, then he gestured with his finger,\nthen his\nsecond finger, then his third, then his fourth,* and said:",
+      "text": "'Umar'dan rivayet edilmiştir ki, o, ipek ve işlemeli kumaşları yasaklardı, ancak bunun gibi olanları, sonra parmağıyla işaret etti, sonra ikinci parmağıyla, sonra üçüncü parmağıyla, sonra dördüncü parmağıyla,* ve şöyle dedi: \"Allah'ın Elçisi (ﷺ) bunu bize yasaklardı.\""
+    },
+    {
+      "id": 69,
+      "narrator": "Ja’far\nbin ‘Amr bin Huraith narrated that his father said:",
+      "text": "Ca'fer bin 'Amr bin Huraith, babasının şöyle dediğini rivayet etmiştir: \"Sanki Allah'ın Elçisi (ﷺ)'ni, siyah bir sarık sararken, iki ucu omuzlarının arasında sarkacak şekilde görebiliyorum.\""
+    },
+    {
+      "id": 70,
+      "narrator": "",
+      "text": "Jabir'den rivayet edilmiştir ki, Peygamber (ﷺ) Mekkeye siyah bir sarıkla girdi."
+    },
+    {
+      "id": 71,
+      "narrator": "It was\nnarrated that Kharijah bin Zaid said:",
+      "text": "Kharijah bin Zaid'den rivayet edilmiştir: \"Bir adamın babama, savaşmaya giden ve sefer sırasında alışveriş yapan bir adam hakkında sorduğunu gördüm. Babam ona: 'Biz, Allah'ın Elçisi (ﷺ) ile Tabuk'taydık, alışveriş yaptık ve o bizi gördü ve bunu yapmamızı yasaklamadı.' dedi.\""
+    },
+    {
+      "id": 72,
+      "narrator": "It was\nnarrated from Sahl bin Mu’adh bin Anas, from his father, that\nthe\nMessenger of Allah (ﷺ) said:",
+      "text": "Sahl bin Mu'adh bin Anas'tan, babasından rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle dedi: \"Allah yolunda savaşmaya giden bir savaşçıya iyi bir uğurlama yapmak ve sabah veya akşam çıktığında eşyalarını korumak, benim için bu dünya ve içindekilerden daha değerlidir.\""
+    },
+    {
+      "id": 73,
+      "narrator": "It was\nnarrated that Abu Hurairah said:",
+      "text": "Abu Hurairah'tan rivayet edilmiştir: \"Allah'ın Elçisi (ﷺ) bana bir uğurlama yaptı ve şöyle dedi: 'Seni, asla kaybolmayan bir emanetin sahibi olan Allah'a emanet ediyorum.'\""
+    },
+    {
+      "id": 74,
+      "narrator": "It was\nnarrated that Ibn ‘Umar said:",
+      "text": "İbn 'Umar'dan rivayet edilmiştir: \"Allah'ın Elçisi (ﷺ) birlikleri gönderdiğinde, komutana şöyle derdi: 'Ben, senin dini bağlılığını, onurunu ve amellerinin sonucunu Allah'a emanet ediyorum.'\""
+    },
+    {
+      "id": 75,
+      "narrator": "It was\nnarrated from Anas bin Malik that the Messenger of Allah (ﷺ)\nsaid\nto Aktham bin Al-Jawn Al-Khuza’i:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) Aktham bin Al-Jawn Al-Khuza'i'ye şöyle dedi: \"Ey Aktham! Kendi halkından başka insanlarla savaş, bu senin tutumunu iyileştirir ve arkadaşlarına cömert olmanı sağlar. Ey Aktham, en iyi arkadaş sayısı dördü, en iyi seferdeki asker sayısı dört yüzü, en iyi ordunun sayısı dört bin, on iki bin ise sayıca az oldukları için asla yenilmez.\""
+    },
+    {
+      "id": 76,
+      "narrator": "It was\nnarrated that Bara’ bin ‘Azib said:",
+      "text": "Bara' bin 'Azib'den rivayet edilmiştir: \"Badr Günü'nde Allah Resulü'nün (ﷺ) arkadaşlarının sayısının üç yüz on ve biraz daha fazla olduğunu, bunun Talut'un yanında nehirden geçen arkadaşlarının sayısıyla aynı olduğunu konuştuk. Onunla birlikte nehirden geçen hiç kimse, ancak bir mümin idi.\""
+    },
+    {
+      "id": 77,
+      "narrator": "It was\nnarrated that Lahi’ah bin ‘Uqbah said:",
+      "text": "Lahi'ah bin 'Uqbah'dan rivayet edilmiştir: \"Ben, Allah Resulü'nün (ﷺ) arkadaşı Abul-Ward'ın şöyle dediğini duydum: 'Düşmanla karşılaştığında kaçan ve savaş ganimeti aldığında ondan çalan topluluktan sakının.'\""
+    },
+    {
+      "id": 78,
+      "narrator": "It was\nnarrated from Qabisah bin Hulb that his father said:",
+      "text": "Qabisah bin Hulb'den rivayet edilmiştir ki, babası şöyle demiştir: \"Ben Allah Resulü'ne (ﷺ) Hristiyanların yiyecekleri hakkında sordum, o da: 'Yiyecek konusunda hiçbir şüpheye kapılmayın, bu konuda Hristiyanların yolunu takip etmeyin.' dedi.\""
+    },
+    {
+      "id": 79,
+      "narrator": "‘Urwah\nbin Ruwaim Al-Lakhmi narrated that Abu Tha’labah Al-Khushani –\nwhom he said he met and spoke with – said:",
+      "text": "'Urwah bin Ruwaim Al-Lakhmi, tanıştığı ve konuştuğu Abu Tha'labah Al-Khushani'den rivayet etmiştir: \"Ben Allah Resulü'ne (ﷺ) geldim ve ona: 'Ey Allah Resulü! Putperestlerin kaplarında yemek pişirebilir miyiz?' diye sordum. O da: 'Onlarda yemek pişirmeyin.' dedi. Ben: 'Peki, onlara ihtiyacımız olursa ve başka bir şey bulamazsak?' dedim. O da: 'Onları iyi yıkayın, sonra pişirin ve yiyin.' dedi.\""
+    },
+    {
+      "id": 80,
+      "narrator": "It was\nnarrated from ‘Aishah that the Messenger of Allah (ﷺ) said:",
+      "text": "'Aişe'den rivayet edilmiştir ki, Allah Resulü (ﷺ) şöyle buyurmuştur: 'Müşriklerden yardım istemeyiz.'\""
+    },
+    {
+      "id": 81,
+      "narrator": "It was\nnarrated from ‘Aishah that the Prophet (ﷺ) said:",
+      "text": "'Aişe'den rivayet edilmiştir ki, Peygamber (ﷺ) şöyle buyurmuştur: \"Savaş aldatmadır.\""
+    },
+    {
+      "id": 82,
+      "narrator": "It was\nnarrated from Ibn ‘Abbas that the Prophet (ﷺ) said:",
+      "text": "İbn 'Abbas'tan rivayet edilmiştir ki, Peygamber (ﷺ) şöyle buyurmuştur: \"Savaş aldatmadır.\""
+    },
+    {
+      "id": 83,
+      "narrator": "It was\nnarrated that Qais bin ‘Ubaid said:",
+      "text": "Qais bin 'Ubaid'den rivayet edilmiştir: \"Ben, Abu Dharr'ın bu ayetlerin Badr Günü'nde o altı kişi hakkında indirildiğine yemin ettiğini duydum: 'Bu iki karşıt (müminler ve kafirler) Rableri hakkında birbirleriyle tartışıyorlar.' ve 'Şüphesiz ki Allah, dilediğini yapar.' (yani) Hamza bin 'Abdul-Muttalib, 'Ali bin Abi Talib, 'Ubaidah bin Al-Harith, 'Utbah bin Rabi'ah, Shaibah bin Rabi'ah ve Al-Walid bin 'Utbah. Onlar Badr Günü'nde birbirleriyle tartıştılar.\""
+    },
+    {
+      "id": 84,
+      "narrator": "It was\nnarrated from Iyas bin Salamah bin Akwa’ that his father said:",
+      "text": "İyas bin Salamah bin Akwa'dan rivayet edilmiştir ki, babası şöyle demiştir: \"Ben bir adamla savaştım ve onu öldürdüm, Allah Resulü (ﷺ) bana onun ganimetini verdi.\""
+    },
+    {
+      "id": 85,
+      "narrator": "",
+      "text": "Abu Muhammad'dan, Abu Qatadah'ın freed slave'inden rivayet edilmiştir ki, Allah Resulü (ﷺ) ona Huneyn Günü'nde öldürdüğü bir adamın ganimetini verdi.\""
+    },
+    {
+      "id": 86,
+      "narrator": "It was\nnarrated from the son of Samurah bin Jundub that his father\nsaid:",
+      "text": "Samurah bin Jundub'un oğlundan rivayet edilmiştir ki, babası şöyle demiştir: \"Allah Resulü (ﷺ) şöyle buyurmuştur: 'Kim öldürürse, ganimet onun olur.'\""
+    },
+    {
+      "id": 87,
+      "narrator": "It was\nnarrated that Ibn ‘Abbas said:",
+      "text": "İbn 'Abbas'tan rivayet edilmiştir ki, Sa'b bin Jaththamah şöyle dedi: 'Peygamber (ﷺ) gece saldırıya uğrayan ve kadınları ile çocukları öldürülen müşrikler hakkında sorulduğunda, 'Onlar onlardandır.' dedi.\""
+    },
+    {
+      "id": 88,
+      "narrator": "It was\nnarrated from Iyas bin Salamah bin Awka’, that his father\nsaid:",
+      "text": "İyas bin Salamah bin Awka'dan rivayet edilmiştir ki, babası şöyle demiştir: \"Biz, Abu Bekir ile birlikte, Peygamber (ﷺ) zamanında Hawazin'e saldırdık ve gece yarısında Bani Fazarah'ya ait bir vaha'ya ulaştık. Şafak vakti saldırdık, vahanın halkını baskın yaparak öldürdük, dokuz veya yedi hane.\""
+    },
+    {
+      "id": 89,
+      "narrator": "",
+      "text": "İbn 'Umar'dan rivayet edilmiştir ki, Peygamber (ﷺ) yolda öldürülmüş bir kadını gördü ve kadınların ve çocukların öldürülmesini yasakladı.\""
+    },
+    {
+      "id": 90,
+      "narrator": "It was\nnarrated that Hanzalah Al-Katib said:",
+      "text": "Hanzalah Al-Katib'den rivayet edilmiştir: \"Biz, Allah Resulü (ﷺ) ile birlikte savaşa çıktık ve insanların etrafında toplandığı bir öldürülmüş kadının yanından geçtik. Onlar (Peygamberin (ﷺ) geçmesi için) ayrıldılar ve o dedi ki: 'Bu (kadın) savaşanlardan biri değildi.' Sonra bir adama dedi ki: 'Khalid bin Walid'e git ve ona de ki: 'Allah Resulü (ﷺ) sana emrediyor: 'Hiçbir çocuk veya kadın, ya da herhangi bir (tarım) işçisi öldürmeyin.'\""
+    },
+    {
+      "id": 91,
+      "narrator": "It was\nnarrated that Usamah bin Said said:",
+      "text": "Usamah bin Said'den rivayet edilmiştir: “Allah'ın Resulü (ﷺ) beni Ubna adında bir köye gönderdi ve ‘Sabah Ubna'ya git ve onu yak’ dedi.”"
+    },
+    {
+      "id": 92,
+      "narrator": "It was\nnarrated from Ibn ‘Umar that the Messenger of Allah (ﷺ)\nburned\nthe palm trees of Banu Nadir, and cut down Buwairah (the name\nof\ntheir garden). Then Allah revealed the words:",
+      "text": "İbn ‘Umar'dan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) Banu Nadir'in hurma ağaçlarını yaktı ve Buwairah'ı (bahçelerinin adı) kesti. Sonra Allah şu ayetleri indirdi: “(Ey Müslümanlar) düşmanın hurma ağaçlarından kestiğiniz veya ayakta bıraktığınız...”"
+    },
+    {
+      "id": 93,
+      "narrator": "It was\nnarrated from Ibn ‘Umar that the Prophet (ﷺ) burned the palm\ntrees of Banu Nadir and cut them down. Concerning that, their poet\nsaid:",
+      "text": "İbn ‘Umar'dan rivayet edilmiştir ki, Peygamber (ﷺ) Banu Nadir'in hurma ağaçlarını yaktı ve kestiler. Bununla ilgili olarak, onların şairi şöyle dedi: “Banu Luai'nin seçkinleri için kolaydır – Al-Buwairah'ı korkutucu bir şekilde yakmak.”"
+    },
+    {
+      "id": 94,
+      "narrator": "It was\nnarrated from Ayas bin Salamah bin Akwa’ that his father said:",
+      "text": "Ayas bin Salamah bin Akwa’dan rivayet edilmiştir ki, babası şöyle dedi: “Biz, Allah'ın Resulü (ﷺ) zamanında Ebu Bekir ile birlikte Hawazin'e saldırdık. Bana, Arapların en güzelinden bir köle kızı verdi, üzerinde hayvan derisi vardı. Onu elbiselerinden çıkarmadım, ta ki Medine'ye ulaşana kadar. Sonra Peygamber (ﷺ) beni pazarda karşıladı ve ‘Allah'a yemin ederim, onu bana ver’ dedi. Ben de onu ona verdim ve o, Mekke'deki bazı Müslüman esirler için fidye olarak gönderdi.”"
+    },
+    {
+      "id": 95,
+      "narrator": "It was\nnarrated that Ibn ‘Umar said that a horse of his went out and the\nenemy captured it. Then the Muslims defeated them and it was returned\nto him. (That was) during the time of the Messenger of Allah (ﷺ).\nHe said:",
+      "text": "İbn ‘Umar'dan rivayet edilmiştir ki, bir atı dışarı çıktı ve düşman onu yakaladı. Sonra Müslümanlar onları yendi ve at ona geri döndü. (Bu,) Allah'ın Resulü (ﷺ) zamanında oldu. O şöyle dedi: “Ve bir kölem kaçtı ve Romalılara katıldı, sonra Müslümanlar onları yendi ve Halid bin Velid onu bana geri verdi, Allah'ın Resulü (ﷺ) vefat ettikten sonra.”"
+    },
+    {
+      "id": 96,
+      "narrator": "It was\nnarrated that Zaid bin Khalid Al-Juhani said:",
+      "text": "Zaid bin Khalid Al-Cuhani'den rivayet edilmiştir ki, “Ashja’ kabilesinden bir adam Khaibar'da öldü ve Peygamber (ﷺ) dedi ki: ‘Arkadaşınız için cenaze namazı kılın.’ İnsanlar bunu garip buldular. Bunu görünce, ‘Arkadaşınız, Allah yolunda savaşırken ganimetten çaldı’ dedi.”"
+    },
+    {
+      "id": 97,
+      "narrator": "It was\nnarrated that ‘Abdullah bin ‘Amr said:",
+      "text": "Abdullah bin Amr'dan rivayet edilmiştir ki, “Peygamber (ﷺ) ganimet mallarının başında olan Kirkah adında bir adamın öldüğünü söyledi. Peygamber (ﷺ) dedi ki: ‘O, Cehennem'dedir.’ Onlar gidip baktılar ve onu savaş ganimeti olarak çaldığı bir elbise veya örtü içinde buldular.”"
+    },
+    {
+      "id": 98,
+      "narrator": "It was\nnarrated that ‘Ubadah bin Samit said:",
+      "text": "Ubade bin Samit'ten rivayet edilmiştir ki, “Allah'ın Resulü (ﷺ) Huneyn Günü, savaş ganimeti olan bir devenin yanında bize namaz kıldırdı. Sonra deveden bir şey aldı ve iki parmağının arasına bir kıl koydu. Sonra dedi ki: ‘Ey insanlar, bu sizin savaş ganimetinizin bir parçasıdır. Bir iğne, ip ve daha büyük veya daha küçük bir şey verin. Çünkü savaş ganimeti çalmak, bunu yapanlar için bir utanç kaynağı olacak ve Kıyamet Günü, rezil ve ateş olacaktır.’”"
+    },
+    {
+      "id": 99,
+      "narrator": "",
+      "text": "Habib bin Mesleme'den rivayet edilmiştir ki, Peygamber (ﷺ) bir beşte bir alındıktan sonra ganimetten üçte bir pay vermiştir."
+    },
+    {
+      "id": 100,
+      "narrator": "",
+      "text": "Ubade bin Samit'ten rivayet edilmiştir ki, Peygamber (ﷺ) düşmana ilk saldıranlara ganimetten dörtte bir, en son saldıranlara ise üçte bir pay vermiştir."
+    },
+    {
+      "id": 101,
+      "narrator": "‘Amr\nbin Shu’aib narrated from his father that his grandfather said:",
+      "text": "Amr bin Shu’aib, babasından, dedesinin şöyle söylediğini rivayet etmiştir: “Allah'ın Resulü (ﷺ) sonrası ganimetlerin dağıtımı yoktur; aksine, ordunun elde ettiği (savaş ganimeti) güçlü ve zayıf arasında eşit olarak dağıtılacaktır.”"
+    },
+    {
+      "id": 102,
+      "narrator": "",
+      "text": "İbn ‘Umar'dan rivayet edilmiştir ki, Peygamber (ﷺ) Khaibar Günü savaş ganimetlerini dağıttı, atlıya üç pay, ata iki pay ve insana bir pay verdi."
+    },
+    {
+      "id": 103,
+      "narrator": "‘Umair,\nthe freed slave of Aabi Lahm – Waki’ said; - “He used to not\neat meat” – said:",
+      "text": "Aabi Lahm'ın azatlı kölesi Umair - Waki’ dedi ki; - “O et yemezdi” - dedi: “Khaibar Günü, efendimle birlikte savaştım ve köleydim. Savaş ganimeti olarak bana hiçbir şey verilmedi ama en az eşyadan bir kılıç verildi, onu belime sardığımda sürükledim.”"
+    },
+    {
+      "id": 104,
+      "narrator": "It was\nnarrated that Umm ‘Atiyyah Al-Ansariyyah said:",
+      "text": "Umm ‘Atiyyah Al-Ansariyyah'dan rivayet edilmiştir ki, “Ben, Allah'ın Resulü (ﷺ) ile birlikte yedi seferde savaştım, onların eşyalarına bakarak, onlara yemek hazırlayarak, yaralıları tedavi ederek ve hastalara bakarak.”"
+    },
+    {
+      "id": 105,
+      "narrator": "It was\nnarrated that Safwan bin ‘Assil said:",
+      "text": "Safwan bin ‘Assil'den rivayet edilmiştir ki, “Allah'ın Resulü (ﷺ) bizi bir askeri birliğe gönderdi ve ‘Allah'ın adıyla, Allah yolunda gidin. Allah'a inanmayanlarla savaşın. Kesmeyin, hainlik yapmayın, savaş ganimeti çalmayın ve çocukları öldürmeyin’ dedi.”"
+    },
+    {
+      "id": 106,
+      "narrator": "It was\nnarrated from Ibn Buraidah that his father said:",
+      "text": "İbn Bureydah'dan rivayet edildiğine göre, babası şöyle dedi: “Herhangi bir adamı askeri bir birliğe lider olarak atadığında, Allah'ın Messenger'ı (ﷺ) ona özellikle Allah'tan korkmasını ve onunla birlikte olan Müslümanlara iyi davranmasını tavsiye ederdi. O (ﷺ) şöyle dedi: ‘Allah'ın adıyla ve Allah yolunda savaşın. Allah'a inanmayanlarla savaşın. Ama ihanet etmeyin, savaş ganimetlerinden çalmayın, insanları yaralamayın ve çocukları öldürmeyin. Putperestlerden düşmanınızla karşılaştığınızda, onları üç şeyden birine davet edin. Onlardan hangisine yanıt verirlerse, onu kabul edin ve onlarla savaşmaktan kaçının. Onları İslam'a kabul etmeye davet edin, eğer kabul ederlerse, onu kabul edin ve onlarla savaşmaktan kaçının. Sonra onları kendi topraklarını terk etmeye ve putperestlerin topraklarına göç etmeye davet edin. Eğer bunu yaparlarsa, o zaman putperestler gibi aynı haklara ve yükümlülüklere sahip olacaklardır. Eğer reddederlerse, onlara Müslüman bedeviler gibi olacaklarını, inananlar gibi Allah'ın aynı hükümlerine tabi olacaklarını söyleyin. Ama savaş ganimetlerinden veya Fay’* payından hiçbir hakları olmayacak, yalnızca Müslümanlarla birlikte savaşmadıkları sürece. Eğer İslam'a girmeyi reddederlerse, onlardan cizye talep edin. Eğer bunu yaparlarsa, onu kabul edin ve onlarla savaşmaktan kaçının. Ama eğer reddederlerse, onlara karşı Allah'ın yardımını isteyin ve onlarla savaşın. Eğer onlara kuşatma yaparsanız ve sizden Allah'ın ve Peygamberinizin korumasını istemek isterlerse, onlara Allah'ın ve Peygamberinizin korumasını vermeyin, aksine onlara kendi korumanızı ve babanızın ve arkadaşlarınızın korumasını verin, çünkü eğer kendi korumanızı ve babalarınızın korumasını ihlal ederseniz, bu Allah'ın ve Resulü'nün korumasını ihlal etmekten daha kolaydır. Eğer onlara kuşatma yaparsanız ve sizden Allah'ın ve Resulü'nün (ﷺ) hükmüyle çıkmalarını istemek isterlerse, onlara Allah'ın ve Resulü'nün (ﷺ) hükmünü vaat etmeyin, aksine onlara kendi hükmünüzü teklif edin, çünkü onların hakkında Allah'ın hükmünü gerçekten geçip geçmeyeceğinizi bilemezsiniz.’”"
+    },
+    {
+      "id": 107,
+      "narrator": "It was\nnarrated from Abu Hurairah that the Messenger of Allah (ﷺ)\nsaid:",
+      "text": "Başka bir isnad benzer bir hadisi rivayet etmektedir."
+    },
+    {
+      "id": 108,
+      "narrator": "It was\nnarrated from Anas bin Malik that the Messenger of Allah (ﷺ)\nsaid:",
+      "text": "---"
+    },
+    {
+      "id": 109,
+      "narrator": "It was\nnarrated from Umm Husain that she heard the Messenger of Allah\n(ﷺ)\nsay:",
+      "text": "Ebu Hureyre'den rivayet edildiğine göre, Allah'ın Messenger'ı (ﷺ) şöyle dedi: “Beni dinleyen, Allah'ı dinlemiş olur. Beni dinlemeyen, Allah'ı dinlememiş olur. Hükümdara itaat eden, bana itaat etmiş olur; hükümdara isyan eden, bana isyan etmiş olur.”"
+    },
+    {
+      "id": 110,
+      "narrator": "It was\nnarrated from Abu Dharr that he reached Rabadhah when the\nIqamah for\nthe prayer had already been given, and there was a slave\nleading them\nin prayer. It was said:",
+      "text": "---"
+    },
+    {
+      "id": 111,
+      "narrator": "It was\nnarrated from Abu Sa’eed Al-Khudri that the Messenger of Allah\n(ﷺ) sent ‘Alqamah bin Mujazziz at the head of a detachment, and I\nwas among them. When he reached the battle site, or when he was\npartway there, a group of the army asked permission to take a\ndifferent route, and he gave them permission, and appointed ‘Abdullah\nbin Hudhafah bin Qais As-Sahmi as their leader, and I was one of\nthose\nwho fought alongside with him. When we were partway there, the\npeople\nlit a fire to warm themselves and cook some food. ‘Abdullah,\nwho was a\nman who liked to joke, said:",
+      "text": "Enes bin Malik'ten rivayet edildiğine göre, Allah'ın Messenger'ı (ﷺ) şöyle dedi: “Dinleyin ve itaat edin, hatta üzerinize atanan kişi, başı kuru üzüm gibi bir Habeşli köle bile olsa.”"
+    },
+    {
+      "id": 112,
+      "narrator": "It was\nnarrated from Ibn ‘Umar that the Messenger of Allah (ﷺ)\nsaid:",
+      "text": "---"
+    },
+    {
+      "id": 113,
+      "narrator": "It was\nnarrated from ‘Abdullah bin Mas’ud that the Prophet (ﷺ)\nsaid:",
+      "text": "Ümmü Hüseyin'den rivayet edildiğine göre, Allah'ın Messenger'ı (ﷺ) şöyle dedi: “Üzerinize atanan kişi, burnu ve kulakları kesilmiş bir Habeşli köle bile olsa, ona dinleyin ve itaat edin, eğer sizi Allah'ın Kitabı'na göre yönetiyorsa.”"
+    },
+    {
+      "id": 114,
+      "narrator": "It was\nnarrated that ‘Ubadah bin Samit said:",
+      "text": "---"
+    },
+    {
+      "id": 115,
+      "narrator": "‘Awf\nbin Malik Al-Ashja’i said:",
+      "text": "Ebu Dharr'dan rivayet edildiğine göre, o, ikametin verilmiş olduğu Rabadhah'a ulaştığında, aralarında bir kölenin namaz kıldırdığını gördü. “Bu Ebu Dharr,” denildi, bu yüzden o (köle) geri çekilmeye başladı. Ama Ebu Dharr şöyle dedi: “Yakın arkadaşım (yani, Peygamber (ﷺ)) bana dinlememi ve itaat etmemi söyledi, hatta (lider) amputasyonlu bir Habeşli köle olsa bile.”"
+    },
+    {
+      "id": 116,
+      "narrator": "It was\nnarrated that ‘Attab, the freed slave of Hurmuz, said:",
+      "text": "---"
+    },
+    {
+      "id": 117,
+      "narrator": "It was\nnarrated that Jabir said:",
+      "text": "Ebu Said el-Hudri'den rivayet edildiğine göre, Allah'ın Messenger'ı (ﷺ) ‘Alkame bin Mücazziz'i bir birliğin başına gönderdi ve ben de onlardandım. Savaş alanına vardığında veya oraya yaklaşırken, ordunun bir grubu farklı bir yoldan gitmek için izin istedi ve onlara izin verdi, ‘Abdullah bin Hudhafah bin Kays es-Sahmi'yi lider olarak atadı ve ben de onunla birlikte savaşanlardan biriydim. Oraya yaklaştığımızda, insanlar kendilerini ısıtmak ve biraz yemek pişirmek için ateş yaktılar. ‘Abdullah, şaka yapmayı seven bir adamdı, şöyle dedi: “Beni dinlemek ve itaat etmek hakkım yok mu?” Onlar: “Evet,” dediler. O: “Eğer size bir şey emredersem, onu yapmayacak mısınız?” dediler: “Elbette.” O: “O zaman sizi bu ateşe atlamaya emrediyorum.” Bazı insanlar kalkıp atlamaya hazırlanırken, onların atlamak üzere olduğunu görünce, “Kendinizi tutun, çünkü ben sizinle şaka yapıyordum,” dedi. Medine'ye geldiğimizde, bunu Peygamber'e (ﷺ) anlattılar ve Allah'ın Messenger'ı (ﷺ) şöyle dedi: “Aranızdan birisi, size Allah'a isyan içeren bir şey emrederse, ona itaat etmeyin.”"
+    },
+    {
+      "id": 118,
+      "narrator": "It was\nnarrated from Abu Hurairah that the Messenger of Allah (ﷺ)\nsaid:",
+      "text": "---"
+    },
+    {
+      "id": 119,
+      "narrator": "It was\nnarrated from Abu Hurairah that the Messenger of Allah (ﷺ)\nsaid:",
+      "text": "İbn Ömer'den rivayet edildiğine göre, Allah'ın Messenger'ı (ﷺ) şöyle dedi: “Müslüman, (hükümdara) isterse de istemezse de itaat etmekle yükümlüdür, eğer ona isyan etmesini emretmezse. Eğer bir günah işlemeye emredilirse, ne dinlemeli ne de itaat etmelidir.”"
+    },
+    {
+      "id": 120,
+      "narrator": "It was\nnarrated from ‘Abdullah that the Messenger of Allah (ﷺ)\nsaid:",
+      "text": "---"
+    },
+    {
+      "id": 121,
+      "narrator": "It was\nnarrated from Abu Sa’eed Al-Khudri that the Messenger of Allah\n(ﷺ) said:",
+      "text": "Abu Sa’eed Al-Khudri'den rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle buyurmuştur: “Her hain için Kıyamet Günü, ihanetine uygun bir bayrak dikilecektir.”"
+    },
+    {
+      "id": 122,
+      "narrator": "Muhammad\nbin Munkadir said that he heard Umaimah bint Ruqaiqah say:",
+      "text": "Muhammed bin Munkadir, Umaimah bint Ruqaiqah'ın şöyle dediğini duyduğunu söyledi: “Ben, diğer kadınlarla birlikte Peygamber (ﷺ)'e geldim, ona biat etmek için. O bize şöyle dedi: ‘(Biatınızı kabul ediyorum) yapabileceğiniz şeyler konusunda. Ama kadınlarla el sıkışmam.’”"
+    },
+    {
+      "id": 123,
+      "narrator": "‘Aishah\nthe wife of the Prophet (ﷺ) said:",
+      "text": "Peygamber (ﷺ)'in eşi ‘Aişe şöyle dedi: “Mümin kadınlar, Allah'ın Resulü (ﷺ)'ne hicret ettiklerinde, Allah'ın şu buyruğuna göre imtihan edileceklerdi: ‘Ey Peygamber! Mümin kadınlar sana biat etmeye geldiklerinde...’”"
+    },
+    {
+      "id": 124,
+      "narrator": "It was\nnarrated from Abu Hurairah that the Messenger of Allah (ﷺ)\nsaid:",
+      "text": "‘Aişe dedi ki: “Mümin kadınlardan bu durumu tasdik edenler, imtihanı geçtiler. Onlar bunu tasdik ettiklerinde, Allah'ın Resulü (ﷺ) onlara şöyle derdi: ‘Gidin, çünkü biatinizi verdiniz.’ Hayır, Allah'a yemin ederim! Allah'ın Resulü (ﷺ) hiçbir kadının eline elini sürmedi, bilakis biatlerini sadece sözle kabul etti.”"
+    },
+    {
+      "id": 125,
+      "narrator": "It was\nnarrated that Ibn ‘Umar said:",
+      "text": "‘Aişe dedi: “Allah'a yemin ederim ki, Allah'ın Resulü (ﷺ) kadınlardan (biatlerinde) Allah'ın emrettiğinden başka bir şey talep etmedi ve Allah'ın Resulü (ﷺ) hiçbir kadının eline elini sürmedi. Biatlerini kabul ettiğinde onlara şöyle derdi: ‘Biatinizi verdiniz,’ sözlü olarak.”"
+    },
+    {
+      "id": 126,
+      "narrator": "It was\nnarrated from Abu Hurairah that the Messenger of Allah (ﷺ)\nsaid:",
+      "text": "Abu Hurairah'tan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle buyurmuştur: “Bir atı, diğer iki atın arasına koyan ve onun kazanıp kazanmayacağını bilmeyen kimse, kumar oynamaz. Ama bir atı, diğer iki atın arasına koyan ve onun kazanacağına kesin olarak inanan kimse, kumar oynamaktadır.”"
+    },
+    {
+      "id": 127,
+      "narrator": "",
+      "text": "İbn ‘Umar'dan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) bir atı zayıflatmış ve zayıflattığı atı Hafya’dan Thaniyyatul-Wada’a göndermiştir. Zayıflatmadığı atı ise Thaniyyatul-Wada’dan Banu Zuraiq camisine göndermiştir."
+    },
+    {
+      "id": 128,
+      "narrator": "",
+      "text": "Abu Hurairah'tan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle buyurmuştur: “Yarışlar için deve ve at yarışları dışında ödül olmamalıdır.”"
+    },
+    {
+      "id": 129,
+      "narrator": "It was\nnarrated from Sa’eed bin Musayyab that Jubair bin Mut’im told\nhim\nthat he and ‘Uthman bin ‘Affan came to the Messenger of Allah\n(ﷺ) to speak to him about the way in which the one fifth from\nKhaibar had been distributed to Banu Hashim and Banu Muttalib. They\nsaid:",
+      "text": "İbn ‘Umar'dan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) düşman topraklarına Kur'an ile seyahat etmeyi yasaklamıştır, düşmanın buna el koymasından korktuğu için."
+    }
+  ]
+}

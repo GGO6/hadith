@@ -1,0 +1,61 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 9,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "'A’isha (may Allah be well pleased with her) said that she was asked:",
+      "text": "Aişe (Allah ondan razı olsun) şöyle dedi: \"Allah’ın Resulü (Allah ona salat ve selam eylesin) herhangi bir şiir biçimini taklit eder miydi?\" O da: \"İbn Rawaha'nın şiirini taklit ederdi ve onun şu sözünü taklit ederdi: 'Sana, seyahat hazırlığı yapmadığın birisi tarafından haber getirilecektir.'\""
+    },
+    {
+      "id": 2,
+      "narrator": "Abu Huraira said (may Allah be well pleased with him):",
+      "text": "Ebu Hureyre (Allah ondan razı olsun) dedi ki: \"Allah’ın Resulü (Allah ona salat ve selam eylesin) şöyle buyurdu: 'Bir şairin söylediği en doğru söz, Labid’in sözüdür: 'Allah’tan başka her şey elbette boşunadır,' ve Umayya ibn Abi’s-Salt neredeyse İslam’ı kabul edecekti.'\""
+    },
+    {
+      "id": 3,
+      "narrator": "Jundub ibn Sufyan al-Bajali said:",
+      "text": "Cündüb ibn Süfyân el-Bacali şöyle dedi: \"Bir taş, Allah’ın Resulü’nün (Allah ona salat ve selam eylesin) parmağına vurdu ve kanadı, o da: 'Sadece Allah yolunda acı çekmeden kanamış bir parmak mısın?' dedi.\""
+    },
+    {
+      "id": 4,
+      "narrator": "Al-Bara’ ibn 'Azib reported that:",
+      "text": "El-Bera' ibn Azib bildirdi ki: Bir adam ona şöyle dedi: \"Siz, Allah’ın Resulü’nden (Allah ona salat ve selam eylesin) kaçtınız mı, Ey Ebu Umara?\" O da: \"Hayır, Allah’a yemin ederim! Allah’ın Resulü (Allah ona salat ve selam eylesin) geri çekilmedi, ama acele edenler geri çekildi, Hawazin oklarıyla saldırıya uğradılar. Allah’ın Resulü (Allah ona salat ve selam eylesin) dişi katırının üzerindeydi, Ebu Süfyan ibn Harith ibn Abd al-Muttalib de onun dizginini tutuyordu ve Allah’ın Resulü (Allah ona salat ve selam eylesin) şöyle diyordu: 'Ben peygamberim, yalan yok! Ben Abd al-Muttalib’in oğluyum!'\""
+    },
+    {
+      "id": 5,
+      "narrator": "Anas said:",
+      "text": "Enes dedi ki: \"Peygamber (Allah ona salat ve selam eylesin) Hac sırasında Mekke’ye girdi: 'Kafirlerin evlatları, yolundan çekilin! Bugün sizi durdurmak için, yoldan baykuşları kaldıracak bir darbe ile geleceğiz ve dostu dostundan ayıracağız!' 'Umar sonra dedi: 'Ey İbn Rawaha, Allah’ın Resulü’nün (Allah ona salat ve selam eylesin) önünde şiir söylemeye cüret ediyorsun ve Allah’ın Haremindesin!' Ama o (Allah ona salat ve selam eylesin) dedi: 'Bırak onu, Ey Umar, çünkü bu onlara ok yağmurundan daha hızlı isabet edecektir!'\""
+    },
+    {
+      "id": 6,
+      "narrator": "Jabir ibn Samura said:",
+      "text": "Cabir ibn Semura dedi ki: \"Peygamber (Allah ona salat ve selam eylesin) ile yüzden fazla oturdum ve arkadaşları birbirlerine şiir okurlardı. Onlar, putperestlik dönemine dair şeyleri de hatırlardı, o ise sessizdi ve bazen onlarla gülümserdi.\""
+    },
+    {
+      "id": 7,
+      "narrator": "Abu Huraira said:",
+      "text": "Ebu Hureyre dedi ki: \"Peygamber (Allah ona salat ve selam eylesin) şöyle dedi: 'Arapların söylediği en şiirsel söz, Labid’in sözüdür: 'Allah’tan başka her şey elbette boşunadır!'\""
+    },
+    {
+      "id": 8,
+      "narrator": "'Amr ibn ash-Sharid reported that his father said:",
+      "text": "Amr ibn ash-Sharid, babasının şöyle dediğini aktardı: \"Peygamber (Allah ona salat ve selam eylesin) arkasında binerken, ona Umayya ibn Abi’s-Salt tarafından yazılmış yüz şiir dizesi okudum. Her dizeyi okuduğumda, Peygamber (Allah ona salat ve selam eylesin) bana: 'Daha fazla oku!' diyordu, ta ki ona yüz dize okuduğumda.\" Peygamber (Allah ona salat ve selam eylesin) şöyle dedi: 'O kesinlikle İslam’a yaklaşmıştı!'\""
+    },
+    {
+      "id": 9,
+      "narrator": "'A’isha said:",
+      "text": "Aişe dedi ki: \"Allah’ın Resulü (Allah ona salat ve selam eylesin) camide Hasan ibn Sabit için bir minber kurardı. O, onun üzerinde durur, Allah’ın Resulü’nü (Allah ona salat ve selam eylesin) öven veya onu savunan sözler söylerdi. O (Allah ona salat ve selam eylesin) şöyle derdi: 'Allah (Celle Celaluhu), Hasan’ı Ruhul Kudüs ile destekler, o Allah’ın Resulü’nü (Allah ona salat ve selam eylesin) savunduğunda veya onu övdüğünde!'”"
+    }
+  ]
+}

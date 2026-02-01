@@ -1,0 +1,91 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 15,
+    "arabic": {
+      "title": "صحيح البخاري",
+      "author": "الإمام محمد بن إسماعيل البخاري"
+    },
+    "english": {
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Muhammad ibn Ismail al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn `Umar'dan rivayet edilmiştir: Bir zaman bir kişi Allah'ın Elçisi'ne (ﷺ) gece namazı hakkında sordu. Allah'ın Elçisi (ﷺ) şöyle cevap verdi: \"Gece namazı iki Rek'at olarak kılınır, ardından iki Rek'at daha ve bu şekilde devam eder. Eğer biri sabahın (Fajr namazı) yaklaşmasından korkuyorsa, bir Rek'at kılmalıdır ve bu, daha önce kıldığı tüm Rek'atlar için Witr olacaktır.\""
+    },
+    {
+      "id": 2,
+      "narrator": "",
+      "text": "Nafi`, `Abdullah bin `Umar'ın Witr namazında (ilk) iki Rek'at ile (üçüncü) tek Rek'at arasında Selam verdiğini, belirli bir meseleyle ilgilenmek istediğinde (Rek'atlar arasındaki bu süre zarfında) söyledi."
+    },
+    {
+      "id": 3,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn `Abbas'tan rivayet edilmiştir: Bir zaman Maimuna'nın (teyzesi) evinde gece geçirdim. Yatakta enine yattım, oysa Allah'ın Elçisi ve eşi uzunlamasına yattılar. Peygamber (ﷺ) gece yarısına kadar ya da ona yakın bir süre uyudu ve yüzünü ovuşturarak uyanıp \"Al-`Imran\" Suresi'nden on ayet okudu. Allah'ın Elçisi (ﷺ) bir deri parçasına doğru gitti ve en mükemmel şekilde abdest aldı, ardından namaza durdu. Ben de aynı şekilde yaptım ve onun yanına durdum. Peygamber (ﷺ) sağ elini başıma koydu, kulağımı çekti ve sonra iki Rek'at kıldı, beş defa ve ardından namazını Witr ile tamamladı. Mu'adh-dhin gelene kadar uzandı, sonra kalktı ve iki Rek'at (Fajr namazının Sünneti) kıldı, ardından dışarı çıkıp Fajr namazını kıldı. (Hadis 183'e bakınız)"
+    },
+    {
+      "id": 4,
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "`Abdullah bin `Umar'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Gece namazı iki Rek'at olarak kılınır, ardından iki Rek'at daha ve bu şekilde devam eder. Eğer bunu tamamlamak isterseniz, sadece bir Rek'at kılın ki bu, önceki tüm Rek'atlar için Witr olacaktır.\" Al-Qasim dedi ki, \"Ergenlik çağına girdiğimizden beri bazı insanların Witr olarak üç Rek'at namaz kıldığını gördük ve bu da caizdir. Bunun zararı olacağını ummuyorum.\""
+    },
+    {
+      "id": 5,
+      "narrator": "Narrated `A'isha:",
+      "text": "`A'isha'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) gece on bir Rek'at kılardı ve bu onun gece namazıydı ve her secdesi, sizden birinin Allah'ın Elçisi (ﷺ) başını kaldırmadan önce elli ayet okuması için yeterli bir süre sürerdi. Ayrıca (farz) Fajr namazından önce iki Rek'at (Sünnet) kılardı ve sonra Mu'adh-dhin ona gelene kadar sağ tarafına yatardı."
+    },
+    {
+      "id": 6,
+      "narrator": "Narrated Anas bin Seereen:",
+      "text": "Anas bin Seereen'den rivayet edilmiştir: İbn `Umar'a sordum: \"Fajr (farz) namazından önceki iki Rek'at hakkında, onların okunuşunu uzatmakla ilgili ne düşünüyorsun?\" O dedi ki: \"Peygamber (ﷺ) gece iki Rek'at kılar, ardından iki Rek'at daha ve bu şekilde devam eder, namazını bir Rek'at Witr ile bitirirdi. Fajr namazından önce Adhan'dan hemen sonra iki Rek'at kılardı.\" (Hammad, alt rivayetçi, \"Bu hızlı kıldığı anlamına geliyordu.\" dedi.)"
+    },
+    {
+      "id": 7,
+      "narrator": "Narrated `Aisha:",
+      "text": "`A'isha'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) Witr namazını farklı gecelerde, çeşitli saatlerde (İsha namazından) gecenin son saatine kadar kılardı."
+    },
+    {
+      "id": 8,
+      "narrator": "Narrated `A'isha:",
+      "text": "`A'isha'dan rivayet edilmiştir: Peygamber (ﷺ) gece namazını kılarken ben onun yatağında enine yatıyordum. Witr namazı kılmak istediğinde beni uyandırırdı ve ben de Witr namazını kılardım."
+    },
+    {
+      "id": 9,
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "`Abdullah bin `Umar'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Witr'i gece namazınızın sonu olarak kılın.\""
+    },
+    {
+      "id": 10,
+      "narrator": "Narrated Sa`id bin Yasar:",
+      "text": "Sa`id bin Yasar'dan rivayet edilmiştir: `Abdullah bin `Umar ile birlikte Mekke'ye gidiyordum ve sabahın yaklaşmakta olduğunu görünce, inip Witr namazını kıldım ve sonra ona katıldım. `Abdullah bin `Umar, \"Neredeydin?\" dedi. Ben de, \"Sabahın yaklaşmakta olduğunu görünce indim ve Witr namazını kıldım.\" dedim. `Abdullah, \"Allah'ın Elçisi'nin (ﷺ) güzel örneğini takip etmen yeterli değil mi?\" dedi. Ben de, \"Evet, Allah'a yemin ederim.\" dedim. O da, \"Allah'ın Elçisi (ﷺ) yolculukta deve üzerinde Witr kılardı.\" dedi."
+    },
+    {
+      "id": 11,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn `Umar'dan rivayet edilmiştir: Peygamber (ﷺ) (Nawafil) namazlarını Rahila'sının yönüne doğru işaretlerle kılar, fakat farz namazı kılmazdı. Witr namazını da (Rahila'sında) kılardı."
+    },
+    {
+      "id": 12,
+      "narrator": "Narrated Muhammad bin Seereen:",
+      "text": "Muhammed bin Seereen'den rivayet edilmiştir: Anas'a, \"Peygamber (ﷺ) Fajr namazında Kunut okudu mu?\" diye soruldu. Anas olumlu cevap verdi. Daha sonra, \"Kunut'u rükudan önce mi okudu?\" diye soruldu. Anas, \"O, rükudan sonra bir süre (bir ay boyunca) Kunut okudu.\" dedi."
+    },
+    {
+      "id": 13,
+      "narrator": "Narrated `Asim:",
+      "text": "`Asim'den rivayet edilmiştir: Anas bin Malik'e Kunut hakkında sordum. Anas, \"Kesinlikle okundu.\" dedi. Ben de, \"Rükudan önce mi yoksa sonra mı?\" diye sordum. Anas, \"Rükudan önce.\" dedi. Ben de, \"Şu ve bu bana, senin ona rükudan sonra okuduğunu söylediğini bildirdi.\" dedim. Anas, \"O yalan söyledi (yani 'yanıldı', Hicaz lehçesine göre).\" dedi. \"Allah'ın Elçisi (ﷺ) rükudan sonra bir ay boyunca Kunut okudu.\" Anas ekledi: \"Peygamber (ﷺ) Kur'an'ı ezbere bilen yetmiş adamı (Mekke'deki) putperestlere doğru gönderdi, onların sayısından daha azdılar ve Allah'ın Elçisi (ﷺ) ile aralarında bir barış anlaşması vardı (ama putperestler anlaşmayı bozup yetmiş adamı öldürdüler). Bu yüzden Allah'ın Elçisi (ﷺ) bir ay boyunca Kunut okudu ve Allah'tan onları cezalandırmasını istedi.\""
+    },
+    {
+      "id": 14,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir: Peygamber (ﷺ) bir ay boyunca (Fajr namazında) Kunut okudu ve Allah'tan Ral ve Dhakwan kabilelerini cezalandırmasını istedi."
+    },
+    {
+      "id": 15,
+      "narrator": "Narrated Anas:",
+      "text": "Anas'tan rivayet edilmiştir: Kunut, Maghrib ve Fajr namazlarında okunurdu."
+    }
+  ]
+}

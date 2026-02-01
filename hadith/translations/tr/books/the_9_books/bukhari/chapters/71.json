@@ -1,0 +1,61 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 9,
+    "arabic": {
+      "title": "صحيح البخاري",
+      "author": "الإمام محمد بن إسماعيل البخاري"
+    },
+    "english": {
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Muhammad ibn Ismail al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Narrated Abu Musa:",
+      "text": "Abu Musa'dan rivayet edilmiştir: Bir oğlum dünyaya geldi ve onu Peygamber (ﷺ)'e götürdüm. O da ona İbrahim adını verdi, bir hurmayla Tahnik yaptı, Allah'tan onun için bereket istemiş ve onu bana geri vermiştir. (Rivayet eden ekledi: Bu, Abu Musa'nın en büyük oğluydu.)"
+    },
+    {
+      "id": 2,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Peygamber (ﷺ)'e Tahnik yapılması için bir çocuk getirildi, fakat çocuk ona idrarını yaptı. Bunun üzerine Peygamber, idrarın olduğu yere su döktürdü."
+    },
+    {
+      "id": 3,
+      "narrator": "Narrated Asma' bint Abu Bakr:",
+      "text": "Asma bint Ebu Bekir'den rivayet edilmiştir: Abdullah bin Zübeyr'i Mekke'de hamile kaldım ve doğum yapacakken Mekke'den çıktım. Medine'ye geldim ve Kuba'da konakladım, orada doğum yaptım. Sonra çocuğu Allah'ın Elçisi (ﷺ)'ne getirdim ve onu (kucağına) koydum. O, bir hurma istedi, onu çiğnedi ve salyasını çocuğun ağzına koydu. Böylece çocuğun karnına giren ilk şey, Allah'ın Elçisi (ﷺ)'nin salyası oldu. Sonra ona bir hurmayla Tahnik yaptı ve Allah'tan onun için bereket istedi. Bu, İslam döneminde doğan ilk çocuktu, bu yüzden (Müslümanlar) doğumundan çok mutlu oldular, çünkü onlara Yahudilerin onları büyülediği ve bu yüzden çocuk sahibi olamayacakları söylenmişti."
+    },
+    {
+      "id": 4,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir: Ebu Talha'nın hasta bir çocuğu vardı. Bir gün, Ebu Talha dışarıdayken çocuk vefat etti. Ebu Talha eve döndüğünde, \"Oğlum nasıl?\" diye sordu. Um Selim (eşi) \"O, her zamankinden daha sessiz.\" diye cevap verdi. Sonra ona akşam yemeği getirdi ve o akşam yemeğini yedi ve onunla yattı. Yemeğini bitirdikten sonra, ona \"Çocuğu göm.\" dedi (çünkü ölmüştü). Ertesi sabah Ebu Talha, Allah'ın Elçisi (ﷺ)'ne geldi ve olanları anlattı. Peygamber (ﷺ) ona, \"Dün gece eşinle yattın mı?\" diye sordu. Ebu Talha, \"Evet.\" dedi. Peygamber (ﷺ) \"Ey Allah! O gece için onlara bereket ver.\" dedi. Um Selim bir oğul doğurdu. Ebu Talha, çocuğa bakmamı istedi, ta ki çocuk Peygamber'e götürülene kadar. Sonra Ebu Talha çocuğu Peygamber (ﷺ)'e götürdü ve Um Selim çocuğun yanında birkaç hurma gönderdi. Peygamber (ﷺ) çocuğu (kucağına) aldı ve yanında bir şey olup olmadığını sordu. İnsanlar, \"Evet, birkaç hurma.\" dediler. Peygamber bir hurma aldı, onu çiğnedi, ağzından birazını çıkarıp çocuğun ağzına koydu ve onunla Tahnik yaptı ve ona Abdullah adını verdi."
+    },
+    {
+      "id": 5,
+      "narrator": "Narrated Anas:",
+      "text": "Enes'ten rivayet edilmiştir: Yukarıdaki gibi."
+    },
+    {
+      "id": 6,
+      "narrator": "",
+      "text": "Salman bin Amri ed-Dabbi'den rivayet edilmiştir, Peygamber (ﷺ) şöyle dedi: \"Aqiqa, (yeni doğmuş) bir erkek çocuk için sunulmalıdır.\""
+    },
+    {
+      "id": 7,
+      "narrator": "Narrated Salman bin 'Amir Ad-Dabbi:",
+      "text": "Salman bin Amir ed-Dabbi'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ)'nin şöyle dediğini duydum: \"Aqiqa, (yeni doğmuş) bir erkek çocuk için sunulmalıdır, onun için (bir hayvan) kesin ve onu acısından kurtarın.\""
+    },
+    {
+      "id": 8,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Habib bin Şehid'den rivayet edilmiştir: İbn Sirin, 'Aqiqa rivayetini kimin duyduğunu Al-Hassan'a sormamı söyledi. Ona sordum ve \"Samura bin Cundab'dan.\" dedi."
+    },
+    {
+      "id": 9,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Ne Fara' ne de 'Atira (caizdir):\" Fara', putperestlerin putlarına (kurban) olarak sundukları ilk yavru (deve veya koyun) idi. 'Atira ise, Receb ayında (kesilmesi gereken) bir koyundu."
+    }
+  ]
+}

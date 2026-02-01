@@ -1,0 +1,26 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 2,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Anas ibn Malik said:",
+      "text": "Enes bin Malik dedi ki: \"Peygamber (Allah ona salat ve selam etsin) Mekke'ye miğferle girdi. Kendisine: 'Bu İbn Hatal Kabe'nin perdelerine yapışmış' denildi, o da: 'Onu öldürün!' dedi.\""
+    },
+    {
+      "id": 2,
+      "narrator": "Anas ibn Malik reported:",
+      "text": "Enes bin Malik rivayet etti: \"Allah'ın Elçisi (Allah ona salat ve selam etsin) Fetih Yılı'nda başında miğferle Mekke'ye girdi. Miğferini çıkardığında, bir adam yanına gelerek: 'İbn Hatal Kabe'nin perdelerine yapışmış' dedi, o da: 'Onu öldürün!' dedi. İbn Şihab dedi ki: 'Bana da ulaştı ki, Allah'ın Elçisi (Allah ona salat ve selam etsin) o gün ihramda değildi.'\""
+    }
+  ]
+}

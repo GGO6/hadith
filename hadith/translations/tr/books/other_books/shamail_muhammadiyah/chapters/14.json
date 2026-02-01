@@ -1,0 +1,26 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 2,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Az-Zubair ibn al-'Awwam said:",
+      "text": "Az-Zubair ibn al-'Awwam dedi ki: \"Peygamber (Allah ona salat ve selam eylesin) Uhud Günü iki zırh giydi, bu yüzden kayaya tırmanmaya çalıştı ama başaramadı. Bunun üzerine Talha'yı altına oturttu ve Peygamber (Allah ona salat ve selam eylesin) kayaya kadar tırmandı ve ayakta durdu.\" Dedi ki: \"Peygamberin (Allah ona salat ve selam eylesin) 'Talha, ödül almaya değer bir iş yaptı' dediğini duydum!\""
+    },
+    {
+      "id": 2,
+      "narrator": "As-Sa’ib ibn Yazid said:",
+      "text": "As-Sa’ib ibn Yazid dedi ki: \"Allah’ın Elçisi (Allah ona salat ve selam eylesin) Uhud Günü iki zırh giydi ve bunlar arasında destek sağladı.\""
+    }
+  ]
+}

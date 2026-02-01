@@ -1,0 +1,926 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 182,
+    "arabic": {
+      "title": "صحيح مسلم",
+      "author": "الإمام مسلم بن الحجاج"
+    },
+    "english": {
+      "title": "Sahih Muslim",
+      "author": "Imam Muslim ibn al-Hajjaj"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Ibn 'Aun reported:",
+      "text": "İbn 'Aun bildirdi: Nafi'ye, kafirlere karşı savaşmadan önce onlara İslam'ı kabul etmeleri için davet etmenin gerekli olup olmadığını sordum. O da bana, bunun İslam'ın ilk günlerinde gerekli olduğunu yazdı. Allah'ın Elçisi (ﷺ), Banu Mustaliq'e, su içen hayvanlarının yanında, habersiz bir baskın yaptı. Savaşanları öldürdü ve diğerlerini hapsetti. O gün, Juwairiya bint al-Harith'i esir aldı. Nafi', bu rivayetin kendisine Abdullah b. Umar tarafından aktarıldığını, onun da baskın birlikleri arasında bulunduğunu söyledi."
+    },
+    {
+      "id": 2,
+      "narrator": "",
+      "text": "Bu hadis, İbn 'Aun aracılığıyla nakledilmiştir ve Juwairiya bint al-Harith'in adı kesinlikle belirtilmiştir."
+    },
+    {
+      "id": 3,
+      "narrator": "It has been reported from Sulaiman b. Buraida through his father that when the Messenger of Allah (ﷺ) appointed anyone as leader of an army or detachment he would especially exhort him to fear Allah and to be good to the Muslims who were with him. He would say:",
+      "text": "Süleyman b. Bureyde'den babası aracılığıyla rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) birini ordu veya bir birlik lideri olarak atadığında, ona özellikle Allah'tan korkmasını ve yanında bulunan Müslümanlara iyi davranmasını tavsiye ederdi. Şöyle derdi: Allah'ın adıyla ve Allah yolunda savaşın. Allah'a inanmayanlara karşı savaşın. Kutsal bir savaş yapın, ganimetleri çalmayın; vaadinizi bozmayın; ölülerin bedenlerini parçalamayın; çocukları öldürmeyin. Putperest düşmanlarınızla karşılaştığınızda, onlara üç eylem çağrısında bulunun. Eğer bunlardan birine yanıt verirlerse, siz de kabul edin ve onlara zarar vermekten kaçının. Onları İslam'ı kabul etmeye davet edin; eğer size yanıt verirlerse, bunu kabul edin ve onlara karşı savaşmaktan vazgeçin. Sonra onları kendi topraklarından muhacirlerin topraklarına göç etmeye davet edin ve eğer bunu yaparlarsa, muhacirlerin tüm ayrıcalıklarına ve yükümlülüklerine sahip olacaklarını bildirin. Eğer göç etmeyi reddederlerse, onlara Bedevi Müslümanların statüsünde olacaklarını ve diğer Müslümanlar gibi Allah'ın emirlerine tabi olacaklarını, ancak savaşa katılmadıkları sürece ganimetten veya Fai'den herhangi bir pay almayacaklarını söyleyin. Eğer İslam'ı kabul etmeyi reddederlerse, onlardan cizye talep edin. Eğer ödemeyi kabul ederlerse, bunu kabul edin ve ellerinizi çekin. Eğer vergi ödemeyi reddederlerse, Allah'tan yardım isteyin ve onlarla savaşın. Bir kaleye kuşatma yaptığınızda ve kuşatılanlar size Allah ve Elçisi adına koruma talep ederse, onlara Allah ve Elçisi adına güvence vermeyin, ancak kendi güvence ve arkadaşlarınızın güvencesini verin; çünkü sizin veya arkadaşlarınızın verdiği güvenceyi ihlal etmek, Allah ve Elçisi adına verilen güvenceyi ihlal etmekten daha az bir günahtır. Bir kaleye kuşatma yaptığınızda ve kuşatılanlar sizi Allah'ın emri doğrultusunda dışarı çıkmaları için talep ederse, onları O'nun emri doğrultusunda dışarı çıkarmayın, ancak kendi emrinizle yapın; çünkü onların durumu hakkında Allah'ın emrini yerine getirip getiremeyeceğinizi bilemezsiniz."
+    },
+    {
+      "id": 4,
+      "narrator": "",
+      "text": "Süleyman b. Bureyde, babası aracılığıyla bildirdi ki, Allah'ın Elçisi (ﷺ) bir Amir'i bir birlikle gönderdiğinde onu çağırır ve ona tavsiyelerde bulunurdu. Hadisin geri kalanı aynıdır."
+    },
+    {
+      "id": 5,
+      "narrator": "",
+      "text": "Bu hadis, Şu'ba aracılığıyla nakledilmiştir."
+    },
+    {
+      "id": 6,
+      "narrator": "It has been narrated on the authority of Abu Masa that when the Messenger of Allah (ﷺ) deputed any of his Companions on a mission, he would say:",
+      "text": "Abu Masa'nın rivayetine göre, Allah'ın Elçisi (ﷺ) herhangi bir arkadaşını bir göreve gönderdiğinde şöyle derdi: İnsanlara müjde verin; (dinin) aleyhine bir nefret oluşturmayın; onlara yumuşak davranın ve sert olmayın."
+    },
+    {
+      "id": 7,
+      "narrator": "It has also been narrated by Sa'd b. Abu Burda through his father through his grandfather that the Prophet of Allah (ﷺ) sent him and Mu'adh (on a mission) to the Yemen, and said (by way of advising them):",
+      "text": "Bu hadis, Sa'd b. Abu Burda'nın babası aracılığıyla, dedesi üzerinden de rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) onu ve Mu'adh'ı (bir göreve) Yemen'e gönderdi ve (onlara tavsiyelerde bulunarak) şöyle dedi: İnsanlara yumuşak davranın; sert olmayın; onlara (bu dünyada ve ahirette) ilahi nimetlerin müjdesini verin; ve nefret oluşturmayın. İş birliği yapın ve bölünmeyin."
+    },
+    {
+      "id": 8,
+      "narrator": "",
+      "text": "Bu hadis, Bureyda aracılığıyla nakledilmiştir ancak son iki kelime hariçtir."
+    },
+    {
+      "id": 9,
+      "narrator": "The Messenger of Allah (may peace he upon him) has been reported by Anas b. Malik to have said:",
+      "text": "Allah'ın Elçisi (ona selam olsun) Anas b. Malik'ten şöyle rivayet edilmiştir: Yumuşak davranın; sert olmayın; teselli verin ve nefret oluşturmayın."
+    },
+    {
+      "id": 10,
+      "narrator": "It has been narrated on the authority of Ibn 'Umar that the Messenger of Allah (ﷺ) said:",
+      "text": "İbn 'Umar'dan rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle dedi: Allah, Kıyamet Günü, insanlığın önceki ve sonraki nesillerini topladığında, her bir ihanet eden kişi için bir bayrak kaldırılacak ve bu, filan kişi, filan oğlu ihanetidir diye ilan edilecektir."
+    },
+    {
+      "id": 11,
+      "narrator": "",
+      "text": "Bu hadis, İbn 'Umar aracılığıyla bazı diğer rivayet zincirleri üzerinden nakledilmiştir."
+    },
+    {
+      "id": 12,
+      "narrator": "This hadith has been narrated by another chain of transmitters on the authority of the same narrator, with the wording:",
+      "text": "Bu hadis, aynı rivayetçiden başka bir zincirle nakledilmiştir ve metni: Kıyamet Günü, her bir ihanet eden kişi için bir bayrak dikilecek ve şöyle denilecektir: Bakın, bu filan kişinin ihanetidir."
+    },
+    {
+      "id": 13,
+      "narrator": "Ibn Umar reported that he heard the Messenger of Allah (ﷺ) saying:",
+      "text": "İbn 'Umar, Allah'ın Elçisi (ﷺ) şöyle derken duyduğunu bildirdi: Kıyamet Günü, her bir ihanet eden kişi için bir bayrak olacaktır."
+    },
+    {
+      "id": 14,
+      "narrator": "'Abdullah reported Allah's Prophet (ﷺ) as saying:",
+      "text": "'Abdullah, Allah'ın Elçisi (ﷺ) şöyle derken bildirdi: Kıyamet Günü, her bir ihanet eden kişi için bir bayrak olacaktır ve denilecektir: İşte filan kişinin ihanetidir."
+    },
+    {
+      "id": 15,
+      "narrator": "",
+      "text": "Bu hadis, Şu'ba aracılığıyla hafif bir kelime değişikliği ile nakledilmiştir."
+    },
+    {
+      "id": 16,
+      "narrator": "It has been narrated on the authority of Abdullah that the Messenger of Allah (ﷺ) said:",
+      "text": "Abdullah'dan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle buyurmuştur: Kıyamet Günü her hain kişi için tanınacağı bir bayrak olacaktır. İlan edilecektir: İşte falan filanın ihanetidir."
+    },
+    {
+      "id": 17,
+      "narrator": "Anas reported Allah's Messenger (ﷺ) having said this:",
+      "text": "Anas, Allah'ın Resulü (ﷺ) şöyle demiştir diye rivayet etmiştir: Kıyamet Günü her hain kişi için tanınacağı bir bayrak olacaktır."
+    },
+    {
+      "id": 18,
+      "narrator": "It is narrated on the authority of Abu Sa'id that the Messenger of Allah (ﷺ) said:",
+      "text": "Abu Sa'id'den rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle buyurmuştur: Kıyamet Günü, ihanet suçu işlemiş her kişinin arkasında sabit bir bayrak olacaktır."
+    },
+    {
+      "id": 19,
+      "narrator": "It is narrated on the authority of Abu Sa'id that the Messenger of Allah (ﷺ) said:",
+      "text": "Abu Sa'id'den rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle buyurmuştur: Kıyamet Günü, ihanet suçu işlemiş her kişi için bir bayrak olacaktır. Bu bayrak, suçunun büyüklüğüne göre yükselecektir; ve insanların yöneticisi tarafından işlenen ihanet suçundan daha ciddi bir ihanet yoktur."
+    },
+    {
+      "id": 20,
+      "narrator": "It is narrated on the authority of Jabir that the Messenger of Allah (ﷺ) said:",
+      "text": "Jabir'den rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle buyurmuştur: Savaş bir hiledir."
+    },
+    {
+      "id": 21,
+      "narrator": "",
+      "text": "Bu hadis, Abu Huraira'dan da rivayet edilmiştir."
+    },
+    {
+      "id": 22,
+      "narrator": "It has been narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:",
+      "text": "Abu Huraira'dan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle buyurmuştur: Düşmanla karşılaşmayı arzulamayın; fakat onlarla karşılaştığınızda, sağlam durun."
+    },
+    {
+      "id": 23,
+      "narrator": "It is narrated by Abu Nadr that he learnt from a letter sent by a man from the Aslam tribe, who was a Companion of the Prophet (ﷺ) and whose name was 'Abdullah b. Abu Aufa, to 'Umar b. 'Ubaidullah when the latter marched upon Haruriyya (Khawarij) informing him that the Messenger of Allah (ﷺ) in one of those days when lie was confronting the enemy waited until the sun had declined. Then he stood up (to address the people) and said:",
+      "text": "Abu Nadr, Aslam kabilesinden bir adamın, Allah'ın Resulü (ﷺ) ile birlikte olan ve ismi 'Abdullah b. Abu Aufa olan bir Sahabi'nin, 'Umar b. 'Ubaidullah'a Haruriyya'ya yürüdüğünde gönderdiği bir mektuptan öğrendiğini rivayet etmiştir. Mektupta, Allah'ın Resulü (ﷺ) düşmanla karşılaştığı günlerden birinde güneşin batmasını beklediğini, sonra ayağa kalkıp (insanlara) şöyle dediğini belirtmiştir: Ey insanlar, düşmanla karşılaşmayı arzulamayın. Allah'tan güvenlik dilemekte olun; fakat onlarla karşılaştığınızda sabırlı olun ve bilin ki cennet kılıçların gölgeleri altındadır. Sonra Allah'ın Resulü (ﷺ) tekrar ayağa kalktı ve şöyle dedi: Ey Allah, Kitabı indiren, bulutları dağıtan, orduları bozguna uğratan, düşmanımızı bozguna uğrat ve onlara karşı bize yardım et."
+    },
+    {
+      "id": 24,
+      "narrator": "It is narrated on the authority of Ibn Abu Aufa that the Messenger of Allah (ﷺ) cursed the tribes (who had marched upon Medina with a combined force in 5 H) and said:",
+      "text": "Ibn Abu Aufa'dan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) Medine'ye birleşik bir güçle yürüyen kabilelere lanet etti ve şöyle dedi: Ey Allah, Kitabı indiren, hesapta acele eden, kabileleri bozguna uğrat. Ey Rabbim, onları yenilgiye uğrat ve sars."
+    },
+    {
+      "id": 25,
+      "narrator": "",
+      "text": "Bu hadis, Ibn Abu Aufa'dan biraz farklı kelimelerle rivayet edilmiştir."
+    },
+    {
+      "id": 26,
+      "narrator": "",
+      "text": "Bu hadis, Ibn 'Uyaina'dan başka bir nakil zinciriyle rivayet edilmiştir (ve onun rivayetinde \"bulutları dağıtan\" kelimeleri eklenmiştir)."
+    },
+    {
+      "id": 27,
+      "narrator": "It is narrated on the authority of Anas that the Messenger of Allah (ﷺ) said on the day of the Battle of Uhud:",
+      "text": "Anas'tan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) Uhud Savaşı günü şöyle demiştir: Ey Allah, eğer Sen (Müslümanları) yenersen, yeryüzünde Sana ibadet edecek kimse kalmayacaktır."
+    },
+    {
+      "id": 28,
+      "narrator": "",
+      "text": "Abdullah'dan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) tarafından yapılan savaşlardan birinde bir kadın öldürülmüş olarak bulunmuştur. O, kadınların ve çocukların öldürülmesini hoş görmemiştir."
+    },
+    {
+      "id": 29,
+      "narrator": "",
+      "text": "Ibn 'Umar'dan rivayet edilmiştir ki, bu savaşlardan birinde bir kadın öldürülmüş olarak bulunmuştur; bu nedenle Allah'ın Resulü (ﷺ) kadınların ve çocukların öldürülmesini yasaklamıştır."
+    },
+    {
+      "id": 30,
+      "narrator": "It is reported on the authority of Sa'b b. Jaththama that the Prophet of Allah (ﷺ), when asked about the women and children of the polytheists being killed during the night raid, said:",
+      "text": "Sa'b b. Jaththama'dan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) gece baskınında müşriklerin kadın ve çocuklarının öldürülmesi hakkında sorulduğunda şöyle demiştir: Onlar onlardan."
+    },
+    {
+      "id": 31,
+      "narrator": "It is narrated by Sa'b b. Jaththama that he said (to the Holy Prophet):",
+      "text": "Sa'b b. Jaththama'dan rivayet edilmiştir ki, o (Peygamber Efendimize) dedi: Allah'ın Resulü, gece baskınlarında müşriklerin çocuklarını öldürüyoruz. O da: Onlar onlardandır, dedi."
+    },
+    {
+      "id": 32,
+      "narrator": "Sa'b b. Jaththama has narrated that the Prophet (ﷺ) asked:",
+      "text": "Sa'b b. Jaththama'nın rivayetine göre, Peygamber (ﷺ) sordu: Gece baskınında süvariler tarafından öldürülen müşrik çocukları hakkında ne dersin? O da: Onlar onlardandır, dedi."
+    },
+    {
+      "id": 33,
+      "narrator": "It is narrated on the authority of 'Abdullah that the Messenger of Allah (ﷺ) ordered the date-palms of Banu Nadir to be burnt and cut. These palms were at Buwaira. Qutaibah and Ibn Rumh in their versions of the tradition have added:",
+      "text": "'Abdullah'dan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) Banu Nadir'in hurma ağaçlarının yakılmasını ve kesilmesini emretti. Bu ağaçlar Buwaira'daydı. Kütaybe ve İbn Rumh, rivayetlerinde şunu eklemişlerdir: Bunun üzerine Allah, Azze ve Celle, \"Kestiğiniz veya köklerinde bıraktığınız ağaçlar, Allah'ın izniyle oldu ki, O, zalimleri rezil etsin\" (lix. 5) ayetini indirdi."
+    },
+    {
+      "id": 34,
+      "narrator": "It is narrated on the authority of Ibn Umar that the Messenger of Allah (ﷺ) caused the date-palms of Banu Nadir to be cut down and burnt. It is in this connection that Hassan (the poet) said:",
+      "text": "İbn Umar'dan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) Banu Nadir'in hurma ağaçlarını kestirdi ve yaktırdı. Bu bağlamda Hassan (şair) dedi ki: Kureyş'in ileri gelenleri için Buwaira'yı yakmak kolaydı, kıvılcımları her yöne uçuyordu, bu bağlamda da \"Kestiğiniz veya köklerinde bıraktığınız ağaçlar\" ayeti indirildi."
+    },
+    {
+      "id": 35,
+      "narrator": "",
+      "text": "'Abdullah b. Umar, Allah'ın Resulü'nün (ﷺ) Banu Nadir'in hurma ağaçlarını yaktığını bildirmiştir."
+    },
+    {
+      "id": 36,
+      "narrator": "It has been narrated by Abu Huraira that the Messenger of Allah (ﷺ) said:",
+      "text": "Abu Huraira'dan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle dedi: Bir Peygamber cihad yaptı. Takipçilerine dedi ki: Bir kadınla evlenip, henüz onunla cinsel ilişkiye girmemiş olan; bir ev inşa edip, henüz çatısını kurmamış olan; ve keçiler ve hamile dişi develer satın alıp, yavrularını bekleyen biri benimle birlikte olamaz. Sonra yürüdü ve Asr namazı vaktinde bir köye yaklaştı. Güneşe dedi: Sen Allah'a boyun eğmişsin, ben de boyun eğmişim. Ey Allah, onu benim için biraz durdur. Güneş, ona zafer verilene kadar durduruldu. İnsanlar ganimetleri (bir yere) topladılar. Bir ateş ganimetlere yaklaşarak onları yemeye çalıştı, ama onları yemedi. O (Peygamber) dedi: Bazılarınız hırsızlık yaptı. Her kabileden bir kişi bana biat etmelidir. Onlar da (ellerini onun eline koyarak) biat ettiler. Bir adamın eli onun eline yapıştı ve Peygamber (ﷺ) dedi: Senin kabilen hırsızlık yaptı. Kabilenin tüm üyeleri sırayla bana biat etsin. Bunu yaptıklarında, iki veya üç kişinin elleri onun eline yapıştı. O dedi: Siz hırsızlık yaptınız. Bunun üzerine, bir inek başı kadar altın çıkardılar. Onu yere ganimetlerin arasına koydular. Sonra ateş ganimetlere yaklaştı ve onları yedi. Ganimetler, bizden önceki bir kavme helal kılınmamıştır. Bu, Allah bizim zayıflığımızı ve alçakgönüllülüğümüzü gördüğü içindir ve onları bizim için helal kılmıştır."
+    },
+    {
+      "id": 37,
+      "narrator": "A hadith has been narrated by Mus'ab b. Sa'd who heard it from his father as saying:",
+      "text": "Mus'ab b. Sa'd'dan rivayet edilmiştir ki, o babasından şöyle duydu: Babam, Khums'tan bir kılıç aldı ve Peygamber'e (ﷺ) getirdi ve dedi: Bunu bana ver. O reddetti. Bunun üzerine Allah, \"Sana ganimetleri soruyorlar. De ki: Ganimetler Allah'a ve Resulüne aittir\" (viii. 1) ayetini indirdi."
+    },
+    {
+      "id": 38,
+      "narrator": "A hadith has been narrated by Mus'ab b. Sa'd who heard it from his father as saying:",
+      "text": "Mus'ab b. Sa'd'dan rivayet edilmiştir ki, o babasından şöyle duydu: \"Bana dört ayet indirildi. Ganimetlerden bir kılıç buldum. O, Peygamber'e (ﷺ) getirildi. Babam dedi: Allah'ın Resulü, bunu bana ver. Allah'ın Resulü (ﷺ) dedi: Oraya koy. Sonra o (babam) ayağa kalktı ve Allah'ın Resulü (ﷺ) ona dedi: Aldığın yerden koy. (Bunun üzerine) o (babam) tekrar dedi: Allah'ın Resulü, bunu bana ver. Ben, ganimetten hiç payı olmayan biri gibi muamele mi göreceğim? Allah'ın Resulü (sallallahu aleyhi ve sellem) dedi: Aldığın yerden koy. Bunun üzerine \"Sana ganimetleri soruyorlar... De ki: Ganimetler Allah'a ve Resulüne aittir\" ayeti indirildi."
+    },
+    {
+      "id": 39,
+      "narrator": "",
+      "text": "İbn Umar'dan rivayet edilmiştir ki, Peygamber (ﷺ) Najd'e bir sefer gönderdi ve ben de askerler arasındaydım. Onlar ganimet olarak çok sayıda deve elde ettiler. Her savaşçıya on bir veya on iki deve düştü ve her birine bir ekstra deve verildi."
+    },
+    {
+      "id": 40,
+      "narrator": "",
+      "text": "İbn 'Umar, Allah'ın Resulü'nün (ﷺ) Najd'e bir sefer gönderdiğini ve İbn Umar'ın da askerler arasında olduğunu bildirmiştir. Onların (ganimet) payı on iki deve oldu ve bunun üzerine bir deve daha verildi. Allah'ın Resulü (ﷺ) bu konuda herhangi bir değişiklik yapmadı."
+    },
+    {
+      "id": 41,
+      "narrator": "",
+      "text": "İbn 'Umar'dan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) Najd'e bir sefer gönderdi ve ben (da) askerlerle birlikteydim. Ganimet olarak develer ve keçiler aldık ve payımız kişi başına on iki deve oldu, ve Allah'ın Resulü (ﷺ) her birimize bir ekstra deve verdi."
+    },
+    {
+      "id": 42,
+      "narrator": "",
+      "text": "Bu hadis 'Ubaidullah'dan aynı isnadla rivayet edilmiştir."
+    },
+    {
+      "id": 43,
+      "narrator": "Ibn Aun said:",
+      "text": "İbn Aun dedi ki: Nafl (ganimet) hakkında Nafi'ye yazdım ve o bana yazdı ki, İbn 'Umar o seferdeydi. (Hadisin geri kalanı aynıdır.)"
+    },
+    {
+      "id": 44,
+      "narrator": "A hadith has been narrated by Salim who learnt it from his father and said:",
+      "text": "Salim'den rivayet edilmiştir ki, o babasından öğrendi ve dedi: Allah'ın Resulü (ﷺ) bize Khums payımızın yanı sıra bir ekstra (deve) verdi; (bu ekstra payda) ben bir Şerif (ve Şerif, büyük eski bir devedir) aldım."
+    },
+    {
+      "id": 45,
+      "narrator": "Ibn Shihab reported:",
+      "text": "İbn Şihab bildirdi: Bana İbn Umar aracılığıyla ulaştı ki, Allah'ın Resulü (ﷺ) askere ganimet payı verdi. Hadisin geri kalanı aynıdır."
+    },
+    {
+      "id": 46,
+      "narrator": "",
+      "text": "Abdullah b. 'Umar'dan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) küçük birliklere, büyük bir ordudaki her savaşçının hak ettiği paydan daha fazlasını (savaş ganimetlerinden) verirdi. Ve Khums (ganimetin beşte biri) her durumda (Allah ve Resulü için) ayrılmalıydı."
+    },
+    {
+      "id": 47,
+      "narrator": "",
+      "text": "Abu Muhammed el-Ensari, Abu Katade'nin yakın arkadaşıdır. (Aşağıdaki) hadisi rivayet etmiştir."
+    },
+    {
+      "id": 48,
+      "narrator": "",
+      "text": "Abu Muhammed, Abu Katade'nin azatlı kölesi, Abu Katade'den rivayet etti ve hadisi anlattı."
+    },
+    {
+      "id": 49,
+      "narrator": "Abu Qatada reported:",
+      "text": "Abu Katade şöyle bildirdi: Allah'ın Resulü (salat ve selam üzerine olsun) ile Huneyn Savaşı'nda bir sefere katıldık. Düşmanla karşılaştığımızda, (Müslümanlardan bazıları korkudan geri döndü). Ben, müşriklerden birinin Müslümanlardan birine saldırdığını gördüm. Arkama döndüm ve ona, boynu ile omuzu arasında bir darbe vurarak saldırdım. O da bana döndü ve öyle bir şekilde boğuşmaya başladı ki, ölümün yüzüme baktığını görmeye başladım. Sonra ölüm onu yakaladı ve beni yalnız bıraktı. 'Umar b. al-Khattab'a katıldım, o da: İnsanlara ne oldu (ki geri çekiliyorlar)? dedi. Ben de: Bu Allah'ın takdiri. dedim. Sonra insanlar geri döndü. (Savaş Müslümanlar için bir zaferle sona erdi) ve Allah'ın Resulü (ﷺ) oturdu (ganimetleri dağıtmak için). Dedi ki: Düşmanı öldüren ve bunu kanıtlayacak delil getiren, onun eşyalarını alacaktır. Ben ayağa kalktım ve: Benim için kim delil getirecek? dedim. Sonra oturdum. Sonra o (Kutsal Peygamber) şöyle dedi. Ben tekrar ayağa kalktım ve: Benim için kim şahitlik edecek? dedim. O (Kutsal Peygamber) üçüncü kez aynı şekilde söyledi ve ben tekrar ayağa kalktım. Şimdi Allah'ın Resulü (ﷺ) dedi ki: Ey Abu Katade, sana ne oldu? Sonra (tüm) hikayeyi ona anlattım. Bunun üzerine, insanlardan biri: O doğruyu söyledi. dedi. Allah'ın Resulü: Öldürdüğü düşmanın eşyaları benimle. Onu hakkından feragat etmeye ikna edin. (Bu öneriye itiraz eden) Abu Bekir dedi: Vallahi, bu olmayacak. Allah'ın Resulü (ﷺ) Allah yolunda savaşan Allah'ın aslanlarından birini mahrum bırakmayı istemez ve sana ganimetin payını vermez. Bunun üzerine Allah'ın Resulü (salat ve selam üzerine olsun) dedi: O (Abu Bekir) doğruyu söyledi, o halde eşyaları ona (Abu Katade) verin. Böylece bana verdiler. Zırhımı (ganimet payımın bir parçası olan) sattım ve satış gelirleriyle Banu Salama sokağında bir bahçe aldım. Bu, İslam'ı kabul ettikten sonra edindiğim ilk mülk oldu. Laith tarafından rivayet edilen hadiste, Abu Bekir'in söylediği sözler: \"Hayır, asla! O, Kureyş'ten bir tilkiye vermeyecek, Allah'ın aslanlarından birini bırakacak...\" ve hadisin sonu: \"İlk mülküm.\""
+    },
+    {
+      "id": 50,
+      "narrator": "It has been narrated on the authority of 'Abd al-Rahman b. Auf who said:",
+      "text": "'Abd al-Rahman b. Auf'tan rivayet edilmiştir ki, Badr Günü savaş düzeninde dururken sağa ve sola baktım ve kendimi yaşı çok küçük iki Ensar çocuğunun arasında buldum. Daha güçlü kişilerin arasında olmayı dilerdim. Onlardan biri bana işaret etti ve dedi ki: Amca, Abu Cehil'i tanıyor musun? Ben de: Evet. dedim. O, onunla ne yapmak istiyorsun, ey yeğenim? dedi. O da: Bana, Allah'ın Resulü (ﷺ) hakkında kötü konuştuğu söylendi. Vallahi, hayatımın sahibi olan Allah'a yemin ederim ki, onu gördüğümde (boğuşacağım) ve birimizden biri daha önce ölene kadar onu bırakmayacağım. Rivayet eden kişi: Buna hayret ettim. Sonra diğeri de bana benzer sözler söyledi. Kısa bir süre sonra Abu Cehil'i gördüm. İnsanların arasında dolaşıyordu. İki çocuğa: Görmüyor musunuz? O, sorduğunuz adam. dedim. (Bunu duyunca) hemen ona doğru daldılar, kılıçlarıyla ona vurup onu öldürdüler. Sonra Allah'ın Resulü'ne (ﷺ) geri döndüler ve (bu durumu) bildirdiler. O da: Sizden hangisi onu öldürdü? diye sordu. Her biri: Ben onu öldürdüm. dedi. O da: Kılıçlarınızı silktiniz mi? dediler: Hayır. Kılıçlarını inceledi ve: İkiniz de onu öldürdünüz. dedi. Sonra Abu Cehil'in eşyalarının Mu'adh b. Amr b. al-Jamuh'a verilmesine karar verdi. İki çocuk Mu'adh b. Amr b. Jawth ve Mu'adh b. Afra idi."
+    },
+    {
+      "id": 51,
+      "narrator": "Auf b. Malik has narrated that a man from the Himyar tribe killed an enemy and wanted to take the booty. Khalid b. Walid, who was the commander over them, forbade, him. 'Auf b Malik (the narrator) came to the Messenger of Allah (ﷺ) and informed him (to this effect). The latter asked Khalid:",
+      "text": "Auf b. Malik, Himyar kabilesinden bir adamın bir düşmanı öldürdüğünü ve ganimeti almak istediğini rivayet etmiştir. Onların komutanı olan Halid b. Velid, ona bunu yasakladı. Auf b. Malik (rivayet eden) Allah'ın Resulü'ne (ﷺ) geldi ve durumu bildirdi. Resulullah ona: Ona ganimeti vermekten ne alıkoydu? diye sordu. Halid: Bunun fazla olduğunu düşündüm. dedi. O (Kutsal Peygamber) dedi ki: Ona ver. Şimdi Halid, Auf'a döndüğünde, Auf onu pelerininden çekerek (şaka yollu): Sana, Allah'ın Resulü'nden (salat ve selam üzerine olsun) bildirdiğim şeyin aynı şey olmadı mı? dedi. Allah'ın Resulü (ﷺ) bunu duyunca öfkelendi ve: Halid, ona verme, Halid, ona verme. Beni atadığın komutanları terk mi edeceksin? Senin benzerin ve onlarınki, bir kişinin develeri ve koyunları otlatması gibidir. Onları otlattıktan sonra, içme zamanı geldiğinde, onları bir havuza getirdi. Böylece, temiz suyu içip bulanık suyu geride bıraktılar. Temiz su (yani en iyi ödül) senin içindir ve bulanık su (yani kınama) onların içindir."
+    },
+    {
+      "id": 52,
+      "narrator": "It has been narrated on the authority of Auf b. Malik al-Ashja'i who said:",
+      "text": "Auf b. Malik el-Eşca'i, Zaid b. Haritha'nın komutasındaki Muta seferine katıldığını ve Yemen'den takviye aldığını rivayet etmiştir. (Bu girişten sonra), rivayet eden kişi, daha önce geçen hadisi anlattı, ancak onun versiyonunda Auf'un Halid'e: Halid, Allah'ın Resulü (salat ve selam üzerine olsun) düşmanı öldüren kişiye ganimeti vermeyi kararlaştırmadı mı? dediği belirtilmiştir. Halid: Evet, ama bunun fazla olduğunu düşündüm. dedi."
+    },
+    {
+      "id": 53,
+      "narrator": "It has been reported by Salama b. al-Akwa':",
+      "text": "Salama b. al-Akwa' şöyle rivayet etmiştir: Allah'ın Resulü (ﷺ) ile birlikte Hawazin Savaşı'na katıldık. (Bir gün) Allah'ın Resulü ile kahvaltı yaparken, kırmızı bir deveye binen bir adam geldi. Deveyi diz çöktürdü, belinden bir deri parçası çıkararak deveyi onunla bağladı. Sonra insanlarla birlikte yemek almaya başladı ve etrafa merakla bakındı. Biz kötü bir durumda idik, çünkü bazılarımız yürüyerek (biniş hayvanı olmadan) bulunuyordu. Aniden, aceleyle yanımızdan ayrıldı, devesine gitti, onu çözüp diz çöktürdü, bindi ve hayvan hızla kaçtı. Kahverengi bir deveye binen bir adam onu takip etti (onu bir casus sanarak). Salama (rivayet eden) dedi ki: Ben de yaya olarak takip ettim. Koşarak, dişi devenin uyluğuna kadar geldim. Daha da ileri gittim, devenin arka tarafına kadar geldim. Daha da ileri giderek devenin ipini yakaladım. Onu diz çöktürdüm. Devesi yere diz çöktüğünde, kılıcımı çekip, binicinin başına vurup onu yere düşürdüm. Adamın eşyası ve silahlarıyla birlikte deveyi geri getirdim. Allah'ın Resulü (ﷺ) bana doğru geldi ve yanında insanlar vardı. O da: Adamı kim öldürdü? diye sordu. İnsanlar: İbn Akva' dedi. O da: Adamın her şeyi onun içindir (İbn Akva')."
+    },
+    {
+      "id": 54,
+      "narrator": "It has been narrated on the authority of Salama (b. al-Akwa') who said:",
+      "text": "Salama (b. al-Akwa')'dan rivayet edilmiştir ki: Fazara'ya karşı savaştık ve üzerimizde komutan olarak Abu Bekir vardı. Allah'ın Resulü (ﷺ) tarafından atanmıştı. Düşmanın suyuna sadece bir saat mesafede olduğumuzda, Abu Bekir bize saldırmamızı emretti. Gece yarısında dinlenmek için durakladık ve sonra her taraftan saldırdık ve onların su içme yerine ulaştık, burada bir savaş yapıldı. Düşmanlardan bazıları öldürüldü ve bazıları esir alındı. Kadınlar ve çocuklardan oluşan bir grup gördüm. Onların benden önce dağa ulaşmasından korktum, bu yüzden onlara bir ok attım. Ok görünce durdular. Böylece onları sürerek getirdim. Aralarında Banu Fazara'dan bir kadın vardı. Deri bir ceket giymekteydi. Onunla birlikte, Arabistan'ın en güzel kızlarından biri olan kızı vardı. Onları sürerek Abu Bekir'e getirdim ve o da o kızı bana ödül olarak verdi. Böylece Medine'ye vardık. Onu henüz soyunmamıştım ki, Allah'ın Resulü (ﷺ) sokakta bana rastladı ve: O kızı bana ver, ey Salama. dedi. Ben de: Allah'ın Resulü, o beni etkiledi. Henüz onu soyunmamıştım. Ertesi gün Allah'ın Resulü (ﷺ) yine sokakta bana rastladı ve: Ey Salama, o kızı bana ver, Allah babanı kutsasın. dedi. Ben de: O senin, ey Allah'ın Resulü! Vallahi, henüz onu soyunmamıştım. Allah'ın Resulü (ﷺ) onu Mekke halkına gönderdi ve Mekke'de esir alınan bir grup Müslüman için fidye olarak teslim etti."
+    },
+    {
+      "id": 55,
+      "narrator": "It has been narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:",
+      "text": "Abu Huraira'dan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) dedi ki: Eğer bir kasabaya (resmi bir savaş olmaksızın teslim olan) gelirseniz ve orada kalırsanız, ondan elde edilen (mülklerden) bir payınız vardır (bu bir ödül şeklinde olacaktır). Eğer bir kasaba Allah'a ve Resulüne isyan eder ve (Müslümanlara karşı savaşırsa) oradan ele geçirilen ganimetin beşte biri Allah ve Resulü içindir, geri kalanı ise sizindir."
+    },
+    {
+      "id": 56,
+      "narrator": "It has been narrated on the authority of Umar, who said:",
+      "text": "Umar'dan rivayet edilmiştir ki, Banu Nadir'in terk ettiği mülkler, Allah'ın Resulü'ne (ﷺ) verilen ve ne atlı ne de deve ile herhangi bir sefer düzenlenmeden elde edilen mülklerdi. Bu mülkler özellikle Peygamber (ﷺ) için ayrılmıştı. O, ailesinin yıllık giderlerini buradan karşılar ve kalanını da cihad hazırlığı olarak at ve silah satın almak için harcardı."
+    },
+    {
+      "id": 57,
+      "narrator": "",
+      "text": "Bu hadisi Zuhri'den rivayet edilmiştir."
+    },
+    {
+      "id": 58,
+      "narrator": "It is reported by Zuhri that this tradition was narrated to him by Malik b. Aus who said:",
+      "text": "Zuhri, bu geleneği Malik b. Aus'tan duyduğunu bildirmiştir. Malik b. al-Khattab beni çağırdı ve ben de ona geldiğimde gün ilerlemişti. Onu evinde, çıplak yataklığında, deri bir yastığa yaslanmış otururken buldum. Bana dedi ki: Malik, senin kabileden bazı insanlar bana yardım istemek için geldiler. Onlar için biraz para ayırdım. Al bunu ve aralarında dağıt. Ben de: Keşke bu işi yapması için başka birini emretseydin. dedim. O da: Malik, bunu al (ve sana söyleneni yap). Bu sırada (hizmetçisi) Yarfa' içeri girdi ve: Müminlerin komutanı, Uthman, Abd al-Rahman b. 'Auf, Zubair ve Sa'd (seninle görüşmek için geldiler) hakkında ne dersin? dedi. O da: Evet, onlara izin verdi. Böylece içeri girdiler. Sonra (Yarfa') tekrar geldi ve: 'Ali ve Abbas (kapıda hazırlar) hakkında ne dersin? dedi. O da: Evet, onlara da izin verdi. Abbas dedi: Müminlerin komutanı, benimle bu günahkar, hain, sahtekar arasında (anlaşmazlığı) karara bağla. Orada bulunan insanlar da: Evet, Müminlerin komutanı, anlaşmazlığı karara bağla ve onlara merhamet et. dediler. Malik b. Aus dedi ki: Onların bu amaçla (Ali ve Abbas tarafından) önceden gönderdiklerini hayal edebiliyordum. 'Umar dedi ki: Bekleyin ve sabırlı olun. Size, gökleri ve yeri ayakta tutan Allah'a yemin ederim ki, Allah'ın Resulü (ﷺ) şöyle dedi: \"Biz (peygamberler) mirasçı değiliz; geride bıraktığımız şey (sadaka olarak) verilmelidir.\" Dediler: Evet. Sonra Abbas ve 'Ali'ye döndü ve: Size, gökleri ve yeri ayakta tutan Allah'a yemin ederim ki, Allah'ın Resulü (ﷺ) şöyle dedi: \"Biz mirasçı değiliz; geride bıraktığımız şey (sadaka olarak) verilmelidir.\" Onlar da: Evet. dediler. (Sonra) 'Umar dedi: Allah, Aziz ve Yüce, Resulüne (ﷺ) özel bir lütuf vermiştir ki, bunu başka hiç kimseye vermemiştir. O, Kur'an'daki ayeti aktardı: \"Allah'ın kasaba halkından Resulüne verdiği şey, Allah ve Resulü içindir.\" Rivayet eden kişi: Önceki ayeti de okuduğunu bilmiyorum. 'Umar devam etti: Allah'ın Resulü (ﷺ) Banu Nadir'in terk ettiği mülkleri aranızda paylaştırdı. Vallahi, kendisini sizden üstün tutmadı ve hiçbir şeyi sizin dışınızda almadı. (Bu şekilde adil bir dağıtım yapıldıktan sonra) bu mülk kaldı. Allah'ın Resulü (ﷺ) buradan elde edilen gelirle yıllık giderlerini karşılardı ve geriye kalanlar Bait-ul-Mal'a yatırılırdı. (Devam ederek) dedi ki: Size, gökleri ve yeri ayakta tutan Allah'a yemin ederim. Bunu biliyor musunuz? Dediler: Evet. Sonra Abbas ve 'Ali'yi, diğer kişilere yemin ettirdiği gibi yemin ettirdi ve: Bunu biliyor musunuz? diye sordu. Onlar da: Evet. dediler. Dedi ki: Allah'ın Resulü (ﷺ) vefat ettiğinde, Abu Bekir: \"Ben Allah'ın Resulü'nün halifesiyim.\" dedi. İkiniz de, Resulullah'tan (ﷺ) geride kalan mülkten payınızı talep etmek için geldiniz. (Hadrat Abbas'a atıfta bulunarak) dedi ki: Sen, yeğeninin mülkünden pay talep ettin ve o (Ali'ye atıfta bulunarak) karısının babasının mülkünden pay talep etti. Abu Bekir (Allah ondan razı olsun) dedi ki: Allah'ın Resulü (ﷺ) şöyle dedi: \"Biz mirasçı değiliz; geride bıraktığımız şey (sadaka olarak) verilmelidir.\" Böylece ikiniz de onu yalancı, günahkar, hain ve sahtekar olarak düşündünüz. Ve Allah biliyor ki, o doğru, erdemli, doğru yolda olan ve gerçeği takip eden biriydi. Abu Bekir vefat ettiğinde ve (ben) Allah'ın Resulü (ﷺ) ve Abu Bekir'in halifesi olduğumda, beni de yalancı, günahkar, hain ve sahtekar olarak düşündünüz. Ve Allah biliyor ki, ben doğru, erdemli, doğru yolda olan ve gerçeği takip eden biriyim. Bu mülkün koruyucusu oldum. Sonra siz de bana geldiniz. İkiniz de geldiniz ve amacınız aynıydı. Dediniz ki: Mülkü bize ver. Ben de: Eğer mülkü size vermemi istiyorsanız, bu, Allah'a verdiğiniz bir sözle, Allah'ın Resulü (ﷺ) gibi kullanacağınız şartıyla olacaktır. Böylece ikiniz de onu aldınız. Dedi: Böyle olmadı mı? Dediler: Evet. Dedi: O halde, tekrar bana, aranızda hüküm vermemi istiyorsunuz. Hayır, vallahi"
+    },
+    {
+      "id": 59,
+      "narrator": "The same hadith has been narrated by a different chain of transmitters with a slight variation in wording:",
+      "text": "The same hadith has been narrated by a different chain of transmitters with a slight variation in wording: 'Umar b. al-Khattab sent for me and said: Some families from your tribe have come to me (then follows the foregoing hadith) by Malik with the difference that the Messenger of Allah (ﷺ) would spend on his family for a year. And sometimes Ma'mar said: He would retain sustenance for his family for a year, and what was left of that he spent in the cause of Allah, the Majestic and Exalted."
+    },
+    {
+      "id": 60,
+      "narrator": "It is narrated on the authority of 'A'isha who said:",
+      "text": "It is narrated on the authority of 'A'isha who said: When the Messenger of Allah (ﷺ) passed away, his wives made up their minds to send 'Uthman b. 'Affan (as their spokesman) to Abu Bakr to demand from him their share from the legacy of the Prophet (ﷺ). (At this), A'isha said to them: Hasn't the Messenger of Allah (ﷺ) said:\" We (Prophets) do not have any heirs; what we leave behind is (to be given in) charity\"?"
+    },
+    {
+      "id": 61,
+      "narrator": "It is narrated on the authority of Urwa b. Zubair who narrated from A'isha that she informed him that Fatima, daughter of the Messenger of Allah (ﷺ), sent someone to Abu Bakr to demand from him her share of the legacy left by the Messenger of Allah (ﷺ) from what Allah had bestowed upon him at Medina and Fadak and what was left from one-filth of the income (annually received) from Khaibar. Abu Bakr said:",
+      "text": "Urve b. Zübeyr'in rivayetine göre, Aişe'den nakledildiğine göre, Fatıma, Allah'ın Resulü'nün (ﷺ) kızı, Abu Bekir'e, Allah'ın Medine ve Fadak'ta ona bahşettiği mirastan ve Hayber'den elde edilen yıllık gelirinin bir kısmından kendisine düşen payı talep etmek için birini gönderdi. Abu Bekir dedi ki: \"Allah'ın Resulü (ﷺ) şöyle buyurdu: 'Biz (peygamberler) mirasçı değiliz; geride bıraktığımız şey sadakadır.'\" Allah'ın Resulü'nün (ﷺ) ailesi bu mülklerden elde edilen gelirle geçinecek, ama Allah'a yemin ederim ki, Allah'ın Resulü'nün (ﷺ) zamanındaki durumunu değiştirmeyeceğim. Onunla, Allah'ın Resulü'nün (ﷺ) kendisinin yaptığı gibi muamele edeceğim.\" Bunun üzerine Abu Bekir, Fatıma'ya bu mülklerden hiçbir şey vermeyi reddetti ve Fatıma bu nedenle Abu Bekir'e kızdı. Hayatının sonuna kadar onunla konuşmadı. Allah'ın Resulü'nün (ﷺ) vefatından sonra altı ay yaşadı. Vefat ettiğinde, eşi Ali b. Ebu Talib onu gece defnetti. Abu Bekir'e ölümünden bahsetmedi ve cenaze namazını kendisi kıldırdı. Fatıma'nın hayatında, Ali insanlardan (özel) bir saygı görüyordu. O vefat ettikten sonra, insanlar arasında kendisine karşı bir yabancılaşma hissetti. Bunun üzerine Abu Bekir ile barış yapmaya ve ona biat etmeye çalıştı. Bu aylarda henüz halife olarak ona biat etmemişti. Abu Bekir'e, yalnız olarak onu ziyaret etmesini talep eden birini gönderdi (Ömer'in varlığını istemedi). Ömer, Abu Bekir'e dedi ki: \"Allah'a yemin ederim ki, yalnız olarak onlara gitmeyeceksin.\" Abu Bekir dedi ki: \"Onlar bana ne yapacak? Allah'a yemin ederim ki, onlara gideceğim.\" Ve yalnız olarak onlara gitti. Ali, Tashahhud okudu; sonra dedi: \"Sizin ahlaki üstünlüğünüzü ve Allah'ın size bahşettiğini kabul ediyoruz. Allah'ın size bahşettiği nimeti (yani halifeliği) kıskanmıyoruz; ama siz bunu (halifelik makamını) yalnız (bize danışmadan) üstlendiniz ve biz, Allah'ın Resulü ile olan akrabalığımız nedeniyle (danışılma hakkına sahip olduğumuzu) düşündük.\" Ali, bu şekilde Abu Bekir ile konuşmaya devam etti ta ki onun gözleri yaşlarla dolana kadar. Sonra Abu Bekir konuştu ve dedi: \"Allah'a yemin ederim ki, benim hayatımın sahibi olan Allah'ın Resulü'nün (ﷺ) akrabalığı, kendi kavmimin akrabalığından daha değerlidir. Seninle benim aramda bu mülkler hakkında çıkan ihtilafla ilgili olarak, ben doğru yoldan sapmadım ve Allah'ın Resulü'nün (ﷺ) yaptığı hiçbir şeyden vazgeçmeyeceğim. Medina'daki hayır mülkleri konusunda, Ömer onları Ali ve Abbas'a teslim etti, ama Ali onu daha iyi yönetti (ve mülkü kendi mülkiyetinde tuttu). Hayber ve Fadak konusunda ise Ömer onları kendi yanında tuttu ve dedi ki: \"Bunlar Allah'ın Resulü'nün (ﷺ) mülkleridir (ümmete).\" Gelirleri, üzerine düşen sorumlulukları yerine getirmek için harcandı. Ve yönetimi, İslam Devleti'nin işlerini yöneten kişinin elinde olacaktı. Rivayet eden kişi dedi ki: Bugüne kadar böyle yönetildi."
+    },
+    {
+      "id": 62,
+      "narrator": "It has been narrated on the authority of 'A'isha that Fatima and 'Abbas approached Abu Bakr, soliciting transfer of the legacy of the Messenger of Allah (ﷺ) to them. At that time, they were demanding his (Holy Prophet's) lands at Fadak and his share from Khaibar. Abu Bakr said to them:",
+      "text": "Aişe'den rivayet edilmiştir ki, Fatıma ve Abbas, Abu Bekir'e, Allah'ın Resulü'nün (ﷺ) mirasının kendilerine devredilmesini talep ettiler. O zaman, Fadak'taki (Kutsal Peygamber'in) arazilerini ve Hayber'den alacakları payı talep ediyorlardı. Abu Bekir onlara dedi ki: \"Ben Allah'ın Resulü'nden (ﷺ) işittim.\" Sonra, Ukaile'den al-Zuhri aracılığıyla nakledilen hadisin neredeyse aynı anlamını aktardı (ve ondan önce gelen) ancak onun rivayetinde şöyle dedi: \"Sonra Ali ayağa kalktı, Abu Bekir'in faziletlerini övdü, onun üstünlüğünü ve İslam'ı kabul etme konusundaki önceki durumunu belirtti. Sonra Abu Bekir'e doğru yürüdü ve ona biat etti.\" (Bunu duyunca) insanlar Ali'ye döndü ve dediler ki: \"Sen doğru bir şey yaptın.\" Ve Ali, doğru bir yol izledikten sonra insanlar ona karşı olumlu bir tutum sergiledi."
+    },
+    {
+      "id": 63,
+      "narrator": "It has been narrated by 'Urwa b Zubair on the authority of 'A'isha, wife of the Prophet (ﷺ), that Fatima, daughter of the Messenger of Allah (ﷺ), requested Abu Bakr, after the death of the Messenger of Allah (may peace he upon him), that he should set apart her share from what the Messenger of Allah (ﷺ) had left from the properties that God had bestowed upon him. Abu Bakr said to her:",
+      "text": "Urve b. Zübeyr'in, Peygamberin (ﷺ) eşi Aişe'den rivayetine göre, Fatıma, Allah'ın Resulü'nün (ﷺ) vefatından sonra, Allah'ın Resulü'nün (ﷺ) kendisine bıraktığı mülklerden kendisine düşen payı ayırmasını talep etti. Abu Bekir ona dedi ki: \"Allah'ın Resulü (ﷺ) şöyle buyurdu: 'Biz mirasçı değiliz; geride bıraktığımız şey sadakadır.'\" Rivayet eden kişi dedi ki: \"O (Fatıma), Allah'ın Resulü'nün (ﷺ) vefatından sonra altı ay yaşadı ve Hayber, Fadak ve Medine'deki hayır mülklerinden Abu Bekir'den payını talep ediyordu. Abu Bekir ona bunu vermeyi reddetti ve dedi ki: \"Ben, Allah'ın Resulü'nün (ﷺ) yaptığı hiçbir şeyden vazgeçmeyeceğim. Onun talimatlarına aykırı bir şey yapmaktan korkuyorum.\" Medine'deki hayır mülkleri konusunda, Ömer onları Ali ve Abbas'a teslim etti, ama Ali onu daha iyi yönetti (ve mülkü kendi mülkiyetinde tuttu). Hayber ve Fadak konusunda ise Ömer onları kendi yanında tuttu ve dedi ki: \"Bunlar Allah'ın Resulü'nün (ﷺ) mülkleridir (ümmete).\" Gelirleri, üzerine düşen sorumlulukları yerine getirmek için harcandı. Ve yönetimi, İslam Devleti'nin işlerini yöneten kişinin elinde olacaktı. Rivayet eden kişi dedi ki: Bugüne kadar böyle yönetildi."
+    },
+    {
+      "id": 64,
+      "narrator": "It has been narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:",
+      "text": "Abu Hureyre'den rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle buyurdu: \"Mirasçılarım, mirasımın içinden bir dirhem bile alamazlar; eşlerime bakım parası verdikten sonra geride bıraktığım şey sadakadır.\""
+    },
+    {
+      "id": 65,
+      "narrator": "",
+      "text": "Benzer bir hadis, Abu Zinad aracılığıyla farklı bir nakil zinciriyle rivayet edilmiştir."
+    },
+    {
+      "id": 66,
+      "narrator": "It his been narrated on the authority of Abu Huraira that the Messenger of Allah (ﷺ) said:",
+      "text": "Abu Hureyre'den rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle buyurdu: \"Biz mirasçı değiliz; geride bıraktığımız şey hayır mülküdür.\""
+    },
+    {
+      "id": 67,
+      "narrator": "",
+      "text": "İbn Ömer'den rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) atlıya iki pay, yaya olanlara ise bir pay vermiştir."
+    },
+    {
+      "id": 68,
+      "narrator": "The same tradition has been narrated on the authority of Ubaidullah by a different chain of transmitters who do not mention the words:",
+      "text": "Aynı rivayet, Ubaidullah aracılığıyla farklı bir nakil zinciriyle, \"ganimetten\" ifadesi geçmeden aktarılmıştır."
+    },
+    {
+      "id": 69,
+      "narrator": "It has been narrated on the authority of `Umar b. al-Khattab who said:",
+      "text": "Ömer b. Hattab'dan rivayet edilmiştir ki, Badr Savaşı'nın yapıldığı gün, Allah'ın Resulü (ﷺ) kafirlere bir göz attı ve onlar bin kişiydi, oysa kendi arkadaşları üç yüz on dokuz kişiydi. Peygamber (ﷺ) Kıble'ye döndü. Sonra ellerini açtı ve Rabbine dua etmeye başladı: \"Ey Allah, bana vaat ettiğini gerçekleştir. Ey Allah, bana vaat ettiğini getir. Ey Allah, eğer bu küçük Müslüman grubu yok olursa, bu topraklarda sana ibadet edilmeyecek.\" Rabbine dua etmeye devam etti, ellerini açarak, Kıble'ye yönelerek, mantosu omuzlarından kayana kadar. Bunun üzerine Abu Bekir ona geldi, mantosunu aldı ve omuzlarına koydu. Sonra arkasından sarıldı ve dedi: \"Ey Allah'ın Resulü, bu duan yeter, Rabbine yaptığın bu dua, sana vaat ettiğini gerçekleştirecektir.\" Böylece Allah, Aziz ve Celil, (Kur'an'daki) ayeti indirdi: \"Rabbinize yardım için dua ettiğinizde, O, çağrınıza cevap verdi (şöyle diyerek): Size ardı ardına gelen bin melekle yardım edeceğim.\" Böylece Allah ona meleklerle yardım etti. Abu Zumail dedi ki, hadisi İbn Abbas'tan duyduğunu söyledi: O gün bir Müslüman, kendisinden önde giden bir kafiri takip ediyordu, onun üzerinde kamçının sesi ve atlı kişinin \"İlerle, Haizum!\" dediğini duydu. O, şimdi sırt üstü düşmüş olan müşrikine baktı. Ona dikkatlice baktığında, burnunda bir yara ve yüzünün, sanki bir kamçıyla vurulmuş gibi parçalandığını ve zehirle yeşermiş olduğunu gördü. Bir Ensari, Allah'ın Resulü'ne (ﷺ) geldi ve bu olayı ona anlattı. O da: \"Doğru söyledin. Bu, üçüncü cennetten gelen bir yardımdır.\" Müslümanlar o gün (Badr Savaşı günü) yetmiş kişiyi öldürdü ve yetmiş kişiyi esir aldı. Allah'ın Resulü (ﷺ) Abu Bekir ve Ömer'e (Allah onlardan razı olsun) dedi: \"Bu esirler hakkında ne düşünüyorsunuz?\" Abu Bekir dedi: \"Onlar bizim akrabamızdır. Bence onlardan fidye alarak serbest bırakmalısınız. Bu, kafirlere karşı bize güç verecektir. Allah'ın onları İslam'a yönlendirmesi de mümkündür.\" Sonra Allah'ın Resulü (ﷺ) dedi: \"Ey İbn Hattab, senin fikrin nedir?\" O dedi: \"Ey Allah'ın Resulü, ben Abu Bekir ile aynı fikirde değilim. Onları bize teslim etmeni düşünüyorum ki, başlarını keselim. 'Aqil'i Ali'ye ver ki, başını kessin, ve şu akrabamı bana ver ki, başını keseyim. Onlar, kafirlerin liderleri ve aralarındaki veteranlardır.\" Allah'ın Resulü, Abu Bekir'in görüşünü onayladı ve benim söylediklerimi onaylamadı. Ertesi gün, Allah'ın Resulü (ﷺ) ile Abu Bekir'in otururken gözyaşı döktüğünü gördüm. Dedim: \"Ey Allah'ın Resulü, neden sen ve arkadaşın gözyaşı döküyorsunuz? Bana sebebini söyleyin. Ben de ağlayacağım ya da en azından sizinle birlikte ağlıyormuş gibi yapacağım.\" Allah'ın Resulü (ﷺ) dedi: \"Ben, esirlerden fidye almak için arkadaşlarının başına gelenlerden dolayı ağlıyorum. Onlara uygulanan işkence bana gösterildi. O, bu ağacın yanına kadar getirildi.\" (O, kendisine yakın bir ağacı işaret etti.) Sonra Allah, \"Bir peygamberin, kafirlerin gücü kırılmadan esir alması uygun değildir...\" ayetini indirdi ve ayetin sonuna kadar: \"O halde ganimetleri yiyin, (bu) helal ve temizdir. Böylece Allah, ganimeti onlara helal kıldı.\""
+    },
+    {
+      "id": 70,
+      "narrator": "It has been narrated on the authority of Abu Huraira who said:",
+      "text": "Abu Hureyre'den rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) bazı atlıları Nejd'e gönderdi. Onlar bir adamı yakaladılar. O, Banu Hanife kabilesindendi ve Thumama b. Uthal olarak adlandırılıyordu. Yamama halkının lideriydi. İnsanlar onu caminin sütunlarından birine bağladılar. Allah'ın Resulü (ﷺ) ona çıkıp dedi ki: \"Ey Thumama, ne düşünüyorsun?\" O cevapladı: \"Muhammed, senin hakkında iyi bir düşüncem var. Eğer beni öldürürsen, kan dökmüş birini öldürmüş olursun. Eğer bana bir iyilik yaparsan, minnettar birine iyilik yapmış olursun. Eğer zenginlik istiyorsan, iste ve talep ettiğin şeyi alırsın.\" Allah'ın Resulü (ﷺ) onu bu durumda iki gün bıraktı, (ve tekrar ona geldi) ve dedi: \"Ne düşünüyorsun, ey Thumama?\" O cevapladı: \"Sana daha önce söylediğim şeyi söylüyorum. Eğer bir iyilik yaparsan, minnettar birine iyilik yapmış olursun. Eğer beni öldürürsen, kan dökmüş birini öldürmüş olursun. Eğer zenginlik istiyorsan, iste ve talep ettiğin şeyi alırsın.\" Allah'ın Resulü (ﷺ) onu bıraktı, ertesi gün tekrar geldi ve dedi: \"Ne düşünüyorsun, ey Thumama?\" O cevapladı: \"Sana daha önce söylediğim şeyi söylüyorum. Eğer bana bir iyilik yaparsan, minnettar birine iyilik yapmış olursun. Eğer beni öldürürsen, kan dökmüş birini öldürmüş olursun. Eğer zenginlik istiyorsan, iste ve talep ettiğin şeyi alırsın.\" Allah'ın Resulü (ﷺ) dedi: \"Thumama'yı serbest bırakın.\" O, caminin yakınındaki bir hurma bahçesine gitti ve yıkanarak temizlendi. Sonra camiye girdi ve dedi: \"Ben şehadet ederim ki, Allah'tan başka ilah yoktur ve Muhammed O'nun kulu ve elçisidir.\" Ey Muhammed, Allah'a yemin ederim ki, yeryüzünde senin yüzünden daha nefret ettiğim bir yüz yoktu, ama (şimdi) senin yüzün benim için tüm yüzlerden en sevimlisi oldu. Allah'a yemin ederim ki, senin dininden daha nefret ettiğim bir din yoktu, ama (şimdi) senin dinin benim için tüm dinlerden en sevimlisi oldu. Allah'a yemin ederim ki, senin şehrinden daha nefret ettiğim bir şehir yoktu, ama (şimdi) senin şehrin benim için tüm şehirlerden en sevimlisi oldu. Atlılarım beni Umre'ye gitmek isterken yakaladılar. Şimdi bu konuda ne düşünüyorsun? Allah'ın Resulü (ﷺ) ona müjdeler verdi ve Umre'ye gitmesini söyledi. Mekke'ye vardığında, birisi ona dedi: \"Dinini değiştirdin mi?\" O dedi: \"Hayır! Ben, Allah'ın Resulü (ﷺ) ile İslam'ı kabul ettim. Allah'a yemin ederim ki, Yamama'dan bir avuç buğday bile almayacaksınız, ta ki Allah'ın Resulü (ﷺ) izin vermedikçe.\""
+    },
+    {
+      "id": 71,
+      "narrator": "",
+      "text": "Aynı rivayet, farklı bir nakil zinciriyle, kelimelerde küçük bir farklılıkla aktarılmıştır."
+    },
+    {
+      "id": 72,
+      "narrator": "It has been narrated on the authority of Abu Huraira who said:",
+      "text": "Abu Hureyre'den rivayet edilmiştir ki, biz camide oturuyorduk, Allah'ın Resulü (ﷺ) bize geldi ve dedi ki: \"Yahudilere gidelim.\" Onunla birlikte çıktık ve onlara vardık. Allah'ın Resulü (ﷺ) ayağa kalktı ve onlara seslendi: \"Ey Yahudi topluluğu, İslam'ı kabul edin (ve) güven içinde olursunuz.\" Onlar dediler ki: \"Abu'l-Kasım, sen bize (Allah'ın Mesajını) ilettin.\" Allah'ın Resulü (ﷺ) dedi: \"Ben bunu istiyorum (yani, Allah'ın Mesajının size iletildiğini kabul edin), İslam'ı kabul edin ve güven içinde olursunuz.\" Onlar dediler ki: \"Abu'l-Kasım, sen bize (Allah'ın Mesajını) ilettin.\" Allah'ın Resulü (ﷺ) dedi: \"Ben bunu istiyorum...\" - Üçüncü kez (aynı sözleri) söyledikten sonra (aynı yanıtı alınca) ekledi: \"Bilmelisiniz ki, yer Allah'a ve O'nun Resulüne aittir ve ben sizi bu topraklardan sürmek istiyorum. İçlerinde herhangi bir malı olanlar, onu satsın; aksi takdirde bilsinler ki, yer Allah'a ve O'nun Resulüne aittir (ve her şeyi geride bırakarak gitmek zorunda kalabilirler).\""
+    },
+    {
+      "id": 73,
+      "narrator": "",
+      "text": "İbn Ömer'den rivayet edilmiştir ki, Banu Nadir ve Banu Kureyza'nın Yahudileri, Allah'ın Resulü (ﷺ) ile savaştılar. O, Banu Nadir'i sürgün etti ve Kureyza'nın kalmasına izin verdi ve onlara iyilikte bulundu ta ki onlar da ona karşı savaştılar. Sonra erkeklerini öldürdü ve kadınlarını, çocuklarını ve mülklerini Müslümanlar arasında paylaştırdı, sadece bazıları Allah'ın Resulü'ne (ﷺ) katıldıkları için onlara güvenlik sağladı. Onlar İslam'ı kabul ettiler. Allah'ın Resulü (ﷺ) Medine'deki tüm Yahudileri sürg"
+    },
+    {
+      "id": 74,
+      "narrator": "",
+      "text": "A similar hadith has been transmitted by a different chain of narrators, but the hadith narrated by Ibn Juraij is more detailed and complete."
+    },
+    {
+      "id": 75,
+      "narrator": "It has been narrated by 'Umar b. al-Khattib that he heard the Messenger of Allah (ﷺ) say:",
+      "text": "It has been narrated by 'Umar b. al-Khattib that he heard the Messenger of Allah (ﷺ) say: I will expel the Jews and Christians from the Arabian Peninsula and will not leave any but Muslim."
+    },
+    {
+      "id": 76,
+      "narrator": "",
+      "text": "Bu hadis, Zübeyr'in rivayetiyle aynı nakil zinciri üzerinden aktarılmıştır."
+    },
+    {
+      "id": 77,
+      "narrator": "It has been narrated on the authority of Abu Sa'id al-Khudri who said:",
+      "text": "---"
+    },
+    {
+      "id": 78,
+      "narrator": "Through the same chain of transmitters Shu'ba has narrated the same tradition in which he says that the Messenger of Allah (ﷺ) said (to Sa'd):",
+      "text": "Bu hadis, Ebu Sa'id el-Hudri'den rivayet edilmiştir. O şöyle demiştir: Kureyza halkı, Sa'd b. Mu'adh'ın onlara dair verdiği kararı kabul ederek teslim oldular. Bunun üzerine, Allah'ın Resulü (ﷺ) Sa'd'ı çağırttı ve o da bir eşek üzerinde geldi. Camiiye yaklaştığında, Allah'ın Resulü (ﷺ) Ensar'a: \"Şefkatli liderinizi karşılamak için ayağa kalkın.\" dedi. Sonra Sa'd'a şöyle dedi: \"Bu insanlar, senin kararını kabul ederek teslim oldular.\" Sa'd: \"Savaşçılarını öldüreceksiniz, kadınlarını ve çocuklarını esir alacaksınız.\" dedi. (Bunu duyunca) Peygamber (ﷺ) şöyle dedi: \"Sen, Allah'ın emriyle hüküm verdin.\" Rivayet eden kişi, belki de şöyle dediğini aktarmıştır: \"Sen, bir kralın kararıyla hüküm verdin.\" İbn Muthanna (hadisin kendi versiyonunda) alternatif kelimeleri zikretmemiştir."
+    },
+    {
+      "id": 79,
+      "narrator": "It has been narrated on the authority of A'isha who said:",
+      "text": "---"
+    },
+    {
+      "id": 80,
+      "narrator": "It has been narrated on the authority of Hisham (who learnt it from his father) that the Messenger of Allah (ﷺ) said (to Sa'd):",
+      "text": "Aynı nakil zincirinden Şu'be, aynı hadisi rivayet etmiştir. O, Allah'ın Resulü (ﷺ) Sa'd'a şöyle dediğini belirtmiştir: \"Sen, Allah'ın emriyle hüküm verdin.\" Ve bir kez daha şöyle dedi: \"Sen, bir kralın kararıyla hüküm verdin.\""
+    },
+    {
+      "id": 81,
+      "narrator": "It has been narrated on the authority of 'A'isha that Sa'd's wound became dry and was going to heal when he prayed:",
+      "text": "---"
+    },
+    {
+      "id": 82,
+      "narrator": "This tradition has been narrated by Hishim through the same chain of transmitters with a little difference in the wording. He said:",
+      "text": "Bu hadis, A'işe'den rivayet edilmiştir. O şöyle demiştir: Sa'd, Hendek Savaşı günü yaralandı. Kureyş'ten bir adam, İbn el-Ariqah, ona bir ok attı ve bu ok, ön kolunun ortasındaki atardamarını deldi. Allah'ın Resulü (ﷺ) onun için camide bir çadır kurdu ve ona yakın bir mesafede onun durumunu sordu. Hendek'ten döndüğünde, silahlarını bıraktı ve banyo yaptı. Cebrail (a.s) ona göründü ve saçından tozu silerken (sanki savaştan yeni dönmüş gibi) şöyle dedi: \"Sen silahlarını bıraktın. Vallahi, biz henüz bırakmadık. O halde onlara karşı yürüyün.\" Allah'ın Resulü (ﷺ) sordu: \"Nereye?\" O, Banu Kureyza'yı işaret etti. Bunun üzerine Allah'ın Resulü (sallallahu aleyhi ve sellem) onlara karşı savaştı. Onlar, Allah'ın Resulü'nün (ﷺ) emriyle teslim oldular, ancak onlara dair kararı Sa'd'a havale etti. Sa'd: \"Onlar arasında savaşabilecek olanları öldüreceğim, kadınlarını ve çocuklarını esir alacağım ve mallarını (Müslümanlar arasında) dağıtacağım.\" dedi."
+    },
+    {
+      "id": 83,
+      "narrator": "It has been narrated on the authority of Abdullah who said:",
+      "text": "---"
+    },
+    {
+      "id": 84,
+      "narrator": "It has been narrated on the authority of Anas b. Malik who said:",
+      "text": "Bu hadis, Hişam'dan (babasından öğrendiği) rivayet edilmiştir. O, Allah'ın Resulü'nün (ﷺ) Sa'd'a şöyle dediğini aktarmıştır: \"Sen, onların davasını Allah'ın hükmüyle hüküm verdin. Yüce ve Mukaddes olan.\""
+    },
+    {
+      "id": 85,
+      "narrator": "It has been narrated by Anas that (after his migration to Medina) a person placed at the Prophet's (ﷺ) disposal some date-palms growing on his land until the lands of Quraiza and Nadir were conquered. Then he began to return to him whatever he had received. (In this connection) my people told me to approach the Messenger of Allah (ﷺ) and ask from him what his people had given him or a portion thereof, but the Messenger of Allah (ﷺ) had bestowed those trees upon Umm Aiman. So I came to the Prophet (ﷺ) and he gave hem (back) to me. Umm Aiman (also) came (at this time). She put the cloth round my neck and said:",
+      "text": "---"
+    },
+    {
+      "id": 86,
+      "narrator": "It has been narrated on the authority of Abdullah b. Mughaffal who said I found a bag containing fat on the day of the Battle of Khaibar. I caught hold of it and said:",
+      "text": "Bu hadis, A'işe'den rivayet edilmiştir. Sa'd'ın yarası kurumuş ve iyileşmek üzereyken şöyle dua etti: \"Ya Rabbi, şüphesiz ki sen biliyorsun ki benim için, senin yolunda, Resulünü (ﷺ) inkâr eden ve onu (memleketinden) çıkaran insanlara karşı savaşmaktan daha değerli bir şey yoktur. Eğer Kureyş'e karşı savaşta karar verilmesi gereken bir şey kalmışsa, hayatımı bağışla ki ben senin yolunda onlara karşı savaşabileyim. Ey Rabbim, sanırım sen bizimle onların arasındaki savaşı sona erdirdin. Eğer bunu yaptıysan, yarama aç (kanaması için) ve bununla benim ölümümü sağla.\" Bunun üzerine yarası boynunun ön kısmından kanamaya başladı. İnsanlar, kan kendilerine doğru aktığında korkmadılar. Camide, Sa'd'ın çadırının yanında Banu Gıfar'ın çadırı vardı. Onlar: \"Ey çadır halkı, sizden bize ne geliyor?\" dediler. İşte, Sa'd'ın yarası kanıyordu ve bu yüzden öldü."
+    },
+    {
+      "id": 87,
+      "narrator": "This tradition has been transmitted by a different chain of narrators with a different wording, the last in the chain being the same narrator, (i. e. 'Abdullah b. Mughaffal), who said:",
+      "text": "---"
+    },
+    {
+      "id": 88,
+      "narrator": "",
+      "text": "Bu hadis, Hişam tarafından aynı nakil zincirinden biraz farklı bir şekilde aktarılmıştır. O şöyle demiştir: \"Yarası o gece kanamaya başladı ve ölünceye kadar kanamaya devam etti.\" O, ayrıca şöyle bir ekleme yapmıştır: \"O zaman (bir kafir) şair şöyle dedi:"
+    },
+    {
+      "id": 89,
+      "narrator": "It has been narrated on the authority of Ibn Abbas who learnt the tradition personally from Abu Safyan. The latter said:",
+      "text": "\"Dinle, ey Sa'd, Banu Mu'adh'ın Sa'd'ı,"
+    },
+    {
+      "id": 90,
+      "narrator": "This hadith has been narrated on the authority of Ibn Shihab with the same chain of transmitters but with the addition:",
+      "text": "Kureyş ve Nadir ne yaptı?"
+    },
+    {
+      "id": 91,
+      "narrator": "",
+      "text": "Anas’tan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) Hüsrev'e (Pers Kralı), Sezar'a (Roma İmparatoru), Necas'a (Abyssinia Kralı) ve diğer her zalime Allah'a, yüce olanına davet eden bir mektup yazmıştır. Ve bu Necas, Allah'ın Resulü (ﷺ) için cenaze namazı kıldığı kişi değildi."
+    },
+    {
+      "id": 92,
+      "narrator": "The tradition has been narrated on the authority of Anas b. Malik (the same narrator) through a different chain of transmitters, but this version does not mention:",
+      "text": "Bu rivayet, Anas b. Malik'ten (aynı rivayetçi) farklı bir nakil zinciri ile aktarılmıştır, ancak bu versiyon \"Ve o, Allah'ın Resulü (ﷺ) için cenaze namazı kıldığı Necas değildi.\" ifadesini içermemektedir."
+    },
+    {
+      "id": 93,
+      "narrator": "",
+      "text": "Aynı rivayetçi tarafından başka bir nakil zinciri ile aynı kelime farklılığı ile rivayet edilmiştir."
+    },
+    {
+      "id": 94,
+      "narrator": "It has been narrated on the authority of 'Abbas who said:",
+      "text": "'Abbas'tan rivayet edilmiştir ki, ben Allah'ın Resulü (ﷺ) ile Huneyn günü birlikteydim. Ben ve Abd Sufyan b. Harith b. Abd al-Muttalib, Allah'ın Resulü (ﷺ) ile birlikteydik ve ondan ayrılmadık. Allah'ın Resulü (ﷺ), Farwa b. Nufitha al-Judhami tarafından kendisine sunulan beyaz katırında biniyordu. Müslümanlar, kafirlerle karşılaştıklarında, Müslümanlar geri çekildi, fakat Allah'ın Resulü (ﷺ) katırını kafirlere doğru sürmeye başladı. Ben, Allah'ın Resulü (ﷺ) katırının dizginini tutarak hızlanmasını engelliyordum, ve Abu Sufyan, Allah'ın Resulü'nün (ﷺ) ayaklığını tutuyordu. O da: \"Abbas, al-Samura halkına seslen.\" dedi. Abbas (güçlü bir sesle) en yüksek sesle bağırdı: \"Samura halkı nerede?\" (Abbas dedi ki:) \"Ve Allah'a yemin ederim ki, sesimi duyduklarında, ineklerin yavrularına döndüğü gibi geri geldiler ve: \"Biz buradayız, biz buradayız!\" dediler. 'Abbas dedi ki: \"Onlar kafirlerle savaşmaya başladılar. Sonra Ensar'a bir çağrı yapıldı. (Onları çağıranlar) bağırdılar: Ey Ensar topluluğu! Ey Ensar topluluğu! Banu al-Harith b. al-Khazraj en son çağrılanlardı. (Onları çağıranlar) bağırdılar: Ey Banu al-Harith b. al-Khazraj! Ey Banu al-Harith b. al-Khazraj! Ve Allah'ın Resulü (ﷺ) katırında binerken onların savaşını boynu uzatarak izledi ve dedi ki: \"İşte savaşın kızıştığı zaman.\" Sonra Allah'ın Resulü (ﷺ) bazı taşlar aldı ve onları kafirlerin yüzüne attı. Sonra dedi ki: \"Muhammed'in Rabbi hakkı için, kafirler yenildi.\" 'Abbas dedi ki: \"Etrafa döndüm ve savaşın, gördüğüm durumdan farklı olmadığını gördüm. Allah'a yemin ederim ki, taşları atana kadar aynı durumda kaldı. Onların gücünün tükendiğini ve geri çekilmeye başladıklarını görünceye kadar izlemeye devam ettim.\""
+    },
+    {
+      "id": 95,
+      "narrator": "A version of the tradition has been transmitted through another chain of narrators. In this version the words uttered by the Prophet (ﷺ) (after he had thrown the pebbles in the face of the enemy) are reported as:",
+      "text": "Rivayetin bir versiyonu, başka bir nakil zinciri ile aktarılmıştır. Bu versiyonda, Peygamber (ﷺ) (düşmanın yüzüne taşları attıktan sonra) \"Kabe'nin Rabbi hakkı için, yenildiler.\" şeklinde sözler söylediği bildirilmiştir. Ve sonunda \"Ta ki Allah onları yenilgiye uğrattı\" ifadesinin eklendiği belirtilmiştir (ve sanki Allah'ın Resulü (ﷺ) katırında onları kovalıyormuş gibi hayal ediyorum)."
+    },
+    {
+      "id": 96,
+      "narrator": "'Abbas reported:",
+      "text": "'Abbas bildirdi: Ben Allah'ın Resulü (ﷺ) ile Huneyn günüydüm. Hadisin geri kalanı aynıdır, ancak Yonus ve Ma'mar tarafından rivayet edilen hadis daha ayrıntılı ve tamamlanmıştır."
+    },
+    {
+      "id": 97,
+      "narrator": "It has been narratedon the authority of Abu Ishaq who said:",
+      "text": "Abu İshak'tan rivayet edilmiştir ki, bir adam Bara' (b. 'Azib)'e sordu: \"Huneyn günü kaçtın mı, ey Abu Umira?\" O da: \"Hayır, Allah'a yemin ederim ki, Allah'ın Resulü (ﷺ) geri dönmedi; (gerçek olan) bazı genç arkadaşları, aceleci olan ve ya silahsız ya da yeterince silahı olmayan, bir grup okçuyla karşılaştılar (okları asla hedefi ıskalamayan). Bu okçular Banu Havazin ve Banu Nadir'den geliyorlardı. Onlar, ilerleyen gençlere ok attılar ve okları hedeflerini ıskalamıyordu. Böylece bu gençler, Allah'ın Resulü (ﷺ) beyaz katırında binerken ona döndüler ve Abu Sufyan b. al-Harith onu önde götürüyordu. (Bu durumda) o katırından indi, Allah'tan yardım diledi ve bağırdı: \"Ben Peygamberim. Bu bir yalan değildir. Ben Abd al-Muttalib'in oğluyum.\" Sonra adamlarını savaş düzenine soktu."
+    },
+    {
+      "id": 98,
+      "narrator": "It has been narrated (through a different chain of transmitters) by Abu Ishiq that a person said to Bara' (b. 'Azib):",
+      "text": "Bu hadisi (farklı bir nakil zinciri ile) Abu İshak'tan rivayet edilmiştir ki, bir kişi Bara' (b. 'Azib)'e sordu: \"Ey Abu Umara, Huneyn günü kaçtın mı?\" O da: \"Allah'ın Resulü (ﷺ) geri çekilmedi.\" (Gerçek olan) bazı aceleci gençler, ya yetersiz silahlı ya da silahsız olanlar, Banu Havazin ve Banu Nadir'den bir grup insanla karşılaştılar ki, bunlar (mükemmel) okçulardı. Onlar, onlara hedefi ıskalamayan bir dizi ok attılar. İnsanlar, Allah'ın Resulü (ﷺ) katırının önünde döndüler. Abu Sufyan b. Harith katırını önde tutuyordu. O da indi, dua etti ve Allah'tan yardım diledi. Dedi ki: \"Ben Peygamberim. Bu bir yalan değildir. Ben Abd al-Muttalib'in oğluyum. Ey Allah, yardımını indir.\" Bara' devam etti: \"Savaş kızıştığında, biz, Allah'a yemin ederim ki, onun yanında korunma arardık ve aramızda en cesur olan, saldırıya karşı koyan o idi ve o Peygamber (ﷺ) idi.\""
+    },
+    {
+      "id": 99,
+      "narrator": "It has been narrated through a still different chain of transmitters by the same narrator (i. e. Abu Ishaq) who said:",
+      "text": "Bu hadisi, aynı rivayetçi (yani Abu İshak) tarafından farklı bir nakil zinciri ile rivayet edilmiştir ki, o şöyle dedi: \"Bara'ı, Kays kabilesinden bir adam sordu: \"Huneyn günü Allah'ın Resulü (ﷺ) den kaçtın mı?\" Bara' dedi: \"Ama Allah'ın Resulü (ﷺ) kaçmadı. O gün Banu Havazin, savaşta okçular olarak (kafirlerin yanında) yer aldı. Onlara saldırdığımızda, geri çekildiler ve ganimete daldık; (onlar) oklarla üzerimize geldiler. (O sırada) ben Allah'ın Resulü (ﷺ) beyaz katırında binerken gördüm ve Abu Sufyan b. al-Harith dizginini tutuyordu. O (Allah'ın Resulü) diyordu: \"Ben Peygamberim. Bu bir yalan değildir. Ben Abd al-Muttalib'in soyundanım.\""
+    },
+    {
+      "id": 100,
+      "narrator": "",
+      "text": "Bu hadis, Bara'dan başka bir nakil zinciri ile rivayet edilmiştir, ancak bu hadis diğer daha ayrıntılı hadislerle karşılaştırıldığında kısadır."
+    },
+    {
+      "id": 101,
+      "narrator": "This tradition has been narrated on the authority of Salama who said:",
+      "text": "Bu rivayet, Salama'dan aktarılmıştır ki, biz Allah'ın Resulü (ﷺ) ile Huneyn'de savaştık. Düşmanla karşılaştığımızda, ben ilerledim ve bir tepeye çıktım. Düşman tarafında bir adam bana döndü ve ben ona bir ok attım. O (eğilerek) benden saklandı. Ne yaptığını anlayamadım, ama (birdenbire) diğer tepe tarafından bir grup insan belirdi. Onlar ve Peygamberin (ﷺ) arkadaşları savaşta karşılaştılar, ancak Peygamberin arkadaşları geri döndü ve ben de geri döndüm, yenilmiş olarak. İki örtüm vardı, birini belime sarıyordum (alt bedenimi örtmek için) ve diğerini omuzlarıma koyuyordum. Belimden sarkan örtüm gevşedi ve iki örtüyü bir arada tutmaya çalıştım. (Bu kötü durumda) ben Allah'ın Resulü (ﷺ) beyaz katırında binerken yanından geçtim. O dedi ki: \"Akwa'nın oğlu kendini tamamen şaşkın buluyor.\" Arkadaşları her taraftan etrafında toplandığında, Allah'ın Resulü (ﷺ) katırından indi, yerden bir avuç toprak aldı, düşmanların yüzlerine attı ve dedi ki: \"Bu yüzler çirkinleşsin!\" Düşman arasında, bu avuç topraktan gözleri dolmayan kimse yoktu. Böylece geri döndüler ve Allah, yüce ve aziz olan, onları yendi ve Allah'ın Resulü (ﷺ) ganimeti Müslümanlar arasında paylaştırdı."
+    },
+    {
+      "id": 102,
+      "narrator": "It has been narrated on the authority of Ibn 'Amr who said:",
+      "text": "İbn 'Amr'dan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) Ta'if halkını kuşattı, ancak onlara karşı zafer kazanamadı. Dedi ki: \"İnşallah, geri döneceğiz.\" Arkadaşları: \"Onu fethetmeden mi gideceğiz?\" dediler. Allah'ın Resulü (ﷺ) dedi ki: \"Tamam, sabah baskın yapın.\" Onlar da öyle yaptılar ve (üzerlerine yağan oklarla) yaralandılar. Bunun üzerine Allah'ın Resulü (ﷺ) dedi ki: \"Yarın ayrılacağız.\" (Rivayetçi der ki): \"Bu (duyuru) onları memnun etti ve Allah'ın Resulü (ﷺ) onların sapkınlıklarına güldü.\""
+    },
+    {
+      "id": 103,
+      "narrator": "It has been narrated on the authority of Anas that when (the news of) the advance of Abu Sufyan (at the head of a force) reached him. the Messenger of Allah (ﷺ) held consultations with his Companions. The narrator said:",
+      "text": "Anas'tan rivayet edilmiştir ki, Abu Sufyan'ın (bir kuvvetin başında) ilerlediği haberi ona ulaştığında, Allah'ın Resulü (ﷺ) arkadaşlarıyla istişare etti. Rivayetçi dedi ki: \"Ebu Bekir konuştu (kendi görüşlerini ifade ederek), ama o (Peygamber) ona kulak vermedi. Sonra 'Ömer konuştu (görüşlerini ifade ederek), ama o (Peygamber) ona da kulak vermedi. Sonra Sa'd b. 'Ubada ayağa kalktı ve dedi: \"Allah'ın Resulü, bizden (konuşmamızı) istiyorsun. Allah'a yemin ederim ki, eğer bize atlarımızı denize sokmamızı emredersen, bunu yaparız. Eğer atlarımızı Bark al-Ghimad gibi en uzak yere sürmemizi emredersen, bunu da yaparız.\" Rivayetçi dedi ki: \"Şimdi Allah'ın Resulü (ﷺ) insanları (karşılaşma için) çağırdı. Böylece yola çıktılar ve Badr'da kamp kurdular. (Kısa süre sonra) Kureyş'in su taşıyıcıları geldi. Aralarında Banu al-Haccac'a ait bir siyah köle vardı. Allah'ın Resulü'nün (ﷺ) arkadaşları onu yakaladılar ve Abu Sufyan ve arkadaşları hakkında sorguladılar. O da: \"Abu Sufyan hakkında hiçbir şey bilmiyorum, ama Abu Cehil, Utbe, Şeybe ve Ümeyye b. Halef oradadır.\" dedi. Bunu duyunca onu dövdüler. Sonra dedi ki: \"Tamam, şimdi size Abu Sufyan hakkında söyleyeceğim.\" Onlar dövmeyi bırakıp tekrar Abu Sufyan hakkında sordu. O yine: \"Abu Sufyan hakkında hiçbir şey bilmiyorum, ama Abu Cehil, Utbe, Şeybe ve Ümeyye b. Halef oradadır.\" dedi. Bunu duyunca yine dövdüler. Allah'ın Resulü (ﷺ) namaz kılıyordu. Bunu görünce namazını bitirdi ve dedi ki: \"Allah'a yemin ederim ki, siz onu doğruyu söylerken dövüyorsunuz, yalan söylediğinde ise onu bırakıyorsunuz.\" Rivayetçi dedi ki: \"Sonra Allah'ın Resulü (ﷺ) dedi ki: \"İşte şu yerde falan kişi öldürülecek.\" Eliyle yere koyarak (şöyle) dedi: \"Burada ve burada.\" (Ve) onlardan hiçbiri, Allah'ın Resulü (ﷺ) elini yere koyarak belirttiği yerden uzak düşmedi."
+    },
+    {
+      "id": 104,
+      "narrator": "It has been narrated by 'Abdullah b. Rabah from Abu Huraira, who said:",
+      "text": "'Abdullah b. Rabah'tan, Abu Huraira'dan rivayet edilmiştir ki, Muaviye'ye birçok heyet geldi. Bu Ramazan ayında oldu. Biz birbirimize yemek hazırlardık. Abu Huraira, sık sık bizi evine davet edenlerden biriydi. Ben de: \"Onlar için yemek hazırlayıp davet etmesem mi?\" dedim. Böylece yemeklerin hazırlanmasını emrettim. Sonra akşam Abu Huraira ile karşılaştım ve: \"Bu gece yemeklerinizi benimle yiyeceksiniz.\" dedim. O da: \"Beni geçtiniz.\" dedi. Ben de: \"Evet, onları davet ettim.\" (Yemeklerini yedikten sonra) Abu Huraira dedi ki: \"Sizlere, ey Ensar topluluğu, kendi geleneklerinizden bir rivayet anlatmayacak mıyım?\" Sonra Mekke'nin Fethi'ni anlattı ve dedi ki: \"Allah'ın Resulü (ﷺ) ilerledi ve Mekke'ye ulaştı. Sağ kanadına Zübeyr'i, sol kanadına Halid'i tayin etti ve zırhı olmayan kuvvetle Abu Ubaida'yı gönderdi. Onlar vadinin iç kısmına ilerlediler. Allah'ın Resulü (ﷺ) büyük bir savaşçı grubunun ortasında bulunuyordu. Beni gördü ve dedi ki: \"Ey Abu Huraira.\" Ben de: \"Ben buradayım, Allah'ın Resulü!\" dedim. O dedi ki: \"Yanıma yalnızca Ensar gelsin, bu yüzden yalnızca Ensar'ı çağır.\" Abu Huraira devam etti: \"Böylece etrafında toplandılar. Kureyş de çetelerini ve (aşağı) takipçilerini topladı ve dedi ki: \"Bunları öne gönderiyoruz. Eğer bir şey elde ederlerse, biz de onlarla (paylaşırız) ve eğer bir felaket başlarına gelirse, biz de (tazminat olarak) ne istenirse öderiz.\" Allah'ın Resulü (ﷺ) Ensar'a dedi ki: \"Kureyş'in çetelerini ve (aşağı) takipçilerini görüyorsunuz.\" Ve bir elini diğerinin üzerine koyarak onların öldürülmesi gerektiğini belirtti ve dedi ki: \"Beni as-Safa'da buluşun.\" Sonra devam ettik ve eğer aramızdan biri belirli bir kişinin öldürülmesini istiyorsa, o öldürülüyordu ve hiç kimse karşı koyamıyordu. Abu Huraira devam etti: \"Sonra Abu Sufyan geldi ve dedi: \"Allah'ın Resulü, Kureyş'in kanı çok ucuzladı. Bugünden itibaren Kureyş yoktur.\" O da (Peygamber) dedi ki: \"Abu Sufyan'ın evine giren güven içinde olacaktır.\" Bazı Ensar kendi aralarında fısıldadılar: \"Sonuçta, bu adamın şehrine olan sevgisi ve akrabalarına karşı duyduğu merhamet onu etkiledi.\" Abu Huraira dedi ki: \"Bu anda, vahiy Peygamber'e (ﷺ) geldi ve vahiy alacağı zaman bunu anladık, ve vahiy alırken, hiçbiri gözlerini Allah'ın Resulü (ﷺ) üzerine kaldırmaya cesaret edemedi, ta ki vahiy sona erene kadar. Vahiy sona erdiğinde, Allah'ın Resulü (ﷺ) dedi ki: \"Ey Ensar topluluğu!\" Onlar: \"Buradayız, Allah'ın Resulü!\" dediler. O dedi ki: \"Siz bu adamın şehirine olan sevgisi ve akrabalarına karşı duyduğu merhamet onu etkilediğini söylediniz.\" Onlar: \"Evet, öyleydi.\" dediler. O dedi ki: \"Hayır, asla. Ben Allah'ın ve O'nun Resulü'nün kuluyum. Allah'a ve size göç ettim. Sizinle yaşayacağım ve sizinle öleceğim.\" Böylece, onlar (Ensar) ona gözyaşları içinde döndüler ve: \"Allah'a yemin ederiz ki, biz bunu Allah'a ve O'nun Resulü'ne olan sıkı bağlılığımız nedeniyle söyledik.\" Allah'ın Resulü (ﷺ) dedi ki: \"Şüphesiz, Allah ve O'nun Resulü, iddialarınızı tasdik eder ve özrünüzü kabul eder.\" Rivayetçi devam etti: \"İnsanlar Abu Sufyan'ın evine döndü ve insanlar kapılarını kilitledi. Allah'ın Resulü (ﷺ) ilerledi ve (Kara) Taş'a yaklaştı. Onu öptü ve Kabe'yi tava"
+    },
+    {
+      "id": 105,
+      "narrator": "The tradition has been narrated by a different chain of transmitters with the following additions:",
+      "text": "The tradition has been narrated by a different chain of transmitters with the following additions: (i) Then be (the Messenger of Allah) said with his hands one upon the other: Kill them (who stand in your way).... (ii) They (the Ansar) replied: We said so, Messenger of Allah! He said: What is my name? I am but Allah's bondman and His Messenger."
+    },
+    {
+      "id": 106,
+      "narrator": "It has been narrated on the authority of Abdullah b. Rabah who said:",
+      "text": "Abdullah b. Rabah'tan rivayet edilmiştir. Dedi ki: Biz Muaviye b. Ebu Süfyan'a bir heyet olarak geldik ve aramızda Ebu Hureyre de vardı. Her birimiz sırayla bir gün boyunca arkadaşları için yemek hazırlardı. (Buna göre) benim sıram geldiğinde, Ebu Hureyre'ye dedim ki: Ebu Hureyre, bugün benim sıram. Böylece benim yerime geldiler. Yemek henüz hazır değildi, bu yüzden Ebu Hureyre'ye dedim ki: Keşke bize Allah'ın Resulü'nden (ﷺ) bir hadis anlatsan, yemek hazır olana kadar. (İsteğime uyarak) Ebu Hureyre dedi ki: Biz, Allah'ın Resulü (ﷺ) ile Mekke'nin Fethi günüydük. O, Halid b. Velid'i sağ kanadın komutanı, Zübeyr'i sol kanadın komutanı ve Ebu Ubeyde'yi de vadiye doğru ilerleyecek piyade askerlerinin komutanı olarak tayin etti. Sonra dedi ki: Ebu Hureyre, Ensar'ı bana çağır. Ben de onlara seslendim ve aceleyle geldiler. O dedi ki: Ey Ensar topluluğu, Kureyş'in o haydutlarını görüyor musunuz? Onlar dediler ki: Evet. O dedi ki: Yarın onlarla karşılaştığınızda, onları yok edin. Bunu elini işaret ederek belirtti, sağ elini sol elinin üzerine koyarak dedi ki: Bizi as-Safa'da bulacaksınız. (Ebu Hureyre devam etti): O gün onlardan görülen herkes öldürüldü. Allah'ın Resulü (ﷺ) as-Safa tepesine çıktı. Ensar da oraya geldi ve tepeyi kuşattı. Sonra Ebu Süfyan geldi ve dedi ki: Allah'ın Resulü, Kureyş yok oldu. Kureyş kabilesinden bu gün hayatta kalan kimse yok. Allah'ın Resulü (ﷺ) dedi ki: Ebu Süfyan'ın evine giren güven içinde olacak, silah bırakan güven içinde olacak, kapısını kilitleyen güven içinde olacak. (Bazı) Ensar dediler ki: (Sonuçta) adam ailesine karşı bir şefkat ve şehrine karşı bir sevgiyle etkilenmiştir. Bunun üzerine Allah'ın vahyi, Allah'ın Resulü'ne (ﷺ) indi. O dedi ki: Siz, adamın ailesine karşı bir şefkat ve şehrine karşı bir sevgiyle etkilenmiş olduğunu söylüyorsunuz. Benim adımın ne olduğunu biliyor musunuz? Ben, Allah'ın kulu ve Resulüyüm. (Bunu üç kez tekrarladı.) Ben, Allah rızası için memleketimden ayrıldım ve sizinle birleştim. Öyleyse ben sizinle yaşayacağım ve sizinle öleceğim. Şimdi Ensar dediler ki: Vallahi, bunu yalnızca Allah ve Resulü için söyledik. O dedi ki: Allah ve Resulü size şahitlik eder ve özrünüzü kabul eder."
+    },
+    {
+      "id": 107,
+      "narrator": "It has been narrated by Ibn Abdullah who said:",
+      "text": "---"
+    },
+    {
+      "id": 108,
+      "narrator": "This tradition has been narrated by Ibn Abu Najah through a different chain of transmitters up to the word:",
+      "text": "İbn Abdullah'tan rivayet edilmiştir. Dedi ki: Peygamber (ﷺ) Mekke'ye girdi. Kabe'nin etrafında üç yüz altmış put vardı. Elindeki sopa ile onlara vurup şöyle dedi: \"Gerçek geldi ve batıl yok oldu. Şüphesiz ki batıl yok olmaya mahkûmdur.\" (İsra, 8). Gerçek geldi, batıl ne başlangıçta bir şey yaratabilir ne de diriltebilir."
+    },
+    {
+      "id": 109,
+      "narrator": "It has been narrated on the authority of Abdullah b. Muti' who heard from his father and said:",
+      "text": "---"
+    },
+    {
+      "id": 110,
+      "narrator": "The same tradition has been narrated on the authority of Zakriyya through the same chain of transmitters with the following addition:",
+      "text": "Bu hadis, İbn Ebu Necah'tan farklı bir isnatla rivayet edilmiştir ve \"Zahaqa\" kelimesine kadar gelmektedir. (Bu versiyon) ikinci ayeti içermemekte ve \"Nusub\" kelimesi yerine \"Sanam\" kelimesini kullanmaktadır (her iki kelime de \"put\" veya \"tapılan görüntü\" anlamına gelir)."
+    },
+    {
+      "id": 111,
+      "narrator": "It has been narrated on the authority of al-Bara' b. 'Azib who said:",
+      "text": "---"
+    },
+    {
+      "id": 112,
+      "narrator": "It has been narrated on the authority of Abu Ishaq, who heard Bars' b. Azib say:",
+      "text": "Abdullah b. Muti' üzerinden rivayet edilmiştir. Dedi ki: Ben, babasından işittim ve Peygamber (ﷺ)'in Mekke'nin Fethi günü şöyle dediğini duydum: Bu günden itibaren Kureyş'ten hiç kimse el ve ayaklarından öldürülmeyecek, kıyamet gününe kadar."
+    },
+    {
+      "id": 113,
+      "narrator": "It has been narrated on the authority of Bara' who said:",
+      "text": "---"
+    },
+    {
+      "id": 114,
+      "narrator": "It has been narrated on the authority of Anas that the Quraish made peace with the Prophet (ﷺ). Among them was Suhail b. Amr. The Prophet (ﷺ) said to 'Ali:",
+      "text": "Aynı hadis, Zakriyya üzerinden aynı isnatla rivayet edilmiştir ve şu eklemeyle: \"O gün İslam'ı kabul eden isyankar Kureyş'ten al-Asi adında kimse yoktu, sadece Muti vardı. Onun adı al-Asi idi, fakat Allah'ın Resulü (ﷺ) adını Muti olarak değiştirdi."
+    },
+    {
+      "id": 115,
+      "narrator": "It has been narrated on the authority of Abu Wa'il who said:",
+      "text": "---"
+    },
+    {
+      "id": 116,
+      "narrator": "It has been narrated on the authority of Shaqiq who said:",
+      "text": "Al-Bara' b. Azib'ten rivayet edilmiştir. Dedi ki: Ali b. Ebu Talib, Peygamber (ﷺ) ile müşrikler arasında Hudaibiye günü anlaşmayı kaleme aldı. Şöyle yazdı: Bu, Allah'ın Resulü Muhammad'ın belirlediği şeydir. Onlar (müşrikler) dediler ki: \"Allah'ın Resulü\" kelimelerini yazma. Eğer senin Allah'ın Resulü olduğunu bilseydik, seninle savaşmazdık. Peygamber (ﷺ) Ali'ye dedi: Bu kelimeleri sil. O (Ali) dedi: Ben onları silmeyeceğim. Bunun üzerine Peygamber (ﷺ) kendi eliyle sildi. Rivayet eden kişi, iki tarafın üzerinde anlaştığı şartların, Müslümanların (bir sonraki yıl) Mekke'ye gireceği ve orada üç gün kalacağı, silah taşımadan sadece kınlarıyla veya kılıç kılıflarıyla girecekleri şartlarını içerdiğini söyledi."
+    },
+    {
+      "id": 117,
+      "narrator": "The same tradition has been narrated through a different chain of transmitters on the authority of A'mash. This version contains the words:",
+      "text": "---"
+    },
+    {
+      "id": 118,
+      "narrator": "It has been narrated through a different chain of transmitters on the authority of Abu Wa'il who said:",
+      "text": "Abu İshak'tan rivayet edilmiştir. O, Bars' b. Azib'in şöyle dediğini işitti: Allah'ın Resulü (ﷺ) Hudaibiye halkıyla barış yaptığında, Ali onların arasındaki anlaşmayı kaleme aldı ve şöyle yazdı: Muhammad, Allah'ın Resulü. (Bu, önceki hadisteki aynı ifadeyi takip eder, ancak \"Bu, onun belirlediği şeydir\" ifadesi olmaksızın.)"
+    },
+    {
+      "id": 119,
+      "narrator": "It has been narrated on the authority of Anas b. Malik who said:",
+      "text": "---"
+    },
+    {
+      "id": 120,
+      "narrator": "",
+      "text": "Al-Bara' üzerinden rivayet edilmiştir. Dedi ki: Peygamber (ﷺ) Kabe'ye gitmekten alıkonulduğunda, Mekkeliler onunla barış yaptı ve şart olarak, (bir sonraki yıl) Mekke'ye girmesine ve orada üç gün kalmasına, (şehre) sadece kılıçları kınlarında ve silahları kılıflarında girmesine, oranın sakinlerinden hiç kimseyi yanına almasına ve yanında olanlardan hiç kimsenin Mekke'de kalmasına engel olmamasına izin verdiler. O, Ali'ye dedi: Aramızda belirlenen şartları yaz. (Böylece Ali yazdı): Rahman ve Rahim olan Allah'ın adıyla. Bu, Muhammad, Allah'ın Resulü'nün (Mekkelilerle) belirlediği şeydir. Müşrikler ona dediler ki: Eğer senin Allah'ın Resulü olduğunu bilseydik, sana tabi olurduk. Ama yaz: Muhammad b. Abdullah. O da Ali'ye bu kelimeleri silmesini söyledi. Ali dedi ki: Hayır, vallahi, ben onları silmeyeceğim. Allah'ın Resulü (ﷺ) dedi ki: Onların yerini bana göster. O (Ali) onlara yerlerini gösterdi ve o (Peygamber) onları sildi; ve Ali yazdı: b. Abdullah. (Anlaşma şartlarına göre, bir sonraki yıl) Peygamber (ﷺ) orada üç gün kaldı. Üçüncü gün geldiğinde, onlara: Bu, arkadaşınızın şartlarına göre son gündür. O yüzden ona gitmesini söyleyin. Ali, Peygamber (ﷺ)'e bunu bildirdi. O dedi ki: Evet, ve (şehri) terk etti. İbn Janab, hadisin versiyonunda \"sana tabi olacağız\" yerine \"sana biat edeceğiz\" ifadesini kullandı."
+    },
+    {
+      "id": 121,
+      "narrator": "It has been reported on the authority of Hudbaifa b. al-Yaman who said:",
+      "text": "Hudeyfe b. el-Yeman'dan rivayet edilmiştir. O şöyle demiştir: Beni Badr Savaşı'na katılmaktan alıkoyan tek şey bu olaydır. Babam Hüsail ile birlikte savaşa katılmak için çıktık, fakat Kureyş'in kafirleri tarafından yakalandık. Onlar: \"Muhammed'e gitmeyi mi düşünüyorsunuz?\" dediler. Biz de: \"Ona gitmeyi düşünmüyoruz, fakat Medine'ye dönmek istiyoruz.\" dedik. Bunun üzerine, Allah adına Medine'ye döneceğimize ve Muhammed'in (ﷺ) yanında savaşmayacağımıza dair bizden bir ahit aldılar. Sonra Allah'ın Elçisi'ne (ﷺ) geldik ve olayı ona anlattık. O da: \"İkiniz de (Medine'ye) gidin; onlarla yaptığımız ahdi yerine getireceğiz ve onlara karşı Allah'tan yardım isteyeceğiz.\" dedi."
+    },
+    {
+      "id": 122,
+      "narrator": "It has been narrated by Ibrahim al-Taimi on the authority of his father who said:",
+      "text": "İbrahim et-Teymi'nin babası aracılığıyla rivayet ettiğine göre, o şöyle demiştir: Biz Hudeyfe'nin yanında oturuyorduk. Bir adam: \"Eğer Allah'ın Elçisi'nin (ﷺ) zamanında olsaydım, onun yanında savaşır ve davası için çok çaba sarf ederdim.\" dedi. Hudeyfe: \"Bunu yapmış olabilirsin, ama heyecanını abartma.\" dedi. Ben, Allah'ın Elçisi (ﷺ) ile Abzib Savaşı'nın gecesinde birlikteydim ve şiddetli bir rüzgar ve soğukla karşılaştık. Allah'ın Elçisi (ona selam olsun) şöyle dedi: \"Dikkat edin, düşmanı gözetleyip bana haber getiren adam, kıyamet günü Allah katında benimle birlikte olacaktır.\" Hepimiz sustuk ve hiçbiri ona cevap vermedi. (Tekrar) dedi: \"Dikkat edin, düşmanı gözetleyip bana haber getiren adam, kıyamet günü Allah katında benimle birlikte olacaktır.\" Biz yine sustuk ve hiçbiri ona cevap vermedi. O tekrar dedi: \"Dikkat edin, düşmanı gözetleyip bana haber getiren adam, kıyamet günü Allah katında benimle birlikte olacaktır.\" Sonra: \"Kalk Hudeyfe, bana düşmanın haberini getir.\" dedi. Adımı duyunca kalkmaktan başka çarem kalmadı. O da: \"Git ve bana düşman hakkında bilgi getir, bana karşı onları kışkırtacak bir şey yapma.\" dedi. Onu terk ettiğimde, sanki sıcak bir hamamda yürüyormuşum gibi ısındım, ta ki onlara ulaşana kadar. Abu Süfyan'ı ateşe yaslanmış halde gördüm. Ona ok atmayı düşündüm, fakat Allah'ın Elçisi'nin (ﷺ) \"Bana karşı onları kışkırtma.\" sözlerini hatırladım. Eğer ona ok atsaydım, onu vururdum. Ama geri döndüm ve (sanki) sıcak bir hamamda yürüyormuşum gibi hissettim. Kendimi ona sundum ve düşman hakkında bilgi verdim. Bunu yaptıktan sonra üşümeye başladım, bu yüzden Allah'ın Elçisi (ﷺ) bana kendi ihtiyacının fazlası olan bir örtüyle sarıldı ve namaz kılarken kendisini örtmek için kullandığı örtüydü. Böylece sabaha kadar uyudum. Sabah olunca: \"Kalk, ey ağır uyuyan.\" dedi."
+    },
+    {
+      "id": 123,
+      "narrator": "It has been reported on the authority of Anas b. Malik that (when the enemy got the upper hand) on the day of the Battle of Uhud, the Messenger of Allah (ﷺ) was left with only seven men from the ansar and two men from the Quraish. When the enemy advanced towards him and overwhelmed him, he said:",
+      "text": "Anas b. Malik'ten rivayet edilmiştir ki, (düşman üstün geldiğinde) Uhud Savaşı günü, Allah'ın Elçisi (ﷺ) sadece yedi ensar ve iki Kureyşli ile kalmıştı. Düşman ona yaklaştığında ve onu kuşattığında, şöyle dedi: \"Kim onları bizden uzaklaştırırsa, cennete girecek veya cennette benim arkadaşım olacaktır.\" Ensardan bir adam öne çıktı ve (düşmanla) savaştı ve öldürüldü. Düşman tekrar ilerledi ve onu kuşattı, o da aynı sözleri tekrar etti: \"Kim onları bizden uzaklaştırırsa, cennete girecek veya cennette benim arkadaşım olacaktır.\" Ensardan bir adam daha öne çıktı ve savaştı ve öldürüldü. Bu durum, yedi ensar birer birer öldürülene kadar devam etti. Artık, Allah'ın Elçisi (ﷺ) iki arkadaşına: \"Arkadaşlarımıza adalet etmedik.\" dedi."
+    },
+    {
+      "id": 124,
+      "narrator": "It has been narrated on the authority of Abd-ul-'Aziz b. Abu Hazim, who learnt from his father (Abu Hazim). The latter heard it from Sahl b. Sa'd who was asked about the injury which the Messenger of Allah (ﷺ) got on the day of the Battle of Uhud. He said:",
+      "text": "Abdülaziz b. Ebu Hazim'den rivayet edilmiştir. O, babasından (Ebu Hazim) dinlemiştir. Babası da Sahl b. Sa'd'dan, ona Uhud Savaşı günü Allah'ın Elçisi'nin (ﷺ) aldığı yarayı sorduğunda, o şöyle demiştir: \"Allah'ın Elçisi'nin (ﷺ) yüzü yaralandı, ön dişleri hasar gördü ve miğferi ezildi. Allah'ın Elçisi'nin (ﷺ) kızı Fatıma, başından kanı yıkıyordu ve Ali b. Ebu Talib, ona bir kalkanla su döküyordu. Fatıma, su dökme nedeniyle kanamanın arttığını görünce, bir parça hasır aldı ve onu ateşte yaktı, kül haline getirdi. Külleri yaraya koydu ve kanama durdu.\""
+    },
+    {
+      "id": 125,
+      "narrator": "It has been reported on the authority of Abu Hazim who heard from Sahl b. Sa'd. The latter was asked about the injury of the Messenger of Allah (ﷺ). He said:",
+      "text": "Ebu Hazim'den rivayet edilmiştir. O, Sahl b. Sa'd'dan dinlemiştir. Sahl, Allah'ın Elçisi'nin (ﷺ) yarası hakkında sorulduğunda, şöyle demiştir: \"Vallahi, Allah'ın Elçisi'nin (ﷺ) yarasını yıkayan, üzerine su döken ve yarayı tedavi eden kişiyi biliyorum.\" Sonra Sahl, Abdülaziz'in rivayet ettiği aynı hadisi anlattı, ancak \"ve yüzü yaralandı\" sözlerini ekledi ve \"Huşimat\" kelimesini \"Kusirat\" ile değiştirdi (yani kırıldı)."
+    },
+    {
+      "id": 126,
+      "narrator": "",
+      "text": "Aynı hadis, Sahl b. Sa'd'dan farklı bir rivayet zinciri ile, kelime farklılığı ile aktarılmıştır."
+    },
+    {
+      "id": 127,
+      "narrator": "It has been narrated on the authority of Anas that the Messenger of Allah (ﷺ) had his front teeth damaged on the day of the Battle of Uhud, and got a wound on his head. He was wiping the blood (from his face) and was saying:",
+      "text": "Anas'tan rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) Uhud Savaşı günü ön dişlerini kaybetmiş ve başından yaralanmıştır. Yüzündeki kanı silerken şöyle diyordu: \"Bu insanlara nasıl kurtuluş gelir ki, Peygamberlerini yaralamış ve dişini kırmışlardır, oysa onları Allah'a çağırıyordu?\" Bu sırada, yüce ve aziz olan Allah, \"Senin hiçbir otoriten yoktur\" (iii. 127) ayetini indirdi."
+    },
+    {
+      "id": 128,
+      "narrator": "It has been narrated on the authority of 'Abdullah who said:",
+      "text": "Abdullah'dan rivayet edilmiştir ki, bana öyle geldi ki, Allah'ın Elçisi'ni (ﷺ) gördüm (ve onu) bir Peygamberin hikayesini anlatırken dinledim. O, kavmi tarafından dövülmüştü, yüzündeki kanı silerken şöyle diyordu: \"Rabbim, kavmime bağışla, çünkü onlar bilmiyorlar.\""
+    },
+    {
+      "id": 129,
+      "narrator": "",
+      "text": "Hadisin farklı bir kelime yapısıyla başka bir rivayet zinciri ile aktarılmıştır."
+    },
+    {
+      "id": 130,
+      "narrator": "It has been narrated by Hammam b. Munabbih who said:",
+      "text": "Hammam b. Munabbih'ten rivayet edilmiştir ki, bu, bize Ebu Hureyre'den Allah'ın Elçisi'nden (ﷺ) aktarılanlardır. (Bu girişle) bir dizi hadis anlattı. Bunlardan biri de, Allah'ın Elçisi (ﷺ) şöyle dedi: \"Allah'ın Elçisi'ne (ﷺ) bunu yapan bir kavme Allah'ın gazabı büyüktür.\" O, o sırada ön dişlerine işaret ediyordu. Allah'ın Elçisi (ﷺ) ayrıca şöyle dedi: \"Allah yolunda Allah'ın Elçisi (ﷺ) tarafından öldürülen bir kimseye Allah'ın gazabı büyüktür.\""
+    },
+    {
+      "id": 131,
+      "narrator": "It has been narrated on the authority of Ibn Mas'ud who said:",
+      "text": "İbn Mes'ud'dan rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) Kabe yakınında namaz kılarken, Abu Cehil ve arkadaşları yanındaydılar. Abu Cehil, bir gün önce kesilen dişi deve hakkında şöyle dedi: \"Kim kalkıp şu filan kişinin dişi devenin ceninini alıp, Muhammed'in (ﷺ) secdeye gittiğinde omuzlarının arasına koyacak?\" İnsanların en lanetli olanı kalktı, cenini getirdi ve Peygamber (ﷺ) secdeye gittiğinde onu omuzlarının arasına koydu. Sonra onun üzerine güldüler ve bazıları birbirlerine yaslanarak güldüler. Ben de bakıyordum. Eğer gücüm yetseydi, onu Allah'ın Elçisi'nin (ﷺ) sırtından atardım. Peygamber (ﷺ) secdeye kapandığında başını kaldırmadı, ta ki bir adam (evine) gidip (kızı) Fatıma'ya (o zaman genç bir kızdı) bu çirkin olayı haber verene kadar. O geldi ve (pis şeyi) ondan kaldırdı. Sonra onlara dönerek onları azarladı (kötülük yapanları). Peygamber (ﷺ) namazını bitirdiğinde, onlara yüksek sesle Allah'ın lanetini okudu. Namaz kıldığında üç defa dua etti ve Allah'tan rahmet istediğinde üç defa istedi. Sonra üç defa şöyle dedi: \"Ey Allah, Kureyş ile sen ilgileneceksin.\" Onun sesini duyduklarında gülmeleri yok oldu ve lanetinden korktular. Sonra şöyle dedi: \"Ey Allah, sen Abu Cehil b. Hişam, Utbe b. Rebia, Şeybe b. Rebia, Velid b. Ukbe, Ümeyye b. Halef, Ukbe b. Ebu Muayt ile ilgileneceksin.\" (Ve yedinci kişinin adını anmıştı, onu hatırlayamıyorum). \"Muhammed'i hak ile gönderen Allah'a yemin ederim ki, adını anmış olduğum herkesin Badr Günü'nde öldüğünü gördüm. Ölü bedenleri, savaş alanına yakın bir kuyuya atılmak üzere sürüklendi.\" Ebu İshak, Velid b. Ukbe'nin bu hadiste yanlış bir şekilde anıldığını söylemiştir."
+    },
+    {
+      "id": 132,
+      "narrator": "It has been narrated by Abdullah (b. Mas'ud) who said:",
+      "text": "Abdullah (b. Mes'ud) tarafından rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) namazda secde halindeyken etrafında Kureyş'ten bazı insanlar vardı. Ukbe b. Ebu Muayt, bir dişi devenin ceninini alıp Allah'ın Elçisi'nin (ﷺ) sırtına attı. O, başını kaldırmadı ta ki Fatıma gelene kadar, onu sırtından kaldırdı ve bunu yapanı (çirkin eylemi) cezalandırdı. O da: \"Ey Allah, sen Kureyş'in ileri gelenleriyle ilgileneceksin.\" dedi. \"Abu Cehil b. Hişam, Utbe b. Rebia, Ukbe b. Ebu Muayt, Şeybe b. Rebia, Ümeyye b. Halef veya Ubey b. Halef\" (Bu hadisi aktaran Şu'ba, tam olarak kimin olduğunu bilmiyor). Badr Savaşı'nda hepsinin öldüğünü ve ölü bedenlerinin bir kuyuya atıldığını gördüm, yalnızca Ümeyye veya Ubey b. Halef'in bedeni parça parça kesilip kuyuya atıldı."
+    },
+    {
+      "id": 133,
+      "narrator": "Abu Ishiq has narrated a similar tradition through a different chain of transmitters and has added:",
+      "text": "Ebu İshak, farklı bir rivayet zinciri ile benzer bir hadisi aktarmıştır ve eklemiştir: \"O (Allah'ın Elçisi) duayı üç defa tekrar etmeyi severdi.\" \"Ey Allah, Kureyş ile sen ilgileneceksin.\" (Bu sözleri üç defa tekrar ediyordu). Kureyş'ten de Velid b. Utbe ve Ümeyye b. Halef'in isimlerini anmıştır. (Rivayet eden, bu kişilerin isimlerinin kesin olduğuna dair şüphe yok, ancak yedinci kişinin ismini unuttuğunu belirtmiştir)."
+    },
+    {
+      "id": 134,
+      "narrator": "",
+      "text": "Abdullah'dan rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) Kabe'ye doğru yüzünü döndü ve Kureyş'ten altı adam hakkında Allah'ın lanetini okudu. Bunlar arasında Abu Cehil, Ümeyye b. Halef, Utbe b. Rebia, Şeybe b. Rebia ve Ukbe b. Ebu Muayt vardı. \"Vallahi, Badr Savaşı'nda onları ölü olarak gördüm.\" Sıcak bir gündü, tenleri değişmişti (çürümüşlük belirtileri gösteriyordu)."
+    },
+    {
+      "id": 135,
+      "narrator": "It has been narrated on the authority of `A'isha, the wife of the Prophet (ﷺ), who said to the Messenger of Allah (may peace he upon him):",
+      "text": "Aişe'den rivayet edilmiştir ki, Peygamber'in (ﷺ) eşi, Allah'ın Elçisi'ne (ona selam olsun) şöyle dedi: \"Ey Allah'ın Elçisi, Uhud günü kadar korkunç bir gün geçirdin mi?\" O da: \"Kavminden bana yaptıkları en zor muamele, A'kabe günü aldığım muameledir.\" dedi. \"İslam'a davet etmek amacıyla İbn Abd Yalil b. Abd Kulal'a gittim, ama istediğim gibi cevap vermedi. Bu yüzden yüzümde derin bir üzüntü ile ayrıldım. Qarn al-Tha'lib'e ulaşana kadar kendimi toparlayamadım. Başımı kaldırdığımda, üzerime gölge düşüren bir bulut gördüm. Bakınca, içinde Cebrail'in olduğunu gördüm. O bana seslenerek şöyle dedi: \"Yüce ve aziz olan Allah, kavminin sana söylediklerini ve çağrına nasıl tepki verdiklerini işitti. Ve seni dağların başında olan meleği gönderdi ki, ona ne yapmasını istersen onu yapabilsin.\" Dağların meleği, bana seslenerek selam verdi ve şöyle dedi: \"Muhammed, Allah, kavminin sana söylediklerini işitti. Ben dağların meleğiyim ve Rabb'in beni sana gönderdi ki, ne yapmamı istersen onu yapabileyim. Eğer istersen, Mekke'nin iki karşısındaki dağları birleştirip onları ezebilirim.\" Fakat Allah'ın Elçisi (ona selam olsun) ona şöyle dedi: \"Ben, Allah'ın onların neslinden, Allah'a bir olanı ibadet eden ve ona ortak koşmayan kimseler çıkaracağına umuyorum.\""
+    },
+    {
+      "id": 136,
+      "narrator": "It has been narrated on the authority of Jundub b. Sufyan who said:",
+      "text": "Jundub b. Sufyan'dan rivayet edilmiştir ki, Allah'ın Messenger'ının (ﷺ) parmağı bir savaşta yaralanmıştı. O şöyle dedi: \"Sen sadece kanamış bir parmaksın ve başına gelenler Allah yolundadır.\""
+    },
+    {
+      "id": 137,
+      "narrator": "It has been narrated on the authority of Aswad b. Qais who said:",
+      "text": "Aswad b. Qais'ten rivayet edilmiştir ki, Allah'ın Messenger'ı (ﷺ) parmağı yaralandığında bir mağarada (veya baskında) bulunuyordu."
+    },
+    {
+      "id": 138,
+      "narrator": "It has been narrated on the authority of Aswad b. Qais who heard Jundub saying that Gabriel delayed his visit to the Messenger of Allah (ﷺ) The polytheists began to say that Muhammad has been forsaken. At this Allah, the Glorious and Exalted, revealed:",
+      "text": "Aswad b. Qais'ten rivayet edilmiştir ki, Jundub'un, Cebrail'in Allah'ın Messenger'ına (ﷺ) ziyaretini geciktirdiğini söylediğini duydum. Müşrikler, \"Muhammed terk edildi\" demeye başladılar. Bunun üzerine Allah, Azim ve Yüce, \"Wa'dd hd wa'l-laili iza saja, ma wadda'ka Rabbuka wa' ma qala\" ayetini indirdi."
+    },
+    {
+      "id": 139,
+      "narrator": "It has been narrated on the authority of Aswad b. Qais who said:",
+      "text": "Aswad b. Qais'ten rivayet edilmiştir ki, Jundub b. Sufyan'ın şöyle dediğini duydum: Allah'ın Messenger'ı (ﷺ) hastalandı ve iki veya üç gece (namaz için) uyanmadı. Bir kadın ona geldi ve şöyle dedi: \"Muhammed, umarım ki şeytanın senden gitmiştir. Onu iki veya üç gecedir sana yaklaşırken görmedim.\" Rivayet eden kişi der ki: Bunun üzerine Allah, Azim ve Yüce, \"Yüce olan......\" ayetini indirdi."
+    },
+    {
+      "id": 140,
+      "narrator": "",
+      "text": "Bu hadis, Aswad b. Qais'ten aynı isnatla rivayet edilmiştir."
+    },
+    {
+      "id": 141,
+      "narrator": "It has been narrated on the authority of Usama b. Zaid that the Prophet (ﷺ) rode a donkey. It had on it a saddle under which was a mattress made at Fadak (a place near Medina). Behind him he seated Usama. He was going to the street of Banu Harith al-Khazraj to inquire after the health of Sa'd b. Ubada This happened before the Battle of Badr. (He proceeded) until he passed by a mixed company of people in which were Muslims, polytheists, idol worshippers and the Jews and among them were 'Abdullah b. Ubayy and 'Abdullah b. Rawaha. When the dust raised by the hoofs of the animal spread over the company, 'Abdullah b. Ubayy covered his nose with his mantle and said:",
+      "text": "Usama b. Zaid'den rivayet edilmiştir ki, Peygamber (ﷺ) bir eşeğe bindi. Eşekte, Fadak'ta (Medine yakınında bir yer) yapılmış bir yatak olan bir semer vardı. Arkasında Usama'yı oturttu. Sa'd b. Ubade'nin sağlığını sormak için Banu Harith al-Khazraj sokağına gidiyordu. Bu, Bedir Savaşı'ndan önce oldu. (İlerledi) ta ki Müslümanlar, müşrikler, putperestler ve Yahudilerin bulunduğu karışık bir topluluğun yanından geçti. O sırada 'Abdullah b. Ubayy ve 'Abdullah b. Rawaha da oradaydı. Hayvanın ayaklarının kaldırdığı toz topluluğun üzerine yayıldığında, 'Abdullah b. Ubayy burnunu örtüsüyle kapadı ve \"Üzerimize toz saçmayın\" dedi. (Bu yorumu umursamadan) Peygamber (ﷺ) onlara selam verdi, durdu, hayvanından indi, onları Allah'a davet etti ve onlara Kur'an okudu. 'Abdullah b. Ubayy dedi ki: \"Ey adam, eğer söylediklerin doğruysa, senin için en iyi şey, bunu bizim meclislerimizde bize rahatsız etmemendir. Yerine dön. Bizden sana gelen kim olursa, ona (bütün) bunu söyle.\" Abdullah b. Rawaha dedi ki: \"Bize meclislerimizde gel, çünkü biz (duymayı) seviyoruz.\" Rivayet eden kişi der ki: (Bunun üzerine) Müslümanlar, müşrikler ve Yahudiler birbirlerine hakaret etmeye başladılar ta ki kavgaya tutuşmaya karar verdiler. Peygamber (ﷺ) onları yatıştırmaya devam etti. (Yatıştıklarında) hayvanına bindi ve Sa'd b. Ubida'ya geldi. Dedi ki: \"Sa'd, Abu Hubab'ın (yani 'Abdullah b. Ubayy) ne dediğini duydun mu? Şöyle dedi.\" Sa'd dedi ki: \"Allah'ın Messenger'ı, affet ve bağışla. Allah sana yüce bir mevki vermiştir, (ama o açısından) bu yerleşim halkı onu taç giydirerek kral yapmaya karar vermişti, ama Allah, sana verdiği hakikatle bunu engelledi. Bu onu kıskandırdı ve kıskançlığı (görmüş olduğun) davranışı tetiklemiş olmalı.\" Böylece Peygamber (sallallahu aleyhi ve sellem) onu affetti."
+    },
+    {
+      "id": 142,
+      "narrator": "A similar tradition has been narrated through a different chain of transmitters by Ibn Shihab with the addition of the words:",
+      "text": "Benzer bir rivayet, farklı bir isnatla İbn Şihab tarafından, \"Abdullah (b. Ubayy) Müslüman olmadan önce\" ifadesi eklenerek nakledilmiştir."
+    },
+    {
+      "id": 143,
+      "narrator": "It has been narrated on the authority of Anas b. Malik that it was said to the Prophet (ﷺ):",
+      "text": "Anas b. Malik'ten rivayet edilmiştir ki, Peygamber'e (ﷺ) şöyle denildi: \"Keşke Abdullah b. Ubayy'e (İslam'ı kabul etmesi için) yaklaşsaydın.\" Peygamber (ﷺ) buna göre, bir eşeğe binerek ona gitti ve (bir grup) Müslüman da (onunla birlikte) gitti. Yolda tuzlu bir arazi üzerinden yürümek zorunda kaldılar. Peygamber (ﷺ) ona yaklaştığında, o şöyle dedi: \"Bana yaklaşma. Vallahi, senin eşeğinin kötü kokusu beni rahatsız etti.\" (Bu yoruma karşılık) Ensar'dan bir adam dedi ki: \"Vallahi, Allah'ın Messenger'ının (ﷺ) eşeğinin kokusu senin kokundan daha iyidir.\" (Bunun üzerine) 'Abdullah b. Ubayy öfkelendi. Sonra her iki taraftan insanlar öfkelendi ve sopalar, eller ve ayakkabılarla birbirlerine vurmaya başladılar. (Rivayet eden kişi der ki) bu kargaşadan sonra öğrendik ki, \"Eğer müminlerden iki grup birbiriyle savaşırsa, aralarında barış yapın\" (49:9) ayeti bu dövüşen gruplar hakkında indirilmiştir."
+    },
+    {
+      "id": 144,
+      "narrator": "It has been narrated on the authority of Anas b. Malik that the Messenger of Allah (ﷺ) said (after the encounter at Badr):",
+      "text": "Anas b. Malik'ten rivayet edilmiştir ki, Allah'ın Messenger'ı (ﷺ) Bedir'deki karşılaşmadan sonra şöyle dedi: \"Bize Abu Cehil'in başına ne geldiğini kim bildirecek?\" İbn Mes'ud (bu bilgiyi toplamak için) gitti. İki 'Afra' oğlu ona vurmuş ve o soğuk bir halde ölüm noktasında yatıyordu. Onu sakalından tuttu ve \"Sen Abu Cehil misin?\" dedi. O da: \"Seni öldüren kişiden daha üstün biri var mı, yoksa (dedi) halkı onu öldürdü.\" İbn Mes'ud, Abu Mijlaz'a göre, Abu Cehil'in şöyle dediğini aktarıyor: \"Ah! Bir çiftçi olmayan biri beni öldürseydi.\""
+    },
+    {
+      "id": 145,
+      "narrator": "",
+      "text": "Benzer bir rivayet, farklı bir nakil zinciriyle, aynı otoriteden küçük bir kelime farkıyla aktarılmıştır."
+    },
+    {
+      "id": 146,
+      "narrator": "It has been narrated on the authority of Jabir that the Messenger of Allah (ﷺ) said:",
+      "text": "Jabir'den rivayet edilmiştir ki, Allah'ın Messenger'ı (ﷺ) şöyle dedi: \"Ka'b b. Eşref'i kim öldürecek? O, Allah'ı, Yüce olanı ve O'nun Messenger'ını iftira etti.\" Muhammed b. Mesleme dedi: \"Ey Allah'ın Messenger'ı, onu öldürmemi ister misin?\" O da: \"Evet.\" Dedi: \"Bana onunla istediğim gibi konuşma izni ver.\" O da: \"İstediğin gibi konuş.\" Böylece Muhammed b. Mesleme, Ka'b'a gitti ve ona konuştu, aralarındaki eski dostluktan bahsetti ve şöyle dedi: \"Bu adam (yani Kutsal Peygamber) bizden sadaka toplamak istiyor ve bu bize büyük bir zorluk çıkardı.\" Bunu duyduğunda Ka'b şöyle dedi: \"Vallahi, ondan daha fazla sıkıntıya gireceksiniz.\" Muhammed b. Mesleme dedi: \"Şüphesiz, şimdi biz onun takipçileri olduk ve onun işlerinin nasıl döneceğini görene kadar onu terk etmek istemiyoruz. Benden bir borç almanı istiyorum.\" O da: \"Neyi teminat vereceksin?\" dedi. O da: \"Ne istiyorsun?\" dedi. O: \"Bana kadınlarını teminat ver.\" dedi. O: \"Sen Arapların en yakışıklısısın; kadınlarımızı sana teminat vermek mi?\" dedi. O: \"Bana çocuklarını teminat ver.\" dedi. O: \"Birimizden biri, iki wask hurma için teminat verildiğini söyleyerek bize hakaret edebilir, ama sana (silahlarımızı) teminat verebiliriz.\" dedi. O: \"Tamam.\" Sonra Muhammed b. Mesleme, Harith, Abu 'Abs b. Jabr ve Abbad b. Bishr ile birlikte ona geleceğine söz verdi. Böylece geceleyin ona geldiler. O onlara indi. Sufyan, 'Amr dışında tüm rivayet edenlerin, karısının şöyle dediğini bildirdiğini söyler: \"Bir ses duyuyorum ki, bu cinayet sesi gibi geliyor.\" O da: \"Bu sadece Muhammed b. Mesleme ve süt kardeşi Abu Na'ila.\" dedi. \"Bir beyefendi gece çağrıldığında, bir mızrakla delinse bile, çağrıya icabet etmelidir.\" Muhammed, arkadaşlarına dedi ki: \"O indiğinde, başına ellerimi uzatacağım ve onu sıkıca tuttuğumda, siz işinizi yapmalısınız.\" O indiğinde ve örtüsünü koltuk altına almışken, ona: \"Senden çok güzel bir koku alıyoruz.\" dediler. O da: \"Evet, benimle birlikte Arabistan'ın en güzel kokulu kadını var.\" dedi. O: \"Başındaki kokuyu koklamama izin ver.\" dedi. O da: \"Evet, koklayabilirsin.\" Böylece onu yakaladı ve kokladı. Sonra: \"Bir kez daha yapmama izin ver.\" dedi. Sonra başını sıkıca tuttu ve arkadaşlarına: \"İşinizi yapın.\" dedi. Ve onu öldürdüler."
+    },
+    {
+      "id": 147,
+      "narrator": "It has been narrated on the authority of Anas that the Messenger of Allah (ﷺ) raided Khaibar. One morning we offered prayers in the darkness of early dawn (near Khaibar). Then the Messenger of Allah (ﷺ) mounted (his horse). Abu Talha mounted his and I mounted behind Abu Talha on the same horse. The Prophet of Allah (ﷺ) rode through the streets of Khaibar and (I rode so close to him) that my knee touched the thigh of the Prophet of Allah (ﷺ). The wrapper got aside from his thigh, and I could see its whiteness. When he entered the town, he said:",
+      "text": "Anas'tan rivayet edilmiştir ki, Allah'ın Messenger'ı (ﷺ) Hayber'e akın etti. Bir sabah, Hayber'in karanlığında (namaz kıldık). Sonra Allah'ın Messenger'ı (ﷺ) bindi. Abu Talha bindi ve ben de Abu Talha'nın arkasında aynı ata bindim. Allah'ın Messenger'ı (ﷺ) Hayber'in sokaklarından geçti ve (ben o kadar yakındım ki) dizim Allah'ın Messenger'ının (ﷺ) uyluğuna değiyordu. Örtüsü uyluğundan kaydı ve onun beyazlığını görebildim. Şehre girdiğinde, \"Allah en büyüktür. Hayber yok olacak.\" dedi. \"Bir topluluğun şehir meydanına indiğimizde, uyarılanlar için kötü bir gündür.\" Bu sözleri üç kez söyledi. Şehir halkı, (evlerinden) çıkıp işlerine gitmek üzereyken, \"Muhammed geldi.\" dediler. Hayber'i zorla ele geçirdik."
+    },
+    {
+      "id": 148,
+      "narrator": "It has been narrated (through another chain of transmitters) on the authority of the same narrator (i. e. Anas) who said:",
+      "text": "Aynı rivayet, aynı rivayet edenin (yani Anas'ın) başka bir nakil zinciriyle aktarılmıştır. O gün Hayber Savaşı'nda (Peygamberin yanındaydık) ve o kadar yakındık ki) ayağım onun ayağına değiyordu. Güneş doğarken, insanlarla karşılaştık, ellerinde balta, kürek ve iplerle hayvanlarını sürüyorlardı. \"Muhammed, ordusuyla birlikte geldi!\" diye bağırdılar. Allah'ın Messenger'ı (ﷺ) dedi ki: \"Hayber yok olacak. İşte, bir topluluğun şehir meydanına indiğimizde, uyarılanlar için kötü bir gündür.\" Allah, Azim ve Celil, onlara mağlubiyet verdi."
+    },
+    {
+      "id": 149,
+      "narrator": "",
+      "text": "Bu hadis, Anas b. Malik'ten az bir kelime değişikliğiyle aktarılmıştır."
+    },
+    {
+      "id": 150,
+      "narrator": "It has been narrated on the authority of Salama b. al-Akwa' who said:",
+      "text": "Salama b. el-Akwa' dan rivayet edilmiştir ki, Allah'ın Messenger'ı (ﷺ) ile Hayber'e yürüdük. Geceleyin yol aldık. İnsanlardan biri (kardeşim) 'Amir b. el-Akwa'ya: \"Bize bazı şiirlerini okumaz mısın?\" dedi. 'Amir bir şairdi. Böylece deve sürmek için şiirlerini okumaya başladı:"
+    },
+    {
+      "id": 151,
+      "narrator": "It has been reported on the authority of Salama b. Akwa' who said:",
+      "text": "Salama b. Akwa' tarafından rivayet edilmiştir. Dedi ki: Hayber Savaşı günü kardeşim, Allah'ın Resulü (ﷺ) ile birlikte şiddetli bir savaş yaptı. Kılıcı geri sıçradı ve onu öldürdü. Allah'ın Resulü'nün (selam üzerine olsun) Sahabeleri onun ölümü hakkında konuştu ve (şehit olup olmadığı konusunda) şüpheye düştüler. (Dediler ki): (O) kendi silahı ile öldürülen bir adamdır ve durumu hakkında şüphe ifade ettiler. Salama dedi ki: Allah'ın Resulü (ﷺ) Hayber'den döndüğünde, ben: \"Ey Allah'ın Resulü, sana bazı rajaz şiirleri okumama izin ver\" dedim. Allah'ın Resulü (ﷺ) izin verdi. Ömer b. Hattab dedi ki: \"Ne okuyacağını biliyorum.\" Ben okudum:"
+    },
+    {
+      "id": 152,
+      "narrator": "It has been reported on the authority of Barra' who said:",
+      "text": "\"Allah'a yemin olsun, eğer Allah bizi hidayet etmeseydi,"
+    },
+    {
+      "id": 153,
+      "narrator": "It has been narrated on the authority of Abu Ishaq who said:",
+      "text": "Ne doğru yola iletilirdik ne de sadaka verirdik,"
+    },
+    {
+      "id": 154,
+      "narrator": "It has been reported on the authority of Sahl b. Sa'd who said:",
+      "text": "Ne de namaz kılardık.\""
+    },
+    {
+      "id": 155,
+      "narrator": "It has been narrated on the authority of Anas b. Malik that the Messenger of Allah (ﷺ) said:",
+      "text": "Allah'ın Resulü (ﷺ) dedi ki: \"Söylediklerin doğrudur.\" Ben devam ettim:"
+    },
+    {
+      "id": 156,
+      "narrator": "According to another version of the tradition, reported on the authority of Anas b. Malik, the Messenger of Allah (may peace he upon him) is reported to have said:",
+      "text": "\"Ve üzerimize selamet ve huzur indir,"
+    },
+    {
+      "id": 157,
+      "narrator": "According to still another version of the tradition narrated by the same authority, and handed down through a different chain of transmitters, it has been reported that they (the Companions of the Holy Prophet) were reciting rajaz verses and the Messenger of Allah (ﷺ) was (reciting) with them. And they were chanting:",
+      "text": "Ve düşmanlarımızla karşılaştığımızda bizi sabit kıl,"
+    },
+    {
+      "id": 158,
+      "narrator": "It has been narrated (through a still difterent chain of transmitters) by Anas that the Companions of Muhammad (ﷺ) were chanting on the day of the Battle of the Ditch:",
+      "text": "Ve müşrikler bize başkaldırdı.\""
+    },
+    {
+      "id": 159,
+      "narrator": "It has been narrated on the authority of Yazid b. Abu 'Ubaid who said that he heard Salama b. al-Akwa' say:",
+      "text": "Rajazımı bitirdiğimde, Allah'ın Resulü (ﷺ) dedi ki: \"Bu beyitleri kim yazdı?\" Ben dedim: \"Kardeşim yazdı.\" Allah'ın Resulü (ﷺ) dedi ki: \"Allah ona rahmet eylesin!\" Ben dedim: \"Allah'a yemin olsun, bazı insanlar ona rahmet dilemekte tereddüt ediyorlar (çünkü) diyorlar ki, o kendi kılıcıyla ölen bir adamdır.\" (Bunu duyunca) Allah'ın Resulü (ﷺ) dedi ki: \"O, Allah'ın sadık bir kulları ve savaşçısı olarak öldü.\" İbn Şihab dedi ki: Salama (b. Akwa')'nın oğullarından birine 'Amir'in ölümü hakkında sordum. O da bana benzer bir rivayet aktardı, ancak şöyle dedi: \"Ben bazı insanların ona Allah'ın rahmetini dilemekte tereddüt ettiklerini söylediğimde, Allah'ın Resulü (selam üzerine olsun) dedi ki: \"Onlar yalan söylediler. 'Amir, Allah'ın sadık bir kulları ve savaşçısı olarak öldü. Onun için iki kat ödül vardır.\" İki parmağını birleştirerek bunu gösterdi."
+    },
+    {
+      "id": 160,
+      "narrator": "It has been narrated on the authority of Ibn Salama. He heard the tradition from his father who said:",
+      "text": "---"
+    },
+    {
+      "id": 161,
+      "narrator": "",
+      "text": "Barra' tarafından rivayet edilmiştir. Dedi ki: Allah'ın Resulü (ﷺ) Ahzab Günü bizimle birlikte hendek kazıyordu ve karnının beyazlığı toprağa gömülmüştü. (Bu zahmetle meşgulken) o okudu:"
+    },
+    {
+      "id": 162,
+      "narrator": "It has been narrated on the authority of Anas b. Malik that eighty Persons from the inhabitants of Mecca swooped down upon the Messenger of Allah (ﷺ) from the mountain of Tan'im. They were armed and wanted to attack the Prophet (ﷺ) and his Companions unawares. He (the Holy Prophet) captured them but spared their lives. So, God, the Exalted and Glorious, revealed the verses:",
+      "text": "\"Allah'a yemin olsun, eğer Sen bizi hidayet etmeseydin,"
+    },
+    {
+      "id": 163,
+      "narrator": "It has been narrated on the authority of Anas that, on the Day of Hunain. Umm Sulaim took out a dagger she had in her possession. Abiu Talha saw her and said:",
+      "text": "Ne doğru yola iletilirdik ne de sadaka verirdik,"
+    },
+    {
+      "id": 164,
+      "narrator": "",
+      "text": "Ne de namaz kılardık.\""
+    },
+    {
+      "id": 165,
+      "narrator": "It has been narrated on the authority of Anas b. Malik who said:",
+      "text": "\"Üzerimize selamet ve huzur indir.\""
+    },
+    {
+      "id": 166,
+      "narrator": "It has been narrated on the authority of Yazid b. Hurmuz that Najda wrote to Ibn Abbas inquiring of him five things. Ibn Abbas said:",
+      "text": "Yazid b. Hurmuz'un rivayetine göre, Najda, İbn Abbas'a beş şey sormak için yazdı. İbn Abbas şöyle dedi: Eğer bilgi saklamaktan (günah) korkmasaydım, ona yazmazdım. Najda, (Yüce Allah'ı övdükten ve Peygamber'e salat ettikten sonra) ona yazdı: Bana, Allah'ın Resulü (ﷺ) kadınları cihada katılmaları için yanına aldı mı; (eğer aldıysa) onlara ganimetten düzenli bir pay ayırdı mı; savaşta düşmanın çocuklarını öldürdü mü, bir yetimin yetimlik durumu ne zamana kadar devam eder, ve Khums (ganimetten alınan beşte bir) kimin içindir, diye soruyorsun. İbn Abbas ona yazdı: Sen, Allah'ın Resulü (ﷺ) kadınları cihada katılmaları için yanına alıp almadığını soruyorsun. O, onları savaşa götürdü ve bazen onlarla birlikte savaştı. Yaralıları tedavi ederlerdi ve ganimetten bir ödül alırlardı, ama onlara düzenli bir pay ayırmadı. Ve Allah'ın Resulü (ﷺ) düşmanın çocuklarını öldürmedi, bu yüzden sen de çocukları öldürmemelisin. Ayrıca, bana yetimlik durumunun ne zaman sona erdiğini sordun. Yemin ederim ki, eğer bir adam sakallı olduysa ama hala başkalarından hakkını alacak durumda değilse veya onlara karşı yükümlülüklerini yerine getiremiyorsa, (o hala bir yetim olarak muamele görmelidir), ama eğer kendi çıkarlarını yetişkinler gibi gözetebiliyorsa, o artık bir yetim değildir. Ve Khums'un kime ait olduğunu sorduğun için yazıyorum. (Bu konuda) biz (Allah'ın Resulü'nün akrabaları) deriz ki: O bizim içindir, ama o insanlar (yani Banu Ümeyye) bunu bize inkar ettiler."
+    },
+    {
+      "id": 167,
+      "narrator": "This tradition has been narrated by the game authority (Yazid b. Hurmus) through a different chain of transmitters with the following difference in the elucidation of one of the points raised by Najda in his letter to Ibn Abas:",
+      "text": "---"
+    },
+    {
+      "id": 168,
+      "narrator": "It has been narrated on the authority of Yazid b. Hurmuz who said:",
+      "text": "Bu rivayet, (Yazid b. Hurmuz) farklı bir nakil zinciriyle, Najda'nın İbn Abbas'a yazdığı mektuptaki bir noktayı açıklamada şu farklılıkla aktarılmıştır: Allah'ın Resulü (ﷺ) çocukları öldürmezdi, bu yüzden sen de onları öldürmemelisin, ancak Khadir'in öldürdüğü çocuk hakkında bildiği gibi bir bilgiye sahip olursan ya da bir çocuğun mümin olup olmayacağını ayırt edebilirsen, o zaman (mümkün) olmayan mümin çocuğu bırakıp (mümkün) olan kafir çocuğu öldürebilirsin."
+    },
+    {
+      "id": 169,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 170,
+      "narrator": "It has been narrated on the anthority of Yazid b. Hurmuz who said:",
+      "text": "Yazid b. Hurmuz'un rivayetine göre, Najda b. 'Amir al-Haruri, İbn Abbas'a köle ve kadınların cihada katıldıklarında ganimetten pay alıp almayacaklarını; düşman çocuklarının (savaşta) öldürülmesi; yetimlik durumunun ne zaman sona ereceği; ve Peygamber'in akrabalarının kimler olduğu hakkında sordu. Yazid'e: Ona yaz, dedim. (Eğer akılsızlığa düşeceğinden korkmasaydım, ona yazmazdım.) Yaz: Kadın ve kölelerin cihada katıldıklarında ganimetten pay alıp almayacaklarını sordun. (Bilmelisin ki) onlar için böyle bir şey yok, sadece ödül alacaklardır. Düşman çocuklarının savaşta öldürülmesi hakkında bana yazdın. (Anlamalısın ki) Allah'ın Resulü (sallallahu aleyhi ve sellem) onları öldürmedi. Ve sen de onları öldürmemelisin, ancak Musa'nın (yani Khadir'in) öldürdüğü çocuk hakkında bildiği gibi bir bilgiye sahip olursan. Ve yetim hakkında, yetimlik durumunun ne zaman sona ereceği hakkında bana yazdın, böylece \"yetim\" sıfatı ondan düşsün. (Bu konuda bilmelisin ki) \"yetim\" sıfatı, o olgunluk çağına ve akıl olgunluğuna ulaşana kadar ondan düşmeyecektir. Ve Peygamber'in akrabaları hakkında kimler olduklarını sorduğun için. Biz, bunun biz olduğuna inanıyoruz, ama bizim halkımız bunu inkar etti."
+    },
+    {
+      "id": 171,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 172,
+      "narrator": "It has been narrated on the authority of Umm 'Atiyya, the Ansarite, who said:",
+      "text": "Bu hadisi, Yazid b. Hurmuz'un başka bir nakil zinciriyle aktardığı belirtilmiştir."
+    },
+    {
+      "id": 173,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 174,
+      "narrator": "It has been narrated on the authority of Abu Ishaq that 'Abdullah b. Yazid went (out of the city) with people for offering\" Istisqa\" ' prayer (for rainfall). He offered two rak'ahs. Then he prayed for rain. That day I met Zaid b. Arqam. There was only one man between me and him (at that time). I asked him:",
+      "text": "Yazid b. Hurmuz'un rivayetine göre, Najda, İbn Abbas'a yazdı. İbn Abbas'ın mektubunu okuduğu ve cevabını yazdığı sırada onunla birlikte oturuyordum. İbn Abbas şöyle dedi: Eğer onu kötülükten alıkoymasaydım, mektubuna cevap vermezdim, umarım o asla sevinç bulmaz. Cevabında, Allah'ın Resulü'nün (ﷺ) akrabalarının (ganimetten) payı hakkında yazdı. (Sana söylemeliyim ki) biz, Allah'ın Resulü'nün (ﷺ) akrabaları olduğumuzu düşündük, ama halkımız bunu tanımayı reddetti. Yetim hakkında, yetimlik durumunun ne zaman sona ereceğini sordun. (Şunu söylemeliyim ki) evlilik çağına geldiğinde, akıl olgunluğuna ulaştığında ve malı kendisine iade edildiğinde, o artık bir yetim değildir. Allah'ın Resulü'nün (sallallahu aleyhi ve sellem) savaşta müşriklerin çocuklarından herhangi birini öldürüp öldürmediğini sordun. (Bilmelisin ki) Allah'ın Resulü (ﷺ) onların çocuklarından hiçbirini öldürmezdi ve sen de (onlardan) hiçbirini öldürmemelisin, ancak Khadir'in öldürdüğü çocuk hakkında bildiğin gibi bir bilgiye sahip olursan. Ve kadınlar ve kölelerin savaşa katıldıklarında ganimetten sabit bir payı olup olmadığını sordun. (Sana söylemeliyim ki) onlar için sabit bir pay yoktur, sadece savaş ganimeti içinden bazı ödüller alacaklardır."
+    },
+    {
+      "id": 175,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 176,
+      "narrator": "It has been reported on the authority of Abu Zubair who heard Jabir b. `Abdullah say:",
+      "text": "Bu hadisi, Yazid b. Hurmuz'un rivayetiyle, ancak yukarıda belirtilen hadislerdeki gibi tam olarak aktarılmamıştır."
+    },
+    {
+      "id": 177,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 178,
+      "narrator": "",
+      "text": "Umm 'Atiyya, Ensar'dan, şöyle dedi: Ben, Allah'ın Resulü (ﷺ) ile yedi savaşa katıldım. Erkeklerin kampında kalır, yemeklerini pişirir, yaralıları tedavi eder ve hastaları bakımını yapardım."
+    },
+    {
+      "id": 179,
+      "narrator": "It has been narrated on the authority of Salama who said:",
+      "text": "---"
+    },
+    {
+      "id": 180,
+      "narrator": "",
+      "text": "Benzer bir rivayet, Hişam b. Hassan'ın farklı bir nakil zinciriyle aktarılmıştır."
+    },
+    {
+      "id": 181,
+      "narrator": "It has been narrated on the authority of Abu Musa (Ash'ari) who said:",
+      "text": "Abu Musa (Ash'ari) tarafından rivayet edilmiştir. Dedi ki: Biz, Allah'ın Elçisi (ﷺ) ile bir sefere çıktık. Altı kişiydik ve yanımızda sadece bir deve vardı, onu sırayla biniyorduk. Ayaklarımız yaralandı. Ayaklarım o kadar kötü yaralandı ki tırnaklarım döküldü. Ayaklarımızı parçalarla sardık. Bu sefer, ayaklarımızı o gün parçalarla sardığımız için Dhat-ur-Riqa' (yani parçalar seferi) olarak adlandırıldı. Abu Burda dedi ki: Abu Musa bu hadisi rivayet etti, sonra bunu tekrar etmeyi istemedi çünkü yaptığı bu hayırlı ameli duyurmak istemedi. Abu Usama dedi ki: Abu Burda dışında diğer raviler, \"Allah onu ödüllendirecektir.\" sözlerine ekleme yaptılar."
+    },
+    {
+      "id": 182,
+      "narrator": "It has been narrated on the authority of A'isha, wife of the Prophet (ﷺ), who said:",
+      "text": "A'isha, Peygamber (ﷺ) eşinin rivayetine göre, dedi ki: Allah'ın Elçisi (ﷺ) Badr'a doğru yola çıktı. Harrat-ul-Wabara'ya (Medine'den dört mil uzaklıkta bir yer) ulaştığında, cesareti ve kahramanlığı ile tanınan bir adam ona rastladı. Allah'ın Elçisi (ﷺ) ile birlikte olan sahabeler onu görünce memnun oldular. Adam dedi ki: Size katılmak ve ganimetten pay almak için geldim. Allah'ın Elçisi (ﷺ) ona dedi ki: Allah'a ve Elçisine inanıyor musun? Adam: Hayır, dedi. Allah'ın Elçisi (ﷺ) dedi ki: Geri dön, ben bir müşrikten (putperest) yardım istemeyeceğim. Adam gitti ve biz Şajara'ya ulaşana kadar devam etti, burada adam tekrar ona rastladı. Aynı soruyu tekrar sordu ve adam aynı cevabı verdi. O da dedi ki: Geri dön. Ben müşrikten yardım istemeyeceğim. Adam geri döndü ve Baida' da onu yakaladı. Daha önce sorduğu gibi sordu: Allah'a ve Elçisine inanıyor musun? Adam: Evet, dedi. Allah'ın Elçisi (ﷺ) ona dedi ki: O zaman bizimle gel."
+    }
+  ]
+}

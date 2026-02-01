@@ -1,0 +1,851 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 167,
+    "arabic": {
+      "title": "سنن النسائي",
+      "author": "الإمام أحمد بن شعيب النسائي"
+    },
+    "english": {
+      "title": "Sunan an-Nasai",
+      "author": "Imam Ahmad ibn Shuayb an-Nasai"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "It was narrated from Anas bin Malik that:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir ki: Peygamber (s.a.v) şöyle buyurdu: \"Putperestlerle savaşmam emredildi, ta ki La ilaha illallah (Allah'tan başka ibadet edilecek hiçbir ilah yoktur) ve Muhammad'ın O'nun kulu ve elçisi olduğuna şahitlik edene kadar. Eğer La ilaha illallah'a ve Muhammad'ın O'nun kulu ve elçisi olduğuna şahitlik ederler, bizim gibi namaz kılarlar, kıblamıza yönelirler ve bizim kesilmiş hayvanlarımızı yerlerse, o zaman onların kanları ve malları bize haramdır, ancak hakları olan bir şey müstesna.\""
+    },
+    {
+      "id": 2,
+      "narrator": "It was narrated from Anas bin Malik that :",
+      "text": "Anas bin Malik'ten rivayet edilmiştir ki: Allah'ın Resulü şöyle buyurdu: \"Eğer onlar bizim kıblamıza yönelir, kesilmiş hayvanlarımızı yer ve bizim gibi namaz kılarlarsa, o zaman onların kanları ve malları haramdır, ancak hakları olan bir şey müstesna ve onlar Müslümanlar gibi aynı hak ve yükümlülüklere sahip olacaklardır.\""
+    },
+    {
+      "id": 3,
+      "narrator": "Maimun bin Siyah asked Anas bin Malik:",
+      "text": "Maimun bin Siyah, Anas bin Malik'e sordu: \"Ey Ebu Hamza, bir Müslümanın kanı ve malı neden haramdır?\" O da şöyle cevap verdi: \"La ilaha illallah'a (Allah'tan başka ibadet edilecek hiçbir ilah yoktur) ve Muhammad'ın Allah'ın elçisi olduğuna şahitlik eden, bizim kıblamıza yönelen, bizim gibi namaz kılan ve kesilmiş hayvanlarımızı yiyen herkes Müslümandır ve Müslümanlar gibi aynı hak ve yükümlülüklere sahiptir.\""
+    },
+    {
+      "id": 4,
+      "narrator": "It was narrated that Anas bin Malik said:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir ki: \"Allah'ın Resulü şöyle buyurdu: 'Onlar benimle savaşacaklar mı?' 'Umar dedi ki: 'Vallahi, Ebu Bekir'in bu konuda ne kadar kararlı olduğunu görünce, bunun hak olduğunu anladım.'\""
+    },
+    {
+      "id": 5,
+      "narrator": "It was narrated that Abu Hurairah said:",
+      "text": "Abu Hurairah'tan rivayet edilmiştir ki: \"Allah'ın Resulü şöyle buyurdu: 'Onlar bunu vermekten alıkoyarlarsa, ben onlarla savaşacağım.' 'Umar, Allah ondan razı olsun, dedi ki: 'Vallahi, Allah'ın Ebu Bekir'in savaşma konusunda göğsünü genişlettiğini görünce, bunun hak olduğunu anladım.'\""
+    },
+    {
+      "id": 6,
+      "narrator": "It was narrated that Abu Hurairah said:",
+      "text": "Abu Hurairah'tan rivayet edilmiştir ki: \"Allah'ın Resulü şöyle buyurdu: 'O, böyle ve böyle mi dedi?' O da şöyle dedi: 'Vallahi, ben namaz ve zekatı ayırmam ve onları ayıranlarla savaşacağım.' Böylece onunla birlikte savaştık ve bunun doğru bir şey olduğunu anladık.\""
+    },
+    {
+      "id": 7,
+      "narrator": "Abu Hurairah narrated that :",
+      "text": "Abu Hurairah, Allah'ın Resulü'nün şöyle buyurduğunu rivayet etti: \"İnsanlarla savaşmam emredildi, ta ki La ilaha illallah (Allah'tan başka ibadet edilecek hiçbir ilah yoktur) desinler. La ilaha illallah diyenin malı ve canı benden emindir, ancak hakları olan bir şey müstesna ve onun hesabı Allah'la olacaktır.\""
+    },
+    {
+      "id": 8,
+      "narrator": "It was narrated that Abu Hurairah said:",
+      "text": "Abu Hurairah'tan rivayet edilmiştir ki: \"Allah'ın Resulü şöyle buyurdu: 'Onlar bunu vermekten alıkoyarlarsa, ben onlarla savaşacağım.' 'Umar dedi ki: 'Vallahi, Allah'ın Ebu Bekir'in savaşma konusunda göğsünü genişlettiğini görünce, bunun hak olduğunu anladım.'\""
+    },
+    {
+      "id": 9,
+      "narrator": "Abu Hurairah narrated that :",
+      "text": "Abu Hurairah, Allah'ın Resulü'nün şöyle buyurduğunu rivayet etti: \"İnsanlarla savaşmam emredildi, ta ki La ilaha illallah desinler ve kim La ilaha illallah derse, onun canı ve malı benden emindir, ancak hakları olan bir şey müstesna ve onun hesabı Allah'la olacaktır.\""
+    },
+    {
+      "id": 10,
+      "narrator": "It was narrated that Abu Hurairah said:",
+      "text": "Abu Hurairah'tan rivayet edilmiştir ki: \"Böylece Ebu Bekir onlarla savaşmaya karar verdi, ardından 'Umar dedi ki: 'Ey Ebu Bekir, Allah'ın Resulü'nün olduğu bir ortamda insanlarla nasıl savaşabilirsin? Ben onlarla savaşacağım.' 'Umar dedi ki: 'Vallahi, Allah'ın Ebu Bekir'in onlarla savaşma konusunda göğsünü genişlettiğini görünce, bunun hak olduğunu anladım.'\""
+    },
+    {
+      "id": 11,
+      "narrator": "It was narrated that Abu Hurairah said:",
+      "text": "Abu Hurairah'tan rivayet edilmiştir ki: \"Allah'ın Resulü şöyle buyurdu: 'İnsanlarla savaşmam emredildi, ta ki La ilaha illallah desinler. Eğer bunu derlerse, o zaman onların kanları ve malları benim için haramdır, ancak hakları olan bir şey müstesna ve onların hesabı Allah, Azze ve Celle ile olacaktır.'\""
+    },
+    {
+      "id": 12,
+      "narrator": "It was narrated that Abu Hurairah said:",
+      "text": "Abu Hurairah'tan rivayet edilmiştir ki: \"Allah'ın Resulü şöyle buyurdu: 'İnsanlarla savaşmam emredildi, ta ki La ilaha illallah desinler. Eğer bunu derlerse, o zaman onların kanları ve malları benim için haramdır, ancak hakları olan bir şey müstesna ve onların hesabı Allah'la olacaktır.'\""
+    },
+    {
+      "id": 13,
+      "narrator": "It was narrated from Abu Hurairah that :",
+      "text": "Abu Hurairah'tan rivayet edilmiştir ki: \"Allah'ın Resulü şöyle buyurdu: 'İnsanlarla savaşacağız, ta ki La ilaha illallah desinler. Eğer La ilaha illallah derlerse, o zaman onların kanları ve malları bize haramdır, ancak hakları olan bir şey müstesna ve onların hesabı Allah'la olacaktır.'\""
+    },
+    {
+      "id": 14,
+      "narrator": "It was narrated that An-Nu'man bin Bashir said:",
+      "text": "An-Nu'man bin Bashir'den rivayet edilmiştir ki: \"Biz Allah'ın Resulü ile birlikteydik. O şöyle buyurdu: 'Onu öldürmeyin, çünkü ben insanlarla savaşmam emredildim, ta ki La ilaha illallah desinler, eğer bunu derlerse, onların kanları ve malları benden emindir, ancak hakları olan bir şey müstesna ve onların hesabı Allah'la olacaktır.'\""
+    },
+    {
+      "id": 15,
+      "narrator": "It was narrated from An-Nu'man bin Salim that:",
+      "text": "An-Nu'man bin Salim'den rivayet edilmiştir ki: Bir adam ona şöyle dedi: \"Allah'ın Resulü bize geldi, biz Medine Mescidi'nde bir çadırdaydık ve bize şöyle dedi: 'İnsanlarla savaşmam emredildi, ta ki La ilaha illallah desinler.'\" Benzer bir rivayet."
+    },
+    {
+      "id": 16,
+      "narrator": "It was narrated that An-Nu'man bin Salim said:",
+      "text": "An-Nu'man bin Salim'den rivayet edilmiştir: \"Aws'ın şöyle dediğini duydum: 'Allah'ın Resulü bize geldiğinde biz bir çadırdaydık.'\" Ve aynı Hadisi aktardı."
+    },
+    {
+      "id": 17,
+      "narrator": "It was narrated that An-Nu'man bin Salim said:",
+      "text": "An-Nu'man bin Salim'den rivayet edilmiştir: \"Aws'ın şöyle dediğini duydum: 'Ben Allah'ın Resulüne geldim ve ona: Bırak onu, dedi. Sonra şöyle dedi: İnsanlarla La ilaha illallah demedikçe savaşmam emredildi. Eğer bunu derlerse, o zaman onların kanları ve malları bana haramdır, ancak bir hakka karşılık olarak.' (Rivayet edenlerden) Muhammed dedi ki: Ben Şu'beye: 'Hadiste: La ilaha illallah'a (Allah'tan başka ilah yoktur) ve ben Allah'ın Resulüyüm diye şahitlik etmediği geçmiyor mu?' dedim. O da: 'Bence her ikisi de var, ama bilmiyorum.'\""
+    },
+    {
+      "id": 18,
+      "narrator": "It was narrated from An-Nu'man bin Salim that:",
+      "text": "An-Nu'man bin Salim'den rivayet edilmiştir ki: 'Amr bin Aws ona, babası Aws'ın şöyle dediğini söyledi: \"Allah'ın Resulü şöyle dedi: 'İnsanlarla La ilaha illallah'a (Allah'tan başka ilah yoktur) şahitlik edene kadar savaşmam emredildi, o zaman onların kanları ve malları bana haramdır, ancak bir hakka karşılık olarak.'\""
+    },
+    {
+      "id": 19,
+      "narrator": "It was narrated that Abu Idris said:",
+      "text": "Abu İdris'ten rivayet edilmiştir: \"Mu'aviye'nin hutbe verdiğini duydum ve o, Allah'ın Resulü'nden birkaç Hadis aktardı: 'Her günah Allah tarafından affedilebilir, ancak bir adamın kasıtlı olarak bir mümini öldürmesi veya bir adamın kafir olarak ölmesi.'\""
+    },
+    {
+      "id": 20,
+      "narrator": "It was narrated from 'Abdullah that:",
+      "text": "'Abdullah'dan rivayet edilmiştir ki: Peygamber  şöyle dedi: \"Hiç kimse haksız yere öldürülmez, fakat onun kanı için sorumluluk, Adem'in ilk oğlunun üzerine olacaktır, çünkü o, öldürme konusunda ilk örneği koyandır.\""
+    },
+    {
+      "id": 21,
+      "narrator": "It was narrated that 'Abdullah bin 'Amr bin Al-'As said:",
+      "text": "'Abdullah bin 'Amr bin Al-'As'tan rivayet edilmiştir: \"Allah'ın Resulü şöyle dedi: 'Canımın elinde olan Allah'a yemin ederim ki, bir mümini öldürmek, Allah katında bütün dünyanın yok olmasından daha ağırdır.'\""
+    },
+    {
+      "id": 22,
+      "narrator": "It was narrated from 'Abdullah bin 'Amr that:",
+      "text": "'Abdullah bin 'Amr'dan rivayet edilmiştir ki: Peygamber  şöyle dedi: \"Bütün dünyanın yok olması, Allah katında bir Müslüman adamı öldürmekten daha önemsizdir.\""
+    },
+    {
+      "id": 23,
+      "narrator": "It was narrated that 'Abdullah bin 'Amr said:",
+      "text": "'Abdullah bin 'Amr'dan rivayet edilmiştir: \"Bir mümini öldürmek, Allah katında bütün dünyanın yok olmasından daha ağırdır.\""
+    },
+    {
+      "id": 24,
+      "narrator": "It was narrated that 'Abdullah bin 'Amr said:",
+      "text": "'Abdullah bin 'Amr'dan rivayet edilmiştir: \"Bir mümini öldürmek, Allah katında bütün dünyanın yok olmasından daha ağırdır.\""
+    },
+    {
+      "id": 25,
+      "narrator": "It was narrated from 'Abdullah bin Buraidah that his father said:",
+      "text": "'Abdullah bin Buraidah'dan rivayet edilmiştir ki, babası şöyle dedi: \"Allah'ın Resulü şöyle dedi: 'Bir mümini öldürmek, Allah katında bütün dünyanın yok olmasından daha ağırdır.'\""
+    },
+    {
+      "id": 26,
+      "narrator": "It was narrated that 'Abdullah said:",
+      "text": "'Abdullah'dan rivayet edilmiştir: \"Allah'ın Resulü şöyle dedi: 'Bir kişi hakkında hesap sorulacak ilk şey namazdır ve insanlar arasında hesaplaşılacak ilk şey kan dökülmesidir.'\""
+    },
+    {
+      "id": 27,
+      "narrator": "It was narrated that 'Abdullah said:",
+      "text": "'Abdullah'dan rivayet edilmiştir: \"Allah'ın Resulü şöyle dedi: 'İnsanlar arasında hüküm verilecek ilk mesele kan dökülmesidir.'\""
+    },
+    {
+      "id": 28,
+      "narrator": "It was narrated from 'Abdullah that:",
+      "text": "'Abdullah'dan rivayet edilmiştir ki: Allah'ın Resulü şöyle dedi: \"Kıyamet Günü insanlar arasında hesaplaşılacak ilk mesele kan dökülmesidir.\""
+    },
+    {
+      "id": 29,
+      "narrator": "It was narrated that 'Abdullah said:",
+      "text": "'Abdullah'dan rivayet edilmiştir ki: Kıyamet Günü insanlar arasında hesaplaşılacak ilk mesele kan dökülmesidir.\""
+    },
+    {
+      "id": 30,
+      "narrator": "It was narrated that 'Amr bin Shurahbil said:",
+      "text": "'Amr bin Şurahbil'den rivayet edilmiştir: \"Allah'ın Resulü şöyle dedi: 'Kıyamet Günü insanlar arasında hesaplaşılacak ilk mesele kan dökülmesidir.'\""
+    },
+    {
+      "id": 31,
+      "narrator": "It was narrated that 'Abdullah said:",
+      "text": "Abdullah'dan rivayet edildiğine göre: \"İnsanlar arasında hesaplaşılacak ilk mesele kan dökme olacaktır.\""
+    },
+    {
+      "id": 32,
+      "narrator": "It was narrated from 'Abdullah bin Mas'ud that:",
+      "text": "Abdullah bin Mes'ud'dan rivayet edildiğine göre: Peygamber  şöyle dedi: \"Bir adam, başka bir adamın elini tutarak gelecek ve 'Ey Rabbim, bu adam beni öldürdü.' diyecek. Allah ona: 'Neden onu öldürdün?' diyecek. O da: 'Sadece senin şanını yüceltmek için onu öldürdüm.' diyecek. Allah: 'Bu, bana aittir.' diyecek. Sonra (başka) bir adam gelecek, başka bir adamın elini tutarak 'Bu adam beni öldürdü.' diyecek. Allah ona: 'Neden onu öldürdün?' diyecek. O da: 'Şu ve bu kişi için şanını yüceltmek için onu öldürdüm.' diyecek. Allah: 'O kişi için değil,' diyecek ve günah yükü onun üzerine olacak.\""
+    },
+    {
+      "id": 33,
+      "narrator": "It was narrated that Abu 'Imran Al-Jawni said:",
+      "text": "Ebu İmran el-Cevni'den rivayet edildiğine göre: \"Cündab dedi ki: 'Şu ve bu kişi bana, Allah'ın Elçisi  şöyle dedi: Şehit, Kıyamet Günü katilini getirecek ve 'Ona neden beni öldürdüğünü sor.' diyecek. O da: 'Ben onu, şu ve bu krallığı savunmak için öldürdüm.' diyecek.' Cündab dedi: 'Dikkatli ol.'\""
+    },
+    {
+      "id": 34,
+      "narrator": "It was narrated from Salim bin Abi Ja'd that:",
+      "text": "Salim bin Ebi Ca'd'dan rivayet edildiğine göre: İbn Abbas'a, bir mümini kasten öldüren, sonra tövbe eden, iman eden, salih ameller işleyen ve doğru yola uyan biri hakkında soruldu. İbn Abbas: \"Tövbesinin ona faydası yoktur! Peygamber  şöyle dediğini duydum: 'O (kurban), katilinin üzerine asılı olarak gelecek, boyun damarları kanla akarken 'Ey Rabbim, ona neden beni öldürdüğünü sor.' diyecek. Sonra dedi: 'Vallahi, Allah bunu vahyetti ve bununla ilgili hiçbir şey iptal edilmedi.'\""
+    },
+    {
+      "id": 35,
+      "narrator": "It was narrated that Sa'eed bin Jubair said:",
+      "text": "Sa'id bin Cubeyr'den rivayet edildiğine göre: \"Kufe halkı, 'Ve kim bir mümini kasten öldürürse, onun cezası Cehennem'dir.' ayeti hakkında ihtilafa düştü. Ben de İbn Abbas'a gittim ve ona sordum, o da: 'Bu, indirilen son ayetlerden biriydi ve sonrasında hiçbir şey iptal edilmedi.' dedi.\""
+    },
+    {
+      "id": 36,
+      "narrator": "It was narrated that Sa'eed bin Jubair said:",
+      "text": "Sa'id bin Cubeyr'den rivayet edildiğine göre: \"İbn Abbas'a: 'Kasten bir mümini öldüren bir kişi tövbe edebilir mi?' dedim. O da: 'Hayır.' Ben ona Furkan Suresi'nden şu ayeti okudum: 'Ve Allah'ın haram kıldığı birini, hak dışında öldürenler,' o da: 'Bu ayet Mekke'de indirildi ve Medine'de indirilen bir ayetle iptal edildi: 'Ve kim bir mümini kasten öldürürse, onun cezası Cehennem'dir.'\""
+    },
+    {
+      "id": 37,
+      "narrator": "It was narrated that Sa'eed bin Jubair said:",
+      "text": "Sa'id bin Cubeyr'den rivayet edildiğine göre: \"Abdurrahman bin Ebi Leyla, bana İbn Abbas'a iki ayet hakkında sormamı söyledi: 'Ve kim bir mümini kasten öldürürse, onun cezası Cehennem'dir.' Ona sordum ve o da: 'Bununla ilgili hiçbir şey iptal edilmedi.' (Ve ona şu ayet hakkında sordum): 'Ve Allah ile birlikte başka bir ilah çağırmayanlar ya da Allah'ın haram kıldığı birini, hak dışında öldürenler,' o da: 'Bu, Şirk ehli hakkında indirildi.' dedi.\""
+    },
+    {
+      "id": 38,
+      "narrator": "It was narrated from Ibn 'Abbas that :",
+      "text": "İbn Abbas'tan rivayet edildiğine göre: \"Şirk ehli bazı insanlar öldürüyorlardı ve bunun çokça yapıyorlardı, zina ediyorlardı ve bunun da çokça yapıyorlardı, ve ihlallerde bulunuyorlardı. Peygamber  yanına geldiler ve 'Ey Muhammed, senin söylediklerin ve insanları çağırdığın şeyler güzel, keşke yaptıklarımız için bir kefaret olduğunu bize söyleyebilseydin.' dediler. Sonra Allah, Azim ve Yüce, 'Ve Allah ile birlikte başka bir ilah çağırmayanlar için, Allah günahlarını iyi amellere çevirir.' ayetini indirdi, o da: 'Böylece Allah, onların şirkini imana, zina ettiklerini iffetli hale çevirir.' dedi. Ve 'De ki: Ey 'İbadi (Kulları) kendilerine zulmedenler (kötü işler ve günahlar işleyerek)' ayeti indirildi.\""
+    },
+    {
+      "id": 39,
+      "narrator": "It was narrated from Ibn 'Abbas that :",
+      "text": "İbn Abbas'tan rivayet edildiğine göre: \"Şirk ehli bazı insanlar, Muhammed  yanına geldiler ve 'Senin söylediklerin ve insanları çağırdığın şeyler güzel, keşke yaptıklarımız için bir kefaret olduğunu bize söyleyebilseydin.' dediler. Sonra 'Ve Allah ile birlikte başka bir ilah çağırmayanlar ya da Allah'ın haram kıldığı birini, hak dışında öldürenler.' ve 'De ki: Ey 'İbadi (Kulları) kendilerine zulmedenler (kötü işler ve günahlar işleyerek)' ayetleri indirildi.\""
+    },
+    {
+      "id": 40,
+      "narrator": "It was narrated from Ibn 'Abbas that:",
+      "text": "İbn Abbas'tan rivayet edildiğine göre: Peygamber  şöyle dedi: \"Şehit, Kıyamet Günü katilini, saçlarından tutarak ve başını elinde tutarak, boyun damarları kanla akarken 'Ey Rabbim, beni öldürdü.' diyerek getirecek, Taht'a yaklaşana kadar.\" İbn Abbas'a tövbe hakkında konuştular ve o da şu ayeti okudu: \"Ve kim bir mümini kasten öldürürse, onun cezası Cehennem'dir.\" Dedi ki: \"Bu ayet indirildiğinden beri iptal edilmedi; onun tövbe etmesi mümkün değildir.\""
+    },
+    {
+      "id": 41,
+      "narrator": "It was narrated that Zaid bin Thabit said:",
+      "text": "Zeyd bin Sabit'ten rivayet edildiğine göre: \"Bu ayet - 'Ve kim bir mümini kasten öldürürse, onun cezası Cehennem'dir.' - Furkan Suresi'nde indirilen ayetten altı ay sonra indirildi.\""
+    },
+    {
+      "id": 42,
+      "narrator": "It was narrated from Zaid with regard Allah's saying:",
+      "text": "Zeyd'den, Allah'ın 'Ve kim bir mümini kasten öldürürse, onun cezası Cehennem'dir.' sözü hakkında rivayet edildiğine göre: \"Bu ayet, Tabarak Al-Furkan'daki ayetten sekiz ay sonra indirildi: 'Ve Allah ile birlikte başka bir ilah çağırmayanlar ya da Allah'ın haram kıldığı birini, hak dışında öldürenler.'\""
+    },
+    {
+      "id": 43,
+      "narrator": "It was narrated that Mujalid bin 'Awf said:",
+      "text": "Mücalid bin Avf'dan rivayet edildiğine göre: \"Kharijah bin Zayd bin Sabit'in babasından şu şekilde duyduğumu işittim: 'Ve kim bir mümini kasten öldürürse, onun cezası Cehennem'dir.' ayeti indirildi ve biz bununla ilgili endişelendik. Sonra Furkan'daki ayet 'Ve Allah ile birlikte başka bir ilah çağırmayanlar ya da Allah'ın haram kıldığı birini, hak dışında öldürenler.' ayeti indirildi.\""
+    },
+    {
+      "id": 44,
+      "narrator": "Abu Ayyub Al-Ansari narrated that:",
+      "text": "Ebu Eyyub el-Ensari, Allah'ın Elçisi  şöyle dedi: \"Kim Allah'a ibadet eder ve O'na hiçbir şeyi ortak koşmaz, namazı kılarsa, zekatı verirse ve büyük günahlardan sakınırsa, cennet onun olacaktır.\" Ona büyük günahlar hakkında sordular ve o da: \"Allah'a ortak koşmak, bir Müslüman canını öldürmek ve savaş alanından kaçmak.\" dedi."
+    },
+    {
+      "id": 45,
+      "narrator": "It was narrated that 'Ubaidullah bin Abi Bakr said:",
+      "text": "Ubeydullah bin Ebi Bekir'den rivayet edildiğine göre: \"Anas'ın şöyle dediğini duydum: 'Allah'ın Elçisi  şöyle dedi: Büyük günahlar şunlardır: Allah'a ortak koşmak (Şirk), ebeveynine itaatsizlik etmek, bir canı öldürmek (cinayet) ve yalan söylemek.'\""
+    },
+    {
+      "id": 46,
+      "narrator": "It was narrated from 'Abdullah bin 'Amr that:",
+      "text": "'Abdullah bin 'Amr'dan rivayet edilmiştir ki: Peygamber  şöyle buyurmuştur: \"Büyük günahlar şunlardır: Allah'a ortak koşmak, anne-babaya isyan etmek, bir canı haksız yere öldürmek ve bilerek yalan yere yemin etmek.\""
+    },
+    {
+      "id": 47,
+      "narrator": "It was narrated from 'Ubaid bin 'Umair that :",
+      "text": "'Ubaid bin 'Umair'den rivayet edilmiştir ki: Babası - Peygamber'in sahabelerinden biri - ona şöyle demiştir: \"Bir adam dedi ki: 'Ey Allah'ın Resulü, büyük günahlar nelerdir?' O da şöyle dedi: 'Onlar yedidir; en ağır olanları Allah'a ortak koşmak, haksız yere bir canı öldürmek ve savaş günü (savaş alanından) kaçmaktır.'\" Kısaltılmıştır."
+    },
+    {
+      "id": 48,
+      "narrator": "It was narrated that 'Abdullah said:",
+      "text": "'Abdullah'dan rivayet edilmiştir ki: \"Ben dedim: 'Ey Allah'ın Resulü, hangi günah en ağırdır?' O da şöyle dedi: 'Allah'a rakip koymak, oysa seni yaratan O'dur.' Ben dedim: 'Sonra ne?' O da: 'Çocuğunu korkudan öldürmek, onun seninle birlikte yemek yemesinden korkmak.' Ben dedim: 'Sonra ne?' O da: 'Komşunun karısıyla zina etmek.'\""
+    },
+    {
+      "id": 49,
+      "narrator": "It was narrated that 'Abdullah said:",
+      "text": "'Abdullah'dan rivayet edilmiştir ki: \"Ben dedim: 'Ey Allah'ın Resulü, hangi günah en ağırdır?' O da şöyle dedi: 'Allah'a rakip koymak, oysa seni yaratan O'dur.' Ben dedim: 'Sonra ne?' O da: 'Çocuğunu seninle birlikte yemek yemesin diye öldürmek.' Ben dedim: 'Sonra ne?' O da: 'Komşunun karısıyla zina etmek.'\""
+    },
+    {
+      "id": 50,
+      "narrator": "It was narrated that 'Abdullah said:",
+      "text": "'Abdullah'dan rivayet edilmiştir ki: \"Ben Allah'ın Resulü'ne, hangi günah en ağırdır diye sordum?\" O da: \"Şirk, Allah'a rakip koymak, komşunun karısıyla zina etmek ve çocuğunu yoksulluktan korkarak öldürmek ve onun seninle birlikte yemek yemesinden korkmak.\" Sonra 'Abdullah şu ayeti okudu: \"Ve Allah ile birlikte başka bir ilah (tanrı) çağırmayanlar.\""
+    },
+    {
+      "id": 51,
+      "narrator": "It was narrated that 'Abdullah said:",
+      "text": "'Abdullah'dan rivayet edilmiştir ki: \"Allah'ın Resulü şöyle buyurdu: 'La ilaha illallah (Allah'tan başka ilah yoktur) ve ben Allah'ın Resulüyüm diyen bir Müslümanın kanını dökmek, Allah'tan başka birine yemin etmem, üç durum dışında caiz değildir: İslam'dan çıkan ve cemaatten ayrılan, evli olup zina eden ve bir can karşılığında bir can.'\""
+    },
+    {
+      "id": 52,
+      "narrator": "It was narrated that 'Amr bin Ghalib said:",
+      "text": "'Amr bin Ghalib'den rivayet edilmiştir ki: \"Aişe dedi ki: 'Allah'ın Resulü'nün şöyle söylediğini bilmiyor musun? Müslümanın kanını dökmek caiz değildir, ancak evli olup zina eden bir adam, İslam'dan dönen bir kişi veya bir can karşılığında bir can için.'\""
+    },
+    {
+      "id": 53,
+      "narrator": "It was narrated that 'Amr bin Ghalib said:",
+      "text": "'Amr bin Ghalib'den rivayet edilmiştir ki: \"Aişe dedi ki: 'Ey Ammar! Müslümanın kanını dökmek üç durum dışında caiz değildir: bir can karşılığında bir can, evli olup zina eden bir adam.'\""
+    },
+    {
+      "id": 54,
+      "narrator": "Abu Umamah bin Sahl and 'Abdullah bin 'Amir bin Rabi'ah said:",
+      "text": "Ebu Ümame bin Sahl ve 'Abdullah bin 'Amir bin Rabi'ah şöyle dediler: \"Biz 'Uthman ile birlikteydik, kuşatma altındayken Al-Balat'tan ne söylendiğini duyabiliyorduk. 'Uthman bir gün içeri girdi, sonra dışarı çıktı ve dedi ki: 'Beni öldürmekle tehdit ediyorlar.' Biz de: 'Allah seni onlardan koruyacaktır.' dedik. O da: 'Neden beni öldürsünler? Allah'ın Resulü'nün şöyle söylediğini duydum: Müslümanın kanını dökmek, üç durum dışında caiz değildir: İslam'dan dönen bir adam, evli olup zina eden bir kişi veya bir canı haksız yere öldüren. Vallahi, ben Cahiliye döneminde veya İslam'da zina etmedim, Allah beni hidayet ettiğinden beri başka bir dine yönelmeyi hiç istemedim ve hiç kimseyi öldürmedim, o halde neden beni öldürmek istiyorlar?'\""
+    },
+    {
+      "id": 55,
+      "narrator": "It was narrated that 'Arfajah bin Shuraih Al-Ashja'I said:",
+      "text": "'Arfajah bin Shuraih Al-Ashja'I'dan rivayet edilmiştir ki: \"Peygamber'i gördüm, sonra onu öldür, çünkü Allah'ın Eli cemaatle beraberdir ve Şeytan, ümmetten ayrılanla beraberdir, onunla birlikte koşar.\""
+    },
+    {
+      "id": 56,
+      "narrator": "It was narrated that 'Arfajah bin Shuraih said:",
+      "text": "'Arfajah bin Shuraih'den rivayet edilmiştir ki: \"Peygamber  şöyle buyurdu: 'Hepsi bir araya geldiğinde, onu öldür, kim olursa olsun.'\""
+    },
+    {
+      "id": 57,
+      "narrator": "It was narrated that 'Arfajah said:",
+      "text": "'Arfajah'dan rivayet edilmiştir ki: \"Ben Allah'ın Resulü'nü işittim: 'Hepsi bir araya geldiğinde, onu kılıçla vur.'\""
+    },
+    {
+      "id": 58,
+      "narrator": "It was narrated that Usamah bin Sharik said:",
+      "text": "Usamah bin Sharik'den rivayet edilmiştir ki: \"Allah'ın Resulü şöyle buyurdu: 'Kim benim ümmetim arasında fitne çıkarmaya çalışırsa, onun boynunu vurun (öldürün).'\""
+    },
+    {
+      "id": 59,
+      "narrator": "Anas bin Malik narrated that:",
+      "text": "Anas bin Malik rivayet etmiştir ki: 'Ukl'den seksen kişilik bir grup Peygamber'e geldi, o da (onların peşine) adamlar gönderdi ve onları yakalayıp geri getirdiler. Onların ellerini ve ayaklarını kestirdi, gözlerini kör etti ve onları güneşte bırakıp ölüme terk etti."
+    },
+    {
+      "id": 60,
+      "narrator": "It was narrated from Anas that :",
+      "text": "Anas'tan rivayet edilmiştir ki: 'Ukl'den bazı insanlar Peygamber'e geldi, o da (onların peşine) adamlar gönderdi ve onlar ona getirildi. Onların ellerini ve ayaklarını kestirdi, gözlerini oydurdu, yaralarını cauterize ettirmedi ve onları ölüme terk etti. Sonra Allah, Azim ve Celil, şu ayeti indirdi: \"Allah ve Resulüne savaş açanların cezası.\""
+    },
+    {
+      "id": 61,
+      "narrator": "It was narrated that Anas said:",
+      "text": "Anas'ın rivayet ettiğine göre: \"'Ukl'den seksen adam, Allah'ın Resulü'ne geldi.\" ve (rivayetçi) \"Ve (yaralarını) cauterize etmedi.\" sözlerine kadar benzer bir haberi zikretti. Ve dedi ki: \"Onlar çobanı öldürdüler.\""
+    },
+    {
+      "id": 62,
+      "narrator": "It was narrated that Anas said:",
+      "text": "Anas'ın rivayet ettiğine göre: \"'Ukl veya 'Uraynah'tan bir grup adam, Peygamber'e geldi ve Medine'nin iklimi onlara uymadığında, onlara bazı develere gitmelerini ve sütlerini ve idrarlarını içmelerini söyledi. Sonra çobanı öldürdüler ve develeri çaldılar. Onların peşine (adamlar) gönderdi ve elleri ile ayaklarını kestirdi, gözlerini oydurdu.\""
+    },
+    {
+      "id": 63,
+      "narrator": "It was narrated from Anas bin Malik that:",
+      "text": "Anas bin Malik'ten rivayet edildiğine göre: 'Uraynah'tan bazı insanlar, Allah'ın Resulü'ne geldiler, (adamlar) onların peşine gönderildi ve yakalandılar. Ellerinin ve ayaklarının kesilmesini, gözlerinin oyulmasını ve çarmıha gerilmesini sağladı."
+    },
+    {
+      "id": 64,
+      "narrator": "It was narrated that Anas said:",
+      "text": "Anas'ın rivayet ettiğine göre: \"'Uraynah'tan bazı insanlar, Allah'ın Resulü'ne geldiler. (Adamlar) onların peşine gönderildi ve kendileri getirildi. Ellerinin ve ayaklarının kesilmesini, gözlerinin oyulmasını sağladı.\""
+    },
+    {
+      "id": 65,
+      "narrator": "It was narrated that Anas said:",
+      "text": "Anas'ın rivayet ettiğine göre: \"'Uraynah'tan bazı insanlar, Allah'ın Resulü'ne geldiler ve savaşta olanlar gibi ayrıldılar. (Adamlar) onların peşine gönderildi ve yakalandılar. Sonra ellerinin ve ayaklarının kesilmesini sağladı ve gözlerine damga vurdu.\""
+    },
+    {
+      "id": 66,
+      "narrator": "It was narrated that Anas said:",
+      "text": "Anas'ın rivayet ettiğine göre: \"'Uraynah'tan bazı insanlar Müslüman oldular, ama Medine'nin iklimi onlara uymadı. Allah'ın Resulü, onları getirmesi için birini gönderdi ve yakalandılar. Ellerinin ve ayaklarının kesilmesini sağladı ve gözlerine damga vurdu, sonra onları Al-Harrah'da bıraktı ve ölene kadar orada kaldılar.\""
+    },
+    {
+      "id": 67,
+      "narrator": "Anas bin Malik narrated that:",
+      "text": "Anas bin Malik rivayet etti ki: \"'Ukl veya 'Uraynah'tan bazı insanlar, Allah'ın Resulü'ne geldiler ve develeri sürüp götürdüler. (Adamlar) onların peşine gönderildi ve getirildiler, gözleri oyuldu, elleri ve ayakları kesildi. Sonra onları Al-Harrah'da o halde bıraktı ve ölene kadar orada kaldılar.\""
+    },
+    {
+      "id": 68,
+      "narrator": "Narrated from 'Abdul-A'la:",
+      "text": "'Abdul-A'la'dan rivayet edildi: 'Abdul-A'la'dan benzer bir haber rivayet edilmiştir."
+    },
+    {
+      "id": 69,
+      "narrator": "It was narrated from Anas that :",
+      "text": "Anas'tan rivayet edildi ki: \"'Uraynah'tan bazı insanlar Al-Harrah'da kamp kurdular ve Allah'ın Resulü'ne geldiler. (Adamlar) onların peşine gönderildi, getirildiler, sonra ellerinin ve ayaklarının kesilmesini sağladı, gözleri oyuldu ve Al-Harrah'da bırakıldı. Anas dedi ki: \"Onlardan birini, susuzluktan yere dişleyerek ölünceye kadar gördüm.\""
+    },
+    {
+      "id": 70,
+      "narrator": "It was narrated that Anas bin Malik said:",
+      "text": "Anas bin Malik şöyle dedi: \"'Uraynah'tan bazı bedevi insanlar, Allah'ın Resulü'ne geldiler ve İslam'ı kabul ettiler, ama Medine'nin iklimi onlara uymadı; derileri sarardı ve karınları şişti. Allah'ın Resulü, onlara süt veren develerinden bazılarını gönderdi ve sütlerini ve idrarlarını içmelerini söyledi, ta ki iyileşene kadar. Sonra çobanlarını öldürdüler ve develeri sürdüler. Allah'ın Resulü, (adamlar) onların peşine gönderdi ve geri getirildiler, sonra ellerinin ve ayaklarının kesilmesini sağladı ve gözlerine damga vurdu.\" Müminlerin Emiri 'Abdul-Malik, Anas'a bu Hadis'i anlatırken: \"Bu (ceza) küfürden mi yoksa günah yüzünden mi?\" dedi. O da: \"Küfürden.\" dedi."
+    },
+    {
+      "id": 71,
+      "narrator": "It was narrated that Sa'eed bin Al-Musayyab said:",
+      "text": "Sa'eed bin Al-Musayyab şöyle dedi: \"Bazı 'Arab insanlar, Allah'ın Resulü'ne geldiler, (adamlar) onların peşine gönderildi ve yakalandılar. Sonra ellerinin ve ayaklarının kesilmesini sağladı, gözleri oyuldu.\" Bazıları (rivayetçiler) diğerlerinden daha fazla ekleme yaptı, ancak bu Hadis'in rivayetinde Mu'aviye şöyle dedi: \"Onları Şirk topraklarına sürdüler.\""
+    },
+    {
+      "id": 72,
+      "narrator": "It was narrated that 'Aishah said:",
+      "text": "'Aişe'den rivayet edildi ki: \"Bazı insanlar, Allah'ın Resulü'nün süt develerine baskın yaptılar. O, onları yakaladı ve ellerinin ve ayaklarının kesilmesini sağladı, gözleri oyuldu.\""
+    },
+    {
+      "id": 73,
+      "narrator": "It was narrated from 'Aishah:",
+      "text": "'Aişe'den rivayet edildi: \"Bazı insanlar, Allah'ın Resulü'nün süt develerine baskın yaptılar, ellerinin ve ayaklarının kesilmesini sağladı ve gözleri oyuldu.\" Bu, İbn Al-Muthanna'nın ifadesidir."
+    },
+    {
+      "id": 74,
+      "narrator": "It was narrated from Hisham, from his father, that:",
+      "text": "Hişam'dan, babasından rivayet edildi ki: \"Bazı insanlar, Allah'ın Resulü'nün develerine baskın yaptılar. O, ellerinin ve ayaklarının kesilmesini sağladı ve gözleri oyuldu.\""
+    },
+    {
+      "id": 75,
+      "narrator": "It was narrated that 'Urwah bin Az-Zubair said:",
+      "text": "'Urwah bin Az-Zubair şöyle dedi: \"'Uraynah'tan bazı insanlar, Allah'ın Resulü'nün süt develerine baskın yaptılar, (adamlar) onların peşine gönderildi ve yakalandılar, ve o, ellerinin ve ayaklarının kesilmesini sağladı, gözleri oyuldu.\""
+    },
+    {
+      "id": 76,
+      "narrator": "It was narrated from 'Abdullah bin 'Umar:",
+      "text": "Abdullah bin 'Umar'dan rivayet edilmiştir: Allah'ın Resulü'nden: \"El-Muharabah hakkında olan ayet onların hakkında indirilmiştir.\""
+    },
+    {
+      "id": 77,
+      "narrator": "It was narrated from Abu Az-Zinad that:",
+      "text": "Abu Az-Zinad'dan rivayet edilmiştir ki: Allah'ın Resulü, develerini sürenlerin ellerini ve ayaklarını kestirmiş, gözlerini ateşle oydurmuştur. Allah ona bu konuda azarlamış ve Yüce Allah, \"Allah'a ve Resulüne savaş açanların cezası\" ayetini indirmiştir."
+    },
+    {
+      "id": 78,
+      "narrator": "It was narrated that Anas said:",
+      "text": "Anas'tan rivayet edilmiştir ki: \"Peygamber, o insanların gözlerini oydurmuştu, çünkü onlar da sürü sahiplerinin gözlerini oydurmuşlardı.\""
+    },
+    {
+      "id": 79,
+      "narrator": "It was narrated from Anas bin Malik that:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir ki: Bir Yahudi, bir Ensar kızını mücevherleri için öldürmüş, onu boş bir kuyuya atmış ve başını bir taşla ezmiştir. Yakalanmış ve Allah'ın Resulü, onun taşlanarak öldürülmesini emretmiştir."
+    },
+    {
+      "id": 80,
+      "narrator": "It was narrated from Anas that:",
+      "text": "Anas'tan rivayet edilmiştir ki: Bir adam, bir Ensar kızını mücevherleri için öldürmüş, sonra onu boş bir kuyuya atmış ve başını bir taşla ezmiştir. Peygamber, onun taşlanarak öldürülmesini emretmiştir."
+    },
+    {
+      "id": 81,
+      "narrator": "It was narrated that Ibn 'Abbas said, :",
+      "text": "İbn Abbas'tan rivayet edilmiştir ki: Allah, Yüce olanın beyanı hakkında: \"Allah'a ve Resulüne savaş açanların cezası.\" \"Bu ayet, putperestler hakkında indirilmiştir. Onlardan kim, yakalanmadan önce tövbe ederse, ona karşı bir yol yoktur. Bu ayet Müslümanlara uygulanmaz. Kim, yeryüzünde fesat çıkarır ve Allah'a ve Resulüne savaş açar, sonra yakalanmadan önce kâfirlere katılırsa, yaptığı nedeniyle ona hadd cezasının uygulanmasına engel olacak bir şey yoktur.\""
+    },
+    {
+      "id": 82,
+      "narrator": "It was narrated from Anas who said:",
+      "text": "Anas'tan rivayet edilmiştir ki: \"Allah'ın Resulü, hutbelerinde sadakaya önem verirdi ve mutilasyona yasak getirirdi.\""
+    },
+    {
+      "id": 83,
+      "narrator": "It was narrated from 'Aishah that:",
+      "text": "Aişe'den rivayet edilmiştir ki: \"Allah'ın Resulü şöyle dedi: 'Bir Müslümanın kanını dökmek, ancak üç durumda caizdir: Evli bir zina eden, taşlanarak öldürülmelidir; bir adam, başka bir adamı kasten öldürürse, o da öldürülmelidir; ve İslam'dan çıkan ve Allah'a, Aziz ve Yüce olan'a ve Resulüne savaş açan bir adam, öldürülmeli, çarmıha gerilmeli veya ülkeden sürülmelidir.'\""
+    },
+    {
+      "id": 84,
+      "narrator": "It was narrated that Jarir said:",
+      "text": "Jarir'den rivayet edilmiştir ki: \"Allah'ın Resulü şöyle dedi: 'Eğer bir köle kaçar ise, efendilerine dönene kadar ondan hiçbir namaz kabul edilmez.'\""
+    },
+    {
+      "id": 85,
+      "narrator": "Jarir used to narrate from the Prophet :",
+      "text": "Jarir, Peygamber'den rivayet ederdi: \"Eğer bir köle kaçar ise, ondan hiçbir namaz kabul edilmez ve eğer ölürse, kâfir olarak ölür.\" Jarir'in bir kölesi kaçtı ve onu yakaladı ve boynunu vurdu (öldürdü)."
+    },
+    {
+      "id": 86,
+      "narrator": "It was narrated that Jarir bin 'Abdullah said:",
+      "text": "Jarir bin Abdullah'dan rivayet edilmiştir ki: \"Eğer bir köle şirk topraklarına kaçar ise, onun için hiçbir koruma (veya bağışıklık) yoktur.\""
+    },
+    {
+      "id": 87,
+      "narrator": "It was narrated that Jarir said:",
+      "text": "Jarir'den rivayet edilmiştir ki: \"Allah'ın Resulü şöyle dedi: 'Eğer bir köle şirk topraklarına kaçar ise, onun kanını dökmek caiz olur.'\""
+    },
+    {
+      "id": 88,
+      "narrator": "It was narrated from Jarir that:",
+      "text": "Jarir'den rivayet edilmiştir ki: \"Peygamber şöyle dedi: 'Eğer bir köle şirk topraklarına kaçar ise, onun kanını dökmek caiz olur.'\""
+    },
+    {
+      "id": 89,
+      "narrator": "It was narrated that Jarir said:",
+      "text": "Jarir'den rivayet edilmiştir ki: \"Şirk topraklarına kaçan her kölenin kanını dökmek caiz olur.\""
+    },
+    {
+      "id": 90,
+      "narrator": "It was narrated that Jarir said:",
+      "text": "Jarir'den rivayet edilmiştir ki: \"Şirk topraklarına kaçan her kölenin kanını dökmek caiz olur.\""
+    },
+    {
+      "id": 91,
+      "narrator": "It was narrated that Jarir said:",
+      "text": "Jarir'den rivayet edilmiştir: \"Efendisinden kaçan ve düşmana katılan herhangi bir köle, kanının dökülmesini helal kılmıştır.\""
+    },
+    {
+      "id": 92,
+      "narrator": "It was narrated from Ibn 'Umar that:",
+      "text": "İbn 'Umar'dan rivayet edilmiştir ki: 'Uthman şöyle dedi: \"Ben, Allah'ın Resulü'nün şöyle söylediğini duydum: 'Bir Müslümanın kanı, ancak üç durumda dökülebilir: Evli olduğu halde zina eden bir adam; ya da kasten birini öldüren, bu durumda kısas gerekir; ya da Müslüman olduktan sonra dinden dönen, bu durumda öldürülmesi gerekir.'\""
+    },
+    {
+      "id": 93,
+      "narrator": "It was narrated that 'Uthman bin 'Affan said:",
+      "text": "'Uthman bin 'Affan'dan rivayet edilmiştir: \"Ben, Allah'ın Resulü'nün şöyle söylediğini duydum: 'Bir Müslümanın kanı, ancak üç durumda dökülebilir: Evli olduğu halde zina eden bir adam; ya da bir başkasını öldüren, bu durumda öldürülmesi gerekir; ya da İslam'ı kabul ettikten sonra küfre dönen, bu durumda öldürülmesi gerekir.'\""
+    },
+    {
+      "id": 94,
+      "narrator": "Ibn 'Abbas said:",
+      "text": "İbn 'Abbas şöyle dedi: \"Allah'ın Resulü şöyle söyledi: 'Kim dinini değiştirirse, onu öldürün.'\""
+    },
+    {
+      "id": 95,
+      "narrator": "It was narrated from 'Ikrimah:",
+      "text": "'İkrimah'tan rivayet edilmiştir: \"Bazı insanlar İslam'ı kabul ettikten sonra dinden döndüler ve 'Ali onları ateşte yaktı. İbn 'Abbas şöyle dedi: 'Eğer benim yerimde olsaydım, onları yakmazdım; Allah'ın Resulü şöyle dedi: 'Kim dinini değiştirirse, onu öldürün.'\""
+    },
+    {
+      "id": 96,
+      "narrator": "It was narrated that Ibn 'Abbas said:",
+      "text": "İbn 'Abbas'tan rivayet edilmiştir: \"Allah'ın Resulü şöyle söyledi: 'Kim dinini değiştirirse, onu öldürün.'\""
+    },
+    {
+      "id": 97,
+      "narrator": "It was narrated that Ibn 'Abbas said:",
+      "text": "İbn 'Abbas'tan rivayet edilmiştir: \"Allah'ın Resulü şöyle söyledi: 'Kim dinini değiştirirse, onu öldürün.'\""
+    },
+    {
+      "id": 98,
+      "narrator": "It was narrated that Al-Hasan said:",
+      "text": "Al-Hasan'dan rivayet edilmiştir: \"Allah'ın Resulü şöyle söyledi: 'Kim dinini değiştirirse, onu öldürün.'\""
+    },
+    {
+      "id": 99,
+      "narrator": "It was narrated from Anas that :",
+      "text": "Anas'tan rivayet edilmiştir ki: İbn 'Abbas şöyle dedi: \"Allah'ın Resulü şöyle söyledi: 'Kim dinini değiştirirse, onu öldürün.'\""
+    },
+    {
+      "id": 100,
+      "narrator": "It was narrated from Anas that :",
+      "text": "Anas'tan rivayet edilmiştir ki: 'Ali, putlara tapan Az-Zutt halkından bazılarına gitti ve onları yaktı. İbn 'Abbas şöyle dedi: \"Ama Allah'ın Resulü şöyle dedi: 'Kim dinini değiştirirse, onu öldürün.'\""
+    },
+    {
+      "id": 101,
+      "narrator": "It was narrated from Abu Burdah bin Abi Musa Al-Ash'ari, from his father:",
+      "text": "Ebu Burdah bin Ebu Musa El-Eş'ari'den, babasından rivayet edilmiştir: \"Peygamber size.\" Ebu Musa ona oturması için bir yastık verdi, sonra bir adam getirildi ki o bir Yahudi idi, sonra Müslüman oldu, sonra tekrar küfre döndü. Mu'adh şöyle dedi: 'O öldürülmeden oturmayacağım; bu, Allah ve Resulü'nün hükmüdür,' (bunu) üç kez söyledi. O öldürüldüğünde oturdu.\""
+    },
+    {
+      "id": 102,
+      "narrator": "It was narrated from Mus'ab bin Sa'd that his father said:",
+      "text": "Mus'ab bin Sa'd'dan rivayet edilmiştir ki, babası şöyle dedi: \"Mekke'nin Fethi günü, Allah'ın Resulü . O ('Uthman) şöyle dedi: 'Ey Allah'ın Resulü! Abdullah'ın biatini kabul et.' O, başını kaldırdı ve ona üç kez baktı, her seferinde biatini reddetti, sonra üç kezden sonra biatini kabul etti. Sonra arkadaşlarına döndü ve şöyle dedi: 'Sizden, beni elimi vermekten geri çevirdiğimi gören akıllı bir adam kalkıp onu öldürmeyecek miydi?' Onlar: 'Biz, ey Allah'ın Resulü, kalbinde ne olduğunu bilmiyorduk. Neden gözlerinle bize işaret etmedin?' dediler. O: 'Bir Peygambere gözlerinin aldatıcı olması yakışmaz.'\""
+    },
+    {
+      "id": 103,
+      "narrator": "It was narrated that Ibn 'Abbas said:",
+      "text": "İbn 'Abbas'tan rivayet edilmiştir: \"Ensar'dan bir adam İslam'ı kabul etti, sonra dinden döndü ve Şirk'e geri döndü. Sonra bundan pişman oldu ve halkına haber gönderdi (şöyle diyerek): 'Allah'ın Resulü'ne sorunuz' ve şöyle dedi: 'Falanca (yaptığından) pişman oldu ve bizden, onun için bir tevbe olup olmadığını sormanızı istedi.' Sonra şu ayetler indi: 'Allah, inandıktan sonra inkâr eden bir topluluğu nasıl hidayet eder?' en son ayetine kadar. O, ona haber gönderdi ve o tekrar İslam'ı kabul etti.\""
+    },
+    {
+      "id": 104,
+      "narrator": "It was narrated that Ibn 'Abbas said concerning Surat An-Nahl - :",
+      "text": "İbn 'Abbas, Nahl Suresi hakkında şöyle dedi: \"Kim, inancından sonra Allah'a küfrederse, ancak zorlanan ve kalbi imanla huzur bulmuş olan dışında; fakat inkar etmeye gönlünü açanlar, onlara Allah'ın gazabı vardır ve onların büyük bir azabı olacaktır.\" \"Bu, neshedildi ve bir istisna yapıldı, zira Allah şöyle buyurdu: 'Şüphesiz, Rabbiniz, imtihan edildikten sonra hicret edenler ve sonra Allah yolunda cihad edenler ve sabredenler için, Rabbiniz, elbette çok bağışlayıcı, çok merhametlidir.' Bu, Mısır valisi olan 'Abdullah bin Sa'd bin Ebi Sarh'tır ve o, Allah'ın Resulü'ne yazılar yazardı ve ona koruma verilmiştir.\""
+    },
+    {
+      "id": 105,
+      "narrator": "Ibn 'Abbas narrated that :",
+      "text": "İbn 'Abbas rivayet etti ki: \"Allah'ın Resulü zamanında bir kör adam vardı ve şöyle dedi: 'Ben, onun kanının helal olduğunu şehadet ederim.'\""
+    },
+    {
+      "id": 106,
+      "narrator": "It was narrated that Abu Barzah Al-Aslami said:",
+      "text": "Abu Barzah Al-Aslami'den rivayet edildiğine göre, \"Bir adam Abu Bekir As-Sıddık'a sert bir şekilde konuştu, ben de: 'Onu öldüreyim mi?' dedim. O bana kızdı ve: 'Bu, Allah'ın Resulünden sonra kimseye ait değildir.' dedi.\""
+    },
+    {
+      "id": 107,
+      "narrator": "It was narrated that Abu Barzah said:",
+      "text": "Abu Barzah'dan rivayet edildiğine göre, \"Abu Bekir bir adamla çok öfkelendi, ben de: 'O kimdir, Allah'ın Resulü'nün Halifesi?' dedim. O: 'Neden?' dedi. Ben: 'Eğer bana söylersen, boynunu vururum (öldürürüm).' dedim. O: 'Gerçekten mi yapacaksın?' dedi. Ben: 'Evet. Allah'a yemin ederim,' dediğim şeyin ciddiyeti onun öfkesini aldı. Sonra: 'Bu, Muhammed'den sonra kimseye ait değildir.' dedi.\""
+    },
+    {
+      "id": 108,
+      "narrator": "It was narrated that Abu Barzah said:",
+      "text": "Abu Barzah'dan rivayet edildiğine göre, \"Abu Bekir'in bir arkadaşına öfkelendiği sırada yanından geçtim. Ben: 'O Allah'ın Resulü'nün Halifesi, senin öfkelendiğin kim?' dedim. O: 'Neden onu soruyorsun?' dedi. Ben: 'Onun boynunu vuracağım (öldüreceğim).' Allah'a yemin ederim, dediğim şeyin ciddiyeti onun öfkesini aldı. Sonra: 'Bu, Muhammed'den sonra kimseye ait değildir.' dedi.\""
+    },
+    {
+      "id": 109,
+      "narrator": "It was narrated that Abu Barzah said:",
+      "text": "Abu Barzah'dan rivayet edildiğine göre, \"Abu Bekir bir adamla öfkelendi.\" Dedi ki: \"Eğer bana söylersen, yaparım.\" Dedi ki: \"Allah'a yemin ederim, bu Muhammed'den sonra hiçbir insana ait değildir.\""
+    },
+    {
+      "id": 110,
+      "narrator": "It was narrated from Abu Nadrah, that Abu Barzah said:",
+      "text": "Abu Nadrah'dan rivayet edildiğine göre, Abu Barzah şöyle dedi: \"Abu Bekir bir adamla çok öfkelendi, öyle ki rengi değişti. Ben: 'O Allah'ın Resulü'nün Halifesi, eğer bana söylersen, onun boynunu vururum (öldürürüm).' dedim. Sanki üzerine soğuk su dökülmüş gibi sakinleşti. O: 'Anan seni kaybetsin, Abu Barzah! Bu, Allah'ın Resulünden sonra kimseye ait değildir.' dedi.\""
+    },
+    {
+      "id": 111,
+      "narrator": "Abu Nasr narrated from Abu Barzah, that he said:",
+      "text": "Abu Nasr, Abu Barzah'dan rivayet etti ki, \"Bir adamın kendisine sert konuştuğu sırada Abu Bekir'e geldim. Ben: 'Onun boynunu vurmayacak mıyım (öldürmeyecek miyim)?' dedim. O beni azarladı ve: 'Bu, Allah'ın Resulünden sonra kimseye ait değildir.' dedi.\""
+    },
+    {
+      "id": 112,
+      "narrator": "It was narrated from Yunus bin 'Ubaid, from Humaid bin Hilal, from 'Abdullah bin Mutarrif bin Ash-Shikhkhir, from Abu Barzah Al-Aslami, that he said:",
+      "text": "Yunus bin 'Ubaid'den, Humaid bin Hilal'den, 'Abdullah bin Mutarrif bin Ash-Shikhkhir'den, Abu Barzah Al-Aslami'den rivayet edildiğine göre, \"Abu Bekir As-Sıddık ileydik ve o, Müslümanlardan birine çok öfkelendi. Bunu görünce, ben: 'O Allah'ın Resulü'nün Halifesi, onun boynunu vurayım mı?' dedim. Onu öldürmekten bahsettiğimde, öfkesini bıraktı ve konuyu değiştirdi. Ayrıldığımızda, beni çağırdı ve: 'Ey Abu Barzah, ne dedin?' dedi. Ben: 'Ne dediğimi unuttum; hatırlat.' dedim. O: 'Ne dediğini hatırlamıyor musun?' dedi. Ben: 'Hayır, Allah'a yemin ederim.' O: 'Bir adamla öfkelendiğimi gördüğünde, 'O Allah'ın Resulü'nün Halifesi, onun boynunu vuracağım' dedin, hatırlamıyor musun? Gerçekten bunu yapar mıydın?' Ben: 'Evet, Allah'a yemin ederim, eğer şimdi bana bunu yapmamı söylersen, yaparım.' dedi. O: 'Allah'a yemin ederim, bu Muhammed'den sonra kimseye ait değildir.'\""
+    },
+    {
+      "id": 113,
+      "narrator": "It was narrated that Safwan bin 'Assal said:",
+      "text": "Safwan bin 'Assal'den rivayet edildiğine göre, \"Bir Yahudi arkadaşına dedi ki: 'Bu Peygamber'e gidelim.' Arkadaşı ona: 'Peygamber deme; eğer seni duyarsa, kibirlenir.' dedi. Böylece Allah'ın Resulü'ne geldiler ve ona dokuz açık işareti sordular. O onlara: 'Allah'a hiçbir şeyi ortak koşmayın, hırsızlık yapmayın, zina etmeyin, Allah'ın öldürmenizi yasakladığı hiçbir canı öldürmeyin, ancak hak ile, masum bir adam hakkında bir yöneticinin önünde yalan söylemeyin, sihirle uğraşmayın, Riba (faiz) yemeyin, iffetli kadınları karalamayın ve savaş günü kaçmayın. Ve özellikle sizin için, ey Yahudiler, Şabat'ı bozmayın.' dedi. Onlar ellerine ve ayaklarına öperek: 'Senin bir Peygamber olduğunu kabul ediyoruz.' dediler. O: 'Sizi takip etmekten alıkoyan nedir?' dedi. Onlar: 'Davut, soyundan her zaman bir Peygamber olmasını dua etti ve eğer seni takip edersek, Yahudilerin bizi öldüreceğinden korkuyoruz.' dediler.\""
+    },
+    {
+      "id": 114,
+      "narrator": "It was narrated that Abu Hurairah said:",
+      "text": "Abu Hurayra'dan rivayet edildiğine göre, \"Allah'ın Resulü şöyle dedi: 'Kim bir düğüm atar ve üzerine üflerse, sihir yapmış olur; ve kim sihir yaparsa, şirk koşmuş olur; ve kim bir şey asarsa (muska olarak), ona emanet edilir.'\""
+    },
+    {
+      "id": 115,
+      "narrator": "It was narrated that Zaid bin Arqam said:",
+      "text": "Zaid bin Arqam'dan rivayet edildiğine göre, \"Bir Yahudi, Peygamber'e sihir yaptı ve Peygamber, sanki bazı bağlardan kurtulmuş gibi kalktı. O Yahudi'ye bu konuda hiçbir şey söylenmedi ve o, yüzünde bunu hiç görmedi.\""
+    },
+    {
+      "id": 116,
+      "narrator": "It was narrated from Qabus bin Mukhariq that his father said:",
+      "text": "Qabus bin Mukhariq'ten rivayet edildiğine göre, babası şöyle dedi: \"Süfyân es-Savri'nin bu Hadis'i naklettiğini duydum. Dedi ki: 'Bir adam Peygamber'e geldi ve: \"Bir adam bana gelir ve malımı almak isterse ne yapmalıyım?\" dedi. O: \"Ona Allah'ı hatırlat.\" dedi. Adam: \"Eğer dikkate almazsa?\" dedi. O: \"Etrafındaki Müslümanlardan yardım iste.\" dedi. Adam: \"Eğer etrafımda Müslüman yoksa?\" dedi. O: \"Ona karşı hükümdardan yardım iste.\" dedi. Adam: \"Eğer hükümdar benden uzaktaysa?\" dedi. O: \"Malını korumak için savaş, ya şehitlerden olursun ya da malını başarıyla korursun.\" dedi.'"
+    },
+    {
+      "id": 117,
+      "narrator": "It was narrated that Abu Hurairah said:",
+      "text": "Abu Hurayra'dan rivayet edildiğine göre, \"Bir adam Allah'ın Resulü'ne geldi ve: 'Ey Allah'ın Resulü, birisi gelip malımı çalmaya kalkarsa ne yapmalıyım?' dedi. O: 'Ona Allah'a yemin et.' dedi. Adam: 'Eğer ısrar ederse?' dedi. O: 'Ona Allah'a yemin et.' dedi. Adam: 'Eğer ısrar ederse?' dedi. O: 'Ona Allah'a yemin et.' dedi. Adam: 'Eğer ısrar ederse?' dedi. O: 'O zaman savaş. Eğer öldürülürsen cennette olursun, eğer onu öldürürsen, o ateşte olacaktır.'\""
+    },
+    {
+      "id": 118,
+      "narrator": "It was narrated from Abu Hurairah that:",
+      "text": "Abu Hurayra'dan rivayet edildiğine göre, \"Bir adam Allah'ın Resulü'ne geldi ve: 'Ey Allah'ın Resulü, birisi gelip malımı çalmaya kalkarsa ne yapmalıyım?' dedi. O: 'Ona Allah'a yemin et.' dedi. Adam: 'Eğer ısrar ederse?' dedi. O: 'Ona Allah'a yemin et.' dedi. Adam: 'Eğer ısrar ederse?' dedi. O: 'Ona Allah'a yemin et.' dedi. Adam: 'Eğer ısrar ederse?' dedi. O: 'O zaman savaş. Eğer öldürülürsen cennette olursun, eğer onu öldürürsen, o ateşte olacaktır.'\""
+    },
+    {
+      "id": 119,
+      "narrator": "It was narrated that 'Abdullah bin 'Amr said:",
+      "text": "'Abdullah bin 'Amr'dan rivayet edildiğine göre, \"Allah'ın Resulü şöyle dedi: 'Malını korumak için savaşan ve öldürülen kimse şehittir.'\""
+    },
+    {
+      "id": 120,
+      "narrator": "It was narrated that 'Abdullah bin 'Amr said:",
+      "text": "'Abdullah bin 'Amr'dan rivayet edildiğine göre, \"Allah'ın Resulü şöyle dedi: 'Malını korumak için savaşan ve öldürülen kimse şehittir.'\""
+    },
+    {
+      "id": 121,
+      "narrator": "It was narrated from 'Abdullah bin 'Amr bin Al-'As that:",
+      "text": "'Abdullah bin 'Amr bin Al-'As'tan rivayet edilmiştir ki: Allah'ın Resulü şöyle buyurmuştur: \"Malını savunurken haksız yere öldürülen kimse, cennete girecektir.\""
+    },
+    {
+      "id": 122,
+      "narrator": "It was narrated that 'Abudllah bin 'Amr said:",
+      "text": "'Abdullah bin 'Amr'dan rivayet edilmiştir ki: \"Allah'ın Resulü şöyle buyurdu: 'Malını savunurken öldürülen kimse, şehittir.'\""
+    },
+    {
+      "id": 123,
+      "narrator": "It was narrated from Ibrahim bin Muhammad bin Talhah that he heard 'Abdullah bin 'Amr narrating:",
+      "text": "İbrahim bin Muhammed bin Talha'dan rivayet edilmiştir ki, o 'Abdullah bin 'Amr'ın şöyle söylediğini duymuştur: Peygamber (s.a.v) şöyle buyurdu: \"Bir kişinin malı haksız yere alındığında, onu korumak için savaşır ve öldürülürse, o şehittir.\""
+    },
+    {
+      "id": 124,
+      "narrator": "It was narrated that 'Abdullah bin 'Amr said:",
+      "text": "'Abdullah bin 'Amr'dan rivayet edilmiştir ki: \"Allah'ın Resulü şöyle buyurdu: 'Malını savunurken öldürülen kimse, şehittir.'\""
+    },
+    {
+      "id": 125,
+      "narrator": "It was narrated from Sa'eed bin Zaid that:",
+      "text": "Sa'eed bin Zaid'den rivayet edilmiştir ki: Peygamber (s.a.v) şöyle buyurdu: \"Malını savunurken öldürülen kimse, şehittir.\" Bu, onun kısaltmasıdır."
+    },
+    {
+      "id": 126,
+      "narrator": "It was narrated from Sa'eed bin Zaid that:",
+      "text": "Sa'eed bin Zaid'den rivayet edilmiştir ki: Peygamber (s.a.v) şöyle buyurdu: \"Malını savunurken öldürülen kimse, şehittir.\""
+    },
+    {
+      "id": 127,
+      "narrator": "It was narrated from Sulaiman bin Buraidah that his father said:",
+      "text": "Süleyman bin Bureydah'dan rivayet edilmiştir ki, babası şöyle dedi: \"Allah'ın Resulü şöyle buyurdu: 'Malını savunurken öldürülen kimse, şehittir.'\""
+    },
+    {
+      "id": 128,
+      "narrator": "It was narrated that Abu Ja'far said:",
+      "text": "Ebu Ca'fer'den rivayet edilmiştir ki: \"Allah'ın Resulü şöyle buyurdu: 'Malını savunurken haksız yere öldürülen kimse, şehittir.'\""
+    },
+    {
+      "id": 129,
+      "narrator": "It was narrated from Sa'eed bin Zaid that:",
+      "text": "Sa'eed bin Zaid'den rivayet edilmiştir ki: Peygamber (s.a.v) şöyle buyurdu: \"Malını korumak için savaşan ve öldürülen kimse, şehittir. Kendini korumak için savaşan kimse, şehittir. Ailesini korumak için savaşan kimse, şehittir.\""
+    },
+    {
+      "id": 130,
+      "narrator": "It was narrated that Sa'eed bin Zaid said:",
+      "text": "Sa'eed bin Zaid'den rivayet edilmiştir ki: \"Allah'ın Resulü şöyle buyurdu: 'Malını korumak için öldürülen kimse, şehittir. Ailesini korumak için öldürülen kimse, şehittir. Dinini korumak için öldürülen kimse, şehittir. Kendini korumak için öldürülen kimse, şehittir.'\""
+    },
+    {
+      "id": 131,
+      "narrator": "It was narrated that Abu Ja'far said:",
+      "text": "Ebu Ca'fer'den rivayet edilmiştir ki: \"Suwaid bin Muqarrin ile oturuyordum, o şöyle dedi: Allah'ın Resulü şöyle buyurdu: 'Haksızlığa karşı kendini savunurken öldürülen kimse, şehittir.'\""
+    },
+    {
+      "id": 132,
+      "narrator": "It was narrated from Ibn Az-Zubair that:",
+      "text": "İbn Az-Zubair'den rivayet edilmiştir ki: \"Allah'ın Resulü şöyle buyurdu: 'Kılıcını çeken ve insanlara saldırmaya başlayan kimsenin kanı dökülmesi caizdir.'\""
+    },
+    {
+      "id": 133,
+      "narrator": "'Abdur-Razzaq narrated:",
+      "text": "'Abdur-Razzaq rivayet etti: 'Abdur-Razzaq benzer bir haberi aynı isnatla rivayet etti, ancak bunu Peygamber'e atfetmedi."
+    },
+    {
+      "id": 134,
+      "narrator": "It was narrated that Ibn Az-Zubair said:",
+      "text": "İbn Az-Zubair'den rivayet edilmiştir ki: \"Silah kuşanan ve insanlara saldırmaya başlayan kimsenin kanı dökülmesi caizdir.\""
+    },
+    {
+      "id": 135,
+      "narrator": "It was narrated from 'Abdullah bin 'Umar that :",
+      "text": "'Abdullah bin 'Umar'dan rivayet edilmiştir ki: Peygamber (s.a.v) şöyle buyurdu: \"Bizim aleyhimize silah kuşanan kimse, bizden değildir.\""
+    },
+    {
+      "id": 136,
+      "narrator": "It was narrated that Abu Sa'eed Al-Khudri said:",
+      "text": "Abu Sa'id Al-Hudri'den rivayet edildiğine göre, \"Ali Yemen'deyken, kayaların içinde hala kapalı olan bazı altınları Peygambere gönderdi. Peygamber (s.a.v) şöyle dedi: 'Bu adamın soyundan, Kur'an'ı okuyacak ama boğazlarından geçmeyecek insanlar çıkacak. Onlar, okun hedefi delip geçtiği gibi İslam'dan çıkacaklar. Müslümanları öldürecekler ve putperestleri bırakacaklar. Eğer onları görürsem, onları 'Ad kavminin öldürüldüğü gibi öldüreceğim.'\""
+    },
+    {
+      "id": 137,
+      "narrator": "It was narrated that 'Ali said:",
+      "text": "Ali'den rivayet edildiğine göre, \"Ben Allah'ın Resulü'nün (s.a.v) şöyle dediğini duydum: 'Zamanın sonunda, aklı kıt gençler ortaya çıkacak. İmanları boğazlarından geçmeyecek ve okun hedefi delip geçtiği gibi İslam'dan çıkacaklar. Eğer onlarla karşılaşırsanız, onları öldürün; çünkü onları öldürmek, kıyamet gününde öldüren için sevap getirecektir.'\""
+    },
+    {
+      "id": 138,
+      "narrator": "it was narrated that Sharik bin Shihab said:",
+      "text": "Şarik bin Şihab'dan rivayet edildiğine göre, \"Ben, Peygamberin (s.a.v) Sahabelerinden birisiyle karşılaşmayı arzulardım. O çok öfkelendi ve 'Vallahi! Benden sonra benden daha adil birini bulamayacaksınız.' dedi. Sonra şöyle dedi: 'Zamanın sonunda bir topluluk gelecek; sanki onlardan biriymiş gibi, Kur'an'ı boğazlarından geçirmeden okuyacaklar. Onlar, ok gibi İslam'dan geçecekler. Onların ayırt edici özelliği, saçlarını traş etmeleri olacak. Sonuncusu, Deccal ile birlikte gelene kadar ortaya çıkmaya devam edecekler. Onlarla karşılaştığınızda, onları öldürün; çünkü onlar yaratılmışların en kötüsüdür.'\""
+    },
+    {
+      "id": 139,
+      "narrator": "Sa'd bin Abi Waqas told us that:",
+      "text": "Sa'd bin Ebi Vakkas bize şunu söyledi: \"Allah'ın Resulü (s.a.v) şöyle dedi: 'Bir Müslümanla savaşmak küfürdür ve onu iftira etmek kötülüktür.'\""
+    },
+    {
+      "id": 140,
+      "narrator": "It was narrated that 'Abdullah said:",
+      "text": "Abdullah'dan rivayet edildiğine göre, \"Bir Müslümana iftira etmek kötülüktür ve onunla savaşmak küfürdür.\" (Sahih Mawquf)"
+    },
+    {
+      "id": 141,
+      "narrator": "It was narrated from Shu'bah, from Abu Ishaq who said:",
+      "text": "Şu'be'den, Ebu İshak'tan rivayet edildiğine göre, \"Ebu'l-Ahvas'tan duyduğumu, Abdullah'ın şöyle dediğini işittim: 'Bir Müslümana iftira etmek kötülüktür ve onunla savaşmak küfürdür.'\" Bunun üzerine Aban ona şöyle dedi: \"Ey Ebu İshak! Bunu sadece Ebu'l-Ahvas'tan mı duydun?\" O da: \"Hayır, ben bunu El-Aswad ve Hubeyre'den duydum.\" dedi."
+    },
+    {
+      "id": 142,
+      "narrator": "It was narrated that 'Abdullah said:",
+      "text": "Abdullah'dan rivayet edildiğine göre, \"Bir Müslümana iftira etmek kötülüktür ve onunla savaşmak küfürdür.\" (Sahih Mawquf)"
+    },
+    {
+      "id": 143,
+      "narrator": "It was narrated from 'Abdur-Rahman bin 'Abdullah, from his father, that:",
+      "text": "'Abdurrahman bin Abdullah'dan, babasından rivayet edildiğine göre: \"Allah'ın Resulü (s.a.v) şöyle dedi: 'Bir Müslümana iftira etmek kötülüktür ve onunla savaşmak küfürdür.'\""
+    },
+    {
+      "id": 144,
+      "narrator": "It was narrated from Shu'bah who said:",
+      "text": "Şu'be'den rivayet edildiğine göre, \"Hammad'a şöyle dedim: 'Mansur, Süleyman ve Zubaid'in Ebu Wa'il'den, Abdullah'tan rivayet ettiğini duydum ki, Allah'ın Resulü (s.a.v) şöyle dedi: 'Bir Müslümana iftira etmek kötülüktür ve onunla savaşmak küfürdür.' - Kimin için endişeleniyorsun? Mansur için mi? Zubaid için mi? Süleyman için mi?' O da: 'Hayır, ama Ebu Wa'il için endişeleniyorum.'\""
+    },
+    {
+      "id": 145,
+      "narrator": "It was narrated from Sufyan bin Zubaid, from Abu Wa'il, from 'Abdullah:",
+      "text": "Süfyan bin Zubaid'den, Ebu Wa'il'den, Abdullah'tan rivayet edildiğine göre: \"Allah'ın Resulü (s.a.v) şöyle dedi: 'Bir Müslümana iftira etmek kötülüktür ve onunla savaşmak küfürdür.'\" Ben de Ebu Wa'il'e: \"Bunu Abdullah'tan duydun mu?\" dedim. O da: \"Evet.\" dedi."
+    },
+    {
+      "id": 146,
+      "narrator": "It was narrated that 'Abdullah said:",
+      "text": "Abdullah'dan rivayet edildiğine göre, \"Allah'ın Resulü (s.a.v) şöyle dedi: 'Bir Müslümana iftira etmek kötülüktür ve onunla savaşmak küfürdür.'\""
+    },
+    {
+      "id": 147,
+      "narrator": "It was narrated that Abu Wa'il said:",
+      "text": "Ebu Wa'il'den rivayet edildiğine göre: \"Abdullah şöyle dedi: 'Bir Müslümana iftira etmek kötülüktür ve onunla savaşmak küfürdür.'\""
+    },
+    {
+      "id": 148,
+      "narrator": "It was narrated that 'Abdullah said:",
+      "text": "Abdullah'dan rivayet edildiğine göre, \"Bir müminle savaşmak küfürdür ve ona iftira etmek kötülüktür.\""
+    },
+    {
+      "id": 149,
+      "narrator": "It was narrated that Abu Hurairah said:",
+      "text": "Ebu Hureyre'den rivayet edildiğine göre, \"Allah'ın Resulü (s.a.v) şöyle dedi: 'Kim itaati terk eder, cemaatten ayrılır ve ölürse, o, cahiliye ölümüyle ölmüştür. Kim benim ümmetime karşı isyan eder, iyi ve kötü insanları öldürür ve müminleri öldürmekten kaçınmaz, ahit altında olanlara dikkat etmezse, o benden değildir. Kim belirsiz bir dava için savaşır, kabilecilik adına öfkelenirse ve öldürülürse, o cahiliye ölümüyle ölmüştür.'\""
+    },
+    {
+      "id": 150,
+      "narrator": "It was narrated that Jundab bin 'Abdullah said:",
+      "text": "Cündab bin Abdullah'dan rivayet edildiğine göre, \"Allah'ın Resulü (s.a.v) şöyle dedi: 'Kim belirsiz bir dava için savaşır, kabilecilik adına öfkelenirse, o cahiliye ölümüyle ölmüştür.'\""
+    },
+    {
+      "id": 151,
+      "narrator": "It was narrated that Abu Bakrah said:",
+      "text": "Abu Bakra'dan rivayet edilmiştir: \"Allah'ın Resulü  dedi ki: 'Eğer bir Müslüman, diğer bir Müslüman'a silah doğrultursa, o zaman ikisi de Cehennem'in eşiğindedir ve eğer biri diğerini öldürürse, ikisi de oraya düşer.'\""
+    },
+    {
+      "id": 152,
+      "narrator": "It was narrated that Abu Bakrah said:",
+      "text": "Abu Bakra'dan rivayet edilmiştir: \"Eğer iki Müslüman birbirlerine karşı silah taşırsa, o zaman ikisi de Cehennem'in eşiğindedir. Ve eğer biri diğerini öldürürse, ikisi de Cehennem'de olacaktır.\""
+    },
+    {
+      "id": 153,
+      "narrator": "It was narrated from Abu Musa that:",
+      "text": "Abu Musa'dan rivayet edilmiştir ki: Peygamber  dedi ki: \"Eğer iki Müslüman kılıçlarıyla karşı karşıya gelir ve biri diğerini öldürürse, ikisi de Cehennem'de olacaktır.\" Denildi ki: \"Ey Allah'ın Resulü, (katil hakkında) anladık, peki ya öldürülen hakkında?\" O da dedi ki: \"O, arkadaşını öldürmek istiyordu.\""
+    },
+    {
+      "id": 154,
+      "narrator": "It was narrated from Abu Musa Al-Ash'ari that:",
+      "text": "Abu Musa Al-Ash'ari'den rivayet edilmiştir ki: Peygamber  dedi ki: \"Eğer iki Müslüman kılıçlarıyla karşı karşıya gelir ve biri diğerini öldürürse, ikisi de Cehennem'de olacaktır.\""
+    },
+    {
+      "id": 155,
+      "narrator": "It was narrated from Abu Bakrah that :",
+      "text": "Abu Bakra'dan rivayet edilmiştir ki: Peygamber  dedi ki: \"Eğer iki Müslüman kılıçlarıyla karşı karşıya gelir ve her biri diğerini öldürmek isterse, ikisi de Cehennem'de olacaktır.\" Ona denildi ki: \"Ey Allah'ın Resulü, (katil hakkında) anladık, peki ya öldürülen hakkında?\" O da dedi ki: \"O, arkadaşını öldürmeye kararlıydı.\""
+    },
+    {
+      "id": 156,
+      "narrator": "It was narrated that Abu Bakrah said:",
+      "text": "Abu Bakra'dan rivayet edilmiştir: \"Resul  dedi ki: 'Eğer iki Müslüman kılıçlarıyla karşılaşır ve biri diğerini öldürürse, katil ve öldürülen ikisi de Cehennem'de olacaktır.'\""
+    },
+    {
+      "id": 157,
+      "narrator": "It was narrated that Abu Bakrah said:",
+      "text": "Abu Bakra'dan rivayet edilmiştir: \"Allah'ın Resulü  dedi ki: 'Eğer iki Müslüman kılıçlarıyla karşı karşıya gelir ve biri diğerini öldürürse, katil ve öldürülen ikisi de Cehennem'de olacaktır.'\" Onlar dediler: \"Ey Allah'ın Resulü, (katil hakkında) anladık, peki ya öldürülen hakkında?\" O da dedi ki: \"O, arkadaşını öldürmek istiyordu.\""
+    },
+    {
+      "id": 158,
+      "narrator": "It was narrated that Abu Bakrah said:",
+      "text": "Abu Bakra'dan rivayet edilmiştir: \"Allah'ın Resulü  dedi ki: 'Eğer iki Müslüman kılıçlarla dövüşürse ve biri diğerini öldürürse, o zaman katil ve öldürülen ikisi de Cehennem'de olacaktır.'\""
+    },
+    {
+      "id": 159,
+      "narrator": "It was narrated from Abu Musa Al-Ash'ari that :",
+      "text": "Abu Musa Al-Ash'ari'den rivayet edilmiştir ki: \"Allah'ın Resulü  dedi ki: 'Eğer iki Müslüman kılıçlarıyla karşı karşıya gelir ve biri diğerini öldürürse, o zaman katil ve öldürülen ikisi de Cehennem'de olacaktır.' Bir adam dedi ki: 'Ey Allah'ın Resulü, (katil hakkında) anladık, peki ya öldürülen hakkında?' O da dedi ki: 'O, arkadaşını öldürmek istiyordu.'\""
+    },
+    {
+      "id": 160,
+      "narrator": "It was narrated from Ibn 'Umar that :",
+      "text": "İbn 'Umar'dan rivayet edilmiştir ki: Peygamber  dedi ki: \"Benim arkamdan kafirler gibi birbirinizin boyunlarına vurmayın (birbirinizi öldürmeyin).\""
+    },
+    {
+      "id": 161,
+      "narrator": "It was narrated that Ibn 'Umar said:",
+      "text": "İbn 'Umar'dan rivayet edilmiştir: \"Allah'ın Resulü  dedi ki: 'Benim arkamdan kafirler gibi birbirinizin boyunlarına vurmayın (birbirinizi öldürmeyin). Hiçbir adam, babasının günahlarından veya kardeşinin günahlarından dolayı cezalandırılmaz.'\""
+    },
+    {
+      "id": 162,
+      "narrator": "It was narrated that 'Abdullah said:",
+      "text": "Abdullah'dan rivayet edilmiştir: \"Allah'ın Resulü  dedi ki: 'Benim arkamdan kafirler gibi birbirinizin boyunlarına vurmayın (birbirinizi öldürmeyin). Hiçbir adam, babasının günahlarından veya kardeşinin günahlarından dolayı cezalandırılmaz.'\""
+    },
+    {
+      "id": 163,
+      "narrator": "It was narrated that Masruq said:",
+      "text": "Masruq'dan rivayet edilmiştir: \"Allah'ın Resulü  dedi ki: 'Ben, arkamdan kafirler gibi birbirinizin boyunlarına vurduğunuzu (birbirinizi öldürdüğünüzü) görmek istemiyorum. Hiçbir adam, babasının suçundan veya kardeşinin suçundan dolayı cezalandırılmaz.'\" Bu doğrudur."
+    },
+    {
+      "id": 164,
+      "narrator": "It was narrated from Masruq that:",
+      "text": "Masruq'tan rivayet edilmiştir ki: \"Allah'ın Resulü  dedi ki: 'Benim arkamdan kafirler gibi geri dönmeyin.'\" Bu Mursal'dır."
+    },
+    {
+      "id": 165,
+      "narrator": "It was narrated from Abu Bakrah that:",
+      "text": "Abu Bakra'dan rivayet edilmiştir ki: Peygamber  dedi ki: \"Benim arkamdan sapkınlığa geri dönmeyin, birbirinizin boyunlarına vurmayın (birbirinizi öldürmeyin).\""
+    },
+    {
+      "id": 166,
+      "narrator": "It was narrated from Jarir that :",
+      "text": "Jarir'den rivayet edilmiştir ki: Veda Haccı sırasında, Allah'ın Elçisi, insanlara sessiz olmalarını ve dinlemelerini istedi ve şöyle dedi: \"Ben gittikten sonra birbirinizin boyunlarına vurup (birbirinizi öldürerek) kafirler haline dönmeyin.\""
+    },
+    {
+      "id": 167,
+      "narrator": "It was narrated that Jarir bin 'Abdullah said:",
+      "text": "---"
+    }
+  ]
+}

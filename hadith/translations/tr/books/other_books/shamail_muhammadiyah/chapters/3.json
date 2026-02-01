@@ -1,0 +1,56 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 8,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Anas ibn Malik said:",
+      "text": "Enes ibn Malik dedi ki: \"Allah’ın Elçisi (Allah ona salat ve selam eylesin) saçları kulaklarının ortasına kadar iniyordu.\""
+    },
+    {
+      "id": 2,
+      "narrator": "'A’isha said:",
+      "text": "Aişe dedi ki: \"Ben ve Allah’ın Elçisi (Allah ona salat ve selam eylesin) tek bir leğende büyük abdest alırdık ve onun saçları omuz seviyesinin üstünde ve kulak memelerinin altında idi.\""
+    },
+    {
+      "id": 3,
+      "narrator": "Al-Bara’ ibn 'Azib said:",
+      "text": "El-Bara’ ibn Azib dedi ki: \"Allah’ın Elçisi (Allah ona salat ve selam eylesin) orta boylu, geniş omuzlu idi ve başının saçları kulak loblarına değiyordu.\""
+    },
+    {
+      "id": 4,
+      "narrator": "Qatada said:",
+      "text": "Katade dedi ki: \"Enes’e dedim: ‘Allah’ın Elçisi (Allah ona salat ve selam eylesin) saçları nasıldı?’ O da: 'Ne kıvrımlı ne de sarkık idi. Saçları kulak loblarına kadar iniyordu' diye cevap verdi.\""
+    },
+    {
+      "id": 5,
+      "narrator": "Umm Hani bint 'Ali ibn Talib said:",
+      "text": "Ümmü Hani bint Ali ibn Talib dedi ki: \"Allah’ın Elçisi (Allah ona salat ve selam eylesin) Mekke’ye cesurca geldi ve dört saç örgüsü vardı.\""
+    },
+    {
+      "id": 6,
+      "narrator": "Anas said:",
+      "text": "Enes dedi ki: \"Allah’ın Elçisi (Allah ona salat ve selam eylesin) saçları kulaklarının ortasına kadar iniyordu.\""
+    },
+    {
+      "id": 7,
+      "narrator": "Ibn 'Abbas said:",
+      "text": "İbn Abbas dedi ki: \"Allah’ın Elçisi (Allah ona salat ve selam eylesin) saçlarını serbest bırakırdı, oysa müşrikler saçlarını ayırırlardı. Kitap Ehli de saçlarını serbest bırakırlardı ve o, emredilmeyen konularda Kitap Ehli’ni taklit etmeyi tercih ederdi, fakat Allah’ın Elçisi (Allah ona salat ve selam eylesin) daha sonra saçlarını ayırdı.\""
+    },
+    {
+      "id": 8,
+      "narrator": "Umm Hani said:",
+      "text": "Ümmü Hani dedi ki: \"Allah’ın Elçisi (Allah ona salat ve selam eylesin) dört saç örgüsü ile gördüm.\""
+    }
+  ]
+}

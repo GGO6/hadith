@@ -1,0 +1,66 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 10,
+    "arabic": {
+      "title": "الأدب المفرد",
+      "author": "الإمام البخاري"
+    },
+    "english": {
+      "title": "Al-Adab Al-Mufrad",
+      "author": "Imam al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "",
+      "text": "İbn 'Awn, \"Onlar derlerdi ki, 'Misafirinizi ona yük olacak şekilde onurlandırmayın.'\""
+    },
+    {
+      "id": 2,
+      "narrator": "",
+      "text": "Ebu Hureyre, Peygamber Efendimiz'in, Allah ona salat ve selam eylesin, \"Bir adam kardeşlerini ziyaret ettiğinde, Allah ona, 'Sen iyi davrandın, akşamın da güzel olacak ve Cennet'te yer alabilirsin.' der.\""
+    },
+    {
+      "id": 3,
+      "narrator": "",
+      "text": "Ümmü'd-Derdâ, \"Salman, el-Mada'in'den (Ktesifon) Suriye'ye yürüyerek, gömlek (kisa') ve pantolon giyerek bizi ziyarete geldi.\" Şavdah, \"Salman, saçları tamamen traş edilmiş ve büyük kulakları görünür bir şekilde kısa bir elbise giyerken görüldü. Ona, 'Kendini çirkinleştirdin.' denildi. O da, 'Gerçek güzellik, Ahiret güzelliğidir.' diye cevap verdi.\""
+    },
+    {
+      "id": 4,
+      "narrator": "",
+      "text": "Enes ibn Malik, Allah'ın Messenger'ı, Allah ona salat ve selam eylesin, Ensar'dan bir evde bulunduğunu ve onlarla birlikte yemek yediğini bildirdi. Çıkarken, evde bir yer istedi ve onun için bir halıya su serpiştirildi. Orada namaz kıldı ve onlar için dua etti."
+    },
+    {
+      "id": 5,
+      "narrator": "",
+      "text": "'Abdulkerim Ebu Umuyye, Ebu Al'aliyah'a geldi ve üzerinde yün elbiseler vardı. Bunun üzerine Ebu Al'aliyah, \"Bunlar sadece rahiplerin elbiseleridir, çünkü Müslümanlar birbirlerini ziyaret ettiklerinde kendilerini süslerler.\" dedi."
+    },
+    {
+      "id": 6,
+      "narrator": "",
+      "text": "'Abdullah, Asma'nın kölesi, \"Asma' bana, kenarları bir parmak genişliğinde brokar olan Tayalisah (bir tür manto) çıkardı ve gerçekten de iki açılışı onunla (yani brokarla) kenarları dikilmişti. O, 'Bu, Allah'ın Messenger'ının elbisesidir, Allah ona salat ve selam eylesin. O, bunu heyetler için ve Cuma günü giyerdi.' dedi."
+    },
+    {
+      "id": 7,
+      "narrator": "",
+      "text": "'Abdullah ibn 'Umar, \"'Umar, bir ipek elbise buldu ve onu Peygamber'e, Allah ona salat ve selam eylesin, getirdi ve 'Bunu al ve Cuma günü ve heyetler sana geldiğinde giy.' dedi. Peygamber, ona selam olsun, 'Ahiret'te hiçbir payı olmayan sadece bunu giyer.' diye cevap verdi. Sonra Allah'ın Messenger'ına, Allah ona salat ve selam eylesin, bazı elbiseler getirildi ve bir elbise 'Umar'a, bir elbise Usame'ye, bir elbise de Ali'ye gönderildi. 'Umar, 'Allah'ın Messenger'ı! Bunu bana gönderdiğin zaman, bununla ilgili söylediğini duydum.' dedi. Peygamber, Allah ona salat ve selam eylesin, 'Bunu satabilirsin veya ihtiyaçlarını bununla karşılayabilirsin.' dedi.\""
+    },
+    {
+      "id": 8,
+      "narrator": "",
+      "text": "Ebu Hureyre, Peygamber Efendimiz'in, Allah ona salat ve selam eylesin, \"Bir adam, köydeki kardeşini ziyaret etti, bu yüzden Allah onun yolunda bir meleği beklemeye koydu. Melek sordu, 'Nereye gidiyorsun?' O da, 'Bu köydeki bir kardeşime gidiyorum.' dedi. Melek, 'Onun sana bir nimeti var mı?' dedi. O da, 'Hayır, ben onu Allah için seviyorum.' dedi. Melek, 'Ben Allah'ın sana gönderdiği bir elçisiyim. Allah seni seviyor, sen de onu sevdiğin gibi.' dedi.\""
+    },
+    {
+      "id": 9,
+      "narrator": "",
+      "text": "Ebu Dharr, \"Ben sordum, 'Allah'ın Messenger'ı, bir adam bir toplumu sever ama onlara katılamazsa ne olur?' O, 'Ebu Dharr, sen sevdiğinle berabersin.' dedi. Ben de, 'Ben Allah'ı ve O'nun Messenger'ını seviyorum.' dedim. O, 'Ebu Dharr, sen sevdiğinle berabersin.' dedi.\""
+    },
+    {
+      "id": 10,
+      "narrator": "",
+      "text": "Enes, bir adamın Peygamber'e, Allah ona salat ve selam eylesin, \"Allah'ın Messenger'ı, Kıyamet Saati ne zaman gelecek?\" diye sorduğunu bildirdi. O da, \"Sen onun için hazırlık yapmadın mı?\" dedi. Adam, \"Ben korkunç bir olay için hazırlıklı değilim, ama ben Allah'ı ve O'nun Messenger'ını seviyorum.\" dedi. O, \"Bir adam sevdiğiyle beraberdir.\" dedi."
+    }
+  ]
+}

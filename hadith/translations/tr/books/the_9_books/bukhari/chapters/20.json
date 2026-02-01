@@ -1,0 +1,61 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 9,
+    "arabic": {
+      "title": "صحيح البخاري",
+      "author": "الإمام محمد بن إسماعيل البخاري"
+    },
+    "english": {
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Muhammad ibn Ismail al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Narrated Quza'a:",
+      "text": "Rivayet etti Quza'a: Abu Said'in dört söz söylediğini duydum. Dedi ki, \"Peygamber (ﷺ)"
+    },
+    {
+      "id": 2,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "(şu anlatıyı söyledi).\" O, Peygamber ile on iki kutsal savaşa katılmıştı."
+    },
+    {
+      "id": 3,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Rivayet etti Abu Huraira: Peygamber (ﷺ) dedi ki, \"Üç cami dışında bir yolculuğa çıkmayın;"
+    },
+    {
+      "id": 4,
+      "narrator": "Narrated Nafi`:",
+      "text": "yani Al-Masjid-AI-Haram, Allah'ın Elçisi (ﷺ) camisi ve Al-Aqsa Camisi (Kudüs Camisi).\""
+    },
+    {
+      "id": 5,
+      "narrator": "Narrated `Abdullah bin Dinar:",
+      "text": "Rivayet etti Abu Huraira: Allah'ın Elçisi (ﷺ) dedi ki, \"Benim camimde kılınan bir namaz,"
+    },
+    {
+      "id": 6,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "Al-Masjid-AI-Haram hariç, diğer camilerde kılınan bin namazdan daha hayırlıdır.\""
+    },
+    {
+      "id": 7,
+      "narrator": "Narrated `Abdullah bin Zaid Al-Mazini:",
+      "text": "Rivayet etti Nafi`: İbn `Umar, Duha namazını sadece iki durumda kılardı:"
+    },
+    {
+      "id": 8,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "(1) Mekke'ye ulaştığında; ve her zaman Mekke'ye öğle saatlerinde ulaşırdı. Kabe'nin etrafında"
+    },
+    {
+      "id": 9,
+      "narrator": "Narrated Qaza'a Maula:",
+      "text": "tavaf yapar ve sonra İbrahim Makamı'nın arkasında iki rek'at namaz kılardı."
+    }
+  ]
+}

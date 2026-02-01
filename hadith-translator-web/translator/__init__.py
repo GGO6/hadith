@@ -1,0 +1,1 @@
+# Hadith Translator module

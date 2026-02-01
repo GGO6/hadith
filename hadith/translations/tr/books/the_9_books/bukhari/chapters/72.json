@@ -1,0 +1,361 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 69,
+    "arabic": {
+      "title": "صحيح البخاري",
+      "author": "الإمام محمد بن إسماعيل البخاري"
+    },
+    "english": {
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Muhammad ibn Ismail al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Narrated Adi bin Hatim:",
+      "text": "Adi bin Hatim'den rivayet edilmiştir: Ben, Peygamber (ﷺ)'e Mi'rad ile avlanan hayvan hakkında sordum. O, \"Eğer hayvan keskin kenarıyla vurulursa, ondan ye; ama eğer geniş tarafıyla vurulursa, o zaman hayvan (yemek için) haramdır, çünkü o dövülerek öldürülmüştür.\" dedi. Eğitilmiş bir av köpeği ile avlanan hayvan hakkında sordum. O, \"Eğer köpek avı senin için yakalarsa, ondan ye; çünkü köpeğin avı öldürmesi, onun kesilmesi gibidir. Ama eğer senin köpeğinle başka bir köpek görürsen ve onun avı senin köpeğinle birlikte yakalayıp öldürdüğünden korkuyorsan, o zaman ondan yememelisin, çünkü sen sadece kendi köpeğine Allah'ın adını anmışsın, ama diğer köpek için anmamışsın.\" dedi."
+    },
+    {
+      "id": 2,
+      "narrator": "Narrated `Adi bin Hatim:",
+      "text": "Adi bin Hatim'den rivayet edilmiştir: Ben, Allah'ın Elçisi (ﷺ)'ne Mi'rad hakkında sordum. O, \"Eğer avı keskin kenarıyla vurursan, ondan ye; ama eğer Mi'rad avı geniş tarafıyla vurursa, ondan yeme, çünkü o bir parça odunla dövülerek öldürülmüştür. (yani haramdır)\" dedi. \"Eğitilmiş köpeğimi avın peşine salarsam?\" diye sordum. O, \"Eğer eğitilmiş köpeğini avın peşine salar ve Allah'ın adını anarsan, o zaman yiyebilirsin.\" dedi. \"Eğer köpek avdan yerse?\" dedim. O, \"O zaman ondan yememelisin, çünkü köpek avı kendisi için yakalamıştır, senin için değil.\" dedi. \"Bazen köpeğimi saldığımda onunla birlikte başka bir köpek buluyorum?\" dedim. O, \"Avı yeme, çünkü sen sadece kendi köpeğine Allah'ın adını anmışsın, diğerine anmamışsın.\" dedi."
+    },
+    {
+      "id": 3,
+      "narrator": "Narrated Adi bin Hatim:",
+      "text": "Adi bin Hatim'den rivayet edilmiştir: Ben, \"Ey Allah'ın Elçisi (ﷺ)! Eğitilmiş köpeklerimizi avın peşine salıyoruz?\" dedim. O, \"Onların senin için avladıklarından ye.\" dedi. \"Hatta avı öldürseler bile?\" dedim. O, \"Hatta avı öldürseler bile.\" dedi. \"Biz de avı Mi'rad ile vuruyoruz?\" dedim. O, \"Mi'rad'ın vücudu delerek öldürdüğü hayvandan ye, ama Mi'rad'ın geniş tarafıyla öldürdüğü hayvandan yeme.\" dedi."
+    },
+    {
+      "id": 4,
+      "narrator": "Narrated Abu Tha`laba Al-Khushani:",
+      "text": "Ebu Tha'laba Al-Khushani'den rivayet edilmiştir: Ben, \"Ey Allah'ın Peygamberi! Biz, Kitap ehlinin yönettiği bir toprakta yaşıyoruz; onların kaplarından yemek yiyebilir miyiz? O toprakta bol miktarda av var ve ben avı yayım ve eğitilmemiş köpeğimle ve eğitilmiş köpeğimle avlıyorum. O zaman neyi yemek helaldir?\" dedim. O, \"Kitap ehli hakkında söylediklerin için, eğer onlarınkinden başka kaplar bulabiliyorsan, onların kaplarından yeme; ama eğer başka kap bulamazsan, onların kaplarını yıka ve onlardan ye. Eğer Allah'ın adını anarak yayımla bir hayvan avlarsan, ondan ye. Eğer eğitilmiş köpeğinle Allah'ın adını anarak bir şey avlarsan, ondan ye; eğer eğitilmemiş köpeğinle bir şey avlar ve onu ölmeden önce kesebilirsen, ondan ye.\" dedi."
+    },
+    {
+      "id": 5,
+      "narrator": "Narrated `Abdullah bin Maghaffal:",
+      "text": "Abdullah bin Maghaffal'den rivayet edilmiştir: O, iki parmağıyla (bir şeye) taş atan bir adam gördü ve ona, \"Taş atma, çünkü Allah'ın Elçisi (ﷺ) taş atmayı yasakladı ya da ondan hoşlanmıyordu.\" dedi. Abdullah ekledi: \"Taş atmak ne avı yakalar, ne de bir düşmanı öldürür (veya yaralar), ama bir dişi kırabilir ya da bir gözü oyar.\" Sonrasında Abdullah bir kez daha adamı taş atarken gördü. Ona, \"Sana Allah'ın Elçisi (ﷺ)'nin taş atmayı yasakladığını ya da ondan hoşlanmadığını söylüyorum, ama sen hâlâ taş atıyorsun! Seninle şu kadar süre konuşmayacağım.\" dedi."
+    },
+    {
+      "id": 6,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn Umar'dan rivayet edilmiştir: Peygamber (ﷺ) dedi ki, \"Kim ne bekçi köpeği ne de av köpeği olmayan bir (evcil) köpek beslerse, iyi amellerinden günde iki Kıraat eksilir.\""
+    },
+    {
+      "id": 7,
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "Abdullah bin Umar'dan rivayet edilmiştir: Ben, Peygamber (ﷺ)'in şöyle dediğini duydum: \"Eğer biri köpeği ne av için ne de hayvanları korumak için beslerse, onun iyi amellerinin karşılığı günde iki Kıraat azaltılır.\""
+    },
+    {
+      "id": 8,
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "Abdullah bin Umar'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) dedi ki, \"Eğer biri köpeği ne hayvanları korumak için ne de av için beslerse, onun iyi amelleri günde iki Kıraat azalır.\""
+    },
+    {
+      "id": 9,
+      "narrator": "Narrated Adi bin Hatim:",
+      "text": "Adi bin Hatim'den rivayet edilmiştir: Ben, Allah'ın Elçisi (ﷺ)'ne, \"Bu köpeklerle avlanıyoruz.\" dedim. O, \"Eğer eğitilmiş köpeklerini avın peşine salar ve Allah'ın adını anarsan, köpeklerin senin için yakaladığı şeylerden yiyebilirsin, hatta avı öldürseler bile. Ama eğer köpek avdan yerse, o zaman ondan yememelisin, çünkü o avı kendisi için yakalamış olabilir. Ve eğer diğer köpekler senin köpeğinle birlikte avı yakalarsa, o zaman ondan yememelisin.\" dedi."
+    },
+    {
+      "id": 10,
+      "narrator": "Narrated Adi bin Hatim:",
+      "text": "Adi bin Hatim'den rivayet edilmiştir: Peygamber (ﷺ) dedi ki, \"Eğer köpeğini avın peşine salar ve onu gönderirken Allah'ın adını anarsan, köpek avı yakalayıp öldürürse, ondan yiyebilirsin. Ama eğer köpek avdan yerse, o zaman ondan yememelisin, çünkü köpek onu kendisi için yakalamıştır. Ve eğer senin köpeğinle birlikte başka köpekler katılırsa ve onların gönderilmesi sırasında Allah'ın adı anılmamışsa ve bir hayvanı yakalayıp öldürürlerse, ondan yememelisin, çünkü hangisinin öldürdüğünü bilemeyeceksin. Ve eğer avı okla vurduktan sonra iki veya üç gün sonra bulursan ve üzerinde senin okundan başka bir iz yoksa, o zaman ondan yiyebilirsin. Ama eğer av suyun içinde bulunursa, o zaman ondan yeme.\" dedi."
+    },
+    {
+      "id": 11,
+      "narrator": "",
+      "text": "Adi bin Hatim'den rivayet edilmiştir ki, o Peygamber (ﷺ)'e, \"Eğer bir avcı avı vurursa ve iki veya üç gün sonra onu bulursa ama hala okunu taşıyorsa (ondan yiyebilir mi)?\" diye sordu. Peygamber (ﷺ) cevap verdi, \"İsterse ondan yiyebilir.\""
+    },
+    {
+      "id": 12,
+      "narrator": "Narrated `Adi bin Hatim:",
+      "text": "Adi bin Hatim'den rivayet edilmiştir: Ben, \"Ey Allah'ın Elçisi (ﷺ)! Avın peşine köpeğimi salıyorum ve onu gönderirken Allah'ın adını anıyorum.\" dedim. Peygamber (ﷺ) dedi ki, \"Eğer avın peşine köpeğini salar ve onu gönderirken Allah'ın adını anarsan ve köpek avı yakalayıp öldürür ve ondan yer, o zaman ondan yememelisin, çünkü o avı kendisi için öldürmüştür.\" Ben, \"Bazen köpeğimi avın peşine saldığımda onunla birlikte başka bir köpek buluyorum ve hangisinin avı yakaladığını bilmiyorum.\" dedim. O, \"Ondan yememelisin, çünkü sen sadece kendi köpeğine Allah'ın adını anmışsın, diğer köpeğe anmamışsın.\" dedi. Sonra ben, Mi'rad ile avlanan hayvan hakkında sordum. O, \"Eğer hayvan keskin kenarıyla öldürülürse ondan yiyebilirsin, ama eğer geniş tarafıyla öldürülürse ondan yiyemezsin, çünkü o, bir parça odunla dövülerek öldürülmüş gibidir.\" dedi."
+    },
+    {
+      "id": 13,
+      "narrator": "Narrated Adi Bin Hatim:",
+      "text": "Adi bin Hatim'den rivayet edilmiştir: Ben, Allah'ın Elçisi (ﷺ)'ne, \"Bu köpeklerle avlanıyoruz.\" dedim. O, \"Eğer eğitilmiş köpeklerini avın peşine salar ve Allah'ın adını anarsan, onların senin için yakaladığı şeylerden yiyebilirsin. Ama eğer köpek avdan yerse, o zaman ondan yememelisin, çünkü köpeğin onu kendisi için yakalamış olabileceğinden korkuyorum; ve eğer başka bir köpek senin köpeklerine katılırsa, avdan yememelisin.\" dedi."
+    },
+    {
+      "id": 14,
+      "narrator": "Narrated Abu Tha`laba Al-Khushani:",
+      "text": "Ebu Tha'laba Al-Khushani'den rivayet edilmiştir: Ben, Allah'ın Elçisi (ﷺ)'ne geldim ve dedim, \"Ey Allah'ın Elçisi (ﷺ)! Biz, Kitap ehlinin topraklarında yaşıyoruz ve onların kaplarından yemek yiyoruz; o toprakta av var ve ben yayım ve eğitilmiş veya eğitilmemiş köpeklerimle avlıyorum; lütfen bize bununla ilgili neyin helal olduğunu söyle.\" O, \"Kitap ehlinin topraklarında yaşadığınıza ve onların kaplarından yediğinize dair söyledikleriniz için, eğer onlarınkinden başka kaplar bulabiliyorsanız, onların kaplarından yemeyin; ama eğer başka kap bulamazsanız, onların kaplarını yıkayın ve onlardan yiyin. Av topraklarında olduğunuz için, eğer yayınızla bir şey avladıysanız ve avlanırken Allah'ın adını anmışsanız, ondan yiyebilirsiniz. Eğer eğitilmiş köpeğinizle avladıysanız ve onu avlarken Allah'ın adını anmışsanız, ondan yiyebilirsiniz. Ama eğer eğitilmemiş köpeğinizle bir şey avlarsanız ve onu ölmeden önce kesebilirseniz, ondan yiyebilirsiniz.\" dedi."
+    },
+    {
+      "id": 15,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir: Biz, Marr Az-Zahran'da bir tavşanı kışkırttık ve o zıplamaya başladı. Arkadaşlarım onu kovaladı, ta ki yoruluncaya kadar. Ama ben tek başıma onun peşinden koştum ve onu yakaladım ve Abu Talha'ya getirdim. O, tavşanın iki bacağını Peygamber'e gönderdi ve o da kabul etti."
+    },
+    {
+      "id": 16,
+      "narrator": "Narrated Abu Qatada:",
+      "text": "Abu Katade'den rivayet edilmiştir: Bir zamanlar Allah'ın Elçisi (ﷺ) ile birlikteydim (Mekke'ye giderken). Mekke'ye doğru bir mesafe kat ettikten sonra, o ve ihramda bulunan bazı arkadaşları, Abu Katade ise ihramda değildi. Abu Katade, bir yaban eşeği gördü ve atına bindi, arkadaşlarından bir kamçı vermelerini istedi, ama reddettiler. Sonra onlardan mızrağını vermelerini istedi, ama yine reddettiler. Bunun üzerine mızrağını kendisi aldı ve yaban eşeğine saldırdı ve onu öldürdü. Allah'ın Elçisi'nin (ﷺ) bazı arkadaşları ondan yedi, ama diğerleri yemeyi reddetti. Allah'ın Elçisi ile karşılaştıklarında bu durumu ona sordular. O da, \"Bu, Allah'ın size verdiği bir yemektir.\" dedi."
+    },
+    {
+      "id": 17,
+      "narrator": "Narrated Abu Qatada:",
+      "text": "Abu Katade'den rivayet edilmiştir: (Yukarıdaki aynı hadis, ama ekledi); Peygamber (ﷺ) sordu, \"Sizde ondan kalan et var mı?\""
+    },
+    {
+      "id": 18,
+      "narrator": "Narrated Abu Qatada:",
+      "text": "Abu Katade'den rivayet edilmiştir: Peygamber ile (Mekke ile Medine arasında) bir yolculukta bulundum ve hepsi (yani Peygamber (ﷺ) ve arkadaşları) ihramda iken ben o durumda değildim. Atıma biniyordum ve dağlara tırmanmayı seviyordum. Bu sırada insanların bir şeye baktığını fark ettim. Ne olduğunu görmek için gittim ve bir yaban eşeğiyle karşılaştım. Arkadaşlarıma, \"O nedir?\" diye sordum. Onlar, \"Bilmiyoruz.\" dediler. Ben de, \"O bir yaban eşeğidir.\" dedim. Onlar, \"Gördüğün şey odur.\" dediler. Kamçımı bırakmıştım, bu yüzden onlara, \"Kamçımı verin.\" dedim. Onlar, \"Biz sana bu konuda yardım etmeyeceğiz.\" dediler. İndim, kamçımı aldım ve hayvanı (atım üzerinde) kovaladım ve onu öldürene kadar durmadım. Onlara döndüm ve, \"Haydi, onu taşıyın!\" dedim. Ama onlar, \"Biz ona bile dokunmayız.\" dediler. En sonunda onu tek başıma taşıdım ve onlara getirdim. Bazıları ondan yedi, bazıları yemeyi reddetti. Ben de (onlara), \"Peygamber'e (ﷺ) bu konuda soracağım.\" dedim. Peygamber ile karşılaştığımda, ona tüm hikayeyi anlattım. O da bana, \"Sizde ondan kalan bir şey var mı?\" dedi. Ben de, \"Evet.\" dedim. O, \"Ye, çünkü bu, Allah'ın size sunduğu bir yemektir.\" dedi."
+    },
+    {
+      "id": 19,
+      "narrator": "Narrated Jabir:",
+      "text": "Cabir'den rivayet edilmiştir: Bir sefere çıktık ve ordunun adı \"Khabt Ordusu\" idi, komutanımız da Ebu Ubeyde'ydi. Şiddetli bir açlıkla karşılaştık. Sonra deniz, daha önce hiç görülmemiş büyük bir ölü balık olan Al-`Anbar'ı çıkardı. Onu yarım ay boyunca yedik ve sonra Ebu Ubeyde, bir kemiğini aldı (ve ondan bir kemer yaptı) ki bir binek kolayca altından geçebilsin."
+    },
+    {
+      "id": 20,
+      "narrator": "Narrated Jabir:",
+      "text": "Cabir'den rivayet edilmiştir: Peygamber (ﷺ), bizi üç yüz savaşçıdan oluşan bir ordu birimi olarak Ebu Ubeyde'nin komutasında Kureyş kervanını pusuya düşürmek için gönderdi. Ama o kadar şiddetli bir açlıkla karşılaştık ki Khabt (çöl çalıları) yedik, bu yüzden ordumuz \"Khabt Ordusu\" olarak adlandırıldı. Sonra deniz, Al-`Anbar adında büyük bir balık çıkardı ve onu yarım ay boyunca yedik ve vücutlarımızı yağlarıyla ovduk, böylece sağlıklı hale geldik. Sonra Ebu Ubeyde, bir kaburgasını alıp yere sabitledi ve bir binek altından geçti. Aramızda açlık şiddetli hale gelince üç deve kesen bir adam vardı ve üç tane daha kesti, ama sonrasında Ebu Ubeyde ona bunu yapmayı yasakladı."
+    },
+    {
+      "id": 21,
+      "narrator": "Narrated Ibn Abi `Aufa:",
+      "text": "İbn Ebi Aufa'dan rivayet edilmiştir: Peygamber (ﷺ) ile altı veya yedi gazaya katıldık ve onunla birlikte çekirgeleri yerdik."
+    },
+    {
+      "id": 22,
+      "narrator": "Narrated Abu Tha`laba Al-Khushani:",
+      "text": "Ebu Tha'laba El-Huşani'den rivayet edilmiştir: Peygamber'e (ﷺ) geldim ve dedim ki, \"Ey Allah'ın Elçisi (ﷺ)! Biz, Kitap Ehli'nin bulunduğu bir toprakta yaşıyoruz ve yemeklerimizi onların kaplarında yiyoruz, o toprakta av hayvanları var ve ben okumla ve eğitimli köpeğimle ve eğitimsiz köpeğimle avlanıyorum.\" Peygamber (ﷺ) dedi ki, \"Kitap Ehli'nin bulunduğu toprakta olduğunuzu söylemeniz durumunda, eğer başka bir alternatif bulamazsanız, onların kaplarında yemek yememelisiniz, bu durumda kapları yıkamalı ve sonra onlarda yemelisiniz. Av hayvanları olan bir toprakta olduğunuzu söylemeniz durumunda, eğer okla bir şey avlarsanız, avlanırken Allah'ın adını anın ve yiyin; eğer eğitimli köpeğinizle bir şey avlarsanız, gönderirken Allah'ın adını anın ve yiyin; eğer eğitimsiz köpeğinizle bir şey avlarsanız ve onu canlı yakalarsanız, onu kesin ve ondan yiyebilirsiniz.\""
+    },
+    {
+      "id": 23,
+      "narrator": "Narrated Salama bin Al-Aqwa':",
+      "text": "Selame b. El-Akva'dan rivayet edilmiştir: Hayber'in fethinin akşamında, ordu ateşler yaktı (pişirmek için). Peygamber (ﷺ) dedi ki, \"Bu ateşleri ne için yaktınız?\" Onlar, \"Evcil eşeklerin etini pişirmek için.\" dediler. O da, \"Pişirme tencerelerindeki her şeyi atın ve tencereleri kırın.\" Bir adam halktan kalktı ve dedi ki, \"Pişirme tencerelerinin içindekileri atıp sonra tencereleri yıkayalım mı (kırmak yerine)?\" Peygamber (ﷺ) dedi ki, \"Evet, her ikisini de yapabilirsiniz.\""
+    },
+    {
+      "id": 24,
+      "narrator": "Narrated Rafi` bin Khadij:",
+      "text": "Rafi' b. Hadic'den rivayet edilmiştir: Peygamber (ﷺ) ile Dhul-Hulaifa'daydık ve orada insanlar şiddetli bir açlıkla karşılaştılar. Sonra develer ve koyunlar ele geçirdik (ve kestik). Peygamber (ﷺ) insanların arkasındaydı. İnsanlar aceleyle pişirme tencerelerini (pişirmek için) kurdular ama Peygamber (ﷺ) oraya geldi ve pişirme tencerelerinin ters çevrilmesini emretti. Sonra hayvanları dağıttı ve on koyunun bir deveyi eşit saydı. Bir deveyi kaçtı ve insanların yanında birkaç at vardı. Onlar deveyi kovaladılar ama yoruldular, bunun üzerine bir adam onu bir okla vurdu ve Allah onu durdurdu. Peygamber (ﷺ) dedi ki, \"Bu hayvanların bazıları vahşi hayvanlar kadar vahşidir, bu yüzden eğer birisi sizden kaçarsa, onu bu şekilde muamele edin.\" Ben de, \"Yarın düşmanla karşılaşmayı umuyoruz ya da korkuyoruz ve bıçaklarımız yok, hayvanlarımızı sopa ile mi keselim?\" dedim. Peygamber (ﷺ) dedi ki, \"Eğer öldürme aracı kanı fışkırtıyorsa ve Allah'ın adı anılıyorsa, (kesilen hayvandan) yiyin. Ama bir dişle veya bir tırnakla kesmeyin. Size neden bunu söylediğimi anlatıyorum: Diş bir kemiktir ve tırnak, Habeşlilerin bıçağıdır.\""
+    },
+    {
+      "id": 25,
+      "narrator": "Narrated `Abdullah:",
+      "text": "Abdullah'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) Zeyd b. Amr Nufail ile Baldah yakınlarında bir yerde karşılaştı ve bu, Allah'ın Elçisi (ﷺ) vahiy almadan önce oldu. Allah'ın Elçisi (ﷺ) Zeyd b. Amr'a (putperestler tarafından sunulan) bir et tabağı sundu, ama Zeyd ondan yemeyi reddetti ve sonra (putperestlere) dedi ki, \"Ben sizin taş sunaklarınızda (Ansab) kesilenlerden yemem, yalnızca Allah'ın adı anılarak kesilenlerden yerim.\""
+    },
+    {
+      "id": 26,
+      "narrator": "Narrated Jundub bin Sufyan Al-Bajali:",
+      "text": "Cündüb b. Süfyân El-Bacelî'den rivayet edilmiştir: Bir zamanlar Allah'ın Elçisi (ﷺ) döneminde bazı hayvanları kurban ettik. Bazı insanlar kurbanlarını (İd) namazından önce kestiler, bu yüzden Peygamber (ﷺ) namazını bitirdiğinde, onların kurbanlarını namazdan önce kestiklerini gördü. O da, \"Kim (kurbanını) namazdan önce kesmişse, onun yerine (başka bir kurban) kesmelidir; ve kim henüz kesmemişse, biz namaz kılana kadar, Allah'ın adını anarak kesmelidir.\" dedi."
+    },
+    {
+      "id": 27,
+      "narrator": "Narrated Ka`b:",
+      "text": "Ka'b'dan rivayet edilmiştir: Onların bir cariyesi, Si'a (Medine yakınlarında bir dağ) üzerinde bazı koyunları güderdi. Koyunlarından biri ölmekte olduğunu görünce, bir taş kırdı ve onu kesti. Ka'b ailesine, \"Onu yemeyin (tahammül etmeyin) ta ki ben Peygamber'e (ﷺ) gidip ona sorayım, ya da birini gönderip ona sorayım.\" dedi. Böylece o, Peygamber'e (ﷺ) gitti veya ona birini gönderdi. Peygamber (ﷺ) onlara onu yemelerine izin verdi."
+    },
+    {
+      "id": 28,
+      "narrator": "Narrated `Abdullah:",
+      "text": "Abdullah'dan rivayet edilmiştir: Ka'b'ın, pazara yakın bir \"Sl'a\" adlı küçük bir dağda koyunlarını otlatan bir cariyesi vardı. Bir koyun ölmekteydi, bu yüzden bir taş kırdı ve onunla kesti. Bunu Peygamber'e söylediklerinde, o, onlara onu yemelerine izin verdi."
+    },
+    {
+      "id": 29,
+      "narrator": "Narrated Rafi` bin Khadij:",
+      "text": "Rafi' b. Hadic'den rivayet edilmiştir: O, \"Ey Allah'ın Elçisi (ﷺ)! Bizim bıçak yok.\" dedi. Peygamber (ﷺ) dedi ki, \"Eğer öldürme aracı kanı fışkırtıyorsa ve Allah'ın adı anılıyorsa, (kesilen hayvandan) yiyin. Ama bir tırnakla veya bir dişle kesmeyin, çünkü tırnak Habeşlilerin bıçağıdır ve diş bir kemiktir.\" Aniden bir deve kaçtı ve bir okla durduruldu. Peygamber (ﷺ) sonra dedi ki, \"Bu develerin bazıları vahşi hayvanlar kadar vahşidir; bu yüzden eğer birisi sizden kaçarsa ve onu yakalayamazsanız, onu bu şekilde muamele edin (yani okla vurun).\""
+    },
+    {
+      "id": 30,
+      "narrator": "Narrated Ka`b bin Malik:",
+      "text": "Ka'b b. Malik'den rivayet edilmiştir: Bir kadın bir koyunu bir taşla kesti ve sonra Peygamber'e (ﷺ) bu konuda soruldu ve ona yenmesine izin verildi."
+    },
+    {
+      "id": 31,
+      "narrator": "Narrated Mu`adh bin Sa`d or Sa`d bin Mu`adh:",
+      "text": "Mu`adh bin Sa`d veya Sa`d bin Mu`adh'dan rivayet edilmiştir: Ka`b'a ait bir cariye, Sl'a (dağı) civarında bazı koyunları otlatıyordu. Bir gün koyunlarından biri ölmekteydi. O, (ölmeden önce) ona ulaştı ve bir taşla onu kesip boğazladı. Peygamber (ﷺ) soruldu, o da, \"Onu ye.\" dedi."
+    },
+    {
+      "id": 32,
+      "narrator": "Narrated Rafi` bin Khadij:",
+      "text": "Rafi` bin Khadij'den rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Kan akıtan herhangi bir aletle kesilen şeyi ye, ancak dişle veya tırnakla kesilenleri yeme.\""
+    },
+    {
+      "id": 33,
+      "narrator": "Narrated `Aisha:",
+      "text": "`Aişe'den rivayet edilmiştir: Bir grup insan Peygamber'e, \"Bazı insanlar bize et getiriyor ve hayvanı keserken Allah'ın adını anıp anmadıklarını bilmiyoruz.\" dediler. O da, \"Üzerine Allah'ın adını an ve ye.\" dedi. O insanlar yeni Müslüman olmuşlardı."
+    },
+    {
+      "id": 34,
+      "narrator": "Narrates `Abdullah bin Mughaffal:",
+      "text": "`Abdullah bin Mughaffal'den rivayet edilmiştir: Khaibar kalesini kuşatırken, birisi yağ dolu bir deriyi fırlattı ve ben onu almak için ilerledim, ama arkamı döndüğümde Peygamber (ﷺ)'i gördüm ve onun huzurunda utanıp onu almadım."
+    },
+    {
+      "id": 35,
+      "narrator": "Narrated Rafi` bin Khadij:",
+      "text": "Rafi` bin Khadij'den rivayet edilmiştir: Ben, \"Ey Allah'ın Elçisi (ﷺ)! Yarın düşmanla karşılaşacağız ve elimizde bıçak yok.\" dedim. O da, \"Hızlan (hayvanı kesmekte). Eğer kesme aleti kan akıtıyorsa ve Allah'ın adı anılıyorsa, (kesilen hayvandan) ye. Ama dişle veya tırnakla kesme. Bunun sebebini söyleyeyim: Diş bir kemiktir; tırnak ise Habeşlilerin bıçağıdır.\" Sonra bazı develer ve koyunlar savaş ganimeti olarak elde ettik ve o develerden biri kaçtı, bunun üzerine bir adam onu bir okla vurup durdurdu. Allah'ın Elçisi (ﷺ) dedi ki, \"Bu develerden bazıları vahşi hayvanlar kadar yabanidir, eğer biri (kaçarsa ve) seni yorar, onu bu şekilde tedavi et.\""
+    },
+    {
+      "id": 36,
+      "narrator": "Narrated Asma bint Abu Bakr:",
+      "text": "Asma bint Ebu Bekir'den rivayet edilmiştir: Peygamber (ﷺ) döneminde bir at kestik (Nahr ile) ve onu yedik."
+    },
+    {
+      "id": 37,
+      "narrator": "Narrated Asma':",
+      "text": "Asma'dan rivayet edilmiştir: Medine'de Allah'ın Elçisi (ﷺ) döneminde bir at kestik (Dhabh ile) ve onu yedik."
+    },
+    {
+      "id": 38,
+      "narrator": "Narrated Asma' bint Abu Bakr:",
+      "text": "Asma bint Ebu Bekir'den rivayet edilmiştir: Peygamber (ﷺ) döneminde bir at kestik (Nahr ile) ve onu yedik."
+    },
+    {
+      "id": 39,
+      "narrator": "Narrated Hisham bin Zaid:",
+      "text": "Hişam bin Zaid'den rivayet edilmiştir: Anas ve ben Al-Hakam bin Aiyub'a gittik. Anas, bazı çocukların bağlı bir tavuğa ok attığını gördü. Anas, \"Peygamber, bağlı veya hapsedilmiş hayvanlara ok atmayı yasakladı.\" dedi."
+    },
+    {
+      "id": 40,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn `Umar'dan rivayet edilmiştir: Yahya bin Sa`id'in yanına girdiğinde, Yahya'nın oğullarından biri bir tavuğu bağladıktan sonra ona nişan alıyordu. İbn `Umar ona doğru yürüdü ve tavuğu çözdü. Sonra onu ve çocuğu getirdi ve dedi ki: \"Çocuklarınızı, hayvanları öldürmek amacıyla bağlamaktan alıkoyun, çünkü ben Peygamber (ﷺ)'in onları bağladıktan sonra bir hayvanı veya başka bir canlıyı öldürmeyi yasakladığını duydum.\""
+    },
+    {
+      "id": 41,
+      "narrator": "Narrated Sa`id bin Jubair:",
+      "text": "Sa`id bin Cubeyr'den rivayet edilmiştir: İbn `Umar ile birlikteyken, bağlı bir tavuğu vuran bir grup gençten geçtik. İbn `Umar'ı görünce dağıldılar, tavuk orada kaldı. Bunun üzerine İbn `Umar dedi ki: \"Bunu kim yaptı? Peygamber (ﷺ) bunu yapanı lanetledi.\""
+    },
+    {
+      "id": 42,
+      "narrator": "Narrated `Abdullah bin Yazid:",
+      "text": "İbn `Umar'dan rivayet edilmiştir: Peygamber (ﷺ) bir hayvana Muthla yapanı (yani, canlıyken uzuvlarını veya başka bir parçasını keseni) lanetledi."
+    },
+    {
+      "id": 43,
+      "narrator": "Narrated Abu Musa Al-Ash`ari:",
+      "text": "`Abdullah bin Yazid'den rivayet edilmiştir: Peygamber (ﷺ) An-Nuhba ve Al-Muthla'yı yasakladı."
+    },
+    {
+      "id": 44,
+      "narrator": "Narrated Zahdam:",
+      "text": "Ebu Musa el-Eş'ari'den rivayet edilmiştir: Peygamber (ﷺ)'in tavuk yediğini gördüm."
+    },
+    {
+      "id": 45,
+      "narrator": "Narrated Asma':",
+      "text": "Zahdam'dan rivayet edilmiştir: Ebu Musa el-Eş'ari'nin yanında idik ve bu Jarm kabilesiyle aramızda dostane ilişkiler vardı. Ebu Musa'ya tavuk içeren bir tabak sunuldu. Orada oturan bir kırmızı yüzlü adam yiyeceğe yaklaşmadı. Ebu Musa ona, \"Gel (ve ye), çünkü ben Allah'ın Elçisi (ﷺ)'nin ondan (yani tavuktan) yediğini gördüm.\" dedi. O da, \"Ben onun bir şey (pis) yediğini gördüm ve o günden beri ondan tiksindim, yemeyeceğime yemin ettim.\" dedi. Ebu Musa, \"Gel, sana anlatayım (veya rivayet edeyim). Bir zamanlar Al-Aş'ariyin bir grubuyla Allah'ın Elçisi'ne gittim ve onu sinirli bir şekilde, bazı develeri dağıtırken buldum. Binek istedik ama o, bize hiçbir binek vermeyeceğine yemin etti ve 'Sizi bindirecek bir şeyim yok.' dedi. Bu sırada Allah'ın Elçisi'ne ganimet develeri getirildi ve iki kez, 'Al-Aş'ariyin nerede?' diye sordu. Böylece bize büyük humplu beş beyaz deve verdi. Kısa bir süre (biraz mesafe katettikten sonra) ben arkadaşlarıma, 'Allah'ın Elçisi (ﷺ) yeminini unuttu.' dedim. Vallahi, eğer Allah'ın Elçisi'ni yemininden haberdar etmezsek, asla başarılı olamayız.\" dedim. Böylece Peygamber (ﷺ)'e geri döndük ve dedik ki, \"Ey Allah'ın Elçisi (ﷺ)! Biz sizden binek istedik ama siz, bize binek vermeyeceğinize yemin ettiniz; yeminizi unuttuğunuzu düşünüyoruz.\" O da, \"Binekleri size veren Allah'tır. Vallahi, eğer ben bir yemin edersem ve sonra ondan daha iyi bir şey bulursam, o zaman daha iyisini yaparım ve yeminimi kefaretle öderim.\" dedi."
+    },
+    {
+      "id": 46,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Jabir bin `Abdullah'dan rivayet edilmiştir: Khaibar Savaşı günü, Allah'ın Messenger'ı (ﷺ) eşek etini haram kıldı ve at etinin yenmesine izin verdi."
+    },
+    {
+      "id": 47,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn `Umar'dan rivayet edilmiştir: Peygamber (ﷺ) Khaibar Savaşı günü eşek etini haram kıldı."
+    },
+    {
+      "id": 48,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn `Umar'dan rivayet edilmiştir: Peygamber (ﷺ) eşek etinin yenmesini yasakladı."
+    },
+    {
+      "id": 49,
+      "narrator": "Narrated `Ali:",
+      "text": "`Ali'den rivayet edilmiştir: Allah'ın Messenger'ı (ﷺ) Khaibar Savaşı yılı Al-Mut'a evliliğini ve eşek etinin yenmesini yasakladı."
+    },
+    {
+      "id": 50,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Jabir bin `Abdullah'dan rivayet edilmiştir: Peygamber (ﷺ) Khaibar Savaşı günü eşek etinin yenmesini yasakladı ve at etinin yenmesine izin verdi."
+    },
+    {
+      "id": 51,
+      "narrator": "Narrated Al-Bara' and Ibn Abi `Aufa:",
+      "text": "Al-Bara' ve İbn Abi `Aufa'dan rivayet edilmiştir: Peygamber (ﷺ) eşek etinin yenmesini yasakladı."
+    },
+    {
+      "id": 52,
+      "narrator": "Narrated Abu Tha'alba:",
+      "text": "Ebu Tha'laba'dan rivayet edilmiştir: Allah'ın Messenger'ı (ﷺ) eşek etinin yenmesini yasakladı."
+    },
+    {
+      "id": 53,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Az-Zuhri'den rivayet edilmiştir:"
+    },
+    {
+      "id": 54,
+      "narrator": "Narrated `Amr:",
+      "text": "Peygamber (ﷺ) dişleri olan hayvanların yenmesini yasakladı."
+    },
+    {
+      "id": 55,
+      "narrator": "Narrated Abu Tha`laba:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir: Birisi Allah'ın Messenger'ına (ﷺ) geldi ve \"Eşekler (kesildi ve) yenildi.\" dedi. Başka bir adam geldi ve \"Eşekler yok edildi.\" dedi. Bunun üzerine Peygamber (ﷺ) bir çağrıcıyı insanlara ilan etmesi için görevlendirdi: \"Allah ve O'nun Elçisi, size eşek etini yemeyi yasaklıyor, çünkü o kirli.\" Böylece tencereler ters çevrildi, eşek eti içinde kaynarken."
+    },
+    {
+      "id": 56,
+      "narrator": "Narrated `Abdullah bin `Abbas:",
+      "text": "`Amr'dan rivayet edilmiştir: Jabir bin Zaid'e dedim ki, \"İnsanlar Allah'ın Messenger'ının (ﷺ) eşek etini yemeyi yasakladığını iddia ediyor.\" O da dedi ki, \"Al-Hakam bin `Amr Al-Ghifari bizimle birlikteyken böyle derdi, fakat büyük din âlimi İbn `Abbas kesin bir hüküm vermeyi reddetti ve şöyle okudu: 'De ki: Bana vahyedilenlerde, onu yemek isteyen birine haram kılınmış bir şey bulamıyorum, ancak leş, dökülen kan veya domuz eti dışında...' (6.145)"
+    },
+    {
+      "id": 57,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "Ebu Tha'laba'dan rivayet edilmiştir: Allah'ın Messenger'ı (ﷺ) dişleri olan hayvanların etinin yenmesini yasakladı."
+    },
+    {
+      "id": 58,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "`Abdullah bin `Abbas'tan rivayet edilmiştir: Bir gün Allah'ın Messenger'ı (ﷺ) ölü bir koyunun yanından geçti ve insanlara, \"Neden derisini kullanmıyorsunuz?\" dedi. Onlar, \"Ama o ölü,\" dediler. O da, \"Sadece onu yemek yasaktır.\" dedi."
+    },
+    {
+      "id": 59,
+      "narrator": "Narrated Abu Musa:",
+      "text": "İbn `Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) ölü bir keçinin yanından geçti ve \"Sahipleri derisinden faydalanırsa bir sakınca yoktur.\" dedi."
+    },
+    {
+      "id": 60,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Messenger'ı (ﷺ) dedi ki, \"Allah yolunda yaralanan hiç kimse, Kıyamet Günü yarası kanar vaziyette gelmeyecek. Yarısından çıkan şey kan rengi olacak, ama kokusu misk kokusu olacaktır.\""
+    },
+    {
+      "id": 61,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn `Umar'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Ben mastigure yemem, ama onun yenmesini de yasaklamıyorum.\""
+    },
+    {
+      "id": 62,
+      "narrator": "Narrated Khalid bin Al-Walid:",
+      "text": "Halid bin Velid'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) ile birlikte Maimuna'nın evine girdik. Kızartılmış bir mastigure getirildi. Allah'ın Elçisi (ﷺ) elini uzattı (onu yemek için) ama bazı kadınlar, \"Allah'ın Elçisine (ﷺ) ne yediğini bildiriniz.\" dediler. Onlar da, \"Bu mastigure, ey Allah'ın Elçisi (ﷺ)!\" dediler. O, elini geri çekti, bunun üzerine ben, \"Ey Allah'ın Elçisi (ﷺ)! Bu haram mı?\" dedim. O, \"Hayır, ama bu benim halkımın topraklarında bulunmuyor, bu yüzden hoşlanmıyorum.\" dedi. Ben de mastigureyi kendime çektim ve Allah'ın Elçisi (ﷺ) bakarken onu yedim."
+    },
+    {
+      "id": 63,
+      "narrator": "Narrated Maimuna:",
+      "text": "Maimuna'dan rivayet edilmiştir: Bir fare tereyağına düştü ve öldü. Peygamber (ﷺ) bu konuda soruldu. O, \"Fareyi ve etrafındaki tereyağını atın, geri kalan tereyağını yiyin.\" dedi."
+    },
+    {
+      "id": 64,
+      "narrator": "Narrated Az-Zhuri:",
+      "text": "Az-Zhuri'den rivayet edilmiştir: Katı veya sıvı yağ veya tereyağına düşen bir hayvan, örneğin bir fare hakkında: Bana, bir farenin tereyağında öldüğü bildirildi, bunun üzerine Allah'ın Elçisi (ﷺ) etrafındaki tereyağının atılmasını ve geri kalan tereyağının yenilebileceğini emretti."
+    },
+    {
+      "id": 65,
+      "narrator": "Narrated Maimuna:",
+      "text": "Maimuna'dan rivayet edilmiştir: Peygamber (ﷺ) tereyağına düşen (ve ölen) bir fare hakkında soruldu. O, \"Fareyi ve etrafındaki tereyağını atın, geri kalanını yiyin.\" dedi."
+    },
+    {
+      "id": 66,
+      "narrator": "Narrated Salim:",
+      "text": "Salim'den rivayet edilmiştir: İbn `Umar, hayvanların yüzüne damgalanmasını hoş görmüyordu. İbn `Umar dedi ki: \"Peygamber (ﷺ) hayvanların yüzüne vurulmasını yasakladı.\""
+    },
+    {
+      "id": 67,
+      "narrator": "Narrated Anas:",
+      "text": "Anas'tan rivayet edilmiştir: Bir kardeşimi Peygamber (ﷺ)'e getirdim, O da onun için Tahnik yaptı. Peygamber (ﷺ) kendi koyun sürüsündeydi ve ben onu bir koyunu damgalarken gördüm. (Alt rivayet eden kişi: Anas'ın, onu kulağından damgaladığını düşündüğünü söyledi.)"
+    },
+    {
+      "id": 68,
+      "narrator": "Narrated Rait' bin Khadij:",
+      "text": "Rait' bin Khadij'den rivayet edilmiştir: Peygambere, \"Yarın düşmanla karşılaşacağız ve bizim kesim için bıçaklarımız yok.\" dedim. O, \"Eğer hayvanı kanının akmasına neden olacak bir şeyle keserseniz ve kesim sırasında Allah'ın adı anılırsa, ondan yiyin, ancak kesim aracı diş veya tırnak olmasın. Bunun nedenini söyleyeyim: Diş bir kemiktir; tırnak ise Habeşlilerin bıçağıdır.\" İnsanların hızlı olanları ganimeti alırken, Peygamber (ﷺ) insanların arkasındaydı. Onlar pişirme kaplarını ateşe koydular, ama Peygamber (ﷺ) pişirme kaplarının ters çevrilmesini emretti. Sonra ganimeti aralarında dağıttı, bir deve on koyuna eşit olarak kabul edildi. Sonra ilk grup insanlardan birinin devesi kaçtı ve yanlarında at yoktu, bu yüzden bir adam onu bir okla vurdu ve Allah onu durdurdu. Peygamber (ﷺ) dedi ki: \"Bu hayvanlardan bazıları vahşi hayvanlar kadar yabanidir. Eğer bunlardan biri böyle kaçarsa, böyle yapın (okla vurun).\""
+    },
+    {
+      "id": 69,
+      "narrator": "Narrated Rafi` bin Khadij:",
+      "text": "Rafi` bin Khadij'den rivayet edilmiştir: Peygamber (ﷺ) ile bir yolculukta iken, develerden biri kaçtı. Bir adam onu okla vurdu ve durdurdu. Peygamber (ﷺ) dedi ki: \"Bu develerden bazıları vahşi hayvanlar kadar yabanidir, eğer biri kaçarsa ve onu yakalayamazsanız, o zaman böyle yapın (okla vurun).\" Ben dedim ki: \"Ey Allah'ın Elçisi! Bazen savaşlarda veya yolculukta hayvanları kesmek istiyoruz ama bıçaklarımız yok.\" O, \"Dinleyin! Eğer hayvanı kanının akmasına neden olacak bir şeyle keserseniz ve kesim sırasında Allah'ın adı anılırsa, ondan yiyin, şartıyla ki kesim aracı diş veya tırnak olmasın, çünkü diş bir kemiktir ve tırnak Habeşlilerin bıçağıdır.\" dedi."
+    }
+  ]
+}

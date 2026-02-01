@@ -1,0 +1,756 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 148,
+    "arabic": {
+      "title": "صحيح البخاري",
+      "author": "الإمام محمد بن إسماعيل البخاري"
+    },
+    "english": {
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Muhammad ibn Ismail al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Narrated Abu Dhar:",
+      "text": "Ebu Zer'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Rabbimden bana gelen birisi, eğer benim takipçilerimden biri Allah ile birlikte başka birine ibadet etmeden ölürse, cennete gireceğini müjdeledi.\" Ben sordum: \"Haram bir ilişki (zina) ve hırsızlık yapmış olsa bile mi?\" O cevap verdi: \"Haram bir ilişki (zina) ve hırsızlık yapmış olsa bile.\""
+    },
+    {
+      "id": 2,
+      "narrator": "Narrated `Abdullah:",
+      "text": "Abdullah'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Allah ile birlikte başkalarına ibadet ederek ölen kimse kesinlikle ateşe girecektir.\" Ben dedim: \"Allah ile birlikte hiç kimseye ibadet etmeden ölen kimse kesinlikle cennete girecektir.\""
+    },
+    {
+      "id": 3,
+      "narrator": "Narrated Al-Bara' bin `Azib:",
+      "text": "El-Bara' bin Azib'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) bize yedi şey yapmamızı emretti ve yedi şeyden de sakındırdı. Bize emretti: cenaze alayını takip etmek, hasta ziyaret etmek, davetleri kabul etmek, mazlumlara yardım etmek, yeminleri yerine getirmek, selamı iade etmek ve hapşıran kişiye \"Allah sana merhamet etsin\" demek (hapşıran kişi \"Bütün övgüler Allah'a aittir\" derse). Bize gümüş kaplar ve tabaklar kullanmayı ve altın yüzük takmayı, ipek (elbise), dibac (saf ipek kumaş), kısî ve istabraq (iki tür ipek kumaş) giymeyi yasakladı."
+    },
+    {
+      "id": 4,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Bir Müslümanın Müslümanlar üzerindeki hakları beştir: selama cevap vermek, hasta ziyaret etmek, cenaze alayını takip etmek, daveti kabul etmek ve hapşıranlara cevap vermek.\" (bkz. Hadis 1239)"
+    },
+    {
+      "id": 5,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Ebu Bekir, As-Sunh'taki evinden atıyla geldi. Ondan indi, camiye girdi ve kimseyle konuşmadan doğrudan Peygamber'e gitti; Peygamber, işaretli bir örtüyle örtülüydü. Ebu Bekir yüzünü açtı, diz çökerek onu öptü ve ağlamaya başladı ve şöyle dedi: \"Babam ve annem sana feda olsun, Ey Allah'ın Elçisi! Allah seni iki ölümle bir araya getirmeyecek. Sen, senin için yazılmış olan ölümü tattın.\" Ebu Salama, İbn Abbas'tan rivayet etti: Ebu Bekir dışarı çıktı ve Ömer, insanlara hitap ediyordu; Ebu Bekir ona oturmasını söyledi ama Ömer reddetti. Ebu Bekir tekrar ona oturmasını söyledi ama Ömer yine reddetti. Sonra Ebu Bekir, Tashahhud'u okudu (yani, Allah'tan başka ibadet edilecek yoktur ve Muhammed Allah'ın Elçisi'dir (ﷺ)) ve insanlar Ebu Bekir'e yöneldi ve Ömer'i bıraktılar. Ebu Bekir dedi: \"Amma ba'du, içinizden kim Muhammed'e ibadet ettiyse, Muhammed ölmüştür; ama kim Allah'a ibadet ettiyse, Allah hayattadır ve asla ölmeyecektir. Allah şöyle buyurdu: 'Muhammed, yalnızca bir Elçidir ve gerçekten (birçok) Elçiler ondan önce geçmiştir .. (şu ana kadar) şükredenlerden.' \" (3.144) (Rivayet eden ekledi: \"Vallahi, insanlar bu ayetin daha önce Allah tarafından indirildiğini bilmiyorlardı, ta ki Ebu Bekir bunu okudu ve onu duyan herkes okumaya başladı.\")"
+    },
+    {
+      "id": 6,
+      "narrator": "Narrated Kharija bin Zaid bin Thabit:",
+      "text": "Kharija bin Zaid bin Sabit'ten rivayet edilmiştir: Ansar kadınlarından Um Al-Ala', Peygamber'e (ﷺ) biat eden bir kadın, bana şöyle dedi: \"Muhacirler arasında kura çekilerek paylaştırıldık ve bizim payımıza Uthman bin Maz'un düştü. Onu evimizde misafir ettik. Sonra bir hastalığa yakalandı ve bu hastalık ölümcül oldu; öldüğünde yıkanıp, elbiseleriyle kefenlendi. Allah'ın Elçisi (ﷺ) geldi; ben dedim: 'Ey Ebu As-Sa'ib! Allah sana merhamet etsin! Allah'ın seni onurlandırdığına şahitlik ediyorum.' Peygamber (ﷺ) dedi: 'Onun Allah tarafından onurlandırıldığını nereden biliyorsun?' Ben cevap verdim: 'Ey Allah'ın Elçisi (ﷺ)! Babam sana feda olsun! Allah kime onur verecek, başka kimseye mi?' Peygamber (ﷺ) dedi: 'Şüphesiz, ona ölüm geldi. Vallahi, ben de ona hayır diliyorum ama vallahi, ben Allah'ın benimle ne yapacağını bilmiyorum, ben Allah'ın Elçisi (ﷺ) olmama rağmen.' Vallahi, ondan sonra hiç kimsenin takvasını tasdik etmedim.\""
+    },
+    {
+      "id": 7,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "El-Laith de yukarıdaki gibi rivayet etmiştir."
+    },
+    {
+      "id": 8,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Cabir bin Abdullah'dan rivayet edilmiştir: Babam şehit olduğunda, yüzündeki örtüyü kaldırdım ve ağladım; insanlar bunu yapmamı yasakladı ama Peygamber (ﷺ) bana yasaklamadı. Sonra teyzem Fatıma ağlamaya başladı ve Peygamber (ﷺ) dedi: \"Ağlamanız fark etmez, ister ağlayın ister ağlamayın. Melekler, onu sürekli kanatlarıyla gölgeliyorlardı ta ki onu (sahadan) kaldırana kadar.\""
+    },
+    {
+      "id": 9,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) An-Necashi'nin ölümünü, öldüğü gün insanlara bildirdi. Musalla'ya (namaz yeri) doğru gitti ve insanlar arkasında saf oldu. Dört tekbir aldı (yani cenaze namazı kıldı)."
+    },
+    {
+      "id": 10,
+      "narrator": "Narrated Ibn `Abbas.:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir: Peygamber (ﷺ) dedi: \"Zeyd bayrağı aldı ve şehit oldu. Sonra bayrağı Cafer aldı, o da şehit oldu. Sonra Abdullah bin Rawaha bayrağı aldı ama o da şehit oldu ve o sırada Allah'ın Elçisi (ﷺ) gözleri yaşla doluydu. Sonra Halid bin Velid, önceden bir lider olarak atanmadığı halde bayrağı aldı ve zaferle mükafatlandırıldı.\""
+    },
+    {
+      "id": 11,
+      "narrator": "Narrated Anas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Bir kişi öldü ve Allah'ın Elçisi (ﷺ) onu ziyaret ediyordu. O gece öldü ve (insanlar) onu gece gömdü. Sabah, Peygamber'e (ölümünden) haber verdiler. O dedi: \"Beni bilgilendirmekten ne engel oldu?\" Onlar cevap verdiler: \"Geceydi ve karanlık bir geceydi, bu yüzden seni rahatsız etmek istemedik.\" Peygamber (ﷺ) mezarına gitti ve (cenaze) namazını kıldı."
+    },
+    {
+      "id": 12,
+      "narrator": "Narrated Abu Sa`id:",
+      "text": "Enes'ten rivayet edilmiştir: Peygamber (ﷺ) dedi: \"Üç çocuğu ergenlik çağına girmeden ölen bir Müslüman, Allah tarafından onlara olan merhameti nedeniyle cennete girecektir.\""
+    },
+    {
+      "id": 13,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Said'den rivayet edilmiştir: Kadınlar Peygamber'e, \"Lütfen bizim için bir gün belirle,\" dediler. Peygamber (ﷺ) onlara vaaz etti ve şöyle dedi: \"Üç çocuğu ölen bir kadın, onlarla cehennem ateşinden korunacaktır.\" Bunu duyan bir kadın sordu: \"Ya iki çocuk ölürse?\" Peygamber (ﷺ) cevap verdi: \"İki (çocuk da onu cehennem ateşinden korur).\" Ve Ebu Hureyre ekledi: \"O çocuklar ergenlik çağına girmemiş olmalıdır.\""
+    },
+    {
+      "id": 14,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) dedi: \"Üç çocuğu ölen hiçbir Müslüman cehenneme gitmeyecek, ancak Allah'ın yemini (yani herkes ateş gölünün üzerindeki köprüden geçmek zorundadır).\""
+    },
+    {
+      "id": 15,
+      "narrator": "Narrated Um 'Atiyya al-Ansariya:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir: Peygamber (ﷺ) bir kadının mezarın yanında oturup ağladığını gördü ve ona şöyle dedi: \"Allah'tan kork ve sabırlı ol.\""
+    },
+    {
+      "id": 16,
+      "narrator": "Narrated Um 'Atiyya:",
+      "text": "Um 'Atiyya'dan rivayet edilmiştir: Allah'ın Messenger'i (ﷺ) bize geldi ve biz onun (ölü) kızına yıkama yapıyorduk ve şöyle dedi: \"Onu üç, beş veya daha fazla kez su ve sidr ile yıkayın ve sonunda üzerine kafur serpin; ve işinizi bitirdiğinizde bana haber verin.\" Biz işimizi bitirdiğimizde ona haber verdik ve o bize sarığını verdi ve onu bununla kefenlememizi söyledi. Eyyub, Hafsa'nın, Muhammed'in rivayetine benzer bir rivayet aktardığını söyledi; burada yıkanmanın tek sayıda yapılması gerektiği ve 3, 5 veya 7 sayılarının zikredildiği belirtilmiştir. Ayrıca sağ taraftan başlanması ve abdestte yıkanan kısımlardan başlanması gerektiği de söylenmiştir; Um 'Atiyya da \"Saçını taradık ve üç örgüye ayırdık.\" demiştir."
+    },
+    {
+      "id": 17,
+      "narrator": "Narrated Um 'Atiyya:",
+      "text": "Um 'Atiyya'dan rivayet edilmiştir: Allah'ın Messenger'i (ﷺ), onun (ölü) kızının yıkanması hakkında şöyle dedi: \"Sağ taraftan başlayın ve abdestte yıkanan kısımlardan başlayın.\""
+    },
+    {
+      "id": 18,
+      "narrator": "Narrated Um 'Atiyya:",
+      "text": "Um 'Atiyya'dan rivayet edilmiştir: Peygamberin vefat eden kızını yıkarken, o bize şöyle dedi: \"Yıkamaya sağ taraftan ve abdestte yıkanan kısımlardan başlayın.\""
+    },
+    {
+      "id": 19,
+      "narrator": "Narrated Um 'Atiyya:",
+      "text": "Um 'Atiyya'dan rivayet edilmiştir: Peygamberin (ﷺ) kızı vefat etti ve o bize şöyle dedi: \"Onu üç veya beş kez, ya da gerekli görürseniz daha fazla yıkayın ve işinizi bitirdiğinizde bana haber verin.\" Biz işimizi bitirdiğimizde ona haber verdik ve o sarığını çözdü ve onu bununla kefenlememizi söyledi."
+    },
+    {
+      "id": 20,
+      "narrator": "Narrated Muhammad:",
+      "text": "Muhammed'den rivayet edilmiştir: Um 'Atiyya şöyle dedi: \"Peygamberin (ﷺ) kızlarından biri vefat etti ve o dışarı çıktı ve 'Onu üç veya beş kez ya da gerekli görürseniz daha fazla yıkayın, su ve sidr ile, ve en son kafur koyun ve işinizi bitirdiğinizde bana haber verin.' dedi.\" Um 'Atiyya ekledi: \"Biz işimizi bitirdiğimizde ona haber verdik ve o bize sarığını verdi ve 'Onu bununla kefenleyin.' dedi.\" Ve Um 'Atiyya (başka bir rivayette) ekledi: \"Peygamber (ﷺ) şöyle dedi: 'Onu üç, beş veya yedi kez ya da gerekli görürseniz daha fazla yıkayın.' \" Hafsa, Um 'Atiyya'nın da \"Saçını üç örgüye sardık.\" dediğini aktardı."
+    },
+    {
+      "id": 21,
+      "narrator": "Narrated Hafsa bint Seereen:",
+      "text": "Hafsa bint Seereen'den rivayet edilmiştir: Um 'Atiyya, Allah'ın Messenger'inin (ﷺ) kızının saçını üç örgüye sardıklarını söyledi. Önce saçını açtılar, yıkadılar ve sonra üç örgüye sardılar."
+    },
+    {
+      "id": 22,
+      "narrator": "Narrated Ibn Seereen:",
+      "text": "İbn Seereen'den rivayet edilmiştir: Um 'Atiyya (Peygamber'e (ﷺ) biat eden bir Ensar kadını) Basra'ya oğlu için ziyarete geldi, ama onu bulamadı. O bize şöyle anlattı: \"Peygamber (ﷺ) bize geldi, biz onun (ölü) kızına yıkama yapıyorduk, o şöyle dedi: 'Onu üç, beş veya daha fazla kez, eğer gerekli görüyorsanız, su ve sidr ile yıkayın ve en son kafur koyun, ve işinizi bitirdiğinizde bana haber verin.' \" Um 'Atiyya ekledi: \"İşimizi bitirdikten sonra ona haber verdik ve o bize sarığını verdi ve onu bununla kefenlememizi söyledi ve daha fazlasını söylemedi.\""
+    },
+    {
+      "id": 23,
+      "narrator": "Narrated Um 'Atiyya:",
+      "text": "Um 'Atiyya'dan rivayet edilmiştir: Peygamberin (ﷺ) vefat eden kızının saçını üç örgüye sardık. Vaki, Sufyan'ın \"Bir örgü önde, diğer ikisi başın yan taraflarında sarıldı.\" dediğini aktardı."
+    },
+    {
+      "id": 24,
+      "narrator": "Narrated Um 'Atiyya:",
+      "text": "Um 'Atiyya'dan rivayet edilmiştir: Peygamberin (ﷺ) kızlarından biri vefat etti ve o bize geldi ve şöyle dedi: \"Onu sidr (su) ile tek sayıda, yani üç, beş veya daha fazla kez, eğer gerekli görüyorsanız, yıkayın ve en son kafur koyun, ve işinizi bitirdiğinizde bana haber verin.\" Biz işimizi bitirdiğimizde ona haber verdik. O bize sarığını verdi (onu kefenlemek için). Biz (ölü kızın) saçını üç örgüye sardık ve sırtına düşmesini sağladık."
+    },
+    {
+      "id": 25,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Allah'ın Messenger'i (ﷺ) üç Yemen beyazı Suhuliya (bez) ile kefenlendi ve bunların içinde ne gömlek ne de sarık vardı.\""
+    },
+    {
+      "id": 26,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Bir adam (Arafat'ta) bindiği (hayvanından) düştü ve boynunu kırdı (ve öldü). Peygamber (ﷺ) şöyle dedi: \"Onu su ve sidr ile yıkayın ve iki parça bez ile kefenleyin, ne ona parfüm sürün ne de başını örtün, çünkü o, Kıyamet Günü 'Lebbeyk' diyerek diriltilecektir.\""
+    },
+    {
+      "id": 27,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Bir adam (Hac için) Arafat'ta Allah'ın Messenger'i (ﷺ) ile birlikteyken bindiği hayvanından düştü ve boynunu kırdı (ve öldü). Bunun üzerine Allah'ın Messenger'i (ﷺ) şöyle dedi: \"Onu su ve sidr ile yıkayın ve iki parça bez ile kefenleyin ve ne ona parfüm sürün ne de başını örtün, çünkü Allah onu Kıyamet Günü diriltecek ve o 'Lebbeyk' diyecektir.\""
+    },
+    {
+      "id": 28,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Bir adam, Peygamber (ﷺ) ile birlikteyken devesi tarafından öldürüldü ve o bir muhrim idi. Peygamber (ﷺ) şöyle dedi: \"Onu su ve sidr ile yıkayın ve iki parça bez ile kefenleyin ve ne ona parfüm sürün ne de başını örtün, çünkü Allah onu Kıyamet Günü diriltecek ve o 'Lebbeyk' diyecektir.\""
+    },
+    {
+      "id": 29,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Bir adam, Peygamber (ﷺ) ile birlikte Arafat'ta iken bindiği hayvanından düştü ve öldü. Peygamber (ﷺ) şöyle dedi: \"Onu su ve sidr ile yıkayın ve iki parça bez ile kefenleyin ve ne ona parfüm sürün ne de başını örtün, çünkü o, Kıyamet Günü 'Lebbeyk' diyerek diriltilecektir.\""
+    },
+    {
+      "id": 30,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn 'Umar'dan rivayet edilmiştir: Abdullah bin Ubai (münafıkların lideri) vefat ettiğinde, oğlu Peygamber'e (ﷺ) geldi ve şöyle dedi: \"Ey Allah'ın Messenger'i (ﷺ)! Lütfen bana gömleğini ver, onu bununla kefenleyeyim, cenaze namazını kıl ve onun için Allah'tan af dile.\" Bunun üzerine Allah'ın Messenger'i (ﷺ) ona gömleğini verdi ve \"Cenaze hazır olduğunda bana haber ver.\" dedi. O, ona haber verdi ve Peygamber cenaze namazını kılmak istediğinde, 'Umar onun elinden tuttu ve \"Allah seni münafıklar için cenaze namazı kılmaktan men etmedi mi?\" dedi. Peygamber (ﷺ) şöyle dedi: \"Allah'ın bana verdiği bir seçim var; çünkü Allah şöyle buyuruyor: '(Onlar için) ister af dile, ister dileme. Onlar için yetmiş kez af dilesen bile, Allah onları affetmeyecektir. (9.80)\" Bunun üzerine Peygamber (ﷺ) cenaze namazını kıldı ve o sırada vahiy geldi: \"Ve asla (Ey Muhammed) onlardan (yani münafıklardan) ölen için cenaze namazı kılma.\" (9.84)"
+    },
+    {
+      "id": 31,
+      "narrator": "Narrated Jabir:",
+      "text": "Jabir'den rivayet edilmiştir: Peygamber (ﷺ), `Abdullah bin Ubai'nin (mezarına) geldikten sonra, cesedi çıkarıldı ve Peygamber (ﷺ) cesedin üzerine tükürdü ve onu gömleğiyle giydirdi."
+    },
+    {
+      "id": 32,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Peygamber (ﷺ) üç parça Suhul (bir tür pamuk) kumaşla kefenlendi ve ne bir gömlek ne de bir sarık kullanıldı."
+    },
+    {
+      "id": 33,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) üç parça kumaşla kefenlendi ve ne bir gömlek ne de bir sarık kullanıldı."
+    },
+    {
+      "id": 34,
+      "narrator": "Narrated Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) beyaz Suhul'dan yapılmış üç parça kumaşla kefenlendi ve ne bir gömlek ne de bir sarık kullanıldı."
+    },
+    {
+      "id": 35,
+      "narrator": "Narrated Sa`d from his father:",
+      "text": "Sa`d, babasından rivayet etmiştir: Bir gün `Abdur-Rahman bin `Auf'un önüne yemek getirildi ve o, \"Mus`ab bin `Umair şehit oldu ve o benden daha iyiydi, onun kefenlenecek hiçbir şeyi yoktu, sadece Burd'u (siyah kare dar elbise) vardı. Hamza ya da başka bir kişi şehit oldu ve o da benden daha iyiydi, onun da kefenlenecek hiçbir şeyi yoktu, sadece Burd'u vardı. Şüphesiz, benim amellerimin mükafatlarının bu dünyada erken verilmesinden korkuyorum.\" dedi. Sonra ağlamaya başladı."
+    },
+    {
+      "id": 36,
+      "narrator": "Narrated Ibrahim:",
+      "text": "İbrahim'den rivayet edilmiştir: Bir gün `Abdur-Rahman bin `Auf'a yemek getirildi ve o oruçluydu. \"Mus`ab bin `Umar şehit oldu ve o benden daha iyiydi ve Burd'u ile kefenlendi, başı onunla örtüldüğünde bacakları açıldı, bacakları örtüldüğünde başı açıldı. Hamza şehit oldu ve o da benden daha iyiydi. Şimdi dünya malı bize verildi (ya da benzer bir şey söyledi). Şüphesiz, benim amellerimin mükafatlarının bu dünyada erken verilmesinden korkuyorum.\" dedi. Sonra ağlamaya başladı ve yemeğini bıraktı."
+    },
+    {
+      "id": 37,
+      "narrator": "Narrated Khabbab:",
+      "text": "Khabbab'dan rivayet edilmiştir: Biz Peygamber (s.a.v) ile Allah'ın yolunda hicret ettik, bu yüzden mükafatımız kesinlikle Allah'a aitti. Aramızdan bazıları öldü ve bu dünyada mükafatlarından hiçbir şey almadılar; bunlardan biri Mus`ab bin `Umar'dı; diğerleri ise mükafatlarını alanlardı. Mus`ab bin `Umar, Uhud Savaşı'nda şehit oldu ve onu kefenleyecek başka bir şey bulamadık, sadece Burd'u vardı. Başını örttüğümüzde ayakları açıldı, ayaklarını örttüğümüzde başı açıldı. Bunun üzerine Peygamber (ﷺ) bize başını örtmemizi ve ayaklarının üzerine idhkhir (bir tür çalı) koymamızı emretti."
+    },
+    {
+      "id": 38,
+      "narrator": "Narrated Sahl:",
+      "text": "Sahl'den rivayet edilmiştir: Bir kadın, Peygamber'e kenarları olan bir dokuma Burda (örtü) getirdi. Sonra Sahl onlara Burda'nın ne olduğunu biliyorlar mı diye sordu, onlar Burda'nın bir örtü olduğunu söylediler ve Sahl onların cevabını doğruladı. Kadın, \"Bunu kendi ellerimle dokudum ve giyinmen için getirdim.\" dedi. Peygamber (ﷺ) bunu kabul etti ve o sırada ona ihtiyacı vardı. Öyle ki, dışarı çıkıp onu bel örtüsü olarak giydi. Bir adam onu övdü ve \"Bunu bana verir misin? Ne güzel!\" dedi. Diğer insanlar, \"Doğru bir şey yapmadın, çünkü Peygamber (ﷺ) buna ihtiyaç duyuyor ve sen onun ihtiyacı olduğunu bildiğin halde bunu istedin.\" dediler. Adam, \"Vallahi, bunu giymek için istemedim, sadece kefenim yapmak için istedim.\" dedi. Sonrasında bu onun kefeni oldu."
+    },
+    {
+      "id": 39,
+      "narrator": "Narrated Um 'Atiyya:",
+      "text": "Um 'Atiyya'dan rivayet edilmiştir: Bize cenaze alaylarına katılmamız yasaklandı ama bu yasak sıkı değildi."
+    },
+    {
+      "id": 40,
+      "narrator": "Narrated Muhammad bin Seereen:",
+      "text": "Muhammed bin Sirin'den rivayet edilmiştir: Um 'Atiyya'nın bir oğlu öldü ve üçüncü gün, sarı bir parfüm istedi ve vücuduna sürdü ve \"Kocalarımız dışında, üç günden fazla yas tutmamız yasaklandı.\" dedi."
+    },
+    {
+      "id": 41,
+      "narrator": "Narrated Zainab bint Abi Salama:",
+      "text": "Zeynep bint Ebi Süfyan'dan rivayet edilmiştir: Ebu Süfyan'ın ölüm haberi Şam'dan geldiğinde, Um Habibe üçüncü günde sarı bir parfüm istedi ve yanaklarını ve ön kollarını kokulandırdı ve \"Şüphesiz, eğer Peygamber (ﷺ) 'Allah'a ve Ahiret Günü'ne inanan bir kadının kocası dışında, herhangi bir ölü için üç günden fazla yas tutması caiz değildir, kocası için ise dört ay on gün yas tutmalıdır.' dediğini duymamış olsaydım buna ihtiyacım olmazdı.\" dedi."
+    },
+    {
+      "id": 42,
+      "narrator": "Narrated Zainab bint Abi Salama:",
+      "text": "Zeynep bint Ebi Süfyan'dan rivayet edilmiştir: Peygamber'in eşi Um Habibe'ye gittim, o da \"Peygamber'in 'Allah'a ve Ahiret Günü'ne inanan bir kadının herhangi bir ölü için üç günden fazla yas tutması caiz değildir, kocası için ise dört ay on gün yas tutmalıdır.' dediğini duydum.\" dedi. Daha sonra Zeynep bint Cahş'a gittim, kardeşi öldüğünde; o parfüm istedi ve kullandıktan sonra \"Parfüme ihtiyacım yok ama Allah'ın Elçisi (ﷺ) 'Allah'a ve Ahiret Günü'ne inanan bir kadının herhangi bir ölü için üç günden fazla yas tutması caiz değildir, kocası için ise dört ay on gün yas tutmalıdır.' dediğini duydum.\" dedi."
+    },
+    {
+      "id": 43,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir: Peygamber (ﷺ), bir mezarın yanında ağlayan bir kadının yanından geçti. Ona Allah'tan korkmasını ve sabırlı olmasını söyledi. Kadın ona, \"Uzaklaş, çünkü sen benim gibi bir belaya uğramadın.\" dedi ve onu tanımadı. Sonra ona Peygamber (ﷺ) olduğu bildirildi. Bunun üzerine Peygamber'in (ﷺ) evine gitti ve orada hiçbir koruma bulamadı. Sonra ona, \"Seni tanımadım.\" dedi. O da, \"Şüphesiz, sabır belanın ilk darbesindedir.\" dedi."
+    },
+    {
+      "id": 44,
+      "narrator": "Narrated Usama bin Zaid:",
+      "text": "Usame bin Zeyd'den rivayet edilmiştir: Peygamber'in kızı, Peygamber'e (ﷺ) bir elçi göndererek, çocuğunun ölmekte (ya da nefes almakta) olduğunu bildirdi, ancak Peygamber (ﷺ) elçiyi geri gönderdi ve ona selamını iletmesini ve \"Allah'ın aldığı her şey O'nundur ve verdiği her şey de O'nundur, ve O'nun yanında her şeyin bir süresi vardır (bu dünyada) ve bu yüzden sabırlı olmalı ve Allah'ın mükafatını beklemelidir.\" demesini söyledi. O tekrar onu çağırdı, yemin ederek gelmesini istedi. Peygamber (ﷺ) ayağa kalktı, Sa`d bin 'Ubada, Mu`adh bin Cebel, Ubai bin Ka'b, Zeyd bin Sabit ve diğer bazı adamlar da ayağa kalktı. Çocuk, Allah'ın Elçisi (ﷺ) huzuruna getirilirken, göğsünde nefesi bozulmuştu (alt rivayetçi, Usame'nin eklediğini düşünüyor: ) sanki bir deri su torbası gibiydi. Bunun üzerine Peygamber (s.a.v)'in gözleri yaşarmaya başladı. Sa`d, \"Ey Allah'ın Elçisi (ﷺ)! Bu nedir?\" dedi. O da, \"Bu, Allah'ın kullarının kalplerine yerleştirdiği merhamettir ve Allah, yalnızca merhamet eden kullarına merhamet eder.\" dedi."
+    },
+    {
+      "id": 45,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir: Biz Peygamber'in (ﷺ) bir kızının cenaze alayındaydık ve o mezarın yanında oturuyordu. Gözlerinin yaşardığını gördüm. \"Aranızda geçen gece karısıyla cinsel ilişkiye girmeyen var mı?\" dedi. Ebu Talha olumlu yanıt verdi. Bunun üzerine Peygamber ona mezara inmesini söyledi. O da onun mezarına indi."
+    },
+    {
+      "id": 46,
+      "narrator": "Narrated `Abdullah bin 'Ubaidullah bin Abi Mulaika:",
+      "text": "Abdullah bin 'Ubaidullah bin Abi Mulaika'dan rivayet edilmiştir: Osman'ın kızlarından biri Mekke'de vefat etti. Cenaze törenine katılmak için gittik. İbn 'Umar ve İbn 'Abbas da oradaydı. Ben onların arasında oturdum (ya da birinin yanında oturdum. Sonra bir adam geldi ve yanımda oturdu.) Abdullah bin 'Umar, Amr bin Osman'a dedi ki: \"Ağlamayı yasaklamayacak mısın, zira Allah'ın Resulü (ﷺ) şöyle demiştir: 'Ölü, akrabalarının ağlamasıyla azap edilir.'?\" İbn 'Abbas dedi ki: \"Ömer böyle derdi.\" Sonra ekledi: \"Ömer ile birlikte Mekke'den Al-Baida'ya kadar bir yolculuğa çıktım. Orada bir Samura ağacının gölgesinde bazı yolcular gördü. Bana dedi ki: 'Git ve o yolcuların kim olduğunu öğren.' Ben de gittim ve içlerinden birinin Suheyb olduğunu gördüm. Bunu Ömer'e söyledim, o da beni onu çağırmam için gönderdi. Ben de Suheyb'e geri döndüm ve ona dedim ki: 'Çık ve müminlerin liderini takip et.' Daha sonra, Ömer bıçaklandığında, Suheyb içeri girdi, ağlayarak: 'Ey kardeşim, ey dostum!' dedi. (Bunun üzerine Ömer ona dedi ki: 'Ey Suheyb! Benim için ağlıyor musun, oysa ki Peygamber (ﷺ) şöyle demiştir: 'Ölü, akrabalarının ağlamasıyla azap edilir.'?') İbn 'Abbas ekledi: \"Ömer vefat ettiğinde, bunların hepsini Aişe'ye anlattım ve o dedi ki: 'Allah, Ömer'e merhamet etsin. Vallahi, Allah'ın Resulü (ﷺ) bir müminin akrabalarının ağlamasıyla azap edildiğini söylemedi. Ama o dedi ki, Allah, bir kafirin akrabalarının ağlaması nedeniyle azabını artırır.' Aişe ayrıca ekledi: 'Kur'an bu konuda sizin için yeterlidir (bu noktayı açıklamak için) zira Allah şöyle buyurmuştur: 'Hiçbir yük taşıyan, diğerinin yükünü taşıyamaz.' (35.18). İbn 'Abbas daha sonra dedi ki: 'Sadece Allah, birini güldürür veya ağlatır.' İbn 'Umar bundan sonra hiçbir şey söylemedi."
+    },
+    {
+      "id": 47,
+      "narrator": "Narrated `Aisha:",
+      "text": "---"
+    },
+    {
+      "id": 48,
+      "narrator": "Narrated Abu Burda:",
+      "text": "Aişe'den rivayet edilmiştir: (Peygamberin eşi) Bir gün Allah'ın Resulü (ﷺ) akrabaları onun için ağlayan bir Yahudi kadının (mezarının) yanından geçti. O, \"Onlar onun için ağlıyorlar ve o, mezarında azap ediliyor.\" dedi."
+    },
+    {
+      "id": 49,
+      "narrator": "Narrated Al-Mughira:",
+      "text": "---"
+    },
+    {
+      "id": 50,
+      "narrator": "Narrated Ibn 'Umar from his father:",
+      "text": "Ebu Burda'dan rivayet edilmiştir: Babası dedi ki: \"Ömer bıçaklandığında, Suheyb ağlamaya başladı: Ey kardeşim! Ömer dedi ki, 'Peygamber (ﷺ) şöyle demedi mi: 'Ölü, yaşayanların ağlamasıyla azap edilir'?\""
+    },
+    {
+      "id": 51,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "---"
+    },
+    {
+      "id": 52,
+      "narrator": "Narrated `Abdullah:",
+      "text": "El-Mughira'dan rivayet edilmiştir: Peygamber (ﷺ)'in şöyle dediğini duydum: \"Bana yalan isnat etmek, başkalarına yalan isnat etmek gibi değildir. Kim bilerek bana yalan söylerse, kesinlikle cehennemdeki yerini alsın.\" Peygamber (ﷺ)'in şöyle dediğini duydum: \"Üzerine ağıt yakılan ölü, o ağıt nedeniyle azap edilir.\""
+    },
+    {
+      "id": 53,
+      "narrator": "Narrated 'Amir bin Sa`d bin Abi Waqqas:",
+      "text": "---"
+    },
+    {
+      "id": 54,
+      "narrator": "Narrated Abu Burda bin Abi Musa:",
+      "text": "İbn 'Umar'dan babasından rivayet edilmiştir: Peygamber (ﷺ) dedi ki: \"Ölü, onun üzerine yapılan ağıt nedeniyle mezarında azap edilir.\""
+    },
+    {
+      "id": 55,
+      "narrator": "Narrated `Abdullah:",
+      "text": "---"
+    },
+    {
+      "id": 56,
+      "narrator": "Narrated `Abdullah:",
+      "text": "Rivayet etti Şu'ba:"
+    },
+    {
+      "id": 57,
+      "narrator": "Narrated `Aisha:",
+      "text": "Ölü, yaşayanların onun üzerine yaptığı ağıt nedeniyle azap edilir."
+    },
+    {
+      "id": 58,
+      "narrator": "Narrated Anas:",
+      "text": "---"
+    },
+    {
+      "id": 59,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Cabir bin Abdullah'dan rivayet edilmiştir: Uhud Savaşı günü, babam getirildi ve savaşta (yaralanmış) parçalanmıştı ve Allah'ın Resulü (ﷺ)'nin önüne kondu, üzerine bir örtü örtüldü. Babamı açmayı düşündüm ama halkım bana engel oldu; tekrar açmayı istedim ama halkım yine engel oldu. Allah'ın Resulü (ﷺ) emrini verdi ve o alındı. O sırada bir kadın ağlama sesi duydu ve sordu: \"Bu kim?\" Dediler ki: \"Amr'ın kızı ya da kız kardeşi.\" O dedi ki: \"Neden ağlıyor? (ya da ağlamayı bıraksın), zira melekler onu kanatlarıyla gölgeliyorlardı, ta ki o (yani şehidin bedeni) alınıncaya kadar.\""
+    },
+    {
+      "id": 60,
+      "narrator": "Narrated Anas:",
+      "text": "---"
+    },
+    {
+      "id": 61,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir: Allah'ın Elçisi (ﷺ) ile birlikte demirci Abu Saif'e gittik, o İbrahim'in (Peygamber'in oğlu) süt annesinin kocasıydı. Allah'ın Elçisi (ﷺ) İbrahim'i aldı, onu öptü ve kokladı, ardından Abu Saif'in evine girdik ve o sırada İbrahim son nefeslerini veriyordu, ve Allah'ın Elçisi'nin (ﷺ) gözlerinden yaşlar dökülmeye başladı. `Abdur Rahman bin `Auf, \"Ey Allah'ın Elçisi, sen bile ağlıyorsun!\" dedi. O, \"Ey İbn `Auf, bu merhamettir.\" dedi. Sonra daha çok ağladı ve \"Gözler yaş döküyor ve kalp üzgün, ve biz Rabbimizi razı edecekten başka bir şey söylemeyeceğiz, ey İbrahim! Gerçekten senin ayrılığından dolayı üzgünüz.\" dedi."
+    },
+    {
+      "id": 62,
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "`Abdullah bin `Umar'dan rivayet edilmiştir: Sa`d bin 'Ubada hastalandı ve Peygamber (ﷺ) `Abdur Rahman bin `Auf, Sa`d bin Abi Waqqas ve `Abdullah bin Mas`ud ile birlikte onu ziyaret etti. Yanına gittiğinde, onu ailesinin çevrelemiş olduğunu gördü ve \"Öldü mü?\" diye sordu. Onlar, \"Hayır, ey Allah'ın Elçisi.\" dediler. Peygamber (ﷺ) ağladı ve Allah'ın Elçisi'nin (ﷺ) ağladığını gören insanlar da hepsi ağladı. O, \"Dinleyin! Allah, gözyaşları dökmekten veya kalbin üzüntüsünden dolayı cezalandırmaz, ama bu yüzden ya ceza verir ya da merhametini ihsan eder.\" dedi. Diline işaret etti ve \"Ölen, akrabalarının onun üzerine feryat etmesi nedeniyle cezalandırılır.\" dedi. `Umar, bir sopa ile vurur ve ölenin üzerine feryat edenlerin yüzlerine taş atar ve toprak serperdi."
+    },
+    {
+      "id": 63,
+      "narrator": "Narrated Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Zaid bin Haritha, Ja`far ve `Abdullah bin Rawaha'nın şehit olduğu haberi geldiğinde, Peygamber oturdu ve üzgün görünüyordu, ben de kapının aralığından bakıyordum. Bir adam geldi ve \"Ey Allah'ın Elçisi (ﷺ)! Ja`far'ın kadınları,\" dedi ve sonra onların ağlamalarını anlattı. Peygamber (p.b.u.h) ona onları ağlamaktan alıkoymasını emretti. Adam gitti ve geri geldi ve \"Onları durdurmaya çalıştım ama itaat etmediler.\" dedi. Peygamber (p.b.u.h) ona ikinci kez onları yasaklamasını emretti. O tekrar gitti ve geri geldi ve \"Beni dinlemediler,\" dedi. (`Aişe ekledi: Peygamber (ﷺ) \"Onların ağızlarına toprak koyun.\" dedi. Ben o adama, \"Allah senin burnunu toprağa yapıştırsın (yani seni alçaltasın).\" dedim. Vallahi, sen (kadınları ağlamaktan) durdurmak için emri yerine getiremedin, ayrıca Allah'ın Elçisi'ni yorgunluktan kurtaramadın.)"
+    },
+    {
+      "id": 64,
+      "narrator": "Narrated Um 'Atiyya:",
+      "text": "Um 'Atiyya'dan rivayet edilmiştir: Peygamber (ﷺ) ile biat verirken, şartlardan biri feryat etmeyeceğimizdi, ama bu sadece beş kadın tarafından yerine getirildi ve bunlar Um Sulaim, Um Al-`Ala', Abi Sabra'nın kızı (Mu`adh'ın eşi) ve iki diğer kadındı; ya da Abi Sabra'nın kızı ve Mu`adh'ın eşi ve başka bir kadındı."
+    },
+    {
+      "id": 65,
+      "narrator": "Narrated 'Amir bin Rabi`a:",
+      "text": "'Amir bin Rabi`a'dan rivayet edilmiştir: Peygamber (ﷺ) \"Bir cenaze alayı gördüğünüzde, alay geçene kadar ayakta durun.\" dedi. Al-Humaidi ekledi, \"Cenaze sizi geride bırakana veya konuluncaya kadar.\""
+    },
+    {
+      "id": 66,
+      "narrator": "Narrated 'Amir bin Rabi`a:",
+      "text": "'Amir bin Rabi`a'dan rivayet edilmiştir: Peygamber (ﷺ) \"Eğer bir cenaze alayı görürseniz ve onunla gitmiyorsanız, o zaman ayakta durmalı ve ayakta kalmalısınız, ta ki arkasında kalana kadar, ya da sizi geride bırakana kadar, ya da tabut konuluncaya kadar.\" dedi."
+    },
+    {
+      "id": 67,
+      "narrator": "Narrated Sa`id Al-Maqburi:",
+      "text": "Sa`id Al-Maqburi'den rivayet edilmiştir: Babası şöyle dedi: \"Bir cenaze alayını takip ederken, Abu Huraira Marwan'ın elini tuttu ve tabut konulmadan önce oturdular. Sonra Abu Sa`id geldi ve Marwan'ın elini tuttu ve \"Kalk. Vallahi, şüphesiz bu (yani Abu Huraira) Peygamber'in bunu yapmamızı yasakladığını biliyor.\" dedi. Abu Huraira, \"O (Abu Sa`id) doğru söyledi.\" dedi."
+    },
+    {
+      "id": 68,
+      "narrator": "Narrated Abu Sa`id Al-Khudri:",
+      "text": "Abu Sa`id Al-Khudri'den rivayet edilmiştir: Peygamber (ﷺ) \"Cenaze alayını gördüğünüzde, ayakta durmalısınız ve onu takip eden kimse tabut konulana kadar oturmamalıdır.\" dedi."
+    },
+    {
+      "id": 69,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Jabir bin `Abdullah'dan rivayet edilmiştir: Önümüzden bir cenaze alayı geçti ve Peygamber (ﷺ) ayakta durdu ve biz de ayakta durduk. Dedik ki, 'Ey Allah'ın Elçisi (ﷺ)! Bu bir Yahudi'nin cenaze alayıdır.\" O, \"Bir cenaze alayı gördüğünüzde, ayakta durmalısınız.\" dedi."
+    },
+    {
+      "id": 70,
+      "narrator": "Narrated `Abdur Rahman bin Abi Laila:",
+      "text": "`Abdur Rahman bin Abi Laila'dan rivayet edilmiştir: Sahl bin Hunaif ve Qais bin Sa`d Al-Qadisiya şehrinde oturuyorlardı. Önlerinden bir cenaze alayı geçti ve ayakta durdular. Onlara, cenaze alayının o yerin sakinlerinden biri yani bir kafir olduğunu söylediler. Onlar, \"Bir cenaze alayı Peygamber'in (ﷺ) önünden geçti ve o ayakta durdu. Kendisine bunun bir Yahudi'nin tabutu olduğu söylendiğinde, 'O bir canlı varlık (ruh) değil mi?' dedi.\" dediler."
+    },
+    {
+      "id": 71,
+      "narrator": "Narrated Abu Sa`id Al-Khudri:",
+      "text": "Abu Sa`id Al-Khudri'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) \"Cenaze hazır olduğunda ve erkekler onu omuzlarında taşıdığında, eğer ölen kişi salih ise, 'Beni (aceleyle) getiriniz,' der; eğer salih değilse, 'Vay halime! Beni nereye götürüyorlar?' der. Onun sesi her şey tarafından duyulur, insan dışında ve eğer onu duysa bayılır.\" dedi."
+    },
+    {
+      "id": 72,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Abu Huraira'dan rivayet edilmiştir: Peygamber (ﷺ) \"Ölü bedeni aceleyle taşıyın, çünkü eğer o salihse, onu hayra yönlendiriyorsunuz; eğer değilse, o zaman kötü bir şeyi boynunuzda bırakıyorsunuz.\" dedi."
+    },
+    {
+      "id": 73,
+      "narrator": "Narrated Abu Sa`id Al-Khudri:",
+      "text": "Abu Sa`id Al-Khudri'den rivayet edilmiştir: Peygamber (ﷺ) \"Cenaze hazır olduğunda ve erkekler öleni omuzlarında taşıdığında, eğer o salih ise, 'Beni aceleyle getiriniz,' der; eğer salih değilse, 'Vay halime! Beni nereye götürüyorlar?' der. Onun sesi her şey tarafından duyulur, insan dışında ve eğer onu duysa bayılır.\" dedi."
+    },
+    {
+      "id": 74,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Jabir bin `Abdullah'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) An-Necashi için cenaze namazı kıldırdı ve ben ikinci veya üçüncü safta idim."
+    },
+    {
+      "id": 75,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Abu Huraira'dan rivayet edilmiştir: Peygamber (p.b.u.h) An-Necashi'nin ölümünü arkadaşlarına bildirdi ve sonra önde (namazı kıldırmak için) ilerledi ve insanlar onun arkasında sıralandılar ve dört tekbir aldı."
+    },
+    {
+      "id": 76,
+      "narrator": "Narrated Ash-Shaibani:",
+      "text": "Ash-Şaibani'den rivayet edilmiştir: Ash Shu`bi dedi ki, \"Bir adam, Peygamber (ﷺ)'in diğer mezarlardan ayrı bir mezara gittiğini ve insanları saf halinde dizip dört tekbir aldığını bana bildirdi.\" Ben dedim ki, \"Ey Ebu Amr! Bunu sana kim nakletti?\" O da, \"İbn Abbas,\" dedi."
+    },
+    {
+      "id": 77,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Jabir bin Abdullah'dan rivayet edilmiştir: Peygamber (ﷺ) dedi ki, \"Bugün Etiyopya'dan (yani Necash) bir salih insan vefat etti, gelin cenaze namazını kılalım.\" (Jabir dedi ki): Biz saf halinde dizildik ve ardından Peygamber (ﷺ) namazı kıldırdı ve biz saf halinde idik. Jabir ekledi, \"Ben ikinci saftaydım.\""
+    },
+    {
+      "id": 78,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) gece gömülen bir cenazenin mezarının yanından geçti. \"Bu (cenaze) ne zaman gömüldü?\" dedi. İnsanlar, \"Dün,\" dediler. O da, \"Bana neden haber vermediniz?\" dedi. Onlar, \"Biz onu karanlıkta gömdük ve seni uyandırmak istemedik,\" dediler. O ayakta durdu ve biz arkasında saf olduk. (İbn Abbas dedi ki): \"Ben de onlardandım ve Peygamber (ﷺ) cenaze namazını kıldırdı.\""
+    },
+    {
+      "id": 79,
+      "narrator": "Narrated Ash-Shaibani:",
+      "text": "Ash-Şaibani'den rivayet edilmiştir: Ash-Shu`bi dedi ki, \"Peygamberiniz (s.a.v) ile birlikte mezarının yanından geçen birisi bana, 'Peygamber (ﷺ) bize (namazda) önde durdu ve biz arkasında saf olduk,' dedi.\" Biz dedik ki, \"Ey Ebu Amr! Bu rivayeti sana kim aktardı?\" O da, \"İbn Abbas,\" diye cevap verdi."
+    },
+    {
+      "id": 80,
+      "narrator": "Narrated Nafi`:",
+      "text": "Nafi'den rivayet edilmiştir: İbn Umar'a, Ebu Hüreyre'nin, \"Cenaze alayına katılan kimse bir Kırat kadar sevap alır,\" dediği bildirildi. İbn Umar, \"Ebu Hüreyre çok büyük bir sevaptan bahsediyor,\" dedi. Aişe, Ebu Hüreyre'nin rivayetini tasdik etti ve \"Ben Allah'ın Elçisi (ﷺ)'nin böyle söylediğini duydum,\" dedi. İbn Umar, \"Biz birçok Kırat kaybettik,\" dedi."
+    },
+    {
+      "id": 81,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hüreyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) dedi ki, \"Cenaze alayına katılan ve cenaze namazını kılan kimse bir Kırat kadar sevap alır, ve onu gömülene kadar takip eden kimse iki Kırat kadar sevap alır.\" Soruldu, \"İki Kırat nedir?\" O da, \"İki büyük dağ gibidir,\" diye cevap verdi."
+    },
+    {
+      "id": 82,
+      "narrator": "Narrated 'Amir:",
+      "text": "Amir'den rivayet edilmiştir: İbn Abbas (o zaman bir çocuktu) dedi ki, \"Allah'ın Elçisi (ﷺ) bir mezara geldi ve insanlar, 'Dün gömüldü,' dediler.\" İbn Abbas ekledi, \"Biz Peygamber (ﷺ)'in arkasında saf olduk ve o, vefat edenin cenaze namazını kıldırdı.\""
+    },
+    {
+      "id": 83,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hüreyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ), Necash'ın (Etiyopya Kralı) ölüm haberini vefat ettiği günde verdi. \"Kardeşiniz için Allah'tan bağışlanma dileyin,\" dedi. Ebu Hüreyre rivayet etti: Peygamber (ﷺ) onları Musalla'da saf haline getirdi ve dört tekbir aldı."
+    },
+    {
+      "id": 84,
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "Abdullah bin Umar'dan rivayet edilmiştir: Bir Yahudi, Peygamber (ﷺ)'e içlerinden bir adam ve bir kadını getirdi ki, onlar (zina) illegal cinsel ilişki yapmışlardı. O, her ikisinin de taşlanmasını (ölümle) emretti, cenaze namazının kılınacağı yerin yakınında, caminin yanında.\""
+    },
+    {
+      "id": 85,
+      "narrator": "Narrated `Urwa:",
+      "text": "Urve'den rivayet edilmiştir: Aişe dedi ki, \"Peygamber (ﷺ) hastalığında, 'Allah, Yahudileri ve Hristiyanları lanetlesin, çünkü onlar Peygamberlerinin mezarlarını ibadet yerleri edindiler,' dedi.\" Aişe ekledi, \"Eğer bu olmasaydı, Peygamber (s.a.v)'in mezarı öne çıkarılacaktı ama korkuyorum ki, ibadet yeri olarak alınabilir.\""
+    },
+    {
+      "id": 86,
+      "narrator": "Narrated Samura bin Jundab:",
+      "text": "Samura bin Cundab'dan rivayet edilmiştir: Ben, doğum sırasında ölen bir kadın için Peygamber (ﷺ)'in arkasında cenaze namazı kıldım ve o, tabutun ortasında durdu."
+    },
+    {
+      "id": 87,
+      "narrator": "Narrated Samura bin Jundab:",
+      "text": "Samura bin Cundab'dan rivayet edilmiştir: Ben, doğum sırasında ölen bir kadın için Peygamber (ﷺ)'in arkasında cenaze namazı kıldım ve o, tabutun ortasında durdu."
+    },
+    {
+      "id": 88,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hüreyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ), Necash'ın ölüm haberini vefat ettiği günde verdi. Bizimle birlikte Musalla'ya çıktı ve biz saf haline geldik ve o, Necash'ın cenaze namazı için dört tekbir aldı."
+    },
+    {
+      "id": 89,
+      "narrator": "Narrated Jabir:",
+      "text": "Jabir'den rivayet edilmiştir: Peygamber (ﷺ), As-Hama Necash'ın cenaze namazını kıldırdı ve dört tekbir aldı."
+    },
+    {
+      "id": 90,
+      "narrator": "Narrated Talha bin `Abdullah bin `Auf:",
+      "text": "Talha bin Abdullah bin Auf'tan rivayet edilmiştir: Ben, İbn Abbas'ın arkasında cenaze namazı kıldım ve o, Fatiha okudu ve \"Bilin ki, bu (yani Fatiha'nın okunması) Peygamber (ﷺ) Muhammed'in sünnetidir,\" dedi."
+    },
+    {
+      "id": 91,
+      "narrator": "Narrated Sulaiman Ash-Shaibani:",
+      "text": "Süleyman eş-Şeybani'den rivayet edilmiştir: Ash-Shu'bi'nin şöyle dediğini duydum: \"Bir adam, Peygamber (s.a.v) ile birlikte diğer mezarlardan ayrı bir mezarın yanından geçerken, Peygamber (s.a.v) onlara namaz kıldırdı ve onlar da arkasında namaz kıldılar.\" Ben de dedim ki, \"Ey Ebu Amr! Bunu sana kim rivayet etti?\" O da, \"İbn Abbas,\" diye cevap verdi."
+    },
+    {
+      "id": 92,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Siyah bir kişi, erkek ya da kadın, Mescidi temizlerdi ve sonra vefat etti. Peygamber (s.a.v) bundan haberdar değildi. Bir gün Peygamber (s.a.v) onu hatırladı ve \"O kişi ne oldu?\" dedi. İnsanlar, \"Ey Allah'ın Resulü (s.a.v)! O vefat etti,\" dediler. O da, \"Bana niçin haber vermediniz?\" dedi. Onlar, \"Hikayesi şöyleydi (yani onu önemsiz gördüler),\" dediler. O da, \"Bana mezarını gösterin,\" dedi. Sonra mezarına gitti ve cenaze namazını kıldırdı."
+    },
+    {
+      "id": 93,
+      "narrator": "Narrated Anas:",
+      "text": "Enes'ten rivayet edilmiştir: Peygamber (s.a.v) şöyle dedi: \"Bir insan mezarına konulduğunda ve arkadaşları geri döndüğünde, o ayak seslerini bile duysa, iki melek ona gelir ve onu oturtup ona sorarlar: 'Bu adam, Muhammed hakkında ne diyordun?' O da der ki: 'Ben Allah'ın kulu ve Elçisi olduğunu tasdik ederim.' Sonra ona denir ki, 'Cehennem ateşindeki yerini gör. Allah, onun yerine sana cennette bir yer vermiştir.' \" Peygamber (s.a.v) ekledi: \"Ölü, her iki yerini de görecektir. Ama bir kafir veya münafık meleklere der ki, 'Ben bilmiyorum, ama ben insanların dediğini söylerdim!' Ona denir ki, 'Ne sen biliyordun ne de hidayete erdin (Kur'an okuyarak).' Sonra iki kulağının arasına demir bir çekiçle vurulacak ve o feryat edecek ve o feryadı, insanlardan ve cinlerden başka her şey duyacaktır.\""
+    },
+    {
+      "id": 94,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Ölüm meleği Musa'ya gönderildi ve ona gittiğinde, Musa ona şiddetle vurdu ve gözlerinden birini bozdu. Melek, Rabbine döndü ve \"Beni, ölmek istemeyen bir kulun yanına gönderdin,\" dedi. Allah, gözünü geri verdi ve \"Geri dön ve ona (yani Musa'ya) bir öküzün sırtına elini koymasını söyle, çünkü elinin altındaki kıllar kadar yıl yaşayacak,\" dedi. (Böylece melek ona geldi ve aynı şeyi söyledi). Musa da sordu: \"Ey Rabbim! O zaman ne olacak?\" O da, \"O zaman ölüm olacak,\" dedi. Musa, \"Şimdi olsun,\" dedi. Allah'tan, onu kutsal topraklara bir taş atımı mesafede yaklaştırmasını istedi. Allah'ın Resulü (s.a.v) dedi ki: \"Orada olsaydım, size Musa'nın mezarını kırmızı kum tepesinin yanında gösterirdim.\""
+    },
+    {
+      "id": 95,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Peygamber (s.a.v) bir adamın cenaze namazını, gömüldükten sonra bir gece kıldırdı, o ve arkadaşları (namaz için) ayağa kalktılar. Ayakta durmadan önce, onlara \"Bu kim?\" diye sordu. Onlar da, \"O, falan ve filan ve geçen gece gömüldü,\" dediler. Böylece hepsi cenaze namazını kıldılar."
+    },
+    {
+      "id": 96,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Peygamber (s.a.v) hastalandığında, bazı eşleri Etiyopya'da gördükleri bir kiliseden bahsettiler ve bu kilisenin adı Mariya'ydı. Ümmü Selma ve Ümmü Habibe Etiyopya'ya gitmişlerdi ve her ikisi de onun (kilisenin) güzelliğini ve içindeki resimleri anlattılar. Peygamber (s.a.v) başını kaldırdı ve \"Onlar, içlerinden bir salih kişi vefat ettiğinde, mezarının üzerine bir ibadet yeri yapıp sonra da içinde o resimleri yaparlar. Onlar, Allah'ın katında en kötü varlıklardır,\" dedi."
+    },
+    {
+      "id": 97,
+      "narrator": "Narrated Anas:",
+      "text": "Enes'ten rivayet edilmiştir: Biz, Allah'ın Resulü (s.a.v)'nin kızının cenaze alayındaydık ve Allah'ın Resulü (s.a.v) mezarın yanında oturuyordu ve gözleri yaş doluydu. \"Aranızda geçen gece eşleriyle cinsel ilişkiye girmeyen var mı?\" dedi. Ebu Talha olumlu yanıt verdi. Bunun üzerine Allah'ın Resulü ona, \"Mezarına in,\" dedi ve o mezarına inip onu gömdü."
+    },
+    {
+      "id": 98,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Cabir bin Abdullah'tan rivayet edilmiştir: Peygamber (s.a.v) Uhud şehitlerinden her ikisini bir parça örtüye sardı, sonra sorardı: \"Hangisi daha fazla Kur'an biliyordu?\" Onlardan biri kendisine işaret edildiğinde, onu mezara ilk koyar ve \"Ben, kıyamet günü bunlar hakkında şahit olacağım,\" derdi. Onların kanları bedenlerinde kalacak şekilde gömülmelerini emretti ve ne yıkanmışlar ne de cenaze namazı kılınmıştır."
+    },
+    {
+      "id": 99,
+      "narrator": "Narrated `Uqba bin 'Amir:",
+      "text": "Ukbe bin Amir'den rivayet edilmiştir: Bir gün Peygamber (s.a.v) dışarı çıktı ve Uhud şehitlerinin cenaze namazını kıldırdı, sonra minbere çıktı ve \"Ben, sizler için öncünüz gibi yol açacağım ve sizler hakkında şahit olacağım. Allah'a yemin ederim ki, şu anda Kauthar'ımı görüyorum ve bana yeryüzünün (veya yeryüzünün hazinelerinin) anahtarları verilmiştir. Allah'a yemin ederim ki, ölümümden sonra Allah'a ortak koşacağınızdan korkmuyorum, fakat dünya için birbirinizle savaşacağınızdan korkuyorum,\" dedi."
+    },
+    {
+      "id": 100,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Cabir bin Abdullah'tan rivayet edilmiştir: Peygamber (s.a.v) Uhud şehitlerinden her ikisini bir mezara gömdü."
+    },
+    {
+      "id": 101,
+      "narrator": "Narrated Jabir:",
+      "text": "Cabir'den rivayet edilmiştir: Peygamber (s.a.v) \"Onları (yani şehitleri) kanlarıyla gömün,\" dedi. (Bu) Uhud Savaşı günüydü. Onları yıkatmadı."
+    },
+    {
+      "id": 102,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Cabir bin Abdullah'tan rivayet edilmiştir: Allah'ın Resulü (s.a.v) Uhud şehitlerinden her ikisini bir parça örtüye sardı ve sonra sorardı: \"Hangisi daha fazla Kur'an biliyordu?\" Onlardan biri kendisine işaret edildiğinde, onu mezara ilk koyardı. \"Ben, bunlar hakkında şahit olacağım,\" dedi. Sonra onları bedenlerinde kanla gömülmelerini emretti. Ne cenaze namazı kıldırdı ne de yıkattı. (Cabir bin Abdullah ekledi): Allah'ın Resulü (s.a.v) Uhud şehitleri hakkında hangisinin daha fazla Kur'an bildiğini sorardı. Ve onlardan biri daha fazla bildiği işaret edildiğinde, onu mezara ilk koyar, sonra arkadaşlarını koyardı. (Cabir ekledi): Babam ve amcam bir örtüye sarıldı."
+    },
+    {
+      "id": 103,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Peygamber (s.a.v) \"Allah, Mekke'yi bir kutsal yer (sığınak) kıldı ve bu, benim önceden de bir sığınaktı ve benim sonrasında da böyle olacaktır. Günün birkaç saatinde (orada savaşmak) benim için helal kılındı. Hiç kimse, dikenli ağaçlarını sökemez, ağaçlarını kesemez, avını kovalayamaz veya düşen şeylerini toplayamaz, ancak bunu açıkça duyuran bir kişi dışında,\" dedi. O zaman Abbas, Peygamber'e (s.a.v) \"İdkhir hariç, altıncılarımız ve mezarlarımız için,\" dedi. Bunun üzerine Peygamber (s.a.v) \"İdkhir hariç,\" diye ekledi. Ebu Hureyre de, Peygamber (s.a.v)'in \"İdkhir, mezarlarımız ve evlerimiz için hariçtir,\" dediğini rivayet etti. İbn Abbas da, \"Onların altıncıları ve evleri için,\" dedi."
+    },
+    {
+      "id": 104,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Cabir bin Abdullah'tan rivayet edilmiştir: Allah'ın Resulü (s.a.v) Abdullah bin Ubai (bir münafık) vefat ettikten sonra yanına geldi ve o mezarına konmuştu. Onun mezardan çıkarılmasını emretti ve o çıkarıldı. Sonra onu dizlerinin üzerine koydu ve üzerine biraz tükürdü ve onu kendi gömleğiyle giydirdi. Allah, neden böyle yaptığını daha iyi bilir. Abdullah bin Ubai, gömleğini Abbas'a giymesi için vermişti. Ebu Harun dedi ki: \"O zaman Allah'ın Resulü (s.a.v) iki gömleğe sahipti ve Abdullah bin Ubai'nin oğlu ona, 'Ey Allah'ın Resulü (s.a.v)! Babamı, teninle temas etmiş olan gömleğinle giydir,' dedi.\" Sufyan ekledi: \"Böylece insanlar, Peygamber (s.a.v)'in Abdullah bin Ubai'yi, onun (Abdullah'ın) Abbas'a yaptığı şeyin karşılığında gömleğiyle giydirdiğini düşünüyor.\""
+    },
+    {
+      "id": 105,
+      "narrator": "Narrated Jabir:",
+      "text": "Cabir'den rivayet edilmiştir: Uhud Savaşı zamanı yaklaşırken, babam gece beni çağırdı ve \"Sanırım, Peygamber (s.a.v)'in arkadaşları arasında şehit düşen ilk kişi ben olacağım. Arkamdan benden daha sevimli kimseyi bırakmıyorum, yalnızca Allah'ın Resulü (s.a.v)'nin ruhu ve bir borcum var, onu öde ve kız kardeşlerine iyi davran,\" dedi. Böylece sabah, ilk şehit olan o oldu ve başka bir (şehit) ile gömüldü. Onu diğer (şehit) ile bırakmak istemedim, bu yüzden altı ay sonra onu mezardan çıkardım ve gömüldüğü günkü gibi durumdaydı, yalnızca kulağının yanında hafif bir değişiklik vardı."
+    },
+    {
+      "id": 106,
+      "narrator": "Narrated Jabir:",
+      "text": "Jabir'den rivayet edilmiştir: Bir adam babamla birlikte gömüldü ve ben bunu istemedim ta ki onu (yani babamı) çıkarıp ayrı bir mezara gömene kadar."
+    },
+    {
+      "id": 107,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Jabir bin Abdullah'dan rivayet edilmiştir: Peygamber (ﷺ) Uhud şehitlerinden her ikisini (bir mezara) topladı ve sonra \"Hangisi Kur'an'ı daha çok biliyordu?\" diye sorardı. Eğer onlardan biri daha fazla bilgiye sahip olduğu belirtilirse, onu Lahd'a ilk olarak koyardı. Peygamber (ﷺ) dedi ki: \"Ben, Kıyamet Günü bunların üzerinde şahit olacağım.\" Sonra onları kanları üzerlerinde olacak şekilde gömülmelerini emretti ve yıkanmalarını istemedi."
+    },
+    {
+      "id": 108,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn Umar'dan rivayet edilmiştir: Umar, Peygamber (s.a.v) ile birlikte bir grup insanla İbn Saiyad'a doğru yola çıktı ve onu Beni Mughala'nın tepeciklerinde çocuklarla oynarken gördüler. O zaman İbn Saiyad ergenliğe yaklaşmıştı ve bizi fark etmedi ta ki Peygamber (ﷺ) ona elini vurup \"Ben Allah'ın Resulü (ﷺ) olduğuma şahitlik eder misin?\" dedi. İbn Saiyad ona baktı ve \"Ben, senin okuma yazma bilmeyenlerin Resulü olduğuna şahitlik ederim.\" dedi. Sonra İbn Saiyad Peygamber (s.a.v) e \"Ben Allah'ın Resulü (ﷺ) olduğuna şahitlik eder miyim?\" diye sordu. Peygamber (s.a.v) bunu reddetti ve \"Ben Allah'a ve O'nun Elçilerine inanıyorum.\" dedi. Sonra ona \"Ne düşünüyorsun?\" dedi. İbn Saiyad cevap verdi: \"Doğru insanlar ve yalancılar beni ziyaret ediyor.\" Peygamber (ﷺ) dedi ki: \"Bu konuda kafan karışmış.\" Sonra Peygamber (ﷺ) ona \"Senin için bir şey sakladım, (bunu bana söyleyebilir misin?)\" dedi. İbn Saiyad \"O, Al-Dukh (duman)\" dedi. Peygamber (ﷺ) dedi ki: \"Sen alçaklık içinde ol. Sınırlarını aşamazsın.\" O zaman Umar dedi ki: \"Ey Allah'ın Resulü (ﷺ)! Onun başını kesmeme izin ver.\" Peygamber (s.a.v) dedi ki: \"Eğer o (yani Deccal) ise, ona karşı koyamazsın, eğer değilse, onu öldürmenin bir faydası yok.\" (İbn Umar ekledi): Daha sonra Allah'ın Resulü (ﷺ) bir kez daha Ubai bin Ka'b ile birlikte, İbn Saiyad'ın kaldığı hurma ağaçları bahçesine gitti. Peygamber (s.a.v) İbn Saiyad'ı görmeden önce ondan bir şey duymak istedi ve Peygamber (s.a.v) onu örtüyle kaplı yatar halde gördü ve oradan onun mırıldanmaları duyuldu. İbn Saiyad'ın annesi Allah'ın Elçisini hurma ağaçlarının gövdelerinin arkasında gizlenirken gördü. İbn Saiyad'a hitaben \"Ey Saf! (bu İbn Saiyad'ın adıydı) İşte Muhammad burada.\" dedi. Bunun üzerine İbn Saiyad kalktı. Peygamber (ﷺ) dedi ki: \"Eğer bu kadın onu bırakmış olsaydı (onu rahatsız etmemiş olsaydı), İbn Saiyad durumunun gerçeğini açıklayacaktı.\""
+    },
+    {
+      "id": 109,
+      "narrator": "Narrated Anas:",
+      "text": "Anas'tan rivayet edilmiştir: Genç bir Yahudi çocuk Peygamber (ﷺ) e hizmet ediyordu ve hastalandı. Bunun üzerine Peygamber (ﷺ) onu ziyaret etmeye gitti. Başının yanına oturdu ve ona İslam'ı kabul etmesini istedi. Çocuk babasına baktı, o da orada oturuyordu; babası ona Abul-Kasım'a itaat etmesini söyledi ve çocuk İslam'ı kabul etti. Peygamber (ﷺ) dışarı çıkarken \"Çocuk, cehennem ateşinden kurtulduğu için Allah'a hamdolsun\" dedi."
+    },
+    {
+      "id": 110,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Benim annem ve ben zayıf ve ezilenler arasındaydık. Ben çocuklardan, annem ise kadınlardan biriydim."
+    },
+    {
+      "id": 111,
+      "narrator": "Narrated Ibn Shihab:",
+      "text": "İbn Şihab'dan rivayet edilmiştir: Her çocuk için cenaze namazı kılınmalıdır, hatta o bir fahişenin oğlu olsa bile, çünkü o İslam'ın gerçek inancıyla (yani yalnızca Allah'a ibadet etmek) doğmuştur. Eğer ebeveynleri Müslüman ise, özellikle babası, annesi gayrimüslim olsa bile, ve doğumdan sonra (ölmeden önce) bir kez bile ağlarsa (yani canlı doğmuşsa) cenaze namazı kılınmalıdır. Eğer çocuk doğumdan sonra ağlamazsa (yani ölü doğmuşsa) onun cenaze namazı kılınmamalıdır ve o düşük olarak kabul edilir. Ebu Hüreyre, Peygamber (ﷺ) in \"Her çocuk, gerçek bir inançla (yani yalnızca Allah'a ibadet etmek) doğar, ama ebeveynleri onu Yahudiliğe, Hristiyanlığa veya Mecusiliğe çevirir, tıpkı bir hayvanın mükemmel bir yavru hayvan doğurması gibi. Onu sakat bulur musunuz?\" dediğini rivayet etmiştir. Sonra Ebu Hüreyre kutsal ayetleri okudu: 'Allah'ın saf İslami fıtratı (gerçek inanç, yani yalnızca Allah'a ibadet etmek) ile O, insanları yaratmıştır.' \" (30.30)."
+    },
+    {
+      "id": 112,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hüreyre'den rivayet edilmiştir: Allah'ın Resulü (ﷺ) dedi ki: \"Her çocuk, gerçek bir İslam inancıyla (yani yalnızca Allah'a ibadet etmek) doğar, ama ebeveynleri onu Yahudiliğe, Hristiyanlığa veya Mecusiliğe çevirir, tıpkı bir hayvanın mükemmel bir yavru hayvan doğurması gibi. Onu sakat bulur musunuz?\" Sonra Ebu Hüreyre kutsal ayetleri okudu: \"Allah'ın saf İslami fıtratı (gerçek inanç, yani yalnızca Allah'a ibadet etmek) ile O, insanları yaratmıştır. Allah'ın dininde bir değişiklik olmasın (yani Allah ile ibadette kimseyi ortak koşmasın). İşte bu doğru din (İslam)dır ama insanların çoğu bunu bilmez.\" (30.30)"
+    },
+    {
+      "id": 113,
+      "narrator": "Narrated Sa`id bin Al-Musaiyab from his father:",
+      "text": "Sa'id bin Al-Musaiyab'dan babasından rivayet edilmiştir: Ebu Talib'in ölüm zamanı yaklaştığında, Allah'ın Resulü (ﷺ) ona gitti ve yanında Ebu Cehil bin Hişam ve Abdullah bin Ebi Ümeyye bin Al-Mughira'yı buldu. Allah'ın Resulü (ﷺ) Ebu Talib'e dedi ki: \"Ey amca! De ki: Allah'tan başka ibadet edilecek yoktur, bu cümle ile ben senin için Allah katında şahit olacağım.\" Ebu Cehil ve Abdullah bin Ebi Ümeyye \"Ey Ebu Talib! Abdul Muttalib'in dinini mi reddedeceksin?\" dediler. Allah'ın Resulü (ﷺ) Ebu Talib'i (yani 'Allah'tan başka ibadet edilecek yoktur' demesi için) davet etmeye devam etti, oysa onlar (Ebu Cehil ve Abdullah) kendi sözlerini tekrar etmeye devam ettiler ta ki Ebu Talib son söz olarak Abdul Muttalib'in dininde olduğunu söyledi ve 'Allah'tan başka ibadet edilecek yoktur' demeyi reddetti. (Sonra Allah'ın Resulü (ﷺ) dedi ki: \"Ben senin için Allah'tan bağışlanma istemeye devam edeceğim, ta ki bunun için bana yasaklanana kadar.\" Bunun üzerine Allah, onun hakkında (ayet) indirdi (yani: \"Peygamber (ﷺ) ve inananların, kafirler için bağışlanma istemesi uygun değildir, hatta onlar akraba olsalar bile, onlara ateş arkadaşları oldukları açıkça anlaşıldıktan sonra.\" (9.113)."
+    },
+    {
+      "id": 114,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) bir gün iki mezarın yanından geçti ve o mezarlardaki iki kişi azap ediliyordu. Dedi ki: \"Onlar büyük bir şeyden (kaçınmak) dolayı azap ediliyorlar değil. Bunlardan biri, idrarından kirlenmekten kendini kurtaramadı, diğeri ise arkadaşlar arasında düşmanlık yaratmak için iftira atıyordu.\" Sonra bir hurma dalının yeşil bir yaprağını aldı, iki parçaya böldü ve her mezara birini yerleştirdi. İnsanlar \"Ey Allah'ın Resulü (ﷺ)! Neden böyle yaptınız?\" dediler. O da \"Umarım ki onların azabı, yapraklar kuruyana kadar hafifler.\" diye cevap verdi."
+    },
+    {
+      "id": 115,
+      "narrator": "Narrated `Ali:",
+      "text": "Ali'den rivayet edilmiştir: \"Biz Baqi-i Gharqad'da bir cenaze alayı takip ediyorduk. Peygamber (ﷺ) bize geldi ve oturdu, biz de etrafında oturduk. Elinde küçük bir sopa vardı, sonra başını eğdi ve yere kazımaya başladı. Sonra dedi ki: \"Sizden hiç kimse yoktur, ne de olsa yaratılmış bir ruh yoktur ki, onun için cennette veya cehennemde bir yer tayin edilmemiş olsun ve onun için de, mübareklerden mi yoksa bedbahtlardan mı olacağı belirlenmiştir.\" Bir adam dedi ki: \"Ey Allah'ın Resulü (ﷺ)! Biz, bizim için yazılanlara güvenmeyip, işleri bırakamaz mıyız? Zira aramızdan kim mübarekse, mübarek bir kişinin işlerini yapacak ve kim bedbahtsa, bedbaht bir kişinin işlerini yapacak?\" Peygamber dedi ki: \"İyi işler mübarekler için kolaylaştırılır ve kötü işler bedbahtlar için kolaylaştırılır.\" Sonra şu ayetleri okudu: \"Kim (sadaka) verirse ve Allah'tan korkarsa ve Allah'tan en iyi mükafatı beklerse.\" (92.5-6)"
+    },
+    {
+      "id": 116,
+      "narrator": "Narrated Thabit bin Ad-Dahhak:",
+      "text": "Thabit bin Ad-Dahhak'tan rivayet edilmiştir: Peygamber (s.a.v) dedi ki: \"Kim bilerek İslam dışındaki bir dinle yalan yere yemin ederse, o, söylediği gibidir (örneğin, 'Eğer bu şey doğru değilse, ben bir Yahudiyim' derse, gerçekten bir Yahudidir). Ve kim bir demir parçasıyla intihar ederse, cehennemde aynı demir parçasıyla cezalandırılacaktır.\" Jundab'dan rivayet edilmiştir, Peygamber (ﷺ) dedi ki: \"Bir adam yaralandı ve intihar etti, bu yüzden Allah dedi: \"Kulum kendine aceleyle ölüm getirdi, bu yüzden ben cenneti ona yasakladım.\""
+    },
+    {
+      "id": 117,
+      "narrator": "Narrated Abu Huraira-:",
+      "text": "Ebu Hüreyre'den rivayet edilmiştir: Peygamber (ﷺ) dedi ki: \"Boğularak intihar eden, cehennem ateşinde (sonsuz) kendini boğmaya devam edecektir ve kendini bıçaklayarak intihar eden, cehennem ateşinde kendini bıçaklamaya devam edecektir.\""
+    },
+    {
+      "id": 118,
+      "narrator": "Narrated `Umar bin Al-Khattab:",
+      "text": "Umar bin Al-Khattab'dan rivayet edilmiştir: Abdullah bin Ubai bin Salul öldüğünde, Allah'ın Resulü (ﷺ) (s.a.v) onun cenaze namazını kılmak için çağrıldı. Allah'ın Resulü (ﷺ) namazı kılmak için ayağa kalktığında, ben hemen kalktım ve \"Ey Allah'ın Elçisi! İbn Ubai için dua mı edeceksin, o şöyle şöyle dedi?\" dedim ve onun söylediği her şeyi saymaya başladım. Allah'ın Resulü (ﷺ) gülümsedi ve \"Ey Umar! Benden uzaklaş.\" dedi. Ben çok konuşunca \"Bana seçim hakkı verildi ve ben de (namazı kılmayı) seçtim.\" dedi. \"Eğer onun için Allah'tan bağışlanma istemenin yetmişten fazla kez affedileceğini bilseydim, kesinlikle bunu yapardım.\" (Umar ekledi): Allah'ın Resulü (ﷺ) cenaze namazını kıldı ve döndü ve kısa bir süre sonra Bara Suresi'nden iki ayet indirildi: \"Ve asla (Ey Muhammed) onlardan biri için ölünceye kadar dua etme... (ayet sonuna kadar) isyan.\" (9.84) -- (Umar ekledi): \"Sonra o gün Allah'ın Resulü (ﷺ) karşısında cesaretimden dolayı hayret ettim. Ve Allah ve Elçisi daha iyi bilir.\""
+    },
+    {
+      "id": 119,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir: Bir cenaze alayı geçti ve insanlar merhum hakkında övgülerde bulundu. Peygamber (ﷺ) dedi ki: \"Ona onay verilmiştir.\" Sonra başka bir cenaze alayı geçti ve insanlar merhum hakkında kötü konuştu. Peygamber (ﷺ) dedi ki: \"Ona onay verilmiştir.\" Umar bin Al-Khattab (Allah'ın Resulü (ﷺ) (s.a.v) e) sordu: \"Ne onaylandı?\" O da \"Siz bunu övdünüz, bu yüzden cennet ona onaylandı; ve siz bunu kötülediniz, bu yüzden cehennem ona onaylandı. Siz insanlar, yeryüzünde Allah'ın şahitlerisiniz.\" dedi."
+    },
+    {
+      "id": 120,
+      "narrator": "Narrated Abu Al-Aswad:",
+      "text": "Ebu Al-Aswad'dan rivayet edilmiştir: Ben Medine'ye bir salgın çıktığında geldim. Umar bin Al-Khattab ile otururken bir cenaze alayı geçti ve insanlar merhum hakkında övgülerde bulundu. Umar dedi ki: \"Ona onay verilmiştir.\" Ve başka bir cenaze alayı geçti ve insanlar merhum hakkında övgülerde bulundu. Umar dedi ki: \"Ona onay verilmiştir.\" Üçüncü (cenaze alayı) geçti ve insanlar merhum hakkında kötü konuştu. O da dedi ki: \"Ona onay verilmiştir.\" Ben (Ebu Al-Aswad) sordum: \"Ey müminlerin önderi! Ne onaylandı?\" O da \"Ben Peygamber (ﷺ) in söylediği gibi söyledim, yani: Eğer dört kişi bir Müslümanın takvasını şahitlik ederse, Allah ona cenneti verecektir.\" dedim. Biz sorduk: \"Eğer üç kişi onun takvasını şahitlik ederse?\" O (Peygamber) dedi: \"Hatta üç.\" Sonra sorduk: \"Eğer iki?\" O da dedi: \"Hatta iki.\" Bir şahit hakkında sormadık."
+    },
+    {
+      "id": 121,
+      "narrator": "Narrated Al-Bara' bin 'Azib :",
+      "text": "Al-Bara' bin 'Azib'den rivayet edilmiştir: Peygamber (s.a.v) şöyle buyurdu: \"Bir mümin, mezarına oturtulduğunda, (melekler) ona gelir ve o, 'Allah'tan başka ibadet edilmeye layık olan yoktur ve Muhammed Allah'ın Elçisidir' diye şehadet eder. Bu, Allah'ın şu ifadesine karşılık gelir: 'Allah, inananları sağlam bir sözle sabit kılacaktır...' (14.27)."
+    },
+    {
+      "id": 122,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "Şu'ba'dan rivayet edilmiştir: Yukarıdaki ile aynı ve ekledi: \"Allah, inananları sabit kılacaktır... (14.27) ayeti mezar azabı hakkında indirilmiştir.\""
+    },
+    {
+      "id": 123,
+      "narrator": "Narrated `Aisha:",
+      "text": "---"
+    },
+    {
+      "id": 124,
+      "narrator": "Narrated Masruq:",
+      "text": "İbn 'Umar'dan rivayet edilmiştir: Peygamber (s.a.v) kuyu halkına (Bedir Savaşı'nda öldürülen putperestlerin atıldığı kuyuya) baktı ve şöyle dedi: \"Rabbinizin size vaad ettiği şeyin gerçek olduğunu buldunuz mu?\" Birisi ona, \"Ölü insanlara hitap ediyorsun.\" dedi. O da, \"Siz onlardan daha iyi duymuyorsunuz ama onlar cevap veremezler.\" diye yanıtladı."
+    },
+    {
+      "id": 125,
+      "narrator": "Narrated Asma' bint Abi Bakr:",
+      "text": "---"
+    },
+    {
+      "id": 126,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "'Aişe'den rivayet edilmiştir: Peygamber (s.a.v) şöyle dedi: \"Artık benim onlara söylediğim şeylerin doğru olduğunu anlıyorlar.\" Ve Allah şöyle buyurdu: \"Şüphesiz! Ölüleri (yani onlardan fayda göremezsiniz, aynı şekilde inkar edenleri de) duyuramazsınız, sağırları da duyuramazsınız.\" (27.80)."
+    },
+    {
+      "id": 127,
+      "narrator": "Narrated Abi Aiyub:",
+      "text": "---"
+    },
+    {
+      "id": 128,
+      "narrator": "Narrated Musa bin `Uqba:",
+      "text": "Masruq'tan rivayet edilmiştir: 'Aişe, bir Yahudi kadının kendisine gelip mezar azabını anlattığını, \"Allah seni mezar azabından korusun.\" dediğini aktardı. 'Aişe, sonra Allah'ın Elçisi (s.a.v) ile mezar azabını sordu. O da, \"Evet, (mezar azabı vardır).\" dedi. 'Aişe ekledi: \"O günden sonra, Allah'ın Elçisi'ni (s.a.v) her namazında mezar azabından Allah'a sığınırken gördüm.\""
+    },
+    {
+      "id": 129,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "---"
+    },
+    {
+      "id": 130,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "Esma bint Ebi Bekir'den rivayet edilmiştir: Allah'ın Elçisi (s.a.v) bir gün hutbe verirken insanların mezardaki denemelerini anlattı. Bunu duyunca Müslümanlar yüksek sesle bağırmaya başladılar."
+    },
+    {
+      "id": 131,
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "---"
+    },
+    {
+      "id": 132,
+      "narrator": "Narrated Abu Sa`id Al-Khudri:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir: Allah'ın Elçisi (s.a.v) şöyle dedi: \"Kul (Allah'ın) mezarına konulduğunda ve arkadaşları geri döndüğünde, ayak seslerini bile duyar. İki melek ona gelir ve oturtur ve sorarlar: 'Bu adam (yani Muhammed) hakkında ne diyordun?' Mümin, 'O Allah'ın kuludur ve Elçisidir.' diye cevap verir. Sonra ona derler: 'Cehennem ateşindeki yerini gör; Allah, bunun yerine sana cennette bir yer vermiştir.' Böylece her iki yerini de görür.\" (Katade dedi ki: \"Bize, mezarının genişletileceği bildirildi.\" Sonra Katade, Enes'in rivayetini tekrar etti.) İkiyüzlü veya inkarcı olan kişi ise sorulacak: \"Bu adam hakkında ne diyordun?\" O da cevap verecek: \"Bilmiyorum; ama insanların söylediklerini söylerdim.\" Onlara, \"Ne sen biliyordun ne de (Kur'an okuyarak) hidayet buldun.\" denilecek. Sonra ona bir kez demir çekiçle vurulacak ve o kadar yüksek bir çığlık atacak ki, etrafındaki her şey onu duyacak, sadece cinler ve insanlar hariç. (Bkz. Hadis No. 422)."
+    },
+    {
+      "id": 133,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "---"
+    },
+    {
+      "id": 134,
+      "narrator": "Narrated Al-Bara':",
+      "text": "Ebu Eyyub'dan rivayet edilmiştir: Bir gün Peygamber (s.a.v) akşamdan sonra dışarı çıktı ve korkunç bir ses duydu ve dedi ki: \"Yahudiler mezarlarında azap çekiyorlar.\""
+    },
+    {
+      "id": 135,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "---"
+    },
+    {
+      "id": 136,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) putperestlerin (Müşriklerin) çocukları hakkında sorulduğunda, \"Allah onların ne tür işler yapacaklarını bilir,\" dedi."
+    },
+    {
+      "id": 137,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Her çocuk, yalnızca Allah'a ibadet etmek üzere (İslam'ın gerçek inancıyla) doğar; sonra ebeveynleri onu Yahudiliğe, Hristiyanlığa veya Mecusiliğe çevirirler; tıpkı bir hayvanın mükemmel bir yavru doğurması gibi. Onu sakat bulur musunuz?\""
+    },
+    {
+      "id": 138,
+      "narrator": "Narrated Samura bin Jundab:",
+      "text": "Semura bin Cundub'dan rivayet edilmiştir: Peygamber (ﷺ) sabah namazını bitirdiğinde, bize döner ve \"Aranızda dün gece rüya gören var mı?\" diye sorardı. Eğer biri rüya görmüşse, onu anlatırdı. Peygamber (ﷺ) şöyle derdi: \"Ma sha'a-llah\" (Arapça bir deyim olup, 'Allah neyi dilerse' anlamına gelir ve iyi bir alamet olduğunu gösterir.) Bir gün, aramızda rüya gören var mı diye sordu. Biz hayır dedik. Peygamber dedi ki: \"Ama ben dün gece iki adamın bana geldiğini, ellerimden tutup beni Kutsal Toprak'a (Kudüs) götürdüğünü gördüm. Orada bir kişinin oturduğunu ve diğerinin elinde bir demir kanca ile oturan kişinin ağzına sokup çene kemiğine kadar ittiğini, sonra bir yanak kısmını yırtıp, ardından diğer yanak kısmına da aynı işlemi yaptığını gördüm; bu arada ilk yanak kısmı tekrar normal hale geldi ve aynı işlemi tekrar yaptı. Ben 'Bu nedir?' dedim. Onlar bana devam etmemi söylediler ve bir adamın sırt üstü yattığı bir yere geldik, başında bir adam taş veya bir parça kaya tutuyordu ve yatan adamın başını o taşla eziyordu. Her vurduğunda taş yuvarlanıyordu. Adam onu almak için gidiyordu ve geri döndüğünde, ezilmiş baş normal haline dönüyordu ve adam geri gelip tekrar vuruyordu (ve bu böyle devam ediyordu). Ben 'Bu kim?' dedim. Onlar bana devam etmemi söylediler; böylece devam ettik ve fırın gibi bir deliğin yanından geçtik; dar bir üstü ve geniş bir altı vardı ve o deliğin altında ateş yanıyordu. Ateş alevlendiğinde, insanlar o kadar yükseliyorlardı ki neredeyse dışarı çıkacaklardı, ve ateş sönmeye başladığında, insanlar içine düşüyorlardı ve içinde çıplak erkekler ve kadınlar vardı. Ben 'Bu kim?' dedim. Onlar bana devam etmemi söylediler. Böylece devam ettik ve bir kan nehrine geldik ve içinde bir adam vardı, diğer bir adam onun kıyısında taşlarla karşısında duruyordu. Nehirdeki adam dışarı çıkmak istediğinde, diğeri onun ağzına bir taş atıyor ve onu eski yerine geri itiyordu; böylece her dışarı çıkmak istediğinde, diğeri onun ağzına bir taş atıyor ve o geri çekiliyordu. Ben 'Bu nedir?' dedim. Onlar bana devam etmemi söylediler ve biz de öyle yaptık ta ki iyi bir şekilde yeşil bir bahçeye ulaştık; büyük bir ağaç vardı ve kökünde bir yaşlı adam bazı çocuklarla oturuyordu. (Gördüm) Ağacın yanında ateşle karşısında bir adam vardı ve ateşi yakıyordu. Sonra onlar (yani iki arkadaşım) beni ağaca çıkardılar ve beni daha önce hiç görmediğim bir eve soktular. İçinde bazı yaşlı adamlar ve gençler, kadınlar ve çocuklar vardı. Sonra beni bu evden çıkardılar ve beni ağaca çıkardılar ve daha iyi ve üstün bir eve soktular; içinde yaşlı ve genç insanlar vardı. Ben onlara (yani iki arkadaşım) 'Beni bütün gece dolaştırdınız. Gördüğüm her şeyi bana anlatın,' dedim. Onlar 'Evet. Yüzünün yırtıldığını gördüğün kişi yalancıydı ve yalanlar söylerdi, insanlar onun adına bu yalanları bildirirlerdi ta ki dünya genelinde yayılırdı. Bu yüzden, Kıyamet Günü'ne kadar böyle cezalandırılacaktır. Başının ezildiğini gördüğün kişi, Allah'ın ona Kur'an'ı (yani ezberlemiş olduğu) bildirdiği kişidir ama o gece uyurdu (yani onu okumazdı) ve gündüzleri de ona göre hareket etmezdi; bu yüzden bu ceza Kıyamet Günü'ne kadar devam edecektir. Deliğin içinde (fırın gibi) gördüğün kişiler, zina edenlerdir (o erkekler ve kadınlar ki yasadışı cinsel ilişki yaparlar). Ve kan nehrinde gördüğün kişiler, Riba (faiz) ile uğraşanlardır. Ağacın dibinde oturan yaşlı adam İbrahim'dir ve etrafındaki küçük çocuklar insanların neslindendir. Ateşi yakan kişi Malik'tir, Cehennem'in kapıcısıdır. Gittiğin ilk ev, müminlerin evi, ikinci ev ise şehitlerin evidir. Ben Cebrail'im ve bu da Mikail'dir. Başını kaldır.' Başımı kaldırdım ve üzerimde bir bulut gibi bir şey gördüm. Onlar 'O senin yerin,' dediler. Ben 'Beni yerime al,' dedim. Onlar 'Henüz tamamlamadığın bir yaşamın var ve onu tamamladığında yerine gireceksin,' dediler.\""
+    },
+    {
+      "id": 139,
+      "narrator": "Narrated Hisham's father:",
+      "text": "Hişam'ın babasından rivayet edilmiştir: Aişe şöyle dedi: \"Abu Bekir'e (ölümcül hastalığında) gittim ve bana, 'Peygamber (ﷺ) kaç giysiyle kefenlendi?' diye sordu. Ben de, 'Üç parça beyaz pamuklu Suhuliya kumaşıyla, içinde ne gömlek ne de sarık vardı,' dedim. Abu Bekir daha sonra, 'Peygamber hangi gün vefat etti?' diye sordu. Ben de, 'Pazartesi günü vefat etti,' dedim. O da, 'Bugün ne gün?' diye sordu. Ben, 'Bugün Pazartesi,' dedim. O ekledi, 'Umarım bu sabah ile bu akşam arasında vefat ederim.' Sonra hastalığı sırasında giydiği bir giysiye baktı ve üzerinde safran lekeleri vardı. Sonra, 'Bu giysimi yıkayın ve iki giysi daha ekleyin ve beni onlarla kefenleyin,' dedi. Ben, 'Bu giysi yıpranmış,' dedim. O, 'Canlı bir insanın yeni giysi giymesi, ölüden daha çok haktır; kefen sadece bedenin pisliği içindir,' dedi. Salı gecesi vefat etmeden önce ölmedi.\""
+    },
+    {
+      "id": 140,
+      "narrator": "Narrated Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Bir adam Peygamber'e (s.a.v) dedi ki, \"Annem aniden vefat etti ve eğer yaşasaydı, sadaka vereceğini düşündüm. Şimdi onun adına sadaka verirsem, ona sevap gelir mi?\" Peygamber (ﷺ) olumlu yanıt verdi."
+    },
+    {
+      "id": 141,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) hastalığı sırasında sürekli olarak, \"Bugün neredeyim? Yarın nerede olacağım?\" diye soruyordu. Ben de sıranın gününü sabırsızlıkla bekliyordum. Sonra, sıram geldiğinde, Allah onun ruhunu (kollarımın arasında) aldı ve evimde defnedildi."
+    },
+    {
+      "id": 142,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) ölümcül hastalığında şöyle dedi: \"Allah, Yahudileri ve Hristiyanları lanetlesin, çünkü onlar peygamberlerinin mezarlarının üzerine ibadet yerleri inşa ettiler.\" Eğer durum böyle olmasaydı, Peygamberin mezarı insanlara açık bir şekilde belirgin olurdu. Böylece (Peygamber (ﷺ)) korkuyordu ya da insanlar, mezarının ibadet yeri olarak alınmasından korkuyorlardı."
+    },
+    {
+      "id": 143,
+      "narrator": "Narrated Abu Bakr bin `Aiyash:",
+      "text": "Ebu Bekir bin Aiyash'tan rivayet edilmiştir: Sufyan et-Tammar bana Peygamber'in (ﷺ) mezarının yükseltilmiş ve bombeli olduğunu söyledi."
+    },
+    {
+      "id": 144,
+      "narrator": "Narrated `Urwa:",
+      "text": "Urve'den rivayet edilmiştir: Duvar onların (yani mezarların) üzerine düştüğünde, Halife Velid bin Abdulmelik döneminde, insanlar onu onarmaya başladılar ve bir ayak onlara göründü. İnsanlar korktu ve bunun Peygamber'in ayağı olduğunu düşündüler. Onlara bunu söyleyecek kimse bulunamadı ta ki ben (Urve) onlara, \"Vallahi, bu Peygamber'in (ﷺ) ayağı değil, bu Ömer'in ayağıdır,\" dedim."
+    },
+    {
+      "id": 145,
+      "narrator": "",
+      "text": "Aişe, Abdullah bin Zübeyr'e vasiyet ettiğini rivayet etmiştir: \"Beni onlarla (Peygamber (ﷺ) ve iki arkadaşının) yanına gömmeyin, fakat beni arkadaşlarımla (Peygamber'in (s.a.v) eşleri) Al-Baki'de gömün, çünkü Peygamber'in yanında gömülmek, gerçekte olduğumdan daha iyi görünmek istemiyorum.\""
+    },
+    {
+      "id": 146,
+      "narrator": "Narrated `Amr bin Maimun Al-Audi:",
+      "text": "Amr bin Maimun el-Audi'den rivayet edilmiştir: Ömer bin Hattab'ı (bıçaklandığında) gördüm ve şöyle diyordu: \"Ey Abdullah bin Ömer! Müminlerin annesi Aişe'ye git ve de ki, 'Ömer bin Hattab sana selam gönderiyor,' ve ondan benim arkadaşlarımla gömülmemi istemesini rica et.\" (Böylece, İbn Ömer mesajı Aişe'ye iletti.) O, \"Bu yeri kendime ayırmayı düşünmüştüm ama bugün onu (Ömer'i) kendimden daha çok tercih ediyorum (ve orada gömülmesine izin veriyorum),\" dedi. Abdullah bin Ömer geri döndüğünde, Ömer ona, \"Ne (haber) var?\" diye sordu. O da, \"Ey müminlerin lideri! O (orada gömülmene) izin verdi,\" dedi. Bunun üzerine Ömer, \"O (kutsal) yerde gömülmekten daha önemli bir şeyim yoktu. Ölünce beni oraya götürün ve ona selamımı iletin ve 'Ömer bin Hattab izin istiyor; eğer izin verirse, orada gömün, eğer vermezse, beni Müslümanların mezarlığına götürün. Allah'ın Elçisi (ﷺ) (s.a.v) ile ölümüne kadar memnun olduğu kişilerden daha fazla halifelik hakkına sahip olduğunu düşünmüyorum. Ve benden sonra insanlar tarafından seçilen kişi halife olacak ve sizler ona itaat etmeli ve dinlemelisiniz,\" dedi ve ardından Osman, Ali, Talha, Zübeyir, Abdurrahman bin Avf ve Sa'd bin Ebi Vakkas'ın isimlerini zikretti. Bu sırada bir genç Ansar'dan geldi ve dedi ki, \"Ey müminlerin lideri! Allah'ın müjdeleriyle sevin. İslam'daki derecenin sana malumdur, sonra halife oldun ve adaletle hüküm sürdün ve ardından tüm bunlardan sonra şehitlik mertebesine ulaştın.\" Ömer cevap verdi, \"Ey kardeşimin oğlu! Keşke tüm bu ayrıcalıklar (eksikliklerimi) dengeleyebilse, böylece ne kaybederim ne de kazanırım. Halefime, ilk muhacirlere iyi davranmasını ve haklarını gözetmesini, onurlarını ve kutsal şeylerini korumasını tavsiye ediyorum. Ayrıca, onlardan önce Medine'de evleri olan ve İslam'ı kabul eden Ensar'a da iyi davranmasını tavsiye ediyorum. Onların içindeki salihlerin iyiliklerini kabul etmeli ve günahkârlarını affetmelidir. Onlara, Allah ve Elçisi'nin (s.a.v) koruması altındaki Dhimmilerle ilgili kurallara uymalarını, sözleşmelerini tam olarak yerine getirmelerini ve onların hakları için savaşmalarını ve onları kapasitelerinin ötesinde vergilendirmemelerini tavsiye ediyorum.\""
+    },
+    {
+      "id": 147,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Peygamber (s.a.v) şöyle dedi: \"Ölüleri kötülemeyin, çünkü onlar, ileriye sürdüklerinin sonucuna ulaşmışlardır.\""
+    },
+    {
+      "id": 148,
+      "narrator": "Narrated Ibn `Abbas.:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Ebu Leheb, Allah onu lanetlesin, bir gün Peygamber'e (s.a.v) dedi ki, \"Gün boyu helak ol!\" Sonra İlahi Vahiy geldi: \"Ebu Leheb'in elleri helak olsun! O da helak olsun!\" (111.1)."
+    }
+  ]
+}

@@ -1,0 +1,456 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 88,
+    "arabic": {
+      "title": "سنن النسائي",
+      "author": "الإمام أحمد بن شعيب النسائي"
+    },
+    "english": {
+      "title": "Sunan an-Nasai",
+      "author": "Imam Ahmad ibn Shuayb an-Nasai"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "It was narrated from Ummm Salamah that the Prophet said:",
+      "text": "Umm Salamah'dan rivayet edilmiştir ki, Peygamber şöyle buyurmuştur: \"Kim Dhul-Hijjah'ın yeni hilalini görür ve kurban kesmek isterse, kurbanını kesene kadar saçından veya tırnaklarından hiçbir şey almasın.\""
+    },
+    {
+      "id": 2,
+      "narrator": "It was narrated that 'Amr bin Muslim said:",
+      "text": "'Amr bin Muslim'den rivayet edilmiştir ki: \"İbn Al-Musayyab bana, Peygamber'in eşi Umm Salamah'ın, Allah'ın Elçisi'nin şöyle söylediğini aktardığını söyledi: 'Kim kurban kesmek isterse, Dhul-Hijjah'ın ilk on günü boyunca tırnaklarından hiçbir şey almasın veya saçını kesmesin.'\""
+    },
+    {
+      "id": 3,
+      "narrator": "It was narrated that Sa'eed bin Al-Musayyab said:",
+      "text": "Sa'eed bin Al-Musayyab'dan rivayet edilmiştir ki: \"Dhul-Hijjah başladığında kurban kesmek isteyen, saçından veya tırnaklarından hiçbir şey almasın.\" Ben (rivayet eden) bunu 'İkrime'ye söyledim, o da: \"Kadınlardan ve parfümden de uzak durması gerekmez mi?\" dedi."
+    },
+    {
+      "id": 4,
+      "narrator": "It was narrated from Umm Salamah that the Messenger of Allah said:",
+      "text": "Umm Salamah'dan rivayet edilmiştir ki, Allah'ın Elçisi şöyle buyurmuştur: \"Dhul-Hijjah'ın (ilk) on günü başladığında ve sizden biri kurban kesmek isterse, saçından veya derisinden hiçbir şey almasın.\""
+    },
+    {
+      "id": 5,
+      "narrator": "It was narrated from 'Abdullah bin 'Amr bin al-As that the Messenger of Allah said to a man:",
+      "text": "'Abdullah bin 'Amr bin al-As'tan rivayet edilmiştir ki, Allah'ın Elçisi bir adama şöyle dedi: \"Kurban Bayramı gününü, Allah'ın Azim ve Celil'in bu ümmete farz kıldığı bir 'İd olarak almam için bana talimat verildi.\" Adam şöyle dedi: \"Eğer bana sadece sütünden faydalanmak için ödünç verilmiş bir dişi koyun bulursam, onu kurban etmem gerekir mi?\" O da: \"Hayır. Aksine, saçından ve tırnaklarından bir şey kes, bıyığını kısalt ve kasık kıllarını traş et, böylece Allah'ın Azim ve Celil katında kurban kesmiş gibi tam bir sevap alırsın.\" dedi."
+    },
+    {
+      "id": 6,
+      "narrator": "It was narrated from Nafi that:",
+      "text": "Nafi'den rivayet edilmiştir ki: 'Abdullah ona, Allah'ın Elçisi'nin kurbanı namaz yerinde kestiğini söyledi."
+    },
+    {
+      "id": 7,
+      "narrator": "It was narrated from 'Abdullah bin 'Umar that:",
+      "text": "'Abdullah bin 'Umar'dan rivayet edilmiştir ki: Allah'ın Elçisi, Kurban Bayramı gününde Al-Medine'de kurban kesmiştir. \"Eğer Nahr (deve kurbanı) kesmemiş olsaydı, namaz yerinde Dhabihah (koyun kurbanı) keserdi.\" dedi."
+    },
+    {
+      "id": 8,
+      "narrator": "It was narrated that Jundub bin Sufyan said:",
+      "text": "Jundub bin Sufyan'dan rivayet edilmiştir ki: \"Ben, Allah'ın Elçisi ile (kurban günü) bulundum. O, insanlara namaz kıldırdı, sonra namazı bitirdiğinde kesilmiş bazı koyunları gördü. 'Namazdan önce (kurbanını) kesen kimse, onun yerine bir koyun kessin; kesmemiş olan da, Allah'ın Azim ve Celil adıyla bir kurban kessin.' dedi.\""
+    },
+    {
+      "id": 9,
+      "narrator": "It was narrated that Abu Ad-Dahhak 'Ubaid bin Fairuz, the freed slave of Banu Shaiban, said:",
+      "text": "Abu Ad-Dahhak 'Ubaid bin Fairuz, Banu Shaiban'ın azatlı kölesi olarak şöyle dedi: \"Ben Al-Bara bin Azib'e: 'Allah'ın Elçisi'nin hoşlanmadığı veya yasakladığı kurbanlık hayvanlar hakkında bana bilgi ver.' dedim. O da: 'Allah'ın Elçisi ayağa kalktı, benim ellerim onun ellerinden daha kısa, ve şöyle dedi: 'Dört hayvan kurban olarak kabul edilmez: Bir gözünde açıkça bir kusur olan hayvan; açıkça hasta olan hayvan; belirgin bir topallığı olan hayvan; ve o kadar zayıf olan hayvan ki, sanki kemiklerinde ilik yok.' Ben de: 'Hayvanların boynuzlarında veya dişlerinde bir kusur olmasını istemiyorum.' dedim. O da: 'Hoşlanmadığın şeyleri unut ve kimseye yasaklama.' dedi.\""
+    },
+    {
+      "id": 10,
+      "narrator": "'Ubaid bin Fairuz said:",
+      "text": "'Ubaid bin Fairuz şöyle dedi: \"Ben Al-Bara bin Azib'e: 'Allah'ın Elçisi'nin hoşlanmadığı veya yasakladığı kurbanlık hayvanlar hakkında bana bilgi ver.' dedim. O da: 'Allah'ın Elçisi elini böyle işaret etti, benim ellerim Allah'ın Elçisi'nin ellerinden daha kısa, ve şöyle dedi: 'Dört hayvan kurban olarak kabul edilmez: Bir gözünde açıkça bir kusur olan hayvan; açıkça hasta olan hayvan; belirgin bir topallığı olan hayvan; ve o kadar zayıf olan hayvan ki, sanki kemiklerinde ilik yok.' O da: 'Ve ben hayvanın boynuzlarında veya kulaklarında bir kusur olmasını istemiyorum.' dedi. O da: 'Hoşlanmadığın şeyleri unut ve kimseye yasaklama.'\""
+    },
+    {
+      "id": 11,
+      "narrator": "It was narrated from 'Ubaid bin Fairuz thatAl;\n-Bara bnin 'Azib said:",
+      "text": "'Ubaid bin Fairuz'dan rivayet edilmiştir ki, Al-Bara bin Azib şöyle dedi: \"Ben Allah'ın Elçisi'nin şöyle dediğini duydum\" - ve parmaklarıyla işaret etti, ama parmakları Allah'ın Elçisi'nin parmaklarından daha kısaydı - \"Açıkça bir gözünde bir kusur olan, belirgin bir topallığı olan, açıkça hasta olan veya o kadar zayıf olan hayvanlar kurban olarak kabul edilmez.\""
+    },
+    {
+      "id": 12,
+      "narrator": "It was narrated that 'Ali, may Allah be pleased with him, said:",
+      "text": "'Ali, Allah ondan razı olsun, şöyle dedi: \"Allah'ın Elçisi bize hayvanların gözlerini ve kulaklarını kontrol etmemizi emretti ve ön tarafından kesilmiş kulaklara sahip hayvanları, arka tarafından kesilmiş kulaklara sahip hayvanları, kuyruğu kesilmiş hayvanları ve kulaklarında yuvarlak bir delik olan hayvanları kurban etmememizi emretti.\""
+    },
+    {
+      "id": 13,
+      "narrator": "It was narrated that 'Ali said:",
+      "text": "'Ali şöyle dedi: \"Allah'ın Elçisi bize hayvanların gözlerini ve kulaklarını kontrol etmemizi emretti ve kötü gözlü hayvanları, ön tarafından kesilmiş kulaklara sahip hayvanları, arka tarafından kesilmiş kulaklara sahip hayvanları ve kulaklarında yuvarlak bir delik olan hayvanları kurban etmememizi emretti.\""
+    },
+    {
+      "id": 14,
+      "narrator": "It was narrated that 'Ali bin Abi Talib, may Allah be please with him, said:",
+      "text": "'Ali bin Abi Talib, Allah ondan razı olsun, şöyle dedi: \"Allah'ın Elçisi, ön tarafından kesilmiş kulaklara sahip hayvanları, arka tarafından kesilmiş kulaklara sahip hayvanları, uzunlamasına kesilmiş kulaklara sahip hayvanları, kulaklarında yuvarlak bir delik olan hayvanları veya burnu kesilmiş hayvanları kurban etmeyi yasakladı.\""
+    },
+    {
+      "id": 15,
+      "narrator": "It was narrated from 'Ali bin Abi Talib, may Allah be please wityh him, that the messenger of Allah said:",
+      "text": "'Ali bin Abi Talib, Allah ondan razı olsun, şöyle dedi: \"Allah'ın Elçisi, ön tarafından kesilmiş kulaklara sahip hayvanları, arka tarafından kesilmiş kulaklara sahip hayvanları, uzunlamasına kesilmiş kulaklara sahip hayvanları, kulaklarında yuvarlak bir delik olan hayvanları veya bir gözünde kusur olan hayvanları kurban etmemeyi emretti.\""
+    },
+    {
+      "id": 16,
+      "narrator": "'Ali said:",
+      "text": "'Ali dedi ki: \"Allah'ın Resulü, (kurbanlık) hayvanların gözlerini ve kulaklarını incelememizi emretti.\""
+    },
+    {
+      "id": 17,
+      "narrator": "'Ali said:",
+      "text": "'Ali dedi ki: \"Allah'ın Resulü, kırık boynuzlu bir hayvanı kurban etmemizi yasakladı.\" Ben (rivayet eden) bunu Sa'eed bin Al-Musayyab'a söyledim, o da dedi ki: \"Evet, eğer boynuzun yarısı veya daha fazlası eksikse.\""
+    },
+    {
+      "id": 18,
+      "narrator": "It was narrated that Jabir said:",
+      "text": "Jabir'den rivayet edilmiştir ki: \"Allah'ın Resulü şöyle dedi: 'Sadece Musinnah bir hayvanı kurban edin, eğer bu zor olursa, o zaman bir Jadh'ah koyununu kurban edebilirsiniz.'\""
+    },
+    {
+      "id": 19,
+      "narrator": "It was narrated from 'Uqbah bin 'Amair that:",
+      "text": "'Uqbah bin 'Amair'den rivayet edilmiştir ki: Allah'ın Resulü, ona bazı koyunlar verdi ve bunları arkadaşları arasında dağıtmasını istedi. Bir küçük keçi kaldı ve bunu Allah'ın Resulüne bildirdi. O da: \"Kendin kurban et.\" dedi."
+    },
+    {
+      "id": 20,
+      "narrator": "It was narrated from 'Uqbah bin 'Amir that:",
+      "text": "'Uqbah bin 'Amir'den rivayet edilmiştir ki: Allah'ın Resulü, arkadaşları arasında bazı kurbanlık hayvanları paylaştırdı ve ben bir Jadh'ah koyunu aldım. Dedim ki: \"Ey Allah'ın Resulü, ben bir Jadh'ah koyunu aldım.\" O da: \"Kurban et.\" dedi."
+    },
+    {
+      "id": 21,
+      "narrator": "It was narrated that 'Uqbah bin 'Amir said:",
+      "text": "'Uqbah bin 'Amir'den rivayet edilmiştir ki: \"Allah'ın Resulü, arkadaşları arasında bazı kurbanlık hayvanları paylaştırdı ve ben bir Jadh'ah koyunu aldım. Dedim ki: 'Ey Allah'ın Resulü, ben bir Jadh'ah koyunu aldım.' O da: 'Kurban et.' dedi.\""
+    },
+    {
+      "id": 22,
+      "narrator": "it was narrated that 'Uqbah bin 'Amir said:",
+      "text": "'Uqbah bin 'Amir'den rivayet edilmiştir ki: \"Biz, Allah'ın Resulü ile birlikte bir Jadh'ah koyunu kurban ettik.\""
+    },
+    {
+      "id": 23,
+      "narrator": "It was narrated from 'Asim bin Kulaib that his father said:",
+      "text": "'Asim bin Kulaib'den rivayet edilmiştir ki, babası şöyle dedi: \"Biz bir yolculuktaydık ve Kurban Bayramı günü geldi, bu yüzden koyun almaya başladık, iki veya üç Jadh'ah için bir Musinnah. Muzainah'tan bir adam bize dedi ki: 'Biz, Allah'ın Resulü ile bir yolculukta iken bu geldi ve biz koyun aramaya başladık, (bir Musinnah için) iki veya üç Jadh'ah teklif ettik. Sonra Allah'ın Resulü şöyle dedi: 'Bir Jadh'ah, bir Thani için yeterlidir.'\""
+    },
+    {
+      "id": 24,
+      "narrator": "It was narrated that 'Asim bin Kulaib said:",
+      "text": "'Asim bin Kulaib'den rivayet edilmiştir ki: \"Babamdan, bir adamın şöyle dediğini duydum: 'Biz, Allah'ın Resulü ile Al-Adha'dan iki gün önceydik ve bir Thaniyye için iki Jadh'ah teklif etmeye başladık. Sonra Allah'ın Resulü şöyle dedi: 'Bir Jadh'ah, bir Thaniyye için yeterlidir.'\""
+    },
+    {
+      "id": 25,
+      "narrator": "It was narrated form Anas that:",
+      "text": "Anas'tan rivayet edilmiştir ki: \"Allah'ın Resulü iki koç kurban ederdi. Anas dedi ki: 'Ben de iki koç kurban ederim.'\""
+    },
+    {
+      "id": 26,
+      "narrator": "It was narrated that Ans said:",
+      "text": "Ans'tan rivayet edilmiştir ki: \"Allah'ın Resulü iki Amlah koçu kurban etti.\""
+    },
+    {
+      "id": 27,
+      "narrator": "It was narrated that Anas said:",
+      "text": "Anas'tan rivayet edilmiştir ki: \"Peygamber, iki boynuzlu, Amlah koçunu kendi eliyle kurban etti, Allah'ın adını anarak ve 'Allahu Ekber' diyerek, ayaklarını yanlarına koyarak.\""
+    },
+    {
+      "id": 28,
+      "narrator": "It was narrated that Anas bin Malik said:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir ki: \"Allah'ın Resulü, Kurban Günü bize hitap etti ve iki Amlah koçuna yöneldi ve onları kurban etti.\" Kısaltılmıştır. (Sahih)"
+    },
+    {
+      "id": 29,
+      "narrator": "It was narrated from 'Adbur-Rahman bin Abi Bakrah that his father said:",
+      "text": "'Abdur-Rahman bin Abi Bakrah'dan rivayet edilmiştir ki, babası şöyle dedi: \"Sonra o\" yani Peygamber, Kurban Günü - \"İki Amlah koçuna yöneldi ve onları kurban etti, sonra (bir küçük koyun sürüsüne yöneldi) ve onları aramızda dağıttı.\" (Sahih)"
+    },
+    {
+      "id": 30,
+      "narrator": "It was narrated that Abu Sa'eed said:",
+      "text": "Ebu Sa'eed'den rivayet edilmiştir ki: \"Allah'ın Resulü, siyah ayakları, karnında biraz siyah ve gözlerinin etrafında siyah olan bir boynuzlu, sağlam bir koç kurban etti.\" (Sahih)"
+    },
+    {
+      "id": 31,
+      "narrator": "It was narrated that Rafi bin Khadij Said:",
+      "text": "Rafi bin Khadij'den rivayet edilmiştir: \"Allah'ın Elçisi, ganimetleri dağıtırken on koyunu bir deveye eşit tutardı.\" Şu'be dedi ki: \"Bunun çoğunu Sa'eed bin Masruq'tan duyduğum kadarıyla biliyorum ve Sufyan bana bunu aktardı.\" (Sahih)"
+    },
+    {
+      "id": 32,
+      "narrator": "It was narrated that  Ibn 'Abbas said:",
+      "text": "İbn 'Abbas'tan rivayet edilmiştir: \"Biz Allah'ın Elçisi ile bir yolculuk yapıyorduk, Kurban Bayramı günü geldiğinde, bir deveyi on adam arasında, bir ineği ise yedi kişi arasında paylaştık.\""
+    },
+    {
+      "id": 33,
+      "narrator": "It was narrated that Jabir said:",
+      "text": "Cabir'den rivayet edilmiştir: \"Peygamber bizimle birlikteyken Tamattu' yapardık ve yedi kişi adına bir inek kurban ederdik, onu aramızda paylaşıyorduk.\" (Sahih)"
+    },
+    {
+      "id": 34,
+      "narrator": "It was narrated that Al-Bara bin 'Azib said:",
+      "text": "Al-Bara bin 'Azib'den rivayet edilmiştir: \"Allah'ın Elçisi Kurban Bayramı günü ayağa kalktı ve şöyle dedi: 'Kim bizim kıblamıza yönelip bizim gibi namaz kılar ve bizim gibi kurban keserse, o kurbanını namaz kılmadan kesmesin; Amcam ayağa kalkıp dedi ki: 'Ey Allah'ın Elçisi, ben kurbanımı kesmekte acele ettim ki ailemi besleyebileyim. Ailemin fertleri veya komşularım; Allah'ın Elçisi dedi ki: 'Başka bir kurban kes.' O da: 'Bende et için beslenen iki koyundan daha değerli bir yavru keçi var,' dedi. O da: 'Onu kes, çünkü bu senin iki kurbanından daha hayırlıdır. Ama senin ardından hiç kimse için Jadh'ah kurban olarak kabul edilmez.'\" (Sahih)"
+    },
+    {
+      "id": 35,
+      "narrator": "It was narrated that Al-Bara bin 'Azib said:",
+      "text": "Al-Bara bin 'Azib'den rivayet edilmiştir: \"Allah'ın Elçisi Kurban Bayramı günü bize hitap etti ve şöyle dedi: 'Kim bizim gibi namaz kılar ve bizim gibi kurban keserse, ritüelleri düzgün yapmıştır. Namazdan önce kurban kesen kimse, o sadece et için bir koyundur.' Abu Burdah dedi ki: 'Ey Allah'ın Elçisi, Allah'a yemin ederim ki ben namaza çıkmadan önce kurbanımı kestim. Bu günün yemek ve içme günü olduğunu bildiğim için ailemi ve komşularımı beslemek için acele ettim.' Allah'ın Elçisi dedi ki: 'O sadece et için bir koyundur.' O da: 'Bende et için iki koyundan daha iyi bir Jadh'ah dişi keçi var; bu benim için yeterli olur mu (kurban olarak)?' O da: 'Evet, ama senin ardından hiç kimse için yeterli olmaz.'\" (Sahih)"
+    },
+    {
+      "id": 36,
+      "narrator": "It was narrated that Anas said:",
+      "text": "Anas'tan rivayet edilmiştir: \"Allah'ın Elçisi Kurban Bayramı günü şöyle dedi: 'Namazdan önce kurbanını kesen kimse, onu tekrar kesmelidir.' Bir adam ayağa kalkıp dedi ki: 'Ey Allah'ın Elçisi, bu insanlar et yemek istiyor.' Komşularının fakir olduğunu belirtti ve sanki Allah'ın Elçisi ona inandı. O da: 'Bende et için iki koyundan daha değerli bir Jadh'ah var.' Böylece ona bir kolaylık tanıdı (onu kesmesine izin verdi) ama diğerleri için geçerli olup olmadığını bilmiyorum. Sonra iki koçun yanına gidip onları kurban etti.\" (Sahih)"
+    },
+    {
+      "id": 37,
+      "narrator": "It was narrated from Abu Burdah bin Niyar that he slaughtered (his sacrifice) before the Prophet and the Prophet told him to repeat it. He said:",
+      "text": "Abu Burdah bin Niyar'dan rivayet edilmiştir ki, o Peygamberden önce (kurbanını) kesmiş ve Peygamber ona tekrar kesmesini söylemiştir. O da: \"Bende et için iki Muslinnah'dan daha değerli bir Jadh'ah dişi keçi var.\" O da: \"Onu kes,\" dedi. Ubaidullah'ın hadisine göre, \"Ben sadece bir Jadh'ah bulabiliyorum,\" dedi ve ona onu kesmesini söyledi. (Sahih)"
+    },
+    {
+      "id": 38,
+      "narrator": "It was narrated that Jundab bin Sufyan said:",
+      "text": "Cündab bin Sufyan'dan rivayet edilmiştir: \"Bir gün Allah'ın Elçisi ile birlikte kurban kestik ve insanlar namazdan önce kurbanlarını kestiler. Namazı bitirdiğinde Peygamber, onların kurbanlarını namazdan önce kestiklerini gördü. Dedi ki: 'Namazdan önce kurbanını kesen kimse, onun yerine başka bir kurban kesmeli, ve namazdan sonra kurbanını kesmeyen kimse, onu Allah'ın adıyla kesmelidir, Azametli ve Yüce olan.'\" (Sahih)"
+    },
+    {
+      "id": 39,
+      "narrator": "It was narrated from Muhammad bin Safwan that:",
+      "text": "Muhammed bin Safvan'dan rivayet edilmiştir ki: \"İki tavşan yakaladım ama onları kesmek için bir bıçak bulamadım, bu yüzden onları Marwah ile kestim. Sonra Peygamberin yanına geldim ve dedim: 'Ey Allah'ın Elçisi! İki tavşan yakaladım ama onları kesmek için bir bıçak bulamadım, bu yüzden onları Marwah ile kestim; onları yiyebilir miyim?' Dedi: 'Ye (onları).'\""
+    },
+    {
+      "id": 40,
+      "narrator": "It was narrated from Zaid bin Thabit that:",
+      "text": "Zaid bin Thabit'ten rivayet edilmiştir ki: \"Bir kurt bir koyunu ısırdı, bu yüzden onu Marwah ile kestim ve Peygamber onu yemesine izin verdi.\""
+    },
+    {
+      "id": 41,
+      "narrator": "It was narrated that 'Adiyy bin Hatim said:",
+      "text": "'Adiyy bin Hatim'den rivayet edilmiştir: \"Ben dedim: 'Ey Allah'ın Elçisi, ben köpeğimi salıyorum ve avı yakalıyorum, ama onu kesmek için bir şey bulamıyorum, bu yüzden onu Marwah veya bir sopa ile kesiyorum.' Dedi: 'Kanı dök, neyle istersen ve Allah'ın adını an.'\""
+    },
+    {
+      "id": 42,
+      "narrator": "It was narrated that Abu Sa'eed Al-Khudri said:",
+      "text": "Abu Sa'eed Al-Khudri'den rivayet edilmiştir: \"Ensar'dan bir adamın Uhud'un önünde otlayan bir dişi devesi vardı. Ona bir şey oldu ve onu bir çubukla kesmek zorunda kaldı.\" (Ayyub, bir ravi, Zaid'e sordu: \"Ahşap mı yoksa demir mi?\" O da: \"Hayır, ahşap.\" dedi.) \"Sonra Peygamberin yanına gitti ve ona sordu, o da ona yemesini söyledi.\" (Sahih)"
+    },
+    {
+      "id": 43,
+      "narrator": "It was narrated from Rafi bin Khadij that the Messenger of Allah said:",
+      "text": "Rafi bin Khadij'den rivayet edilmiştir ki, Allah'ın Elçisi şöyle dedi: \"Eğer kan dökülür ve Allah'ın adı anılırsa, o zaman ye, ancak (diş veya tırnak ile kesilmemişse).\""
+    },
+    {
+      "id": 44,
+      "narrator": "It was narrated that Rafi bin Khadij said:",
+      "text": "Rafi bin Khadij'den rivayet edilmiştir: \"Ben dedim: 'Ey Allah'ın Elçisi, yarın düşmanla karşılaşacağız ve elimizde hiçbir bıçak yok.' Allah'ın Elçisi dedi: 'Eğer kan dökülür ve Allah'ın adı anılırsa, o zaman ye, ancak (diş veya tırnak ile kesilmemişse, ve ben sana bunun hakkında söyleyeceğim. Dişler kemiktir, tırnaklar ise Habeşlilerin bıçaklarıdır.'\" (Sahih)"
+    },
+    {
+      "id": 45,
+      "narrator": "It was narrated that Shaddad bin Aws said:",
+      "text": "Şeddad bin Aws'dan rivayet edilmiştir: \"Allah'ın Elçisi'nden iki şey öğrendim, o da şöyle dedi: 'Allah her şeyde mükemmellik istemiştir, bu yüzden öldürdüğünüzde iyi öldürün, kurban kestiğinizde iyi kesin. Sizden biri bıçağını keskinleştirsin ve kesilen hayvana acı çektirmesin.'\" (Sahih)"
+    },
+    {
+      "id": 46,
+      "narrator": "It was narrated that Asma bint Abi Bakr said:",
+      "text": "Asma bint Ebu Bekir'den rivayet edilmiştir: \"Biz Allah Resulü'nün zamanında bir at kestik (Naharna) ve onu yedik.\" (Sahih)"
+    },
+    {
+      "id": 47,
+      "narrator": "It was narrated from Zaid bin Thabit that:",
+      "text": "Zeyd bin Sabit'ten rivayet edilmiştir ki: Bir kurt bir koyuna saldırdı, bu yüzden onu bir Marwah ile kestiler ve Peygamber bunu yemeye izin verdi."
+    },
+    {
+      "id": 48,
+      "narrator": "It was narrated from Abu Ushara' that his father said:",
+      "text": "Ebu Uşara'dan rivayet edilmiştir ki, babası şöyle dedi: \"Ben dedim: 'Ey Allah Resulü, kesim sadece boğazda mı yoksa üst göğüste mi?' O dedi: 'Eğer onu uyluk kısmından bıçaklarsan, bu yeterlidir.'\" (Daif)"
+    },
+    {
+      "id": 49,
+      "narrator": "It was narrated that Rafi said:",
+      "text": "Rafi'den rivayet edilmiştir: \"Ben dedim: 'Ey Allah Resulü, yarın düşmanla karşılaşacağız ve elimizde hiç bıçak yok.' O dedi: 'Eğer kan dökülür ve Allah'ın ismi anılırsa, o zaman ye, dişler veya tırnaklarla kesildiği gibi değil.' Sonra Allah Resulü bazı ganimetler aldı ve bir deve kaçtı. Bir adam ona ok attı ve onu durdurdu. O (Peygamber) dedi: 'Bu hayvanlardan bazıları - ya da 'bu develer' - vahşi hayvanlar gibi evcilleşmemiştir, bu yüzden eğer onlardan biri kontrolünden çıkarsa, aynı şeyi yap.'\" (Sahih)"
+    },
+    {
+      "id": 50,
+      "narrator": "It was narrated that Rafi bin Khadij said:",
+      "text": "Rafi bin Hacir'den rivayet edilmiştir: \"Ben dedim: 'Ey Allah Resulü, yarın düşmanla karşılaşacağız ve elimizde hiç bıçak yok.' O dedi: 'Eğer kan dökülür ve Allah'ın ismi anılırsa, o zaman ye, dişler veya tırnaklarla kesildiği gibi değil ve ben sana bunun hakkında bilgi vereceğim. Dişler kemiktir, tırnaklar ise Habeşlilerin bıçaklarıdır; Biz bazı ganimetler elde ettik, koyunlar veya develer dahil, ve bir deve kaçtı, bu yüzden bir adam ona ok attı ve onu durdurdu. Allah Resulü dedi: 'Bu hayvanlardan bazıları - ya da 'bu develer' - vahşi hayvanlar gibi evcilleşmemiştir, bu yüzden eğer onlardan biri kontrolünden çıkarsa, aynı şeyi yap.'\" (Sahih)"
+    },
+    {
+      "id": 51,
+      "narrator": "It was narrated that Shaddad bin Aws said:",
+      "text": "Şeddad bin Evs'ten rivayet edilmiştir: \"Ben Allah Resulü'nün şöyle dediğini duydum: 'Allah, Azîz ve Celil, her şeyde mükemmellik emretmiştir, bu yüzden öldürdüğünüzde, güzelce öldürün, ve kesim yaptığınızda, güzelce kesin. İçinizden biri bıçağını keskinleştirsin ve kesim yaptığı hayvana acı çektirmesin.'\" (Sahih)"
+    },
+    {
+      "id": 52,
+      "narrator": "It was narrated that Shaddad bin Aws said:",
+      "text": "Şeddad bin Evs'ten rivayet edilmiştir: \"Allah Resulü dedi: 'Allah, her şeyde mükemmellik emretmiştir, bu yüzden öldürdüğünüzde, güzelce öldürün, ve kesim yaptığınızda, güzelce kesin. İçinizden biri bıçağını keskinleştirsin ve kesim yaptığı hayvana acı çektirmesin.'\""
+    },
+    {
+      "id": 53,
+      "narrator": "It was narrated that Shadad bin Aws said:",
+      "text": "Şeddad bin Evs'ten rivayet edilmiştir: \"Ben Allah Resulü'nden iki şey duydum. O dedi: 'Allah, Azîz ve Celil, her şeyde mükemmellik emretmiştir, bu yüzden öldürdüğünüzde, güzelce öldürün, ve kesim yaptığınızda, güzelce kesin. İçinizden biri bıçağını keskinleştirsin ve kesim yaptığı hayvana acı çektirmesin.'\" (Sahih)"
+    },
+    {
+      "id": 54,
+      "narrator": "It was narrated that Shaddad bin Aws said:",
+      "text": "Şeddad bin Evs'ten rivayet edilmiştir: \"Allah Resulü'nden ezberlediğim iki şey; 'Allah, Azîz ve Celil, her şeyde mükemmellik emretmiştir, bu yüzden öldürdüğünüzde, güzelce öldürün, ve kesim yaptığınızda, güzelce kesin. İçinizden biri bıçağını keskinleştirsin ve kesim yaptığı hayvana acı çektirmesin.'\" (Sahih)"
+    },
+    {
+      "id": 55,
+      "narrator": "Anas said:",
+      "text": "Enes dedi ki: \"Allah Resulü iki boynuzlu, Amlah koçunu keserken şöyle dedi: 'Allahu Ekber' ve Allah'ın ismini anarak. Onu kendi eliyle keserken ve yanlarına ayağını koyarken gördüm.\" Ben dedim: \"Ondan bunu duydun mu?\" Dedi: \"Evet.\" (Sahih)"
+    },
+    {
+      "id": 56,
+      "narrator": "Anas bin Malik said:",
+      "text": "Enes bin Malik dedi ki: \"Allah Resulü iki koç keserdi, Allah'ın ismini anarak ve 'Allahu Ekber' derdi, ve onu kendi eliyle keserken ve yanlarına ayağını koyarken gördüm.\" (Sahih)"
+    },
+    {
+      "id": 57,
+      "narrator": "It was narrated that Anas said:",
+      "text": "Anas'tan rivayet edilmiştir: \"Onu - yani Peygamberi - kendi eliyle keserken ve yanlarına ayağını koyarken, Allah'ın ismini anarak ve 'Allahu Ekber' diyerek, iki boynuzlu Amlah koçunu keserken gördüm.\" (Sahih)"
+    },
+    {
+      "id": 58,
+      "narrator": "It was narrated that Anas bin Malik told them that:",
+      "text": "Anas bin Malik, onlara şöyle dedi: \"Peygamber, iki Amlah boynuzlu koçu keserken, yanlarına ayağını koyarak, Allah'ın ismini anarak ve 'Allahu Ekber' diyerek kesmiştir.\" (Sahih)"
+    },
+    {
+      "id": 59,
+      "narrator": "It was narrated from Jabir bin 'Abdullah that:",
+      "text": "Cabir bin Abdullah'dan rivayet edilmiştir ki: Allah Resulü bazı kurbanlık hayvanlarını kendi eliyle kesmiştir, ve başka biri de bazılarını kesmiştir. (Sahih)"
+    },
+    {
+      "id": 60,
+      "narrator": "It was narrated that Asma said:",
+      "text": "Asma'dan rivayet edilmiştir: \"Biz Allah Resulü'nün zamanında bir at kestik (Naharna) ve onu yedik.\" Hadisinde Kütaybe (rivayet edenlerden biri) dedi ki: \"Ve onun etini yedik.\" (Sahih) 'Abdah bin Süleyman ona karşı çıktı."
+    },
+    {
+      "id": 61,
+      "narrator": "It was narrated that Asma said:",
+      "text": "Asma'dan rivayet edilmiştir: \"Biz, Allah'ın Resulü zamanında Al-Medine'de bir at kestik (naharna) ve onu yedik.\" (Sahih)"
+    },
+    {
+      "id": 62,
+      "narrator": "It was narrated that 'Amir bin Wathilah said:",
+      "text": "'Amir bin Wathilah'dan rivayet edilmiştir: \"Bir adam 'Ali'ye sordu: 'Allah'ın Resulü size, insanlara söylemediği bir şeyi gizlice söyler miydi?' Ali öyle bir öfkeye kapıldı ki yüzü kızardı ve şöyle dedi: 'O, bana insanlara söylemediği hiçbir şeyi gizlice söylemedi, yalnızca evde yalnız kaldığımızda bana dört şey söyledi. Dedi ki: Allah, babasına lanet eden yalnız kişiye lanet etsin, Allah, Allah'tan başka birine kurban kesen kişiye lanet etsin, Allah, bir suçluya sığınak veren kişiye lanet etsin ve Allah, sınır işaretlerini değiştiren kişiye lanet etsin.'\" (Sahih)"
+    },
+    {
+      "id": 63,
+      "narrator": "It was narrated from Ibn 'Umar that:",
+      "text": "İbn 'Umar'dan rivayet edilmiştir ki: Allah'ın Resulü, kurban hayvanlarının etini üç günden sonra yemeyi yasakladı.\" (Sahih)"
+    },
+    {
+      "id": 64,
+      "narrator": "It ws narrated that Abu 'Ubaid - the freed slave of Ibn 'Awf - said:",
+      "text": "Abu 'Ubaid - İbn 'Awf'ın azatlı kölesi - şöyle dedi: \"Ben, 'Ali bin Ebi Talib'i - Allah onun yüzünü şereflendirsin - 'Id günü gördüm. Önce hutbeden önce namaz kıldırdı, sonra ezan ve ikamet olmadan namaz kıldı. Sonra şöyle dedi: 'Ben, Allah'ın Resulü'nün kurban hayvanının etinin üç günden fazla saklanmasını yasakladığını duydum.'\" (Sahih)"
+    },
+    {
+      "id": 65,
+      "narrator": "'Ali bin Abi Talib Said:",
+      "text": "'Ali bin Ebi Talib şöyle dedi: \"Allah'ın Resulü, kurban hayvanlarınızın etini üç günden fazla yemenizi yasakladı.\" (Sahih)"
+    },
+    {
+      "id": 66,
+      "narrator": "It was narrated from Jabir bin 'Abdullah that:",
+      "text": "Jabir bin 'Abdullah'dan rivayet edilmiştir ki: Allah'ın Resulü, kurban hayvanlarının etini üç günden sonra yemeyi yasakladı, sonra şöyle dedi: \"Yiyin, yanınıza alın (seyahat ederken). Ve saklayın.\" (Sahih)"
+    },
+    {
+      "id": 67,
+      "narrator": "It was narrated from Ibn Khabbab  - who is 'Abdullah bin Khabbab - that:",
+      "text": "İbn Khabbab - ki o 'Abdullah bin Khabbab'dır - şöyle rivayet etmiştir: Abu Sa'id Al-Khudri bir yolculuktan döndü ve ailesi ona kurban hayvanından biraz et ikram etti. O dedi ki: \"Bunu yemeyeceğim, önce bunun hakkında soracağım.\" Böylece Badr'de bulunan üvey kardeşi Qatadah bin An-Nu'man'a gitti ve ona bunu sordu. O da dedi ki: \"Sana yasaklanan şeyin zıttı oldu ve (üç günden sonra) kurban etini yeme izni verildi.\" (Sahih)"
+    },
+    {
+      "id": 68,
+      "narrator": "It was narrated from Abu Sa'eed Al-Khudri that:",
+      "text": "Abu Sa'eed Al-Khudri'den rivayet edilmiştir ki: Allah'ın Resulü, kurban hayvanlarının etini üç günden sonra yemeyi yasakladı. Sonra Qatadah bin An-Nu'man, Abu Sa'id'in annesi tarafından kardeşi olan ve Badr'de bulunan geldi ve ona (biraz et) ikram ettiler. O dedi ki: \"Allah'ın Resulü bunu yasaklamadı mı?\" Abu Sa'id dedi ki: \"Sonra bir şey oldu. Allah'ın Resulü, üç günden fazla yememizi yasakladı, sonra yememize ve saklamamıza izin verdi.\" (Sahih)"
+    },
+    {
+      "id": 69,
+      "narrator": "It was narrated from Ibn Buraidah that his father said:",
+      "text": "İbn Buraidah'dan rivayet edilmiştir ki, babası şöyle dedi: \"Allah'ın Resulü dedi ki: 'Ben size üç şey yapmayı yasaklamıştım: mezarları ziyaret etmeyi, ama şimdi üç mezarı ziyaret edin, çünkü bundan fayda görebilirsiniz. Ve ben size kurban hayvanlarının etini üç günden sonra yemeyi yasaklamıştım ama şimdi yiyin ve istediğinizi saklayın. Ve ben size (belirli türdeki) kaplardan içmeyi yasaklamıştım ama şimdi istediğiniz türdeki kaplardan için, ama herhangi bir sarhoş edici içecek içmeyin.'\" (Sahih) Muhammad (rivayet edenlerden biri) \"istediğinizi saklayın\" demedi."
+    },
+    {
+      "id": 70,
+      "narrator": "It was narrated from Ibn Buraidah that his fhater said:",
+      "text": "İbn Buraidah'dan rivayet edilmiştir ki, babası şöyle dedi: \"Allah'ın Resulü dedi ki: 'Ben size kurban hayvanlarının etini üç günden sonra yemeyi yasaklamıştım, ve (bir şey) Nadidh yapmayı yasaklamıştım, mezarları ziyaret etmeyi yasaklamıştım. Ama şimdi istediğiniz kadar et yiyin, yanınıza alın (seyahat ederken) veya saklayın; ve kim mezarları ziyaret etmek isterse, bu ona ahireti hatırlatır; ve için, ama her türlü sarhoş edici içecekten sakının.'\" (Sahih)"
+    },
+    {
+      "id": 71,
+      "narrator": "It was narrated that 'Aishah said:",
+      "text": "'Aişe'den rivayet edilmiştir ki: \"Bazı bedeviler Al-Medine'ye geldiğinde (Eid) Al-Adha zamanı ve Allah'ın Resulü dedi ki: 'Yiyin ve (eti) üç gün saklayın.' Sonra dediler ki: 'Ey Allah'ın Resulü, insanlar kurbanlarından yağ eriterek ve (aynı zamanda) onlardan su tulumları yaparak faydalanırlardı.' O dedi: 'Neden soruyorsunuz?' Dedi ki: 'Çünkü siz bize kurban hayvanlarının etini saklamayı yasakladınız.' O dedi: 'Ben bunu sadece gelen bedeviler yüzünden yasakladım. (Şimdi) onu yiyin, saklayın ve sadaka verin.'\" (Sahih)"
+    },
+    {
+      "id": 72,
+      "narrator": "It was narrated from 'Abdur-Rahman bin 'Abis that his father said:",
+      "text": "'Abdur-Rahman bin 'Abis'ten rivayet edilmiştir ki, babası şöyle dedi: \"Ben 'Aişe'ye girdim ve dedim: 'Allah'ın Resulü, kurban hayvanlarının etini üç günden sonra yemeyi yasakladı mı?' O dedi: 'Evet, insanlar zor durumda kaldı ve Allah'ın Resulü zenginlerin fakirlere yemek vermesini istedi.' Sonra dedi: 'Ben, Muhammed'in ailesinin on beş gün sonra ayak etlerini yediğini hatırlıyorum. Ben dedim: 'Neden böyle?' O güldü ve dedi: 'Muhammed'in ailesi, Allah'a kavuşana kadar, üç gün üst üste ekmek ve onunla birlikte bir şey yemedi.'\" (Sahih)"
+    },
+    {
+      "id": 73,
+      "narrator": "It was narrated from 'Abdur'Rahman bin 'Abis that his father said:",
+      "text": "'Abdur-Rahman bin 'Abis'ten rivayet edilmiştir ki, babası şöyle dedi: \"Ben 'Aişe'ye kurban hayvanlarının etini sordum ve o dedi: 'Biz, Allah'ın Resulü için ayak etlerini bir ay boyunca saklardık, sonra o onları yerdim.'\""
+    },
+    {
+      "id": 74,
+      "narrator": "It was narrated that Abu sa'eed Al-aKhudri said:",
+      "text": "Abu Sa'eed Al-Khudri şöyle dedi: \"Allah'ın Resulü, kurban hayvanlarının etini üç günden fazla saklamayı yasakladı, sonra dedi ki: 'Yiyin ve başkalarına da yedirin.'\" (Sahih)"
+    },
+    {
+      "id": 75,
+      "narrator": "'Abdullah bin Mughaffal said:",
+      "text": "'Abdullah bin Mughaffal dedi ki: \"Khaybar günü bir yağ torbası atıldı, ben onu yakaladım ve dedim: 'Bundan kimseye bir şey vermeyeceğim.' Arkama döndüm ve orada Allah'ın Resulü'nü gülümserken gördüm.\" (Sahih)"
+    },
+    {
+      "id": 76,
+      "narrator": "It was narrated from 'Aishah that:",
+      "text": "'Aişe'den rivayet edilmiştir ki: bazı bedevi insanlar bize et getirirdi ve onun üzerinde Allah'ın isminin anılıp anılmadığını bilmiyorduk. Allah'ın Resulü şöyle dedi: \"Allah'ın ismini anın ve yiyin.\" (Sahih)"
+    },
+    {
+      "id": 77,
+      "narrator": "Harun bin Abi Walki-who is Harun bin 'Antarah -narrated from his father, form Ibn 'Abbas, concerning the saying of Allah, the Mighty and Sublime:",
+      "text": "Harun bin Ebi Velki - Harun bin 'Antarah - babasından, İbn 'Abbas'tan, Allah'ın Azim ve Celil olan sözü hakkında: \"Allah'ın isminin anılmadığı şeylerden yemeyin\" - dedi ki: \"Putperestler onlarla tartıştılar ve dediler ki: 'Allah'ın öldürdüğü şeyi yemeyin, sizin öldürdüğünüzü yiyin!'\""
+    },
+    {
+      "id": 78,
+      "narrator": "It was narrated that Abu Tha'labah said:",
+      "text": "Ebu Tha'labah'tan rivayet edilmiştir ki: \"Allah'ın Resulü şöyle dedi: Hedef olarak alınan bir hayvan helal değildir.\""
+    },
+    {
+      "id": 79,
+      "narrator": "It was narrated that Hisham bin Zaid said;\n\"Ans and I entered upon Al-Hakam - that it, Ibn Ayyb - and there were some people shooting at a chicken in the house of the governor. He said:",
+      "text": "Hişam bin Zaid'den rivayet edilmiştir; \"Ensar ve ben Al-Hakam - o da İbn Ayyub - üzerine girdik ve valinin evinde bir tavuk üzerinde ok atan bazı insanlar vardı. O şöyle dedi: 'Allah'ın Resulü, hayvanları hedef olarak kullanmayı yasakladı;'\""
+    },
+    {
+      "id": 80,
+      "narrator": "It was narrated that 'Abdullah bin Ja'far said:",
+      "text": "'Abdullah bin Ca'fer'den rivayet edilmiştir ki: \"Allah'ın Resulü, bir koç üzerine ok atan bazı insanların yanından geçti. Bunu kınadı ve şöyle dedi: 'Hayvanları şekil bozmaktan sakının.'\" (Sahih)"
+    },
+    {
+      "id": 81,
+      "narrator": "It was narrated that Ibn 'Umar said:",
+      "text": "İbn 'Umar'dan rivayet edilmiştir ki: \"Allah'ın Resulü, ruhu olan bir şeyi hedef olarak alanları lanetledi.\" (Sahih)"
+    },
+    {
+      "id": 82,
+      "narrator": "It was narrated that Ibn 'Umar said;\n\"I heard the Messenger of Allah say:",
+      "text": "İbn 'Umar'dan rivayet edilmiştir; \"Allah'ın Resulü'nün şöyle dediğini duydum: 'Hayvanı şekil bozanı Allah lanetlesin.'\" (Sahih)"
+    },
+    {
+      "id": 83,
+      "narrator": "It was narrated from Ibn 'Abbas that the Messenger of Allah said:",
+      "text": "İbn 'Abbas'tan rivayet edilmiştir ki, Allah'ın Resulü şöyle dedi: \"Ruhu olan bir şeyi hedef olarak almayın.\""
+    },
+    {
+      "id": 84,
+      "narrator": "It was narrated that Ibn 'Abbbas Said:",
+      "text": "İbn 'Abbas'tan rivayet edilmiştir ki: \"Allah'ın Resulü, ruhu olan bir şeyi hedef olarak kullanmamızı yasakladı.\" (Sahih)"
+    },
+    {
+      "id": 85,
+      "narrator": "It was narrated from 'Abdullah bin 'Amr, who attributed it to the Messenger of Allah:",
+      "text": "'Abdullah bin 'Amr'dan, bunu Allah'ın Resulü'ne atfederek rivayet edilmiştir: \"Hiç kimse, herhangi bir haklı sebep olmaksızın küçük bir kuşu veya daha büyüğünü öldürmez ki, Allah ona bunun hesabını sorar.\" Denildi ki: \"Ey Allah'ın Resulü, 'haklı sebep' ne demektir?\" O şöyle dedi: \"Onu kesip yemenizdir, başını kesip bir kenara atmanız değildir.\""
+    },
+    {
+      "id": 86,
+      "narrator": "It was narrated that 'Amr bin Sharid said:",
+      "text": "'Amr bin Şarid'den rivayet edilmiştir ki: \"Şarid'in şöyle dediğini duydum: 'Allah'ın Resulü şöyle dedi: Hiç kimse, hiçbir sebep olmaksızın küçük bir kuşu öldürürse, o, Kıyamet Günü Allah'a yalvarır ve der ki: Ey Rabbim, falan filan beni sebepsiz yere öldürdü. O, beni faydalı bir amaç için öldürmedi.'\""
+    },
+    {
+      "id": 87,
+      "narrator": "It was narrated from 'Amr bin Shu'aib, from his father, from his father Muhammad bin 'Abdullah bin 'Amr - or on one occasion he said:",
+      "text": "'Amr bin Şu'ayb'den, babasından, dedesi Abdullah bin 'Amr'dan - ya da bir defasında babasından, dedesinden - rivayet edilmiştir ki, Hayber Günü, Allah'ın Resulü evcil eşeklerin etini ve al-Callalah (dışkı yiyen hayvanlar) etini yemeyi yasakladı, onları binmeyi ve yünlerini yemeyi de yasakladı.\""
+    },
+    {
+      "id": 88,
+      "narrator": "It was narrated that Ibn 'Abbas said:",
+      "text": "İbn 'Abbas'tan rivayet edilmiştir ki: \"Allah'ın Resulü, hedef olarak alınan hayvanların etini, al-Callalah (dışkı yiyen hayvanlar) sütünü ve su tulumlarından doğrudan içmeyi yasakladı.\""
+    }
+  ]
+}

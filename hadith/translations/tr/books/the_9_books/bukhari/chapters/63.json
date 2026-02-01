@@ -1,0 +1,876 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 172,
+    "arabic": {
+      "title": "صحيح البخاري",
+      "author": "الإمام محمد بن إسماعيل البخاري"
+    },
+    "english": {
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Muhammad ibn Ismail al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Narrated Ghailan bin Jarir:",
+      "text": "Ghaylan bin Cerir'den rivayet edilmiştir: Anas'a sordum, \"Al-Ansar ismi hakkında bana söyle. Kendinize bu ismi mi verdiniz yoksa Allah mı size bu ismi verdi?\" Dedi ki, \"Allah bize bu ismi verdi.\" Biz Anas'ı (Basra'da) ziyaret ederdik ve o, bize Ansar'ın faziletlerini ve yaptıklarını anlatırdı, ve bana veya Al-Azd kabilesinden birine hitap ederek, \"Sizin kabileniz şu gün şu işi yaptı.\" derdi."
+    },
+    {
+      "id": 2,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Bu'at günü (yani Ansar'ın iki kabilesi, Avs ve Hazreç arasında savaşın olduğu gün) Allah tarafından Peygamberi için hayırla getirildi ki, Allah'ın Resulü (ﷺ) Medine'ye vardığında, Medine kabileleri zaten bölünmüş ve liderleri öldürülmüş ve yaralanmıştı. Böylece Allah, Peygamberi için hayırla savaşı meydana getirdi ki, onlar (yani Ansar) İslam'ı kabul edebilsinler."
+    },
+    {
+      "id": 3,
+      "narrator": "Narrated Anas:",
+      "text": "Anas'tan rivayet edilmiştir: Mekke'nin Fethi günü, Peygamber (ﷺ) Kureyş'e (ganimetten) pay verdiğinde, Ansar, \"Vallahi, bu gerçekten çok garip: Kureyş'in kanı hala kılıçlarımızdan damlarken, ganimetlerimiz onlara dağıtılıyor.\" dedi. Bu haber Peygamber (ﷺ)'e ulaştığında, Ansar'ı çağırdı ve \"Sizden bana ulaşan bu haber nedir?\" dedi. Yalan söylemezlerdi, bu yüzden \"Sana ulaşan doğru.\" dediler. O da, \"İnsanların ganimeti evlerine götürmelerinin ve sizlerin Allah'ın Resulü'nü evlerinize götürmenizin sizi sevindirmiyor mu?\" dedi. \"Eğer Ansar bir vadi veya dağ geçidinden geçseydi, ben de Ansar'ın vadi veya dağ geçidinden geçerdim.\""
+    },
+    {
+      "id": 4,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) veya Abul-Kasım şöyle dedi: \"Eğer Ansar bir vadi veya dağ geçidinden geçseydi, ben de Ansar'ın vadisinden geçerdim. Hicret olmasaydı, ben de Ansar'dan biri olurdum.\" Ebu Hureyre şöyle derdi: \"Peygamber (ﷺ) haksız değildir (bunu söylemekle). Annem babam onun uğruna feda olsun, zira Ansar ona sığınmış ve yardım etmiştir.\" veya benzer bir cümle söyledi."
+    },
+    {
+      "id": 5,
+      "narrator": "Narrated Sa`d's father:",
+      "text": "Sa'd'ın babasından rivayet edilmiştir: Emigranlar Medine'ye ulaştığında, Allah'ın Resulü (ﷺ) Abdurrahman ile Sa'd bin Ar-Rabi arasında kardeşlik bağı kurdu. Sa'd, Abdurrahman'a, \"Ben Ansar'ın en zenginiyim, bu yüzden malımı (arasında) paylaşmak istiyorum, ve iki eşim var; hangisini beğeniyorsan bana söyle ki, onu boşayım ve iddet süresi (yani 'iddet) dolduğunda onunla evlenesin.\" dedi. Abdurrahman, \"Allah ailen ve malın üzerine bereket versin; pazarın nerede?\" dedi. Böylece ona Kaynuka pazarını gösterdiler. (Oraya gitti ve) kuru yoğurt ve tereyağı şeklinde bir kar ile geri döndü. Bir gün geldiğinde, üzerinde sarı parfüm izleri vardı. Peygamber (ﷺ) sordu, \"Bu (parfüm) nedir?\" O da, \"Evlenmişim.\" dedi. Peygamber (ﷺ) sordu, \"Ne kadar mehr verdin?\" O da, \"Bir hurma çekirdeği ağırlığında altın veya bir altın parçası verdim.\" dedi. (Rivayet eden İbrahim, hangisinin doğru olduğundan şüphe duymaktadır.)"
+    },
+    {
+      "id": 6,
+      "narrator": "Narrated Anas:",
+      "text": "Anas'tan rivayet edilmiştir: Abdurrahman bin Avf bize geldiğinde, Allah'ın Resulü (ﷺ) onu zengin olan Sa'd bin Ar-Rabi ile kardeş yaptı. Sa'd, \"Ansar biliyor ki ben onların en zenginiyim, bu yüzden malımı seninle iki kısma ayıracağım, ve iki eşim var; hangisini beğeniyorsan bana söyle ki, onu boşayım ve o, boşanma süresi (yani 'iddet) dolduğunda senin için helal olsun.\" dedi. Abdurrahman, \"Allah ailen (yani eşlerin) üzerine bereket versin.\" dedi. (Ama Abdurrahman pazara gitti) ve o gün sadece kuru yoğurt ve tereyağı ile geri döndü. Birkaç gün ticaret yaptıktan sonra, Allah'ın Resulü (ﷺ)'ne geldiğinde, kıyafetlerinde sarı parfüm izleri vardı. Allah'ın Resulü (ﷺ) ona, \"Bu parfüm nedir?\" diye sordu. O da, \"Ansar'dan bir kadınla evlendim.\" dedi. Allah'ın Resulü sordu, \"Ne kadar mehr verdin?\" O da, \"Bir hurma çekirdeği ağırlığında altın veya bir altın hurma çekirdeği verdim.\" dedi. Peygamber (ﷺ) dedi ki, \"Bir koyunla bile olsa bir düğün ziyafeti düzenle.\""
+    },
+    {
+      "id": 7,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Ansar, Peygamber (ﷺ)'e, \"Lütfen hurma ağaçlarını bizimle ve onlarla (yani emigranlarla) paylaş.\" dediler. Peygamber (ﷺ) dedi ki, \"Hayır.\" Ansar, \"Onlar (yani emigranlar) bahçelerde bizim için çalışsın ve hurma meyvelerini bizimle paylaşsın.\" dediler. Emigranlar, \"Bunu kabul ettik.\" dediler."
+    },
+    {
+      "id": 8,
+      "narrator": "Narrated Al-Bara:",
+      "text": "Al-Bara'dan rivayet edilmiştir: Peygamber (ﷺ)'in şöyle dediğini işittim: \"Ansar'ı seven sadece bir mümin, onlardan nefret eden ise sadece bir münafıktır. Allah, onları seveni sever, onlardan nefret edeni ise nefret eder.\""
+    },
+    {
+      "id": 9,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir: Peygamber (ﷺ) dedi ki, \"İmanın işareti, Ansar'ı sevmektir; münafıklığın işareti ise, Ansar'ı nefret etmektir.\""
+    },
+    {
+      "id": 10,
+      "narrator": "Narrated Anas:",
+      "text": "Anas'tan rivayet edilmiştir: Peygamber (ﷺ), kadınları ve çocukları (Ansar'dan) öne doğru gelirken gördü. (Alt rivayet eden, \"Anas'ın, 'Bir düğün partisinden dönüyorlardı.' dediğini düşünüyorum.\") Peygamber (ﷺ) ayağa kalktı ve üç kez, \"Vallahi! Siz benim en sevdiğim insanlardansınız.\" dedi."
+    },
+    {
+      "id": 11,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir: Bir gün bir Ansar kadını, bir oğlu ile birlikte Allah'ın Resulü (ﷺ)'ne geldi. Allah'ın Resulü (ﷺ) ona hitap etti ve iki kez, \"Canımın sahibi olan Allah'a yemin ederim ki, siz benim en sevdiğim insanlardansınız.\" dedi."
+    },
+    {
+      "id": 12,
+      "narrator": "Narrated Zaid bin Al-Arqam:",
+      "text": "Zeyd bin Arkam'dan rivayet edilmiştir: Ansar, \"Ey Allah'ın Resulü (ﷺ)! Her peygamberin kendi takipçileri vardır ve biz seni takip ettik. O halde, Allah'a dua et de, bizim takipçilerimiz de bizden (Ansar olarak) kabul edilsin.\" dediler. Böylece o, Allah'a buna göre dua etti."
+    },
+    {
+      "id": 13,
+      "narrator": "Narrated Abu Hamza:",
+      "text": "Ebu Hamza'dan rivayet edilmiştir: (Ansar'dan bir adam) Ansar, \"Her milletin takipçileri vardır ve (Ey Peygamber) biz seni takip ettik, o halde Allah'a dua et de, bizim takipçilerimiz de bizden (Ansar gibi) kabul edilsin.\" dediler. Peygamber (ﷺ) dedi ki, \"Ey Allah! Onların takipçilerini kendileri gibi Ansar olarak kabul et.\""
+    },
+    {
+      "id": 14,
+      "narrator": "Narrated Abu Usaid:",
+      "text": "Ebu Usaid'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Ansar'ın en iyi aileleri (evleri) Banu En-Necjar, sonra Banu Abdul Ash-hal, sonra Banu Harith bin Al-Hazreç ve sonra Banu Sa'ida'dır; yine de, Ansar'ın tüm ailelerinde hayır vardır.\" Bunun üzerine Sa'd (bin Ubade) dedi ki, \"Peygamber (ﷺ)'in bazı insanları bize tercih ettiğini görüyorum.\" Birisi ona, \"Hayır, ama sana birçoklarına üstünlük vermiştir.\" dedi."
+    },
+    {
+      "id": 15,
+      "narrator": "Narrated Abu Usaid:",
+      "text": "Ebu Usaid'den rivayet edilmiştir: Peygamber (ﷺ)'in şöyle dediğini işitti: \"Ansar'ın en iyisi, ya da Ansar ailelerinin en iyisi Banu En-Necjar, Banu Abdul Ash-hal, Banu Harith ve Banu Sa'ida'dır.\""
+    },
+    {
+      "id": 16,
+      "narrator": "Narrated Abu Humaid:",
+      "text": "Abu Humaid'den rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Ensar aileleri (evleri) arasında en iyisi Banu En-Necjar aileleridir, sonra Banu Abdül Aşhal, sonra Banu Haris, sonra Banu Saida gelir; ve Ensar'ın tüm ailelerinde hayır vardır.\" Sa'd bin Ubade bize katıldı ve dedi ki, \"Ey Ebu Usaid! Peygamber (ﷺ) Ensar'ı kıyasladı ve bizi üstünlükte en sona koydu, bunu görmüyor musun?\" Sonra Sa'd Peygamber (ﷺ) ile karşılaştı ve dedi ki, \"Ey Allah'ın Elçisi (ﷺ)! Ensar ailelerini (evlerini) üstünlük derecelerine göre kıyaslarken, bizi en sona koydunuz.\" Allah'ın Elçisi (ﷺ) şöyle cevap verdi: \"Sizin en iyiler arasında kabul edilmeniz yeterli değil mi?\""
+    },
+    {
+      "id": 17,
+      "narrator": "Narrated Usaid bin Hudair:",
+      "text": "Usaid bin Hudair'den rivayet edilmiştir: Ensar'dan bir adam dedi ki, \"Ey Allah'ın Elçisi (ﷺ)! Beni de filan kişiyi atadığın gibi atar mısın?\" Peygamber (ﷺ) dedi ki, \"Benden sonra başkalarının size tercih edildiğini göreceksiniz; bu yüzden benimle buluşana kadar sabırlı olun.\" (Kıyamet Günü'nde)."
+    },
+    {
+      "id": 18,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir: Peygamber (ﷺ) Ensar'a dedi ki, \"Benden sonra başkalarının size tercih edildiğini göreceksiniz; bu yüzden benimle buluşana kadar sabırlı olun ve vaadedilen buluşma yeriniz Tank (yani Kauthar Gölü) olacaktır.\""
+    },
+    {
+      "id": 19,
+      "narrator": "Narrated Yahya bin Sa`id:",
+      "text": "Yahya bin Sa'id'den rivayet edilmiştir: Anas bin Malik'in Al-Walid ile birlikte gittiğinde şöyle dediğini işitti: \"Bir zaman Peygamber (ﷺ) Ensar'ı çağırarak onlara Bahreyn topraklarını vermek istedi, onlar da 'Hayır, eğer göçmen kardeşlerimize benzer bir pay vermezseniz' dediler. Bunun üzerine o da 'Eğer buna razı olmazsanız, benimle buluşana kadar sabırlı olun; zira benden sonra başkaları size tercih edilecektir.' dedi.\""
+    },
+    {
+      "id": 20,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir: Allah'ın Elçisi (ﷺ) dedi ki, \"Ahiretten başka bir hayat yoktur; o yüzden, Ey Allah! Ensar'ın ve Muhacirlerin durumunu iyileştir.\" Anas ekledi ki, Peygamber (ﷺ) ayrıca şöyle dedi: \"Ey Allah! Ensar'ı affet.\""
+    },
+    {
+      "id": 21,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir: Hendek Savaşı (yani Gazvet-ul-Khandaq) günü Ensar şöyle diyordu: \"Biz, yaşadığımız sürece cihad (yani kutsal savaş) için Muhammed'e biat edenleriz.\" Peygamber (ﷺ) onlara cevap verdi: \"Ey Allah! Ahiretten başka bir hayat yoktur; bu yüzden, lütfen Ensar'ı ve Muhacirleri onurlandır.\""
+    },
+    {
+      "id": 22,
+      "narrator": "Narrated Sahl:",
+      "text": "Sahl'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) bize geldiğinde biz hendek kazıyorduk ve toprağı sırtımızda taşıyorduk. Allah'ın Elçisi (ﷺ) sonra dedi ki, \"Ey Allah! Ahiretten başka bir hayat yoktur; bu yüzden, lütfen Muhacirleri ve Ensar'ı affet.\""
+    },
+    {
+      "id": 23,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Bir adam Peygamber'e geldi. Peygamber (ﷺ) onun için eşlerine (o adam için bir şey getirmeleri için) bir elçi gönderdi ama onlar, \"Bizim su dışında bir şeyimiz yok.\" dediler. Sonra Allah'ın Elçisi (ﷺ) dedi ki, \"Bu (kişiyi) kim alacak veya misafir edecek?\" Bir Ensar adamı dedi ki, \"Ben.\" Böylece onu karısına götürdü ve ona, \"Allah'ın Elçisi'nin misafirini cömertçe ağırlayın.\" dedi. O da, \"Çocuklarımın yemeklerinden başka bir şeyimiz yok.\" dedi. O da, \"Yemeğini hazırla, lambanı yak ve çocukların akşam yemeği isterlerse uyusunlar.\" dedi. Böylece o yemeğini hazırladı, lambasını yaktı ve çocuklarını uyuttu, sonra lambasını tamir ediyormuş gibi kalktı ama onu söndürdü. Sonra ikisi de yemek yiyormuş gibi davrandılar ama aslında aç yattılar. Sabah Ensar, Allah'ın Elçisi'ne (ﷺ) gitti ve o da, \"Bu gece Allah, yaptığınız işe güldü veya hayret etti.\" dedi. Sonra Allah şöyle vahyetti: \"Ama onları (muhacirleri) kendilerine tercih edin, oysa onlar buna muhtaçtılar. Ve kim de açgözlülükten kurtulursa, işte onlar kurtuluşa erenlerdir.\" (59.9)"
+    },
+    {
+      "id": 24,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir: Ebu Bekir ve Al-Abbas, o sırada ağlayan Ensar'ın bir topluluğunun yanından geçtiler. O (yani Ebu Bekir veya Al-Abbas) sordu, \"Neden ağlıyorsunuz?\" Onlar da, \"Peygamber (ﷺ) ile olan toplantımızı hatırladığımız için ağlıyoruz.\" dediler. Bunun üzerine Ebu Bekir, Peygamber'e (ﷺ) gitti ve ona bunu bildirdi. Peygamber (ﷺ) dışarı çıktı, başını bir örtü parçasıyla sardı. O, o günden sonra bir daha çıkmadığı minbere çıktı. Allah'ı yüceltti ve övdü, sonra dedi ki, \"Sizden ricam, Ensar'a iyi bakmanızdır; zira onlar benim yakın arkadaşlarımdır, onlara özel sırlarımı açtım. Onlar üzerlerine düşen yükümlülükleri ve hakları yerine getirdiler ama onlara düşenler hâlâ vardır. Bu yüzden, içlerinden iyilik yapanların iyiliklerini kabul edin ve içlerinden yanlış yapanları affedin.\""
+    },
+    {
+      "id": 25,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) (ölümcül hastalığında) omuzlarını ve başını örtüyle sarılı olarak minbere oturduğunda, Allah'ı övdükten sonra şöyle dedi: \"Ondan sonra, ey insanlar! İnsanlar artmaya devam edecek, ama Ensar azalacak ve yemek içindeki tuz gibi olacaklar. Bu yüzden, aranızdan kim yönetici olacak ve başkalarına zarar verme veya fayda sağlama gücüne sahip olacaksa, içlerinden iyilik yapanların iyiliklerini kabul etsin ve içlerinden yanlış yapanları affetsin.\""
+    },
+    {
+      "id": 26,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir: Peygamber (ﷺ) dedi ki, \"Ensar benim yakın arkadaşlarımdır, onlara özel sırlarımı açtım. İnsanlar artmaya devam edecek ama Ensar azalacak; bu yüzden içlerinden iyilik yapanların iyiliklerini kabul edin ve içlerinden yanlış yapanları affedin.\""
+    },
+    {
+      "id": 27,
+      "narrator": "Narrated Al-Bara:",
+      "text": "Al-Bara'dan rivayet edilmiştir: Peygamber'e (ﷺ) bir ipek kumaş hediye edildi. Arkadaşları onu dokunarak yumuşaklığını hayranlıkla incelediler. Peygamber (ﷺ) dedi ki, \"Onun yumuşaklığını mı hayranlıkla izliyorsunuz? Sa'd bin Mu'adh'ın (Cennet'teki) mendilleri ondan daha iyi ve daha yumuşaktır.\""
+    },
+    {
+      "id": 28,
+      "narrator": "Narrated Jabir:",
+      "text": "Cabir'den rivayet edilmiştir: Peygamber (ﷺ) şöyle diyordu: \"Sa'd bin Mu'adh'ın ölümüyle Allah'ın Arşı sarsıldı.\" Başka bir rivayet grubundan Cabir ekledi: \"Peygamber (ﷺ) şöyle diyordu: 'Merhamet edenin Arşı, Sa'd bin Mu'adh'ın ölümü nedeniyle sarsıldı.'\""
+    },
+    {
+      "id": 29,
+      "narrator": "Narrated Abu Sa`id Al-Khudri:",
+      "text": "Ebu Said el-Hudri'den rivayet edilmiştir: Bazı insanlar (yani Beni Kureyza Yahudileri) Sa'd bin Mu'adh'ın hükmünü kabul etmeyi kabul ettiler, bu yüzden Peygamber (ﷺ) onu (yani Sa'd bin Mu'adh'ı) çağırdı. O, bir eşekle geldi ve camiye yaklaştığında Peygamber (ﷺ) dedi ki, \"Sizden en iyisi için ayağa kalkın.\" veya \"Sizin lideriniz için ayağa kalkın.\" Sonra Peygamber (ﷺ) dedi ki, \"Ey Sa'd! Bu insanlar senin hükmünü kabul etmeyi kabul ettiler.\" Sa'd dedi ki, \"Ben, onların savaşçılarının öldürülmesini ve çocukları ile kadınlarının esir alınmasını hükmediyorum.\" Peygamber dedi ki, \"Sen, Allah'ın Hükmü'ne (veya Kral'ın hükmüne) benzer bir hüküm verdin.\""
+    },
+    {
+      "id": 30,
+      "narrator": "Narrated Anas:",
+      "text": "Anas'tan rivayet edilmiştir: İki adam, Peygamber (ﷺ) ile çok karanlık bir gecede ayrıldılar. Aniden önlerinde bir ışık belirdi ve ayrıldıklarında ışık da onlarla birlikte ayrıldı."
+    },
+    {
+      "id": 31,
+      "narrator": "Narrated `Abdullah bin `Amr:",
+      "text": "Abdullah bin Amr'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Kur'an'ı dört kişiden öğrenin: İbn Mes'ud, Salim, Ebu Hudayfa'nın azatlısı, Ubai ve Mu'adh bin Cebel.\""
+    },
+    {
+      "id": 32,
+      "narrator": "Narrated Abu Usaid:",
+      "text": "Ebu Usaid'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Ensar'ın en iyi evleri Beni Neccar'ın evleridir, sonra Beni Abdul Eşhal'ın evleri, sonra Beni Haris bin El-Hazrec'in evleri, sonra Beni Saida'nın evleri; ama Ensar'ın tüm evlerinde hayır vardır.\" İslam'ı erken kabul edenlerden olan Sa'd bin Ubade dedi ki: \"Allah'ın Elçisi (ﷺ) başkalarına bizden üstünlük veriyor gibi görünüyor.\" Bazı insanlar ona dediler ki: \"Ama o, seni birçok insandan üstün kıldı.\""
+    },
+    {
+      "id": 33,
+      "narrator": "Narrated Masruq:",
+      "text": "Masruq'tan rivayet edilmiştir: Abdullah bin Mes'ud, Abdullah bin Amr'ın önünde zikredildi ve o şöyle dedi: \"O, hala sevdiğim bir adamdır, çünkü Peygamber (ﷺ) şöyle buyurdu: 'Kur'an'ı dört kişiden öğrenin' - Abdullah bin Mes'ud'dan başladı - Salim, Ebu Hudayfa'nın azatlısı, Mu'adh bin Cebel ve Ubai bin Ka'b.\""
+    },
+    {
+      "id": 34,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir: Peygamber (ﷺ) Ubai'ye dedi ki: \"Allah bana sana şunu okumamı emretti: 'Kafirler' (Surat-al-Beyina 98).\" Ubai dedi ki: \"Adımı mı zikretti?\" Peygamber (ﷺ) dedi ki: \"Evet.\" Bunu duyunca Ubai ağlamaya başladı."
+    },
+    {
+      "id": 35,
+      "narrator": "Narrated Qatada:",
+      "text": "Katade'den rivayet edilmiştir: Anas dedi ki: \"Kur'an, Peygamber (ﷺ) döneminde dört kişi tarafından toplandı, bunların hepsi Ensar'dan: Ubai, Mu'adh bin Cebel, Ebu Zaid ve Zaid bin Sabit.\" Anas'a sordum: \"Ebu Zaid kimdir?\" Dedi ki: \"Amcalarımden biridir.\""
+    },
+    {
+      "id": 36,
+      "narrator": "Narrated Anas:",
+      "text": "Anas'tan rivayet edilmiştir: Uhud savaşında insanlar kaçtılar, Peygamber (ﷺ) yalnız kaldı, ama Ebu Talha, Peygamberi (ﷺ) önünde kalkanıyla koruyordu. Ebu Talha güçlü, deneyimli bir okçuydu ve okunu güçlü ve iyi gerilmiş tutardı. O gün iki veya üç yay kırdı. Eğer bir adam yanından geçip ok dolu bir kılıf taşıyorsa, Peygamber (ﷺ) ona derdi ki: \"Bunu Ebu Talha'nın önüne boşalt.\" Peygamber (ﷺ) düşmana bakmaya başladığında, Ebu Talha dedi ki: \"Ey Allah'ın Elçisi! Annem babam sana feda olsun! Lütfen başını kaldırma ve görünür hale getirme, yoksa düşmanın oku seni vurur. Boynum ve göğsüm seninkinin yerine yaralansın.\" (O gün) Aişe'yi, Ebu Bekir'in kızı ve Ümmü Süleym'i, eteklerini kaldırarak gördüm, böylece bacaklarındaki süsleri görebildim ve su tulumlarını aç susuz insanlara su dökmek için taşıyorlardı, sonra geri dönüp onları doldurup tekrar insanlara su dökmeye geliyorlardı. (O gün) Ebu Talha'nın kılıcı elinden iki veya üç kez düştü."
+    },
+    {
+      "id": 37,
+      "narrator": "Narrated Sa`d bin Abi Waqqas:",
+      "text": "Sa'd bin Ebi Vakkas'tan rivayet edilmiştir: Peygamber (ﷺ) hakkında yeryüzünde yürüyen herhangi birinin Cennet'ten olduğunu hiç duymadım, sadece Abdullah bin Selam hakkında. Onunla ilgili şu ayet indirildi: \"Ve İsrailoğullarından bir şahit, bu Kur'an'ın gerçek olduğunu tasdik etti\" (46.10)."
+    },
+    {
+      "id": 38,
+      "narrator": "Narrated Qais bin Ubad:",
+      "text": "Kays bin Ubade'den rivayet edilmiştir: Medine Camii'nde otururken, yüzünde ciddiyet belirtileri olan bir adam (Abdullah bin Selam) içeri girdi. İnsanlar dediler ki: \"O, Cennet'ten biridir.\" İki hafif rek'at namaz kıldı ve sonra gitti. Ben peşinden gittim ve dedim ki: \"Camiye girdiğinde, insanlar 'O, Cennet'ten biridir' dediler.\" O dedi ki: \"Allah'a yemin ederim, bilmediği şeyi söylememelidir; ve nedenini söyleyeceğim. Peygamber (ﷺ) döneminde bir rüya gördüm ve onu ona anlattım. Sanki bir bahçedeydim.\" Sonra onun genişliğini ve yeşilliğini tarif etti. Ekledi: \"Oranın ortasında, alt ucu yere sabitlenmiş ve üst ucu gökyüzünde olan bir demir direk vardı ve üst ucunda bir (halka şeklinde) tutamak vardı. Tırmanmam söylendi. Ben de 'Yapamam' dedim. 'Sonra bir hizmetçi yanıma geldi ve arkamdan elbiselerimi kaldırdı ve ben direğin tepesine kadar tırmandım. Sonra tutamağı tuttum ve sıkı tutmam söylendi, sonra uyandım ve (tutamak) elimdeydi. Bunu Peygamber (ﷺ)'e anlattım, o da 'Bahçe İslam'dır ve tutamak en sağlam tutamaktır. Böylece ölünceye kadar Müslüman kalacaksın.' dedi.\" Rivayet eden ekledi: \"Adam Abdullah bin Selam'dı.\""
+    },
+    {
+      "id": 39,
+      "narrator": "Narrated Abu Burda:",
+      "text": "Ebu Burda'dan rivayet edilmiştir: Medine'ye geldiğimde Abdullah bin Selam ile karşılaştım. O dedi ki: \"Bana gelir misin ki sana sawıq (yani un haline getirilmiş arpa) ve hurma ikram edeyim ve seni Peygamber (ﷺ)'in girdiği (bereketli) bir eve alayım?\" Sonra ekledi: \"Sen, riba (yani faizin) yaygın olduğu bir ülkedesin; bu yüzden eğer birisi sana bir şey borçluysa ve sana kesilmiş saman veya arpa veya yem yükü gönderirse, onu alma, çünkü bu ribadır.\""
+    },
+    {
+      "id": 40,
+      "narrator": "Narrated `Ali:",
+      "text": "Ali'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ)'nin şöyle dediğini duydum:"
+    },
+    {
+      "id": 41,
+      "narrator": "Narrated `Aisha:",
+      "text": "Ali'den rivayet edilmiştir:"
+    },
+    {
+      "id": 42,
+      "narrator": "Narrated `Aisha:",
+      "text": "Peygamber (ﷺ) şöyle dedi: \"Dünyanın kadınlarının en iyisi, Meryem'dir (hayatında), ve dünyanın kadınlarının en iyisi, Hatice'dir (hayatında).\""
+    },
+    {
+      "id": 43,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Peygamber (ﷺ)'in hiçbir eşine Hatice kadar kıskanmadım (oysa) o, benimle evlenmeden önce vefat etmişti, çünkü onu sıkça andığını duyuyordum ve Allah ona, Cennet'te bir Qasab (yani değerli taşlar ve incilerden yapılmış borular) sarayı olacağını müjdelemişti ve her koyun kestiğinde, onun kadın arkadaşlarına iyi bir pay gönderirdi."
+    },
+    {
+      "id": 44,
+      "narrator": "Narrated Isma`il:",
+      "text": "Aişe'den rivayet edilmiştir: Hiçbir kadına Hatice kadar kıskanmadım çünkü Allah'ın Elçisi (ﷺ) onu çok sık anardı. O, onun ölümünden üç yıl sonra benimle evlendi ve Rabbi (veya Cebrail) ona Cennet'te bir Qasab sarayı olacağını müjdelemesini emretti."
+    },
+    {
+      "id": 45,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Aişe'den rivayet edilmiştir: Peygamber (ﷺ)'in hiçbir eşine Hatice kadar kıskanmadım, oysa onu hiç görmedim, ama Peygamber (ﷺ) onu çok sık anardı ve her koyun kestiğinde, parçalarını Hatice'nin kadın arkadaşlarına gönderirdi. Bazen ona dediğimde, \"(Hatice'yi böyle muamele ediyorsun) sanki yeryüzünde Hatice'den başka kadın yokmuş gibi,\" o derdi ki: \"Hatice şöyleydi ve ondan çocuklarım oldu.\""
+    },
+    {
+      "id": 46,
+      "narrator": "Narrated 'Aisha:",
+      "text": "Aişe (ra) rivayet etti: Bir gün Hala bint Khüveylid, Hatice'nin kız kardeşi, Peygamber (ﷺ)den içeri girmek için izin istedi. Bunun üzerine Peygamber (ﷺ) Hatice'nin izin isteme tarzını hatırladı ve bu onu üzdü. \"Ey Allah! Hala!\" dedi. Ben de kıskandım ve \"Seni, Kureyş'in yaşlı kadınları arasında, çoktan ölmüş, dişsiz ağzı olan, kırmızı diş etlerine sahip bir yaşlı kadını hatırlatan nedir? Allah senin yerine ondan daha iyisini verdi!\" dedim."
+    },
+    {
+      "id": 47,
+      "narrator": "Narrated Jarir bin 'Abdullah:",
+      "text": "Cabir bin Abdullah rivayet etti: Allah'ın Resulü (ﷺ) İslam'ı kabul ettiğimden beri beni içeri almaktan asla geri durmadı ve beni her gördüğünde gülümserdi."
+    },
+    {
+      "id": 48,
+      "narrator": "Jarir bin 'Abdullah narrated:",
+      "text": "Cabir bin Abdullah rivayet etti: Cahiliye döneminde Dhul-Khalasa adında bir ev vardı ve bu ev Al-Ka'ba Al-Yamaniya veya Al-Ka'ba Ash-Shamiya olarak da adlandırılıyordu. Allah'ın Resulü (ﷺ) bana, \"Beni Dhul-Khalasa'dan kurtarır mısın?\" dedi. Bunun üzerine Ahmas kabilesinden 150 süvari ile oraya gittim ve onu yok ettik ve orada bulduğumuz herkesi öldürdük. Sonra Peygamber (ﷺ)'e geldik ve durumu kendisine bildirdik. O da bizim ve Ahmas kabilesinin üzerine hayır dualarında bulundu."
+    },
+    {
+      "id": 49,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe (ra) rivayet etti: Uhud savaşında putperestler tamamen yenildiler. Sonra Şeytan yüksek sesle bağırdı: \"Ey Allah'ın kulları! Arkalarınızdaki tehlikeye dikkat edin!\" Bunun üzerine ön saflar arka saflara saldırdı. Hudeyfe baktı ve babasını gördü, yüksek sesle \"Ey Allah'ın kulları! Babam! Babam!\" dedi. Vallahi, onu öldürene kadar durmadılar (yani Hudeyfe'nin babasını). Hudeyfe, \"Allah seni affetsin!\" dedi. Rivayet eden kişi, \"Vallahi, Hudeyfe'nin söyledikleri yüzünden, Allah ile buluşana kadar iyi bir halde kaldı.\" dedi."
+    },
+    {
+      "id": 50,
+      "narrator": "Narrated 'Aishah (ra):",
+      "text": "Aişe (ra) rivayet etti: Hind bint Utbe geldi ve dedi ki: \"Ey Allah'ın Resulü! (İslam'ı kabul etmeden önce) yeryüzünde sizin ailenizden daha aşağılık bir aile görmek istemediğim bir aile yoktu, ama bugün yeryüzünde sizin ailenizden daha onurlu bir aile görmek istemediğim bir aile yok.\" Peygamber (ﷺ) dedi ki: \"Ben de aynı şekilde düşündüm, ruhumun elinde olan Allah'a yemin ederim!\" O daha sonra dedi ki: \"Ey Allah'ın Resulü! Ebu Süfyan bir cimri, çocuklarımı onun malından beslemek günah mı?\" O da, \"İhtiyaçların için adil ve makul olanı almadıkça buna izin vermem.\" dedi."
+    },
+    {
+      "id": 51,
+      "narrator": "Narrated 'Abdullah bin 'Umar:",
+      "text": "Abdullah bin Ömer rivayet etti: Peygamber (ﷺ) vahiy gelmeden önce Zeyd bin Amr bin Nufail ile Baldah vadisinin dibinde karşılaştı. Peygambere bir yemek sunuldu ama o yemekten yemeyi reddetti. (Sonra Zeyd'e sunuldu) o da, \"Taş putlarınızın adıyla kesilen hiçbir şeyi yemem. Ben sadece Allah'ın adı anıldığında kesilen şeyleri yerim.\" dedi. Zeyd bin Amr, Kureyş'in hayvanlarını kesme şeklini eleştirir ve \"Allah koyunu yarattı ve ona gökten su gönderdi, yerden ot bitirdi; yine de onu Allah'ın adı dışında kesiyorsunuz.\" derdi. Bunu, o uygulamayı reddettiği ve onu çirkin bulduğu için söylerdi."
+    },
+    {
+      "id": 52,
+      "narrator": "Narrated Ibn 'Umar:",
+      "text": "İbn Ömer rivayet etti: Zeyd bin Amr bin Nufail, doğru bir din arayarak Şam'a gitti. Bir Yahudi din bilginiyle karşılaştı ve dinleri hakkında ona soru sordu. O da, \"Ben sizin dininizi kabul etmeyi düşünüyorum, bana bunun hakkında bir şeyler söyle.\" dedi. Yahudi, \"Bizim dinimizi kabul etmezsin, ta ki Allah'ın gazabından payını alana kadar.\" dedi. Zeyd, \"Ben Allah'ın gazabından başka bir şeyden kaçmam ve onu önlemek için gücüm yettiği sürece onun bir kısmını bile taşıyamam. Bana başka bir din söyleyebilir misin?\" dedi. O da, \"Hanif'ten başka bir din bilmiyorum.\" dedi. Zeyd sordu, \"Hanif nedir?\" O da, \"Hanif, ne Yahudi ne de Hristiyan olan İbrahim'in dinidir ve o yalnızca Allah'a ibadet ederdi.\" dedi. Sonra Zeyd dışarı çıktı ve bir Hristiyan din bilginiyle karşılaştı ve aynı şeyi ona söyledi. Hristiyan, \"Bizim dinimizi kabul etmezsin, ta ki Allah'ın lanetinden payını alana kadar.\" dedi. Zeyd cevapladı, \"Ben Allah'ın lanetinden başka bir şeyden kaçmam ve onu önlemek için gücüm yettiği sürece Allah'ın lanetinin hiçbir kısmını taşıyamam. Bana başka bir din söyleyebilir misin?\" O da, \"Hanif'ten başka bir din bilmiyorum.\" dedi. Zeyd sordu, \"Hanif nedir?\" O da, \"Hanif, ne Yahudi ne de Hristiyan olan İbrahim'in dinidir ve o yalnızca Allah'a ibadet ederdi.\" dedi. Zeyd onların İbrahim'in dini hakkındaki sözlerini duyunca oradan ayrıldı ve dışarı çıktığında iki elini kaldırarak, \"Ey Allah! Ben İbrahim'in dinindeyim, buna şahit ol!\" dedi."
+    },
+    {
+      "id": 53,
+      "narrator": "Narrated Asma bint Abi Bakr:",
+      "text": "Esma bint Ebu Bekir rivayet etti: Zeyd bin Amr bin Nufail'i Kabe'ye sırtını yaslamış ve \"Ey Kureyş halkı! Vallahi, aranızda İbrahim'in dininde olan tek kişi benim.\" derken gördüm. Küçük kızların hayatlarını korurdu: Eğer biri kızı öldürmek isterse, ona, \"Onu öldürme, ben onun yerine onu besleyeceğim.\" derdi. Böylece kızı alırdı ve o güzel bir şekilde büyüdüğünde, babasına, \"Artık istersen onu sana vereceğim, eğer istersen onun yerine onu besleyeceğim.\" derdi."
+    },
+    {
+      "id": 54,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Cabir bin Abdullah rivayet etti: Kabe yeniden inşa edildiğinde, Peygamber (ﷺ) ve Abbas taş taşımak için gittiler. Abbas, Peygamber (ﷺ)'e, \"(Çıkar ve) belini örtünü boynuna koy ki taşlar sana zarar vermesin.\" dedi. (Ama o belini çıkardığında) gözleri gökyüzüne bakarken yere bayıldı. Kendine geldiğinde, \"Belim! Belim!\" dedi. Sonra belini (belinin etrafına) sardı."
+    },
+    {
+      "id": 55,
+      "narrator": "Narrated `Amr bin Dinar and 'Ubaidullah bin Abi Yazid:",
+      "text": "Amr bin Dinar ve Ubeydullah bin Ebu Yazid rivayet etti: Peygamber (ﷺ) döneminde Kabe'nin etrafında bir duvar yoktu ve insanlar Kabe'nin etrafında namaz kılıyorlardı ta ki Ömer halife olana kadar ve o etrafına duvarı inşa etti. Ubeydullah ayrıca, \"Duvarı alçaktı, bu yüzden İbn Zübeyir onu inşa etti.\" dedi."
+    },
+    {
+      "id": 56,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe (ra) rivayet etti: Aşura (yani Muharrem'in onuncu günü) Kureyş kabilesinin cahiliye döneminde oruç tuttuğu bir gündü. Peygamber (ﷺ) de bu günde oruç tutardı. Medine'ye hicret ettiğinde, o günde oruç tuttu ve (Müslümanlara) o günde oruç tutmalarını emretti. Ramazan orucu farz kılındığında, Aşura günü oruç tutmak isteğe bağlı hale geldi."
+    },
+    {
+      "id": 57,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas rivayet etti: İnsanlar, Hac aylarında Umre yapmayı yeryüzünde kötü bir iş olarak kabul ederlerdi ve Muharrem ayına Safar derlerdi ve \"Develerin sırtlarındaki yaralar iyileşince ve ayak izleri (Hac'dan geldikten sonra) kaybolunca, Umre yapmak isteyen için Umre caiz olur.\" derlerdi. Allah'ın Resulü (ﷺ) ve arkadaşları, Dördüncü Dhul-Hijja'da Hac için ihramla Mekke'ye ulaştılar. Peygamber (ﷺ) arkadaşlarına, o ihramla Umre yapmalarını emretti. Onlar, \"Ey Allah'ın Resulü! İhramın ne şekilde sona erecek?\" diye sordular. Peygamber (ﷺ) \"İhramı tamamen sona erdirin.\" dedi."
+    },
+    {
+      "id": 58,
+      "narrator": "Narrated Sa`id bin Al-Musaiyab's grand-father:",
+      "text": "Sa'id bin el-Musayyib'in dedesi rivayet etti: Cahiliye döneminde bir yağmur seli geldi ve Kabe'nin etrafındaki iki dağ arasındaki vadiyi doldurdu."
+    },
+    {
+      "id": 59,
+      "narrator": "Narrated Qais bin Abi Hazim:",
+      "text": "Kays bin Ebu Hazim rivayet etti: Ebu Bekir, Ahmas kabilesinden Zeynep bint el-Muhacir adında bir kadına gitti ve onun konuşmayı reddettiğini gördü. \"Neden konuşmuyor?\" diye sordu. İnsanlar, \"O, konuşmadan Hac yapmak istemiş.\" dediler. O da, \"Konuş, çünkü konuşmamak yasaktır, bu cahiliye döneminin bir eylemidir.\" dedi. O da konuştu ve \"Sen kimsin?\" dedi. O da, \"Muhacirlerden bir adamım.\" dedi. O da, \"Hangi Muhacirlerden?\" dedi. O da, \"Kureyş'ten.\" dedi. O da, \"Kureyş'in hangi kolundansın?\" dedi. O da, \"Çok fazla soru soruyorsun; ben Ebu Bekir'im.\" dedi. O da, \"Allah'ın cahiliye döneminden sonra getirdiği bu güzel düzeni ne kadar süre yaşayacağız?\" dedi. O da, \"İmamlarınız bu kurallara ve düzenlemelere uydukça bunu yaşayacaksınız.\" dedi. O da, \"İmamlar kimlerdir?\" dedi. O da, \"Sizin milletinizin insanları arasında insanları emreden ve onlara itaat eden başlar ve reisler yok muydu?\" dedi. O da, \"Evet.\" dedi. O da, \"İşte onlar (yani İmamlar) benim kastettiğim kimselerdir.\" dedi."
+    },
+    {
+      "id": 60,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe (ra) rivayet etti: Bazı Arapların siyah bir cariyesi İslam'ı kabul etti ve camide bir kulübesi vardı. Bizi ziyaret eder ve bizimle konuşurdu, konuşmasını bitirdiğinde, \"Şal günü, Rabbimizin bir mucizesiydi: Gerçekten! Beni küfür diyarından kurtardı.\" derdi. Bu ayeti birçok kez söylediğinde, ben (yani Aişe) ona, \"Şal günü neydi?\" diye sordum. O da, \"Bir gün efendilerimden birinin kızı dışarı çıktı ve boynunda deri bir şal vardı, şal düştü ve bir akbaba onu alıp et parçası zannetti. Onlar (yani efendilerim) beni hırsızlıkla suçladılar ve o kadar işkence ettiler ki, özel yerlerimde bile onu aradılar. Böylece, etraflarında olduğumda ve büyük bir sıkıntı içinde olduğumda, aniden akbaba başımızın üzerinde belirdi ve şalı bıraktı, onlar da onu aldılar. Ben onlara, 'Bu, hırsızlıkla suçladığınız şeydir, oysa ben masumum.' dedim.\" dedi."
+    },
+    {
+      "id": 61,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn `Umar'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Eğer birisi yemin edecekse, yalnızca Allah'a yemin etmelidir.\" Kureyş halkı babalarına yemin ederdi, fakat Peygamber (ﷺ) şöyle dedi: \"Babalarınıza yemin etmeyin.\""
+    },
+    {
+      "id": 62,
+      "narrator": "Narrated `Abdur-Rahman bin Al-Qasim:",
+      "text": "`Abdur-Rahman bin Al-Qasim'den rivayet edilmiştir: Al-Qasim cenaze alayının önünde yürürdü. Cenaze alayı geçtiğinde ayağa kalkmazdı. `Aişe'den rivayet etti ki, o şöyle dedi: \"Cahiliye döneminde insanlar cenaze alayı için ayağa kalkarlardı. Onu gördüklerinde iki kez derlerdi: 'Sen ailenle şereflisin. Şimdi ne oldun?'\""
+    },
+    {
+      "id": 63,
+      "narrator": "Narrated `Umar:",
+      "text": "`Umar'dan rivayet edilmiştir: Müşrikler, güneş Thabir dağının üzerine çıkmadan Jam' (yani Müzdelife) terk etmezlerdi. Peygamber, güneş doğmadan (Müzdelife'den) ayrılarak onlara karşı çıktı."
+    },
+    {
+      "id": 64,
+      "narrator": "Narrated Husain:",
+      "text": "Hüseyin'den rivayet edilmiştir: `İkrime şöyle dedi: \"Kasan Dihaqa, ardışık olarak başka dolu bardaklarla birlikte dolu bir bardak demektir.\""
+    },
+    {
+      "id": 65,
+      "narrator": "Ibn `Abbas said:",
+      "text": "İbn `Abbas şöyle dedi: \"Cahiliye döneminde babamın şöyle dediğini duydum: 'Bize Kasan Dihaqa temin et.'\""
+    },
+    {
+      "id": 66,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Bir şairin söylediği en doğru söz Labid'in sözleridir.\" O şöyle dedi: \"Şüphesiz, Allah'tan başka her şey yok olup gidecektir.\" Umaiya bin As-Salt Müslüman olma aşamasındaydı (ama İslam'ı kabul etmedi)."
+    },
+    {
+      "id": 67,
+      "narrator": "Narrated `Aisha:",
+      "text": "`Aişe'den rivayet edilmiştir: Ebu Bekir'in kendisine kazandıklarından bir şey veren bir kölesi vardı. Ebu Bekir ondan yerdi. Bir gün köle bir şey getirdi ve Ebu Bekir ondan yedi. Köle ona, \"Bunun ne olduğunu biliyor musun?\" dedi. Ebu Bekir, \"Nedir?\" diye sordu. Köle, \"Bir zamanlar cahiliye döneminde birinin geleceğini haber verdim, oysa ben bu kehanet bilgisini bilmiyordum ama onu kandırdım ve o beni gördüğünde bu hizmetim için bana bir şey verdi, işte senin yediğin budur.\" Bunun üzerine Ebu Bekir elini ağzına attı ve midesindekileri kustu."
+    },
+    {
+      "id": 68,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn `Umar'dan rivayet edilmiştir: Cahiliye döneminde insanlar, doğmamış bir dişi deveden doğacak olan dişi devenin eti üzerinden pazarlık yaparlardı. Peygamber (ﷺ) onlara böyle bir ticareti yasakladı."
+    },
+    {
+      "id": 69,
+      "narrator": "Narrated Ghailan bin Jarir:",
+      "text": "Ghaylan bin Cerir'den rivayet edilmiştir: Biz Anas bin Malik'i ziyaret ederdik ve o bize Ensar hakkında konuşurdu ve bana şöyle derdi: \"Senin halkın şu gün şöyle yaptı, senin halkın bu gün böyle yaptı.\""
+    },
+    {
+      "id": 70,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn `Abbas'tan rivayet edilmiştir: Cahiliye döneminde Qasama'nın ilk olayı biz (yani Banu Haşim) tarafından uygulandı. Banu Haşim'den bir adam, başka bir Kureyşli tarafından istihdam edildi. (Haşimi) işçi, Kureyşli ile birlikte develerini sürmeye çıktı. Yanından Banu Haşim'den başka bir adam geçti. O kişinin çantasının deri ipi kopmuştu, bu yüzden işçiye, \"Çantamın sapını bağlamak için bana bir ip verir misin ki develerim kaçmasın?\" dedi. İşçi ona bir ip verdi ve o da çantasını onunla bağladı. Karavan durduğunda, tüm develerin bacakları bağlanmıştı, yalnızca bir deve bağlanmamıştı. İşveren işçiye sordu: \"Neden tüm develer arasında bu deve bağlanmamış?\" O da, \"Onun için bir bağ yok.\" diye cevap verdi. Kureyşli sordu: \"Onun bağı nerede?\" ve işçiyi bir sopa ile vurdu, bu da onun ölümüne neden oldu (daha sonra ölümünden hemen önce) Yemen'den bir adam yanından geçti. İşçi ona sordu: \"Hac için gidecek misin?\" O da, \"Gideceğimi sanmıyorum ama belki katılırım.\" dedi. (Haşimi) işçi, \"Bir kez hayatında benim için bir mesaj iletmeni rica ediyorum.\" dedi. Diğer adam, \"Evet.\" dedi. İşçi yazdı: \"Hacca gittiğinde, Kureyş ailesini çağır ve eğer sana cevap verirlerse, Banu Haşim ailesini çağır, eğer onlara da cevap verirlerse, Abu Talib hakkında sor ve ona de ki, 'şu kişi beni bir bağ için öldürdü.'\" Sonra işçi vefat etti. İşveren (Mekke'ye) ulaştığında, Abu Talib onu ziyaret etti ve sordu: \"Bizim arkadaşımıza ne oldu?\" O da, \"Hastalandı ve ben ona iyi baktım (ama o öldü) ve onu gömdüm.\" dedi. Sonra Abu Talib, \"Merhum bu durumdan dolayı senden hakkını alıyordu.\" Bir süre sonra, işçinin mesajını iletmesini istediği elçi, hac mevsiminde geldi. \"Ey Kureyş ailesi!\" diye seslendi. İnsanlar, \"Bu Kureyş'tir.\" diye cevap verdiler. Sonra \"Ey Banu Haşim ailesi!\" diye seslendi. Yine insanlar, \"Bu Banu Haşim'dir.\" diye cevap verdiler. \"Abu Talib kimdir?\" diye sordu. İnsanlar, \"Bu Abu Talib'dir.\" dediler. O da, \"'Şu kişi bana bir mesaj iletmemi istedi ki, şu kişi onu bir bağ için öldürdü.\" dedi. Sonra Abu Talib, (Kureyşli) katile gitti ve ona, \"Üç seçenekten birini seç: (i) İstersen, bize yüz deve ver çünkü sen arkadaşımızı öldürdün, (ii) ya da istersen, elli adamın yemin etmesini sağla ki sen arkadaşımızı öldürmedin, eğer bunu kabul etmezsen, (iii) seni kısasla öldüreceğiz.\" Katil, halkına gitti ve onlar, \"Biz yemin edeceğiz.\" dediler. Sonra Banu Haşim'den bir kadın, onlardan biriyle evliydi ve ondan bir çocuk doğurmuştu, Abu Talib'e geldi ve dedi: \"Ey Abu Talib! Elli kişiden benim oğlumun bu yeminden muaf tutulmasını ve yemin etmemesini istiyorum.\" Abu Talib onu muaf tuttu. Sonra onlardan başka bir adam (Abu Talib'e) geldi ve dedi: \"Ey Abu Talib! Yüz deve vermek yerine elli kişinin yemin etmesini istiyorsun ve bu da demektir ki her adam iki deve vermelidir (eğer yemin etmezse). Benim iki deveyi kabul etmeni ve yemin etmemem için beni muaf tutmanı istiyorum.\" Abu Talib onu kabul etti. Sonra 48 adam geldi ve yemin ettiler. İbn `Abbas ayrıca şöyle dedi: \"Canımın olduğu Allah'a yemin ederim ki, o yılın sonuna kadar, o 48 kişiden hiçbiri hayatta kalmadı.\""
+    },
+    {
+      "id": 71,
+      "narrator": "Narrated 'Aisha:",
+      "text": "`Aişe'den rivayet edilmiştir: Allah, Allah'ın Resulü (ﷺ) gönderilmeden önce Buath gününü meydana getirdi ki, Allah'ın Resulü (ﷺ) Medine'ye ulaştığında, o insanlar zaten (farklı gruplara) ayrılmıştı ve liderleri ya öldürülmüş ya da yaralanmıştı. Böylece Allah, o günü Allah'ın Resulü (ﷺ) öncesine aldı ki, onlar (yani Ensar) İslam'ı kabul edebilsinler."
+    },
+    {
+      "id": 72,
+      "narrator": "Narrated Ibn 'Abbas:",
+      "text": "İbn `Abbas'tan rivayet edilmiştir: Safa ve Merve (dağları) arasındaki vadide koşmak sünnet değildir, ancak cahiliye döneminde insanlar orada koşarlardı ve şöyle derlerdi: \"Bu yağmur akıntısını ancak güçlü bir şekilde koşarak geçeriz.\""
+    },
+    {
+      "id": 73,
+      "narrator": "Narrated Abu As-Safar:",
+      "text": "Ebu As-Safar'dan rivayet edilmiştir: İbn `Abbas'ın şöyle dediğini duydum: \"Ey insanlar! Size söylediklerimi dinleyin ve söylediklerinizi duyayım, anlamadan gitmeyin ve 'İbn `Abbas şöyle dedi, İbn `Abbas şöyle dedi, İbn `Abbas şöyle dedi' demeye başlayın. Kabe etrafında tavaf yapmak isteyen, Al-Hijr'in arkasına gitmeli (yani Kabe'nin üzeri örtülmemiş kısmı) ve buna Al-Hatim dememelidir, çünkü cahiliye döneminde herhangi bir adam yemin ettiğinde, kamçısını, ayakkabılarını veya yayını oraya atardı.\""
+    },
+    {
+      "id": 74,
+      "narrator": "Narrated `Amr bin Maimun:",
+      "text": "`Amr bin Maimun'dan rivayet edilmiştir: Cahiliye döneminde bir grup maymunun etrafında bir dişi maymun gördüm. Hepsi onu taşlıyordu, çünkü o yasadışı cinsel ilişki yaşamıştı. Ben de onlarla birlikte onu taşladım."
+    },
+    {
+      "id": 75,
+      "narrator": "Narrated Sufyan:",
+      "text": "Süfyan'dan rivayet edilmiştir: 'Ubaidullah şöyle dedi: \"İbn `Abbas'ın şöyle dediğini duydum: \"Cahiliye döneminin bazı özellikleri şunlardır: (i) diğer ailelerin soyunu karalamak, (ii) ve ölüler için ağıt yakmak.\" 'Ubaidullah üçüncü özelliği unuttu. Süfyan, \"Onlar (yani üçüncü özellik) yağmurun yıldızların etkisiyle meydana geldiğine inanmaktı (yani özel bir yıldız belirdiğinde yağmur yağar).\" dedi."
+    },
+    {
+      "id": 76,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) kırk yaşında ilham aldı. Sonra Mekke'de on üç yıl kaldı, ardından hicret etmesi emredildi ve Medine'ye hicret etti, orada on yıl kaldı ve sonra vefat etti."
+    },
+    {
+      "id": 77,
+      "narrator": "Narrated Khabbaba:",
+      "text": "Khabbab'tan rivayet edilmiştir: Ben, Peygamber (ﷺ) Ka'be'nin gölgesinde, örtüsüne yaslanmış haldeyken yanına geldim. O günlerde putperestlerden büyük sıkıntılar çekiyorduk. Ona dedim ki: \"Allah'a (bize yardım etmesi için) dua eder misin?\" O, kızarmış bir yüzle oturdu ve şöyle dedi: \"(Sizden önceki) müminlerden biri, etinin veya sinirlerinin kemiklerine kalmaması için demir taraklarla tarandı; yine de bu onu dininden vazgeçirmedi. Başının ortasına bir testere konulup ikiye ayrılabilir, ama bu da onu dininden vazgeçirmeye yetmez. Allah, bu dini (yani İslam'ı) kesinlikle tamamlayacaktır; öyle ki, Sana'dan Hadra-maut'a giden bir yolcu, Allah'tan başka hiç kimseden korkmayacaktır.\" (Ravi Beyan ekledi: \"Ya da kurt, koyunlarına zarar vermesin diye.\")"
+    },
+    {
+      "id": 78,
+      "narrator": "Narrated `Abdullah:",
+      "text": "Abdullah'tan rivayet edilmiştir: Peygamber (ﷺ) Necaş Suresi'ni okudu ve secde etti, o anda secde etmeyen kimse yoktu, sadece bir adamı gördüm ki, bir avuç çakıl alıp onu kaldırdı ve üzerine secde etti. Sonra dedi ki: \"Bu benim için yeterlidir.\" Şüphesiz, onu daha sonra bir kafir olarak öldürülmüş gördüm."
+    },
+    {
+      "id": 79,
+      "narrator": "Narrated `Abdullah:",
+      "text": "Abdullah'tan rivayet edilmiştir: Peygamber (ﷺ) secde ederken, bazı Kureyşlilerin etrafında olduğu sırada, Ukbe bin Ebi Muayt, bir devenin iç organlarını (yani karın içindekileri) alıp Peygamber'in sırtına koydu. Peygamber (ﷺ) başını kaldırmadı, ta ki Fatıma gelip onu sırtından alana kadar ve bu zararı veren kişiye lanet etti. Peygamber (ﷺ) dedi ki: \"Ey Allah! Kureyş'in reislerini, Ebu Cehil bin Hişam'ı, Utbe bin Rebia'yı, Şeba bin Rebia'yı, Ümeyye bin Halef'i veya Ubey bin Halef'i helak et.\" (Ravi Şu'ba, son ismin doğruluğundan emin değildir.) Bu kişilerin Badr günü öldürülüp kuyuya atıldıklarını gördüm, sadece Ümeyye veya Ubey'in parçalarının kesildiğini ama kuyunun içine atılmadığını gördüm."
+    },
+    {
+      "id": 80,
+      "narrator": "Narrated Sa`id bin Jubair:",
+      "text": "Sa'id bin Cubeyr'den rivayet edilmiştir: Abdurrahman bin Abza dedi ki: \"İbn Abbas'a bu iki Kur'an ayeti hakkında sor: 'Allah'ın haram kıldığı canı haksız yere öldürmeyin.' (25.168) 'Ve kim bir mümini kasten öldürürse, onun cezası cehennemdir.' (4.93) Ben de İbn Abbas'a sordum, o da şöyle dedi: \"Furkan Suresi'ndeki ayet indiğinde, Mekke'nin putperestleri dediler ki: 'Ama biz, Allah'ın haram kıldığı canları öldürdük ve Allah ile birlikte başka tanrılara dua ettik ve zina da yaptık.' Bunun üzerine Allah, 'Ancak tövbe eden, iman eden ve salih ameller işleyenler hariç.' (25.70) ayetini indirdi. Bu ayet, o insanlar hakkında idi. Nisa Suresi'ndeki (4.93) ayet ise, bir adam İslam'ı ve onun yasalarını ve yükümlülüklerini anladıktan sonra birini öldürürse, onun cezası cehennem ateşinde ebedi kalmaktır.\" Sonra bunu Mücahid'e anlattım, o da dedi ki: \"Ancak pişman olan kimse hariç.\""
+    },
+    {
+      "id": 81,
+      "narrator": "Narrated `Urwa bin Az-Zubair:",
+      "text": "Urve bin Zübeyr'den rivayet edilmiştir: İbn Amr bin As'a sordum: \"Peygambere putperestlerin yaptığı en kötü şeyi bana anlat.\" Dedi ki: \"Peygamber (ﷺ) Ka'be'nin Hicr'inde namaz kılarken; Ukbe bin Ebi Muayt geldi ve Peygamber'in boynuna elbisesini doladı ve onu şiddetle boğmaya çalıştı. Ebu Bekir geldi, onun omzundan tutup Peygamber (ﷺ) den uzaklaştırdı ve dedi ki: \"Sadece 'Rabbim Allah'tır' dediği için bir adamı öldürmek mi istiyorsun?\""
+    },
+    {
+      "id": 82,
+      "narrator": "Narrated `Ammar bin Yasir:",
+      "text": "Ammar bin Yasir'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) ile birlikte olan tek müslümanlar beş köle, iki kadın ve Ebu Bekir'di."
+    },
+    {
+      "id": 83,
+      "narrator": "Narrated Abu 'Is-haq Saud bin Abi Waqqas:",
+      "text": "Ebu İshak Sa'd bin Ebi Vakkas'tan rivayet edilmiştir: İslam'a giren kimse, benim İslam'a girdiğim gün dışında olmamıştır. Yedi gün boyunca ben, Müslüman olan üç kişiden biriydim (İslam'ın üçte biri)."
+    },
+    {
+      "id": 84,
+      "narrator": "Narrated `Abdur-Rahman:",
+      "text": "Abdurrahman'dan rivayet edilmiştir: \"Masruq'a sordum: 'Peygamber (ﷺ) Jinnlerden haberdar edildiği gece kim ona bilgi verdi?' Dedi ki: 'Senin baban Abdullah bana, bir ağacın Peygamber (ﷺ) ye onlardan bahsettiğini bildirdi.'\""
+    },
+    {
+      "id": 85,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Bir gün Peygamber (ﷺ) ile birlikteydim, abdest almak ve özel yerlerini temizlemek için bir su kabı taşıyordum. Onu takip ederken Peygamber (ﷺ) dedi ki: \"Bu kim?\" Dedim ki: \"Ben Ebu Hureyre'yim.\" Peygamber (ﷺ) dedi ki: \"Bana özel yerlerimi temizlemek için taş getir, kemik veya hayvan dışkısı getirme.\" Ebu Hureyre anlatmaya devam etti: Taşları, örtümün köşesinde taşıyarak yanına koydum ve uzaklaştım. İşini bitirdiğinde ben de onunla yürüdüm ve sordum: \"Kemik ve hayvan dışkısı ne olacak?\" Dedi ki: \"Onlar Jinnlerin yiyeceğidir. Nasibin şehrinin Jinn elçileri bana geldiler -ne kadar güzel Jinnlerdi- ve insan yiyeceğinin artıkları için benden istediler. Onlar geçtikleri her kemik veya hayvan dışkısında yiyecek bulsunlar diye Allah'a dua ettim.\""
+    },
+    {
+      "id": 86,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Ebu Zahr, Peygamber (ﷺ) 'in gelişini duyduğunda kardeşine dedi ki: \"Bu vadiye (Mekke) git ve gökyüzünden haber alan bir peygamber olduğunu iddia eden kişinin gerçeğini öğrenmeye çalış. Ne söylediğini dinle ve bana geri dön.\" Kardeşi yola çıktı ve Peygamber (ﷺ) 'e geldi, onun bazı konuşmalarını dinledi ve Ebu Zahr'a geri döndü ve ona dedi ki: \"Onu erdemli davranışlar emrederken ve şiir olmayan bir şeyler söylerken gördüm.\" Ebu Zahr dedi ki: \"Benim istediğim hakkında beni tatmin etmedin.\" Sonra yol yiyeceklerini aldı ve içinde biraz su bulunan bir su tulumunu taşıyarak Mekke'ye ulaştı. Mescide gitti ve Peygamber'i aradı, onu tanımadığı için kimseye sormaktan nefret etti. Gece yarısı geçtikten sonra, Ali onu gördü ve onun bir yabancı olduğunu anladı. Ebu Zahr, Ali'yi görünce onu takip etti ve hiçbiri diğerine bir şey sormadı, sabah olunca Ebu Zahr yol yiyeceklerini ve su tulumunu Mescide götürdü ve orada bütün gün Peygamber tarafından fark edilmeden kaldı, akşam olunca geri döndü. Ali onun yanından geçti ve dedi ki: \"Adam henüz yerini öğrenmedi mi?\" Ali onu uyandırdı ve beraberinde götürdü, hiçbiri diğerine bir şey söylemedi. Üçüncü gün olduğunda, Ali aynı şeyi yaptı ve Ebu Zahr onunla kaldı. Sonra Ali dedi ki: \"Beni buraya getiren şeyi bana söyler misin?\" Ebu Zahr dedi ki: \"Eğer bana rehberlik edeceğine dair sağlam bir söz verirsen, o zaman sana söylerim.\" Ali ona söz verdi ve Ebu Zahr durumu ona bildirdi. Ali dedi ki: \"Bu doğrudur ve o Allah'ın Elçisi'dir. Ertesi sabah kalktığında, bana eşlik et, eğer senin için bir tehlike görürsem, su geçirecekmiş gibi duracağım, ama eğer devam edersem, beni takip et ve gireceğim yere gir.\" Ebu Zahr bunu yaptı ve Ali'yi takip etti, ta ki Peygamber'in yanına girdi. Ebu Zahr, Peygamber'in bazı konuşmalarını dinledi ve orada İslam'a girdi. Peygamber (ﷺ) ona dedi ki: \"Kavmine dön ve onlara (bunu) bildir, ta ki benim emrimi alana kadar.\" Ebu Zahr dedi ki: \"Canımın sahibi olan Allah'a yemin ederim ki, onları (yani putperestleri) arasında İslam'ımı yüksek sesle ilan edeceğim.\" Böylece dışarı çıktı ve Mescide ulaştığında, mümkün olan en yüksek sesle dedi ki: \"Şahitlik ederim ki, Allah'tan başka ibadet edilmeye layık hiçbir ilah yoktur ve Muhammed Allah'ın Elçisi'dir.\" İnsanlar ayağa kalktı ve ona acımasızca vurdu. Sonra Abbas geldi ve onun üzerine eğildi ((onu korumak için) ve insanlara dedi ki: \"Vay halinize! Bu adamın Gifar kabilesine ait olduğunu bilmiyor musunuz? Ve sizin Şam'a olan ticaretiniz onların yoluyla.\" Böylece onu onlardan kurtardı. Ebu Zahr ertesi gün yine aynı şeyi yaptı. Onu dövdüler ve intikam aldılar ve yine Abbas onun üzerine eğildi (onu korumak için)."
+    },
+    {
+      "id": 87,
+      "narrator": "Narrated Qais:",
+      "text": "Kays'tan rivayet edilmiştir: Kufe camisinde Sa'id bin Zayd bin Amr bin Nufail'in şöyle dediğini duydum: \"Allah'a yemin ederim ki, kendimi, İslam'dan çıkmaya zorlayan ve beni bağlayan bir şekilde Umar tarafından zorlandım, Umar kendisi İslam'a girmeden önce. Eğer Uhud dağı, sizin Uthman'a yaptığınız kötülük yüzünden yerinden hareket edebilseydi, yerinden hareket etme hakkına sahip olurdu.\""
+    },
+    {
+      "id": 88,
+      "narrator": "Narrated `Abdullah bin Mus'ud:",
+      "text": "Abdullah bin Mes'ud'dan rivayet edilmiştir: Umar İslam'a girdiğinden beri güçlü olduk."
+    },
+    {
+      "id": 89,
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "Abdullah bin Umar'dan rivayet edilmiştir: Umar evde korku içinde olduğu sırada, Al-As bin Vail Es-Sahmi Ebu Amr, işlemeli bir örtü ve ipek kenarlı bir gömlek giyerek geldi. O, cahiliye döneminde müttefikimiz olan Beni Sahm kabilesindendi. Al-As, Umar'a dedi ki: \"Seninle ne oldu?\" O da dedi ki: \"Senin halkın, Müslüman olursam beni öldüreceklerini iddia ediyor.\" Al-As dedi ki: \"Ben sana koruma verdikten sonra kimse sana zarar veremez.\" Böylece Al-As dışarı çıktı ve halkın vadinin her yerinde toplandığını gördü. Dedi ki: \"Nereye gidiyorsunuz?\" Onlar dediler ki: \"İslam'a girmiş olan İbn Al-Khattab'ı istiyoruz.\" Al-As dedi ki: \"Kimse ona dokunamaz.\" Böylece insanlar geri çekildi."
+    },
+    {
+      "id": 90,
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "Abdullah bin Umar'dan rivayet edilmiştir: Umar İslam'a girdiğinde, tüm (kafir) insanlar evinin etrafında toplandı ve dediler ki: \"Umar İslam'a girdi.\" O zaman ben hala bir çocuktum ve evimin çatısındaydım. Üzerinde dibac (yani bir tür ipek) olan bir adam geldi ve dedi ki: \"Umar İslam'a girdi. Ona kimse zarar veremez, çünkü ben onun koruyucusuyum.\" Sonra insanların Umar'dan uzaklaştığını gördüm ve adamın kim olduğunu sordum, onlar da: \"Al-As bin Vail.\" dediler."
+    },
+    {
+      "id": 91,
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "Abdullah bin Ömer'den rivayet edilmiştir: Ömer'in bir şey hakkında \"şöyle olacak\" dediğini hiç duymadım ama her zaman haklıydı. Bir gün, Ömer otururken, yanından yakışıklı bir adam geçti, Ömer dedi ki: \"Yanılmıyorsam, bu kişi hala cahiliye döneminin dinindedir ya da onların kahinidir. Adamı bana çağırın.\" Adam kendisine çağrıldığında, düşündüğünü ona söyledi. Adam, \"Bir Müslümanın böyle bir suçlamayla karşılaştığı bir gün görmedim.\" dedi. Ömer, \"Bana gerçeği söylemeni istiyorum.\" dedi. Adam, \"Cahiliye döneminde bir kahin idim.\" dedi. Bunun üzerine Ömer, \"Cininin sana söylediği en şaşırtıcı şeyi bana anlat.\" dedi. Adam, \"Bir gün pazardayken, korkmuş bir şekilde yanıma geldi ve dedi ki: 'Cinnlerin çaresizliğini ve yenilgi sonrası devrildiğini görmedin mi (ve gökyüzünden haberleri dinlemeleri engellendi) ve (gökyüzüne gitmeyi bıraktılar ve) deve binenleri (yani Arapları) takip etmeye devam ettiler mi?'\" Ömer, \"Haklı.\" dedi ve ekledi: \"Bir gün putlarının yanında iken, bir adam bir buzağı getirdi ve onu (putlar için) kurban etti. Bir (görünmeyen) varlık ona bağırdı ve onun sesinden daha sert bir şey duymadım. 'Ey cesur kötü adam! Bir başarı meselesi! Bir hitabetçi diyor ki: Sadece senin (Ey Allah!) dışında ibadet edilmeye layık olan yoktur.' Bunun üzerine insanlar kaçtı, ama ben, 'Arkamda ne olduğunu bilmeden gitmeyeceğim.' dedim. Sonra tekrar bağırdı: 'Ey cesur kötü adam! Bir başarı meselesi! Bir hitabetçi diyor ki: Sadece Allah'tan başka ibadet edilmeye layık olan yoktur.' Sonra ben ayrıldım ve birkaç gün sonra, 'Bir peygamber ortaya çıktı.' denildi.\""
+    },
+    {
+      "id": 92,
+      "narrator": "Narrated Qais:",
+      "text": "---"
+    },
+    {
+      "id": 93,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Kays'tan rivayet edilmiştir: Sa'id bin Zayd'in insanlara, \"Eğer beni ve Ömer'in kız kardeşini, henüz Müslüman olmayan Ömer'in zorla İslam'dan çıkardığını görseydiniz. Eğer Uhud dağı, sizin Uthman'a yaptığınız kötülük için yerinden hareket edebilseydi, bunu yapma hakkına sahip olurdu.\" dediğini duydum."
+    },
+    {
+      "id": 94,
+      "narrator": "Narrated `Abdullah:",
+      "text": "---"
+    },
+    {
+      "id": 95,
+      "narrator": "Narrated `Abdullah bin `Abbas:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir: Mekke halkı, Allah'ın Resulü'nden (ﷺ) onlara bir mucize göstermesini istediler. Bunun üzerine o, onlara ayın ikiye bölündüğünü gösterdi ve aralarında Hira dağını gördüler."
+    },
+    {
+      "id": 96,
+      "narrator": "Narrated `Abdullah:",
+      "text": "---"
+    },
+    {
+      "id": 97,
+      "narrator": "Narrated 'Ubaidullah bin `Adi bin Al-Khiyar:",
+      "text": "Abdullah'tan rivayet edilmiştir: Ay, Mina'da Peygamber (ﷺ) ile birlikteyken iki parçaya bölündü. O, \"Şahit olun.\" dedi. Sonra ayın bir parçası dağa doğru gitti."
+    },
+    {
+      "id": 98,
+      "narrator": "Narrated `Aisha:",
+      "text": "---"
+    },
+    {
+      "id": 99,
+      "narrator": "Narrated Um Khalid bint Khalid:",
+      "text": "Abdullah bin Abbas'tan rivayet edilmiştir: Allah'ın Resulü (ﷺ) döneminde ay iki parçaya bölündü."
+    },
+    {
+      "id": 100,
+      "narrator": "Narrated `Abdullah:",
+      "text": "---"
+    },
+    {
+      "id": 101,
+      "narrator": "Narrated Abu Musa:",
+      "text": "Abdullah'tan rivayet edilmiştir: Ay iki parçaya bölündü."
+    },
+    {
+      "id": 102,
+      "narrator": "Narrated Jabir:",
+      "text": "---"
+    },
+    {
+      "id": 103,
+      "narrator": "Narrated Jabir bin `Abdullah Al-Ansari:",
+      "text": "Ubeydullah bin Adi bin Al-Khiyar'dan rivayet edilmiştir: Al-Miswar bin Makhrama ve Abdurrahman bin Al-Aswad bin 'Abu Yaghuth ona, \"Kardeşi Al-Walid bin 'Uqba hakkında amcan Uthman ile konuşmanı ne engelliyor?\" dediler. İnsanlar, onun yaptıkları hakkında konuşuyorlardı. Ubeydullah dedi ki, \"Ben de Uthman'ı bekledim ve o namaza çıktığında, 'Sana bir tavsiyem var.' dedim. Uthman, 'Ey adam! Allah'a sığınırım senden.' dedi. Ben de ayrıldım. Namazımı bitirdiğimde, Al-Miswar ve Ibn 'Abu Yaghut ile oturdum ve onlara Uthman'a söylediklerimi ve onun bana söylediklerini anlattım. Onlar, 'Görevini yaptın.' dediler. Ben onlarla otururken, Uthman'ın elçisi bana geldi. Onlar, 'Allah seni imtihan etti.' dediler. Ben yola çıktım ve Uthman'a ulaştığımda, 'Bir süre önce bahsettiğin tavsiyen nedir?' dedi. Ben de Teşehhüd okudum ve ekledim, 'Allah, Muhammed'i göndermiştir ve ona Kutsal Kitap'ı (yani Kur'an'ı) indirmiştir. Sen (Ey Uthman!) Allah ve Resulü'nün çağrısına cevap verenlerden oldun ve ona iman ettin. İlk iki hicrete (Abyssinia ve Medine'ye) katıldın ve Allah'ın Resulü (ﷺ) ile birlikte oldun ve onun hadislerini ve tavsiyelerini öğrendin. Şimdi insanlar Al-Walid bin 'Uqba hakkında çok konuşuyorlar, bu yüzden ona yasal ceza uygulaman senin görevin.\" Uthman bana, 'Ey yeğenim! Allah'ın Resulü (ﷺ) ile hiç karşılaştın mı?' dedi. Ben de, 'Hayır, ama bilgisi bana, bakireye kapalıyken ulaştığı gibi ulaştı.' dedim. Uthman da Teşehhüd okudu ve dedi ki, 'Şüphesiz, Allah Muhammed'i Hak ile göndermiştir ve ona Kutsal Kitap'ını (yani Kur'an'ı) indirmiştir ve ben Allah ve Resulü'nün çağrısına cevap verenlerden oldum ve Muhammed'in Misyonuna iman ettim, ve senin söylediğin gibi ilk iki hicreti yaptım ve Allah'ın Resulü (ﷺ) ile birlikte oldum ve ona biat ettim. Allah'a yemin ederim ki, ona asla itaat etmedim ve ona asla ihanet etmedim, ta ki Allah onu vefat ettirdi. Sonra Allah, Ebu Bekir'i halife yaptı ve Allah'a yemin ederim ki, ona asla itaat etmedim ve ona asla ihanet etmedim. Sonra Ömer halife oldu ve Allah'a yemin ederim ki, ona asla itaat etmedim ve ona asla ihanet etmedim. Sonra ben halife oldum. O halde, benim üzerimde sizin üzerinizde sahip olduğum haklar gibi haklarım yok mu?' dedim. Ben de onayladım. Uthman daha sonra, 'O halde, bana ulaşan bu konuşmalar nedir? Al-Walid bin 'Uqba hakkında bahsettiğin şey için; Allah'ın izniyle, ona adaletle ceza vereceğim.' dedi. Sonra Uthman, Al-Walid'in kırbaçlanmasını emretti. Onu kırbaçlamak için Ali'yi emretti ve kendisi de onu kırbaçladı.\""
+    },
+    {
+      "id": 104,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "---"
+    },
+    {
+      "id": 105,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Aişe'den rivayet edilmiştir: Ümmü Habibe ve Ümmü Selame, Etiyopya'da gördükleri bir kiliseyi anlattılar ve kilisede resimler vardı. Peygamber (ﷺ) buna dair kendilerine, \"O insanlar öyle ki, içlerinden bir salih kişi öldüğünde, mezarının üzerine bir ibadet yeri inşa ederler ve içinde bu resimleri çizerler. O insanlar, Kıyamet Günü Allah'ın en kötü yaratıkları olacaktır.\" dedi."
+    },
+    {
+      "id": 106,
+      "narrator": "Abu \nHuraira further said:",
+      "text": "Ebu Hureyre şöyle dedi: \"Allah'ın Elçisi (ﷺ) onları (yani Müslümanları) Musalla'da (yani namaz yeri) saf saf dizdi ve Negus için cenaze namazı kıldırdı ve dört tekbir aldı.\""
+    },
+    {
+      "id": 107,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ), Huneyn savaşına çıkarken, \"Yarın Allah'ın izniyle, Kureyş'in putperestlerinin (Peygamber (ﷺ) aleyhine) küfür yemini ettikleri Khaif Bani Kinana'da kamp kuracağız.\" dedi. (Banu Haşimo'yu boykot ederek putperestliğe sadık kalacaklarına dair yemin ettiler.)"
+    },
+    {
+      "id": 108,
+      "narrator": "Narrated Al-Abbas bin `Abdul Muttalib:",
+      "text": "Abbas bin Abdülmuttalib'den rivayet edilmiştir: \"O, Peygamber (ﷺ)'e şöyle dedi: 'Amcan (Ebu Talib) için hiçbir faydan olmadı (oysa) Allah'a yemin ederim ki, o seni korurdu ve senin adına öfkelenirdi.' Peygamber (ﷺ) şöyle dedi: 'O, sığ bir ateştedir; eğer ben olmasaydım, o (Cehennem) ateşinin en dibinde olurdu.'\""
+    },
+    {
+      "id": 109,
+      "narrator": "Narrated Al-Musaiyab:",
+      "text": "El-Müsayyb'den rivayet edilmiştir: Ebu Talib ölüm döşeğinde iken, Peygamber (ﷺ) ona gitti ve Ebu Cehil yanında oturuyordu. Peygamber (ﷺ) şöyle dedi: \"Ey amca! De ki: Allah'tan başka ibadet edilmeye layık olan yoktur; bu ifadeyle ben senin davasını Allah katında savunacağım.\" Ebu Cehil ve Abdullah bin Ümeyye, \"Ey Ebu Talib! Abdulmuttalib'in dinini mi terk edeceksin?\" dediler. Böylece ona bunu söylemeye devam ettiler ki, o (ölmeden önce) onlara son olarak şunu söyledi: \"Ben Abdulmuttalib'in dinindeyim.\" Sonra Peygamber (ﷺ) dedi: \"Ben senin için Allah'tan af dilemeye devam edeceğim, bana yasaklanmadıkça.\" Sonra şu ayet nazil oldu: \"Peygamber (ﷺ) ve müminlerin, putperestler için Allah'tan af dilemeleri uygun değildir; onlar yakın akrabaları bile olsa, onlara (Cehennem) ateşinin halkı oldukları açıkça belli olduktan sonra.\" (9.113) Diğer bir ayet de nazil oldu: \"(Ey Peygamber!) Şüphesiz, sen sevdiğini hidayete erdiremezsin; fakat Allah dilediğini hidayete erdirir...\" (28.56)"
+    },
+    {
+      "id": 110,
+      "narrator": "Narrated Abu Sa`id Al-Khudri:",
+      "text": "Ebu Said el-Hudri'den rivayet edilmiştir: \"Peygamber (ﷺ)'in amcasından (yani Ebu Talib'den) bahsedildiğinde, 'Belki benim şefaatim, Kıyamet Günü ona faydalı olur ve o, ayak bileklerine kadar ulaşan sığ bir ateşte yer alır. O ateşten beyni kaynayacaktır.' dediğini işittim.\" Yazid de şöyle rivayet etti: \"Beyni kaynayacaktır.\""
+    },
+    {
+      "id": 111,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Cabir bin Abdullah'dan rivayet edilmiştir: \"Allah'ın Elçisi (ﷺ) şöyle dedi: 'Kureyş halkı bana inanmadığında (yani Gece Seyahati hikayeme), ben Al-Hicr'de durdum ve Allah, Kudüs'ü önümde serdi, ben de onu onlara tarif etmeye başladım, onu görebiliyorken.'\""
+    },
+    {
+      "id": 112,
+      "narrator": "Narrated `Abbas bin Malik:",
+      "text": "Abbas bin Malik'ten rivayet edilmiştir: Malik bin Sasaa, Allah'ın Elçisi (ﷺ)'nin Gece Seyahatini şöyle tarif ettiğini söyledi: \"Al-Hatim veya Al-Hicr'de yatarken, birdenbire biri yanıma geldi ve bedenimi buradan buraya kadar kesti.\" Yanımdaki El-Cerud'a sordum: \"Bu ne demek?\" O da, \"Boğazından kasıklarına kadar demektir,\" ya da \"Göğsünün üst kısmından\" dedi. Peygamber (ﷺ) daha sonra şöyle dedi: \"O, kalbimi çıkardı. Sonra bana bir inanç tepsisi getirildi ve kalbim yıkanarak (inançla) dolduruldu ve sonra eski yerine geri konuldu. Sonra bana, eşekten küçük ama katırdan büyük bir beyaz hayvan getirildi.\" (Bunun üzerine El-Cerud sordu: \"O, Buraq mıydı, Ey Ebu Hamza?\" Ben (yani Enes) onayladım). Peygamber (ﷺ) şöyle dedi: \"Hayvanın adımı (o kadar genişti ki) hayvanın görüş alanının en uzak noktasına kadar ulaşıyordu. Ben onun üzerinde taşındım ve Cebrail benimle birlikte en yakın semaya kadar gitti. Kapının açılmasını istediğinde, 'Kimdir?' diye soruldu. Cebrail cevap verdi: 'Cebrail.' 'Seninle kim var?' diye soruldu. Cebrail, 'Muhammed' diye cevap verdi. 'Muhammed çağrıldı mı?' diye soruldu. Cebrail onayladı. Sonra şöyle denildi: 'Hoş geldin. Ne güzel bir ziyaret!' Kapı açıldı ve ben birinci semaya geçtiğimde, orada Adem'i gördüm. Cebrail bana, 'Bu senin baban Adem'dir; ona selam ver.' dedi. Ben de ona selam verdim ve o da selamımı aldı ve 'Hoş geldin, ey takva sahibi evlat ve takva sahibi Peygamber.' dedi. Sonra Cebrail benimle birlikte ikinci semaya kadar yükseldi. Cebrail kapının açılmasını istedi. 'Kimdir?' diye soruldu. Cebrail cevap verdi: 'Cebrail.' 'Seninle kim var?' diye soruldu. Cebrail, 'Muhammed' diye cevap verdi. 'O çağrıldı mı?' diye soruldu. Cebrail onayladı. Sonra şöyle denildi: 'Hoş geldin. Ne güzel bir ziyaret!' Kapı açıldı. İkinci semaya geçtiğimde, orada Yahya (yani Yuhanna) ve İsa (yani İsa) gördüm; bunlar birbirlerinin kuzenleridir. Cebrail bana, 'Bunlar Yahya ve İsa'dır; onlara selam ver.' dedi. Ben de onlara selam verdim ve her ikisi de selamımı aldı ve 'Hoş geldin, ey takva sahibi kardeş ve takva sahibi Peygamber.' dediler. Sonra Cebrail benimle birlikte üçüncü semaya kadar yükseldi ve kapının açılmasını istedi. 'Kimdir?' diye soruldu. Cebrail cevap verdi: 'Cebrail.' 'Seninle kim var?' diye soruldu. Cebrail, 'Muhammed' diye cevap verdi. 'O çağrıldı mı?' diye soruldu. Cebrail onayladı. Sonra şöyle denildi: 'Hoş geldin, ne güzel bir ziyaret!' Kapı açıldı ve üçüncü semaya geçtiğimde, orada Yusuf'u gördüm. Cebrail bana, 'Bu Yusuf'tur; ona selam ver.' dedi. Ben de ona selam verdim ve o da selamımı aldı ve 'Hoş geldin, ey takva sahibi kardeş ve takva sahibi Peygamber.' dedi. Sonra Cebrail benimle birlikte dördüncü semaya kadar yükseldi ve kapının açılmasını istedi. 'Kimdir?' diye soruldu. Cebrail cevap verdi: 'Cebrail.' 'Seninle kim var?' diye soruldu. Cebrail, 'Muhammed' diye cevap verdi. 'O çağrıldı mı?' diye soruldu. Cebrail onayladı. Sonra şöyle denildi: 'Hoş geldin, ne güzel bir ziyaret!' Kapı açıldı ve dördüncü semaya geçtiğimde, orada İdris'i gördüm. Cebrail bana, 'Bu İdris'tir; ona selam ver.' dedi. Ben de ona selam verdim ve o da selamımı aldı ve 'Hoş geldin, ey takva sahibi kardeş ve takva sahibi Peygamber.' dedi. Sonra Cebrail benimle birlikte beşinci semaya kadar yükseldi ve kapının açılmasını istedi. 'Kimdir?' diye soruldu. Cebrail cevap verdi: 'Cebrail.' 'Seninle kim var?' diye soruldu. Cebrail, 'Muhammed' diye cevap verdi. 'O çağrıldı mı?' diye soruldu. Cebrail onayladı. Sonra şöyle denildi: 'Hoş geldin, ne güzel bir ziyaret!' Beşinci semaya geçtiğimde, orada Harun'u gördüm. Cebrail bana, 'Bu Harun'dur; ona selam ver.' dedi. Ben de ona selam verdim ve o da selamımı aldı ve 'Hoş geldin, ey takva sahibi kardeş ve takva sahibi Peygamber.' dedi. Sonra Cebrail benimle birlikte altıncı semaya kadar yükseldi ve kapının açılmasını istedi. 'Kimdir?' diye soruldu. Cebrail cevap verdi: 'Cebrail.' 'Seninle kim var?' diye soruldu. Cebrail, 'Muhammed' diye cevap verdi. 'O çağrıldı mı?' diye soruldu. Cebrail onayladı. Sonra şöyle denildi: 'Hoş geldin, ne güzel bir ziyaret!' Altıncı semaya geçtiğimde, orada Musa'yı gördüm. Cebrail bana, 'Bu Musa'dır; ona selam ver.' dedi. Ben de ona selam verdim ve o da selamımı aldı ve 'Hoş geldin, ey takva sahibi kardeş ve takva sahibi Peygamber.' dedi. Onu (yani Musa'yı) terk ettiğimde, o ağlıyordu. Birisi ona, 'Seni ne ağlatıyor?' diye sordu. Musa, 'Ben ağlıyorum çünkü benden sonra bir genç peygamber gönderildi ki, onun takipçileri benim takipçilerimden daha fazla cennete girecekler.' dedi. Sonra Cebrail benimle birlikte yedinci semaya kadar yükseldi ve kapının açılmasını istedi. 'Kimdir?' diye soruldu. Cebrail cevap verdi: 'Cebrail.' 'Seninle kim var?' diye soruldu. Cebrail, 'Muhammed' diye cevap verdi. 'O çağrıldı mı?' diye soruldu. Cebrail onayladı. Sonra şöyle denildi: 'Hoş geldin, ne güzel bir ziyaret!' Yedinci semaya geçtiğimde, orada İbrahim'i gördüm. Cebrail bana, 'Bu senin babandır; ona selam ver.' dedi. Ben de ona selam verdim ve o da selamımı aldı ve 'Hoş geldin, ey takva sahibi evlat ve takva sahibi Peygamber.' dedi. Sonra Sidrat-ul-Muntaha'ya (yani en yüksek sınırdaki Zakkum Ağacı) yükseltilmeye davet edildim. Bakın! Meyveleri Hicr'in (yani Medine yakınındaki bir yer) kapları gibi ve yaprakları fil kulakları kadar büyüktü. Cebrail, 'Bu en yüksek sınırdaki Zakkum Ağacı'dır. Bakın! Dört nehir akıyordu; ikisi gizli ve ikisi görünürdü. Ben sordum: 'Bu iki tür nehir nedir, Ey Cebrail?' O cevap verdi: 'Gizli nehirler cennetteki iki nehirdir ve görünür nehirler Nil ve Fırat'tır.' Sonra Al-Bait-ul-Ma'mur (yani Kutsal Ev) bana gösterildi ve bir kap dolusu şarap, bir kap dolusu süt ve bir kap dolusu bal getirildi. Sütü aldım. Cebrail, 'Bu senin ve takipçilerinin izlediği İslam dinidir.' dedi. Sonra namazlar bana emredildi: Günde elli namaz emredildi. Döndüğümde, Musa ile karşılaştım ve bana, 'Ne emredildi?' diye sordu. Ben de, 'Günde elli namaz emredildi.' dedim. Musa, 'Senin takipçilerin günde elli namaza dayanamazlar ve Allah'a yemin ederim ki, ben senden önce insanları denedim ve Beni İsrail ile elimden geleni yaptım (boşuna). Git, Rabbinle geri dön ve takipçilerinin yükünü hafifletmek için bir indirim iste.' dedi. Ben geri döndüm ve Allah, benim için on namazı azalttı. Sonra tekrar Musa'ya geldim, ama o daha önce söylediği gibi tekrar etti. Sonra tekrar Allah'a döndüm ve O, on namaz daha azalttı. Musa'ya geri döndüğümde, o aynı şeyi söyledi; ben tekrar Allah'a döndüm ve O, günde beş namaz kılmamı emretti. Musa'ya geri döndüğümde, o, 'Ne emredildi?' diye sordu. Ben de, 'Günde beş namaz emredildi.' dedim. O, 'Senin takipçilerin günde beş namaza dayanamazlar ve şüphesiz, ben senden önce insanları denedim ve Beni İsrail ile elimden geleni yaptım, bu yüzden Rabbinle geri dön ve takipçilerinin yükünü hafifletmek için bir indirim iste.' dedim. 'Ben Rabbimden o kadar çok istedim ki, utanıyorum, ama şimdi memnunum ve Allah'ın emrine teslim oluyorum.' dediğimde, bir ses duydum: 'Emrimi geçtim ve kullarımın yükünü azalttım.'\""
+    },
+    {
+      "id": 113,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Allah'ın \"Ve sana gösterdiğimiz (gözle görerek) o görünüm, insanlara bir deneme olarak yapılmıştır.\" (17.60) ayeti hakkında: İbn Abbas ekledi: \"Allah'ın Elçisi (ﷺ)'ne Gece Seyahati sırasında Bait-ul-Maqdis'e (yani Kudüs) götürüldüğünde gösterilen manzaralar gerçek manzaralardı (rüya değildi). Kur'an'da bahsedilen Lanetli Ağaç, Zakkum ağacıdır.\""
+    },
+    {
+      "id": 114,
+      "narrator": "Narrated `Abdullah bin Ka`b:",
+      "text": "Abdullah bin Ka'b'dan rivayet edilmiştir: Ka'b'ın kör olduğu zaman onun rehberiydim: Ka'b bin Malik'in şöyle anlattığını işittim: \"O, Peygamber (ﷺ)'in Tabuk Gazvesi'ne katılmadığı zaman geride kaldı. İbn Bukair, rivayetinde Ka'b'ın, 'Ben, Peygamber (ﷺ) ile birlikte gece Al-Aqaba biatını gördüm; İslam'ı tüm gücümüzle destekleme konusunda ortak bir karar aldık. Badr savaşında o Al-Aqaba biatına katılmayı tercih etmezdim, oysa Badr, insanlar arasında daha iyi bilinir.' dediğini belirtti.\""
+    },
+    {
+      "id": 115,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Cabir bin Abdullah'dan rivayet edilmiştir: \"Ben, iki teyze oğlumla birlikte Al-Aqaba'da (biatın verildiği yer) bulundum. (İbn 'Uyaina, 'İkisi de Al-Bara' bin Marur'du.' dedi.)\""
+    },
+    {
+      "id": 116,
+      "narrator": "Narrated Jabir:",
+      "text": "Cabir'den rivayet edilmiştir: \"Babam, iki teyze oğlum ve ben, 'Aqaba Biatına katılanlardan idik.\""
+    },
+    {
+      "id": 117,
+      "narrator": "Narrated 'Ubada bin As-Samit:",
+      "text": "Ubade bin Es-Samit'ten rivayet edilmiştir: \"O, Allah'ın Elçisi (ﷺ) ile Badr savaşına katılan ve Al-Aqaba Biatı gecesinde onun arkadaşlarından biri olan Ubade bin Es-Samit'tir: Allah'ın Elçisi (ﷺ), bir grup arkadaşının etrafında şöyle dedi: 'Gel ve bana, Allah'tan başka hiçbir şeye ibadet etmeyeceğine, çalmayacağına, zina etmeyeceğine, çocuklarını öldürmeyeceğine, iftira etmeyeceğine ve eğer sana iyi bir şey emredersem, bana itaat etmeyeceğine dair biat et.' Sizden kim bu biate saygı gösterir ve bunu yerine getirirse, Allah ona mükafat verecektir. Eğer biriniz bu günahlardan birini işler ve bu dünyada cezalandırılırsa, bu onun için bir kefaret olacaktır; eğer biriniz bu günahlardan birini işler ve Allah onun günahını örterse, o zaman onun durumu Allah'a kalmıştır: Eğer dilerse onu cezalandırır, eğer dilerse onu affeder.' Böylece ben bu şartlar için ona biat ettim.\""
+    },
+    {
+      "id": 118,
+      "narrator": "Narrated 'Ubada bin As Samit:",
+      "text": "Ubade bin Es-Samit'ten rivayet edilmiştir: \"Ben, Allah'ın Elçisi (ﷺ)'ne 'Aqaba Biatını veren Naqiplerden biriydim. Ona, Allah'tan başka hiçbir şeye ibadet etmeyeceğimize, çalmayacağımıza, zina etmeyeceğimize, Allah'ın haram kıldığı bir kişiyi, haklı bir sebep olmadan öldürmeyeceğimize, birbirimizi soymayacağımıza ve eğer yukarıda belirtilen günahları işlersek cennete giremeyeceğimize dair biat ettik; sonra eğer yukarıdaki günahlardan birini işlerseniz, Allah onun hakkında hüküm verecektir.'\""
+    },
+    {
+      "id": 119,
+      "narrator": "Narrated Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: \"Peygamber (ﷺ) benimle altı yaşında nişanlandı. Medine'ye gittik ve Beni Harith bin Hazrec'in evinde kaldık. Sonra hastalandım ve saçlarım döküldü. Daha sonra saçlarım tekrar uzadı ve annem, Ümmü Ruman, beni oynarken buldu. Beni çağırdı ve ben ne"
+    },
+    {
+      "id": 120,
+      "narrator": "Narrated `Aisha:",
+      "text": "Narrated `Aisha: That the Prophet (ﷺ) said to her, \"You have been shown to me twice in my dream. I saw you pictured on a \npiece of silk and some-one said (to me). 'This is your wife.' When I uncovered the picture, I saw that it \nwas yours. I said, 'If this is from Allah, it will be done.\""
+    },
+    {
+      "id": 121,
+      "narrator": "Narrated Hisham's father:",
+      "text": "Hişam'ın babasından rivayet edilmiştir: Hatice, Peygamber (ﷺ) Medine'ye gitmeden üç yıl önce vefat etti. Orada yaklaşık iki yıl kaldı ve sonra Aişe ile evlendi, Aişe altı yaşındayken, bu evliliği dokuz yaşında tamamladı."
+    },
+    {
+      "id": 122,
+      "narrator": "Narrated Abu Wail:",
+      "text": "Ebu Vail'den rivayet edilmiştir: Biz, Khabbab'ı ziyaret ettik. O, \"Biz, Allah rızası için Peygamber (ﷺ) ile hicret ettik, bu yüzden ödülümüz Allah katında kesinleşti. Bizden bazıları bu dünyada ödüllerini almadan vefat etti ve bunlardan biri Uhud günü şehit olan Mus'ab bin Ümeyr'di. Onun başını örtünce ayakları açığa çıktı, ayaklarını örttüğümüzde ise başı açığa çıktı. Bunun üzerine Allah'ın Elçisi (ﷺ) bize başını örtmemizi ve ayaklarına biraz idhkir (yani özel bir tür ot) koymamızı emretti. (Diğer taraftan) bazılarımızın meyveleri olgunlaşmış durumda ve onları topluyorlar.\""
+    },
+    {
+      "id": 123,
+      "narrator": "Narrated `Umar:",
+      "text": "Ömer'den rivayet edilmiştir: Peygamber (ﷺ) şöyle derken duydum: \"Amellerin karşılığı niyetlere bağlıdır, bu yüzden kim dünyalık menfaatler veya bir kadınla evlenmek için hicret ederse, hicreti o amaçla olur; fakat kim Allah ve Elçisi için hicret ederse, hicreti Allah ve Elçisi içindir.\""
+    },
+    {
+      "id": 124,
+      "narrator": "Narrated Mujahid bin Jabir Al-Makki:",
+      "text": "Mücahid bin Cabir el-Mekki'den rivayet edilmiştir: Abdullah bin Ömer derdi ki, \"Mekke'nin Fethi'nden sonra artık hicret yoktur.\""
+    },
+    {
+      "id": 125,
+      "narrator": "Narrated 'Ata bin Abi Rabah:",
+      "text": "Ata bin Ebi Rabah'tan rivayet edilmiştir: Ubaid bin Ömer el-Leysi ve ben Aişe'yi ziyaret ettik ve ona hicret hakkında sorduk. O, \"Bugün hicret yoktur. Bir mümin, dininden dolayı denemeye maruz kalmamak için Allah ve Elçisi'ne sığınırdı. Bugün Allah İslam'ı galip kıldı ve bugün bir mümin, Rabbine istediği yerde ibadet edebilir. Ancak hicret yerine geçerli olan ameller, cihad ve iyi niyetlerdir.\" dedi. (Bkz. Hadis No. 42, Cilt 4)."
+    },
+    {
+      "id": 126,
+      "narrator": "Narrated Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Sa'd dedi ki, \"Ya Allah! Sen biliyorsun ki, senin yolunda savaşmak için daha istekli olduğum kimse yoktur, senin Elçini inkâr eden ve onu (şehrinden) çıkaranlardan başka. Ya Allah! Sanırım sen bizimle onların arasındaki savaşı sona erdirdin.\""
+    },
+    {
+      "id": 127,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) kırk yaşında vahiy almaya başladı. Sonra Mekke'de on üç yıl kaldı, vahiy aldı. Sonra hicret etmesi emredildi ve on yıl muhacir olarak yaşadı ve altmış üç yaşında vefat etti."
+    },
+    {
+      "id": 128,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) ilk vahiy aldıktan sonra Mekke'de on üç yıl kaldı ve altmış üç yaşında vefat etti."
+    },
+    {
+      "id": 129,
+      "narrator": "Narrated Abu Sa`id Al-Khudri:",
+      "text": "Ebu Said el-Hudri'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) minbere oturdu ve şöyle dedi: \"Allah, kullarından birine, dünyadaki ihtişam ve lüksü istediği gibi alma veya Allah katındaki iyiliği kabul etme seçeneğini verdi. O, Allah katındaki iyiliği seçti.\" Bunun üzerine Ebu Bekir ağladı ve \"Babalarımız ve annelerimiz sana feda olsun.\" dedi. Biz buna şaşırdık. İnsanlar, \"Bu ihtiyara bak! Allah'ın Elçisi (ﷺ) Allah'ın bir kulundan, ona bu dünyadaki ihtişamı veya O'nun katındaki iyiliği seçme seçeneği verildiğini söylerken, 'Babalarımız ve annelerimiz sana feda olsun' diyor.\" dediler. Ama bu, Allah'ın Elçisi (ﷺ) için verilen bir seçimdi ve Ebu Bekir bunu bizden daha iyi biliyordu. Allah'ın Elçisi (ﷺ) ekledi: \"Şüphesiz, Ebu Bekir'e, hem arkadaşlığı hem de malı konusunda herkesten daha çok borçluyum. Eğer takipçilerimden birini dost edinmem gerekseydi, kesinlikle Ebu Bekir'i alırdım, ama İslam kardeşliği yeterlidir. Camide hiçbir kapı (yani Khoukha) açık kalmasın, sadece Ebu Bekir'in kapısı açık kalsın.\""
+    },
+    {
+      "id": 130,
+      "narrator": "Narrated 'Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: (Peygamberin eşi) Ben, ailemin başka bir dine inandığını hatırlamıyorum ve Allah'ın Elçisi (ﷺ) sabah ve akşam bizi ziyaret etmeden geçen bir gün hatırlamıyorum. Müslümanlar denemeye tabi tutulduğunda (yani putperestler tarafından sıkıntıya sokulduğunda), Ebu Bekir, Etiyopya topraklarına hicret etmeye çıktı ve Bark-al-Ghimad'a ulaştığında, Kura kabilesinin reisi İbn Ad-Daghina ona rastladı ve \"Ey Ebu Bekir! Nereye gidiyorsun?\" dedi. Ebu Bekir, \"Kavmim beni (memleketimden) çıkardı, bu yüzden yeryüzünde dolaşmak ve Rabbime ibadet etmek istiyorum.\" dedi. İbn Ad-Daghina, \"Ey Ebu Bekir! Senin gibi bir adamın memleketini terk etmemesi ve dışlanmaması gerekir, çünkü sen muhtaçlara yardım edersin, onların geçimini sağlarsın, akrabanla iyi ilişkiler kurarsın, zayıflara ve fakirlere yardım edersin, misafirlere cömert davranırsın ve felakete uğramış kişilere yardım edersin. Bu nedenle ben senin koruyucun olacağım. Geri dön ve memleketinde Rabbine ibadet et.\" dedi."
+    },
+    {
+      "id": 131,
+      "narrator": "The nephew of Suraqa bin Ju'sham said that his father informed him that he heard Suraqa bin Ju'sham saying, \"The messengers of the heathens of Quraish came to us declaring that they had assigned for the persons why would kill or arrest Allah's Messenger (ﷺ) and Abu Bakr, a reward equal to their bloodmoney. While I was sitting in one of the gatherings of my tribe. Bani Mudlij, a man from them came to us and stood up while we were sitting, and said, \"O Suraqa! No doubt, I have just seen some people far away on the seashore, and I think they are Muhammad and his companions.\" Suraqa added, \"I too realized that it must have been they. But I said 'No, it is not they, but you have seen so-and-so, and so-and-so whom we saw set out.' I stayed in the gathering for a while and then got up and left for my home. and ordered my slave-girl to get my horse which was behind a hillock, and keep it ready for me. \n\n \n\n   Then I took my spear and left by the back door of my house dragging the lower end of the spear on the ground and keeping it low. Then I reached my horse, mounted it and made it gallop. When I approached them (i.e. Muhammad and Abu Bakr), my horse stumbled and I fell down from it, Then I stood up, got hold of my quiver and took out the divining arrows and drew lots as to whether I should harm them (i.e. the Prophet (ﷺ) and Abu Bakr) or not, and the lot which I disliked came out. But I remounted my horse and let it gallop, giving no importance to the divining arrows. When I heard the recitation of the Quran by Allah's Messenger (ﷺ) who did not look hither and thither while Abu Bakr was doing it often, suddenly the forelegs of my horse sank into the ground up to the knees, and I fell down from it. Then I rebuked it and it got up but could hardly take out its forelegs from the ground, and when it stood up straight again, its fore-legs caused dust to rise up in the sky like smoke. Then again I drew lots with the divining arrows, and the lot which I disliked, came out. So I called upon them to feel secure. They stopped, and I remounted my horse and went to them. When I saw how I had been hampered from harming them, it came to my mind that the cause of Allah's Messenger (ﷺ) (i.e. Islam) will become victorious. So I said to him, \"Your people have assigned a reward equal to the bloodmoney for your head.\" Then I told them all the plans the people of Mecca had made concerning them. Then I offered them some journey food and goods but they refused to take anything and did not ask for anything, but the Prophet (ﷺ) said, \"Do not tell others about us.\" Then I requested him to write for me a statement of security and peace. He ordered 'Amr bin Fuhaira who wrote it for me on a parchment, and then Allah's Messenger (ﷺ) proceeded on his way. \n\n \n\n   Narrated 'Urwa bin Az-Zubair:",
+      "text": "Bunun üzerine Ebu Bekir geri döndü ve İbn Ad-Daghina ona eşlik etti. Akşam İbn Ad-Daghina, Kureyş'in ileri gelenlerine gitti ve onlara şöyle dedi: \"Ebu Bekir gibi bir adamın memleketini terk etmemesi ve dışlanmaması gerekir. Siz (yani Kureyş) muhtaçlara yardım eden, onların geçimini sağlayan, akrabalarıyla iyi ilişkiler kuran, zayıflara ve fakirlere yardım eden, misafirlere cömert davranan ve felakete uğramış kişilere yardım eden bir adamı dışlar mısınız?\" Kureyş halkı İbn Ad-Daghina'nın korumasını kabul edemedi ve ona, \"Ebu Bekir Rabbine evinde ibadet etsin. Orada dilediği gibi namaz kılabilir ve Kur'an okuyabilir, ama bununla bizi rahatsız etmemeli ve bunu açıkça yapmamalıdır, çünkü kadınlarımıza ve çocuklarımıza etki edebilir.\" dediler. İbn Ad-Daghina, Ebu Bekir'e bunların hepsini bildirdi. Ebu Bekir o halde kaldı, Rabbine evinde ibadet etti. Kamuya açık namaz kılmadı, evinin dışında Kur'an okumadı. Sonra Ebu Bekir'in aklına evinin önünde bir cami inşa etme fikri geldi ve orada namaz kılmaya ve Kur'an okumaya başladı. Putperestlerin kadınları ve çocukları etrafında toplanmaya başladılar. Onlar ona hayranlıkla bakıyorlardı. Ebu Bekir çok ağlayan bir adamdı ve Kur'an okurken ağlamaktan kendini alamıyordu. Bu durum, Kureyş'in ileri gelenlerini korkuttu, bu yüzden İbn Ad-Daghina'yı çağırdılar. O geldiğinde, \"Ebu Bekir'e olan korumanızı, evinde Rabbine ibadet etmesi şartıyla kabul ettik, ama o şartları ihlal etti ve evinin önünde, açıkça namaz kıldığı ve Kur'an okuduğu bir cami inşa etti. Artık, kadınlarımıza ve çocuklarımıza olumsuz etki edebileceğinden korkuyoruz. O yüzden bunu durdurun. Eğer Rabbine ibadetini evinde sınırlamak isterse, bunu yapabilir; ama eğer bunu açıkça yapmaya ısrar ederse, onu koruma yükümlülüğünüzden kurtulmanızı isteyin, çünkü sizinle yaptığımız anlaşmayı bozmak istemiyoruz, ama Ebu Bekir'in eylemini açıkça ilan etme hakkını ona vermiyoruz.\" İbn Ad-Daghina, Ebu Bekir'e gitti ve \"Ey Ebu Bekir! Senin adınla yaptığım sözleşmeyi iyi biliyorsun; şimdi ya buna uymalısın, ya da beni koruma yükümlülüğümden kurtarmalısın, çünkü ben 'Arapların, başka bir adam adına yaptığım bir sözleşmeyi ihlal ettiğini duymasını istemiyorum.\" Ebu Bekir, \"Seni koruma yükümlülüğünden kurtarıyorum ve Allah'ın korumasıyla memnun oluyorum.\" dedi."
+    },
+    {
+      "id": 132,
+      "narrator": "Narrated Asma:",
+      "text": "O sırada Peygamber (ﷺ) Mekke'deydi ve Müslümanlara, \"Bir rüyada hicret yerinizi, iki dağın arasında, hurma ağaçlarıyla dolu bir yer gösterildi.\" dedi. Böylece bazı insanlar Medine'ye hicret ettiler ve daha önce Etiyopya topraklarına hicret edenlerin çoğu Medine'ye döndü. Ebu Bekir de Medine'ye gitmek için hazırlık yaptı, ama Allah'ın Elçisi (ﷺ) ona, \"Bir süre bekle, çünkü benim de hicret etmeme izin verileceğini umuyorum.\" dedi. Ebu Bekir, \"Gerçekten bunu bekliyor musun? Babam sana feda olsun!\" dedi. Peygamber (ﷺ) \"Evet.\" dedi. Böylece Ebu Bekir, Allah'ın Elçisi (ﷺ) ile birlikte gitmek için hicret etmedi. İki dişi deveye, bir sopayla vurulduğunda düşen As-Samur ağacının yapraklarıyla dört ay boyunca baktı."
+    },
+    {
+      "id": 133,
+      "narrator": "Narrated Al-Bara:",
+      "text": "Bir gün, öğle vakti Ebu Bekir'in evinde otururken, birisi Ebu Bekir'e, \"İşte başı örtülü Allah'ın Elçisi (ﷺ) geliyor, daha önce hiç gelmediği bir saatte.\" dedi. Ebu Bekir, \"Babalarım sana feda olsun. Vallahi, bu saatte gelmemiştir, ancak büyük bir ihtiyaçtan dolayı gelmiştir.\" dedi. Böylece Allah'ın Elçisi (ﷺ) geldi ve içeri girmek için izin istedi, ve içeri girmesine izin verildi. İçeri girdiğinde Ebu Bekir'e, \"Seninle birlikte bulunan herkese gitmelerini söyle.\" dedi. Ebu Bekir, \"Sadece senin ailenden başka kimse yok.\" dedi. \"Babam sana feda olsun, ey Allah'ın Elçisi (ﷺ)!\" Peygamber (ﷺ) \"Hicret etmeme izin verildi.\" dedi. Ebu Bekir, \"Seni yalnız bırakabilir miyim? Babam sana feda olsun, ey Allah'ın Elçisi (ﷺ)!\" dedi. Allah'ın Elçisi (ﷺ) \"Evet.\" dedi. Ebu Bekir, \"Ey Allah'ın Elçisi (ﷺ)! Babam sana feda olsun, bu iki dişi develerimden birini al.\" dedi. Allah'ın Elçisi (ﷺ) \"Bunu (karşılığında) alırım.\" dedi. Böylece hızlıca yükleri hazırladık ve onlara bir yol yiyeceği koyduk. Ebu Bekir'in kızı Asma, bel kemerinden bir parça kesip deriden yapılan çantanın ağzını onunla bağladı ve bu nedenle 'Dhat-un-Nitaqain' (yani iki kemerin sahibi) olarak adlandırıldı."
+    },
+    {
+      "id": 134,
+      "narrator": "Narrated Asma:",
+      "text": "Sonra Allah'ın Elçisi (ﷺ) ve Ebu Bekir, Thaur dağındaki bir mağaraya ulaştılar ve orada üç gece kaldılar. Abdullah bin Ebu Bekir, zeki ve akıllı bir genç, her gece onlarla birlikte kalıyordu. O, sabah olmadan önce onlardan ayrılır ve Kureyş ile birlikteymiş gibi görünmek için Mekke'de kalırdı. Onlara karşı yapılan her türlü planı aklında tutar ve karanlık çöktüğünde onlara bildirirdi. Ebu Bekir'in azatlı kölesi Amir bin Fuhaira, akşam karanlığında (efendisinin) süt koyunlarını onlara getirmek için gelirdi. Böylece her zaman gece taze sütleri olurdu, kendi koyunlarının sütü ve ısıtılmış taşlar atarak ısıttıkları süt. Amir bin Fuhaira, daha sonra sürüyü karanlıkta (sabah olmadan önce) çağırırdı. Bu üç gece boyunca aynı şeyi yaptı. Allah'ın Elçisi (ﷺ) ve Ebu Bekir, Beni Ad-Dail kabilesinden bir adamı uzman rehber olarak kiralamışlardı ve o, Al-'As bin Wail As-Sahmi ailesiyle ittifak halindeydi ve Kureyş'in kafirlerinin dinindeydi. Peygamber (ﷺ) ve Ebu Bekir ona güvendi ve ona iki dişi develerini verdiler ve sabah üç gün sonra mağaraya getirmesi için söz aldılar. (Yola çıktıklarında) Amir bin Fuhaira ve rehber onlarla birlikte gitti ve rehber onları deniz kıyısından yönlendirdi."
+    },
+    {
+      "id": 135,
+      "narrator": "Narrated Aisha:",
+      "text": "Suraka bin Cu'sham'ın yeğeni, babasının kendisine, Suraka bin Cu'sham'ın şöyle dediğini haber verdiğini söyledi: \"Kureyş'in putperestlerinin elçileri, Allah'ın Elçisi (ﷺ) ve Ebu Bekir'i öldüren veya yakalayan kişilere kan bedeli kadar ödül vereceklerini bildirmek için bize geldiler. Ben, Beni Mudlij kabilesinin bir toplantısında otururken, içlerinden biri yanımıza geldi ve oturduğumuz sırada ayağa kalkarak, 'Ey Suraka! Şüphesiz, uzakta deniz kıyısında bazı insanlar gördüm ve onların Muhammed ve arkadaşları olduğunu düşünüyorum.' dedi. Suraka ekledi: 'Ben de onların olduğunu anladım. Ama 'Hayır, onlar değil, sen şu ve bu kişileri gördün, biz onları yola çıktıklarını gördük.' dedim. Toplantıda bir süre kaldım ve sonra kalkıp evime döndüm ve kölemden, tepe arkasında bulunan atımı hazırlamasını istedim."
+    },
+    {
+      "id": 136,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir: Allah'ın Elçisi (ﷺ) Medine'ye geldiğinde, Abu Bekir'in arkasında aynı deveye binerek gelmiştir. Abu Bekir, halk arasında tanınan yaşlı bir adamdı, oysa Allah'ın Elçisi (ﷺ) bilinmeyen bir gençti. Böylece, bir adam Abu Bekir ile karşılaştığında, \"Ey Abu Bekir! Önünüzdeki bu adam kim?\" derdi. Abu Bekir, \"Bu adam bana Yolu gösteriyor,\" derdi. Birisi, Abu Bekir'in yolu kastettiğini düşünebilirdi, oysa ki Abu Bekir erdem ve iyilik yolunu kastetmişti. Sonra Abu Bekir arkasına baktı ve kendilerini takip eden bir atlı gördü. \"Ey Allah'ın Elçisi (ﷺ)! Bu, bizi takip eden bir atlıdır,\" dedi. Peygamber (ﷺ) arkasına baktı ve \"Ey Allah! Onu yere düşür,\" dedi. Böylece at onu yere düşürdü ve neyinleyerek kalktı. Sonrasında, atlı Suraqa, \"Ey Allah'ın Peygamberi! Bana istediğin her şeyi emret,\" dedi. Peygamber, \"Olduğun yerde kal ve kimsenin bize ulaşmasına izin verme,\" dedi. Böylece, günün ilk kısmında Suraqa Allah'ın Peygamberinin düşmanıydı, günün son kısmında ise koruyucusu oldu. Sonra Allah'ın Elçisi Al-Harra'nın yanına indi ve Ensar'a bir mesaj gönderdi, onlar da Allah'ın Peygamberi ve Abu Bekir'e geldiler ve onlara selam vererek, \"Biniş (dişi develeriniz) güvenli ve itaatkar olsun,\" dediler. Allah'ın Elçisi (ﷺ) ve Abu Bekir bindi ve Ensar, silahlarını taşıyarak etraflarını sardı. Allah'ın Peygamberinin geldiği haberi Medine'de yayıldı. İnsanlar dışarı çıktı ve hevesle bakarak \"Allah'ın Peygamberi geldi! Allah'ın Peygamberi geldi!\" diyerek söylediler. Böylece Peygamber (ﷺ) devam etti ve Abu Ayub'un evinin yanına indi. Peygamber (ﷺ) Abu Ayub'un aile üyeleriyle konuşurken, Abdullah bin Selam, kendi ailesi için bahçeden hurma toplarken onun geldiğini duydu. Hızla Peygamber (ﷺ)'e doğru gitti, topladığı hurmaları taşıyarak. Allah'ın Peygamberini dinledi ve sonra evine gitti. Sonra Allah'ın Peygamberi, \"Akrabalarımızdan en yakın olan ev hangisi?\" dedi. Abu Ayub, \"Benim, ey Allah'ın Peygamberi! Bu benim evim ve bu benim kapım,\" dedi. Peygamber (ﷺ) \"Git ve öğle dinlenmemiz için bir yer hazırla,\" dedi. Abu Ayub, \"Kalkın (ikiniz de) Allah'ın Bereketi ile,\" dedi. Böylece Allah'ın Peygamberi eve girdiğinde, Abdullah bin Selam geldi ve \"Ben şahitlik ederim ki sen (yani Muhammed) Allah'ın Elçisisin ve gerçeği getirdin. Yahudiler iyi bilir ki ben onların başıyım ve başlarının oğluyum ve içlerinde en bilginiyim ve en bilgili olanlarının oğluyum. Onları (yani Yahudileri) gönder ve benim hakkımda İslam'ı kabul ettiğimi bilmeden önce onlara sor,\" dedi. \"Çünkü eğer bunu bilirlerse, benim hakkımda doğru olmayan şeyler söyleyecekler.\" Bunun üzerine Allah'ın Elçisi (ﷺ) onları çağırdı ve geldiler ve içeri girdiler. Allah'ın Elçisi (ﷺ) onlara, \"Ey (Yahudi) topluluğu! Vay halinize: Allah'tan korkun. Allah'tan başka ibadet edilmeye layık olan yoktur, siz kesinlikle biliyorsunuz ki ben Allah'ın Elçisiyim ve size gerçeği getirdim, o halde İslam'ı kabul edin,\" dedi. Yahudiler, \"Bunu bilmiyoruz,\" dediler. Böylece Peygamber'e bunu söylediler ve o da bunu üç kez tekrarladı. Sonra, \"Sizce Abdullah bin Selam sizin aranızda nasıl bir adamdır?\" dedi. Onlar, \"O bizim başımız ve başımızın oğlu ve en bilgili adamdır, en bilgili olanlarımızın oğludur,\" dediler. O, \"Eğer İslam'ı kabul ederse ne düşünürsünüz?\" dedi. Onlar, \"Allah korusun! O İslam'ı kabul edemez,\" dediler. O, \"Eğer İslam'ı kabul ederse ne düşünürsünüz?\" dedi. Onlar, \"Allah korusun! O İslam'ı kabul edemez,\" dediler. O, \"Eğer İslam'ı kabul ederse ne düşünürsünüz?\" dedi. Onlar, \"Allah korusun! O İslam'ı kabul edemez,\" dediler. O, \"Ey İbn Selam! Onlara çık,\" dedi. O çıktı ve \"Ey (Yahudi) topluluğu! Allah'tan korkun, O'ndan başka ibadet edilmeye layık olan yoktur. Siz kesinlikle biliyorsunuz ki o Allah'ın Elçisidir ve gerçek bir din getirmiştir!\" dediler. Onlar, \"Yalan söylüyorsun,\" dediler. Bunun üzerine Allah'ın Elçisi (ﷺ) onları dışarı çıkardı."
+    },
+    {
+      "id": 137,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "---"
+    },
+    {
+      "id": 138,
+      "narrator": "Narrated Khabbab:",
+      "text": "İbn `Umar'dan rivayet edilmiştir: `Umar bin Al-Hattab, her İlk Müslüman (yani Muhacir) için 4000 (Dirhem) hibe belirledi ve yalnızca İbn `Umar için 3500 (Dirhem) hibe belirledi. Birisi `Umar'a, \"İbn `Umar da İlk Müslümanlardan biridir; neden ona dört bin vermiyorsun?\" dedi. `Umar, \"Ailesi onu göç ederken yanlarına aldılar, bu yüzden o yalnız başına göç eden gibi değildir,\" dedi."
+    },
+    {
+      "id": 139,
+      "narrator": "Narrated Khabbab:",
+      "text": "---"
+    },
+    {
+      "id": 140,
+      "narrator": "Narrated Abu Burda Bin Abi Musa Al-Ash`ari:",
+      "text": "Khabbab'tan rivayet edilmiştir: Biz Allah'ın Elçisi (ﷺ) ile göç ettik (Bkz. Hadis No. 253 aşağıda)."
+    },
+    {
+      "id": 141,
+      "narrator": "Narrated Abu `Uthman:",
+      "text": "---"
+    },
+    {
+      "id": 142,
+      "narrator": "Narrated Al-Bara:",
+      "text": "Khabbab'tan rivayet edilmiştir: Biz Allah'ın Elçisi (ﷺ) ile Allah'ın rızasını arayarak göç ettik, böylece ödüllerimiz Allah katında kesinleşti. Aramızdan bazıları bu dünyada ödüllerinin hiçbirini yemeden vefat etti. Bunlardan biri, Uhud savaşında şehit olan Mus`ab bin `Umar'dır. Onun bedenini örtmek için başka bir şey bulamadık, sadece çizgili bir örtü bulabildik. Başını bununla örttüğümüzde, ayakları açıkta kaldı, ayaklarını bununla örttüğümüzde ise başı açıkta kaldı. Bunun üzerine Allah'ın Elçisi, başını bununla örtmemizi ve ayaklarının üzerine biraz İdhkhir (yani bir tür ot) koymamızı emretti. Aramızda meyveleri olgunlaşan ve onları toplayanlar da var (yani bu dünyada ödüllerini almışlardır)."
+    },
+    {
+      "id": 143,
+      "narrator": "Al-Bara added:",
+      "text": "---"
+    },
+    {
+      "id": 144,
+      "narrator": "Narrated Anas:",
+      "text": "Abu Burda Bin Abi Musa Al-Ash`ari'den rivayet edilmiştir: `Abdullah bin `Umar bana, \"Biliyor musun babam bir zamanlar senin babana ne dedi?\" dedi. Ben, \"Hayır,\" dedim. O, \"Babam senin babana, 'Ey Abu Musa, Allah'ın Elçisi (ﷺ) ile İslam'a geçişimiz ve onunla göç etmemiz, onunla cihad etmemiz ve onunla yaptığımız tüm iyi ameller için ödüllendirileceğimiz, onun ölümünden sonra yaptığımız tüm amellerin iyi ya da kötü olarak göz ardı edileceği seni memnun eder mi?' dedi. Senin baban (yani Abu Musa), 'Hayır, Allah'a yemin ederim ki, Allah'ın Elçisi (ﷺ) sonrası cihada katıldık, namaz kıldık ve birçok iyi işler yaptık, birçok insan da bizim aracılığımızla İslam'a girdi ve bu iyi işler için Allah'tan ödül bekliyoruz,' dedi. Bunun üzerine benim babam (yani `Umar), 'Benim için, 'Umar'ın ruhunun elinde olan O'na yemin ederim ki, Peygamber (ﷺ) zamanında yaptığımız amellerin ödüllendirilmeye devam etmesini, Peygamber (ﷺ) sonrası yaptığımız her şeyin de bizi cezadan kurtarması için yeterli olmasını isterim, böylece iyi ameller kötü amellerin yerini alır,' dedi.\" Bunun üzerine ben (İbn `Umar'a), \"Allah'a yemin ederim ki, baban benim babamdan daha iyiydi!\" dedim."
+    },
+    {
+      "id": 145,
+      "narrator": "Through another group of narrators, Anas bin Malik said:",
+      "text": "---"
+    },
+    {
+      "id": 146,
+      "narrator": "Narrate Aisha:",
+      "text": "Abu `Uthman'dan rivayet edilmiştir: İbn `Umar'ın, birisinin babasından önce göç ettiğini söylediğinde sinirlendiğini duydum ve şöyle derdi: \" `Umar ve ben Allah'ın Elçisi (ﷺ) yanına geldik ve onu öğle dinlenmesinde bulduk, böylece geri döndük. Sonra `Umar beni tekrar (Peygamber (ﷺ)'e) gönderdi ve 'Git ve uyanık mı olduğunu kontrol et,' dedi. Ben de ona gittim ve yerinde bulundum ve ona biat ettim. Sonra `Umar'a geri döndüm ve Peygamber (ﷺ)'in uyanık olduğunu bildirdim. Böylece ikimiz de yavaş yavaş koşarak gittik ve `Umar onun yanına girdiğinde ona biat etti ve ardından ben de ona biat ettim.\""
+    },
+    {
+      "id": 147,
+      "narrator": "Narrated Abu Bakr:",
+      "text": "---"
+    },
+    {
+      "id": 148,
+      "narrator": "Narrated Abu Sa`id:",
+      "text": "Al-Bara'dan rivayet edilmiştir: Abu Bekir, `Azib'den bir (deve) eyer aldı ve onu ben taşıdım. `Azib (yani babam) Allah'ın Elçisi (ﷺ)'nin göç yolculuğu hakkında Abu Bekir'e sordu. Abu Bekir, \"Düşmanlarımız bizi gözetlemek için dikkatli gözlemciler atamışlardı. Bu yüzden gece çıktık ve gece boyunca ve ertesi gün öğleye kadar yol aldık, sonra bir kaya gördük ve ona doğru gittik, altında biraz gölge vardı. Yanımda getirdiğim bir örtüyü Allah'ın Elçisi (ﷺ) için serdim ve sonra Peygamber (ﷺ) üzerine yattı. Onu korumak için dışarı çıktım ve aniden bir çobanla birlikte koyunlarıyla geldiğini gördüm, o da bizim gibi o kayanın gölgesini arıyordu. Ona, 'Ey çocuk, kimin çocuğusun?' dedim. O, 'Şu ve bu kişiye aitim,' dedi. Ona, 'Koyunlarında biraz süt var mı?' dedim. O, 'Evet,' dedi. 'Süt sağar mısın?' dedim. O, 'Evet,' dedi. Sonra bir koyununu tuttu. Ona, 'Sütünün memesindeki tozu al,' dedim. Sonra biraz süt sağdı. Yanımda bir su tulumu vardı, bir parça bezle bağlıydı. Su tulumunu Allah'ın Elçisi (ﷺ) için hazırlamıştım. Böylece süt kabının üzerine biraz su döktüm, altı soğuyana kadar. Sonra sütü Peygamber'e getirdim ve 'İç, ey Allah'ın Elçisi (ﷺ),' dedim. Allah'ın Elçisi (ﷺ) içti, ben de memnun oldum. Sonra ayrıldık ve takipçilerimiz peşimizden geliyordu.\""
+    },
+    {
+      "id": 149,
+      "narrator": "Narrated Al-Bara:",
+      "text": "---"
+    },
+    {
+      "id": 150,
+      "narrator": "Narrated Al-Bara bin Azib:",
+      "text": "Al-Bara ekledi: Sonra Abu Bekir ile evine (o eyerle) gittim ve orada ağır bir ateşten dolayı yatakta yatan kızı `Aişe'yi gördüm ve babası Abu Bekir'in onun yanağını öptüğünü ve \"Nasılsın, küçük kızım?\" dediğini gördüm."
+    },
+    {
+      "id": 151,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) Medine'ye geldiğinde, Ebu Bekir ve Bilal ateşlenmişti, ben de ikisinin yanına gidip, \"Ey babam, nasılsın? Ey Bilal, nasılsın?\" dedim. Ebu Bekir'in ateşi kötüleştiğinde, \"Her insan bir sabah ailesinin arasında ölümüyle karşılaşacak, çünkü ölüm gerçekten de ona, ayakkabısının bağcıklarından daha yakındır.\" derdi. Bilal ateşi düştüğünde ise yüksek sesle, \"Keşke bilsem, bir gece (Mekke) vadisinde İdhkır ve Celi (yani ot çeşitleri) arasında geçirecek miyim, bir gün Mijannah suyunu içecek miyim ve bir daha Şam ve Tafil dağlarını görecek miyim?\" derdi. Sonra ben Allah'ın Elçisi (ﷺ) yanına gidip bunu ona söyledim. O da, \"Ey Allah'ım, Medine'yi Mekke'yi sevdiğimiz kadar veya daha çok sevmemizi sağla, ey Allah'ım, onu sağlıklı kıl ve Sa' ve Mud'unu bereketlendir, ateşini de Al-Cuhfa'ya al.\" dedi."
+    },
+    {
+      "id": 152,
+      "narrator": "Narrated 'Ubaidullah bin Ad bin Khiyair:",
+      "text": "Ubeydullah bin Ad bin Khyair'den rivayet edilmiştir: Ben Osman'a gittim. Tashahhud'u okuduktan sonra, \"Şüphesiz ki Allah, Muhammed'i Hak ile göndermiştir ve ben Allah ve Elçisi'nin çağrısına icabet edenlerdenim ve Muhammed'in mesajına inandım. Sonra iki hicrete katıldım. Allah'ın Elçisi (ﷺ) ile damat oldum ve ona biat ettim. Vallahi, ona asla itaat etmedim, ne de olsa Allah onu kendisine aldı.\" dedi."
+    },
+    {
+      "id": 153,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Umar'ın liderliğindeki son Hac sırasında, Abdurrahman bin Auf ailesine döndü ve orada benimle karşılaştı. Abdurrahman, (Umar'a) \"Ey müminlerin başı! Hac mevsimi, insanların kötülerin (iyi olanların yanı sıra) ortaya çıktığı bir mevsimdir, bu yüzden Medine'ye dönene kadar beklemeni tavsiye ederim, çünkü orası Hicret ve Sünnet (yani Peygamber'in) yeridir ve orada dini bilginlere, soylulara ve akıllı insanlara danışabilirsin.\" dedi. Umar, \"Medine'de ilk vaazımda bunu konuşacağım.\" dedi."
+    },
+    {
+      "id": 154,
+      "narrator": "Narrated 'Um Al-`Ala:",
+      "text": "Ümmü'l-Ala'dan rivayet edilmiştir: Peygamber'e (ﷺ) biat eden bir Ensar kadını, Ensar'ın Hicret edenlerin ikamet yeri konusunda kura çektiği. Osman bin Maz'un onlarla (yani Ümmü'l-Ala'nın ailesiyle) birlikte yaşamaya karar verildi, Osman hastalandı ve ben onu hemşirelik yaptım ta ki öldü. Onu elbiseleriyle örttük. Sonra Peygamber (ﷺ) bize geldi ve ben (ölüye hitaben) \"Ey Ebu Es-Sa'ib, Allah'ın rahmeti senin üzerine olsun! Allah'ın seni onurlandırdığına şahitlik ederim.\" dedim. Bunun üzerine Peygamber (ﷺ) \"Sen onun Allah tarafından onurlandırıldığını nasıl biliyorsun?\" dedi. Ben de, \"Bilmiyorum. Babam ve annem sana feda olsun, ey Allah'ın Elçisi (ﷺ)! Ama kim başka buna layık?\" dedim. O da, \"Ona gelince, vallahi, ölüm onu yakaladı ve ben onun için en iyisini umuyorum. Vallahi, ben Allah'ın Elçisi olmama rağmen, Allah'ın bana ne yapacağını bilmiyorum.\" dedi. Vallahi, ondan sonra hiç kimsenin takvasını asla iddia etmeyeceğim. Bu beni üzdü ve uyuduğumda Osman bin Maz'un için akan bir su gördüm. Allah'ın Elçisi'ne (ﷺ) gidip bunu ona söyledim. O da, \"Bu onun (iyi) amellerini simgeliyor.\" dedi."
+    },
+    {
+      "id": 155,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Bu'at günü, Allah'ın Elçisi'nin (ﷺ) misyonundan hemen önce Allah'ın meydana getirdiği bir gündü (yani savaş), böylece Allah'ın Elçisi (ﷺ) Medine'ye geldiğinde, (kabileler) düşman gruplara ayrılmıştı ve soyluları öldürülmüştü; bu da onların İslam'a geçişini kolaylaştırdı."
+    },
+    {
+      "id": 156,
+      "narrator": "Narrated Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Bir gün Ebu Bekir, ya 'İd-ul-Fitr ya da 'İd-ul-Adha günü ona geldi, o sırada Peygamber (ﷺ) onunla birlikteydi ve yanında iki kız şarkıcı vardı, Bu'at günüyle ilgili Ensar'ın şarkılarını söylüyorlardı. Ebu Bekir iki kez, \"Şeytanın müzik aleti!\" dedi. Ama Peygamber (ﷺ) \"Onları bırak, Ebu Bekir, çünkü her milletin bir 'İd'i (yani bayramı) vardır ve bu gün bizim 'İd'imizdir.\" dedi."
+    },
+    {
+      "id": 157,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir: Allah'ın Elçisi (ﷺ) Medine'ye geldiğinde, Medine'nin üst kısmında Beni Amr bin Auf adlı insanların arasında indi ve onlarla on dört gece kaldı. Sonra Beni Neccar'ın başlarını çağırdı ve onlar kılıçlarını taşıyarak geldiler. Sanki Allah'ın Elçisi'ni (ﷺ) şimdi, Ebu Bekir'in arkasında (aynı deve üzerinde) oturduğunu ve Beni Neccar'ın başlarının etrafında olduğunu görüyorum, ta ki Ebu Eyyub'un evinin avlusuna inene kadar. Peygamber (ﷺ) namaz vakti geldiğinde her yerde namaz kılardı, hatta koyun ağıllarında bile. Sonra caminin inşasını emretti. Beni Neccar'ın başlarını çağırdı ve geldiklerinde, \"Ey Beni Neccar! Bu bahçenizin fiyatını bana önerin.\" dedi. Onlar, \"Hayır! Vallahi, biz onun fiyatını Allah'tan başka hiç kimseden talep etmeyiz.\" dediler. O bahçede şunlar vardı: Putların mezarları, çukurlarla dolu engebeli arazi ve hurma ağaçları. Allah'ın Elçisi (ﷺ) putların mezarlarının kazılmasını, engebeli arazinin düzleştirilmesini ve hurma ağaçlarının kesilmesini emretti. Ağaçların gövdeleri, kıbleye bakan duvarı oluşturacak şekilde düzenlendi. Kapısının yanlarına taş sütunlar inşa edildi. Peygamber (ﷺ) ile birlikte olan arkadaşları taşları taşıyor ve bazı sözler okuyor, ve Allah'ın Elçisi (ﷺ) onlarla birlikteydi ve \"Ey Allah! Ahiretin hayrından başka hiçbir hayır yoktur, bu yüzden Ensar'a ve Hicret edenlere zafer ver.\" diyorlardı."
+    },
+    {
+      "id": 158,
+      "narrator": "Narrated `Abdur-Rahman bin Humaid Az-Zuhri:",
+      "text": "Abdurrahman bin Humaid Az-Zuhri'den rivayet edilmiştir: Umar bin Abdulaziz'in As-Sa'ib'e, An-Nimr'in yeğenine, \"Mekke'de ikamet etmek hakkında ne duydun?\" diye sorduğunu duydum. Diğeri, \"Al-Ala bin Al-Hadrami'nin, Allah'ın Elçisi (ﷺ) şöyle dediğini duydum: Hicret edenin, Mina'dan (yani Hac'ın tüm ritüellerini tamamladıktan sonra) Mekke'de üç gün kalmasına izin vardır.\" dedi."
+    },
+    {
+      "id": 159,
+      "narrator": "Narrated Sahl bin Sa`d:",
+      "text": "Sahl bin Sa'd'tan rivayet edilmiştir: Peygamber'in arkadaşları, Müslüman takviminde başlangıç tarihi olarak, Peygamber'in (ﷺ) Elçi olarak gönderildiği günü veya ölüm gününü değil, Medine'ye geldiği günü almadılar."
+    },
+    {
+      "id": 160,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Başlangıçta, her namazda iki rekât farz kılındı. Peygamber (ﷺ) Medine'ye hicret ettiğinde dört rekât farz kılındı, yolculuk namazı ise değişmeden kaldı (yani iki rekât)."
+    },
+    {
+      "id": 161,
+      "narrator": "Narrated Sa`d bin Malik:",
+      "text": "Sa'd bin Malik'ten rivayet edilmiştir: Veda Haccı yılında, Peygamber (ﷺ) beni ziyaret ettiğinde hastaydım ve bu hastalıktan dolayı ölmek üzereydim. Ben, \"Ey Allah'ın Elçisi (ﷺ)! Gördüğünüz gibi çok hastayım ve zengin bir adamım, tek varisim de tek kızım. Malımın 2/3'ünü sadaka vermeli miyim?\" dedim. O, \"Hayır.\" dedi. Ben, \"O zaman yarısını mı vermeliyim?\" dedim. O, \"Ey Sa'd! 1/3'ünü (sadaka olarak) ver, hatta 1/3 bile fazla. Şüphesiz, çocuklarını zengin bırakmak, onları fakir bırakmaktan daha iyidir, başkalarından dilenmeye mahkum bırakmaktansa. Ve Allah, O'nun rızasını kazanmak amacıyla harcadığın her şey için seni ödüllendirecektir, hatta eşinin ağzına koyduğun bir lokma yiyecek bile.\" dedi. Ben, \"Ey Allah'ın Elçisi! Arkadaşlarım gittikten sonra ben Mekke'de mi kalacağım?\" dedim. O, \"Eğer geride kalırsan, Allah'ın rızasını kazanma arzusu ile yaptığın her iş için yükseltileceksin. Umarım uzun yaşarsın ki bazı insanlar senden faydalansın, diğerleri de zarar görsün. Ey Allah! Lütfen arkadaşlarımın hicretini tamamla ve onları geri döndürme. Ama (şanssız) Sa'd bin Khaulah için üzgünüz.\" Allah'ın Elçisi (ﷺ) Mekke'deki ölümüne üzüntüyle yakındı."
+    },
+    {
+      "id": 162,
+      "narrator": "Narrated Anas:",
+      "text": "Enes'ten rivayet edilmiştir: Abdurrahman bin Auf Medine'ye geldiğinde, Peygamber (ﷺ) onunla Sa'd bin Ar-Rabi' el-Ensari arasında kardeşlik bağı kurdu. Sa'd, Abdurrahman'a malının ve ailesinin yarısını kabul etmesini önerdi. Abdurrahman, \"Allah, ailen ve malın üzerinde seni mübarek kılsın; beni pazara yönlendir.\" dedi. Böylece Abdurrahman (pazarda iş yaparken) yoğunlaştırılmış kuru yoğurt ve tereyağından biraz kar elde etti. Birkaç gün sonra Peygamber (ﷺ) onu sarı parfümle lekelenmiş elbiselerle gördü. Peygamber (ﷺ) \"Bu nedir, ey Abdurrahman?\" dedi. O, \"Ey Allah'ın Elçisi (ﷺ)! Ben bir Ensar kadını ile evlendim.\" dedi. Peygamber (ﷺ) \"Ona ne kadar mehr verdin?\" diye sordu. O (yani Abdurrahman) \"Bir hurma çekirdeği ağırlığında bir altın parçası.\" dedi. Sonra Peygamber, \"Bir ziyafet ver, hatta bir koyun bile olsa.\" dedi."
+    },
+    {
+      "id": 163,
+      "narrator": "Narrated Anas:",
+      "text": "Enes'ten rivayet edilmiştir: Peygamber (ﷺ) Medine'ye geldiğinde, Abdullah bin Selam'a bu durum ulaştı ve ona bazı şeyler sormak için gitti. \"Senden, yalnızca bir Peygamberin cevaplayabileceği üç şey soracağım: Kıyametin ilk alameti nedir? Cennet halkının yiyeceği ilk gıda nedir? Neden bir çocuk babasına veya annesine benzer?\" dedi. Peygamber (ﷺ) \"Cebrail şimdi bana bunu bildirdi.\" dedi. İbn Selam, \"O (yani Cebrail) melekler arasında Yahudilerin düşmanıdır.\" dedi. Peygamber (ﷺ) \"Kıyametin ilk alameti, doğudan batıya insanları toplayacak bir ateş olacaktır. Cennet halkının yiyeceği ilk yemek ise balık karaciğerinin kuyruk lobu olacaktır. Çocuk, eğer erkeğin sıvısı, kadının sıvısından önce gelirse, çocuk erkeğe benzer; eğer kadının sıvısı, erkeğin sıvısından önce gelirse, çocuk kadına benzer.\" dedi. Bunun üzerine Abdullah bin Selam, \"Ben şahitlik ederim ki, Allah'tan başka ibadet edilecek yoktur ve sen Allah'ın Elçisi'sin.\" dedi ve ekledi, \"Ey Allah'ın Elçisi (ﷺ)! Yahudiler, insanı hayrete düşüren böyle yalanlar uyduruyorlar, lütfen benim dönüşüm İslam'a geçmeden önce onlara benim hakkımda sor.\" dedi. Yahudiler geldi ve Peygamber (ﷺ) \"Sizden Abdullah bin Selam hakkında ne düşünüyorsunuz?\" dedi. Onlar, \"Bizim en iyimiz ve en iyimizin oğlu ve en üstünü ve en üstünün oğlu.\" dediler. Peygamber (ﷺ) \"Eğer Abdullah bin Selam İslam'ı kabul ederse, ne düşünürsünüz?\" dedi. Onlar, \"Allah onu ondan korusun.\" dediler. Peygamber (ﷺ) sorusunu tekrar etti ve aynı cevabı verdiler. Sonra Abdullah onlara çıktı ve \"Ben şahitlik ederim ki, Allah'tan başka ibadet edilecek yoktur ve Muhammed Allah'ın Elçisi'dir!\" dedi. Bunun üzerine Yahudiler, \"O, aramızdaki en kötü ve en kötü olanın oğludur.\" dediler. Böylece onu küçümsediler. Bunun üzerine o (yani Abdullah bin Selam) \"İşte bundan korkuyordum, ey Allah'ın Elçisi (ﷺ).\" dedi."
+    },
+    {
+      "id": 164,
+      "narrator": "Narrated Abu Al-Minhal `AbdurRahman bin Mut`im:",
+      "text": "Ebu'l-Minhal Abdurrahman bin Mut'im'den rivayet edilmiştir: Bir ortağım, pazarda bazı dirhemleri kredi ile sattı. Ben, \"Allah'ı tenzih ederim! Bu caiz mi?\" dedim. O, \"Allah'ı tenzih ederim! Vallahi, ben onları pazarda sattığımda, kimse buna itiraz etmedi.\" dedi. Sonra Al-Bara' bin Azib'e (bunu) sordum, o da, \"Peygamber Medine'ye geldiğinde biz böyle bir işlem yapıyorduk. O da, 'Eğer elden ele yapılırsa, bunda bir sakınca yoktur, ama kredi ile yapılması caiz değildir.' dedi. Zaid bin Al-Arqam'a git ve onun hakkında sor, çünkü o hepimizden en büyük tüccardı.\" dedi. Ben de Zaid bin Al-Arqam'a sordum, o da aynı şeyi (Al-Bara gibi) söyledi."
+    },
+    {
+      "id": 165,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) \"Eğer on Yahudi (şefleri arasında) bana inanmış olsaydı, bütün Yahudiler kesinlikle bana inanırdı.\" dedi."
+    },
+    {
+      "id": 166,
+      "narrator": "Narrated Abu Musa:",
+      "text": "Abu Musa'dan rivayet edilmiştir: Peygamber (ﷺ) Medine'ye geldiğinde, bazı Yahudilerin Aşura gününü (yani Muharrem'in 10'u) saygıyla karşıladıklarını ve bu günde oruç tuttuklarını fark etti. Peygamber (ﷺ) sonra, \"Bu günde oruç tutma hakkına biz daha yakınız.\" dedi ve bu günde oruç tutulmasını emretti."
+    },
+    {
+      "id": 167,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) Medine'ye geldiğinde, Yahudilerin Aşura günü oruç tuttuklarını buldu. Onlara oruç tutma sebebini sordular. Onlar, \"Bu, Allah'ın Musa'yı ve İsrailoğulları'nı Firavun'a karşı zafer kazanmasına sebep olduğu gündür, bu yüzden bu günde oruç tutuyoruz.\" dediler. Allah'ın Elçisi (ﷺ) dedi ki, \"Biz Musa'ya sizden daha yakınız.\" Sonra bu günde oruç tutulmasını emretti."
+    },
+    {
+      "id": 168,
+      "narrator": "Narrated `Abdullah bin `Abbas:",
+      "text": "Abdullah bin Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) saçlarını serbest bırakırdı, oysa putperestler saçlarını ayırırlardı ve Kitap Ehli saçlarını serbest bırakırdı. Peygamber (ﷺ) kendisine farklı bir şekilde talimat verilmediği konularda Kitap Ehli'ni takip etmeyi severdi, ancak daha sonra Peygamber (ﷺ) saçlarını ayırmaya başladı."
+    },
+    {
+      "id": 169,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Onlar, Kitap Ehli, bu Kitabı parçalara ayırdılar, onun bazı kısımlarına inanıp diğerlerine inkar ettiler. (Bkz. 15:91)"
+    },
+    {
+      "id": 170,
+      "narrator": "Narrated Salman Al-Farisi:",
+      "text": "Salman El-Farisi'den rivayet edilmiştir: Bir efendi tarafından başka bir efendiye on defadan fazla (yani 13 ile 19 arasında) satıldım."
+    },
+    {
+      "id": 171,
+      "narrator": "Narrated Salman:",
+      "text": "Salman'dan rivayet edilmiştir: Ben Ram-Hurmuz'danım (yani bir Pers kasabası)."
+    },
+    {
+      "id": 172,
+      "narrator": "Narrated Salman:",
+      "text": "Salman'dan rivayet edilmiştir: İsa ile Muhammed arasındaki süre altı yüz yıldır."
+    }
+  ]
+}

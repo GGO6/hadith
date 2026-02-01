@@ -1,0 +1,46 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 6,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "'Abdullah ibn ash-Shikh-khir reported that his father said:",
+      "text": "Abdullah ibn ash-Shikh-khir, babasından şöyle rivayet etmiştir: \"Ben, Allah’ın Messenger'ı (Allah ona salat ve selam eylesin) ritüel namaz kılarken yanına geldim ve iç bedeninden, ağlamasından dolayı kazan sesi gibi bir vızıltı geliyordu.\""
+    },
+    {
+      "id": 2,
+      "narrator": "'Abdu’llah ibn Mas'ud said (may Allah be well pleased with him):",
+      "text": "Abdullah ibn Mes'ud (Allah ondan razı olsun) dedi ki: \"Allah’ın Messenger'ı (Allah ona salat ve selam eylesin) bana şöyle söyledi: 'Kur'an'ı bana oku,' dedim ki: 'Ey Allah’ın Messenger'ı, Kur'an'ı sana okur muyum, o sana indirilmiştir?' O şöyle dedi: 'Kendimden başkasından duymayı severim,' bunun üzerine Kadınlar Suresi'ni (Al-Qur'an; 4:41) okudum. Sonra Allah’ın Messenger'ının gözlerinin yaşlarla dolduğunu gördüm.\""
+    },
+    {
+      "id": 3,
+      "narrator": "'Abdullah ibn ‘Uamr said:",
+      "text": "Abdullah ibn 'Amr dedi ki: \"Bir gün Allah’ın Messenger'ı (Allah ona salat ve selam eylesin) döneminde güneş tutuldu, bunun üzerine Allah’ın Messenger'ı (Allah ona salat ve selam eylesin) ritüel namaz kılmak için ayakta durdu, neredeyse rükû yapamayacak hale geldi, sonra rükû yaptı ve neredeyse başını kaldıramadı, sonra başını kaldırdı ve neredeyse secde yapamayacak hale geldi, sonra secde yaptı ve neredeyse başını kaldıramadı, bu sırada hıçkırarak ağlamaya başladı ve şöyle dedi: 'Ey Rabbim, bana, içlerinde bulunduğum sürece onlara azap etmeyeceğine dair söz vermedin mi? Ey Rabbim, bana, onlar ve biz senin affına sığınırken onlara azap etmeyeceğine dair söz vermedin mi?' Sonra iki rekât namaz kıldıktan sonra güneş görünür hale geldi, o da ayağa kalktı, Allah’ı (Celal ve Azamet sahibi) hamd etti ve yüceltti. Sonra şöyle dedi: 'Güneş ve ay, Allah’ın ayetlerindendir. Onlar, birinin ölümü veya yaşamaya dönmesi nedeniyle tutulmazlar, bu yüzden tutulduklarında Allah’ı (Celal ve Azamet sahibi) anmak için sığınmalısınız!'\""
+    },
+    {
+      "id": 4,
+      "narrator": "Ibn Abbas said:",
+      "text": "İbn Abbas dedi ki: \"Allah’ın Messenger'ı (Allah ona salat ve selam eylesin) ölen bir kızını kucakladı, sonra onu sarıldı ve kollarında öldü. Ümmü Eymen ağladı, bunun üzerine o, yani Peygamber (Allah ona salat ve selam eylesin) şöyle dedi: 'Allah’ın Messenger'ının huzurunda mı ağlıyorsun?' O da: 'Seni ağlarken görmüyor muyum?' dedi. O şöyle cevap verdi: 'Ben ağlamıyorum. Bu aslında bir merhamettir. Mümin her durumda her türlü faydaya sahiptir. Ruh, Allah’ı (Celal ve Azamet sahibi) övdüğü sırada ondan alınır!'\""
+    },
+    {
+      "id": 5,
+      "narrator": "'A’isha said (may Allah be well pleased with her):",
+      "text": "Aişe (Allah ondan razı olsun) dedi ki: \"Allah’ın Messenger'ı (Allah ona salat ve selam eylesin) 'Uthman ibn Maz'un'u öptü, o da ölmüştü ve ağlıyordu.\" (veya: \"gözlerinden yaşlar akıyordu.\")"
+    },
+    {
+      "id": 6,
+      "narrator": "Anas ibn Malik said:",
+      "text": "Enes ibn Malik dedi ki: \"Biz, Allah’ın Messenger'ını (Allah ona salat ve selam eylesin) bir kızının mezarının başında otururken gördük ve gözlerinden yaşlar akıyordu. Sonra şöyle dedi: 'Aranızda bu gece karısıyla cinsel ilişkiye girmeyen bir adam var mı?' Ebu Talha: 'Ben girmedim!' dedi. O da: 'İn aşağı,' dedi, o da onun mezarına indi.\""
+    }
+  ]
+}

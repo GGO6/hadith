@@ -1,0 +1,56 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 8,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Ibn Abi Mulaika reported:",
+      "text": "İbn Ebi Mulaika şöyle bildirdi: Ya'la ibn Mamlak, Umm Salama'ya Allah'ın Elçisi'nin (Allah ona salat ve selam eylesin) Kur'an tilaveti hakkında sordu. Bunun üzerine, harf harf açıklanan bir Kur'an tilavetini tarif etti."
+    },
+    {
+      "id": 2,
+      "narrator": "Qatada said:",
+      "text": "Katade dedi ki: \"Anas ibn Malik'e: 'Allah'ın Elçisi'nin (Allah ona salat ve selam eylesin) Kur'an tilaveti nasıldı?' dedim. O da: 'Uzun sesli harflerde sesi uzatarak okurdu.' dedi.\""
+    },
+    {
+      "id": 3,
+      "narrator": "Umm Salama said:",
+      "text": "Umm Salama şöyle dedi: \"Peygamber (Allah ona salat ve selam eylesin) Kur'an tilavetini keserdi. 'Alemlerin Rabbi olan Allah'a hamd olsun.' derdi.\""
+    },
+    {
+      "id": 4,
+      "narrator": "'Abdu’llah ibn Abi Qais said:",
+      "text": "Abdullah ibn Ebi Kays dedi ki: \"A'işe'ye (Allah ondan razı olsun) Peygamber'in (Allah ona salat ve selam eylesin) Kur'an tilaveti hakkında sordum: 'Kur'an'ı fısıldayarak mı okuyordu, yoksa sesli mi?' O da: 'Her ikisini de yapardı. Bazen fısıldar, bazen sesli okurdu.' dedi. Bunun üzerine ben de: 'Bize bu konuda esneklik veren Allah'a hamd olsun!' dedim.\""
+    },
+    {
+      "id": 5,
+      "narrator": "Umm Hani' said:",
+      "text": "Umm Hani' dedi ki: \"Gece, yatağımda yattığım sırada Peygamber'in (Allah ona salat ve selam eylesin) Kur'an tilavetini duyardım.\""
+    },
+    {
+      "id": 6,
+      "narrator": "Abdu’llah ibn Mughaffal said:",
+      "text": "Abdullah ibn Mughaffal dedi ki: \"Zafer Günü'nde Peygamber'i (Allah ona salat ve selam eylesin) dişi devesinin üstünde gördüm ve şöyle okuyordu: 'Şüphesiz, sana açık bir zafer verdik ki, Allah, geçmiş ve gelecekteki günahlarını affetsin.' (Kur'an 48:1-2) Titreyen bir sesle okudu.\""
+    },
+    {
+      "id": 7,
+      "narrator": "Qataadah said:",
+      "text": "Katade dedi ki: \"Allah, bir Peygamber göndermedi ki, ona güzel bir yüz ve güzel bir ses vermesin. Sizin Peygamber'iniz (Allah ona salat ve selam eylesin) de güzel bir yüze ve güzel bir sese sahipti, titreyen bir tonla okumadı.\""
+    },
+    {
+      "id": 8,
+      "narrator": "Ibn Abbas said (may Allah be well pleased with him and his father):",
+      "text": "İbn Abbas (Allah ondan ve babasından razı olsun) dedi ki: \"Peygamber'in (Allah ona salat ve selam eylesin) Kur'an tilaveti, evdeyken odadakiler tarafından bazen duyulurdu.\""
+    }
+  ]
+}

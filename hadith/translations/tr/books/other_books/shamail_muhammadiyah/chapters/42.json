@@ -1,0 +1,21 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 1,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Abdu’llah ibn Sa'd said:",
+      "text": "Abdu’llah ibn Sa'd dedi ki: \"Ben Allah’ın Elçisi'ne (Allah ona salat ve selam eylesin) evimde namaz kılmakla camide namaz kılmak hakkında sordum.\" O da şöyle dedi: “Evimin camiye ne kadar yakın olduğunu görebilirsin. Ben, farz namazlar hariç, evde namaz kılmayı camide namaz kılmaya tercih ederim.”"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 28,
+    "arabic": {
+      "title": "صحيح البخاري",
+      "author": "الإمام محمد بن إسماعيل البخاري"
+    },
+    "english": {
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Muhammad ibn Ismail al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Narrated `Umar bin Al-Khattab:",
+      "text": "`Umar bin Al-Khattab'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Ey insanlar! Amellerin karşılığı niyetlere göredir ve her kişi niyetine göre mükafat alacaktır. Kim Allah ve Resulü için hicret ederse, onun hicreti Allah ve Resulü içindir; kim de dünya menfaati veya bir kadınla evlenmek için hicret ederse, onun hicreti, hicret ettiği şey içindir.\""
+    },
+    {
+      "id": 2,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Abu Huraira'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Sizden birinin Hadath (rüzgar çıkarması) yapması halinde, abdest almadıkça namazı kabul edilmez.\""
+    },
+    {
+      "id": 3,
+      "narrator": "Narrated Anas:",
+      "text": "Anas'tan rivayet edilmiştir: Abu Bekir, Allah'ın Resulü (ﷺ) tarafından farz kılınan zekat hükümlerini yazdı ve zekat vermekten kaçınmak için malın çeşitli kısımlarını toplamanın veya bölmenin yasak olduğunu yazdı."
+    },
+    {
+      "id": 4,
+      "narrator": "Narrated Talha bin 'Ubaidullah:",
+      "text": "Talha bin 'Ubaidullah'dan rivayet edilmiştir: Dağınık saçlı bir bedevi, Allah'ın Resulü (ﷺ) yanına geldi ve \"Ey Allah'ın Resulü (ﷺ)! Bana namaz konusunda Allah'ın ne emrettiğini söyle.\" dedi. Peygamber (ﷺ) \"Günde ve gecede (24 saat) beş (farz) namazı tam olarak kılmalısın, eğer ek isteğe bağlı namaz kılmak istersen.\" dedi. Bedevi \"Bana oruç konusunda Allah'ın ne emrettiğini söyle.\" dedi. Peygamber (ﷺ) \"Ramazan ayında oruç tutmalısın, eğer ek isteğe bağlı oruç tutmak istersen.\" dedi. Bedevi \"Bana zekat konusunda Allah'ın ne emrettiğini söyle.\" dedi. Peygamber (ﷺ) ona İslami hükümleri anlattı, bunun üzerine bedevi \"Sana yemin ederim ki, ben hiçbir isteğe bağlı ibadet yapmayacağım ve Allah'ın bana emrettiği hiçbir şeyi terk etmeyeceğim.\" dedi. Allah'ın Resulü (ﷺ) \"Eğer doğru söylüyorsa, o başarılı olacaktır (ya da doğru söylediyse cennete girecektir).\" dedi. Bazı insanlar \"Yüz yirmi deveyi zekat vermek için iki Hiqqa'dır, ve eğer zekat veren, develeri kasıtlı olarak keserse veya hediye ederse ya da zekattan kaçmak için başka bir hile yaparsa, onun için bir zarar yoktur.\" dediler."
+    },
+    {
+      "id": 5,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Abu Huraira'dan rivayet edilmiştir: Allah'ın Resulü (ﷺ) şöyle buyurdu: \"Kıyamet Günü, sizden birinin Kanz'ı (zekatı verilmemiş hazine veya zenginlik) büyük, kel kafalı, zehirli bir erkek yılan şeklinde ortaya çıkacak ve sahibi ondan kaçacak, ama o onu takip edecek ve 'Ben senin Kanz'ınım.' diyecek.\" Peygamber (ﷺ) ekledi: \"Allah'a yemin ederim ki, o yılan onu takip etmeye devam edecek ta ki elini uzatıp yılanın onu yutmasına izin verene kadar.\" Allah'ın Resulü (ﷺ) ekledi: \"Eğer deve sahibi zekatını vermezse, Kıyamet Günü o develer ona gelecek ve ayaklarıyla yüzüne vuracak.\" Bazı insanlar: \"Deve sahibi, zekatın düşeceğinden korkarak, o develeri zekat düşmeden bir gün önce benzer develere veya koyunlara ya da paraya satarsa, zekat ödemekten kaçınmak için hile yapmış olur! 'O, hiçbir şey ödememelidir.' \" dedi. Aynı alim, \"Eğer biri, develerinin zekatını bir gün veya bir yıl, yılın sonuna (zekatın düşeceği tarihe) kadar öderse, onun zekatı geçerli olacaktır.\" dedi."
+    },
+    {
+      "id": 6,
+      "narrator": "Narrated Ibn Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Sa'd bin 'Ubada Al-Ansari, annesinin yerine getirmediği bir adak hakkında Allah'ın Resulü (ﷺ) ile görüşmek istedi. Allah'ın Resulü (ﷺ) \"Onun adına yerine getir.\" dedi. Bazı insanlar \"Eğer develerin sayısı yirmiyi geçerse, sahibi dört koyun zekat vermelidir; ve eğer sahibi onları hediye ederse veya zekat ödemekten kaçınmak için bir yıl dolmadan satar veya keserse, ondan hiçbir şey alınmaz.\" dediler."
+    },
+    {
+      "id": 7,
+      "narrator": "Narrated 'Abdullah:",
+      "text": "'Abdullah'dan rivayet edilmiştir: Nafi, bana 'Abdullah'ın Allah'ın Resulü (ﷺ) tarafından Şighar'ın yasaklandığını söylediğini aktardı. Nafi'ye \"Şighar nedir?\" diye sordum. O, \"Bir adamın kızını alıp, o adamın kızı ile kendi kızını aynı anda Mahr olmaksızın evlendirmektir; ya da bir adamın kız kardeşini alıp, kendi kız kardeşini o adamla Mahr olmaksızın evlendirmektir.\" dedi. Bazı insanlar \"Eğer biri, bir hile ile Şighar temelinde evlenirse, evlilik geçerlidir ama şartı yasaktır.\" dediler. Aynı alim Al-Mut'a hakkında \"Evlilik geçersizdir ve şartı yasaktır.\" dedi. Başkaları \"Mut'a ve Şighar caizdir ama şartı yasaktır.\" dediler."
+    },
+    {
+      "id": 8,
+      "narrator": "Narrated Muhammad bin `Ali:",
+      "text": "Muhammad bin `Ali'den rivayet edilmiştir: `Ali'ye, İbn `Abbas'ın Mut'a evliliğinde bir sakınca görmediği söylendi. `Ali, \"Allah'ın Resulü (ﷺ) Khaibar Savaşı Günü Mut'a evliliğini yasakladı ve eşek etinin yenmesini de yasakladı.\" dedi. Bazı insanlar \"Eğer biri, hileli bir şekilde geçici evlenirse, evliliği yasaktır.\" dediler. Diğerleri \"Evlilik geçerlidir ama şartı yasaktır.\" dediler."
+    },
+    {
+      "id": 9,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Abu Huraira'dan rivayet edilmiştir: Allah'ın Resulü (ﷺ) şöyle buyurdu: \"Birisi, hayvanlarını sulamak için kendi su fazlasını kullanarak başkalarının faydalanmasını engellememelidir.\""
+    },
+    {
+      "id": 10,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn `Umar'dan rivayet edilmiştir: Allah'ın Resulü (ﷺ) An-Najsh uygulamasını yasakladı."
+    },
+    {
+      "id": 11,
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "`Abdullah bin `Umar'dan rivayet edilmiştir: Bir adam, Peygamber (ﷺ)'e pazarlıkta her zaman aldatıldığını söyledi. Peygamber (ﷺ) \"Pazarlık yaptığınızda, 'Aldatmak yok.' deyin.\" dedi."
+    },
+    {
+      "id": 12,
+      "narrator": "Narrated `Urwa:",
+      "text": "`Urwa'dan rivayet edilmiştir: O, `Aisha'ya şu ayet hakkında sordu: 'Yetim kızlarla adaletle davranamayacağınızdan korkarsanız, dilediğiniz kadınlarla evlenin.' (4.3) `Aisha, \"Bu, bir yetim kızın, velisi tarafından zenginliği ve güzelliği nedeniyle Mahr'ı diğer kadınlarınkinden daha az olacak şekilde evlendirilmek istenmesidir. Bu nedenle, böyle velilere, adaletle muamele etmedikçe onları evlendirmeleri yasaklanmıştır.\" dedi. Sonra insanlar, bu tür durumlar için Allah'ın Resulü'nden hüküm istediler, bunun üzerine Allah, 'Kadınlar hakkında sana soruyorlar...' (4.127) ayetini indirdi. (Sonra alt rivayetçi Hadisi aktardı.)"
+    },
+    {
+      "id": 13,
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "`Abdullah bin `Umar'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Her hain için, Kıyamet Günü tanınacağı bir bayrak olacaktır.\""
+    },
+    {
+      "id": 14,
+      "narrator": "Narrated Um Salama:",
+      "text": "Um Salama'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Ben sadece bir insanım ve sizlerin arasında ihtilaflar var. Belki aranızdan biri, diğerinden daha etkili ve ikna edici bir şekilde davasını sunabilir ve ben duyduğuma göre hükmümü veririm. Dikkat edin! Eğer ben (hata ile) birinin kardeşinin hakkından bir şey verirsem, o bunu almasın; çünkü ben ona sadece bir ateş parçası vermişimdir.\" (Bkz. Hadis No. 638. Cilt 3)"
+    },
+    {
+      "id": 15,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Abu Huraira'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Bir kız, rızası sorulmadan evlendirilmemelidir; ve bir kadın, evlenip evlenmeyeceği sorulmadan evlendirilmemelidir.\" Soruldu: \"Ey Allah'ın Resulü! Kız (bakire) rızasını nasıl ifade edecek?\" O, \"Sadece sessiz kalarak.\" dedi. Bazı insanlar, eğer bir bakire rızası sorulmadan evlendirilirse ve sonra bir adam, bir hile ile iki sahte şahit getirirse ve o şahitler, onun rızasıyla evlendiğini söylerse ve hakim de evliliğini doğru olarak onaylarsa, ve koca, şahitlerin sahte olduğunu bilirse, onun için onunla evliliğini tamamlamasında bir sakınca yoktur ve evlilik geçerli sayılır."
+    },
+    {
+      "id": 16,
+      "narrator": "Narrated Al-Qasim:",
+      "text": "Al-Qasim'den rivayet edilmiştir: Ca'fer'in soyundan bir kadın, velisinin onu istemediği biriyle evlendirmesinden korkuyordu. Bunun üzerine Ensar'dan iki yaşlı adam, Abdurrahman ve Mücami' adlı Jariya'nın iki oğlunu çağırdı ve ona, \"Korkma, çünkü Khansa' bint Khidam babası tarafından istemediği biriyle evlendirildi, sonra Peygamber (ﷺ) o evliliği iptal etti.\" dediler. (Bkz. Hadis No. 78)"
+    },
+    {
+      "id": 17,
+      "narrator": "Narrated Abu Haraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Bir cariye evlendirilmeden önce onunla danışılmalıdır ve bir kız bakire evlendirilmeden önce onun izni alınmalıdır.\" İnsanlar, \"O nasıl iznini ifade edecek?\" dediler. Peygamber (ﷺ) dedi ki: \"Susarak (onun rızasını istemek için).\" Bazı insanlar, \"Eğer bir adam, bir hileyle, hakimin önüne iki sahte şahit getirirse ve bu şahitler, onun bir kadınla rızasıyla evlendiğini tasdik ederse ve hakim de bu evliliği onaylarsa, koca, onunla daha önce evlenmediğinden emin olsa bile, böyle bir evlilik yasal sayılacak ve onunla koca olarak yaşayabilecektir.\" dediler."
+    },
+    {
+      "id": 18,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: \"Evlilik için bir bakirenin rızası şarttır.\" Ben dedim ki: \"Bir bakire utangaçtır.\" Peygamber (ﷺ) dedi ki: \"Susması, rızasıdır.\" Bazı insanlar, \"Eğer bir adam, bir yetim cariye veya bakireye aşık olursa ve o onu reddederse, sonra iki sahte şahit getirerek onunla evlendiğini iddia ederse, ve sonra o ergenlik çağına ulaşır ve onunla evlenmeyi kabul ederse ve hakim sahte şahitleri kabul ederse, koca şahitlerin sahte olduğunu bilse bile, evliliğini tamamlayabilir.\" dediler."
+    },
+    {
+      "id": 19,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) tatlıları severdi ve balı da severdi, ve her Asr namazını bitirdiğinde, eşlerini ziyaret eder ve onlarla kalırdı. Bir gün Hafsa'yı ziyaret etti ve onunla daha uzun süre kaldı, bu yüzden ben bunu merak ettim. Bana, \"Kavminden bir kadın ona bal dolu bir deri hediye etti ve o da Allah'ın Elçisine (ﷺ) içmesi için birazını verdi.\" denildi. Ben dedim ki, \"Vallahi, ona bir hile yapacağız.\" Bu yüzden hikayeyi Sauda'ya (Peygamberin eşi) anlattım ve ona, \"O sana girdiğinde, sana yaklaşacak, o zaman ona 'Ey Allah'ın Elçisi (ﷺ)! Maghafir yedin mi?' demelisin.\" dedim. O da, \"Hayır.\" diyecek. Sonra sen ona, \"Bu kötü koku nedir?\" demelisin. Ve Allah'ın Elçisi (ﷺ) için vücudunda kötü bir koku bulunması çok zor olacaktır. O da, \"Hafsa bana bal verdi.\" diyecek. O zaman sen ona, \"Arılar Al-`Urfut'tan emmiş olmalı.\" demelisin. Ben de ona aynı şeyi söyleyeceğim. Ve sen, Ey Safiye, aynı şeyi söyle.\" dedim."
+    },
+    {
+      "id": 20,
+      "narrator": "Narrated `Abdullah bin 'Amir bin Rabi`a:",
+      "text": "Peygamber (ﷺ) Sauda'ya girdiğinde, şu oldu: Sauda, \"Ona söylemek üzereydim, senin korkundan dolayı kapıda dururken, ama Allah'ın Elçisi bana yaklaşınca, ben ona, 'Ey Allah'ın Elçisi (ﷺ)! Maghafir yedin mi?' dedim. O da, 'Hayır.' dedi. Ben de, 'Peki bu koku nedir?' dedim. O da, 'Hafsa bana bal verdi.' dedi. Ben de ona aynı şeyi söyledim, ve Safiye'ye girdiğinde, o da ona aynı şeyi söyledi. Sonra Hafsa ona tekrar gittiğinde, ona, \"Ey Allah'ın Elçisi (ﷺ)! Sana ondan (bal) bir içecek vereyim mi?\" dedi. O da, \"Ona karşı bir arzum yok.\" dedi. Sauda, \"Subhan Allah! Onu (balı) ondan mahrum ettik.\" dedim. O da, \"Sus!\" dedi."
+    },
+    {
+      "id": 21,
+      "narrator": "Narrated 'Amir bin Sa`d bin Abi Waqqas:",
+      "text": "Abdullah bin Amir bin Rabi'a'dan rivayet edilmiştir: Ömer bin Hattab, Şam'a gitti ve Sargh adında bir yere ulaştığında, Şam'da bir salgın (veba) çıktığını öğrendi. Sonra Abdurrahman bin Avf ona, Allah'ın Elçisinin (ﷺ) şöyle dediğini bildirdi: \"Eğer bir yerde bir salgın (veba) çıktığını duyarsanız, o yere girmeyin; ve eğer salgın bulunduğunuz bir yerde çıkarsa, o yerden kaçmayın.\" Bunun üzerine Ömer Sargh'dan geri döndü."
+    },
+    {
+      "id": 22,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "Amir bin Sa'd bin Ebi Vakkas'dan rivayet edilmiştir: Usame bin Zeyd'in Sa'd'a, \"Allah'ın Elçisi (ﷺ) vebayı zikretti ve 'Bu, bazı milletlerin cezalandırıldığı bir yöntemdir ve bazıları kalmıştır, zaman zaman ortaya çıkar. Kim bir yerde veba çıktığını duyarsa, o yere gitmemelidir; ve eğer veba, kişinin bulunduğu yerde patlak verirse, o yerden kaçmamalıdır.\" dediğini işittiğini söyledi."
+    },
+    {
+      "id": 23,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Hediye geri alan kimse, kendi kusmuğunu yutan bir köpek gibidir; biz (müminler) bu kötü örneğe göre hareket etmemeliyiz.\""
+    },
+    {
+      "id": 24,
+      "narrator": "Narrated 'Amr bin Ash-Sharid:",
+      "text": "Cabir bin Abdullah'dan rivayet edilmiştir: Peygamber (ﷺ) öncelik hakkının, ilgili gayrimenkulün bölünmediği tüm durumlarda geçerli olduğunu hükmetmiştir; ancak sınırlar belirlenip yollar açıldığında, öncelik hakkı yoktur. Bir adam, \"Öncelik hakkı sadece komşuya aittir.\" dedi ve onayladığı şeyi geçersiz kıldı. O, \"Eğer biri bir evi satın almak isterse ve evin komşusunun öncelik hakkı ile satın alabileceğinden korkuyorsa, evin yüzde birini alır ve sonra evin geri kalanını satın alırsa, komşunun yalnızca ilk pay için öncelik hakkı olur, geri kalan ev için değil; ve alıcı bu durumda böyle bir hile yapabilir.\" dedi."
+    },
+    {
+      "id": 25,
+      "narrator": "Narrated 'Amr bin Ash-Sharid:",
+      "text": "Amr bin Ash-Sharid'den rivayet edilmiştir: Al-Miswar bin Makhrama geldi ve omzuma elini koydu ve onu Sa'd'a götürdüm. Ebu Rafi' Al-Miswar'a, \"Bu (yani Sa'd) benim bahçemdeki evimi satın almasını istemez misin?\" dedi. Sa'd, \"Ben taksitle sabit bir süre içinde dört yüzden fazlasını teklif etmeyeceğim.\" dedi. Ebu Rafi, \"Bana beş yüz nakit teklif edildi ama ben reddettim. Eğer Allah'ın Elçisinin (ﷺ) 'Bir komşu, komşusunun bakımına daha çok hak sahibidir.' dediğini duymamış olsaydım, sana satmazdım.\" dedi. Rivayet eden, Sufyan'a: Ma'mar böyle demedi. Sufyan, \"Ama o bana böyle dedi.\" dedi. Bazı insanlar, \"Eğer biri bir evi satmak isterse ve birinin öncelik hakkından mahrum kalmasını sağlarsa, öncelik hakkını geçersiz kılmak için bir hile yapma hakkına sahiptir. Ve bu, evi alıcıya hediye etmek ve sınırlarını belirleyip ona vermekle olur. Alıcı daha sonra satıcıya bin dirhem tazminat verir, bu durumda öncelik hakkı kaybolur.\" dediler."
+    },
+    {
+      "id": 26,
+      "narrator": "Narrated Abu Humaid As-Sa`idi:",
+      "text": "Amr bin Ash-Sharid'den rivayet edilmiştir: Ebu Rafi' Sa'd'a bir ev için dört yüz Mithkal altın teklif etti. Ebu Rafi' dedi ki: \"Eğer Allah'ın Elçisinin (ﷺ) 'Bir komşu, komşusunun bakımına daha çok hak sahibidir.' dediğini duymamış olsaydım, sana vermezdim.\" Bazı insanlar, \"Eğer biri bir evin bir kısmını satın almışsa ve öncelik hakkını iptal etmek istiyorsa, onu küçük oğluna hediye edebilir ve yemin etmek zorunda kalmaz.\" dediler."
+    },
+    {
+      "id": 27,
+      "narrator": "Narrated Abu Rafi`:",
+      "text": "Ebu Humaid Es-Sa'idi'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) Beni Sulaim kabilesinden Zekat toplamak için İbn Al-Lutabiyya adında bir adam atadı. O geri döndüğünde, Peygamber (ﷺ) onu hesaba çekti. O, Peygambere, \"Bu senin paran, bu da bana hediye olarak verilmiştir.\" dedi. Bunun üzerine Allah'ın Elçisi (ﷺ) dedi ki: \"Eğer doğru söylüyorsan, neden hediye alıp almayacağını görmek için babanın ve annenin evinde kalmadın?\" Sonra Peygamber (ﷺ) bize hitap etti ve Allah'ı övdükten sonra şöyle dedi: \"Amma Ba'du, sizden birini Allah'ın benim gözetimimdeki bir işini yönetmesi için istihdam ediyorum, sonra o bana geliyor ve 'Bu senin paran, bu da bana hediye olarak verilmiştir.' diyor. Neden babasının ve annesinin evinde kalıp hediye alıp almayacağını görmedi? Vallahi, sizden hiç kimse bir şeyi haksız yere almaz ki, o şeyle Kıyamet Günü Allah ile karşılaşmasın. Ben, sizden hiç kimsenin Allah ile karşılaştığında bir homurdanan deve veya bir meleyen inek veya bir meleğin koyununu taşımasını istemiyorum.\" Sonra Peygamber (ﷺ) iki elini kaldırdı ve koltuk altlarının beyazlığı görünür hale geldi ve dedi ki: \"Ey Allah! Ben (Mesajını) iletmedim mi?\" Rivayet eden ekledi: Gözlerim şahit oldu ve kulaklarım duydu (bu Hadisi)."
+    },
+    {
+      "id": 28,
+      "narrator": "Narrated `Amr bin Ash-Sharid:",
+      "text": "Ebu Rafi'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Komşu, komşusunun bakımına daha çok hak sahibidir (başkalarından daha fazla).\" Bazı adamlar, \"Eğer biri bir evi 20,000 dirheme satın almak isterse, o zaman öncelik hakkından mahrum etmek için bir hile yapmanın zararı yoktur; evi (sadece kağıt üzerinde) 20,000 dirheme satın alıp, satıcıya yalnızca 9,999 dirhem nakit ödeyip, sonra satıcıyla geri kalan fiyat için yalnızca bir dinar nakit ödemek üzere anlaşırsa (yani 10,001 dirhem). Eğer öncelik hakkına sahip olan kişi evi 20,000 dirheme teklif ederse, onu satın alabilir, aksi takdirde onu satın alma hakkı yoktur (bu hile ile öncelik hakkından kurtulmuştur). Eğer ev, satıcıdan başka birine ait olduğu kanıtlanırsa, alıcı satıcıdan ödediği 9,999 dirhemi ve bir dinarı geri almalıdır, çünkü evin başka birine ait olduğu kanıtlanırsa, tüm pazarlık (anlaşma) yasadışı olur. Eğer alıcı evde bir kusur bulursa ve ev, satıcıdan başka birine ait değilse, alıcı evi iade edebilir ve 20,000 dirhem (9,999 dirhem artı bir dinar yerine) alabilir.\" Ebu Abdullah dedi ki: \"Bu adam, Müslümanlar arasında hile yapmaya izin veriyor (oysa) Peygamber (ﷺ) 'Müslümanlarla işlem yaparken onlara hasta (hayvanlar) veya kötü şeyler veya çalınmış şeyler satmamalıdır.' dedi.\""
+    }
+  ]
+}

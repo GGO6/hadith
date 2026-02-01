@@ -1,0 +1,91 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 15,
+    "arabic": {
+      "title": "صحيح البخاري",
+      "author": "الإمام محمد بن إسماعيل البخاري"
+    },
+    "english": {
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Muhammad ibn Ismail al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Narrated Ubai bin Ka`b:",
+      "text": "Ubai bin Ka`b'dan rivayet edilmiştir: Bir kese içinde yüz Dinar buldum. Bununla birlikte Peygamber'e (ﷺ) gittim ve durumu kendisine bildirdim. O da, \"Bir yıl boyunca ilan et\" dedi. Ben de öyle yaptım, fakat kimse gelip talep etmedi. Tekrar Peygamber'e (ﷺ) gittim, o da, \"Bir yıl daha ilan et\" dedi. Yine ilan ettim, ama yine kimse gelmedi. Üçüncü kez ona gittim ve o da, \"Konteyneri ve bağlamak için kullanılan ipi sakla ve içindeki parayı say; eğer sahibi gelirse ona ver, aksi takdirde bunu kullan\" dedi. Alt rivayetçi Salama, \"Ben onu (Suwaid, başka bir alt rivayetçi) Mekke'de gördüm ve o da, 'Ubai'nin üç yıl mı yoksa sadece bir yıl mı ilan ettiğini bilmiyorum' dedi.\""
+    },
+    {
+      "id": 2,
+      "narrator": "Narrated Zaid bin Khalid Al-Juhani:",
+      "text": "Zaid bin Khalid Al-Juhani'den rivayet edilmiştir: Bir bedevi Peygamber'e (ﷺ) kaybolan bir şeyi almak hakkında sordu. Peygamber (ﷺ) dedi ki, \"Bir yıl boyunca ilan et. Konteynerinin tarifini ve bağlandığı ipi hatırla; eğer biri gelir ve onu doğru tarif ederse, (ona ver); aksi takdirde bunu kullan.\" Bedevi, \"Ey Allah'ın Elçisi (ﷺ)! Peki ya kaybolan bir koyun?\" diye sordu. Peygamber (ﷺ) dedi ki, \"O senindir, kardeşinindir (yani sahibi), ya da kurtundur.\" Daha sonra sordu, \"Ya kaybolan bir deve?\" Bunun üzerine Peygamber'in (ﷺ) yüzü kızardı (öfkeden) ve dedi ki, \"Onunla hiçbir işin yok; çünkü onun ayakları, su rezervi var ve suya ulaşabilir, ağaçları yiyebilir.\""
+    },
+    {
+      "id": 3,
+      "narrator": "Narrated Sulaiman bin Bilal from Yahya:",
+      "text": "Sulaiman bin Bilal'dan Yahya'dan rivayet edilmiştir: Yazid Maula Al-Munba'ith, Zaid bin Khalid al-Juham'ın, \"Peygamber (ﷺ) Luqata hakkında sorulduğunda, 'Konteynerinin tarifini ve bağlandığı ipi hatırla, bir yıl boyunca ilan et' dediğini duydu.\" Yazid ekledi, \"Eğer kimse talep etmezse, bunu bulan kişi harcayabilir ve bu, ona emanet edilen bir güven olarak kabul edilir.\" Yahya, \"Son cümlelerin Peygamber (ﷺ) tarafından mı yoksa Yazid tarafından mı söylendiğini bilmiyorum\" dedi. Zaid ayrıca, \"Peygamber (ﷺ) soruldu, 'Kaybolan bir koyun hakkında ne dersin?' Peygamber (ﷺ) dedi ki, 'Al, çünkü o senindir ya da kardeşinindir (yani sahibi) ya da kurtundur.\" Yazid, bunun da kamuya ilan edilmesi gerektiğini ekledi. Adam daha sonra Peygamber'e (ﷺ) kaybolan bir deve hakkında sordu. Peygamber (ﷺ) dedi ki, \"Bırak, çünkü onun ayakları, su rezervi var ve suya ulaşacak ve ağaçları yiyecek, ta ki sahibi onu bulana kadar.\""
+    },
+    {
+      "id": 4,
+      "narrator": "Narrated Zaid bin Khalid:",
+      "text": "Zaid bin Khalid'den rivayet edilmiştir: Bir adam Allah'ın Elçisi (ﷺ) ile kaybolan bir şeyi alma hakkında konuştu. Peygamber (ﷺ) dedi ki, \"Konteynerinin tarifini ve bağlandığı ipi hatırla ve bir yıl boyunca ilan et. Eğer sahibi gelirse, ona ver; aksi takdirde, istediğin gibi kullan.\" Sonra sordu, \"Kaybolan bir koyun hakkında ne dersin?\" Peygamber (ﷺ) dedi ki, \"O senindir, kardeşinindir (yani sahibi) ya da kurtundur.\" Daha sonra sordu, \"Kaybolan bir deve hakkında ne dersin?\" Peygamber (ﷺ) dedi ki, \"Bu senin işin değil. Onun su rezervi ve ayakları var, suya ulaşacak ve içecek ve ağaçları yiyecek, ta ki sahibi onu bulana kadar.\""
+    },
+    {
+      "id": 5,
+      "narrator": "Narrated 'Abdur-Rahman bin Hurmuz:",
+      "text": "'Abdur-Rahman bin Hurmuz'dan rivayet edilmiştir: Abu Hurairah (ra) dedi ki, \"Allah'ın Elçisi (ﷺ) bir İsrailoğlundan bahsetti.\" Abu Hurairah daha sonra tüm rivayeti anlattı. (Rivayetin sonunda, alacaklının) denize gittiği, umudunun bir teknenin parasını getirmiş olabileceği belirtilmiştir. Aniden bir parça odun gördü ve onu ateş yakmak için evine götürdü. Kesince, içinde parasını ve bir mektubu buldu."
+    },
+    {
+      "id": 6,
+      "narrator": "Narrated Anas:",
+      "text": "Anas'tan rivayet edilmiştir: Peygamber (ﷺ) yolda düşmüş bir hurmayı geçti ve dedi ki, \"Eğer bunun bir Sadaqa (hayır) olabileceğinden korkmasaydım, onu yerdim.\""
+    },
+    {
+      "id": 7,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Abu Huraira'dan rivayet edilmiştir: Peygamber (ﷺ) dedi ki, \"Bazen eve döndüğümde ve yatağımda düşmüş bir hurma bulduğumda, onu yemek için alıyorum, ama bunun bir Sadaqa olabileceğinden korktuğum için atıyorum.\""
+    },
+    {
+      "id": 8,
+      "narrator": "Narrated Ibn 'Abbas (ra):",
+      "text": "İbn 'Abbas (ra)dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) ayrıca dedi ki, \"Mekke'nin dikenli çalıları kökünden sökülmemeli ve av hayvanları kovalanmamalıdır, düşmüş şeylerin toplanması yasaktır, ancak bunu ilan eden kişi için geçerlidir ve otları kesmek de yasaktır.\" 'Abbas dedi ki, \"Ey Allah'ın Elçisi! İdhkhir (bir tür ot) hariç.\" Peygamber (ﷺ) dedi ki, \"İdhkhir hariç.\""
+    },
+    {
+      "id": 9,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Abu Huraira'dan rivayet edilmiştir: Allah, Elçisini Mekke halkı üzerinde zafere ulaştırdığında, Allah'ın Elçisi (ﷺ) halkın arasında ayağa kalktı ve Allah'ı yücelttikten sonra dedi ki, \"Allah Mekke'de savaşmayı yasakladı ve Elçisine ve müminlere üzerinde yetki verdi, bu yüzden benim öncesinde kimse için savaşmak yasaktı ve benim için bir günün bir kısmı için helal kılındı, ve benim sonrasında kimse için helal olmayacak. Av hayvanları kovalanmamalı, dikenli çalılar kökünden sökülmemeli ve düşmüş şeylerin toplanması, ancak ilan eden biri için geçerlidir, ve akrabası öldürülen kişinin ya tazminat kabul etme ya da intikam alma hakkı vardır.\" Al-`Abbas dedi ki, \"İdhkhir hariç, çünkü onu mezarlarımızda ve evlerimizde kullanıyoruz.\" Allah'ın Elçisi (ﷺ) dedi ki, \"İdhkhir hariç.\" Yemenli Abu Shah ayağa kalktı ve dedi ki, \"Ey Allah'ın Elçisi (ﷺ)! Bunu benim için yaz.\" Allah'ın Elçisi (ﷺ) dedi ki, \"Abu Shah için yaz.\" (Alt rivayetçi Al-Auza'i'ye sordu): \"O, 'Yaz, ey Allah'ın Elçisi' derken neyi kastetti?\" O da, \"Allah'ın Elçisi'nden duyduğu konuşmayı kastetti\" diye cevap verdi."
+    },
+    {
+      "id": 10,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn `Umar'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) dedi ki, \"Bir hayvan, sahibinin izni olmadan sağılmamalıdır. İçinizden hiç kimse, birinin dükkânına gelip konteynerini kırmasını ve yiyeceğini almasını ister mi? Hayvanların memeleri, sahiplerinin yiyeceklerinin saklandığı depolardır, bu yüzden kimse başka birinin hayvanını, sahibinin izni olmadan sağmamalıdır.\""
+    },
+    {
+      "id": 11,
+      "narrator": "Narrated Zaid bin Khalid Al-Juhani:",
+      "text": "Zaid bin Khalid Al-Juhani'den rivayet edilmiştir: Bir adam Allah'ın Elçisi (ﷺ) ile Luqata hakkında konuştu. O da, \"Bir yıl boyunca ilan et, sonra konteynerinin tarifini ve bağlandığı ipi hatırla, parayı kullan ve eğer sahibi geri gelirse, ona ver\" dedi. İnsanlar sordu, \"Ey Allah'ın Elçisi (ﷺ)! Peki ya kaybolan bir koyun?\" Allah'ın Elçisi (ﷺ) dedi ki, \"Al, çünkü o senindir, kardeşinindir ya da kurtundur.\" Adam sordu, \"Ey Allah'ın Elçisi (ﷺ)! Peki ya kaybolan bir deve?\" Allah'ın Elçisi (ﷺ) öfkelendi ve yanakları ya da yüzü kızardı ve dedi ki, \"Onunla hiçbir işin yok; çünkü onun ayakları ve su rezervi var, ta ki sahibi onu bulana kadar.\""
+    },
+    {
+      "id": 12,
+      "narrator": "Narrated Suwaid bin Ghafala:",
+      "text": "Suwaid bin Ghafala'dan rivayet edilmiştir: Ben Salman bin Rabi`a ve Suhan ile birlikteyken, kutsal savaşlardan birinde bir kamçı buldum. Onlardan biri onu bırakmamı söyledi ama ben bunu reddettim ve eğer sahibini bulursam ona vereceğimi, aksi takdirde kullanacağımı söyledim. Dönüş yolunda Hac yaptık ve Medine'den geçerken, Ubai bin Ka`b'a bunu sordum. O da, \"Peygamber (ﷺ) döneminde yüz Dinar içeren bir çanta buldum ve bunu Peygamber'e (ﷺ) götürdüm. O da bana, 'Bir yıl boyunca ilan et' dedi. Ben de bir yıl boyunca ilan ettim ve Peygamber'e (ﷺ) gittim. O da, 'Bir yıl daha ilan et' dedi. Ben de bir yıl daha ilan ettim. Tekrar ona gittim ve o da, 'Bir yıl daha ilan et' dedi. Ben de bir yıl daha ilan ettim. Dördüncü kez Peygamber'e (ﷺ) gittim ve o da, 'Paranın miktarını, konteynerinin tarifini ve bağlandığı ipi hatırla; eğer sahibi gelirse, ona ver; aksi takdirde bunu kullan' dedi.\""
+    },
+    {
+      "id": 13,
+      "narrator": "Narrated Salama:",
+      "text": "Salama'dan rivayet edilmiştir: Yukarıdaki rivayet (Hadis 616) Ubai bin Ka`b'dan: \"Sonradan Mekke'de alt rivayetçi ile karşılaştım ama Ka`b'ın bulduğunu bir yıl mı yoksa üç yıl mı ilan ettiğini hatırlamıyordu\" eklemesiyle."
+    },
+    {
+      "id": 14,
+      "narrator": "Narrated Zaid bin Khalid:",
+      "text": "Zaid bin Khalid'den rivayet edilmiştir: Bir bedevi Peygamber'e (ﷺ) Luqata hakkında sordu. Peygamber (ﷺ) dedi ki, \"Bir yıl boyunca ilan et ve eğer biri gelir ve Luqata'nın konteynerini ve bağlandığı ipi tarif ederse, (ona ver); aksi takdirde harca.\" Daha sonra Peygamber'e (ﷺ) kaybolan bir deve hakkında sordu. Peygamber'in (ﷺ) yüzü kızardı ve dedi ki, \"Onunla hiçbir işin yok; çünkü onun su rezervi ve ayakları var ve suya ulaşacak ve içecek ve ağaçları yiyecek. Bırak, ta ki sahibi onu bulana kadar.\" Daha sonra Peygamber'e (ﷺ) kaybolan bir koyun hakkında sordu. Peygamber (ﷺ) dedi ki, \"O senindir, kardeşinindir ya da kurtundur.\""
+    },
+    {
+      "id": 15,
+      "narrator": "Narrated Abu Bakr:",
+      "text": "Abu Bakr'dan rivayet edilmiştir: Yolda giderken birden bir çobanın koyunlarını sürüklediğini gördüm, ona kimin hizmetçisi olduğunu sordum. O da, bir Kureyşli'nin hizmetçisi olduğunu söyledi ve ardından ismini zikretti, onu tanıdım. \"Koyunlarının sütü var mı?\" diye sordum. O da evet dedi. \"Benim için süt sağacak mısın?\" dedim. O da evet dedi. Ona emir verdim ve bir koyunun bacaklarını bağladı. Sonra ona memeyi (süt veren kısmı) tozdan temizlemesini ve ellerindeki tozu silmesini söyledim. O, ellerindeki tozu silkeledi. Sonra biraz süt sağdı. Sütü Allah'ın Elçisi'ne (ﷺ) bir kapta koydum ve ağzını bir parça bezle kapatıp üzerine su dökerek soğutmaya çalıştım. Onu Peygamber'e (ﷺ) götürdüm ve \"İç, ey Allah'ın Elçisi (ﷺ)!\" dedim. O da içti, ta ki ben memnun olana kadar."
+    }
+  ]
+}

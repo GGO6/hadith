@@ -1,0 +1,981 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 193,
+    "arabic": {
+      "title": "صحيح مسلم",
+      "author": "الإمام مسلم بن الحجاج"
+    },
+    "english": {
+      "title": "Sahih Muslim",
+      "author": "Imam Muslim ibn al-Hajjaj"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Umm Salama, the wife of Allah's Apostle (ﷺ), said:",
+      "text": "Umm Salama, Allah'ın Elçisi (ﷺ) eşlerinden biri, şöyle dedi: Gümüş kapta içen, aslında karnında Cehennem ateşini içmiş olur."
+    },
+    {
+      "id": 2,
+      "narrator": "This hadith has been narrated through other chains of transmitters. The hadith of Ibn Mushir on the authority of 'Ubaidullah it is as:",
+      "text": "Bu hadis, diğer rivayet zincirleri aracılığıyla nakledilmiştir. İbn Müshir'in 'Ubaidullah'dan rivayeti şöyledir: Gümüş ve altın kapta yiyen veya içen - ancak diğer zincirlerde yemek ve altın ile ilgili kelimelere dair bir ifade yoktur."
+    },
+    {
+      "id": 3,
+      "narrator": "Abd al-Rahman reported on the authority of his mother's sister Umm Salama who said that Allah's Messenger (ﷺ) said:",
+      "text": "Abd al-Rahman, annesinin kız kardeşi Umm Salama'dan rivayet etti; o da Allah'ın Elçisi (ﷺ) şöyle dedi: Altın veya gümüş kaplarda içen, aslında karnında Cehennem ateşini içmiş olur."
+    },
+    {
+      "id": 4,
+      "narrator": "Mu'awiya b. Suwaid b. Muqarrin reporxed:",
+      "text": "Mu'aviye b. Suwaid b. Muqarrin, şöyle bildirdi: al-Bara' b. 'Azib'i ziyaret ettim ve onun şöyle dediğini duydum: Allah'ın Elçisi (ﷺ) bize yedi şeyi yapmamızı emretti ve yedi şeyi yapmamızı yasakladı. Bize hasta ziyareti, cenaze alayını takip etme, hapşırana cevap verme, adakları yerine getirme, yoksullara yardım etme, davete icabet etme ve herkese selam verme emrini verdi; altın yüzük takmayı, gümüş kaplarda içmeyi, kırmızı ipekten yapılmış eyer örtüsü kullanmayı ve Qassi kumaşından veya ipek, brokar ve kadife giysiler giymeyi yasakladı."
+    },
+    {
+      "id": 5,
+      "narrator": "This hadith has been reported on the authority of Ash'ath b. Sulaim with the same chain of transmitters but with a slight change of wording that he made no mention of:",
+      "text": "Bu hadis, Ash'ath b. Sulaim aracılığıyla aynı rivayet zinciriyle ancak \"adanın yerine getirilmesi\" kelimelerini anmadan, \"kaybolan eşyaların bulunması\" kelimeleriyle değiştirilmiş olarak nakledilmiştir."
+    },
+    {
+      "id": 6,
+      "narrator": "This hadith has been narrated on the authority of Ash'ath b. Abu ashSha'tha' with the same chain of transmitters (and with these words):",
+      "text": "Bu hadis, Ash'ath b. Abu ashSha'tha' aracılığıyla aynı rivayet zinciriyle (ve bu kelimelerle) nakledilmiştir: \"Adakları yerine getirmek\" kelimeleri hakkında şüphe yoktur ve bu ek, hadiste belirtilmiştir: (Kutsal Peygamber) gümüş kaplarda içmeyi yasakladı; çünkü bu dünyada (onlarda) içen, Ahirette (onlarda) içmeyecektir."
+    },
+    {
+      "id": 7,
+      "narrator": "This hadith has been narrated on the authority of Ash'ath b. Sulaim with the same chain of transmitters but with this difference that instead of the words:",
+      "text": "Bu hadis, Ash'ath b. Sulaim aracılığıyla aynı rivayet zinciriyle nakledilmiştir; ancak \"selamı yaymak\" kelimeleri yerine \"selamı iade etmek\" kelimeleri kullanılmıştır ve o şöyle dedi: Altın yüzük takmayı yasakladı."
+    },
+    {
+      "id": 8,
+      "narrator": "",
+      "text": "Bu hadis, Ash'ath b. Sulaim aracılığıyla aynı rivayet zinciriyle nakledilmiştir; ancak \"selamı yaymak\" ve \"altın yüzük kullanmak\" kelimeleri kesinlikle bildirilmiştir."
+    },
+    {
+      "id": 9,
+      "narrator": "'Abdullah b. Ukaim reported:",
+      "text": "'Abdullah b. Ukaim bildirdi: Hudhaifa ile Mada'in'de bulunduğumuz sırada su istedi. Bir köylü ona gümüş kapta bir içecek getirdi. O (Hudhaifa) bunu fırlatarak şöyle dedi: Size bildiriyorum ki, ona gümüş kapta içecek vermemesi gerektiğini ilettim; çünkü Allah'ın Elçisi (ﷺ) şöyle dedi: Altın ve gümüş kaplarda içmeyin ve brokar veya ipek giymeyin; çünkü bunlar bu dünyada onlara (kafirler) aittir, fakat Ahirette sizin içindir, Kıyamet Günü'nde."
+    },
+    {
+      "id": 10,
+      "narrator": "",
+      "text": "Bu hadis, 'Abdullah b. 'Ukaim aracılığıyla az bir kelime değişikliği ile bildirilmiştir."
+    },
+    {
+      "id": 11,
+      "narrator": "This hadith has been narrated on the authority of lbn `Ukaim through another chain of transmitters, but in this hadith no mention is made of the words:",
+      "text": "Bu hadis, 'Ukaim oğlu aracılığıyla başka bir rivayet zinciriyle nakledilmiştir; ancak bu hadiste \"Kıyamet Günü\" kelimelerine dair bir ifade yoktur."
+    },
+    {
+      "id": 12,
+      "narrator": "Shu'ba reported from al-Hakam that he heard 'Abd al-Rahmin (i. e. Ibn Abu Laila) as saying:",
+      "text": "Shu'ba, al-Hakam'dan 'Abd al-Rahman'ın (yani İbn Abu Laila) şöyle dediğini duydu: Kendi gözlerimle Hudhaifa'nın Mada'in'de su istediğini ve bir adamın ona gümüş kapta su verdiğini gördüm. Hadisin geri kalanı aynıdır."
+    },
+    {
+      "id": 13,
+      "narrator": "",
+      "text": "Bu hadis, Shu'ba aracılığıyla başka bir rivayet zinciriyle nakledilmiştir; ancak bu hadiste \"Kendi gözlerimle onu gördüm\" ifadesine dair bir kayıt yoktur."
+    },
+    {
+      "id": 14,
+      "narrator": "",
+      "text": "Bu hadis, Hudhaifa aracılığıyla aynı rivayet zinciriyle bildirilmiştir."
+    },
+    {
+      "id": 15,
+      "narrator": "'Abd al-Rahmin b. Abu Laili reported that Hudhaifa asked for water and a Magian gave him water in a silver vessel, whereupon he said:",
+      "text": "'Abd al-Rahman b. Abu Laila, Hudhaifa'nın su istediğini ve bir Mecusi'nin ona gümüş kapta su verdiğini bildirdi; bunun üzerine o şöyle dedi: Allah'ın Elçisi (ﷺ) şöyle dedi: İpek veya brokar giymeyin ve altın ve gümüş kaplarda içmeyin, bunlar (kafirler) için bu dünyada."
+    },
+    {
+      "id": 16,
+      "narrator": "Ibn Umar reported that Umar b. Khattab saw (some one selling) the garments of silk at the door of the mosque, whereupon he said:",
+      "text": "İbn Ömer, Ömer b. Hattab'ın caminin kapısında ipek elbiseleri satan birini gördüğünü bildirmiştir. Bunun üzerine Ömer, \"Allah'ın Elçisi, bunu alıp Cuma günü insanlar için ve size gelen heyetler için giymeniz ne güzel olurdu!\" dedi. Bunun üzerine Allah'ın Elçisi (ﷺ) şöyle dedi: \"Bunu giyen kimsenin ahirette hiçbir nasibi yoktur.\" Sonra bu elbiseler Allah'ın Elçisi'ne (ﷺ) gönderildi ve o, bu ipek elbiselerden birini Ömer'e takdim etti. Ömer, \"Beni bu ipek elbiseyi giymeye zorluyorsunuz, oysa Utarid'in (camide bu elbiseyi satan kişi) elbisesi hakkında söylediklerinizi söylediniz.\" dedi. Bunun üzerine Allah'ın Elçisi (ﷺ) şöyle dedi: \"Bunu giymen için değil, fiyatından faydalanman için gönderdim.\" Ömer de bunu Mekke'deki müşrik kardeşine verdi."
+    },
+    {
+      "id": 17,
+      "narrator": "",
+      "text": "Bu hadis, İbn Ömer tarafından başka bir raviden nakledilmiştir."
+    },
+    {
+      "id": 18,
+      "narrator": "Ibn Umar reported that Umar saw Utarid al-Tamimi standing in the market (and selling) the silk garments, and he was the person who went to (courts of) kings and got (high prices) for these garments from them. Umar said:",
+      "text": "İbn Ömer, Ömer'in Utarid el-Tamimi'yi pazarda ipek elbiselerle dururken gördüğünü bildirmiştir. O, bu elbiseleri krallara götüren ve onlardan yüksek fiyatlar alan kişiydi. Ömer, \"Allah'ın Elçisi, ben Utarid'i pazarda ipek elbise ile dururken gördüm; Arapların size geldiğinde onları karşılamak için bunu alıp giymeniz ne güzel olurdu?\" dedi. Ben (rivayet eden) dedim ki: \"Sanırım o (Ömer) ayrıca, 'Cuma günü de giyebilirsin' dedi.\" Bunun üzerine Allah'ın Elçisi (ﷺ) şöyle dedi: \"Bu dünyada ipek giyen kimsenin ahirette hiçbir nasibi yoktur.\" Daha sonra bu ipek elbiseler Allah'ın Elçisi'ne (ﷺ) sunuldu ve o, bir ipek elbiseyi Ömer'e, birini Usame b. Zeyd'e ve birini de Ali b. Ebu Talib'e vererek, \"Onları yırtın ve kadınlarınız için baş örtüleri yapın.\" dedi. Ömer, elbisesini taşıyarak geldi ve \"Allah'ın Elçisi, bunu bana gönderdiniz, oysa dün Utarid'in (ipek) elbisesi hakkında söylediklerinizi söylediniz.\" dedi. O (Peygamber) şöyle dedi: \"Bunu giymen için göndermedim, ama faydalanman için gönderdim.\" Usame (kendisine verilen) elbiseyi giydi ve canlı görünüyordu, bunun üzerine Allah'ın Elçisi (ﷺ) ona, yaptığı şeyden hoşlanmadığını belirten bir bakışla baktı. O, \"Allah'ın Elçisi, bana neden böyle bakıyorsunuz, oysa bunu bana siz verdiniz?\" dedi. O, \"Bunu giymen için göndermedim, ama kadınlarınız için baş örtüsü yapmanız için gönderdim.\" dedi."
+    },
+    {
+      "id": 19,
+      "narrator": "Abdullah b. Umar reported:",
+      "text": "Abdullah b. Ömer, Ömer b. Hattab'ın pazarda bir ipek elbise satıldığını bulduğunu; onu satın alıp Allah'ın Elçisi'ne (ﷺ) getirdiğini ve \"Allah'ın Elçisi, bunu al ve 'Id (bayram) günlerinde ve heyetler için giyin.\" dediğini bildirmiştir. Bunun üzerine Allah'ın Elçisi (ﷺ) şöyle dedi: \"Bu, ahirette hiçbir nasibi olmayan birinin elbisesidir.\" Ömer orada Allah'ın dilediği kadar kaldı. Sonra Allah'ın Elçisi (ﷺ) ona bir ipek ceket gönderdi. Ömer, onu Allah'ın Elçisi'ne (ﷺ) geri getirdi ve \"Allah'ın Elçisi, siz bunun ahirette hiçbir nasibi olmayan birinin elbisesi olduğunu söylediniz, ama sonra bunu bana gönderdiniz.\" dedi. Bunun üzerine Allah'ın Elçisi (ﷺ) şöyle dedi: \"Bunu sat ve ihtiyacını onunla karşıla.\""
+    },
+    {
+      "id": 20,
+      "narrator": "",
+      "text": "Bu hadis, İbn Şihab aracılığıyla aynı raviden nakledilmiştir."
+    },
+    {
+      "id": 21,
+      "narrator": "lbn 'Umar reported that 'Umar saw a person of the tribe of 'Utirid selling a garment made of brocade or silk and said to Allah's Messenger (ﷺ):",
+      "text": "İbn Ömer, Ömer'in 'Utirid kabilesinden bir kişinin brokar veya ipekten bir elbise sattığını gördüğünü ve Allah'ın Elçisi'ne (ﷺ) \"Bunu alır mısınız?\" dediğini bildirmiştir. Bunun üzerine o (Peygamber) şöyle dedi: \"Bunu giyen kimsenin ahirette hiçbir nasibi yoktur.\" Sonra Allah'ın Elçisi (ﷺ) kendisine çizgili bir ipek elbise gönderdi ve onu Ömer'e gönderdi. O (Ömer), \"Bunu bana gönderdiniz, oysa siz bunun hakkında söylediklerinizi duydum.\" dedi. Bunun üzerine o (Allah'ın Elçisi) şöyle dedi: \"Bunu sana faydalanman için gönderdim.\""
+    },
+    {
+      "id": 22,
+      "narrator": "This hadith has been narrated on the authority of Ibn Umar through another chain of transmitters but with a slight variation of wording (and the words are that the Holy Prophet) said:",
+      "text": "Bu hadis, İbn Ömer tarafından başka bir raviden nakledilmiştir, ancak kelimelerde küçük bir farklılık vardır (ve o (Peygamber) şöyle demiştir: \"Bunu sana faydalanman için gönderdim, ama bunu giymen için göndermedim.\")"
+    },
+    {
+      "id": 23,
+      "narrator": "Ibn 'Umar reported that 'Umar saw a person with a garment of brocade and he brought it to Allah's Apostle (may peace he upon him) -the rest of the hadith is the same, except for the words that he (the Holy Prophet) said:",
+      "text": "İbn Ömer, bir kişinin brokar elbisesiyle geldiğini gördüğünü ve onu Allah'ın Elçisi'ne (ﷺ) getirdiğini bildirmiştir -hadisin geri kalanı aynıdır, sadece o (Peygamber) şöyle demiştir: \"Bunu sana para kazanman için gönderdim.\""
+    },
+    {
+      "id": 24,
+      "narrator": "Abdullah. the freed slave of Asma' (the daughter of Abu Bakr). the maternal uncle of the son of 'Ata, reported:",
+      "text": "Abdullah, Asma'nın (Ebu Bekir'in kızı) azatlısı, 'Ata'nın oğlu olan amcasından şöyle bildirmiştir: Asma, bana 'Abdullah b. Ömer'e gittiğimi söyledi ve \"Üç şeyin kullanılmasını yasakladığını duydum: çizgili elbise, kırmızı ipekten eyer örtüsü ve Recep ayının kutsal ayında oruç tutmak.\" Abdullah bana şöyle dedi: \"Recep ayında oruç tutma konusundaki söylediklerin hakkında, sürekli oruç tutan biri hakkında ne dersin? -ve çizgili elbise konusundaki söylediklerin hakkında, Ömer b. Hattab'ın Allah'ın Elçisi'nden (ﷺ) şöyle dediğini duydum: \"İpek elbise giyen kimsenin ahirette hiçbir nasibi yoktur,\" ve bunun çizgili elbise olmasından korkuyorum; ve kırmızı eyer örtüsü konusunda, bu Abdullah'ın eyer örtüsüdür ve kırmızıdır.\" Asma'ya geri döndüm ve ona bildirdim, bunun üzerine o, \"İşte bu Allah'ın Elçisi'nin (ﷺ) örtüsüdür.\" dedi ve bana o, brokar kenarları olan Pers kumaşından yapılmış örtüyü çıkardı ve \"Bu, Aişe ile birlikte Allah'ın Elçisi'nin örtüsüydü, o öldüğünde ben onu aldım.\" dedi. Allah'ın Elçisi (ﷺ) bunu giyerdi ve biz onu hasta olanlar için yıkar ve bununla şifa arardık."
+    },
+    {
+      "id": 25,
+      "narrator": "Khalifa b. Ka'b AbCi Dhubyan reported:",
+      "text": "Halife b. Ka'b Abci Dhubyan, 'Abdullah b. Zubair'in insanlara hitap ederken şöyle dediğini işitti: \"Bakın! Kadınlarınızı ipek elbiselerle giydirmeyin, çünkü Ömer b. Hattab'ın Allah'ın Elçisi'nden (ﷺ) şöyle dediğini işittim: 'İpek giymeyin, çünkü bu dünyada giyen kimse ahirette giyemeyecektir.'\""
+    },
+    {
+      "id": 26,
+      "narrator": "'Asim al-Abwal reported on the authority Abu Uthman saying:",
+      "text": "'Asim el-Abwal, Ebu Uthman'dan şöyle bildirmiştir: \"Ömer, Adharba'ican'da bulunduğumuz sırada bize yazdı ve 'Utba b. Farqad, bu zenginlik ne senin kendi emeğinin ne de babanın ya da annenin emeğinin sonucudur, bu yüzden Müslümanları kendi yerlerinde besleyin, kendinizi ve ailenizi kendi evinizde beslediğiniz gibi, ve zevk hayatından, müşriklerin elbiselerinden ve ipek elbiseler giymekten sakının, çünkü Allah'ın Elçisi (ﷺ) ipek elbiselerin giyilmesini yasakladı, ama sadece bu kadar, ve Allah'ın Elçisi (ﷺ) işaret parmağını ve orta parmağını kaldırdı ve onları birleştirdi (bir adamın elbiselerinde sadece bu kadar ipeğin kullanılabileceğini belirtmek için).\" 'Asim ayrıca şöyle dedi: \"Bu, (bize gönderilen) mektupta kaydedilmiştir ve Zuhair iki parmağını kaldırdı (ipeğin ne kadar kullanılabileceğini göstermek için).\""
+    },
+    {
+      "id": 27,
+      "narrator": "",
+      "text": "Bu hadis, 'Asim aracılığıyla aktarılmıştır."
+    },
+    {
+      "id": 28,
+      "narrator": "Abu 'Uthman reported:",
+      "text": "Ebu 'Uthman, 'Utba b. Farqad ile birlikteyken Ömer'in (talimatları içeren) bir mektubunun geldiğini bildirmiştir; bu mektupta Allah'ın Elçisi (ﷺ) şöyle demiştir: \"Hiç kimse ipek giymemelidir (bu kadar) dışında, ama ahirette bununla hiçbir şeyleri olmayacaktır.\" Ebu 'Uthman, \"Başparmağa yakın olan iki parmak kadar\" dedi ve bana Tayalisa örtüsünün (iki parmak genişliğinde olan) ipek kenarlarını gösterdiler."
+    },
+    {
+      "id": 29,
+      "narrator": "",
+      "text": "Önceki hadis, başka bir raviden de aynı şekilde aktarılmıştır."
+    },
+    {
+      "id": 30,
+      "narrator": "Qatada reported:",
+      "text": "Katade, Ebu 'Uthman el-Nahdi'nin şöyle dediğini işitti: \"Bize bir mektup geldi, Ömer'in mektubu, biz Adharba'ican'da veya Suriye'de 'Utba b. Farqad ile birlikteyken, bu mektupta Allah'ın Elçisi (ﷺ) ipeğin kullanımını yasakladığını ancak bu iki parmak kadar kullanılabileceğini belirtti. Ebu 'Uthman, bu sözlerden hemen anladık ki, (ipek) desenleri kastetmiştir.\""
+    },
+    {
+      "id": 31,
+      "narrator": "",
+      "text": "Bu hadis, Katade'den rivayet edilmiştir ancak Abd Uthman'ın sözlerine dair bir bahse yer verilmemiştir."
+    },
+    {
+      "id": 32,
+      "narrator": "Suwaid b. Ghafala said:",
+      "text": "Suwaid b. Ghafala dedi ki: 'Umar bize Suriye'de Jabiya adlı bir yerde hitap etti ve şöyle dedi: Allah'ın Elçisi (ﷺ) bize ipek giymeyi yasakladı, ancak iki veya üç parmak veya dört parmak kadar."
+    },
+    {
+      "id": 33,
+      "narrator": "",
+      "text": "Bu hadis, Katade'den aynı isnatla rivayet edilmiştir."
+    },
+    {
+      "id": 34,
+      "narrator": "Jabir b. Abdullah reported that one day Allah's Apostle (ﷺ) put on a cloak made of brocade, which had been presented to him. He then quickly put it off and sent it to 'Umar b. Khattab, and it was said to him:",
+      "text": "Jabir b. Abdullah, bir gün Allah'ın Elçisi (ﷺ) kendisine sunulan bir brokar ceket giydiğini bildirdi. Sonra hemen çıkardı ve onu 'Umar b. Khattab'a gönderdi. Kendisine şöyle denildi: Allah'ın Elçisi, neden hemen çıkardın? Bunun üzerine şöyle dedi: Cebrail bana bunu (yani O'nun elbisesini giymeyi) yasakladı. 'Umar ona ağlayarak geldi ve dedi: Allah'ın Elçisi, sen bir şeyi hoş görmedin ama onu bana verdin. O zaman benim durumum ne olacak? Bunun üzerine O (Peygamber) şöyle dedi: Ben onu sana giymen için vermedim, ama onu satman için verdim; böylece o (Hadrat Umar) onu iki bin dirheme sattı."
+    },
+    {
+      "id": 35,
+      "narrator": "'Ali reported:",
+      "text": "'Ali bildirdi: Allah'ın Elçisi (ﷺ) bana bir ipek ceket gönderdi ve ben onu giydim. Ancak yüzünde hoşnutsuzluk belirtisi görünce, şöyle dedi: Ben onu sana giymen için göndermedim, ama onu yırtıp kadınların için baş örtüsü yapman için gönderdim."
+    },
+    {
+      "id": 36,
+      "narrator": "",
+      "text": "Bu hadis, Muhammad b. Ja'far'dan ancak kelime farklılığı ile rivayet edilmiştir."
+    },
+    {
+      "id": 37,
+      "narrator": "'Ali reported that Ukaidir of Duma presented to Allah's Apostle (ﷺ) a silk garment, and he presented it to 'Ali. and said:",
+      "text": "'Ali, Duma'dan Ukaidir'in Allah'ın Elçisi (ﷺ) için bir ipek giysi sunduğunu ve bunu 'Ali'ye verdiğini bildirdi. Ve şöyle dedi: Onu yırt ve Fitima için baş örtüsü yap. Bu rivayet, Ebu Bekir'den aktarılmıştır ve Ebu Kuraib şöyle dedi: Kadınlar arasında."
+    },
+    {
+      "id": 38,
+      "narrator": "",
+      "text": "'Ali b. Ebu Talib, Allah'ın Elçisi (ﷺ) tarafından bana bir ipek ceket giydirildiğini bildirdi. Ben onu giyerek dışarı çıktım, ancak yüzünde öfke belirtileri gördüm, bu yüzden onu yırttım ve kadınlarım arasında paylaştırdım."
+    },
+    {
+      "id": 39,
+      "narrator": "Anas b. Malik reported that Allah's Messenger (may Peace be upon him) sent a silk gown to 'Umar, whereupon 'Umar said:",
+      "text": "Anas b. Malik, Allah'ın Elçisi (sallallahu aleyhi ve sellem) tarafından 'Umar'a bir ipek elbise gönderildiğini bildirdi. Bunun üzerine 'Umar şöyle dedi: Bunu bana gönderdin, oysa sen ne dediğini söyledin (yani bu erkekler için yasaktır). Bunun üzerine O (Peygamber) şöyle dedi: Ben bunu sana giymen için göndermedim, ama sana fiyatından faydalanman için gönderdim."
+    },
+    {
+      "id": 40,
+      "narrator": "Anas reported that Allah's Messenger (ﷺ) said:",
+      "text": "Anas, Allah'ın Elçisi (ﷺ) şöyle dediğini bildirdi: Bu dünyada ipek giyen, ahirette giyemeyecektir."
+    },
+    {
+      "id": 41,
+      "narrator": "Abu Umama reported Allah's Messenger (ﷺ) having said:",
+      "text": "Ebu Ümame, Allah'ın Elçisi (ﷺ) tarafından şöyle denildiğini bildirdi: Bu dünyada ipek giyen, ahirette giyemeyecektir."
+    },
+    {
+      "id": 42,
+      "narrator": "Uqba b. 'Amir said:",
+      "text": "Uqba b. 'Amir dedi ki: Allah'ın Elçisi (ﷺ) için bir ipek elbise sunuldu ve O onu giydi, içinde namaz kıldı, sonra geri döndü ve onu sanki küçümseyerek şiddetle çıkardı. Sonra şöyle dedi: Bu, takva sahiplerine yakışmaz."
+    },
+    {
+      "id": 43,
+      "narrator": "",
+      "text": "Bu hadis, azid b. Ebu Habib'den aynı isnatla rivayet edilmiştir."
+    },
+    {
+      "id": 44,
+      "narrator": "",
+      "text": "Anas b. Malik, arkadaşlarına Allah'ın Elçisi (ﷺ) Abd al-Rahman b. *Anf ve Zubair b. 'Awwam'a yolculuk sırasında ve ikisinin de yaşadığı kaşıntı veya başka bir hastalık nedeniyle ipek gömlek giymeleri için izin verdiğini bildirdi."
+    },
+    {
+      "id": 45,
+      "narrator": "",
+      "text": "Bu hadis, Sa'd'dan aynı isnatla rivayet edilmiştir ancak \"yolculuk\" kelimesine dair bir bahse yer verilmemiştir."
+    },
+    {
+      "id": 46,
+      "narrator": "",
+      "text": "Anas, Allah'ın Elçisi (ﷺ) Zubair b. Awwam ve 'Abd Al-Rahman b. Auf'a, ikisinin de kaşıntı nedeniyle ipek giymeleri için ruhsat verdiğini bildirdi."
+    },
+    {
+      "id": 47,
+      "narrator": "",
+      "text": "Bu hadis, aynı nakil zinciri ile Shu'ba'nın rivayetiyle aktarılmıştır."
+    },
+    {
+      "id": 48,
+      "narrator": "",
+      "text": "Anas b. Malik, 'Abd al-Rahman b. Auf ve Zu'bair b. 'Awwam'ın Allah'ın Elçisi (ﷺ) ile başlardaki bitlerden şikayet ettiklerini; bunun üzerine ona ipek gömlek giymeleri için ruhsat verdiğini bildirdi."
+    },
+    {
+      "id": 49,
+      "narrator": "'Abdullah b. 'Amr b. al-As reported:",
+      "text": "'Abdullah b. 'Amr b. al-As, Allah'ın Elçisi (ﷺ) beni safranla boyanmış iki elbise ile gördüğünde: \"Bunlar (genellikle) inanmayanların giydiği elbiselerdir, bu yüzden giymeyin.\" dediğini bildirdi."
+    },
+    {
+      "id": 50,
+      "narrator": "",
+      "text": "Bu hadis, aynı nakil zinciri ile Yahya b. Abu Kathir'in rivayetiyle aktarılmıştır."
+    },
+    {
+      "id": 51,
+      "narrator": "'Abdullah b. 'Amr reported:",
+      "text": "'Abdullah b. 'Amr, Allah'ın Elçisi (ﷺ) beni safranla boyanmış iki elbise ile gördüğünde: \"Annen sana bunu yapmanı emretti mi?\" dedi. Ben de: \"Onları yıkayacağım.\" dedim. O da: \"Ama onları yak.\" dedi."
+    },
+    {
+      "id": 52,
+      "narrator": "",
+      "text": "'Ali b. Abu Talib, Allah'ın Elçisi (ﷺ) ipek giymeyi, sarı elbiseleri, altın yüzüğü ve rükuda (namazda diz çökme durumu) Kur'an okumayı yasakladığını bildirdi."
+    },
+    {
+      "id": 53,
+      "narrator": "Ali b. Abu Talib reported:",
+      "text": "Ali b. Abu Talib, Allah'ın Elçisi (ﷺ) rükuda Kur'an okumamı; altın takmamı ve safranla boyanmış elbiseler giymemi yasakladığını bildirdi."
+    },
+    {
+      "id": 54,
+      "narrator": "'Ali b. Abu Talib reported:",
+      "text": "'Ali b. Abu Talib, Allah'ın Elçisi (ﷺ) bana altın yüzük kullanmayı, ipek giymeyi, rükuda ve secdede (secde durumu) Kur'an okumayı ve sarı giysiler giymeyi yasakladığını bildirdi."
+    },
+    {
+      "id": 55,
+      "narrator": "Qatada said:",
+      "text": "Katada dedi ki: Anas b. Malik'e Allah'ın Elçisi (ﷺ) hangi giysiyi severdi veya giymeyi tercih ederdi diye sorduk. O da: \"Yemen örtüsü.\" dedi."
+    },
+    {
+      "id": 56,
+      "narrator": "",
+      "text": "Anas, Allah'ın Elçisi (ﷺ) tarafından en çok sevilen giysinin Yemen örtüsü olduğunu bildirdi."
+    },
+    {
+      "id": 57,
+      "narrator": "Abu Burda reported:",
+      "text": "Abu Burda, A'işe'yi ziyaret ettiğini ve onun bize Yemen'den yapılmış kaba alt giysiyi ve Mulabbada kumaşından yapılmış elbiseleri çıkardığını; Allah'ın Elçisi (ﷺ) bu iki elbiseyle vefat ettiğine Allah adına yemin ettiğini bildirdi."
+    },
+    {
+      "id": 58,
+      "narrator": "Abu Burda reported that A'isha brought out for us the lower garment and the upper garment made of the Mulabbada cloth and said:",
+      "text": "Abu Burda, A'işe'nin bize Mulabbada kumaşından yapılmış alt ve üst giysiyi çıkardığını ve: \"Allah'ın Elçisi (ﷺ) bu (elbise) ile vefat etti.\" dediğini bildirdi. İbn Hatim (rivayet edenlerden biri) kendi rivayetinde: \"Kaba kumaştan yapılmış alt giysi.\" dedi."
+    },
+    {
+      "id": 59,
+      "narrator": "",
+      "text": "Bu hadis, Ayyub'un rivayetiyle biraz farklı bir kelime ile aktarılmıştır."
+    },
+    {
+      "id": 60,
+      "narrator": "",
+      "text": "A'işe, Allah'ın Elçisi (ﷺ) bir sabah, üzerinde deve veya koyun yününden yapılmış, deve eyerleri desenli bir örtü ile dışarı çıktığını bildirdi."
+    },
+    {
+      "id": 61,
+      "narrator": "",
+      "text": "A'işe, Allah'ın Elçisi (ﷺ) için yaslandığı yastığın, hurma lifleriyle doldurulmuş deriden yapıldığını bildirmiştir."
+    },
+    {
+      "id": 62,
+      "narrator": "",
+      "text": "A'işe, Allah'ın Elçisi (ﷺ) için yattığı yatağın, hurma lifleriyle doldurulmuş deriden yapıldığını bildirmiştir."
+    },
+    {
+      "id": 63,
+      "narrator": "",
+      "text": "Bu hadis, Hişam b. Urve'den, kelime varyasyonu ile birlikte aktarılmıştır."
+    },
+    {
+      "id": 64,
+      "narrator": "Jabir reported:",
+      "text": "Cabir, evlendiğimde, Allah'ın Elçisi (ona selam olsun) bana halı alıp almadığımı sordu. Ben de: Halımız nasıl olabilir? (yani, o kadar fakirim ki halı düşünemem) dedim. Bunun üzerine o: Yakında sahip olacaksın, dedi."
+    },
+    {
+      "id": 65,
+      "narrator": "Jabir b. Abdullah reported:",
+      "text": "Cabir b. Abdullah, evlendiğimde, Allah'ın Elçisi (ﷺ) bana halı alıp almadığımı sordu. Ben de: Halımız nasıl olabilir? dedim. Bunun üzerine o: Yakında sahip olacaksın, dedi. Cabir: Eşimde bir halı vardı, onu benden uzaklaştırmasını söyledim, ama o: Allah'ın Elçisi (ﷺ) dedi ki: Yakında sahip olacaksın, diyordu."
+    },
+    {
+      "id": 66,
+      "narrator": "",
+      "text": "Bu hadis, Sufyan'dan, aynı isnat zinciri ile ancak kelime varyasyonu ile birlikte aktarılmıştır."
+    },
+    {
+      "id": 67,
+      "narrator": "Jabir b. 'Abdullah reported that Allah's Messengor (ﷺ) said:",
+      "text": "Cabir b. Abdullah, Allah'ın Elçisi (ﷺ) şöyle dediğini bildirmiştir: Bir adam için bir yatak, karısı için bir yatak ve misafir için üçüncü bir yatak olmalıdır; dördüncüsü ise şeytana aittir."
+    },
+    {
+      "id": 68,
+      "narrator": "Ibn 'Umar reported Allah's Messenger (ﷺ) having said:",
+      "text": "İbn 'Umar, Allah'ın Elçisi (ﷺ) şöyle buyurduğunu bildirmiştir: Kıyafetini gururla sürükleyen kimseye Allah bakmayacaktır."
+    },
+    {
+      "id": 69,
+      "narrator": "This hadith has been narrated on the authority of Ibn 'Umar through other chains of transmitters also with the addition of these words:",
+      "text": "Bu hadis, İbn 'Umar'dan, diğer isnat zincirleri üzerinden de aktarılmıştır; ayrıca \"Kıyamet Günü\" ifadesi eklenmiştir."
+    },
+    {
+      "id": 70,
+      "narrator": "Ibn 'Umar reported Allah's Messenger (ﷺ) having said:",
+      "text": "İbn 'Umar, Allah'ın Elçisi (ﷺ) şöyle buyurduğunu bildirmiştir: Kıyafetini gururla sürükleyen kimseye, Allah Kıyamet Günü bakmayacaktır."
+    },
+    {
+      "id": 71,
+      "narrator": "",
+      "text": "Bu hadis, İbn 'Umar'dan başka bir isnat zinciri üzerinden aktarılmıştır."
+    },
+    {
+      "id": 72,
+      "narrator": "Ibn 'Umar reported Allah's Messenger (ﷺ) having said:",
+      "text": "İbn 'Umar, Allah'ın Elçisi (ﷺ) şöyle buyurduğunu bildirmiştir: Kıyafetini gururla sürükleyen kimseye, Allah Kıyamet Günü bakmayacaktır."
+    },
+    {
+      "id": 73,
+      "narrator": "Salim reported:",
+      "text": "Salim, İbn 'Umar'ın, Allah'ın Elçisi (ﷺ) şöyle dediğini duyduğunu bildirmiştir (yukarıda belirtilen şekilde) ancak kelime varyasyonu ile."
+    },
+    {
+      "id": 74,
+      "narrator": "Muslim b. Yannaq reported that Ibn Umar saw a person trailing his lower garment, whereupon he said:",
+      "text": "Müslim b. Yannaq, İbn 'Umar'ın bir kişinin alt giysisini sürüklediğini gördüğünü, bunun üzerine ona: Nereden geliyorsun? dediğini bildirmiştir. O kişi, ait olduğu kabileyi tanımladı ve Laith kabilesine ait olduğu anlaşıldı. İbn 'Umar onu tanıdı ve: Ben, Allah'ın Elçisi (ﷺ) bu iki kulağımla şöyle derken duydum: Alt giysisini sadece gurur amacıyla sürükleyen kimseye, Allah Kıyamet Günü bakmayacaktır, dedi."
+    },
+    {
+      "id": 75,
+      "narrator": "",
+      "text": "Bu hadis, Müslim b. Yannaq'tan başka bir isnat zinciri üzerinden aktarılmıştır ancak kelime varyasyonu ile."
+    },
+    {
+      "id": 76,
+      "narrator": "Muhammad b. 'Abbad b. Ja'far reported:",
+      "text": "Muhammed b. Abbad b. Ca'fer şöyle rivayet etmiştir: Ben, aralarında otururken, Nafi' b. Abd al-Harith'in azatlısı Müslim b. Yasar'a, İbn Ömer'e, Allah'ın Resulü'nden (ﷺ) gurur nedeniyle elbisesini sürükleyen biri hakkında bir şey duyup duymadığını sormasını söyledim. O da: \"Ben onu (Kutsal Peygamber) şöyle derken duydum: Kıyamet Günü Allah ona bakmayacaktır.\" dedi."
+    },
+    {
+      "id": 77,
+      "narrator": "Ibn 'Umar reported:",
+      "text": "İbn Ömer şöyle rivayet etmiştir: Allah'ın Resulü'nün (selam üzerine olsun) önünden, elbisem yere sürüklenerek geçiyordum. O da: \"Abdullah, elbiseni yukarı çek!\" dedi. Ben de yukarı çektim, o tekrar: \"Daha da yukarı çek!\" dedi. Ben de daha da yukarı çektim ve sonrasında da çekmeye devam ettim. Bunun üzerine bazı insanlar: \"Ne kadar yukarı?\" dediler. O da: \"Bacakların ortasına kadar.\" dedi."
+    },
+    {
+      "id": 78,
+      "narrator": "Abu Huraire reported that he saw a person whose lower garment bad been trailin. and he was striking the ground with his foot (conceitedly). He was the Amir of Bahrain and it was being said:",
+      "text": "Ebu Hureyre, yere sürüklenen bir elbiseye sahip birini gördüğünü ve onun ayaklarıyla yere vurduğunu (kibirle) bildirmiştir. O, Bahreyn'in Amiriydi ve: \"İşte Amir geliyor, işte Amir geliyor.\" deniliyordu. Ebu Hureyre, Allah'ın Resulü'nün (ﷺ) şöyle dediğini rivayet etmiştir: \"Gurur nedeniyle elbisesini sürükleyen kimseye Allah bakmayacaktır.\""
+    },
+    {
+      "id": 79,
+      "narrator": "This hadith has been reported on the authority of Shu'ba with the same chain of transmitters and in the hadith transmitted on the authority of Ibn ja'far (the words are):",
+      "text": "Bu hadis, Şu'ba'nın rivayetiyle aynı isnatla bildirilmiştir ve İbn Ca'fer'den rivayet edilen hadisteki sözler şunlardır: Marvan, Ebu Hureyre'yi vekil tayin etmişti. İbn Muthanna'dan rivayet edilen hadisteki sözler ise: Ebu Hureyre Medine Valisi idi."
+    },
+    {
+      "id": 80,
+      "narrator": "",
+      "text": "Ebu Hureyre, Allah'ın Resulü'nün (ﷺ) şöyle dediğini bildirmiştir: \"Kalın saçları ve güzel elbiseleri nedeniyle gururla yürüyen bir kişi vardı. O, yerin içine batırıldı ve Kıyamet Saati gelene kadar yerin içine batmaya devam edecektir.\""
+    },
+    {
+      "id": 81,
+      "narrator": "",
+      "text": "Bu hadis, Ebu Hureyre'den ancak farklı bir isnatla rivayet edilmiştir."
+    },
+    {
+      "id": 82,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Ebu Hureyre, Allah'ın Resulü'nün (ﷺ) şöyle dediğini bildirmiştir: \"Güzel elbiseleri nedeniyle gururla yürüyen bir kişi vardı ve kişiliğinden memnundu. Allah onu yerin içine batırdı ve Kıyamet Günü'ne kadar orada batmaya devam edecektir.\""
+    },
+    {
+      "id": 83,
+      "narrator": "This hadith has been transmitted on the authority of Abu Huraira but with a slight variation of wording:",
+      "text": "Bu hadis, Ebu Hureyre'den ancak kelime değişikliği ile rivayet edilmiştir: İki elbisesiyle gururla yürüyen bir adam vardı."
+    },
+    {
+      "id": 84,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Ebu Hureyre, Allah'ın Resulü'nün (ﷺ) şöyle dediğini bildirmiştir: \"Sizden önce yaşayan bir kişi, cübbesiyle gurur duyuyordu. Hadisin geri kalanı aynıdır.\""
+    },
+    {
+      "id": 85,
+      "narrator": "",
+      "text": "Ebu Hureyre, Allah'ın Resulü'nün (ﷺ) altın yüzük takmayı yasakladığını bildirmiştir."
+    },
+    {
+      "id": 86,
+      "narrator": "",
+      "text": "Önceki hadis, başka bir isnatla rivayet edilmiştir."
+    },
+    {
+      "id": 87,
+      "narrator": "Abdullah b. 'Abbas reported that Allah's Messenger (ﷺ) saw a person wearing a gold signet ring in his hand. He (the Holy Prophet) pulled it off and threw it away, saying:",
+      "text": "Abdullah b. Abbas, Allah'ın Resulü'nün (ﷺ) elinde altın bir yüzük takan bir kişiyi gördüğünü bildirmiştir. O (Kutsal Peygamber), yüzüğü çıkardı ve atarak şöyle dedi: \"Sizden biri, eline cehennemden ateş kömürü almak istiyor.\" Allah'ın Resulü (ﷺ) gittikten sonra kişiye denildi: \"Altın yüzüğünü al ve ondan faydalan.\" O da: \"Hayır, Allah'a yemin ederim ki, Allah'ın Resulü (ﷺ) onu attıktan sonra asla almayacağım.\" dedi."
+    },
+    {
+      "id": 88,
+      "narrator": "'Abdullah reported that Allah's Messenger (may peace be upol him) got fashioned a signet ring of gold but he kept its stone on the inner side of his palm as he wore it, so the people (following his example) got fashioned (such rings). Then one day as he sat on the pulpit he pulled it away saying:",
+      "text": "Abdullah, Allah'ın Resulü'nün (selam üzerine olsun) altından bir yüzük yaptırdığını, ancak onu takarken taşını avucunun iç kısmına koyduğunu bildirmiştir. Böylece insanlar (onun örneğini takip ederek) böyle yüzükler yaptırdılar. Bir gün, minberde otururken, onu çıkardı ve şöyle dedi: \"Bu yüzüğü taktım ve taşını iç tarafa koydum.\" Sonra onu attı ve: \"Allah'a yemin ederim ki, bir daha asla takmayacağım.\" dedi; böylece insanlar da yüzüklerini attılar."
+    },
+    {
+      "id": 89,
+      "narrator": "",
+      "text": "Bu hadis, İbn Ömer'den başka isnatlarla ancak kelime değişikliği ile rivayet edilmiştir."
+    },
+    {
+      "id": 90,
+      "narrator": "",
+      "text": "Bu hadis, İbn Ömer'den birkaç başka isnatla da benzer şekilde rivayet edilmiştir."
+    },
+    {
+      "id": 91,
+      "narrator": "",
+      "text": "İbn Ömer, Allah'ın Elçisi'nin (ﷺ) kendisi için gümüş bir yüzük yaptırdığını ve onu parmağında taktığını bildirmiştir. Sonra bu yüzük Ebu Bekir'in parmağında, ardından Ömer'in parmağında, sonra da Osman'ın parmağında olmuştur. Nihayet bu yüzük Aris kuyusuna düşmüştür ve üzerinde şu kelimeler kazınmıştır: (Muhammed, Allah'ın Elçisi). İbn Numeyr bunu biraz farklı bir ifadeyle nakletmiştir."
+    },
+    {
+      "id": 92,
+      "narrator": "Ibn Umar reported that Allah's Apostle (ﷺ) had made for himself a gold ring; then he discarded it, and then made for himself a silver ring, and had these words engraved upon it (Muhammad, Messenger of Allah), and said:",
+      "text": "İbn Ömer, Allah'ın Elçisi'nin (ﷺ) kendisi için altın bir yüzük yaptırdığını; sonra onu attığını, ardından kendisi için gümüş bir yüzük yaptırdığını ve üzerine şu kelimeleri kazıttığını bildirmiştir: (Muhammed, Allah'ın Elçisi). Ve şöyle demiştir: Hiç kimse benim bu yüzüğümün kazıması gibi bir şey kazıtmasın. Ve onu taktığında, taşını avucunun içine doğru tutardı ve bu taş, Muaykib'in elinden Aris kuyusuna düşen taş olmuştur."
+    },
+    {
+      "id": 93,
+      "narrator": "",
+      "text": "Enes b. Malik, Allah'ın Elçisi'nin (ﷺ) kendisi için gümüş bir yüzük yaptırdığını ve üzerine (Muhammed, Allah'ın Elçisi) yazdırdığını bildirmiştir. Ve insanlara şöyle demiştir: Ben gümüş bir yüzük yaptırdım ve üzerine (bu kelimeleri) (Muhammed, Allah'ın Elçisi) yazdırdım. O yüzden kimse bu (kelimeleri) böyle kazımasın."
+    },
+    {
+      "id": 94,
+      "narrator": "",
+      "text": "Bu hadis, Enes'in rivayetiyle başka bir nakil zincirinden aktarılmıştır, ancak içinde (Muhammed, Allah'ın Elçisi) kelimeleri geçmemektedir."
+    },
+    {
+      "id": 95,
+      "narrator": "",
+      "text": "Enes b. Malik, Allah'ın Elçisi (ﷺ) Bizans (İmparatoruna) mektup yazmaya karar verdiğinde, (ashabının) ona, mühürsüz bir mektubu okumayacaklarını söylediklerini bildirmiştir. (Sonra) Allah'ın Elçisi (ﷺ) kendisi için gümüş bir yüzük yaptırdı; (şekli zihnimde çok canlı) sanki Allah'ın Elçisi'nin (ﷺ) parmağındaki parlaklığını görüyorum ve kazıması (Muhammed, Allah'ın Elçisi) idi."
+    },
+    {
+      "id": 96,
+      "narrator": "Anas reported that when Allah's Apostle (ﷺ) decided to write (letters) to non-Arabs (i. e. Persian and Byzantine Emperors) it was said to him that the non-Arabs would not accept a letter but that having a seal over it; so he (the Holy Prophet) got a silver ring made. He (Anas) said:",
+      "text": "Enes, Allah'ın Elçisi (ﷺ) Arap olmayanlara (yani Pers ve Bizans İmparatorlarına) mektup yazmaya karar verdiğinde, ona Arap olmayanların mühürsüz bir mektubu kabul etmeyeceklerini söylediklerini bildirmiştir. Bu yüzden o (Kutsal Peygamber) gümüş bir yüzük yaptırdı. O (Enes) dedi ki: Sanki onun elinde parlayan yüzüğü görüyormuşum gibi algılıyorum."
+    },
+    {
+      "id": 97,
+      "narrator": "Anas reported that when Allah's Apostle (ﷺ) decided to write to the Kisra (the King of Persia), Caesar (Emperor of Rome), and the Negus (the Emperor of Abyssinia), it was said to him that they would not accept the letter without the seal over it; so Allah's Messenger (ﷺ) got a seal made, the ring of which was made of silver and there was engraved on it:",
+      "text": "Enes, Allah'ın Elçisi (ﷺ) Kisra (Pers Kralı), Kayser (Roma İmparatoru) ve Necasi (Abyssinia İmparatoru) ile yazışmaya karar verdiğinde, ona mühürsüz bir mektubu kabul etmeyeceklerini söylediler; bu yüzden Allah'ın Elçisi (ﷺ) bir mühür yaptırdı, yüzüğü gümüşten yapıldı ve üzerinde şu yazılıydı: \"Muhammed, Allah'ın Elçisi.\""
+    },
+    {
+      "id": 98,
+      "narrator": "Anas b. Malik reported:",
+      "text": "Enes b. Malik, bir gün Allah'ın Elçisi'nin (ﷺ) parmağında gümüş bir yüzük gördüğünü; bu yüzden insanların da gümüş yüzükler yaptırıp taktıklarını bildirmiştir. Sonra Allah'ın Elçisi (ﷺ) yüzüğünü attı ve insanlar da yüzüklerini attılar."
+    },
+    {
+      "id": 99,
+      "narrator": "",
+      "text": "Enes b. Malik, bir gün Allah'ın Elçisi'nin (ﷺ) parmağında gümüş bir yüzük gördüğünü ve insanların da gümüş yüzükler yaptırıp taktıklarını bildirmiştir. Sonra Allah'ın Elçisi (ﷺ) yüzüğünü attı, böylece insanlar da yüzüklerini attılar."
+    },
+    {
+      "id": 100,
+      "narrator": "",
+      "text": "Bu hadis, İbn Juraij'in aynı nakil zinciriyle aktardığı bir hadis gibidir."
+    },
+    {
+      "id": 101,
+      "narrator": "",
+      "text": "Enes b. Malik, Allah'ın Elçisi'nin (ﷺ) yüzüğünün gümüşten yapıldığını ve içinde bir Habeş taşı bulunduğunu bildirmiştir."
+    },
+    {
+      "id": 102,
+      "narrator": "",
+      "text": "Enes b. Malik, Allah'ın Elçisi'nin (ﷺ) sağ elinde bir gümüş yüzük taktığını ve içinde bir Habeş taşı bulunduğunu, taşını avucuna doğru tuttuğunu bildirmiştir."
+    },
+    {
+      "id": 103,
+      "narrator": "",
+      "text": "Bu hadis, Yunus b. Yazid'in aynı nakil zinciriyle aktardığı bir hadis olarak nakledilmiştir."
+    },
+    {
+      "id": 104,
+      "narrator": "",
+      "text": "Enes, Allah'ın Elçisi'nin (ﷺ) yüzüğünün bu parmağında olduğunu ve sol elinin serçe parmağına işaret ettiğini bildirmiştir."
+    },
+    {
+      "id": 105,
+      "narrator": "Ali reported:",
+      "text": "Ali, Peygamber'in (ﷺ) bana bu (işaret parmağı) veya ona yakın olan parmağımda yüzük takmamı yasakladığını bildirmiştir. 'Asim (nakil zincirindeki bir ravidir) hangi iki parmağı işaret ettiğini hatırlamadığını söylemiştir; ve Qassi kumaş (ipek giysileri) giymeyi, ipek eyer örtüsünde oturmayı yasaklamıştır. Ve şöyle demiştir: Qassi, Mısır ve Suriye'den getirilen ve üzerinde figürler bulunan bir çeşit desenli giysidir; Mayathir ise, kadınların kocaları için eyerleri için hazırladığı kırmızı örtülerdir."
+    },
+    {
+      "id": 106,
+      "narrator": "",
+      "text": "Bu hadis, 'Ali'nin farklı bir rivayet zinciri aracılığıyla bildirdiği şekilde aktarılmıştır."
+    },
+    {
+      "id": 107,
+      "narrator": "",
+      "text": "'Ali b. Ebu Talib, O'nun (Allah'ın Elçisi) bana yasakladığını veya yasakladığını bildirmiştir. Hadisin geri kalanı aynıdır."
+    },
+    {
+      "id": 108,
+      "narrator": "'Ali reported:",
+      "text": "'Ali bildirdi: Allah'ın Elçisi (ﷺ) bana bu ve şu parmağımda yüzük takmamı yasakladı ve orta parmağı ile yanındakini işaret etti."
+    },
+    {
+      "id": 109,
+      "narrator": "Jabir reported:",
+      "text": "Cabir bildirdi: Allah'ın Elçisi (ﷺ) bizim de katıldığımız bir sefer sırasında şöyle diyordu: Sandalet giymeyi genel bir uygulama haline getirin, çünkü bir adam sandalet giydiğinde sanki biniyormuş gibidir."
+    },
+    {
+      "id": 110,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Ebu Hureyre, Allah'ın Elçisi (ﷺ) şöyle derken bildirdi: \"Sizden biri sandalet giydiğinde önce sağ ayağını giymeli, çıkarırken de önce sol ayağını çıkarmalıdır. Ve her ikisini de giymeli veya her ikisini de çıkarmalıdır.\""
+    },
+    {
+      "id": 111,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Ebu Hureyre, Allah'ın Elçisi (ﷺ) şöyle derken bildirdi: Sizden hiçbiri bir sandaletle yürümesin; ya ikisini de giymeli ya da ikisini de çıkarmalıdır."
+    },
+    {
+      "id": 112,
+      "narrator": "Abu Razin reported:",
+      "text": "Ebu Razin bildirdi: Ebu Hureyre bize geldi ve alnına elini vurdu ve dedi ki: \"Bakın, siz kendinize konuşuyorsunuz ki ben Allah'ın Elçisi'ne (ﷺ) yanlış atıfta bulunuyorum (bazı şeyler) sizi doğru yola yönlendirmek için. Böyle bir durumda ben de sapıtırım. Dinleyin. Allah'ın Elçisi'nin (ﷺ) şöyle dediğine şahitlik ediyorum: Sizden birinin ipi koptuğunda, onu tamir ettirmeden ikinci sandaletle yürümemelidir.\""
+    },
+    {
+      "id": 113,
+      "narrator": "",
+      "text": "Bu hadis, Ebu Hureyre'nin farklı bir rivayet zinciri aracılığıyla aktarılmıştır."
+    },
+    {
+      "id": 114,
+      "narrator": "",
+      "text": "Cabir bildirdi ki, Allah'ın Elçisi (ﷺ) bir adamın sol eliyle yemesini, bir sandaletle yürümesini veya kolları için hiç açılma bırakmadan tamamen sarınmasını veya otururken dizlerinin etrafında tek bir giysi ile desteklenmesini yasakladı; bu, özel bölgelerini açığa çıkarabilir."
+    },
+    {
+      "id": 115,
+      "narrator": "Jabir reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Cabir, Allah'ın Elçisi (ﷺ) şöyle derken bildirdi: Sizden birinin ayakkabısının ipi koptuğunda, onu tamir ettirmeden bir sandaletle yürümemeli, bir ayakkabı ile yürümemeli, sol eliyle yememeli ve giysisini dizlerinin etrafında sarmamalı veya tamamen sarınmamalıdır; kollar için hiç yer bırakmamalıdır."
+    },
+    {
+      "id": 116,
+      "narrator": "",
+      "text": "Cabir bildirdi ki, Allah'ın Elçisi (ﷺ) tamamen sarınmayı, kollar için hiç yer bırakmamayı ve otururken dizlerinin etrafında tek bir giysi ile desteklenmeyi yasakladı; bir kişi sırt üstü yatarak bir ayağını diğerinin üzerine koymamalıdır."
+    },
+    {
+      "id": 117,
+      "narrator": "Jabir. b. Abdullah reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Cabir b. Abdullah, Allah'ın Elçisi (ﷺ) şöyle derken bildirdi: Bir sandaletle yürümeyin, alt giysiyi dizlerinizin etrafında sarmayın, sol elinizle yemeyin, tamamen sarınmayın ve kollar için hiç yer bırakmayın; sırt üstü yatarak bir ayağınızı diğerinin üzerine koymayın."
+    },
+    {
+      "id": 118,
+      "narrator": "Jalbir b. Abdullah reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Cabir b. Abdullah, Allah'ın Elçisi (ﷺ) şöyle derken bildirdi: Sizden hiçbiri sırt üstü yatıp bir ayağını diğerinin üzerine koymasın."
+    },
+    {
+      "id": 119,
+      "narrator": "",
+      "text": "'Abbad b. Tamim, amcasından Allah'ın Elçisi (ﷺ) mescitte yatarak bir ayağını diğerinin üzerine koyduğunu gördüğünü bildirdi."
+    },
+    {
+      "id": 120,
+      "narrator": "",
+      "text": "Bu hadis, Zuhri'nin aynı rivayet zinciri aracılığıyla aktarılmıştır."
+    },
+    {
+      "id": 121,
+      "narrator": "",
+      "text": "Anas b. Malik, Allah'ın Elçisi'nin (ona selam olsun) safran rengiyle (kıyafet veya saç) boyamayı yasakladığını bildirmiştir. Hammad, bunun sadece erkekler için geçerli olduğunu söylemiştir."
+    },
+    {
+      "id": 122,
+      "narrator": "",
+      "text": "Anas, Allah'ın Elçisi'nin (ﷺ) bir kişinin safran rengiyle boyanmış kıyafetler giymesini yasakladığını bildirmiştir."
+    },
+    {
+      "id": 123,
+      "narrator": "",
+      "text": "Jabir, Abu Qubafa'nın (Ebu Bekir'in babası) Fetih yılı veya Fetih Günü'nde (Peygamber'e biat etmek için) geldiğinde başının ve sakalının kekik gibi beyaz olduğunu bildirmiştir. O (Peygamber) kadınlara, bunun bir şeyle değiştirilmesi gerektiğini emretmiştir (saçının renginin değiştirilmesi gerektiğini)."
+    },
+    {
+      "id": 124,
+      "narrator": "Jabir b. 'Abdullah reported that Abu Qubafa was led (to the andience of the Holy Prophet) on the day of the Conquest of Mecca and his head and beard were white like hyssop, whereupon Allah's Messenger (ﷺ) said:",
+      "text": "Jabir b. 'Abdullah, Abu Qubafa'nın Mekke'nin Fethi günü (Peygamber'in huzuruna) getirildiğini ve başı ile sakalının kekik gibi beyaz olduğunu bildirmiştir. Bunun üzerine Allah'ın Elçisi (ﷺ) şöyle demiştir: \"Bunu bir şeyle değiştirin ama siyah renkten kaçının.\""
+    },
+    {
+      "id": 125,
+      "narrator": "Abu Horaira reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Ebu Hureyre, Allah'ın Elçisi'nin (ﷺ) şöyle söylediğini bildirmiştir: \"Yahudiler ve Hristiyanlar saçlarını boyamazlar, bu yüzden onlara karşı çıkın.\""
+    },
+    {
+      "id": 126,
+      "narrator": "A'isha reported that Gabriel (peace be upon him) made a promise with Allah's Messenger (ﷺ) to come at a definite hour; that hour came but he did not visit him. And there was in his hand (in the hand of Allah's Apostle) a staff. He threw it from his hand and said:",
+      "text": "A'işe, Cebrail'in (ona selam olsun) Allah'ın Elçisi'ne (ﷺ) belirli bir saatte geleceğine dair söz verdiğini, o saatin geldiğini ancak onun kendisini ziyaret etmediğini bildirmiştir. Allah'ın Elçisi'nin elinde bir asa vardı. Onu elinden fırlatıp şöyle demiştir: \"Allah ya da O'nun elçileri (melekleri) asla sözlerini bozmazlar.\" Sonra bir bakış attı ve tesadüfen yatağının altında bir yavru köpek buldu ve şöyle dedi: \"A'işe, bu köpek buraya ne zaman girdi?\" O da: \"Vallahi, bilmiyorum.\" dedi. Sonra emretti ve köpek dışarı çıkarıldı. Cebrail geldiğinde Allah'ın Elçisi (ﷺ) ona: \"Bana söz vermiştin ve seni bekledim, ama gelmedin.\" dedi. Cebrail: \"Evinde bulunan köpek beni engelledi, çünkü biz (melekler) içinde köpek veya resim bulunan bir eve girmeyiz.\" dedi."
+    },
+    {
+      "id": 127,
+      "narrator": "",
+      "text": "Bu hadisin, Cebrail'in Allah'ın Elçisi'ne (ﷺ) geleceğine dair söz verdiği aynı nakil zinciriyle Ebu Hazim aracılığıyla rivayet edildiği bildirilmiştir; hadisin geri kalanı aynıdır, ancak diğerinden daha kısa değildir."
+    },
+    {
+      "id": 128,
+      "narrator": "Maimuna reported that one morning Allah's Messenger (ﷺ) was silent with grief. Maimuna said:",
+      "text": "Maimuna, bir sabah Allah'ın Elçisi'nin (ﷺ) kederle sessiz olduğunu bildirmiştir. Maimuna: \"Allah'ın Elçisi, bugün ruh halinizde bir değişiklik hissediyorum.\" dedi. Allah'ın Elçisi (ﷺ): \"Cebrail bana bu gece benimle buluşacağına dair söz vermişti, ama benimle buluşmadı. Vallahi, o asla sözlerini bozmaz.\" dedi ve Allah'ın Elçisi (ﷺ) bu hüzünlü ruh haliyle günü geçirdi. Sonra aklına, yataklarının altında bir yavru köpek olduğu geldi. Emretti ve köpek dışarı çıkarıldı. Sonra eline biraz su alıp o yere serpti. Akşam olduğunda Cebrail onunla buluştu ve ona: \"Bana bir önceki gece buluşacağımıza dair söz vermiştin.\" dedi. Cebrail: \"Evet, ama biz içinde köpek veya resim bulunan bir eve girmeyiz.\" dedi. O sabah, köpeklerin öldürülmesini emretti, ta ki bahçeler için beslenen köpeklerin de öldürülmesi gerektiğini duyurana kadar, ancak geniş tarlaların (veya büyük bahçelerin) korunması için beslenen köpeği bağışladı."
+    },
+    {
+      "id": 129,
+      "narrator": "Abu Talha reported Allah's Apostle (ﷺ) having said:",
+      "text": "Ebu Talha, Allah'ın Elçisi'nin (ﷺ) şöyle dediğini bildirmiştir: \"Melekler, içinde köpek veya resim bulunan bir eve girmezler.\""
+    },
+    {
+      "id": 130,
+      "narrator": "Abu Talha reported:",
+      "text": "Ebu Talha, Allah'ın Elçisi'nin (ﷺ) şöyle dediğini duyduğunu bildirmiştir: \"Melekler, içinde köpek veya heykel bulunan bir eve girmezler.\""
+    },
+    {
+      "id": 131,
+      "narrator": "",
+      "text": "Bu hadisin, aynı nakil zinciriyle Zuhri aracılığıyla rivayet edildiği bildirilmiştir."
+    },
+    {
+      "id": 132,
+      "narrator": "Abu Tilha, the Companion of Allah's Messenger (ﷺ), reported Allah's Messenger (ﷺ) having said:",
+      "text": "Ebu Talha, Allah'ın Elçisi'nin (ﷺ) şöyle dediğini bildirmiştir: \"Şüphesiz, melekler, içinde resim bulunan bir eve girmezler.\" Busr, Zaid'in hastalandığını ve onun sağlığını sormak için gittiğimizi ve kapısında resim bulunan bir perde asılı olduğunu bildirmiştir. Maimuna'nın koruması altında bulunan 'Ubaidullah Khaulani'ye: \"Zaid, bize (resimlerle ilgili Peygamber'in emrini) daha önce bildirmedi mi?\" dedim. 'Ubaidullah: \"O aslında bunu yaptı (ama ayrıca şöyle de dedi): 'Kumaş üzerindeki izler hariç.'\" dedi."
+    },
+    {
+      "id": 133,
+      "narrator": "Abu Talha reported that Allah's Messenger (ﷺ) said:",
+      "text": "Ebu Talha, Allah'ın Elçisi'nin (ﷺ) şöyle dediğini bildirmiştir: \"Melekler, içinde resim bulunan bir eve girmezler.\" Busr: \"Zaid b. Halid hastalandı ve biz ona sağlığını sormak için gittik. Onun evinde (bir perde gördük) üzerinde resimler vardı. 'Ubaidullah Khaulani'ye: \"Bize (resimlerle ilgili Peygamber'in emrini) anlatmadı mı?\" dedim. O da: \"Aslında bunu yaptı (ama ayrıca şöyle de dedi): 'Kumaş üzerindeki izler hariç.' Bunu duymadın mı?\" dedi. Ben de: \"Hayır,\" dedim, o da: \"Aslında bunu da bahsetmişti.\" dedi."
+    },
+    {
+      "id": 134,
+      "narrator": "Abu Talha Ansari reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Ebu Talha Ensari, Allah'ın Elçisi'nin (ﷺ) şöyle dediğini bildirmiştir: \"Melekler, içinde resim veya portre bulunan bir eve girmezler.\" 'A'işe'ye geldim ve ona: \"Bu, Allah'ın Elçisi'nin (ﷺ) resim veya köpek bulunan bir eve girmediğine dair söylediği bir haber.\" dedim. (Daha sonra) Allah'ın Elçisi'nin (ﷺ) bunu anıp anmadığını sordum. O da: \"Hayır (bunu kendim duymadım), ama gördüğüm bir şeyi sana naklediyorum.\" dedi. \"Ben, onun bir sefere çıktığını biliyorum. Bir halı aldım ve kapıyı onunla kapattım. O (Peygamber) geri döndüğünde o halıyı gördü ve yüzünde hoşnutsuzluk belirtileri gördüm. Onu çekti ve ya yırtıldı ya da parçalara ayrıldı ve şöyle dedi: 'Allah, bize taşları ve toprağı örtmemizi emretmedi.' Onu (perdeyi) kestik ve iki yastık yaptık, hurma lifleriyle doldurduk ve o (Peygamber) buna bir itirazda bulunmadı.\""
+    },
+    {
+      "id": 135,
+      "narrator": "A'isha reported:",
+      "text": "A'işe, \"Bizimle birlikte üzerinde kuş resimleri olan bir perde vardı. Herhangi bir ziyaretçi geldiğinde, onları önünde buluyordu. Bunun üzerine Allah'ın Elçisi (ﷺ) bana: 'Onları değiştir, çünkü odaya girdiğimde onları görüyorum ve bu, bana dünya hayatının zevklerini hatırlatıyor.' dedi. O da: 'Bizimle birlikte ipek rozeti olan bir örtü vardı ve onu giyiyorduk.' Bu hadisin İbn Muthanna aracılığıyla nakledildiği ancak şu eklemeyle: 'Allah'ın Elçisi (ﷺ) bunu yırtmamızı emretmedi.' şeklinde olduğu bildirilmiştir.\""
+    },
+    {
+      "id": 136,
+      "narrator": "A'isha reported:",
+      "text": "A'işe, Allah'ın Elçisi (ﷺ) yolculuktan döndüğünde, kapımı kanatlı atların resimleri olan bir perdeyle örtmüştüm. O, bana emretti ve ben onu çekip aldım."
+    },
+    {
+      "id": 137,
+      "narrator": "",
+      "text": "Bu hadis, Waki' aracılığıyla aynı isnat zinciriyle ancak kelime farklılığı ile nakledilmiştir."
+    },
+    {
+      "id": 138,
+      "narrator": "A'isha reported that Allah's Messenger (ﷺ) entered (my apartment) and I had hung (on the door of my apartment) a thin curtain having pictures on it. The colour of his face underwent a change. He then took hold of that curtain and tore it and then said:",
+      "text": "A'işe, Allah'ın Elçisi (ﷺ) içeri girdiğinde, kapımda resimleri olan ince bir perde asılıydı. Yüzünün rengi değişti. Sonra o perdenin kenarını tuttu ve yırtarak şöyle dedi: Kıyamet Günü'nde insanların en şiddetli azabı, Allah'ı yaratma eyleminde taklit etmeye çalışanlar için olacaktır."
+    },
+    {
+      "id": 139,
+      "narrator": "This hadith has been narrated on the authority of A'isha through another chain of transmitters but with a slight variation of wording (and the variation is that the narrator is reported to have said):",
+      "text": "Bu hadis, A'işe'den başka bir isnat zinciriyle ancak kelime farklılığı ile nakledilmiştir (ve farklılık, rivayet edenin şöyle dediği yönündedir): O (Peygamber) o perdeye yöneldi ve el ile yırttı."
+    },
+    {
+      "id": 140,
+      "narrator": "",
+      "text": "Bu hadis, Zuhri aracılığıyla aynı isnat zinciriyle ancak kelime farklılığı ile nakledilmiştir."
+    },
+    {
+      "id": 141,
+      "narrator": "A'isha reported:",
+      "text": "A'işe, Allah'ın Elçisi (ﷺ) beni ziyaret ettiğinde, ince bir örtüyle kaplı bir rafım vardı ve üzerinde resimler vardı. O, onu görünce yırttı ve yüzünün rengi değişti ve şöyle dedi: A'işe, Kıyamet Günü'nde Allah'ın Eli'nden en şiddetli azap, O'nun yaratma eyleminde taklit edenler için olacaktır. A'işe dedi ki: Biz onu parçalara ayırdık ve ondan bir veya iki yastık yaptık."
+    },
+    {
+      "id": 142,
+      "narrator": "A'isha reported she had a cloth havinc, pictures upon it and it was hanging upon the shelf and Allah's Messenger (ﷺ) said:",
+      "text": "A'işe, üzerinde resimler bulunan bir örtüye sahip olduğunu ve bunun rafta asılı olduğunu bildirdi. Allah'ın Elçisi (ﷺ) dedi ki: Bunu (gözümden) al, ben de onu kaldırdım ve ondan yastıklar yaptım."
+    },
+    {
+      "id": 143,
+      "narrator": "",
+      "text": "Bu hadis, Şu'ba aracılığıyla aynı isnat zinciriyle nakledilmiştir."
+    },
+    {
+      "id": 144,
+      "narrator": "A'isha reported:",
+      "text": "A'işe, Allah'ın Elçisi (ﷺ) beni ziyaret ettiğinde, kapımı resimleri olan bir halıyla örtmüştüm. O, onu kaldırdı ve ondan yastıklar yaptık."
+    },
+    {
+      "id": 145,
+      "narrator": "A'isha, the wife of Allah's Messenger (ﷺ), reported that she had hung a curtain which had pictures upon it. Allah's Messenger (ﷺ) entered (the room) and he pulled it. A'isha said:",
+      "text": "A'işe, Allah'ın Elçisi (ﷺ) resimleri olan bir perde asmıştı. Allah'ın Elçisi (ﷺ) odaya girdi ve onu çekti. A'işe dedi ki: Sonra ben onu yırttım ve ondan iki yastık hazırladım. O sırada orada bulunan ve adı Rabi'a b. 'Ata olan Banu Zuhra'nın freedman'ı şöyle sordu: A'işe'nin, Allah'ın Elçisi (ﷺ) ile ilgili olarak yastıkların üzerine yaslandığını duyduğunu işittin mi? İbn el-Kasım dedi ki: Hayır, ama Kasımb. Muhammed'in bunu söylediğini duydum."
+    },
+    {
+      "id": 146,
+      "narrator": "A'isha reported that she bought a carpet which had pictures on it. When Allah's Messenger (ﷺ) saw that, he stayed at the door and did not get in. I perceived or I was made to perceive upon his face signs of disgust. She said:",
+      "text": "A'işe, üzerinde resimler bulunan bir halı satın aldığını bildirdi. Allah'ın Elçisi (ﷺ) onu görünce kapıda durdu ve içeri girmedi. Yüzünde tiksinti belirtileri gördüm ya da bana öyle gösterildi. O, dedi ki: Allah'ın Elçisi, ben Allah'a ve Elçisine tövbe ediyorum. (Ama bana) hangi günahı işledim? Bunun üzerine Allah'ın Elçisi (ﷺ) dedi ki: Bu halı nedir? O, dedi ki: Ben bunu senin üzerine oturman ve dinlenmen için aldım. Bunun üzerine Allah'ın Elçisi (ﷺ) dedi: Bu resimlerin sahipleri azap görecekler ve yarattıkları şeylere can vermeleri istenecek. Sonra dedi ki: Resim bulunan eve melekler girmemektedir."
+    },
+    {
+      "id": 147,
+      "narrator": "This hadith has been narrated on the authority of A'isha through another chain of transmitters also. Some of the other ahadith narrated through other chains of transmitters are more complete and there is an addition in them (transmitted through other chains of transmitters). In the hadith transmitted on the authority of the nephew of Majishun she (A'isha) is reported to have said:",
+      "text": "Bu hadis, A'işe'den başka bir isnat zinciriyle de nakledilmiştir. Diğer isnat zincirleriyle nakledilen bazı diğer hadisler daha kapsamlıdır ve onlarda bir ek vardır (başka isnat zincirleriyle nakledilmiştir). Majishun'un yeğeni aracılığıyla nakledilen hadiste, A'işe'nin şöyle dediği bildirilmiştir: Onu aldım ve ondan iki yastık hazırladım ve o (Peygamber) evde onlara yaslanıyordu."
+    },
+    {
+      "id": 148,
+      "narrator": "Ibn 'Umar reported Allah's Messenger (ﷺ) having said:",
+      "text": "İbn 'Umar, Allah'ın Elçisi (ﷺ) şöyle dediğini bildirdi: Resim yapanlar Kıyamet Günü'nde cezalandırılacaklar ve onlara denilecek ki: Yarattığınız şeye ruh verin."
+    },
+    {
+      "id": 149,
+      "narrator": "",
+      "text": "İbn 'Umar, başka bir isnat zinciriyle bu şekilde bir hadis nakletmiştir."
+    },
+    {
+      "id": 150,
+      "narrator": "'Abdullah reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Abdullah, Allah'ın Elçisi (ﷺ) şöyle dediğini bildirdi: Kıyamet Günü'nde en şiddetli azap görecek olanlar, resim yapanlardır. Ashajj (rivayet edenlerden biri) bu hadiste \"şüphesiz\" kelimesini anmamıştır."
+    },
+    {
+      "id": 151,
+      "narrator": "This hadith has been reported on the authority of Abu Mu`awiya through another chain of transmitters (and the words are):",
+      "text": "Bu hadis, Abu Mu`awiya'nın rivayetiyle başka bir nakil zincirinden bildirilmiştir (ve sözler şunlardır): \"Şüphesiz, Kıyamet Günü Cehennem halkı arasında en çok azap çekecek olanlar resim yapanlardır.\" Hadisin geri kalanı aynıdır."
+    },
+    {
+      "id": 152,
+      "narrator": "Muslim b. Subaih reported:",
+      "text": "Muslim b. Subaih bildirdi: Masruq ile birlikte, Meryem'in (hadrat Meryem) tasvirlerinin bulunduğu bir evdeydim. Bunun üzerine Masruq dedi ki: Bunlar Kisra'nın portreleridir. Ben de: Hayır, bunlar Meryem'inkidir dedim. Masruq dedi ki: Abdullah b. Mes'ud'un Allah'ın Elçisi (ﷺ) şöyle dediğini işittim: Kıyamet Günü en çok azap çekecek olanlar resim yapanlardır. (Muslim dedi ki): Ben bunu Nasr b. Ali at-Jahdami'nin önünde okudum ve o da diğer ravilerin önünde okudu, en sonuncusu ise İbn Sa'id b. Abl at Hasan'dır. Bir kişi İbn Abbas'a geldi ve: Ben resim yapan kişiyim; bunlar hakkında bana bir dini hüküm ver dedim. İbn Abbas ona: Yaklaş bana (daha da) dedi. O, o kadar yaklaştı ki, elini başına koydu ve: Sana Allah'ın Elçisi'nden (ﷺ) duyduğumu anlatacağım. Onun şöyle dediğini işittim: Resim yapan herkes Cehennem ateşinde olacaktır. Onun hazırladığı her resme ruh üflenecek ve bu, onu Cehennem'de azap edecektir. İbn Abbas dedi ki: Eğer bunu yapacaksan, ağaçların ve cansız şeylerin resimlerini yap. Ve Nasr b. Ali bunu doğruladı."
+    },
+    {
+      "id": 153,
+      "narrator": "Anas b. Malik said:",
+      "text": "Anas b. Malik dedi ki: İbn Abbas ile oturuyordum, o dini hükümler veriyordu ama bunun Allah'ın Elçisi (ﷺ) tarafından söylendiğini söylemedi. Ancak bir adam ona (İbn Abbas): Ben bu resimlerin ressamıyım dedi. İbn Abbas dedi ki: Allah'ın Elçisi'nden (ﷺ) işittim ki: Dünyada resim yapan, Kıyamet Günü onlara ruh üflemeye zorlanacaktır, ama ruh üfleyemeyecektir."
+    },
+    {
+      "id": 154,
+      "narrator": "",
+      "text": "Nadr b. Anas bildirdi ki, bir kişi İbn Abbas'a geldi ve (yukarıda belirtilen hadisi) Allah'ın Elçisi'nden (ﷺ) aktardı."
+    },
+    {
+      "id": 155,
+      "narrator": "Abu Zur'a reported:",
+      "text": "Abu Zur'a bildirdi: Abu Huraira ile birlikte Marwan'ın evini ziyaret ettim ve orada resimler buldu. Bunun üzerine şöyle dedi: Allah'ın Elçisi'nden (ﷺ) işittim ki: Allah, Celil ve Yüce, şöyle dedi: Benim yaratışıma benzer bir yaratış yapmaya çalışan kimseye daha zalim kimdir? O, bir atom veya bir buğday tanesi veya arpa tanesi yaratmaya çalışsın. Bu hadis, Abu Zur'a'nın rivayetiyle aktarılmıştır ve o şöyle dedi: Abu Huraira, Medine'de inşa ettikleri Sa'ld veya Marwan'ın evine gitti ve orada resim yapan bir ressam gördü, bunun üzerine Allah'ın Elçisi (ﷺ) şöyle dedi ama \"arpa tanesini yaratmaya çalışsın\" sözlerini anmadı."
+    },
+    {
+      "id": 156,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Abu Huraira, Allah'ın Elçisi (ﷺ) şöyle dediğini bildirdi: Melekler, içinde tasvir veya resim bulunan eve girmezler."
+    },
+    {
+      "id": 157,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Abu Huraira, Allah'ın Elçisi (ﷺ) şöyle dediğini bildirdi: Melekler, yanlarında bir köpek ve bir çan bulunan yolculara eşlik etmezler."
+    },
+    {
+      "id": 158,
+      "narrator": "",
+      "text": "Bu hadis, Suhail'in aynı nakil zincirinden bildirildiği gibi aktarılmıştır."
+    },
+    {
+      "id": 159,
+      "narrator": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:",
+      "text": "Abu Huraira, Allah'ın Elçisi (ﷺ) şöyle dediğini bildirdi: Çan, şeytanın müzik aletidir."
+    },
+    {
+      "id": 160,
+      "narrator": "Abu Bashir Ansari reported that he had had (the opportunity of accompanying Allah's Messenger (ﷺ) in some of his journeys. Allah's Messenger (ﷺ) sent one of his messengers 'Abdullah b Abi Bakr said:",
+      "text": "Abu Bashir Ansari, Allah'ın Elçisi (ﷺ) ile bazı seferlerinde birlikte olma fırsatını bulduğunu bildirdi. Allah'ın Elçisi (ﷺ) bir elçisini gönderdi, Abdullah b. Ebu Bekir dedi ki: İnsanlar dinlenme yerlerinde iken bu sözleri söylediğini düşünüyorum: Develerin boynunda hiçbir ip bırakılmasın veya ip koparılmasın. İmam Malik dedi ki: Bu uygulamanın, develeri veya hayvanları kötü gözden korumak amacıyla yapıldığına inanıyorum."
+    },
+    {
+      "id": 161,
+      "narrator": "",
+      "text": "Jabir, Allah'ın Elçisi (ﷺ) hayvanların yüzüne vurulmasını veya yüzüne dağlama yapılmasını yasakladığını bildirdi."
+    },
+    {
+      "id": 162,
+      "narrator": "",
+      "text": "Bu hadis, Jabir b. Abdullah'ın başka bir nakil zinciriyle aktarılmıştır."
+    },
+    {
+      "id": 163,
+      "narrator": "Jabir reported that there happened to pass before Allah's Apostle (ﷺ) an ass the face of which had been cauterised, whereupon he said:",
+      "text": "Jabir, Allah'ın Elçisi (ﷺ) önünden yüzü dağlanmış bir eşeğin geçtiğini bildirdi, bunun üzerine şöyle dedi: Allah, onu (yüzünden) dağlayan kişiyi lanetlesin."
+    },
+    {
+      "id": 164,
+      "narrator": "Ibn Abbas reported that Allah's Messenger (ﷺ) saw an ass which had been cauterised on the face. He disapproved of it saying:",
+      "text": "İbn Abbas, Allah'ın Elçisi (ﷺ) yüzü dağlanmış bir eşeği gördüğünü bildirdi. Bunu hoş karşılamadı ve şöyle dedi: Allah'a yemin ederim ki, ben (hayvanı) yüzünden değil, yüzünden uzakta bir yerden dağlarım ve eşeğini dağlatmayı emretti ve o, kalçasından dağlatıldı ve kalçasından dağlama yapan ilk kişi oldu."
+    },
+    {
+      "id": 165,
+      "narrator": "Anas reported that Umm Sulaim gave birth to a child. She said to him:",
+      "text": "Anas, Ümmü Süleym'in bir çocuk doğurduğunu bildirdi. Ona: Anas, bu çocuğa sabah Allah'ın Elçisi'ne (ﷺ) getirilene kadar hiçbir şey verilmesin, böylece biraz hurma çiğneyip damaklarına dokunsun dedim. Sabah ona gittim ve o, o sırada bahçedeydi, üzerinde Jauniyya örtüsü vardı ve kendisine (düşman üzerindeki zaferle) getirilen develeri dağlama ile meşguldü."
+    },
+    {
+      "id": 166,
+      "narrator": "Anas reported that when his mother gave birth to a child they brought that child to Allah's Messenger (ﷺ) so that he might chew some dates and touch his palate with them. and Allah's Apostle (ﷺ) was at that time in the fold busy in cauterising the animals Shu'ba said:",
+      "text": "Anas, annesinin bir çocuk doğurduğunda, o çocuğu Allah'ın Elçisi'ne (ﷺ) getirdiklerini, onun bazı hurmaları çiğneyip, bunlarla çocuğun damağını temas ettirdiğini bildirmiştir. O sırada Allah'ın Elçisi (ﷺ) hayvanları koterize etmekle meşguldü. Şu'ba dedi ki: Bildiğim kadarıyla (koterize ediyordu) onların kulaklarını."
+    },
+    {
+      "id": 167,
+      "narrator": "Anas reported:",
+      "text": "Anas bildirdi: Allah'ın Elçisi'ne (ﷺ) gittiğimizde, o ahırdaydı ve sürünün hayvanlarını koterize ediyordu ve sanırım (onları) kulaklarından koterize ediyordu. Bu hadisi Şu'ba'nın başka bir nakil zinciriyle aktardığı bildirilmiştir."
+    },
+    {
+      "id": 168,
+      "narrator": "Anas b. Malik reported:",
+      "text": "Anas b. Malik bildirdi: Allah'ın Elçisi'nin (ﷺ) elinde bir koterizasyon aleti gördüm ve Zekat olarak toplanan caracia'yı koterize ediyordu."
+    },
+    {
+      "id": 169,
+      "narrator": "Ibn Umar reported that Allah's Messenger (ﷺ) forbade Qaza. I said to Nafi:",
+      "text": "İbn Ömer, Allah'ın Elçisi'nin (ﷺ) Qaza'yı yasakladığını bildirdi. Ben Nafi'ye dedim: Qaza nedir? O da: Bu, bir çocuğun başının bir kısmının traş edilip, diğer kısmının traş edilmemesi anlamına gelir, dedi."
+    },
+    {
+      "id": 170,
+      "narrator": "",
+      "text": "Bu hadis 'Ubaidullah'ın nakliyle aynı nakil zinciriyle bildirilmiştir ve Qaza'nın açıklaması Abu Usama'nınkiyle aynıdır."
+    },
+    {
+      "id": 171,
+      "narrator": "",
+      "text": "Bu hadis 'Umar b. Nafi' aracılığıyla aynı nakil zinciriyle aktarılmıştır ve Muhammad b. Muthanna ile 'Umar b. Nafi, kendi rivayetlerinde Qaza kelimesinin açıklamasını aynı şekilde vermişlerdir."
+    },
+    {
+      "id": 172,
+      "narrator": "",
+      "text": "Bu hadis İbn Ömer aracılığıyla başka bir nakil zinciriyle aktarılmıştır."
+    },
+    {
+      "id": 173,
+      "narrator": "Abu Sa'id Al-Khudri reported Allah's Apostle (ﷺ) as saying:",
+      "text": "Abu Sa'id Al-Hudri, Allah'ın Elçisi'nin (ﷺ) şöyle söylediğini bildirdi: Yollar üzerinde oturmaktan kaçının. Onlar (ashabları) dediler ki: Allah'ın Elçisi, başka bir çare yok (oturmaktan başka) çünkü orada toplantılar yapıyoruz ve meseleleri tartışıyoruz. Bunun üzerine Allah'ın Elçisi (ﷺ) dedi ki: Eğer oturmak zorundaysanız, yolun haklarını yerine getirin. Onlar dediler ki: Hakları nelerdir? Bunun üzerine o dedi ki: Gözleri aşağıda tutmak (kadınlara bakmamak için), başkalarına zarar vermekten kaçınmak ve karşılıklı selamlaşmak (birbirinize as-Salamu 'Alaikum demek) ve iyiliği emretmek ve kötülükten men etmek."
+    },
+    {
+      "id": 174,
+      "narrator": "",
+      "text": "Bu hadis Zaid b. Aslam aracılığıyla aynı nakil zinciriyle bildirilmiştir."
+    },
+    {
+      "id": 175,
+      "narrator": "Asma', daughter of Abu Bakr, reported that a woman came to Allah's Apostle (ﷺ) and said:",
+      "text": "Asma', Ebu Bekir'in kızı, bir kadının Allah'ın Elçisi'ne (ﷺ) geldiğini ve şöyle dediğini bildirdi: Yeni evlenmiş bir kızım var. Kızım çiçek hastalığı geçirdi ve bu yüzden saçları döküldü; ona sahte saç eklemeli miyim? Bunun üzerine Allah'ın Elçisi (ﷺ) dedi ki: Allah, sahte saç ekleyen kadını ve bunu isteyen kadını lanetlemiştir."
+    },
+    {
+      "id": 176,
+      "narrator": "",
+      "text": "Bu hadis, Shu'ba'nın nakliyle hafif bir kelime değişikliği ile aktarılmıştır."
+    },
+    {
+      "id": 177,
+      "narrator": "Asma', daughter of Abu Bakr, reported that a woman came to Allah's Apostle (ﷺ) and said:",
+      "text": "Asma', Ebu Bekir'in kızı, bir kadının Allah'ın Elçisi'ne (ﷺ) geldiğini ve şöyle dediğini bildirdi: Kızımı evlendirdim (saçları dökülen). Eşi (uzun saçları) seviyor. Allah'ın Elçisi (ﷺ) ona sahte saç eklemeli miyim? Bu konuda ona bunu yapmayı yasakladı."
+    },
+    {
+      "id": 178,
+      "narrator": "",
+      "text": "A'işe, hastalanıp saçlarını kaybeden bir Ensar kızının evlendirildiğini bildirdi. Onlar (akraba) ona sahte saç eklemeyi düşündüler. Bunun üzerine Allah'ın Elçisi'ne (ﷺ) sordular, o da sahte saç ekleyen kadını ve bunu isteyen kadını lanetledi."
+    },
+    {
+      "id": 179,
+      "narrator": "A'isha reported that a woman from the Ansar married her daughter who had lost her hair because of illness. She came to Allah's Apostle (ﷺ) and said:",
+      "text": "A'işe, Ensar'dan bir kadının, hastalık nedeniyle saçlarını kaybeden kızını evlendirdiğini bildirdi. Kadın, Allah'ın Elçisi'ne (ﷺ) geldi ve dedi ki: Kocası, onun başına sahte saç eklenmesini istiyor. Bunun üzerine Allah'ın Elçisi (ﷺ) dedi ki: Sahte saç ekleyen kadın lanetlenmiştir. Bu hadis Nafi' aracılığıyla aynı nakil zinciriyle fakat hafif bir kelime değişikliği ile aktarılmıştır."
+    },
+    {
+      "id": 180,
+      "narrator": "",
+      "text": "İbn Ömer, Allah'ın Elçisi'nin (ﷺ) sahte saç ekleyen kadını ve dövme isteyen kadını lanetlediğini bildirdi. Bu hadis Abdullah aracılığıyla başka bir nakil zinciriyle aktarılmıştır."
+    },
+    {
+      "id": 181,
+      "narrator": "'Abdullah reported that Allah had cursed those women who tattooed and who have themselves tattooed, those who pluck hair from their faces and those who make spaces between their teeth for beautification changing what God has created. This news reached a woman of the tribe of Asad who was called Umm Ya'qub and she used to recite the Holy Qur'an. She came to him and said:",
+      "text": "Abdullah, Allah'ın, dövme yaptıran ve kendisine dövme yaptıran kadınlara, yüzlerinden saçlarını yolan kadınlara ve dişleri arasında güzelleşmek için boşluklar açan kadınlara lanet ettiğini bildirdi. Bu haber, Kur'an-ı Kerim okuyan Umm Ya'qub adındaki Asad kabilesinden bir kadına ulaştı. Kadın ona geldi ve dedi ki: \"Bu, senin tarafında bana ulaşan, dövme yaptıran kadınlara ve kendisine dövme yaptıran kadınlara, yüzlerinden saçlarını yolan kadınlara ve dişleri arasında güzelleşmek için boşluklar açan kadınlara lanet ettiğin nedir?\" Bunun üzerine Abdullah dedi ki: \"Allah'ın Resulü'nün (ﷺ) lanet ettiği birine lanet etmemeli miyim? Bu da Kitap'ta var.\" Bunun üzerine kadın dedi ki: \"Ben Kur'an'ı baştan sona okudum ama bunu içinde bulamadım.\" Abdullah dedi ki: \"Eğer (iyi bir şekilde) okumuş olsaydın, bunu kesinlikle bulurdun; çünkü Yüce ve Glorifike Allah şöyle buyurmuştur: 'Allah'ın Resulü'nün size getirdiğini kabul edin ve yasakladığı şeylerden sakının.'\" Kadın dedi ki: \"Ben bu durumu senin eşinde bile şimdi buluyorum.\" Bunun üzerine Abdullah dedi: \"Git ve onu gör.\" Kadın rapor etti: \"Ben Abdullah'ın eşine gittim ama onda böyle bir şey bulamadım.\" Geri döndüğünde ona dedi: \"Ben hiçbir şey görmedim.\" Abdullah dedi ki: \"Eğer onda böyle bir şey olsaydı, onunla asla aynı yatakta uyumazdım.\""
+    },
+    {
+      "id": 182,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 183,
+      "narrator": "",
+      "text": "Bu hadisin, Mansur'un rivayetiyle aynı isnat zinciriyle ancak kelime değişikliği ile bildirildiği kaydedilmiştir."
+    },
+    {
+      "id": 184,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 185,
+      "narrator": "",
+      "text": "Bu hadis, Umm Ya'qub ile ilgili hikaye olmadan Mansur'un rivayetiyle aktarılmıştır."
+    },
+    {
+      "id": 186,
+      "narrator": "'Abd al-Rahman b. 'Auf said that he heard Mu'awiya b. Abi Sufyin during the season of Hajj, (saying) as he sat upon the pulpit holding a bunch of hair in his hand which was (previously) in the hand of his sentinel:",
+      "text": "---"
+    },
+    {
+      "id": 187,
+      "narrator": "",
+      "text": "Bu hadis, Abdullah'ın rivayetiyle aktarılmıştır."
+    },
+    {
+      "id": 188,
+      "narrator": "Sa'id b. Musayyib reported:",
+      "text": "---"
+    },
+    {
+      "id": 189,
+      "narrator": "Sa, id b. Musayyib reported that Mu'awiya said one day:",
+      "text": "Jabir b. Abdullah, Allah'ın Resulü'nün (ﷺ) bir kadının başına (yapay saç) eklemesini yasakladığını bildirdi."
+    },
+    {
+      "id": 190,
+      "narrator": "AbU Huraira reported Allah's Messenger (ﷺ) having said this:",
+      "text": "---"
+    },
+    {
+      "id": 191,
+      "narrator": "A'isha reported that a woman said:",
+      "text": "Abd al-Rahman b. 'Auf, Hac mevsiminde Mu'aviye b. Abi Sufyan'ın, elinde bir avuç saç tutarak, minberde otururken şöyle dediğini duydu: \"Ey Medineliler, alimleriniz nerede? Ben Allah'ın Resulü'nün (ﷺ) bunu yasakladığını ve Beni İsrail'in kadınlarının böyle saçlar taktığı zaman helak olduğunu söylediğini duydum.\""
+    },
+    {
+      "id": 192,
+      "narrator": "Asma' reported that a woman came to Allah's Apostle (ﷺ) and said:",
+      "text": "---"
+    },
+    {
+      "id": 193,
+      "narrator": "",
+      "text": "Bu hadis, Zuhri'nin rivayetiyle ancak kelime değişikliği ile aktarılmıştır."
+    }
+  ]
+}

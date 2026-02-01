@@ -1,0 +1,41 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 5,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "A’isha said:",
+      "text": "A’işe dedi ki: “Ben, Allah’ın Elçisi’nin (Allah ona salat ve selam eylesin) saçını, hayız halindeyken tarardım.”"
+    },
+    {
+      "id": 2,
+      "narrator": "Anas ibn Malik said:",
+      "text": "Enes ibn Malik dedi ki: “Allah’ın Elçisi (Allah ona salat ve selam eylesin) sık sık başını yağlar ve sakalını tarardı, ayrıca baş örtüsü takmayı da severdi, bu yüzden sanki elbisesi bir yağcı elbisesi gibiydi.”"
+    },
+    {
+      "id": 3,
+      "narrator": "'A’isha said:",
+      "text": "A’işe dedi ki: “Allah’ın Elçisi (Allah ona salat ve selam eylesin) kendini temizlerken tayammumu, saçını tararken taramayı ve ayakkabılarını giyerken de giymeyi severdi.”"
+    },
+    {
+      "id": 4,
+      "narrator": "'Abdullah ibn Mughaffal said:",
+      "text": "Abdullah ibn Mughaffal dedi ki: \"Allah’ın Elçisi (Allah ona salat ve selam eylesin) taramayı, ancak aralıklarla yapmayı yasakladı.”"
+    },
+    {
+      "id": 5,
+      "narrator": "Humaid ibn 'Abd ar-Rahman relates on the authority of a man from among the Companions of the Prophet (Allah bless him and give him peace):",
+      "text": "Hümeyd ibn Abd ar-Rahman, Allah’ın Elçisi’nin (Allah ona salat ve selam eylesin) sahabelerinden bir adamdan rivayet eder: \"Peygamber (Allah ona salat ve selam eylesin) saçını aralıklarla tarardı.”"
+    }
+  ]
+}

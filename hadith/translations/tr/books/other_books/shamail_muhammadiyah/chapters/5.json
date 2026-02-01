@@ -1,0 +1,56 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 8,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Qatada reports that he said:",
+      "text": "Katâde, Anas ibn Malik'e şöyle dediğini rivayet etmiştir: \"Ben, Allah'ın Resulü'nün (Allah ona salat ve selam eylesin) saçlarını boyayıp boyamadığını sordum.\" O da: \"Buna ulaşmadı, çünkü sadece şakaklarını kaplayan saçları beyazladı, ama Ebu Bekir (Allah ondan razı olsun) saçlarını henne ve katam adı verilen bir bitkisel karışımla boyadı.\" diye cevap verdi."
+    },
+    {
+      "id": 2,
+      "narrator": "Anas ibn Malik said:",
+      "text": "Anas ibn Malik şöyle dedi: \"Allah'ın Resulü'nün (Allah ona salat ve selam eylesin) başında ve sakalında sadece on dört beyaz saç saydım.\""
+    },
+    {
+      "id": 3,
+      "narrator": "Jabir ibn Samura was asked about the grayness of Allah’s Messenger (Allah bless him and give him peace), so he said:",
+      "text": "Cabir ibn Semura, Allah'ın Resulü'nün (Allah ona salat ve selam eylesin) beyazlığı hakkında sorulduğunda şöyle dedi: \"O, başını yağladığında hiçbir beyazlık görünmüyordu, yağlamadığında ise biraz görünüyordu.\""
+    },
+    {
+      "id": 4,
+      "narrator": "'Abdullah ibn 'Umar said:",
+      "text": "Abdullah ibn Umar şöyle dedi: \"Allah'ın Resulü'nün (Allah ona salat ve selam eylesin) beyazlığı sadece yirmi beyaz saç kadardı.\""
+    },
+    {
+      "id": 5,
+      "narrator": "Ibn Abbas said:",
+      "text": "İbn Abbas dedi ki: Ebu Bekir şöyle dedi: \"Ey Allah'ın Resulü, sen beyazladın!\" O da: \"Beni Hud (Kur'an; 11), felaket (Kur'an; 56), gönderilen rüzgarlar (Kur'an; 77) beyazlattı. Birbirlerine ne soracaklar?\" (Kur'an; 74) ve \"Güneş devrildiğinde\" (Kur'an; 81) dedi.\""
+    },
+    {
+      "id": 6,
+      "narrator": "Abu Juhaifa said:",
+      "text": "Ebu Cuhayfa şöyle dedi: \"Ey Allah'ın Resulü, senin beyazladığını fark ettik!\" O da: \"Hud ve kardeşleri beni beyazlattı!\" diye cevap verdi."
+    },
+    {
+      "id": 7,
+      "narrator": "Abu’r-Rimtha at-Taimi (the servant of ar-Rabab) said:",
+      "text": "Ebu'r-Rimtha et-Taymi (ar-Rabab'ın hizmetçisi) şöyle dedi: \"Ben, bir oğlumla birlikte Peygamber'e (Allah ona salat ve selam eylesin) geldim. O da: 'Onu bana gösterdiler, ben de onu görünce: 'Bu, Allah'ın Peygamberi (Allah ona salat ve selam eylesin). İki yeşil elbise giymiş, beyazlığı kırmızımsı olan saçları var.' dedim.\""
+    },
+    {
+      "id": 8,
+      "narrator": "Jabir ibn Samura was asked:",
+      "text": "Cabir ibn Semura'ya soruldu: \"Allah'ın Resulü'nün (Allah ona salat ve selam eylesin) başında herhangi bir beyazlık var mıydı?\" O da: \"Allah'ın Resulü'nün (Allah ona salat ve selam eylesin) başında beyazlık yoktu, sadece yağ sürdüğünde görünür hale gelen bazı saçlar vardı.\" diye cevap verdi."
+    }
+  ]
+}

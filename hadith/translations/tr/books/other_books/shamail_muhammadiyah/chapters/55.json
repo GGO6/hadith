@@ -1,0 +1,51 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 7,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "'Amr ibn al-Harith, the brother of Juwairiyya, told us:",
+      "text": "Amr ibn al-Harith, Cüveyriye'nin kardeşi, bize şöyle söyledi: \"Allah'ın Elçisi (Allah ona salat ve selam eylesin) geride sadece silahlarını, dişi katırını ve başkalarına sadaka olarak verdiği bazı arazileri bıraktı.\""
+    },
+    {
+      "id": 2,
+      "narrator": "Abu Huraira said (may Allah be well pleased with him):",
+      "text": "Ebu Hureyre (Allah ondan razı olsun) dedi ki: \"Fatıma, Ebu Bekir'in yanına geldi ve 'Senden kim miras alacak?' dedi. O da: 'Eşlerim ve çocuklarım,' dedi. Bunun üzerine Fatıma: 'Babamdan neden miras almayayım?' dedi. Ebu Bekir: 'Ben Allah'ın Elçisi'nin (Allah ona salat ve selam eylesin) şöyle söylediğini duydum: 'Bizim mirasçımız olunmayacak,' ama ben Allah'ın Elçisi'nin (Allah ona salat ve selam eylesin) desteklediği kimselere destek oluyorum ve Allah'ın Elçisi'nin (Allah ona salat ve selam eylesin) geçindirdiği kimselere de bakıyorum.'\""
+    },
+    {
+      "id": 3,
+      "narrator": "Abu’l-Bakhtari reported:",
+      "text": "Ebu'l-Bakhtari bildirdi: Al-‘Abbas ve 'Ali, 'Umar'ın yanına geldiler ve her biri arkadaşına: \"Sen şunlardansın, sen de şunlardansın!\" diyerek tartıştılar. Bunun üzerine 'Umar, Talha, az-Zübeyr, 'Abd ar-Rahman ibn 'Awf ve Sa'd'a (Allah onlardan razı olsun) dedi ki: \"Sizi Allah'a yemin ettiriyorum, Allah'ın Elçisi'nin (Allah ona salat ve selam eylesin) şöyle söylediğini duydunuz mu: 'Bir Peygamberin her malı sadaka olarak verilir, onu geçindirenler dışında. Bizden kimse miras almayacak!'\" (Bu rivayet daha uzun bir hikayenin parçasıdır.)"
+    },
+    {
+      "id": 4,
+      "narrator": "'A’isha said (may Allah be well pleased with her):",
+      "text": "Aişe (Allah ondan razı olsun) dedi ki: \"Allah'ın Elçisi (Allah ona salat ve selam eylesin) şöyle dedi: 'Biz miras alınmayız. Geride bıraktığımız her şey sadakadır.'\""
+    },
+    {
+      "id": 5,
+      "narrator": "Abu Huraira (may Allah be well pleased with him) reported:",
+      "text": "Ebu Hureyre (Allah ondan razı olsun) bildirdi: \"Peygamber (Allah ona salat ve selam eylesin) şöyle dedi: 'Benim mirasım altın veya gümüş olarak dağıtılmayacak. Eşlerim için destek ve işçim için gerekli olanların dışında bıraktığım her şey sadakadır.'\""
+    },
+    {
+      "id": 6,
+      "narrator": "Malik bin Aws ibn al-Hadtahan said:",
+      "text": "Malik bin Aws ibn al-Hadtahan dedi ki: \"Ben 'Umar'ın huzuruna girdim, ardından 'Abd ar-Rahman ibn 'Awf, Talha ve Sa'd onun huzuruna girdi, 'Ali ve al-'Abbas tartışarak içeri girdiler. Bunun üzerine 'Umar onlara: 'Göklerin ve yerin varlığına izin verenin adıyla yemin ederim ki, Allah'ın Elçisi'nin (Allah ona salat ve selam eylesin) şöyle söylediğini biliyor musunuz: 'Biz miras alınmayız. Geride bıraktığımız her şey sadakadır'?\""
+    },
+    {
+      "id": 7,
+      "narrator": "Zirr ibn Hubaish reports that A’isha said (may Allah be well pleased with her):",
+      "text": "Zirr ibn Hubaish, Aişe'nin (Allah ondan razı olsun) şöyle dediğini bildirdi: \"Allah'ın Elçisi (Allah ona salat ve selam eylesin) geride ne bir altın, ne bir gümüş, ne bir koyun, ne de bir deve bırakmadı.\" Sonra ekledi: \"Ve sanırım o, 'ne de bir erkek ve dişi köle' dedi.\""
+    }
+  ]
+}

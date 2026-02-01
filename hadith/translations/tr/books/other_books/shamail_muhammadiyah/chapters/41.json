@@ -1,0 +1,56 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 8,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Mu'adha said:",
+      "text": "Mu'adh dedi ki: \"A'işe'ye (Allah ondan razı olsun) sordum: “Peygamber (Allah ona salat ve selam eylesin) sabahın ortasında nafile namaz kılardı mı?” O da: “Evet, dört rekat kılardı ve Allah'ın dilediği kadar eklerdi (Aziz ve Celil O'dur).” dedi."
+    },
+    {
+      "id": 2,
+      "narrator": "Anas ibn Maik said:",
+      "text": "Enes ibn Malik dedi ki: “Peygamber (Allah ona salat ve selam eylesin) sabahın ortasında nafile namazı altı rekat kılardı.”"
+    },
+    {
+      "id": 3,
+      "narrator": "'Abd ar-Rahman ibn Abi Laila said:",
+      "text": "Abd ar-Rahman ibn Ebi Leyla dedi ki: “Peygamber (Allah ona salat ve selam eylesin) sabahın ortasında nafile namaz kıldığını gördüğünü hiç kimsenin söylediğini duymadım, sadece Ümmü Hani (Allah ondan razı olsun) bunu söyledi. “O, Allah'ın Elçisi (Allah ona salat ve selam eylesin) fetih günü evine girdiğinde, büyük abdest aldı ve Allah'ı sekiz rekat ile tesbih etti. Onu (Allah ona salat ve selam eylesin) daha kısa bir şekilde nafile namaz kılarken hiç görmedim, o rükûyu tamamlamış olsa bile!”"
+    },
+    {
+      "id": 4,
+      "narrator": "'Abdu’llah ibn Shaqiq said:",
+      "text": "Abdullah ibn Şakik dedi ki: “A'işe'ye (Allah ondan razı olsun) sordum: ‘Peygamber (Allah ona salat ve selam eylesin) sabahın ortasında nafile namaz kılmayı alışkanlık haline getirmiş miydi?’ O da: ‘Hayır, sadece bir yokluktan döndüğünde.’ dedi.”"
+    },
+    {
+      "id": 5,
+      "narrator": "Abi Sa'id al-Khudri said (may Allah the Exalted be well pleased with him):",
+      "text": "Ebu Sa'id el-Hudri dedi ki (Allah ondan razı olsun): \"Peygamber (Allah ona salat ve selam eylesin) sabahın ortasında nafile namazı o kadar sık kılardı ki: “O bunu terk etmez.” derdik, ve o o kadar sık terk ederdi ki: “O bunu kılmaz.” derdik!”"
+    },
+    {
+      "id": 6,
+      "narrator": "Abu Ayyub al-Ansari said (may Allah the Exalted be well pleased with him):",
+      "text": "Ebu Eyyub el-Ensari dedi ki (Allah ondan razı olsun): “Peygamber (Allah ona salat ve selam eylesin) dört rekat nafile namaza mı yönelirdi?” O da: “Evet!” dedi. Ben: “Onlar selam ile ayrılır mı?” dedim. O: “Hayır!” dedi."
+    },
+    {
+      "id": 7,
+      "narrator": "'Abdu’llah ibn as-Sa’ib said:",
+      "text": "Başka bir isnad benzer bir rivayet bildirir."
+    },
+    {
+      "id": 8,
+      "narrator": "‘Ali said:",
+      "text": "Abdullah ibn es-Sa'ib dedi ki: “Allah'ın Elçisi (Allah ona salat ve selam eylesin) öğle namazından önce güneş zirve noktasını geçtikten sonra dört rekat nafile namaz kılardı ve şöyle derdi: 'Bu, cennetin kapılarının açıldığı bir zamandır, bu yüzden o zaman benim için salih bir amelin yükselmesini seviyorum!'”"
+    }
+  ]
+}

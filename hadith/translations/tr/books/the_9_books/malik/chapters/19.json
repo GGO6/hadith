@@ -1,0 +1,106 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 18,
+    "arabic": {
+      "title": "موطأ مالك",
+      "author": "الإمام مالك بن أنس"
+    },
+    "english": {
+      "title": "Muwatta Malik",
+      "author": "Imam Malik ibn Anas"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Ibn Şihab'dan, Urva ibn az-Zubayr'dan, Amra bint Abd ar-Rahman'dan, A'işe'nin, Allah ona rahmet etsin, şöyle dediğini aktardı: \"Allah'ın Resulü, ona salat ve selam olsun, itikafa girdiğinde başını yanıma getirir ve ben de tarardım. Sadece ihtiyacını gidermek için eve girerdi.\""
+    },
+    {
+      "id": 2,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Ibn Şihab'dan, Amra bint Abd ar-Rahman'dan, A'işe'nin itikaf yaparken sadece yürüdüğünde hasta insanlar hakkında sorduğunu, durduğunda sormadığını aktardı."
+    },
+    {
+      "id": 3,
+      "narrator": "",
+      "text": "Malik dedi ki: \"İtikaf yapan bir kişi, üzerine düşen farzları yerine getirmemeli, bunlar için camiden çıkmamalı ve kimseye yardım etmemelidir. Sadece ihtiyacını gidermek için camiden çıkmalıdır. Eğer insanlar için bir şeyler yapmak üzere dışarı çıkabilirse, hasta ziyaretleri, cenaze namazı kılmak ve cenaze alaylarını takip etmek, dışarı çıkması için en çok hak sahibi olan şeylerdir.\""
+    },
+    {
+      "id": 4,
+      "narrator": "",
+      "text": "Malik dedi ki: \"İtikaf yapan bir kişi, itikaf yapan birinin kaçınması gereken şeylerden, yani hasta ziyaretleri, cenaze namazı kılmak ve evlere girmekten kaçınmadıkça itikaf yapmış sayılmaz, sadece ihtiyacını gidermek için evine girmelidir.\""
+    },
+    {
+      "id": 5,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, itikaf yapan birinin ihtiyacını gidermek için bir eve girebilir mi diye Ibn Şihab'a sorduğunu, onun da \"Evet, bunda bir sakınca yok\" dediğini aktardı."
+    },
+    {
+      "id": 6,
+      "narrator": "",
+      "text": "Malik dedi ki: \"Burada hepimizin üzerinde anlaştığı durum, bir camide cuma namazı kılınan bir yerde itikaf yapan kimseye bir sakınca olmadığıdır. Cuma namazı kılınmayan bir camide itikaf yapmanın sakıncalı olduğunu düşündüğüm tek sebep, itikaf yapan kişinin itikaf yaptığı camiden çıkıp cuma namazına gitmek zorunda kalmasıdır. Ancak, eğer o kişi, cuma namazının kılınmadığı bir camide itikaf yapıyorsa ve başka bir camide cuma namazına gitmek zorunda değilse, o zaman orada itikaf yapmasında bir sakınca görmüyorum, çünkü Allah, yüce ve mübarek olan, 'Camilerde itikaf yaparken' der ve tüm camileri genel olarak kasteder, belirli bir tür belirtmez.\""
+    },
+    {
+      "id": 7,
+      "narrator": "",
+      "text": "Malik devam etti: \"Buna göre, eğer bir kişi, cuma namazının kılınmadığı bir camide itikaf yapıyorsa ve oradan çıkıp cuma namazı kılmak zorunda değilse, orada itikaf yapması caizdir.\""
+    },
+    {
+      "id": 8,
+      "narrator": "",
+      "text": "Malik dedi ki: \"İtikaf yapan bir kişi, itikaf yaptığı camide sadece geceyi geçirmelidir, ancak çadırı caminin avlularından birinde ise bu durum farklıdır. İtikaf yapan birinin, caminin kendisi dışında veya caminin avlularında başka bir yerde barınak kurabileceğine dair hiç duymadım.\""
+    },
+    {
+      "id": 9,
+      "narrator": "",
+      "text": "İtikafın camide geçirilmesi gerektiğini gösteren bir diğer şey de A'işe'nin sözü: \"Allah'ın Resulü, ona salat ve selam olsun, itikafa girdiğinde sadece ihtiyacını gidermek için eve girerdi.\" Ayrıca, caminin çatısında veya minarede itikaf yapmamalıdır.\""
+    },
+    {
+      "id": 10,
+      "narrator": "",
+      "text": "Malik dedi ki: \"İtikaf yapacak kişi, itikafına başlamak istediği gecenin akşamı güneş batmadan önce itikaf yapmak istediği yere girmelidir, böylece itikafına başlayacağı gecenin başında hazır olur. İtikaf yapan bir kişi, itikafıyla meşgul olmalı ve onu meşgul edecek diğer şeylere yönelmemelidir, ticaret gibi. Ancak, itikaf yapan birinin, mülküyle veya ailesinin işleriyle ilgili birine bir şey yapmasını istemesinde veya bir malını satmasını istemesinde bir sakınca yoktur; bu, onu doğrudan meşgul etmeyen basit bir mesele ise başkası için düzenleme yapmasında da bir sakınca yoktur.\""
+    },
+    {
+      "id": 11,
+      "narrator": "",
+      "text": "Malik dedi ki: \"İtikafın nasıl yapılacağına dair hiçbir bilgi sahibi olanlardan herhangi bir değişiklik duyduğumu hatırlamıyorum. İtikaf, namaz, oruç, hacc gibi ibadetler gibi bir ibadet eylemidir; farz veya nafile olsun. Bu eylemlerden herhangi birine başlayan kişi, sünnete uygun olarak yapmalıdır. Müslümanların yapmadığı bir şeyle onları değiştirmemelidir; bu, başkalarına dayattığı bir değişiklik olsun veya kendisinin yaptığı bir şey olsun. Allah'ın Resulü, ona salat ve selam olsun, itikaf yaptı ve Müslümanlar itikafın sünnetinin ne olduğunu bilirler.\""
+    },
+    {
+      "id": 12,
+      "narrator": "",
+      "text": "Malik dedi ki: \"İtikaf ve cihâr aynı şeydir ve itikaf, köylü için de göçebe için de aynıdır.\""
+    },
+    {
+      "id": 13,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, al-Qasim ibn Muhammad ve Nafi, Abdullah ibn Umar'ın kölesinin şöyle dediğini duyduğunu aktardı: \"Oruç tutmadıkça itikaf yapamazsınız, çünkü Allah, yüce ve mübarek olan, kitabında şöyle buyuruyor: 'Akşamdan sabaha kadar beyaz ip siyah ipten belirginleşinceye kadar yiyin ve için, sonra geceye kadar orucu tamamlayın ve itikaf yaparken onlarla cinsel ilişkiye girmeyin.' (Bakara 2:187). Allah, itikafı sadece oruçla birlikte anmaktadır.\""
+    },
+    {
+      "id": 14,
+      "narrator": "",
+      "text": "Malik dedi ki: \"Burada bu şekilde hareket ediyoruz.\""
+    },
+    {
+      "id": 15,
+      "narrator": "",
+      "text": "Yahya, Ziyad ibn Abd ar-Rahman'dan, Malik'in, Abu Bakr ibn Abd ar-Rahman'ın bir zaman itikaf yaparken, Khalid ibn Walid'in evinde kapalı bir odada ihtiyacını gidermek için çıktığını, aksi takdirde itikaf yerini terk etmediğini aktardığını duyduğunu söyledi. İtikafını, Müslümanlarla bayram namazı kılmak için gitmeden önce terk etmedi.\""
+    },
+    {
+      "id": 16,
+      "narrator": "",
+      "text": "Ziyad, Malik'ten, o da Nafi'den, o da İbn 'Umar'dan, Allah'ın Resulü'nün, ona Allah'ın salatı ve selamı olsun, bazı sahabelerinin son yedi günde Kadir Gecesi'ni rüyalarında gördüklerini aktardığını rivayet etti. Allah'ın Resulü, ona Allah'ın salatı ve selamı olsun, \"Görüyorsunuz ki, rüyalarınız son yedi gün hakkında birleşiyor, bu yüzden onu arayan son yedi günde aramalıdır.\" dedi."
+    },
+    {
+      "id": 17,
+      "narrator": "",
+      "text": "Ziyad, Malik'ten, onun da güvendiği bir ilim sahibinden duyduğuna göre, \"Allah'ın Resulü, ona Allah'ın salatı ve selamı olsun, kendisinden önceki insanların ömürlerini veya Allah'ın dilediği şeyi gösterildi ve sanki kendi ümmetinin ömürleri, kendilerinden önceki insanların uzun ömürleriyle yaptıkları kadar hayırlı ameller yapmalarına yetersiz kalmış gibi oldu, bu yüzden Allah ona, bin aydan daha hayırlı olan Kadir Gecesi'ni verdi.\" dediğini aktardı."
+    },
+    {
+      "id": 18,
+      "narrator": "",
+      "text": "Ziyad, Malik'ten, onun da Said ibn al-Musayyab'ın, \"Kadir Gecesi'nde ikindi namazına katılan, ondan payını almıştır.\" dediğini duyduğunu rivayet etti."
+    }
+  ]
+}

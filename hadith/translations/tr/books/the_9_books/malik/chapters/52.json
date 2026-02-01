@@ -1,0 +1,56 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 8,
+    "arabic": {
+      "title": "موطأ مالك",
+      "author": "الإمام مالك بن أنس"
+    },
+    "english": {
+      "title": "Muwatta Malik",
+      "author": "Imam Malik ibn Anas"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, İshak ibn Abdullah ibn Abi Talha el-Ensari'den, Anas ibn Malik'ten, Allah'ın Resulü'nün, Allah ona salat ve selam eylesin, \"Salih bir adamın güzel rüyası, peygamberliğin kırk altıda biridir.\" dediğini bana aktardı."
+    },
+    {
+      "id": 2,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abu'z-Zinad'dan, el-Araj'dan, Abu Hurayra'dan, Allah'ın Resulü'nün, Allah ona salat ve selam eylesin, benzer şekilde söylediğini bana aktardı."
+    },
+    {
+      "id": 3,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, İshak ibn Abdullah ibn Abi Talha'dan, Zufar ibn Sasaca'dan, babasından, Abu Hurayra'dan, Allah'ın Resulü'nün, Allah ona salat ve selam eylesin, sabah namazını kıldığında, \"Geçen gece rüya göreniniz var mı?\" dediğini aktardı. \"Benden sonra peygamberlikten geriye kalan sadece doğru rüyadır.\""
+    },
+    {
+      "id": 4,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Zayd ibn Aslam'dan, Ata ibn Yasar'dan, Allah'ın Resulü'nün, Allah ona salat ve selam eylesin, \"Benden sonra peygamberlikten geriye kalan sadece mubashşiratlerdir.\" dediğini aktardı. Onlar, \"Mubashşirat nedir, Allah'ın Resulü?\" dediler. O, \"Salih bir adamın gördüğü veya kendisine gösterilen doğru rüya, peygamberliğin kırk altıda biridir.\" dedi."
+    },
+    {
+      "id": 5,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Yahya ibn Said'den, Abu Salama ibn Abd ar-Rahman'ın, \"Abu Qatada ibn Ribiyy'in, Allah'ın Resulü'nün, Allah ona salat ve selam eylesin, 'Güzel rüya Allah'tandır, kötü rüya ise şeytandandır. Hoşlanmadığınız bir şey gördüğünüzde, uyandığınızda sol tarafınıza üç kez tükürün ve Allah'tan onun şerrinden sığınmayı isteyin. O zaman size zarar vermez, inşallah.' dediğini duydum.\" dediğini aktardı. Abu Salama, \"Bana ağır gelen rüyalar görürdüm, dağdan daha ağır. Bu hadisi duyduğumda, artık bununla ilgili endişelenmiyordum.\" dedi."
+    },
+    {
+      "id": 6,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Hişam ibn Urwa'dan, babasının bu ayet hakkında, \"Bu dünyada ve ahirette sizin için müjdeler vardır.\" (Sura 10 ayet 64) dediğini, bunun salih bir adamın gördüğü veya kendisine gösterilen güzel rüya olduğunu aktardı."
+    },
+    {
+      "id": 7,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Musa ibn Maysara'dan, Said ibn Abi Hind'den, Abu Musa el-Aşari'den, Allah'ın Resulü'nün, Allah ona salat ve selam eylesin, \"Zar oyunları oynayan, Allah'a ve Resulüne isyan etmiştir.\" dediğini aktardı."
+    },
+    {
+      "id": 8,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Alqama'dan, annesinden, Peygamber'in eşi A'isha'nın, Allah'ın Resulü'ne, Allah ona salat ve selam eylesin, evinde bir odada yaşayan insanların zarları olduğunu duyduğunu aktardı. Onlara, \"Eğer zarları kaldırmazsanız, sizi evimden çıkarırım.\" diye bir mesaj gönderdi ve onları bu konuda kınadı."
+    }
+  ]
+}

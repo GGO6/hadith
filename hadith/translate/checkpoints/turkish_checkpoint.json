@@ -1,0 +1,15 @@
+{
+  "language": "turkish",
+  "processed_books": [],
+  "processed_hadiths": [
+    43,
+    42,
+    17
+  ],
+  "stats": {
+    "total_translated": 150,
+    "high_confidence": 54,
+    "medium_confidence": 62,
+    "low_confidence": 34
+  }
+}

@@ -1,0 +1,871 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 171,
+    "arabic": {
+      "title": "سنن ابن ماجه",
+      "author": "الإمام محمد بن يزيد ابن ماجه"
+    },
+    "english": {
+      "title": "Sunan Ibn Majah",
+      "author": "Imam Muhammad ibn Yazid Ibn Majah"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "It was narrated from 'Aishah that the Messenger of Allah (ﷺ) said:",
+      "text": "'Aişe'den rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurmuştur: \"Bir insanın tükettiği en iyi (en saf) yiyecek, kendi kazandığıdır ve çocuğu (ve çocuğunun malı) da onun kazancının bir parçasıdır.\""
+    },
+    {
+      "id": 2,
+      "narrator": "It was narrated from Miqdam bin Ma'dikarib (Ar- Zubaidi) that the Messenger of Allah (ﷺ) said:",
+      "text": "Mikdam bin Ma'dikarib (Ar-Zubaidi) tarafından rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurmuştur: \"Hiçbir insan, kendi elleriyle kazandığı şeyden daha hayırlı bir şey kazanamaz ve bir insanın kendisi, eşi, çocuğu ve hizmetkârı için harcadığı şey, sadakadır.\""
+    },
+    {
+      "id": 3,
+      "narrator": "It was narrated from Ibn 'Umar that the Messenger of Allah (ﷺ) said:",
+      "text": "İbn 'Umar'dan rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurmuştur: \"Güvenilir, dürüst Müslüman tüccar, Kıyamet Günü şehitlerle birlikte olacaktır.\""
+    },
+    {
+      "id": 4,
+      "narrator": "It was narrated from Abu Hurairah that the Prophet (ﷺ) said:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir ki, Peygamber (ﷺ) şöyle buyurmuştur: \"Dul kadınları ve fakirleri desteklemek için çaba gösteren kimse, Allah yolunda savaşan bir mücahid gibidir ve gece (nafile namazda) ayakta duran ve gündüz oruç tutan kimse gibidir.\""
+    },
+    {
+      "id": 5,
+      "narrator": "It was narrated from Mu'adh bin 'Abdullah bin Khubaib, from his father, that his paternal uncle said:",
+      "text": "Mu'adh bin Abdullah bin Khubaib'den, babasından, babasının kardeşinden rivayet edilmiştir ki: \"Bir toplantıda oturuyorduk, Peygamber (ﷺ) başında su izleriyle geldi. İçimizden biri ona: 'Bugün neşeli görünüyorsun.' dedi. O da: 'Evet, hamd olsun Allah'a.' dedi. Sonra insanlara zenginlikten bahsetti. 'Takva sahibi için zengin olmanın bir sakıncası yoktur, fakat takva sahibi için iyi sağlık, zenginlikten daha hayırlıdır ve neşeli olmak bir nimettir.' dedi.\""
+    },
+    {
+      "id": 6,
+      "narrator": "It was narrated from Abu Humaid As-Sa'idi that the Messenger of Allah (ﷺ) said:",
+      "text": "Ebu Humaid Es-Sa'idi'den rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurmuştur: \"Dünyevi şeyleri ararken ölçülü olun, çünkü herkes yaratıldığı şeyde kolaylaştırılacaktır.\""
+    },
+    {
+      "id": 7,
+      "narrator": "It was narrated from Anas bin Malik that the Messenger of Allah (ﷺ) said:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurmuştur: \"En çok kaygı duyan, hem dünya işleri hem de ahiret kaygısı taşıyan mümindir.\" (Da'if) Ebu Abdullah dedi ki: \"Bu Hadis Gharib'tir. İsmail, yalnız başına bunu rivayet etmiştir.\""
+    },
+    {
+      "id": 8,
+      "narrator": "It was narrated from Jabir bin 'Abdullah that the Messenger of Allah (ﷺ) said:",
+      "text": "Cabir bin Abdullah'tan rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurmuştur: \"Ey insanlar, Allah'tan korkun ve geçim arayışında ölçülü olun, çünkü hiçbir can, rızkını almadan ölmez; rızkı gelmesi yavaş olsa bile. O halde Allah'tan korkun ve rızık arayışında ölçülü olun; helal olanı alın ve haram olanı bırakın.\""
+    },
+    {
+      "id": 9,
+      "narrator": "It was narrated that Qais bin Abu Gharazah said:",
+      "text": "Kays bin Ebu Gharazah'dan rivayet edilmiştir ki: \"Allah'ın Elçisi (ﷺ) zamanında bizlere komisyoncu denilirdi, fakat Allah'ın Elçisi (ﷺ) yanımızdan geçti ve bize daha iyi bir isimle hitap etti. 'Ey tüccarlar, satışta (yalancı) yeminler ve boş laflar vardır, bu yüzden ona biraz sadaka karıştırın.' dedi.\""
+    },
+    {
+      "id": 10,
+      "narrator": "It was narrated from Isma'il bin 'Ubaid bin Rifa'ah, from his father, that his grandfather Rifa'ah said:",
+      "text": "İsmail bin Ubaid bin Rifa'ah'dan, babasından, dedesi Rifa'ah'tan rivayet edilmiştir ki: \"Biz, Allah'ın Elçisi (ﷺ) ile birlikte çıktık ve insanlar sabah erken saatlerde ticaret yapıyordu. O, onlara: 'Ey tüccarlar!' diye seslendi ve onlar başlarını kaldırıp bakınca, 'Tüccarlar Kıyamet Günü ahlaksız insanlar olarak diriltilecektir, Allah'tan korkan, salih amel işleyen ve doğru konuşanlar hariç.' dedi.\""
+    },
+    {
+      "id": 11,
+      "narrator": "It was narrated from Anas bin Malik that the Messenger of Allah (ﷺ) said:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurmuştur: \"Bir şeyde başarılı olan, ona devam etsin.\""
+    },
+    {
+      "id": 12,
+      "narrator": "It was narrated that Nafi' said:",
+      "text": "Nafi' dedi ki: \"Ben Şam ve Mısır'a ticaret malları gönderiyordum, sonra Irak'a ticaret malları göndermeye hazırlanıyordum. Aişe'ye, Müminlerin Annesi'ne gittim ve ona: 'Ey Müminlerin Annesi, ben Şam'a ticaret malları gönderiyordum ve şimdi Irak'a göndermeye hazırlanıyorum.' dedim. O da: 'Bunu yapma. Daha önce yaptığın işte ne sakınca var? Ben, Allah'ın Elçisi (ﷺ) şöyle derken duydum: 'Eğer Allah, birinizin rızkını belirli bir vesile ile getirirse, onu değiştirmedikçe veya bozulmadıkça bırakmamalıdır.'\""
+    },
+    {
+      "id": 13,
+      "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurmuştur: \"Allah, hiçbir Peygamber göndermedi ki, o bir çoban olmasın.\" Arkadaşları ona: \"Sen de mi, Ey Allah'ın Elçisi?\" dediler. O da: \"Ben de, Mekke halkının koyunlarını birkaç kirat karşılığında güderdim.\" (Sahih) (Rivayet edenlerden) Suveyd dedi ki: \"Her koyun için bir kirat anlamına gelir.\""
+    },
+    {
+      "id": 14,
+      "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurmuştur: \"Zekeriya bir marangozdu.\""
+    },
+    {
+      "id": 15,
+      "narrator": "It was narrated from 'Aishah that the Messenger of Allah (ﷺ) said:",
+      "text": "'Aişe'den rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurmuştur: \"Resim yapanlar Kıyamet Günü azap görecekler ve onlara: 'Yaratmış olduğunuz şeye hayat verin.' denilecektir.\""
+    },
+    {
+      "id": 16,
+      "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle buyurmuştur: \"İnsanların en hilekârı boyacılar ve altıncılar (altın işleyenler)dır.\""
+    },
+    {
+      "id": 17,
+      "narrator": "It was narrated from 'Umar bin Khattab that the Messenger of Allah (ﷺ) said:",
+      "text": "Ömer bin Hattab'dan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle buyurmuştur: \"İthalat yapan kimse rızıkla mübareklenir, stok yapan ise lanetlenir.\""
+    },
+    {
+      "id": 18,
+      "narrator": "It was narrated from Ma'mar bin 'Abdullah bin Nadlah that the Messenger of Allah (ﷺ) said:",
+      "text": "Ma'mar bin Abdullah bin Nadlah'dan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle buyurmuştur: \"Stok yapan sadece bir günahkârdır.\""
+    },
+    {
+      "id": 19,
+      "narrator": "It was narrated that 'Umar bin Khattab said:",
+      "text": "Ömer bin Hattab'dan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle buyurmuştur: \"Kim yiyeceği stoklayıp Müslümanlardan saklarsa, Allah ona cüzzam ve iflas verir.\""
+    },
+    {
+      "id": 20,
+      "narrator": "It was narrated that Abu Sa'eed Al-Khudri said:",
+      "text": "Ebu Sa'id el-Hudri'den rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) bizi, otuz atlıyla bir askeri sefere gönderdi. Biz bir topluluğun yanına kamp kurduk ve onlardan misafirperverlik istedik ama reddettiler. Sonra liderleri akrep tarafından sokuldu ve 'Aranızda akrep sokmasına ruqyah okuyabilecek biri var mı?' dediler. Ben de: 'Evet, okuyabilirim ama önce bize bazı koyunlar vermeden okumayacağım.' dedim. Onlar: 'Size otuz koyun vereceğiz.' dediler. Böylece kabul ettik ve ben onun üzerine yedi kez El-Hamd (yani El-Fatiha) okudum. Sonra iyileşti ve koyunları aldım. Sonra içimizde bazı şüpheler oluştu. 'Koyunlar hakkında bir karar vermeden önce Peygamber'e (ﷺ) gidelim.' dedik. Döndüğümüzde: 'Yaptıklarımı ona söyledim. O da: 'Ruqyah olduğunu nasıl bildin? Onları bölüştür ve bana da bir pay ver.' dedi.\""
+    },
+    {
+      "id": 21,
+      "narrator": "It was narrated that 'Ubadah bin Samit said:",
+      "text": "Ubade bin Samit'ten rivayet edilmiştir ki: \"Ben Ahlus-Suffah'taki insanlara Kur'an ve yazmayı öğrettim, onlardan biri bana bir yay verdi. Ben de: 'Bu para değil, ve ben bununla Allah rızası için atış yapabilirim.' dedim. Allah'ın Resulü'ne (ﷺ) bunu sordum, o da: 'Eğer boynuna ateşten bir kolye takılmasını istiyorsan, kabul et.' dedi.\""
+    },
+    {
+      "id": 22,
+      "narrator": "It was narrated that Ubayy bin Ka'b said:",
+      "text": "Ubayy bin Ka'b'tan rivayet edilmiştir ki: \"Bir adama Kur'an öğrettim ve o da bana bir yay verdi. Bunu Allah'ın Resulü'ne (ﷺ) söyledim, o da: 'Eğer kabul edersen, ateşten bir yay kabul etmiş olursun.' dedi. Böylece onu geri verdim.\""
+    },
+    {
+      "id": 23,
+      "narrator": "It was narrated from Abu Mas'ud that :",
+      "text": "Ebu Mes'ud'dan rivayet edilmiştir ki: \"Peygamber (ﷺ) köpek fiyatını, fahişeye verilen ücreti ve falcıya verilen ücreti yasakladı.\""
+    },
+    {
+      "id": 24,
+      "narrator": "It was narrated that Abu Hurairah said:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir ki: \"Allah'ın Resulü (ﷺ) köpek fiyatını ve aygırın damızlık olarak kullanılmasını yasakladı.\""
+    },
+    {
+      "id": 25,
+      "narrator": "lt was narrated from Abu Az-Zubair that Jabir said:",
+      "text": "Ebu Zübeyr'den rivayet edilmiştir ki, Cabir şöyle demiştir: \"Allah'ın Resulü (ﷺ) kedi fiyatını yasakladı.\""
+    },
+    {
+      "id": 26,
+      "narrator": "It was narrated from Ibn 'Abbas that :",
+      "text": "İbn Abbas'tan rivayet edilmiştir ki: \"Peygamber (ﷺ) hacamat yaptırdı ve ona (hacamatçiye) ücretini verdi.\" (Sahih) İbn Ebu Ümâr bunu tek başına rivayet etmiştir. Bunu İbn Mace söylemiştir."
+    },
+    {
+      "id": 27,
+      "narrator": "It was narrated that 'Ali said:",
+      "text": "Ali'den rivayet edilmiştir ki: \"Allah'ın Resulü (ﷺ) hacamat yaptırdı ve bana hacamatçiye ücretini vermemi söyledi.\""
+    },
+    {
+      "id": 28,
+      "narrator": "It was narrated from Anas bin Malik that:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir ki: \"Peygamber (ﷺ) hacamat yaptırdı ve hacamatçiye ücretini verdi.\""
+    },
+    {
+      "id": 29,
+      "narrator": "It was narrated that Abu Mas'ud, 'Uqbah bin 'Amr, said:",
+      "text": "Ebu Mes'ud, Ukbe bin Amr'den rivayet edilmiştir ki: \"Allah'ın Resulü (ﷺ) hacamatçının kazancını yasakladı.\""
+    },
+    {
+      "id": 30,
+      "narrator": "It was narrated from  Haram bin Munayyisah that :",
+      "text": "Haram bin Munayyise'den rivayet edilmiştir ki: \"Babası Peygamber (ﷺ) ile hacamatçının kazancı hakkında konuştu ve o da bunu yasakladı. Sonra ihtiyacını belirtti ve şöyle dedi: 'Onu su çeken dişi develerini beslemek için harca.'\""
+    },
+    {
+      "id": 31,
+      "narrator": "Ata' bin Abu Rabah said:",
+      "text": "Ata' bin Ebu Rabah dedi ki: Ben, Cabir bin Abdullah'ın şöyle söylediğini duydum: \"Fetih Yılı'nda, Mekkede iken Allah'ın Elçisi (ﷺ) şöyle dedi: 'Allah ve Elçisi, şarapların, ölü hayvanların etinin, domuzların ve putların satışını yasakladı.' Kendisine şöyle denildi: 'Ey Allah'ın Elçisi, ölü hayvanların yağı hakkında ne dersin, çünkü bu, gemileri sızdırmaz hale getirmek için kullanılır, hayvan derilerine sürülür ve insanlar bunu lambalarını yakmak için kullanır?' O şöyle dedi: 'Hayır, bu haramdır.' Sonra Allah'ın Elçisi (ﷺ) şöyle dedi: 'Allah, Yahudileri lanetlesin, çünkü Allah onlara (hayvanların) yağını yasakladı ama onlar onu eritip (yani, erittiler), sattılar ve fiyatını tükettikleri.'\""
+    },
+    {
+      "id": 32,
+      "narrator": "It was narrated that Abu Umamah said:",
+      "text": "Abu Umamah'dan rivayet edilmiştir ki: \"Allah'ın Elçisi, şarkı söyleyen kızların satışını veya alımını, onların ücretlerini ve fiyatlarını tüketmeyi yasakladı.\""
+    },
+    {
+      "id": 33,
+      "narrator": "It was narrated that Abu Hurairah said:",
+      "text": "Abu Hurairah'dan rivayet edilmiştir ki: \"Allah'ın Elçisi (ﷺ) iki tür ticareti yasakladı: Mulimasah ve Mundbadhah.\""
+    },
+    {
+      "id": 34,
+      "narrator": "It was narrated from Abu Sa'eed Al-Khudri that  :",
+      "text": "Abu Sa'eed Al-Khudri'den rivayet edilmiştir ki: \"Allah'ın Elçisi (ﷺ) Mulamasah ve Munabadhah'ı yasakladı.\" (Sahih) Sahl ekledi: \"Süfyân dedi ki: 'Mulamasah, bir adamın elini görmeden bir şeye dokunması demektir, Munabadhah ise 'Bana ne varsa at, ben de sana ne varsa atacağım' demektir.\""
+    },
+    {
+      "id": 35,
+      "narrator": "It was narrated from Ibn 'Umar that the Messenger of Allah (ﷺ) said:",
+      "text": "İbn 'Umar'dan rivayet edilmiştir ki: \"Allah'ın Elçisi (ﷺ) sizden birinin diğerine düşük fiyatla satmamasını söyledi.\""
+    },
+    {
+      "id": 36,
+      "narrator": "lt was narrated from Abu Hurairah that the Prophet (ﷺ) said:",
+      "text": "Abu Hurairah'dan rivayet edilmiştir ki: \"Peygamber (ﷺ) dedi ki: 'Bir adam, kardeşine düşük fiyatla satmamalıdır, ne de olsa kardeşini aldatmaya çalışmamalıdır.'\""
+    },
+    {
+      "id": 37,
+      "narrator": "It was narrated from Ibn 'Umar that :",
+      "text": "İbn 'Umar'dan rivayet edilmiştir ki: \"Peygamber (ﷺ) Najsh'ı yasakladı.\""
+    },
+    {
+      "id": 38,
+      "narrator": "It was narrated from Abu Hurairah that the Prophet said:",
+      "text": "Abu Hurairah'dan rivayet edilmiştir ki: \"Peygamber (ﷺ) dedi: 'Najsh uygulamayın.'\""
+    },
+    {
+      "id": 39,
+      "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:",
+      "text": "Abu Hurairah'dan rivayet edilmiştir ki: \"Allah'ın Elçisi (ﷺ) dedi ki: 'Şehir sakini, bir bedevi için satış yapmamalıdır.'\""
+    },
+    {
+      "id": 40,
+      "narrator": "It was narrated from Jabir bin 'Abdullah that the Prophet (ﷺ) said:",
+      "text": "Cabir bin Abdullah'dan rivayet edilmiştir ki: \"Peygamber (ﷺ) dedi: 'Bir şehir sakini, bir bedevi için satış yapmamalıdır. İnsanları (ticaret yapmaları için) serbest bırakın, Allah onlara birbirleri aracılığıyla rızık verecektir.'\""
+    },
+    {
+      "id": 41,
+      "narrator": "Ibn Tawus narrated from his father that Ibn 'Abbas said:",
+      "text": "İbn Tavus, babasından rivayet etti ki: İbn Abbas dedi ki: \"Allah'ın Elçisi (ﷺ) bir şehir sakininin bir bedevi için satış yapmasını yasakladı.\" (Sahih) Ben (Tavus) İbn Abbas'a dedim: \"Şehir sakininin bir bedevi için satış yapması ne demektir?\" O dedi ki: \"Onun için aracılık etmemelidir.\""
+    },
+    {
+      "id": 42,
+      "narrator": "It was narrated from Abu Hurairah that the Prophet (ﷺ) said:",
+      "text": "Abu Hurairah'dan rivayet edilmiştir ki: \"Peygamber (ﷺ) dedi: 'Tüccarlarla yolda karşılaşmayın, ve kim onlardan birine rastlayıp ondan alım yaparsa, satıcı pazara geldiğinde işlemi iptal etme hakkına sahiptir.'\""
+    },
+    {
+      "id": 43,
+      "narrator": "It was narrated that Ibn 'Umar said:",
+      "text": "İbn 'Umar'dan rivayet edilmiştir ki: \"Allah'ın Elçisi (ﷺ) yolda tüccarlarla karşılaşmayı yasakladı.\""
+    },
+    {
+      "id": 44,
+      "narrator": "It was narrated that 'Abdullah bin Mas'ud said:",
+      "text": "Abdullah bin Mes'ud'dan rivayet edilmiştir ki: \"Allah'ın Elçisi (ﷺ) malların sahipleriyle (pazar dışında) karşılaşmayı yasakladı.\""
+    },
+    {
+      "id": 45,
+      "narrator": "It was narrated from 'Abdullah bin 'Umar that the Messenger of Allah said:",
+      "text": "Abdullah bin 'Umar'dan rivayet edilmiştir ki: \"Allah'ın Elçisi dedi ki: 'İki adam bir ticarete girdiğinde, her biri henüz ayrılmadıkları sürece iptal etme hakkına sahiptir, ya da biri diğerine seçenek vermişse. Diğerinin şartlarını kabul etmesi durumunda, işlem bağlayıcıdır. Eğer işlem tamamlandıktan sonra ayrılırlarsa ve hiçbiri işlemi iptal etmemişse, işlem bağlayıcıdır.'\""
+    },
+    {
+      "id": 46,
+      "narrator": "It was narrated from Abu Barzah Al-Aslami that the Messenger of Allah (ﷺ) said:",
+      "text": "Abu Barzah Al-Aslami'den rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle buyurmuştur: \"İki tarafın bir işlemdeki seçimi vardır (iptal etme hakkı) ancak henüz ayrılmadıkları sürece.\""
+    },
+    {
+      "id": 47,
+      "narrator": "It was narrated from Samurah that the Messenger of Allah (ﷺ) said:",
+      "text": "Samurah'dan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle buyurmuştur: \"İki tarafın bir işlemdeki seçimi vardır (iptal etme hakkı) ancak henüz ayrılmadıkları sürece.\""
+    },
+    {
+      "id": 48,
+      "narrator": "It was narrated that Jabir bin' Abdullah said:",
+      "text": "Jabir bin Abdullah'dan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) bir bedeviden bir yük yem satın aldı. İşlem tamamlandığında, Allah'ın Resulü (ﷺ) şöyle dedi: 'Seçin (ya devam edin ya da işlemi iptal edin).' Bedevi şöyle dedi: 'Allah sana uzun ve hayırlı bir ticaret versin!'\""
+    },
+    {
+      "id": 49,
+      "narrator": "It was narrated from Dawud bin Salih Al Madani that his father said:",
+      "text": "Dawud bin Salih Al Madani'den rivayet edilmiştir ki, babası şöyle dedi: Abu Sa'eed Al-Khudri'nin şöyle dediğini duydum: \"Allah'ın Resulü (ﷺ) şöyle buyurdu: 'Ticaret yalnızca karşılıklı rıza ile yapılabilir.'\""
+    },
+    {
+      "id": 50,
+      "narrator": "It was narrated from Qasim bin 'Abdur Rahman from his father that :",
+      "text": "Qasim bin 'Abdur Rahman'dan, babasından rivayet edilmiştir ki: Abdullah bin Mas'ud, devletin kölelerinden birini Ash'ath bin Qais'e sattı ve fiyat konusunda ihtilafa düştüler. Ibn Mas'ud dedi ki: \"Onu sana yirmi bin dirheme sattım,\" fakat Ash'ath bin Qais dedi ki: \"Onu senden on bin dirheme aldım.\" Abdullah dedi: \"Eğer istersen, sana Allah'ın Resulü'nden (ﷺ) duyduğum bir hadisi söyleyebilirim.\" O da: \"Bana söyle,\" dedi. Abdullah şöyle dedi: \"Allah'ın Resulü (ﷺ) şöyle buyurdu: 'İki taraf bir işlemde ihtilafa düştüğünde, ve delilleri yoksa, ve satış maddesi (geri alınmamışsa), o zaman satıcının söyledikleri geçerlidir. Ya da işlemi iptal edebilirler.' O da: 'Ben işlemi iptal etmek istiyorum.' dedi ve iptal etti.\""
+    },
+    {
+      "id": 51,
+      "narrator": "It was narrated that Hakim bin Hizam said:",
+      "text": "Hakim bin Hizam'dan rivayet edilmiştir ki: \"Ben dedim: 'Ey Allah'ın Resulü, bir adam benden sahip olmadığım bir şeyi satın almamı istiyor; onu ona satar mıyım?' O da: 'Sahip olmadığın şeyi satma.' dedi.\""
+    },
+    {
+      "id": 52,
+      "narrator": "It was narrated from 'Amr bin Shu'aib, from his father, that his grandfather said:",
+      "text": "'Amr bin Shu'aib'den, babasından, dedesinden rivayet edilmiştir ki: \"Allah'ın Resulü (ﷺ) sahip olmadığın bir şeyi satmanın ve sahip olmadığın şeyden kar etmenin caiz olmadığını söyledi.\""
+    },
+    {
+      "id": 53,
+      "narrator": "It was narrated from 'Ata that 'Attab bin Asid said that :",
+      "text": "'Ata'dan rivayet edilmiştir ki: 'Attab bin Asid şöyle dedi: \"Allah'ın Resulü (ﷺ) beni Mekkah'a gönderdiğinde, sahip olmadığım şeyden kar etmemi yasakladı.\""
+    },
+    {
+      "id": 54,
+      "narrator": "It was narrated from 'Uqbah bin 'Amir or Samurah bin Jundab that the Messenger of Allah (ﷺ) said:",
+      "text": "'Uqbah bin 'Amir veya Samurah bin Jundab'dan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle buyurdu: \"Herhangi bir adam iki adama satış yaparsa, ilk olanı geçerlidir.\""
+    },
+    {
+      "id": 55,
+      "narrator": "It was narrated from Samurah that the Messenger of Allah (ﷺ), said:",
+      "text": "Samurah'dan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle dedi: \"Eğer iki (ayrı) yetkili kişi aynı şeyi satarsa, ilk işlem geçerli olandır.\""
+    },
+    {
+      "id": 56,
+      "narrator": "It was narrated from 'Amr bin Shu'aib, from his father, from his grandfather that :",
+      "text": "'Amr bin Shu'aib'den, babasından, dedesinden rivayet edilmiştir ki: \"Peygamber (ﷺ) kapora ile yapılan işlemi yasakladı.\""
+    },
+    {
+      "id": 57,
+      "narrator": "It was narrated from 'Amr bin Shu'aib, from his father, from his grandfather that :",
+      "text": "'Amr bin Shu'aib'den, babasından, dedesinden rivayet edilmiştir ki: \"Peygamber (ﷺ) kapora ile yapılan işlemi yasakladı.\" (Hasan) Abu 'Abdullah dedi ki: Kapora, bir adamın bir hayvanı yüz dinara satın alması, sonra satıcıya iki dinar avans vermesi ve \"Eğer hayvanı almazsam, o zaman iki dinar senindir.\" demesi anlamına gelir. Ve bunun, bir adamın bir şey satın alması, satıcıya bir dirhem veya daha az ya da daha fazla vermesi ve \"Eğer alırsam (her şey yolunda), almazsam o dirhem senindir.\" demesi anlamına geldiği söylendi, ve Allah en iyi bilendir.\""
+    },
+    {
+      "id": 58,
+      "narrator": "It was narrated that Abu Hurairah said:",
+      "text": "Abu Hurairah'dan rivayet edilmiştir ki: \"Allah'ın Resulü (ﷺ) Gharar işlemlerini ve Hasah işlemlerini yasakladı.\""
+    },
+    {
+      "id": 59,
+      "narrator": "It was narrated that Ibn 'Abbas said:",
+      "text": "Ibn 'Abbas'dan rivayet edilmiştir ki: \"Allah'ın Resulü (ﷺ) Gharar işlemlerini yasakladı.\""
+    },
+    {
+      "id": 60,
+      "narrator": "It was narrated that Abu Sa'eed Al-Khudri said:",
+      "text": "Abu Sa'eed Al-Khudri'den rivayet edilmiştir ki: \"Allah'ın Resulü (ﷺ) hayvanların karnındaki şeylerin doğum yapana kadar satılmasını, memelerindeki şeylerin ölçülmeden satılmasını, kaçan bir kölenin satılmasını, ganimetlerin dağıtılmadan satılmasını, sadakaların alınmadan satılmasını ve dalgıcın çıkaracağı şeylerin satılmasını yasakladı.\""
+    },
+    {
+      "id": 61,
+      "narrator": "It was narrated from Ibn 'Umar that :",
+      "text": "İbn 'Umar'dan rivayet edilmiştir ki: Peygamber (ﷺ) Hablul-Habalah satışını yasaklamıştır."
+    },
+    {
+      "id": 62,
+      "narrator": "It was narrated from Anas bin Malik that :",
+      "text": "Anas bin Malik'ten rivayet edilmiştir ki: Ansar'dan bir adam Peygamber (ﷺ)'e geldi ve ondan dilendi. O da, \"Evinde bir şey var mı?\" dedi. Adam: \"Evet, üzerimize örtü olarak kullandığımız bir örtü ve altımıza serdiğimiz bir örtü ile su içtiğimiz bir kâse var.\" dedi. Peygamber (ﷺ) \"Bunları bana ver.\" dedi. Adam bunları getirdi, ve Allah'ın Elçisi (ﷺ) onları eline aldı ve \"Bu iki şeyi kim satın alacak?\" dedi. Bir adam: \"Ben bir Dirhem'e alırım.\" dedi. Peygamber (ﷺ) \"Bir Dirhem'den daha fazlasını kim verecek?\" dedi, iki veya üç kez tekrar etti. Bir adam: \"Ben iki Dirhem'e alırım.\" dedi. Bunun üzerine Peygamber (ﷺ) ona verdi ve iki Dirhem'i aldı, Ansar'a verdi ve \"Bir Dirhem ile ailen için yiyecek al, diğer Dirhem ile bir balta al ve onu bana getir.\" dedi. Adam bunu yaptı, ve Allah'ın Elçisi (ﷺ) baltayı aldı ve ona bir sap taktı, ve \"Git odun topla, on beş gün boyunca seni görmek istemiyorum.\" dedi. Adam gitti, odun topladı ve sattı, sonra geri döndü ve on Dirhem kazandı. (Peygamber (ﷺ)) \"Bununla biraz yiyecek ve biraz da giysi al.\" dedi. Sonra \"Bu, kıyamet gününde yüzünde bir leke ile dilenmekten daha hayırlıdır. Dilek, yalnızca son derece fakir olan veya ağır bir borcu olan ya da acı bir kan bedeli ödemek zorunda kalan biri için uygundur.\" dedi."
+    },
+    {
+      "id": 63,
+      "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurdu: \"Bir Müslümanla bir ticareti iptal etmekte anlaşan kimse, Allah kıyamet gününde onun günahlarını affedecektir.\""
+    },
+    {
+      "id": 64,
+      "narrator": "It was nanated that Anas bin Malik said:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir ki: \"Peygamber (ﷺ) zamanında fiyatlar yükseldi, ve dediler ki: 'Ey Allah'ın Elçisi, fiyatlar yükseldi, bize fiyatları belirle.' O da: 'Gerçekten Allah, Musa'ir (fiyatları belirleyen) ve Razzaq (rızık veren)dır. Ve umuyorum ki Rabbimle karşılaştığımda, aranızda benden bir kan veya mal haksızlığı için talepte bulunan hiç kimse olmayacaktır.'\""
+    },
+    {
+      "id": 65,
+      "narrator": "It was narrated that Abu Sa'eed said:",
+      "text": "Ebu Sa'id'den rivayet edilmiştir ki: \"Peygamber (ﷺ) zamanında fiyatlar yükseldi, ve dediler ki: 'Ey Allah'ın Elçisi, neden yiyecek fiyatlarını belirlemiyorsun?' O da: 'Umarım ki sizden ayrıldığımda, aranızda bana bir haksızlık için tazminat talep eden hiç kimse olmayacaktır.'\""
+    },
+    {
+      "id": 66,
+      "narrator": "'Uthman bin 'Affan narrated that the Messenger of Allah (ﷺ) said:",
+      "text": "Osman bin Affan rivayet etmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurdu: \"Allah, alışverişte ve satışta yumuşak davranan bir adamı cennete alacaktır.\""
+    },
+    {
+      "id": 67,
+      "narrator": "It was narrated from Jabir bin 'Abdullah that the Messenger of Allah (ﷺ) said:",
+      "text": "Cabir bin Abdullah'tan rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurdu: \"Satışta yumuşak davranan, alımda yumuşak davranan ve ödeme talep ederken yumuşak davranan kişiye Allah merhamet etsin.\""
+    },
+    {
+      "id": 68,
+      "narrator": "It was narrated that Qailah Umm Bani Anmar said:",
+      "text": "Qailah Umm Bani Anmar'dan rivayet edilmiştir ki: \"Ben, Allah'ın Elçisi (ﷺ) ile Marwah'da bir 'Umrah' sırasında buluştum ve dedim ki: 'Ey Allah'ın Elçisi, ben alım satım yapan bir kadınım. Bir şey almak istediğimde, ödemek istediğimden daha düşük bir fiyat belirliyorum, sonra yavaş yavaş artırıyorum ta ki istediğim fiyata ulaşana kadar. Ve bir şey satmak istediğimde, istediğimden daha yüksek bir fiyat belirliyorum, sonra istediğim fiyata ulaşana kadar düşürüyorum.' Allah'ın Elçisi (ﷺ) dedi ki: 'Bunu yapma, ey Qailah. Bir şey almak istediğinde, istediğin fiyatı belirt, ister kabul edilsin ister edilmesin. Ve bir şey satmak istediğinde, istediğin fiyatı belirt, ister kabul edilsin ister edilmesin.'\""
+    },
+    {
+      "id": 69,
+      "narrator": "It was narrated that Jabir bin 'Abdullah said:",
+      "text": "Cabir bin Abdullah'tan rivayet edilmiştir ki: \"Ben, Peygamber (ﷺ) ile bir askeri seferdeydim, ve bana dedi ki: 'Bu deveni bir Dinar'a satacak mısın?' Ben de: 'Ey Allah'ın Elçisi, Medine'ye vardığımda bu senin.' dedim. O da: 'O zaman iki Dinar'a sat, Allah seni affetsin.' dedi. Ve fiyatı artırmaya devam etti, her seferinde 'Allah seni affetsin' diyerek, ta ki miktar yirmi Dinar'a ulaşana kadar. Medine'ye geldiğimde, devenin başını tuttum ve onu Peygamber (ﷺ)'e getirdim, o da: 'Ey Bilal, ona savaş ganimeti olarak yirmi Dinar ver.' dedi. Ve 'Deveni al ve halkına git.' dedi.\""
+    },
+    {
+      "id": 70,
+      "narrator": "It was narrated that 'Ali said:",
+      "text": "Ali'den rivayet edilmiştir ki: \"Peygamber (ﷺ) güneş doğmadan önce pazarlık yapmayı yasakladı ve süt veren hayvanların kesilmesini de yasakladı.\""
+    },
+    {
+      "id": 71,
+      "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurdu: \"Kıyamet gününde Allah'ın konuşmayacağı, onlara bakmayacağı veya onları temizlemeyeceği ve acı bir azapları olacak üç kişi vardır: Çöl de fazla suya sahip olan ama bir yolcuya su vermeyi reddeden bir adam; 'Asr'dan sonra bir adamın bir ürünü satması ve Allah'a yemin ederek onu şu kadar bir miktara aldığını söylemesi ve onun buna inanması, oysa durum öyle değil; ve bir yöneticinin biatını alan bir adam, sadece dünyevi kazançlar için bunu yapar, eğer ona bu dünyadan bir şey verilirse biatını yerine getirir, eğer ona hiçbir şey verilmezse biatını yerine getirmez.\""
+    },
+    {
+      "id": 72,
+      "narrator": "It was narrated from Abu Dharr that the Prophet (ﷺ) said:",
+      "text": "Ebu Dharr'dan rivayet edilmiştir ki, Peygamber (ﷺ) şöyle buyurdu: \"Kıyamet gününde Allah'ın konuşmayacağı, onlara bakmayacağı veya onları temizlemeyeceği ve acı bir azapları olacak üç kişi vardır.\" Ben: \"Onlar kimdir, ey Allah'ın Elçisi? Çünkü gerçekten kaybedenlerdir.\" dedim. O da: \"Elbisesini ayak bileklerinin altına sarkıtan, başkasına verdiğini hatırlatan ve ürününü yalan yeminlerle satan kişidir.\" dedi."
+    },
+    {
+      "id": 73,
+      "narrator": "It was narrated from Abu Qatadah that the Messenger of Allah (ﷺ), said:",
+      "text": "Ebu Katade'den rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurdu: \"Satış yaparken yemin etmekten sakının, çünkü bu size satış yapmanıza yardımcı olabilir ama bereketi yok eder.\""
+    },
+    {
+      "id": 74,
+      "narrator": "It was narrated from Ibn 'Umar that the Messenger of Allah (ﷺ) said:",
+      "text": "İbn 'Umar'dan rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurdu: \"Polenlenmiş bir hurma ağacını satın alan kimsenin meyveleri satıcıya aittir, alıcı bir şart koymadıkça.\" (Sahih)"
+    },
+    {
+      "id": 75,
+      "narrator": "It was narrated from Salim bin 'Abdullah, bin 'Umar, from Ibn 'Umar, that :",
+      "text": "İbn 'Umar'dan, Peygamber (ﷺ)'den benzer ifadelerle başka bir rivayet."
+    },
+    {
+      "id": 76,
+      "narrator": "It was narrated from Nafi' from Ibn 'Umar that the Prophet (ﷺ) said:",
+      "text": "Nafi' üzerinden İbn 'Umar'dan rivayet edilmiştir ki, Peygamber (ﷺ) şöyle buyurmuştur: \"Kim bir hurma ağacını satarsa ve bir köleyi satarsa.\" İkisini bir arada anarak."
+    },
+    {
+      "id": 77,
+      "narrator": "It was narrated that 'Ubadah bin Samit said:",
+      "text": "'Ubadah bin Samit'ten rivayet edilmiştir ki, \"Allah'ın Elçisi (ﷺ) bir hurma ağacının meyvesinin onu polenleyen kişiye ait olduğunu, bir kölenin malının ise onu satan kişiye ait olduğunu hükmetmiştir, eğer alıcı bir şart koymamışsa.\""
+    },
+    {
+      "id": 78,
+      "narrator": "It was narrated from Ibn 'Umar that the Messenger of Allah (ﷺ) said:",
+      "text": "İbn 'Umar'dan rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurmuştur: \"Meyveler olgunlaşmadan satmayın.\" Hem satıcıya hem de alıcıya (bu tür bir işlem yapmayı) yasaklamıştır."
+    },
+    {
+      "id": 79,
+      "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:",
+      "text": "Abu Hurairah'tan rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurmuştur: \"Meyveler olgunlaşmadan satmayın.\""
+    },
+    {
+      "id": 80,
+      "narrator": "It was narrated from Jabir that :",
+      "text": "Jabir'den rivayet edilmiştir ki: Peygamber (ﷺ) meyveler olgunlaşmadan satmayı yasaklamıştır."
+    },
+    {
+      "id": 81,
+      "narrator": "It was narrated from Anas bin Malik that :",
+      "text": "Anas bin Malik'ten rivayet edilmiştir ki: Allah'ın Elçisi (ﷺ) meyveler renk değiştirmeden, üzümler siyahlaşmadan ve tahıllar sertleşmeden satmayı yasaklamıştır."
+    },
+    {
+      "id": 82,
+      "narrator": "It was narrated from Jabir bin 'Abdullah that :",
+      "text": "Jabir bin 'Abdullah'tan rivayet edilmiştir ki: Allah'ın Elçisi (ﷺ) yıllar öncesine satış yapmayı yasaklamıştır."
+    },
+    {
+      "id": 83,
+      "narrator": "It was narrated from Jabir bin 'Abdullah that the Messenger of Allah (ﷺ) said:",
+      "text": "Jabir bin 'Abdullah'tan rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurmuştur: \"Kim meyve satarsa ve mahsulü bozulursa, kardeşinin malından hiçbir şey almasın. Sizden hiç kimse, Müslüman kardeşinin malını neden alsın?\""
+    },
+    {
+      "id": 84,
+      "narrator": "It was narrated that Suwaid bin Qais said:",
+      "text": "Suwaid bin Qais'ten rivayet edilmiştir ki: \"Makhrafah Al' Abdi ile ben Hacer'den kumaşlar getirdik. Allah'ın Elçisi (ﷺ) bize geldi ve bize bir pantolonla pazarlık yaptı. Yanımda birisi vardı ki, (malları) bir ücret karşılığında tartıyordu. Bunun üzerine Peygamber (ﷺ) tartan kişiye: 'Tart ve fazlasını ekle.' dedi.\""
+    },
+    {
+      "id": 85,
+      "narrator": "It was narrated that Simak bin Harb said:",
+      "text": "Simak bin Harb'tan rivayet edilmiştir ki: \"Malik Abu Safwan bin 'Umairah'ın şöyle dediğini duydum: 'Ben, Allah'ın Elçisi (ﷺ) ile hicretten önce bir pantolon satın aldım, o da benim için tarttı ve fazlasına izin verdi.'\""
+    },
+    {
+      "id": 86,
+      "narrator": "It was narrated from Jabir bin 'Abdullah that the Messenger of Allah (ﷺ) said:",
+      "text": "Jabir bin 'Abdullah'tan rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurmuştur: \"Tarttığınızda, fazlasına izin verin.\""
+    },
+    {
+      "id": 87,
+      "narrator": "It was narrated that Ibn 'Abbas said:",
+      "text": "İbn 'Abbas'tan rivayet edilmiştir ki: \"Peygamber (ﷺ) Medine'ye geldiğinde, onlar ölçü ve tartıda en kötü insanlardı. Sonra Allah, Celil Olan, 'Vay o Mutaffifin'e (ölçü ve tartıda eksik verenler)' ayetini indirdi ve ondan sonra adil oldular.\""
+    },
+    {
+      "id": 88,
+      "narrator": "It was narrated that Abu Hurairah said:",
+      "text": "Abu Hurairah'tan rivayet edilmiştir ki: \"Allah'ın Elçisi (ﷺ) yiyecek satan bir adamın yanından geçti. Elini içine soktu ve onunla ilgili bir sorun olduğunu gördü. Allah'ın Elçisi (ﷺ) dedi ki: 'Hile yapan bizden değildir.'\""
+    },
+    {
+      "id": 89,
+      "narrator": "It was narrated that Abu Hamra' said:",
+      "text": "Abu Hamra'dan rivayet edilmiştir ki: \"Ben, Allah'ın Elçisi (ﷺ) yiyecek taşıyan bir adamın yanından geçtiğini gördüm. Elini içine soktu ve dedi ki: 'Belki de hile yapıyorsun. Bizi kandıran bizden değildir.'\""
+    },
+    {
+      "id": 90,
+      "narrator": "It was narrated from Ibn 'Umar that the Prophet (ﷺ) said:",
+      "text": "İbn 'Umar'dan rivayet edilmiştir ki, Peygamber (ﷺ) şöyle buyurmuştur: \"Kim yiyecek satın alırsa, onu tam olarak sahip olmadan satmasın.\""
+    },
+    {
+      "id": 91,
+      "narrator": "It was narrated that Ibn 'Abbas said:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: \"Allah'ın Resulü (ﷺ) şöyle dedi: 'Kim yiyecek alırsa, onu tamamen sahiplenmeden satmasın.'\" (Sahih) Rivayetinde, (rivayet edenlerden biri) Ebu Awanah dedi ki: \"İbn Abbas şöyle dedi: 'Bence her şey yiyecek gibidir.'\""
+    },
+    {
+      "id": 92,
+      "narrator": "It was narrated that Jabir said:",
+      "text": "Cabir'den rivayet edilmiştir: \"Allah'ın Resulü (ﷺ) ölçüyle alınan yiyeceklerin satılmasını, iki Sa' ölçülene kadar yasakladı - satıcının Sa'ı ve alıcının Sa'ı.\""
+    },
+    {
+      "id": 93,
+      "narrator": "It was narrated that Ibn 'Umar said:",
+      "text": "İbn Ömer'den rivayet edilmiştir: \"Biz, yiyeceği (yani, kervanlardan) atlı birliklerden alırdık, miktarını bilmeden, ama Allah'ın Resulü (ﷺ) bize, bize teslim edilmeden satmamızı yasakladı.\""
+    },
+    {
+      "id": 94,
+      "narrator": "It was narrated that 'Uthman bin 'Affan said:",
+      "text": "Osman bin Affan'dan rivayet edilmiştir: \"Pazar yerinde hurma satardım ve derdim ki: 'Bu, alırken şu kadar idi.' Alıcıya, benim için ölçülen şekilde belirli bir miktar hurma verirdim ve kârımı alırdım. Sonra bu konuda bazı şüphelerim oluştu, bu yüzden Allah'ın Resulü'ne (ﷺ) sordum, o da: 'Miktarı adlandırdığında, alıcının önünde ölç.' dedi.\""
+    },
+    {
+      "id": 95,
+      "narrator": "It was narrated that Abdullah bin Busr Al-Mazini said:",
+      "text": "Abdullah bin Busr Al-Mazini'den rivayet edilmiştir: \"Allah'ın Resulü (ﷺ) şöyle dediğini duydum: 'Yiyeceklerinizi ölçün, içinde bereket bulasınız.'\""
+    },
+    {
+      "id": 96,
+      "narrator": "It was narrated from Abu Ayyub that the Prophet (ﷺ) said:",
+      "text": "Ebu Eyyub'dan rivayet edilmiştir ki, Peygamber (ﷺ) şöyle dedi: \"Yiyeceklerinizi ölçün, içinde bereket bulasınız.\""
+    },
+    {
+      "id": 97,
+      "narrator": "It was narrated that Abu Usaid said that :",
+      "text": "Ebu Usaid'den rivayet edilmiştir ki: \"Allah'ın Resulü (ﷺ) Nabit pazarına gitti, ona baktı ve dedi ki: 'Bu sizin pazarınız değil.' Sonra başka bir pazara gittik, ona baktı ve dedi ki: 'Bu da sizin pazarınız değil.' Sonra bu pazara geri döndü ve içinde dolaştı, sonra dedi ki: 'Bu sizin pazarınızdır. Her zaman sizin pazarınız olacak ve üzerine hiçbir vergi konulmayacaktır.'\""
+    },
+    {
+      "id": 98,
+      "narrator": "It was narrated that Salman said :",
+      "text": "Salman'dan rivayet edilmiştir: \"Allah'ın Resulü (ﷺ) şöyle diyordu: 'Kim sabah namazına sabahın ilk saatlerinde giderse, iman bayrağı ile çıkar; ama kim sabahın ilk saatlerinde pazara çıkarsa, İblis'in (Şeytan) bayrağı altında çıkar.'\""
+    },
+    {
+      "id": 99,
+      "narrator": "It was narrated from Salim bin 'Abdullah bin 'Umar, from his father, that his grandfather told that the Messenger of Allah (ﷺ) said:",
+      "text": "Salim bin Abdullah bin Ömer'den, babasından, dedesinin şöyle söylediği rivayet edilmiştir: \"Allah'ın Resulü (ﷺ) şöyle dedi: 'Pazara girdiğinde: 'La ilaha illallah wahdahu la sharika lahu, lahul-mulk wa lahul-hamdu, yuhyi wa yumitu, wa Huwa hayyun la yamutu, bi yadihil-khairu kulluhu, wa Huwa ala kulli shay’in Qadir (Allah'tan başka ilah yoktur, O'nun ortağı yoktur, mülk O'nundur, hamd O'nundur, O hayat verir ve öldürür, O daima diridir ve ölmez; elinde her türlü hayır vardır ve O her şeye kadirdir)' diyen kimseye, Allah bir milyon sevap yazar ve bir milyon günahını siler ve ona cennette bir ev inşa eder.'\""
+    },
+    {
+      "id": 100,
+      "narrator": "It was narrated from Sakhr Al-Ghamidi that the  Messenger of Allah (ﷺ) said:",
+      "text": "Sakhr Al-Ghamidi'den rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle dedi: \"Ya Rabbi, ümmetime sabah erken saatlerinde bereket ver.\" (Hasan) Dedi ki: \"Bir akıncı birliği veya ordu gönderdiğinde, onları günün başında gönderirdi.\" Dedi ki: \"(1) Sakhr ticaretle uğraşan bir adamdı ve mallarını günün başında gönderirdi, ve serveti büyüyüp arttı.\""
+    },
+    {
+      "id": 101,
+      "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle dedi: \"Ya Rabbi, ümmetime Perşembe sabahı bereket ver.'\""
+    },
+    {
+      "id": 102,
+      "narrator": "It was narrated from Ibn Umar that the Messenger of Allah (ﷺ) said:",
+      "text": "İbn Ömer'den rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle dedi: \"Ya Rabbi, ümmetime sabah erken saatlerinde bereket ver.'\""
+    },
+    {
+      "id": 103,
+      "narrator": "It was narrated from Ibn 'Umar that the Prophet (ﷺ) said:",
+      "text": "İbn Ömer'den rivayet edilmiştir ki, Peygamber (ﷺ) şöyle dedi: \"Ya Rabbi, ümmetime sabah erken saatlerinde bereket ver.\" Ebu Hureyre'den rivayet edilmiştir ki, Peygamber (ﷺ) şöyle dedi: \"Kim bir Musarrah alırsa, üç gün içinde (işlemi iptal etme) hakkına sahiptir. Eğer iade ederse, o zaman bir Sa' hurma vermelidir, Samra' değil.\" Yani buğday."
+    },
+    {
+      "id": 104,
+      "narrator": "'Abdullah bin 'Umar said:",
+      "text": "Abdullah bin Ömer dedi ki: \"Allah'ın Resulü (ﷺ) şöyle dedi: 'Kim bir Muhaffalah alırsa, üç gün içinde (işlemi iptal etme) hakkına sahiptir. Eğer iade ederse, o zaman süt miktarının iki katı kadar buğday vermelidir veya süt miktarı kadar.'\""
+    },
+    {
+      "id": 105,
+      "narrator": "It was narrated that 'Abdullah bin Mas'ud said:",
+      "text": "Abdullah bin Mes'ud'dan rivayet edilmiştir: \"Gerçekten ilham edilen Abul-Kasım'ın (ﷺ) bize şöyle söylediğine şahitlik ederim: 'Bir Muhaffalah satmak Khilabah'tır ve Khilabah Müslüman için helal değildir.'\" (İbn Mace dedi ki: \"Anlamı: 'Aldatmadır.'\")"
+    },
+    {
+      "id": 106,
+      "narrator": "It was narrated from Aishah that :",
+      "text": "Aişe'den rivayet edilmiştir ki: Allah'ın Resulü (ﷺ) bir kölenin kazandıklarının onun kefiline ait olduğuna hükmetmiştir."
+    },
+    {
+      "id": 107,
+      "narrator": "It was narrated from 'Aishah that:",
+      "text": "Aişe'den rivayet edilmiştir ki: Bir adam bir köle satın aldı ve onu çalıştırmaya koydu, sonra onda bir kusur buldu ve onu geri verdi. O (satıcı) dedi ki: \"Ey Allah'ın Resulü, o benim kölemi çalıştırdı.\" Allah'ın Resulü (ﷺ) dedi ki: \"Bir kölenin kazançları onun kefiline aittir.\""
+    },
+    {
+      "id": 108,
+      "narrator": "It was narrated from Samurah bin Jundab that the Messenger of Allah (ﷺ) said:",
+      "text": "Semure bin Cundab'dan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) dedi ki: \"Bir köle ile ilgili sözleşme yükümlülüğü üç gün sürer.\" (1)"
+    },
+    {
+      "id": 109,
+      "narrator": "It was narrated from 'Uqbah bin 'Amir that the Messenger of Allah (ﷺ) said:",
+      "text": "Ukbe bin Amir'den rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) dedi ki: \"Dört günden sonra sözleşme yükümlülüğü yoktur.\""
+    },
+    {
+      "id": 110,
+      "narrator": "It was narrated that 'Uqbah bin 'Amir said:",
+      "text": "Ukbe bin Amir'in söylediğine göre: \"Ben Allah'ın Resulü (ﷺ) derken duydum ki: 'Müslüman, diğer bir Müslümanın kardeşidir ve bir Müslümanın kardeşine kusurlu bir mal satması, onu belirtmeden caiz değildir.'\""
+    },
+    {
+      "id": 111,
+      "narrator": "It was narrated that Wathilah bin Asqa' said:",
+      "text": "Vatilah bin Eska'dan rivayet edilmiştir ki: \"Ben Allah'ın Resulü (ﷺ) derken duydum ki: 'Kusurlu malı belirtmeden satan kimse, Allah'ın gazabına uğrayacak ve melekler ona lanet etmeye devam edecektir.'\""
+    },
+    {
+      "id": 112,
+      "narrator": "It was narrated that 'Abdullah bin Mas'ud said:",
+      "text": "Abdullah bin Mes'ud'dan rivayet edilmiştir ki: \"Esirler ona getirildiğinde, Peygamber (ﷺ) bir aile üyelerini bir arada (bir kişiye) vermekten kaçınırdı.\""
+    },
+    {
+      "id": 113,
+      "narrator": "It was narrated that 'Ali said:",
+      "text": "Ali'den rivayet edilmiştir ki: \"Allah'ın Resulü (ﷺ) bana iki kardeş köle verdi ve ben bunlardan birini sattım. O dedi ki: 'İki köleyle ne oldu?' Ben dedim: 'Birini sattım.' O dedi ki: 'Onu geri al.'\""
+    },
+    {
+      "id": 114,
+      "narrator": "It was narrated that Abu Musa said:",
+      "text": "Ebu Musa'dan rivayet edilmiştir ki: \"Allah'ın Resulü (ﷺ) bir anne ile çocuğunu, ya da bir kardeşi kardeşinden ayıran kimseye lanet etti.\""
+    },
+    {
+      "id": 115,
+      "narrator": "It was narrated that 'Abdul-Majid bin Wahb said:",
+      "text": "Abdul-Mecid bin Vahb'den rivayet edilmiştir ki: \"Adda' bin Halid bin Havdah bana dedi ki: 'Sana Allah'ın Resulü (ﷺ) tarafından bana yazılan bir mektubu okumayayım mı?' Ben dedim: 'Evet.' Sonra bir mektup çıkardı. İçinde: 'Bu, Adda' bin Halid bin Havdah'ın, Allah'ın Resulü (ﷺ) ile satın aldığı köle' ya da 'bir cariye, hastalığı olmayan, kaçak olmayan, kötü davranışı olmayan, Müslümandan Müslümana satılmıştır.' yazıyordu.\""
+    },
+    {
+      "id": 116,
+      "narrator": "It was narrated from 'Amr bin Shu'aib from his father that his grandfather told that the Messenger of Allah (ﷺ) said:",
+      "text": "Amr bin Şu'aib'den, babası aracılığıyla dedesinin, Allah'ın Resulü (ﷺ) şöyle dediğini aktardığı rivayet edilmiştir: \"Sizden biri bir köle kadın satın aldığında, şöyle desin: 'Allahım, ondan hayır istiyorum ve onu yarattığın hayra yönlendirdiğin için de sana sığınıyorum, içindeki şerden ve onu yarattığın şerre karşı da sana sığınıyorum.' Ve bereket için dua etsin. Sizden biri bir deve satın aldığında, onun hörgücünden tutup bereket için dua etsin ve benzer sözler söylesin.\""
+    },
+    {
+      "id": 117,
+      "narrator": "It was narrated that Malik bin Aws bin Hadathan Nasri said:",
+      "text": "Malik bin Evs bin Hadathan Nasri'den rivayet edilmiştir ki: \"Ben Ömer bin Hattab'ın şöyle dediğini duydum: 'Allah'ın Resulü (ﷺ) dedi ki: \"Altının altınla değiştirilmesi, yerinde yapılmadıkça faizedir. (Buğdayın buğdayla değiştirilmesi) faizedir, yerinde yapılmadıkça. (Arpanın arpa ile değiştirilmesi) faizedir, yerinde yapılmadıkça. (Hurmanın hurma ile değiştirilmesi) faizedir, yerinde yapılmadıkça.\""
+    },
+    {
+      "id": 118,
+      "narrator": "Muslim bin Yasar and 'Abdullah bin 'Ubaid said :",
+      "text": "Müslim bin Yesar ve Abdullah bin Ubeyd şöyle dediler: \"Ubade bin Samit ve Muaviye, ya bir kilisede ya da bir sinagogda karşılaştılar. Ubade bin Samit onlara rivayette bulundu ve dedi ki: 'Allah'ın Resulü (ﷺ) bize gümüşü gümüşle, altını altınla, buğdayı buğdayla, arpayı arpa ile, hurmayı hurma ile satmamızı yasakladı.' Onlardan biri dedi ki: 'Ve tuzu tuzla,' ama diğeri bunu söylemedi. 'Ve bize buğdayı arpa ile, ya da arpayı buğday ile, elden ele, istediğimiz gibi satmamızı emretti.'\""
+    },
+    {
+      "id": 119,
+      "narrator": "It was narrated from Abu Hurairah that the Prophet (ﷺ) said:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir ki, Peygamber (ﷺ) dedi ki: '(Satın al) gümüşü gümüşle, altını altınla, arpayı arpa ile, buğdayı buğdayla, eşit eşit.'"
+    },
+    {
+      "id": 120,
+      "narrator": "It was narrated that Abu Sa’eed said:",
+      "text": "Ebu Sa'id'den rivayet edilmiştir ki: \"Peygamber bize karışık (toplanmış) hurmalar verirdi. Allah'ın Resulü dedi ki: 'Bir Sa hurmayı iki Sa için vermek, ya da bir Dirhemi iki Dirhem için vermek doğru değildir. Bir Dirhem bir Dirhem ve bir Dinar bir Dinar olarak verilebilir; aralarındaki tek fark ağırlıktır (yani, ağırlık eşit olmalıdır).'” Sahih"
+    },
+    {
+      "id": 121,
+      "narrator": "It was narrated that Abu Hurairah said:",
+      "text": "Abu Hurayra'dan rivayet edildiğine göre, \"Abu Sa'id el-Hudri'nin şöyle dediğini duydum: 'Bir dirhem bir dirheme ve bir dinar bir dinara.' Ben de dedim ki: 'İbn Abbas'ın bunun dışında bir şey söylediğini duydum.' O da dedi ki: 'Ama ben İbn Abbas ile karşılaştım ve ona: \"Değişim hakkında söylediklerin, Allah Resulü'nden (ﷺ) duyduğun bir şey mi yoksa Allah'ın Kitabı'nda bulduğun bir şey mi?\" dedim. O da: \"Ben bunu Allah'ın Kitabı'nda bulmadım ve Allah Resulü'nden de duymadım; aksine Usame bin Zeyd bana Allah Resulü'nün (ﷺ) şöyle söylediğini aktardı: \"Faiz sadece kredi üzerindedir.\"'"
+    },
+    {
+      "id": 122,
+      "narrator": "It was narrated that Abu Jawza' said:",
+      "text": "Abu Cevza'dan rivayet edildiğine göre, \"İbn Abbas'ın (dirhemleri dirhemle vb. değiştirmeye) izin verdiğini duydum ve bu ondan rivayet edildi. Sonra onun bu görüşünü geri aldığına dair bir şey duydum. Mekke'de onu gördüm ve: 'Görüşünü geri aldığını duydum.' dedim. O da: 'Evet. Bu sadece benim kendi görüşümdü, ama Abu Sa'id, Allah Resulü'nden (ﷺ) onun gibi şeylerin (fazla verildiğinde) değişimini yasakladığını rivayet etti.'\""
+    },
+    {
+      "id": 123,
+      "narrator": "It was narrated that Zuhri heard Malik bin Aws bin Hadathan say:",
+      "text": "Zuhri, Malik bin Aws bin Hadathan'dan şöyle dediğini duydu: \"Ömer'in şöyle dediğini duydum: 'Allah Resulü (ﷺ) şöyle dedi: 'Altın ile gümüş arasında faiz vardır, ancak yerinde değişim yapılmadıkça.' (Sahih) Ebu Bekir bin Ebu Şeybe dedi ki: \"Süfyân'ın şöyle dediğini duydum: 'Altın ile gümüş.' bunu ezberleyin.\""
+    },
+    {
+      "id": 124,
+      "narrator": "It was narrated that Malik bin Aws bin Hadathan said:",
+      "text": "Malik bin Aws bin Hadathan'dan rivayet edildiğine göre, \"Ben: 'Kim dirhem değiştirecek?' diye geldim. Talha bin Ubeydullah, Ömer bin Hattab ile birlikteydi ve: 'Altınını göster, sonra bize gel; hazinemiz geldiğinde sana gümüşünü vereceğiz.' dedi. Ömer: 'Hayır, Allah'a yemin olsun ki, ona gümüş vereceksiniz (şimdi), ya da altınını geri vereceksiniz, çünkü Allah Resulü (ﷺ) şöyle dedi: 'Gümüş ile altın arasında faiz vardır, ancak yerinde değişim yapılmadıkça.'\""
+    },
+    {
+      "id": 125,
+      "narrator": "It was narrated from Umar bin Muhammad bin 'Ali bin abi Talib, from his father, that his grandfather said:",
+      "text": "Umar bin Muhammed bin Ali bin Ebu Talib'den, babasından, dedesinin şöyle dediği rivayet edilmiştir: 'Allah Resulü (ﷺ) şöyle dedi: 'Dinar dinar, dirhem dirhem, aralarında artış olmaksızın. Kim gümüşe ihtiyaç duyuyorsa, altınla ticaret yapsın, kim altına ihtiyaç duyuyorsa, gümüşle ticaret yapsın ve işlem yerinde yapılsın.'\""
+    },
+    {
+      "id": 126,
+      "narrator": "It was narrated that Ibn 'Umar said:",
+      "text": "İbn Ömer'den rivayet edildiğine göre, \"Ben develer satardım ve gümüşle altın, dirhemle dinar alırdım. Bunun hakkında Peygamber'e (ﷺ) sordum ve o: 'Eğer birini alıp diğerini verirseniz, siz ve arkadaşınız her şey netleşene kadar ayrılmayın (yani, değişim tamamlanana kadar).' dedi.\" (Hasan) Benzer ifadelerle başka bir isnad."
+    },
+    {
+      "id": 127,
+      "narrator": "It was narrated from 'Alqamah bin 'Abdullah that his father said:",
+      "text": "Alqamah bin Abdullah'dan rivayet edildiğine göre, babası şöyle dedi: \"Allah Resulü (ﷺ) Müslümanların arasında dolaşan paraların bozulmasını, gerekli bir sebep olmaksızın yasakladı.\"(1)"
+    },
+    {
+      "id": 128,
+      "narrator": "It was narrated from 'Abdullah bin Yazid, the freed slave of Al-Aswad bin Sufyan, that :",
+      "text": "Abdullah bin Yazid'den, Al-Aswad bin Süfyân'ın freedman'ı olarak rivayet edildiğine göre: Zaid, Beni Zuhra'nın freedman'ı olan Ebu Ayyash'ın, Sa'd bin Ebu Vakkas'a arpa ile buğday satın alması hakkında sorduğunu söyledi. Sa'd ona: \"Hangisi daha iyidir?\" dedi. O da: \"Buğday.\" dedi. Sa'd ona bunu yapmamasını söyledi ve: \"Allah Resulü'ne (ﷺ) taze hurmaların kuru hurmalarla satın alınması hakkında sorulduğunda, o: 'Taze hurmalar kuruduğunda ağırlıkları azalır mı?' dedi. Onlar: 'Evet.' dediler. Bunun üzerine o onlara bunu yapmamalarını söyledi.\""
+    },
+    {
+      "id": 129,
+      "narrator": "It was narrated that 'Abduilah bin 'Umar said:",
+      "text": "Abdullah bin Ömer'den rivayet edildiğine göre, \"Allah Resulü (ﷺ) muzabene'yi yasakladı. Muzabene, bir adamın hurmalarını ağaçta iken kuru hurma ölçüsüyle satmasıdır; ya da üzümse, onları asma üzerinde iken kuru üzüm ölçüsüyle satmasıdır; ya da bir mahsulse, onu gıda için satmasıdır, tarladaki miktarı tahmin ederek. O, bunların hepsini yasakladı.\""
+    },
+    {
+      "id": 130,
+      "narrator": "lt was narrated from Sabir bin 'Abdullah that :",
+      "text": "Sabir bin Abdullah'dan rivayet edildiğine göre: Allah Resulü (ﷺ) muhaqala ve muzabene'yi yasakladı."
+    },
+    {
+      "id": 131,
+      "narrator": "It was narrated that Rafi, bin Khadij said:",
+      "text": "Rafi bin Khadij'den rivayet edildiğine göre: \"Allah Resulü (ﷺ) muhaqala ve muzabene'yi yasakladı.\""
+    },
+    {
+      "id": 132,
+      "narrator": "It was narrated from Salim from his father:",
+      "text": "Salim'den babasından rivayet edildiğine göre: \"Zaid bin Sabit bana, Allah Resulü'nün (ﷺ) 'Araya'nın satışına dair bir kolaylık verdiğini aktardı.\""
+    },
+    {
+      "id": 133,
+      "narrator": "It was narrated from 'Abdullah bin 'Umar that he said:",
+      "text": "Abdullah bin Ömer'den rivayet edildiğine göre, \"Zaid bin Sabit bana, Allah Resulü'nün (ﷺ) 'Araya'nın tahmini hasadının kuru hurmalar karşılığında satışına dair bir kolaylık verdiğini söyledi.\" (Sahih) Yahya (rivayet edenlerden biri) dedi ki: \"'Araya, bir adamın ağaçlardaki hurmaları, ailesinin yediği olgun gıda için, tahmin ederek satın almasıdır.\""
+    },
+    {
+      "id": 134,
+      "narrator": "It was narrated from Samurah bin Jundub that :",
+      "text": "Samurah bin Cundub'dan rivayet edildiğine göre: Allah Resulü (ﷺ) hayvanların hayvanlarla kredi ile satılmasını yasakladı."
+    },
+    {
+      "id": 135,
+      "narrator": "It was narrated from Jabir that the Messenger of Allah (ﷺ) said:",
+      "text": "Cabir'den rivayet edildiğine göre, Allah Resulü (ﷺ) şöyle dedi: \"Hayvanları, birini ikiye, elden ele satmakta bir sakınca yoktur,\" ancak onlara kredi ile satılmasını hoş karşılamadı."
+    },
+    {
+      "id": 136,
+      "narrator": "It was narrated from Anas that :",
+      "text": "Anas'tan rivayet edilmiştir ki: Peygamber (ﷺ) Safiyyah'yı yedi köle karşılığında satın almıştır. (Sahih) (Rivayet edenlerden) 'Abdur-Rahman dedi ki: \"Dihyah Kalbi'den.\""
+    },
+    {
+      "id": 137,
+      "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:",
+      "text": "Abu Hurayra'dan rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle dedi: \"Miraç gecesi, karnı dışarıdan görünen yılanlarla dolu olan insanlara geldim. 'Bunlar kimdir, ey Cebrail?' dedim. O da: 'Bunlar faiz yiyenlerdir.' dedi.\""
+    },
+    {
+      "id": 138,
+      "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:",
+      "text": "Abu Hurayra'dan rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle dedi: \"Faizin yetmiş derecesi vardır, bunların en hafifi bir adamın annesiyle cinsel ilişkiye girmesi gibidir.\""
+    },
+    {
+      "id": 139,
+      "narrator": "It was narrated from 'Abdullah that the Prophet (ﷺ) said:",
+      "text": "'Abdullah'tan rivayet edilmiştir ki, Peygamber (ﷺ) şöyle dedi: \"Faizin yetmiş üç derecesi vardır.\""
+    },
+    {
+      "id": 140,
+      "narrator": "It was narrated that 'Umar bin Khattab said:",
+      "text": "'Umar bin Khattab'dan rivayet edilmiştir ki: \"Son inen ayet faizle ilgiliydi ama Allah'ın Elçisi (ﷺ) bunu bize açıklamadan vefat etti. O yüzden faizi (faizli işlemleri) ve şüpheli şeyleri terk edin.\""
+    },
+    {
+      "id": 141,
+      "narrator": "It was narrated from 'Abdullah bin Mas'ud that :",
+      "text": "'Abdullah bin Mes'ud'dan rivayet edilmiştir ki: Allah'ın Elçisi (ﷺ) faizi yiyeni, ödeyeni, şahitlik edeni ve yazanı lanetlemiştir."
+    },
+    {
+      "id": 142,
+      "narrator": "It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:",
+      "text": "Abu Hurayra'dan rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle dedi: \"Bir zaman gelecek ki, faiz yemeyen kimse kalmayacak, faiz yemeyen bile ondan etkilenmiş olacaktır.\""
+    },
+    {
+      "id": 143,
+      "narrator": "It was narrated from Ibn Mas'ud that the Prophet (ﷺ) said:",
+      "text": "İbn Mes'ud'dan rivayet edilmiştir ki, Peygamber (ﷺ) şöyle dedi: \"Faizle çokça uğraşan kimse, sonunda az bir şeyle kalacaktır (yani, malı azalacaktır).\""
+    },
+    {
+      "id": 144,
+      "narrator": "It was narrated that Ibn 'Abbas said:",
+      "text": "İbn 'Abbas'tan rivayet edilmiştir ki: \"Peygamber (ﷺ) Medine'ye geldiğinde, hurma için iki veya üç yıl önceden peşin ödeme yaparlardı. O da: 'Hurma için peşin ödeme yapan, bilinen bir miktar veya bilinen bir ağırlıkla, bilinen bir zamanda teslim edilmek üzere ödesin.' dedi.\""
+    },
+    {
+      "id": 145,
+      "narrator": "It was narrated from Muhammad bin Hamzah bin Yusuf bin 'Abdullah bin Salam, from his father, that his grandfather 'Abdullah bin Salam said:",
+      "text": "Muhammad bin Hamzah bin Yusuf bin 'Abdullah bin Selam'dan, babasından, dedesi 'Abdullah bin Selam'dan rivayet edilmiştir ki: \"Bir adam Peygamber (ﷺ)'e geldi ve dedi ki: 'Banu so-and-so kabilesi, Yahudilerden gelenler, Müslüman oldular ve açlık çekiyorlar, onlardan bazıları dinden dönebilir.' Peygamber (ﷺ) dedi ki: 'Kimde bir şey var?' Bir Yahudi adam dedi ki: 'Bende şu kadar var,' ve bunu saydı, 've sanırım üç yüz Dinar karşılığında Banu so-and-so kabilesinin bahçesinden şu kadar ürün için.' Allah'ın Elçisi (ﷺ) dedi ki: 'Şu kadar bir fiyatla, şu kadar bir zamanda ama Banu so-and-so kabilesinin bahçesinden değil.'\""
+    },
+    {
+      "id": 146,
+      "narrator": "It was narrated that Abu Mujalid said:",
+      "text": "Abu Mujalid'den rivayet edilmiştir ki: \"Abdullah bin Şeddad ve Abu Barzah, peşin ödeme konusunda bir tartışma yaşadılar. Beni 'Abdullah bin Abu Avfa'ya gönderdiler, ona bunu sormam için. O da: 'Biz, Allah'ın Elçisi (ﷺ) zamanında ve Ebu Bekir ile 'Umar zamanında, buğday, arpa, kuru üzüm ve hurma için, henüz o şeylere sahip olmayan insanlara peşin ödeme yapardık.' dedi. İbn Abza'ya sordum, o da benzer bir şey söyledi.\""
+    },
+    {
+      "id": 147,
+      "narrator": "It was narrated from Abu Sa'eed that the Messenger of Allah (ﷺ) said:",
+      "text": "Abu Sa'id'den rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle dedi: \"Bir şey için peşin ödeme yaptığınızda, onu başka bir şeyle değiştirmeyin.\" (Da'if) Benzer ifadelerle başka bir zincir."
+    },
+    {
+      "id": 148,
+      "narrator": "It was narrated that Najrani said:",
+      "text": "Najrani'den rivayet edilmiştir ki: \"Ben 'Abdullah bin 'Umar'a dedim ki: 'Bir hurma ağacını meyve vermeden önce peşin ödeyebilir miyim?' O dedi ki: 'Hayır.' Ben de: 'Neden?' dedim. O dedi ki: 'Bir adam, Allah'ın Elçisi (ﷺ) zamanında, meyve vermeden önce bir ağaç bahçesi için peşin ödeme yaptı ve o yıl hiçbir şey vermedi. Alıcı dedi ki: 'Onlar benimdir, meyve verene kadar,' ama satıcı dedi ki: 'Ben sadece bu yıl için ağaçları sana sattım!' Tartışmalarını Allah'ın Elçisi'ne götürdüler, O da satıcıya dedi ki: 'Onun hurma ağaçlarından bir şey aldın mı?' O da: 'Hayır.' dedi. O da: 'O zaman neden onun malını helal sayıyorsun? Ondan aldığını geri ver ve hurma ağaçları için meyve vermeden önce peşin ödeme alma.'\""
+    },
+    {
+      "id": 149,
+      "narrator": "It was narrated from Abu Rafi' that:",
+      "text": "Abu Rafi'’den rivayet edilmiştir ki: Peygamber (ﷺ) bir adamdan genç bir deve borç vermesini istedi ve dedi ki: \"Sadaka develeri geldiğinde, sana geri ödeyeceğiz.\" Develer geldiğinde, O dedi: \"Ey Abu Rafi', bu adama genç devesinin bedelini öde.\" Ama bulduğum tek şey yedi yaşında bir deve ya da daha iyi bir şeydi. Peygamber (ﷺ)'e söyledim, O da: \"Ona ver, çünkü insanların en hayırlısı, borcunu en iyi ödeyendir.\" dedi."
+    },
+    {
+      "id": 150,
+      "narrator": "Sa'eed bin Hani' said:",
+      "text": "Sa'id bin Hani' dedi ki: \"İrbad bin Sariyah'ın şöyle dediğini duydum: 'Ben Peygamber (ﷺ) ileydim ve bir bedevi dedi ki: \"Genç develimin bedelini bana öde,\" ve ona daha yaşlı (yani, daha iyi) bir deve verdi. O da: 'Ey Allah'ın Elçisi! Bu benim develimden daha yaşlı (yani, daha iyi).' dedi. Allah'ın Elçisi (ﷺ) dedi ki: 'İnsanların en hayırlısı, borcunu en iyi ödeyendir.'\""
+    },
+    {
+      "id": 151,
+      "narrator": "It was narrated that Sa'ib said to the Prophet (ﷺ):",
+      "text": "Sa'ib'in, Peygamber (ﷺ)'e şöyle dediği rivayet edilmiştir: \"Sen, Cahiliye döneminde benim ortağım oldun ve en iyi ortaktın, ne çekiştirdin ne de tartıştın.\""
+    },
+    {
+      "id": 152,
+      "narrator": "It was narrated that 'Abdullah said:",
+      "text": "'Abdullah'tan rivayet edilmiştir: \"Sa'd, 'Ammar ve ben Badr günü bir ortaklık kurduk, (bize tahsis edilen) her şeyi paylaşmayı kabul ettik. 'Ammar ve ben hiçbir şey almadık, ama Sa'd iki adam (köle) aldı.\""
+    },
+    {
+      "id": 153,
+      "narrator": "lt was narrated from Salih bin Suhaib that his father said:",
+      "text": "Salih bin Suhaib'den rivayet edilmiştir ki, babası şöyle demiştir: \"Allah'ın Resulü (ﷺ) şöyle buyurdu: 'Üç şeyde bereket vardır: Vadesi ertelenmiş satış; Muqaradhah (kar paylaşımı); ve ev için buğdayı arpa ile karıştırmak, ama satmak için değil.'\""
+    },
+    {
+      "id": 154,
+      "narrator": "It was narrated from 'Aishah that the Messenger of Allah (ﷺ) said:",
+      "text": "'Aişe'den rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle buyurdu: \"Sizin en iyi rızkınız, kazandıklarınızdır ve çocuklarınız, kazandıklarınızın bir parçasıdır.\""
+    },
+    {
+      "id": 155,
+      "narrator": "It was narrated from Jabir bin 'Abdullah that a man said:",
+      "text": "Jabir bin 'Abdullah'tan rivayet edilmiştir ki, bir adam şöyle dedi: \"Ey Allah'ın Resulü, benim bir malım ve bir oğlum var, babam tüm malımı almak istiyor.\" O da şöyle dedi: \"Sen ve malın babana aittir.\""
+    },
+    {
+      "id": 156,
+      "narrator": "It was narrated from 'Amr bin Shu'aib, from his father, that his grandfather said:",
+      "text": "'Amr bin Shu'aib'den, babasından, dedesinin şöyle dediği rivayet edilmiştir: \"Bir adam Allah'ın Resulü (ﷺ)'ne geldi ve şöyle dedi: 'Babam tüm malımı alıyor.' O da şöyle dedi: 'Sen ve malın babana aittir.' Ve Allah'ın Resulü (ﷺ) şöyle buyurdu: 'Çocuklarınız, kazançlarınızın en iyilerindendir, bu yüzden malınızdan yiyin.'\""
+    },
+    {
+      "id": 157,
+      "narrator": "It was narrated that 'Aishah said:",
+      "text": "'Aişe'den rivayet edilmiştir ki, Hind, Peygamber (ﷺ)'e geldi ve şöyle dedi: \"Ey Allah'ın Resulü, Ebu Süfyan cimri bir adamdır ve bana ve çocuğuma yeterince vermiyor, sadece onun malından farkında olmadan aldıklarım dışında.\" O da şöyle dedi: \"Sen ve çocuğun için yeterli olanı al, makul bir şekilde.\""
+    },
+    {
+      "id": 158,
+      "narrator": "It was narrated from 'Aishah that the Messenger of Allah (ﷺ) said:",
+      "text": "'Aişe'den rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle buyurdu: \"Bir kadın harcama yaptığında\" ve babam şöyle dedi: \"Bir kadın kocasının evinden (fakirlere) yiyecek verirse, fazla harcama yapmadan, onun mükafatı olacaktır ve o da kazandığı için ödüllendirilecektir, ve o harcadığı için ödüllendirilecektir. Aynı şey, mağaza sahibine de geçerlidir, onların ödüllerinden hiçbir şey eksilmez.\""
+    },
+    {
+      "id": 159,
+      "narrator": "Shurahbil bin Muslim Al-Khawlani said:",
+      "text": "Şurahbil bin Muslim Al-Khawlani şöyle dedi: Abu Umamah Al-Bahili'nin şöyle dediğini duydum: \"Allah'ın Resulü (ﷺ) şöyle buyurdu: 'Hiçbir kadın, kocasının izni olmadan evinden bir şey harcamamalıdır.' Onlar da: 'Ey Allah'ın Resulü, yiyecek bile mi?' dediler. O da: 'Bu, bizim en iyi malımızdandır.'\""
+    },
+    {
+      "id": 160,
+      "narrator": "It was narrated from Muslim Al-Mula'i that he heard Anas bin Malik say:",
+      "text": "Muslim Al-Mula'i'den rivayet edilmiştir ki, Anas bin Malik'in şöyle dediğini duydu: \"Allah'ın Resulü (ﷺ) bir kölenin davetini kabul ederdi.\""
+    },
+    {
+      "id": 161,
+      "narrator": "It was narrated that 'Umair, the freed slave of Aabi Lahm, said:",
+      "text": "'Umair, Aabi Lahm'ın azatlı kölesi, şöyle dedi: \"Efendim bana yiyecek verirdi ve ben ondan başkalarına yedirirdim, sonra beni durdurdu,\" ya da şöyle dedi: \"Beni dövdü. Bu yüzden Peygamber'e sordum,\" -ya da- \"o ona sordu ve ben: 'Durdurmayacağım' dedim. O da: 'İkiniz de ödüllendirileceksiniz.'\""
+    },
+    {
+      "id": 162,
+      "narrator": "It was narrated that Abu Bishr Ja'far bin Abu Jyas said:",
+      "text": "Abu Bishr Ja'far bin Abu Jyas şöyle dedi: \"Abbad bin Şurahbil'in, Banu Ghubar'dan bir adamın şöyle dediğini duydum: 'Bir yıl kıtlık çektik, ve Medine'ye geldim. Bir bahçesine girdim ve bir başak aldım, ovdum, biraz yedim ve geri kalanını giysime koydum. Bahçenin sahibi geldi ve beni dövdü ve giysimi aldı. Peygamber (ﷺ)'e geldim ve (olanları) anlattım. O da adama şöyle dedi: 'Sen onu açken doyurmadın ve cehalet içinde iken ona öğretmedin.' Sonra Peygamber (ﷺ) ona giysisini geri vermesini emretti ve ona bir Wasq veya yarım Wasq yiyecek getirilmesini emretti.\""
+    },
+    {
+      "id": 163,
+      "narrator": "It was narrated that Rafi' bin 'Amr Al-Ghifari said:",
+      "text": "Rafi' bin 'Amr Al-Ghifari şöyle dedi: \"Ben çocukken, hurma ağaçlarımıza taş atardım\" -ya da şöyle dedi: \"Ensar'ın hurma ağaçlarına.\" Beni Peygamber (ﷺ)'e getirdiler ve o da: 'Ey çocuk' - (rivayet edenlerden biri) İbn Kasib şöyle dedi: 'O da: 'Ey oğlum - neden hurma ağaçlarına taş atıyorsun?' dedi. Ben de: 'Yemek için.' dedim. O da: 'Hurma ağaçlarına taş atma. Onlardan yere düşenlerden ye.' Sonra başımı okşadı ve: 'Ya Allah, ona yeterince ye.' dedi.\""
+    },
+    {
+      "id": 164,
+      "narrator": "It was narrated from Abu Sa'eed that the Prophet (ﷺ) said:",
+      "text": "Abu Sa'id'den rivayet edilmiştir ki, Peygamber (ﷺ) şöyle buyurdu: \"Bir çobana geldiğinizde, ona üç kez seslenin. Eğer cevap verirse (her şey yolunda), aksi takdirde (sürünün) sütünü alırken fırsatçılık yapmayın. Ve bir bahçeye geldiğinizde, bahçe sahibine üç kez seslenin. Eğer cevap verirse (her şey yolunda), aksi takdirde (bahçenin ürününden) fırsatçılık yapmadan yiyin.\""
+    },
+    {
+      "id": 165,
+      "narrator": "It was narrated from Ibn 'Umar that the Messenger of Allah (ﷺ) said:",
+      "text": "İbn 'Umar'dan rivayet edilmiştir ki, Allah'ın Resulü (ﷺ) şöyle buyurdu: \"Sizden biri bir bahçeden geçerse, oradan yesin, ama giysisiyle hiçbir şey alıp götürmesin.\""
+    },
+    {
+      "id": 166,
+      "narrator": "It was narrated from 'Abdullah bin 'Umar that the Messenger of Allah (ﷺ) stood up and said:",
+      "text": "'Abdullah bin 'Umar'dan rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) ayağa kalktı ve şöyle dedi: \"Hiçbiriniz, başka bir adamın hayvanlarından izinsiz süt sağmasın. İçinizden biri, birinin deposuna girip yiyeceğini almasını ister mi? Hayvanlarının memeleri, onlara yiyecek depolar, bu yüzden hiçbiri, başka bir adamın hayvanlarından izinsiz süt sağmasın.\""
+    },
+    {
+      "id": 167,
+      "narrator": "Abu Hurairah said:",
+      "text": "Abu Hurairah dedi ki: \"Biz, Allah'ın Elçisi (ﷺ) ile bir yolculukta iken, memeleri bağlanmış bazı develer gördük, dikenli ağaçların arasında. Onlara doğru koştuk, ama Allah'ın Elçisi (ﷺ) bizi çağırdı ve geri döndük. O şöyle dedi: 'Bu develer, bir Müslüman ailesine aittir ve bu, Allah'tan sonra onların destek ve bereketidir. Eğer geri döndüğünüzde kaplarınızın içindeki yiyeceklerin alındığını bulsanız, mutlu olur musunuz? Bunun adil olduğunu mu düşünüyorsunuz?' Onlar: 'Hayır.' dediler. O: 'Bu da öyle.' dedi. Biz: 'Ya yiyecek ve içeceğe ihtiyacımız olursa ne dersiniz?' dedik. O: 'Yiyin ama hiçbir şey alıp götürmeyin; için ama hiçbir şey alıp götürmeyin.'\""
+    },
+    {
+      "id": 168,
+      "narrator": "It was narrated from Umm Hani' that the Prophet (ﷺ) said to her:",
+      "text": "Umm Hani' den rivayet edilmiştir ki, Peygamber (ﷺ) ona şöyle dedi: \"Koyun besle, çünkü onlarda bereket vardır!\""
+    },
+    {
+      "id": 169,
+      "narrator": "It was narrated that 'Urwah Al-Bariqi said in a Marfu’ report:",
+      "text": "'Urwah Al-Bariqi'nin marfu' bir rivayetinde şöyle denilmiştir: \"Develer, sahiplerinin gururudur, koyunlar ise bir berekettir ve iyilik, atların saçlarının ön kısmına kadar bağlıdır, kıyamet gününe kadar.\""
+    },
+    {
+      "id": 170,
+      "narrator": "It was narrated from Ibn 'Umar that the Messenger of Allah (ﷺ) said:",
+      "text": "İbn 'Umar'dan rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle dedi: \"Koyunlar, cennetin hayvanlarındandır.\""
+    },
+    {
+      "id": 171,
+      "narrator": "It was narrated that Abu Hurairah said:",
+      "text": "Abu Hurairah'tan rivayet edilmiştir ki: \"Allah'ın Elçisi (ﷺ) zenginlere koyun beslemelerini, fakirlere ise tavuk beslemelerini emretti ve şöyle dedi: 'Zenginler tavuk beslemeye başladığında, o zaman Allah, şehrin yok olmasına izin verecektir.'\""
+    }
+  ]
+}

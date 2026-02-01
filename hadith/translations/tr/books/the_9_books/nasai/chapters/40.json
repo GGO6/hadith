@@ -1,0 +1,66 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 10,
+    "arabic": {
+      "title": "سنن النسائي",
+      "author": "الإمام أحمد بن شعيب النسائي"
+    },
+    "english": {
+      "title": "Sunan an-Nasai",
+      "author": "Imam Ahmad ibn Shuayb an-Nasai"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "It was narrated from 'Amr bin Shuaib, from his fahther, that his grandfather said:",
+      "text": "'Amr bin Şuayb'den, babasından, dedesinin şöyle söylediği rivayet edilmiştir: \"Allah'ın elçisine 'Aqiqah hakkında soruldu ve o şöyle dedi: 'Allah, aziz ve yüce olan, Al-Uquq'u sevmez' sanki 'Al-Aqiqah' kelimesini sevmedi. O, Allah'ın elçisine: 'Ama birimiz çocuğu doğduğunda kurban kesebilir.' dedi. O da: 'Çocuğu için kurban kesmek isteyen, yapsın; erkek çocuk için iki koyun, Mukafaatan (eşit yaşta), ve kız çocuk için bir koyun.' (Rivayet edenlerden) Davud dedi ki: 'Mukafaatan kelimesini Ziyad bin Aslam'a sordum, o da: 'Birlikte kesilen iki benzer koyun' dedi.\""
+    },
+    {
+      "id": 2,
+      "narrator": "It was narrated from 'Abdullah bin Buraidah, from his father, that:",
+      "text": "'Abdullah bin Buraidah'dan, babasından rivayet edilmiştir ki: Allah'ın elçisi, Al-Hasan ve Al-Hüseyin için 'Aqiqah kurbanı kesmiştir."
+    },
+    {
+      "id": 3,
+      "narrator": "It was narrated from Salman bin 'Amir Ad-Dabbi that the Messenger of Allah said:",
+      "text": "Salman bin 'Amir Ad-Dabbi'den rivayet edilmiştir ki, Allah'ın elçisi şöyle dedi: \"Bir erkek çocuk için 'Aqiqah olmalıdır, onun için kan akıtın ve ondan zararı kaldırın.\""
+    },
+    {
+      "id": 4,
+      "narrator": "it was narrated from Um Kurz that the Messenger of Allah said:",
+      "text": "Um Kurz'dan rivayet edilmiştir ki, Allah'ın elçisi şöyle dedi: \"Bir erkek çocuk için iki koyun, Mukafaatan (eşit yaşta), ve bir kız çocuk için bir koyun.\""
+    },
+    {
+      "id": 5,
+      "narrator": "It was narrated from Umm Kurz that the Messenger of Allah said:",
+      "text": "Umm Kurz'dan rivayet edilmiştir ki, Allah'ın elçisi şöyle dedi: \"Bir erkek çocuk için iki koyun, Mukafaatan (eşit yaşta), ve bir kız çocuk için bir koyun.\""
+    },
+    {
+      "id": 6,
+      "narrator": "It was narrated that umm Kurz said:",
+      "text": "Umm Kurz'dan rivayet edilmiştir ki: \"Ben Peygamber'e geldim ve ona kurban et hakkında sordum. Onu şöyle derken duydum: 'Bir erkek çocuk için iki koyun, bir kız çocuk için bir koyun, ve onların erkek veya dişi olması önemli değildir.'\""
+    },
+    {
+      "id": 7,
+      "narrator": "It was narrated from Umma Kurz that the Messenger of Allah said:",
+      "text": "Umma Kurz'dan rivayet edilmiştir ki, Allah'ın elçisi şöyle dedi: \"Bir erkek çocuk için iki koyun, bir kız çocuk için bir koyun, ve onların erkek veya dişi olması önemli değildir.\""
+    },
+    {
+      "id": 8,
+      "narrator": "It was narrated that Ibn 'Abbas said:",
+      "text": "İbn 'Abbas'tan rivayet edilmiştir ki: \"Allah'ın elçisi, Al-Hasan ve Al-Hüseyin için, Allah onlardan razı olsun, her biri için iki koç kurban etmiştir.\""
+    },
+    {
+      "id": 9,
+      "narrator": "It was narrated from Qatadah, from Al-Hasan, from Samurh bin Jundab that the Messenger of Allah said:",
+      "text": "Kâtadah'dan, Al-Hasan'dan, Samurh bin Cundab'dan rivayet edilmiştir ki, Allah'ın elçisi şöyle dedi: \"Her erkek çocuk 'Aqiqah' için rehin tutulmuştur, bu yüzden onun için yedinci günde (hayvanı) kesin, başını traş edin ve bir isim koyun.\""
+    },
+    {
+      "id": 10,
+      "narrator": "It was narrated from Habib bin Ash-Shahid:",
+      "text": "Habib bin Ash-Shahid'den rivayet edilmiştir: \"Muhammed bin Sirin bana dedi ki: 'Al-Hasan (Al-Basri)'ye bu 'Aqiqah' hadisini kimin söylediğini sor.' Ben ona bunu sordum ve o da: 'Bunu Samurh'tan duydum.' dedi.\""
+    }
+  ]
+}

@@ -1,0 +1,781 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 153,
+    "arabic": {
+      "title": "سنن أبي داود",
+      "author": "الإمام أبو داود السجستاني"
+    },
+    "english": {
+      "title": "Sunan Abu Dawud",
+      "author": "Imam Abu Dawud al-Sijistani"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Narrated Amir ar-Ram:",
+      "text": "Amir ar-Ram'dan rivayet edilmiştir: Biz ülkemizdeydik, bayraklar ve sancaklar kaldırıldı. Ben dedim ki: Bu nedir?"
+    },
+    {
+      "id": 2,
+      "narrator": "Narrated Muhammad ibn Khalid as-Sulami:",
+      "text": "(İnsanlar) dediler ki: Bu, Allah'ın Messenger'ının (ﷺ) sancağıdır. Ben de ona geldim. O, bir ağacın altında oturuyordu. Onun için bir örtü serilmişti ve o üzerine oturuyordu. Ashabları etrafında toplanmıştı. Ben de onlarla oturdum."
+    },
+    {
+      "id": 3,
+      "narrator": "Narrated Abu Musa:",
+      "text": "Allah'ın Messenger'ı (ﷺ) hastalıktan bahsetti ve şöyle dedi: Bir mümin hastalığa uğradığında ve Allah onu iyileştirdiğinde, bu onun önceki günahları için bir kefaret olur ve geleceği için bir uyarıdır."
+    },
+    {
+      "id": 4,
+      "narrator": "Narrated Umm al-Ala:",
+      "text": "Ama bir münafık hastalandığında ve sonra iyileştiğinde, o, sahipleri tarafından bağlanmış ve sonra serbest bırakılmış bir deve gibidir, ama neden bağlandığını ve neden serbest bırakıldığını bilmez."
+    },
+    {
+      "id": 5,
+      "narrator": "Narrated 'Aishah:",
+      "text": "Etrafındakilerden bir adam sordu: Allah'ın Messenger'ı, hastalıklar nedir? Allah'a yemin ederim ki, ben hiç hastalanmadım."
+    },
+    {
+      "id": 6,
+      "narrator": "Narrated Usamah b. Zaid:",
+      "text": "Allah'ın Messenger'ı (ﷺ) dedi ki: Kalk ve bizden ayrıl. Sen bizim içimizde değilsin. Onunla birlikteyken, yanına bir adam geldi. Elinde bir örtü ve bir şey vardı."
+    },
+    {
+      "id": 7,
+      "narrator": "Narrated Anas :",
+      "text": "Ona yöneldi ve dedi: Allah'ın Messenger'ı, seni gördüğümde sana yöneldim. Bir grup ağaç gördüm ve yavru kuşların sesini duydum. Onları aldım ve giysime koydum. Anneleri geldi ve başımın etrafında döndü. Onları ona gösterdim, o da onların üzerine düştü. Onları giysimle sardım. Şimdi benimleler."
+    },
+    {
+      "id": 8,
+      "narrator": "Narrated Jabir:",
+      "text": "O dedi: Onları yanından uzaklaştır. Ben de onları uzaklaştırdım, ama anneleri onlarla kaldı."
+    },
+    {
+      "id": 9,
+      "narrator": "Narrated Anas ibn Malik:",
+      "text": "Allah'ın Messenger'ı (ﷺ) ashabına dedi: Anne ile yavrusu arasındaki sevgiye şaşırdınız mı?"
+    },
+    {
+      "id": 10,
+      "narrator": "Narrated 'Ali:",
+      "text": "Onlar dediler: Evet, Allah'ın Messenger'ı. O dedi: Doğruyu benimle gönderen Allah'a yemin ederim, Allah, kullarına anneden daha merhametlidir. Onları geri al, annelerinin yanında olması gereken yere koy. Böylece onları geri aldı."
+    },
+    {
+      "id": 11,
+      "narrator": "The tradition mentioned above has also been transmitted by 'Ali from the Prophet (ﷺ) through a different chain of narrators to the same effect. This version does not mention the word \"garden\" (khartf).\n\n\nAbu Dawud said:",
+      "text": "---"
+    },
+    {
+      "id": 12,
+      "narrator": "Narrated Abu Ja'far 'Abd Allah b. Nafi', the slave of al-Hasan b. 'Ali:",
+      "text": "Muhammed ibn Khalid es-Sulami'den rivayet edilmiştir: Babası aracılığıyla dedesi bildirdi: O, Allah'ın Messenger'ının (ﷺ) bir sahabesi olarak, Allah'ın bir kuluna daha önce bir derece takdir ettiğinde ve o kul bu derecelere eylemleriyle ulaşmadığında, Allah onu bedeni, malı veya çocuklarıyla imtihan eder."
+    },
+    {
+      "id": 13,
+      "narrator": "Narrated 'Aishah:",
+      "text": "Abu Davud dedi ki: İbn Nufail, kendi rivayetinde ekledi: \"Sonra ona bunu katlanma gücü verir.\" Anlaşılan versiyon şöyle der: \"Böylece Allah'ın daha önce takdir ettiği dereceye ulaşabilsin.\""
+    },
+    {
+      "id": 14,
+      "narrator": "Narrated Zayd ibn Arqam:",
+      "text": "---"
+    },
+    {
+      "id": 15,
+      "narrator": "Narrated 'Abd Allah b. 'Abbas:",
+      "text": "Ebu Musa'dan rivayet edilmiştir: Ben, Peygamber'in (ﷺ) birçok kez şöyle dediğini duydum: Allah'ın bir kulu iyi bir işe alıştığında, sonra hastalandığında veya yolculuğa çıktığında, sağken ve evdeyken alıştığı şeyler onun için kaydedilir."
+    },
+    {
+      "id": 16,
+      "narrator": "Narrated 'Aishah daughter of Sa'd:",
+      "text": "Aişe bint Sa'd'dan rivayet edilmiştir: Babası şöyle dedi: Mekke'de bir hastalığım vardı. Allah'ın Elçisi (ﷺ) beni ziyaret etmek için geldi. Elini alnıma koydu, göğsümü ve karnımı sildi, sonra dedi ki: Ey Allah! Sa'd'ı iyileştir ve hicretini tamamla."
+    },
+    {
+      "id": 17,
+      "narrator": "Narrated Abu Musa Al-Ash'ari:",
+      "text": "Ebu Musa el-Eş'ari'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle buyurdu: Açları doyurun, hastaları ziyaret edin ve esirleri serbest bırakın. Süfyan dedi ki: al-'ani esir demektir."
+    },
+    {
+      "id": 18,
+      "narrator": "Narrated Abdullah ibn Abbas:",
+      "text": "Abdullah ibn Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: Eğer birisi, ölümü gelmemiş bir hastayı ziyaret eder ve ona yedi kez: Ben, aziz olan Allah'tan, aziz Arş'ın Rabbi olan Allah'tan seni iyileştirmesini istiyorum derse, Allah onu o hastalıktan iyileştirir."
+    },
+    {
+      "id": 19,
+      "narrator": "Narrated Abdullah ibn Amr ibn al-'As:",
+      "text": "Abdullah ibn Amr ibn al-'As'tan rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: Bir adam hasta birini ziyaret ettiğinde, şöyle demelidir: Ey Allah, senin yolunda düşmanına zarar verebilecek, ya da senin yolunda bir cenaze yürüyebilecek olan kulunu iyileştir."
+    },
+    {
+      "id": 20,
+      "narrator": "Narrated Anas:",
+      "text": "Ebu Davud dedi ki: İbn As-Sarh (rivayet edenlerden biri) dedi ki: \"İlas-salat (Namaza doğru).\""
+    },
+    {
+      "id": 21,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Enes'ten rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle buyurdu: Sizden hiç kimse, başına gelen bir beladan dolayı ölüm dilememelidir, fakat şöyle demelidir: Ey Allah! Beni, hayatım benim için daha hayırlı olduğu sürece yaşat; ve beni, ölümün benim için daha hayırlı olduğu yerde öldür."
+    },
+    {
+      "id": 22,
+      "narrator": "Narrated Ubayd ibn Khalid as-Sulami,:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: Sizden hiç kimse ölüm dilememelidir. Sonra gelen rivayeti benzer şekilde aktardı."
+    },
+    {
+      "id": 23,
+      "narrator": "Narrated Jabir ibn Atik:",
+      "text": "Ubeyd ibn Halid es-Sulami'den rivayet edilmiştir: Peygamber (ﷺ) sahabelerinden bir adam şöyle dedi: Rivayetçi Sa'd ibn Ubeyde, bazen Peygamber'den (ﷺ) bazen de Ubeyd (ibn Halid) olarak rivayet etti: Peygamber (ﷺ) şöyle buyurdu: Ani ölüm, bir gazapla yakalamadır."
+    },
+    {
+      "id": 24,
+      "narrator": "Narrated Abu Hurairah:",
+      "text": "Cabir ibn Atik'ten rivayet edilmiştir: Allah'ın Elçisi (ﷺ) hastalanan Abdullah ibn Thabit'i ziyaret etti. Onun, ilahi takdirle hükmedildiğini gördü. Allah'ın Elçisi (ﷺ) onu yüksek sesle çağırdı, ama o cevap vermedi."
+    },
+    {
+      "id": 25,
+      "narrator": "Narrated Jabir b. 'Abd Allah :",
+      "text": "\"Biz Allah'a aitiz ve O'na döneceğiz\" ayetini okudu ve şöyle dedi: \"Sana karşı hükmedildi, AburRabi'.\" O zaman kadınlar ağlamaya başladılar ve İbn Atik onları susturmaya çalıştı. Allah'ın Elçisi (ﷺ) dedi ki: Bırakın onları, ilahi takdir gerçekleştiğinde, hiçbir kadın ağlamamalıdır."
+    },
+    {
+      "id": 26,
+      "narrator": "Narrated AbuSa'id al-Khudri:",
+      "text": "İnsanlar sordular: Olması gereken nedir, Allah'ın Elçisi? O cevap verdi: Ölüm. Kızı dedi ki: Şehit olmanı umuyorum, çünkü cihad için hazırlıklarını tamamladın. Allah'ın Elçisi (ﷺ) dedi: Yüce Allah, niyetlerine göre ona bir mükafat verdi. Siz şehitliği ne olarak görüyorsunuz?"
+    },
+    {
+      "id": 27,
+      "narrator": "Narrated Umm Salamah:",
+      "text": "Onlar dediler: Allah yolunda öldürülmek."
+    },
+    {
+      "id": 28,
+      "narrator": "Narrated Mu’adh bin Jabal :",
+      "text": "Allah'ın Elçisi (ﷺ) dedi: Allah yolunda öldürülmek dışında yedi tür şehitlik vardır: Veba nedeniyle ölen bir şehittir; boğulmuş olan bir şehittir; plevra nedeniyle ölen bir şehittir; iç hastalıktan ölen bir şehittir; ateşte yanarak ölen bir şehittir; üzerine bir bina düşerek ölen bir şehittir; ve hamile bir kadın ölen bir şehittir."
+    },
+    {
+      "id": 29,
+      "narrator": "Narrated Abu Sa’id Al Khudri :",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Banu Harith b. Amir b. Nawfal, Khubaib'i satın aldı. Khubaib, Bedir günü al-Harith b. Amir'i öldürdü. Khubaib, öldürülmesi konusunda anlaşana kadar onlarla esir olarak kaldı. Pubis tıraşı olmak için al-Harith'in kızından bir jilet ödünç aldı. O da ona verdi. Dikkatsizken, onun küçük bir çocuğu yanına geldi. O geldiğinde, onu yalnız buldu ve çocuk onun uyluğundaydı ve jilet elindeydi. Korktu ve onun üzerindeki etkisini fark etti. Dedi ki: Onu öldüreceğimi mi korkuyorsun? Bunu yapmayacağım."
+    },
+    {
+      "id": 30,
+      "narrator": "Narrated Umm Salamah:",
+      "text": "Ebu Davud dedi ki: Şu'ayb b. Ebu Hamza, bu rivayeti el-Zuhri'den aktardı. Dedi ki: 'Ubaid Allah b. Ayyash, al-Harith'in kızı ona, onu öldürmek için toplandıklarında, pubis tıraşı olmak için ondan bir jilet ödünç aldığını söyledi."
+    },
+    {
+      "id": 31,
+      "narrator": "Narrated Umm Salamah:",
+      "text": "Umm Salamah'dan rivayet edilmiştir: Allah'ın Resulü (ﷺ) şöyle buyurmuştur: Sizden biri bir belaya uğradığında, \"Biz Allah'a aitiz ve O'na döneceğiz\" demelidir. Ey Allah, bu beladan dolayı senden mükafat bekliyorum, bana bunun karşılığında mükafat ver ve daha iyi bir telafi ver."
+    },
+    {
+      "id": 32,
+      "narrator": "Narrated 'Aishah:",
+      "text": "'Aişe'den rivayet edilmiştir: Peygamber (ﷺ) vefat ettikten sonra çizgili Yemen elbisesiyle örtüldü."
+    },
+    {
+      "id": 33,
+      "narrator": "Narrated Ma'qil ibn Yasar:",
+      "text": "Ma'qil ibn Yasar'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: Ölmekte olan erkeklerinizin üzerine Yasin Suresi'ni okuyun. Bu, İbn al-Ala'nın rivayetidir."
+    },
+    {
+      "id": 34,
+      "narrator": "Narrated 'Aishah:",
+      "text": "'Aişe'den rivayet edilmiştir: Zaid b. Harithah, Ca'fer ve 'Abdullah b. Rawahah öldürüldüğünde, Allah'ın Resulü (ﷺ) camide oturdu ve yüzünde hüzün görünüyordu. Sonra (rivayet eden) hadisin geri kalanını anlattı."
+    },
+    {
+      "id": 35,
+      "narrator": "Narrated Abdullah ibn Amr ibn al-'As:",
+      "text": "Abdullah ibn Amr ibn al-'As'dan rivayet edilmiştir: Allah'ın Resulü (ﷺ) ile birlikte bir cenazeyi gömdük. İşimizi bitirdiğimizde, Allah'ın Resulü (ﷺ) geri döndü ve biz de onunla birlikte döndük. Kapısına yaklaştığında durdu ve ona doğru bir kadının geldiğini gördük."
+    },
+    {
+      "id": 36,
+      "narrator": "Narrated Anas:",
+      "text": "O (rivayet eden) dedi ki: Onu tanıdığını düşünüyorum. Kadın uzaklaştığında, onun Fatıma olduğunu öğrendik."
+    },
+    {
+      "id": 37,
+      "narrator": "Narrated Usamah b. Zaid:",
+      "text": "Allah'ın Resulü (ﷺ) ona şöyle dedi: Seni evinden ne çıkardı, Fatıma?"
+    },
+    {
+      "id": 38,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "O cevapladı: Ben bu evin halkına geldim, Allah'ın Resulü, ve onlara vefat eden akrabaları için başsağlığı ve acıma gösterdim."
+    },
+    {
+      "id": 39,
+      "narrator": "Narrated Umm 'Atiyyah :",
+      "text": "Allah'ın Resulü (ﷺ) dedi: Onlarla birlikte mezarlığa gitmeliydin."
+    },
+    {
+      "id": 40,
+      "narrator": "Narrated AbuSa'id al-Khudri:",
+      "text": "O cevapladı: Allah'a sığınırım! Senin bahsettiğin şeyi duydum."
+    },
+    {
+      "id": 41,
+      "narrator": "Narrated Ibn 'Umar:",
+      "text": "O dedi: Eğer mezarlığa gitseydin... Sonra bunun hakkında sert sözler söyledi."
+    },
+    {
+      "id": 42,
+      "narrator": "Yazid ibn Aws said:",
+      "text": "Ben de Rabi'ah'a (bu hadisin ravisi) al-kuda (taşlık arazi) hakkında sordum. O cevapladı: Bunun mezarları kastettiğini düşünüyorum."
+    },
+    {
+      "id": 43,
+      "narrator": "Usayd ibn Abu Usayd, reported on the authority of a woman who took oath of allegiance (to the Prophet):",
+      "text": "Enes'ten rivayet edilmiştir: Peygamber (ﷺ) bir çocuğu için ağlayan bir kadınla karşılaştı. Ona şöyle dedi: Allah'tan kork ve sabırlı ol. Kadın: Senin benim belamla ne alakan var? dedi. Sonra ona Peygamber (ﷺ) olduğunu söylediler. Bunun üzerine ona geldi. Kapısında kapıcılar bulamadı. O dedi: Seni tanımadım, Allah'ın Resulü. O dedi: Sabır, yalnızca ilk darbe anında gösterilir."
+    },
+    {
+      "id": 44,
+      "narrator": "Narrated Abdullah ibn Ja'far:",
+      "text": "Usame b. Zaid'den rivayet edilmiştir: Allah'ın Resulü (ﷺ) ile birlikteyken, bir kızı ona mesaj gönderdi ve ben ve Sa'd onunla birlikteydik, Ubayy'in de orada olduğunu düşünüyorum: Oğlum ya da kızım (rivayet eden şüpheli) ölüyor, bizim yanımıza gel. O, ona selam gönderdi ve aynı zamanda şöyle dedi: De ki! Allah'a ait olan, O'nundur; verdiği de O'nundur ve her şey için bir zamanı tayin etmiştir. O, ona gelmesi için bir mesaj gönderdi. Böylece o, ona geldi ve ölümün eşiğindeki çocuk, O'nun istediği kalplere yerleştirildi. Allah, yalnızca merhamet eden kullarına merhamet eder."
+    },
+    {
+      "id": 45,
+      "narrator": "Narrated Jabir ibn Abdullah:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir: Allah'ın Resulü (ﷺ) şöyle buyurdu: Gece bana bir çocuk doğdu ve ona İbrahim adını verdim. Sonra hadisin geri kalanını anlattı. Enes dedi ki: Onu, Allah'ın Resulü (ﷺ) önünde ölüm anında gördüm. Allah'ın Resulü (ﷺ)'nin gözlerinden yaşlar dökülmeye başladı. O dedi: Göz ağlar ve kalp üzülür, ama biz yalnızca Rabbimizin hoşnut olduğu şeyi söyleriz ve senin için üzgünüz, İbrahim."
+    },
+    {
+      "id": 46,
+      "narrator": "Narrated Abdullah ibn Abbas:",
+      "text": "Abdullah ibn Abbas'tan rivayet edilmiştir: Allah'ın Resulü (ﷺ) Uhud şehitlerinin silahlarının ve derilerinin kaldırılmasını emretmiş ve onların kanları ve elbiseleriyle gömülmelerini istemiştir."
+    },
+    {
+      "id": 47,
+      "narrator": "Narrated Anas ibn Malik:",
+      "text": "Anas ibn Malik'ten rivayet edilmiştir: Uhud şehitleri yıkanmamış ve kanlarıyla gömülmüştür. Onlar için hiç namaz kılınmamıştır."
+    },
+    {
+      "id": 48,
+      "narrator": "Narrated Anas ibn Malik:",
+      "text": "Anas ibn Malik'ten rivayet edilmiştir: Allah'ın Resulü (ﷺ) Hamza'nın yanından geçti; o, öldürülmüş ve çirkinleştirilmişti. Dedi ki: Eğer Safiyyah üzülmeseydi, onu bırakırdım, kuşlar ve yırtıcı hayvanlar onu yesin, o da onların karnından dirilsin. Elbiseler azdı ve ölenlerin sayısı çoktu. Bu nedenle bir, iki ve üç kişi bir elbiseye sarıldı. Rivayet eden Qutaybah ekledi: Sonra bir mezara gömüldüler. Allah'ın Resulü (ﷺ) sordu: İkisi arasında hangisi Kur'an'ı daha çok öğrenmişti? Sonra onu kıbleye (namaz yönü) doğru ilerletti."
+    },
+    {
+      "id": 49,
+      "narrator": "Narrated Anas ibn Malik:",
+      "text": "Anas ibn Malik'ten rivayet edilmiştir: Peygamber (ﷺ) öldürüldükten sonra çirkinleşmiş olan Hamza'nın yanından geçti. O, başka hiçbir şehit için namaz kılmadı, sadece onun için kıldı."
+    },
+    {
+      "id": 50,
+      "narrator": "Narrated Jabir b. 'Abd Allah :",
+      "text": "Jabir b. 'Abd Allah'tan rivayet edilmiştir: Allah'ın Resulü (ﷺ) Uhud şehitlerinden iki kişiyi (bir elbiseye) sardı ve sordu: İkisi arasında hangisi Kur'an'ı daha çok öğrenmiştir? Onlardan biri işaret edildiğinde, onu mezara ilerletti ve dedi ki: Ben bu (şehitler) hakkında Kıyamet Günü şahit olacağım. Sonra onları yıkanmadan gömülmelerini emretti."
+    },
+    {
+      "id": 51,
+      "narrator": "The tradition mentioned above has also been transmitted by al-Laith through a different chain of the same effect. This version adds:",
+      "text": "Yukarıda bahsedilen rivayet, al-Laith tarafından farklı bir isnatla aynı etkiyle aktarılmıştır. Bu versiyon ekliyor: Uhud şehitlerinden iki kişiyi bir elbiseye sardı."
+    },
+    {
+      "id": 52,
+      "narrator": "Narrated Ali ibn AbuTalib:",
+      "text": "Ali ibn Ebu Talib'ten rivayet edilmiştir: Peygamber (ﷺ) dedi ki: Uyluğunuzu açmayın ve yaşayanların ve ölülerin uyluklarına bakmayın."
+    },
+    {
+      "id": 53,
+      "narrator": "Narrated Aisha, Ummul Mu'minin:",
+      "text": "Aisha, Ümmü'l-Müminin'den rivayet edilmiştir: Vallahi, Allah'ın Resulü'nün (ﷺ) elbiselerini, ölülerimizin elbiselerini çıkardığımız gibi çıkarıp çıkarmayacağımızı veya elbiseleri üzerindeyken yıkayıp yıkamayacağımızı bilmiyorduk. İnsanlar arasında ihtilaf çıktığında, Allah onları uykuya daldırdı; herkesin başı göğsüne düştü. Sonra evin bir köşesinden bir konuşmacı konuştu ve kim olduğunu bilmiyorlardı: Peygamberi (ﷺ) elbiseleri üzerindeyken yıkayın. Böylece Peygamberin (ﷺ) etrafında toplandılar ve onu gömleği üzerindeyken yıkadılar. Onun gömleğine su döktüler ve onu elleriyle değil, gömleğiyle ovaladılar. Aisha derdi ki: Eğer önceden benim durumum hakkında sonradan öğrendiğim şeyi bilseydim, onu yıkayan tek kişi eşleri olurdu."
+    },
+    {
+      "id": 54,
+      "narrator": "Narrated Umm 'Atiyyah :",
+      "text": "Umm 'Atiyyah'tan rivayet edilmiştir: Allah'ın Resulü (ﷺ) kızı vefat ettiğinde içeri girdi ve dedi ki: Onu su ve lotus yapraklarıyla üç veya beş kez yıkayın veya uygun görüyorsanız daha fazla, ve son yıkamada kafur koyun, sonra işinizi bitirdiğinizde bana haber verin. İşimizi bitirdiğimizde, ona haber verdik ve o, bize alt elbisesini fırlatarak dedi ki: Onu bedeninin yanına koyun."
+    },
+    {
+      "id": 55,
+      "narrator": "The tradition mentioned above has also been transmitted by Umm 'Atiyyah through a different chain of narrators to the same effect. This version adds:",
+      "text": "Malik'in rivayetinde: yani alt elbisesi (izar); ve Musaddad: İçeri girdi demedi."
+    },
+    {
+      "id": 56,
+      "narrator": "The above mentioned  has also been transmitted by Umm 'Atiyyah through a different chain of narrators. This version has:",
+      "text": "Yukarıda bahsedilen rivayet, Umm 'Atiyyah tarafından farklı bir isnatla aynı etkiyle aktarılmıştır. Bu versiyon ekliyor: Saçını üç örgü şeklinde ördük."
+    },
+    {
+      "id": 57,
+      "narrator": "Narrated Umm 'Atiyyah :",
+      "text": "Yukarıda bahsedilen rivayet, Umm 'Atiyyah tarafından farklı bir isnatla aktarılmıştır. Bu versiyon: Saçını üç örgü şeklinde ördük ve arkasına yerleştirdik, bir örgü ön tarafından ve iki yan örgü."
+    },
+    {
+      "id": 58,
+      "narrator": "The above mentioned tradition has also been transmitted by Umm 'Atiyyah through a different chain of narrators. This version has:",
+      "text": "Umm 'Atiyyah'tan rivayet edilmiştir: Allah'ın Resulü (ﷺ) kızı yıkanırken onlara dedi ki: Sağ tarafından başlayın ve abdestin alındığı yerlerden."
+    },
+    {
+      "id": 59,
+      "narrator": "Narrated Qatadah:",
+      "text": "Yukarıda bahsedilen rivayet, Umm 'Atiyyah tarafından farklı bir isnatla aktarılmıştır. Bu versiyon: (Onu yıkayın) yedi kez veya uygun görüyorsanız daha fazla."
+    },
+    {
+      "id": 60,
+      "narrator": "Narrated Jabir b. 'Abd Allah :",
+      "text": "Kattadah'tan rivayet edilmiştir: Muhammed b. Sirin, Umm 'Atiyyah'tan ölüleri nasıl yıkayacağını öğrenirdi: İki kez lotus yapraklarıyla yıkar ve üçüncü kez su ve kafur ile yıkardı."
+    },
+    {
+      "id": 61,
+      "narrator": "Narrated 'Aishah:",
+      "text": "Aişe'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) Yemen kumaşından bir örtüye sarıldı, sonra bu örtü ondan alındı."
+    },
+    {
+      "id": 62,
+      "narrator": "Narrated Jabir ibn Abdullah:",
+      "text": "Abdullah b. Cübeyr'den rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: Sizden biri öldüğünde ve bir şeyi varsa, Yemen kumaşından bir örtüye sarılmalıdır."
+    },
+    {
+      "id": 63,
+      "narrator": "Narrated Aisha, Ummul Mu'minin:",
+      "text": "Aişe, Müminlerin Annesi'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) beyaz Yemen kumaşından üç örtüye sarıldı; bunlar arasında ne bir gömlek ne de bir sarık vardı."
+    },
+    {
+      "id": 64,
+      "narrator": "A similar tradition has been transmitted by 'Aishah through a different chain of narrators. This version adds:",
+      "text": "Aişe tarafından farklı bir rivayet zinciriyle benzer bir hadis aktarılmıştır. Bu versiyon ekler: \"pamuklu\"."
+    },
+    {
+      "id": 65,
+      "narrator": "Narrated Abdullah ibn Abbas:",
+      "text": "Rivayet eden kişi şöyle dedi: Aişe'ye, insanların onun iki örtü ve bir hırka ile sarıldığını söyledikleri bildirildi. O da şöyle cevap verdi: Bir hırka getirildi ama onu geri çevirdiler ve onu bu hırka ile sarmadılar."
+    },
+    {
+      "id": 66,
+      "narrator": "Narrated Ali ibn AbuTalib:",
+      "text": "Abdullah b. Abbas'tan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) Najran'da yapılan üç örtüye sarıldı: iki örtü ve içinde öldüğü bir gömlek."
+    },
+    {
+      "id": 67,
+      "narrator": "Narrated Khabbab:",
+      "text": "Ebu Davud dedi ki: Rivayet eden 'Uthman şöyle dedi: Üç örtü ile: iki kırmızı örtü ve içinde öldüğü bir gömlek."
+    },
+    {
+      "id": 68,
+      "narrator": "Narrated Ubadah ibn as-Samit:",
+      "text": "Ali b. Ebu Talib'ten rivayet edilmiştir: Örtüde israf etmeyin, çünkü Allah'ın Elçisi (ﷺ) şöyle dedi: Örtüde israf etmeyin, çünkü çabuk bozulur."
+    },
+    {
+      "id": 69,
+      "narrator": "Narrated Layla daughter of Qa'if ath-Thaqafiyyah:",
+      "text": "Khabbab'dan rivayet edilmiştir: Mus'ab b. Umeyr Uhud günü öldürüldü. Onun sadece çizgili bir hırkası vardı. Başını bununla örttüğümüzde ayakları görünüyordu, ayaklarını örttüğümüzde ise başı görünüyordu. Bunun üzerine Allah'ın Elçisi (ﷺ) şöyle dedi: Başını bununla örtün, ayaklarını da biraz otla örtün."
+    },
+    {
+      "id": 70,
+      "narrator": "Narrated Abu Sa’id Al Khudri :",
+      "text": "Ubadah b. Samit'ten rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: En iyi örtü, alt giysi ve tüm bedeni kaplayan örtüdür, en iyi kurban ise boynuzlu bir koçtur."
+    },
+    {
+      "id": 71,
+      "narrator": "Narrated Al-Husayn ibn Wahwah:",
+      "text": "Leyla bint Ka'if et-Takafiyye'den rivayet edilmiştir: Ben, Peygamber (ﷺ) kızı Ümmü Külsüm'ü yıkayanlardan biriydim. O öldüğünde, Allah'ın Elçisi (ﷺ) önce bize alt giysi, sonra gömlek, sonra baş örtüsü, sonra tüm bedeni kaplayan hırka verdi ve sonra başka bir örtü ile sarıldı. O şöyle dedi: Allah'ın Elçisi (ﷺ) kapıda oturuyordu ve yanında bir örtü vardı. Bize giysileri birer birer verdi."
+    },
+    {
+      "id": 72,
+      "narrator": "Narrated Aisha, Ummul Mu'minin:",
+      "text": "Ebu Sa'id el-Hudri'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle buyurdu: En iyi parfümünüz misk'tir."
+    },
+    {
+      "id": 73,
+      "narrator": "Narrated AbuHurayrah:",
+      "text": "El-Hüseyin b. Vahvah'tan rivayet edilmiştir: Talha b. el-Bara' hastalandı ve Peygamber (ﷺ) onu ziyarete geldi. O şöyle dedi: Talha'nın öldüğünü düşünüyorum; bu yüzden bana (ölümü hakkında) söyle, acele et, çünkü bir Müslümanın cesedinin ailesi arasında tutulması uygun değildir."
+    },
+    {
+      "id": 74,
+      "narrator": "The tradition mentioned above has also been transmitted by Abu Hurairah through a different chain of narrators to the same effect.\n\n\nAbu Dawud said:",
+      "text": "Aişe, Müminlerin Annesi'den rivayet edilmiştir: Peygamber (ﷺ) cinsel kirlenme nedeniyle, cuma günü, hacamat için ve ölüleri yıkamak için banyo yapardı."
+    },
+    {
+      "id": 75,
+      "narrator": "Narrated Aisha, Ummul Mu'minin:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: Ölüleri yıkayan kişi banyo yapmalıdır, onu taşıyan kişi ise abdest almalıdır."
+    },
+    {
+      "id": 76,
+      "narrator": "Narrated Jabir ibn Abdullah:",
+      "text": "Jabir ibn Abdullah'dan rivayet edilmiştir: İnsanlar mezarlıkta ateş (ışık) gördüler ve oraya gittiler. Allah'ın Messenger'ının (ﷺ) bir mezarda olduğunu ve şöyle dediğini buldular: Bana arkadaşınızı verin. Bu, Allah'ın adını anarken sesini yükselten bir adamdı."
+    },
+    {
+      "id": 77,
+      "narrator": "Narrated Jabir ibn Abdullah:",
+      "text": "Jabir ibn Abdullah'dan rivayet edilmiştir: Uhud günü şehitleri (başka bir yere) gömmek için getirdik, ancak Peygamberin (ﷺ) anonsçusu geldi ve şöyle dedi: Allah'ın Messenger'ı (ﷺ) şehitleri düştükleri yerde gömmenizi emretti. Böylece onları geri götürdük."
+    },
+    {
+      "id": 78,
+      "narrator": "Narrated Malik ibn Hubayrah:",
+      "text": "Malik ibn Hubayrah'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: Herhangi bir Müslüman öldüğünde ve üç sıra Müslüman onun üzerine namaz kıldığında, bu ona (Cennet) konusunda güvence verir. Malik, tabutun arkasında gidenlerin sayısını az görünce, bu rivayete uygun olarak onları üç sıraya ayırdı."
+    },
+    {
+      "id": 79,
+      "narrator": "Narrated Umm 'Atiyyah :",
+      "text": "Umm 'Atiyyah'tan rivayet edilmiştir: Tabutları takip etmemiz yasaklandı, ancak bu bizim için çok vurgulanmadı."
+    },
+    {
+      "id": 80,
+      "narrator": "Narrated Abu Hurairah:",
+      "text": "Abu Hurairah'tan rivayet edilmiştir: Herhangi biri cenazeye katılır ve (ölü) üzerine namaz kılarsa, bir kirat sevabı alır; ve eğer cenazeye gömülme tamamlanana kadar katılırsa, iki kirat sevabı alır; bunlardan küçüğü Uhud'a eşdeğerdir veya biri Uhud'a eşdeğerdir."
+    },
+    {
+      "id": 81,
+      "narrator": "Dawud b. 'Amir b. Sa'd b. Abi Waqqas said that his father 'Amir b. Sa'd was with Ibn 'Umar b. al-Khattab when Khabbab, the owner of the closet (maqsurah), came and said:",
+      "text": "Dawud b. 'Amir b. Sa'd b. Abi Waqqas, babası 'Amir b. Sa'd'ın İbn 'Umar b. al-Khattab ile birlikte olduğunu ve Khabbab'ın (maqsurah'nın sahibi) gelip şöyle dediğini aktardı: 'Abd Allah b. 'Umar, Abu Hurairah'ın ne söylediğini duymuyor musun? O, Allah'ın Messenger'ının (ﷺ) şöyle dediğini duydu: Herhangi biri evinden çıktığında, tabutu takip eder ve onun üzerine namaz kılarsa... Sonra Sufyan tarafından rivayet edilen hadisin geri kalanını anlattı. Bunun üzerine İbn 'Umar, 'Aişe'ye (bu konuda) birini gönderdi. O da: Abu Hurairah doğru söyledi, diye cevap verdi."
+    },
+    {
+      "id": 82,
+      "narrator": "Narrated Ibn 'Abbas:",
+      "text": "İbn 'Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: Herhangi bir Müslüman öldüğünde ve Allah'a hiçbir şeyi ortak koşmayan kırk adam onun tabutunun başında durursa, Allah onları onun için şefaatçi olarak kabul eder."
+    },
+    {
+      "id": 83,
+      "narrator": "Narrated Abu Hurairah:",
+      "text": "Abu Hurairah'tan rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: Bir tabut, yüksek sesle (ağlama) veya ateşle takip edilmemelidir."
+    },
+    {
+      "id": 84,
+      "narrator": "Narrated 'Amir b. Rabi'ah:",
+      "text": "Abu Dawud dedi ki: Harun (rivayetçilerden biri) şunu ekledi: \"Ve (onların önünde) de olmamalıdır.\""
+    },
+    {
+      "id": 85,
+      "narrator": "Narrated Abu Sa’id Al Khudri :",
+      "text": "'Amir b. Rabi'ah'tan rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: Bir cenaze gördüğünüzde, o sizden uzaklaşana veya yere konulana kadar ayakta durun."
+    },
+    {
+      "id": 86,
+      "narrator": "Narrated Jabir:",
+      "text": "Abu Sa’id Al Khudri'den rivayet edilmiştir: Allah'ın Messenger'ı (ﷺ) şöyle dedi: Bir cenazeyi takip ettiğinizde, tabut yere konulana kadar oturmayın."
+    },
+    {
+      "id": 87,
+      "narrator": "Narrated 'Ali bin Abi Talib:",
+      "text": "Abu Dawud dedi ki: Bu rivayet, al-Thawri (yani Sufyan) tarafından Suhail'den, babası aracılığıyla Abu Hurairah'dan aktarılmıştır. Bu versiyon: tabut yere konulana kadar şeklindedir. Ayrıca Abu Mu'wiyah da Suhail'den rivayet etmiştir. Bu da: \"Ta ki mezara konulana kadar\" şeklindedir."
+    },
+    {
+      "id": 88,
+      "narrator": "Narrated Ubadah ibn as-Samit:",
+      "text": "Abu Dawud dedi ki: Sufyan'ın versiyonu, Abu Mu'awiyah'ınkinden daha dikkatli bir şekilde aktarılmıştır."
+    },
+    {
+      "id": 89,
+      "narrator": "Narrated Thawban:",
+      "text": "Jabir'den rivayet edilmiştir: Peygamber (ﷺ) ile birlikteydik, bir cenaze yanımızdan geçti ve o, cenaze için ayakta durdu. Onu taşımaya gittiğimizde, bunun bir Yahudi cenazesi olduğunu gördük. Bunun üzerine dedik ki: Allah'ın Messenger'ı, bu bir Yahudi cenazesi. O da: Ölüm korkutucu bir olaydır, bu yüzden bir cenaze gördüğünüzde ayakta durun, dedi."
+    },
+    {
+      "id": 90,
+      "narrator": "Narrated Jabir b. Samurah:",
+      "text": "'Ali bin Abi Talib'den rivayet edilmiştir: Peygamber (ﷺ) bir cenaze için (saygı göstermek amacıyla) ayakta durdu ve ardından oturdu."
+    },
+    {
+      "id": 91,
+      "narrator": "Salim reported on the authority of his father:",
+      "text": "Salim, babasından rivayet etti: Ben, Peygamber (ﷺ) ile Ebu Bekir ve Ömer'in cenaze önünde yürüdüklerini gördüm."
+    },
+    {
+      "id": 92,
+      "narrator": "Narrated Al-Mughirah ibn Shu'bah:",
+      "text": "Al-Mughirah ibn Shu'bah'dan rivayet edilmiştir: (Zannediyorum ki Ziyad halkı bana, Peygamber (ﷺ) adına şöyle bildirdiğini ilettiler): Bir binek sahibi tabutun arkasında yürümeli, yaya olanlar ise tabutun arkasında, önünde, sağında ve solunda, ona yakın bir şekilde yürümelidir. Düşük için dua edilmeli ve ebeveynleri için bağışlanma ve merhamet dilemelidir."
+    },
+    {
+      "id": 93,
+      "narrator": "Narrated Abu Hurairah:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: Cenaze ile hızlı yürüyün, çünkü eğer ölen kişi iyi ise, onu gönderdiğiniz durum iyidir; aksi takdirde, kendinizi kötü bir duruma sokmuş olursunuz."
+    },
+    {
+      "id": 94,
+      "narrator": "Uyaynah ibn AbdurRahman reported on the authority of his father that he attended the funeral of Uthman ibn Abul'As. He said:",
+      "text": "Uyaynah ibn Abdurrahman, babasından rivayet etti ki, Osman ibn Abul'As'ın cenazesine katıldı. Dedi ki: Biz yavaş yürüyorduk. Sonra Ebu Bekir bize katıldı ve sopasını kaldırarak şöyle dedi: Siz, Allah'ın Messenger'ı (ﷺ) ile birlikteyken bizi gördünüz. Biz hızlı yürüyorduk."
+    },
+    {
+      "id": 95,
+      "narrator": "Uyaynah also reported the aforementioned tradition (No. 3176) through a different chain of transmitters. This version goes:",
+      "text": "Uyaynah, yukarıda belirtilen hadisi (No. 3176) farklı bir raviden de rivayet etmiştir. Bu versiyon şöyle geçiyor: Abdurrahman ibn Samurah'ın cenazesine katıldık ve o dedi ki: O (Ebu Bekir) katırını hızlı koşturdu ve sopasıyla işaret etti."
+    },
+    {
+      "id": 96,
+      "narrator": "Narrated Abdullah ibn Mas'ud:",
+      "text": "Abdullah ibn Mes'ud'dan rivayet edilmiştir: Biz Peygamber (ﷺ)'e cenaze ile yürümek hakkında sorduk. O şöyle cevap verdi: Koşmak değil (ama hızlı yürümek). Eğer o (ölü) iyi ise, onu hızlıca gönderin; aksi takdirde, cehennem halkını uzak tutun. Tabut takip edilmelidir, takip edilmemelidir. Onun önünde gidenler, ona eşlik etmiyorlar."
+    },
+    {
+      "id": 97,
+      "narrator": "Narrated Jabir ibn Samurah:",
+      "text": "Ebu Davud dedi ki: Rivayet eden Yahya b. Abd Allah zayıftır. O, Yahya el-Cabir'dir."
+    },
+    {
+      "id": 98,
+      "narrator": "Narrated AbuBarzah al-Aslami:",
+      "text": "Ebu Davud dedi ki: Bu Kufe'den, Ebu Mecdah ise Basra'dandır."
+    },
+    {
+      "id": 99,
+      "narrator": "Narrated Aisha, Ummul Mu'minin:",
+      "text": "Ebu Davud dedi ki: Ebu Mecdah belirsizdir."
+    },
+    {
+      "id": 100,
+      "narrator": "Narrated Al-Bahiyy:",
+      "text": "Cabir ibn Samurah'dan rivayet edilmiştir: Bir adam hastalandı ve (ölümü için) bir çığlık atıldı. Komşusu, Allah'ın Messenger'ına (ﷺ) geldi ve ona: O öldü, dedi. O sordu: Kim söyledi? O: Ben onu gördüm, dedi. Allah'ın Messenger'ı (ﷺ) dedi ki: O ölmedi. Sonra geri döndü."
+    },
+    {
+      "id": 101,
+      "narrator": "Narrated 'Aishah:",
+      "text": "Yine onun için bir çığlık atıldı. O, Allah'ın Messenger'ına (ﷺ) geldi ve: O öldü, dedi. Peygamber (ﷺ) dedi ki: O ölmedi. Sonra geri döndü."
+    },
+    {
+      "id": 102,
+      "narrator": "Narrated 'Aishah:",
+      "text": "Yine onun için bir çığlık atıldı. Eşi dedi ki: Allah'ın Messenger'ına (ﷺ) git ve ona haber ver. Adam dedi ki: Ey Allah, onu lanetle."
+    },
+    {
+      "id": 103,
+      "narrator": "Narrated AbuHurayrah:",
+      "text": "O dedi ki: Adam gitti ve kendini bir ok ucu ile öldürdüğünü gördü. Sonra Peygamber'e (ﷺ) gitti ve ona öldüğünü bildirdi."
+    },
+    {
+      "id": 104,
+      "narrator": "Narrated 'Uqbah bin 'Amir:",
+      "text": "O sordu: Kim söyledi? O: Ben kendim onu ok uçları ile kendini öldürdüğünü gördüm, dedi. O sordu: Onu gördün mü? O: Evet, dedi. Sonra dedi: O halde ben onun üzerine namaz kılmayacağım."
+    },
+    {
+      "id": 105,
+      "narrator": "Yahya ibn Subayh said:",
+      "text": "Ebu Barzah el-Eslemî'den rivayet edilmiştir: Allah'ın Messenger'ı (ﷺ) Ma'iz ibn Malik'in üzerine namaz kılmadı ve onun üzerine namaz kılmayı yasaklamadı."
+    },
+    {
+      "id": 106,
+      "narrator": "Nafi' AbuGhalib said:",
+      "text": "Nafi' AbuGhalib dedi ki: Sikkat al-Mirbad'daydım. Bir tabut geçti ve yanında büyük bir kalabalık vardı."
+    },
+    {
+      "id": 107,
+      "narrator": "Narrated Samurah bin Jundab:",
+      "text": "Onlar dediler: Abdullah ibn Umayr'ın tabutu. Ben de onu takip ettim. Aniden, ince bir elbise giymiş, küçük bir katır üzerinde oturan bir adam gördüm. Başında güneşten korunmak için bir parça bez vardı. Ben sordum: Bu önemli adam kim? İnsanlar dediler: Bu Anas ibn Malik."
+    },
+    {
+      "id": 108,
+      "narrator": "Narrated Al-Sha'bi:",
+      "text": "Tabut konulduğunda, Anas ayağa kalktı ve onun üzerine cenaze namazını kıldırdı, ben de hemen arkasındaydım ve aramızda hiçbir engel yoktu. Başının yanında durdu ve dört tekbir (Allah en büyüktür) getirdi. Ne namazı uzattı ne de acele etti. Sonra oturmaya gitti. Dediler: AbuHamzah, (işte burada) bir Ensar kadının tabutu var. Onu yanına getirdiler ve tabutunun üzerinde yeşil bir kubbe şeklinde yapı vardı. O, kalçalarının karşısında durdu ve kadının üzerine cenaze namazını, erkeğin üzerine kıldığı gibi kıldırdı. Sonra oturdu."
+    },
+    {
+      "id": 109,
+      "narrator": "Narrated Ibn Abi Laila:",
+      "text": "Al-Ala' ibn Ziyad sordu: AbuHamzah, Allah'ın Elçisi (ﷺ) ölüler üzerine senin yaptığın gibi, onun üzerine dört tekbir getirerek, bir erkeğin başı ve bir kadının kalçaları karşısında cenaze namazı kıldırdı mı?"
+    },
+    {
+      "id": 110,
+      "narrator": "Narrated Talhah b. 'Abd Allah b. 'Awf:",
+      "text": "O cevap verdi: Evet. Sordu: AbuHamzah, Allah'ın Elçisi ile savaştın mı? O cevap verdi: Evet. Ben onunla Huneyn savaşında savaştım. Şirk koşanlar üzerimize öyle bir saldırdı ki, atlarımızı arkamızda gördük. İnsanlar (yani kafirler) arasında, üzerimize saldıran ve kılıcıyla bize vuran bir adam vardı. Allah onları sonra mağlup etti. Onlar getirildi ve İslam için ona biat etmeye başladılar."
+    },
+    {
+      "id": 111,
+      "narrator": "Narrated AbuHurayrah:",
+      "text": "Peygamber (ﷺ) sahabelerinden biri dedi ki: O gün üzerimize kılıcıyla saldıran adamı Allah bana getirirse, onu başından vuracağım. Allah'ın Elçisi (ﷺ) sessiz kaldı ve adam (esir olarak) getirildi."
+    },
+    {
+      "id": 112,
+      "narrator": "Ali ibn Shammakh said:",
+      "text": "O, Allah'ın Elçisi (ﷺ) gördüğünde dedi: Allah'ın Elçisi, ben Allah'a tövbe ettim. Allah'ın Elçisi (ﷺ) onun biatini almak için duraksadı, böylece diğer adam, yemini yerine getirebilsin. Ama adam, Allah'ın Elçisi (ﷺ) tarafından öldürülme emrini beklemeye başladı. Allah'ın Elçisi (ﷺ) onu öldürmekten korkuyordu. Allah'ın Elçisi (ﷺ) onun hiçbir şey yapmadığını görünce, biatini aldı. Adam dedi: Allah'ın Elçisi, benim yeminim ne olacak? O dedi: Bugün (biatini almak için) durdum ki, sen yemini yerine getirebilesin. O dedi: Allah'ın Elçisi, bana neden bir işaret vermedin? Peygamber (ﷺ) dedi: Bir Peygamberin işaret vermesi uygun değildir."
+    },
+    {
+      "id": 113,
+      "narrator": "Narrated AbuHurayrah:",
+      "text": "AbuGhalib dedi ki: Ben insanlara, Anas'ın bir kadının kalçalarının karşısında durmasını sordum. Onlar bana bu uygulamanın, (Peygamber zamanında) kadınların tabutlarının üzerinde kubbe şeklinde yapılar olmadığından kaynaklandığını söylediler. Bu yüzden imam, kadını insanlardan gizlemek için kalçalarının karşısında dururdu."
+    },
+    {
+      "id": 114,
+      "narrator": "Narrated Wathilah ibn al-Asqa':",
+      "text": "Abu Dawud dedi ki: Peygamber (ﷺ) \"İnsanlarla, 'Allah'tan başka ilah yoktur' diyene kadar savaşmam emredildi\" sözü, bu yemini yerine getirme geleneğini \"Tövbe ettim\" ifadesiyle neshetmiştir."
+    },
+    {
+      "id": 115,
+      "narrator": "Narrated Abu Hurairah:",
+      "text": "---"
+    },
+    {
+      "id": 116,
+      "narrator": "Narrated Abu Hurairah:",
+      "text": "Samurah bin Jundab'dan rivayet edilmiştir: Ben, Peygamber (ﷺ) ile birlikte doğumda ölen bir kadın üzerine namaz kıldım ve o, onun belinin karşısında durdu."
+    },
+    {
+      "id": 117,
+      "narrator": "Narrated Abu Burdah:",
+      "text": "---"
+    },
+    {
+      "id": 118,
+      "narrator": "Narrated Al-Muttalib:",
+      "text": "Al-Sha'bi'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) yeni kazılmış bir mezarın yanından geçti. Onlar bir sıra düzenlediler ve onun üzerine dört tekbir getirdiler. Ben Al-Sha'bi'ye sordum: Bunu sana kim söyledi? O cevap verdi: 'Abd Allah b. 'Abbas'ın katıldığı güvenilir bir kişi."
+    },
+    {
+      "id": 119,
+      "narrator": "Narrated Aisha, Ummul Mu'minin:",
+      "text": "---"
+    },
+    {
+      "id": 120,
+      "narrator": "Narrated Abdullah ibn Abbas:",
+      "text": "Ibn Abi Laila'dan rivayet edilmiştir: Zaid b. Arqam, bizim ölülerimiz üzerine (namazda) dört tekbir (Allah en büyüktür) getirirdi. Bir ölü üzerine beş tekbir getirdi. Ben de ona sordum. O cevap verdi: Allah'ın Elçisi (ﷺ) bunları getirirdi."
+    },
+    {
+      "id": 121,
+      "narrator": "Narrated Amir:",
+      "text": "Amir'den rivayet edilmiştir: Ali, Fadl ve Usamah ibn Zayd, Allah'ın Resulü'nü (ﷺ) yıkadılar ve onu kabrine koydular. Marhab veya İbn AbuMarhab bana, AbdurRahman ibn Awf'ın da onlara katıldığını söyledi."
+    },
+    {
+      "id": 122,
+      "narrator": "Narrated Abu Marhab:",
+      "text": "Ali serbest kaldığında şöyle dedi: Adamın halkı ona hizmet eder."
+    },
+    {
+      "id": 123,
+      "narrator": "Abu Ishaq said:",
+      "text": "---"
+    },
+    {
+      "id": 124,
+      "narrator": "Narrated Al-Bara' ibn Azib:",
+      "text": "Abu Marhab'den rivayet edilmiştir: 'Abd al-Rahman b. 'Awf, Peygamberin (ﷺ) kabrine indi. Dört kişiyi hala görebiliyor gibiyim, dedi."
+    },
+    {
+      "id": 125,
+      "narrator": "Narrated Abdullah ibn Umar:",
+      "text": "---"
+    },
+    {
+      "id": 126,
+      "narrator": "Narrated Ali ibn AbuTalib:",
+      "text": "Abu İshak dedi ki: Al-Harith, Abdullah ibn Yazid'in cenaze namazını kıldırmasını vasiyet etti; o da onun üzerine namaz kıldı. Sonra onu bacaklarının yanından kabrine koydu ve şöyle dedi: Bu bir sünnettir (Peygamberin örnek uygulaması)."
+    },
+    {
+      "id": 127,
+      "narrator": "Narrated Hisham ibn Amir:",
+      "text": "---"
+    },
+    {
+      "id": 128,
+      "narrator": "The tradition mentioned above has also been transmitted by Humaid b. Hilal with a different chain of transmitters and to the same effect. This version adds:",
+      "text": "Al-Bara' ibn Azib'den rivayet edilmiştir: Biz, Allah'ın Resulü (ﷺ) ile birlikte Ensar'dan bir adamın cenazesine çıktık, fakat kabrine vardığımızda, yan tarafında niş yapılmamıştı, bu yüzden Peygamber (ﷺ) kıblaya dönerek oturdu ve biz de onunla birlikte oturduk."
+    },
+    {
+      "id": 129,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 130,
+      "narrator": "Narrated Abu Hayyaj al-Asadi:",
+      "text": "Abdullah ibn Umar'dan rivayet edilmiştir: Peygamber (ﷺ) ölüyü kabrine koyduğunda şöyle dedi: Allah'ın adıyla ve Allah'ın Resulü'nün (ﷺ) sünnetine uyarak. Bu, Müslim'in rivayetidir."
+    },
+    {
+      "id": 131,
+      "narrator": "Narrated Abu 'Ali al-Hamdani:",
+      "text": "---"
+    },
+    {
+      "id": 132,
+      "narrator": "Narrated Al-Qasim ibn Muhammad ibn AbuBakr:",
+      "text": "Ali ibn AbuTalib'den rivayet edilmiştir: Peygambere (ﷺ) dedim ki: Senin yaşlı ve sapkın amcan vefat etti. O da: Git ve babanı göm, sonra bana gelene kadar hiçbir şey yapma, dedi. Ben de gittim, onu gömdüm ve ona geldim. O bana (banyo yapmamı) emretti, ben de banyo yaptım ve o benim için dua etti."
+    },
+    {
+      "id": 133,
+      "narrator": "Narrated Uthman ibn Affan:",
+      "text": "---"
+    },
+    {
+      "id": 134,
+      "narrator": "Narrated Anas ibn Malik:",
+      "text": "Hişam ibn Amir'den rivayet edilmiştir: Ensar, Uhud günü Allah'ın Resulü'ne (ﷺ) geldiler ve: Yaralar ve yorgunlukla karşılaştık. Ne emredersin? dediler."
+    },
+    {
+      "id": 135,
+      "narrator": "Narrated 'Uqbah bin 'Amir:",
+      "text": "O da: Kuyu kazın, genişletin, bir kabrin içine iki veya üç kişiyi gömün, dedi."
+    },
+    {
+      "id": 136,
+      "narrator": "Narrated Yazid b. Habib:",
+      "text": "Yazid b. Habib'den rivayet edilmiştir: Peygamber (ﷺ), Uhud şehitleri için sekiz yıl sonra, hayatta olanlara ve ölülerine veda eden bir adam gibi dua etti."
+    },
+    {
+      "id": 137,
+      "narrator": "Narrated Jabir:",
+      "text": "Cabir'den rivayet edilmiştir: Peygamber (ﷺ) mezarın üzerine oturmayı, alçı ile sıvamayı ve onun üzerine herhangi bir yapı inşa etmeyi yasakladı."
+    },
+    {
+      "id": 138,
+      "narrator": "The tradition mentioned above has also been narrated by Jabir through a different chain of transmitters.\n\n\nAbu Dawud said:",
+      "text": "Yukarıda bahsedilen hadis, Cabir tarafından farklı bir rivayet zinciri ile de aktarılmıştır."
+    },
+    {
+      "id": 139,
+      "narrator": "Narrated Abu Hurairah:",
+      "text": "Ebu Davud dedi ki: 'Uthman şöyle dedi: \"veya ona eklenen herhangi bir şey.\" Süleyman b. Musa dedi ki: \"veya üzerine yazılan herhangi bir şey.\" Musaddad, kendi rivayetinde \"veya ona eklenen herhangi bir şey\" sözlerini zikretmedi."
+    },
+    {
+      "id": 140,
+      "narrator": "Narrated Abu Hurairah:",
+      "text": "Ebu Davud dedi ki: \"ve o\" (ve an) kelimesi benden gizli kaldı."
+    },
+    {
+      "id": 141,
+      "narrator": "Narrated Abu Marthad al-Ghanawi :",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: Allah'ın laneti Yahudilerin üzerine olsun, çünkü onlar Peygamberlerinin mezarlarını cami yaptılar."
+    },
+    {
+      "id": 142,
+      "narrator": "Narrated Bashir, the Client of the Messenger of Allah:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: Sizden birinin, giysilerini yakan ve derisine temas eden canlı kömürlerin üzerine oturması, bir mezarın üzerine oturmasından daha iyidir."
+    },
+    {
+      "id": 143,
+      "narrator": "Narrated Anas:",
+      "text": "Ebu Marthad el-Ghanavi'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle dedi: Mezarlara oturmayın ve onlara doğru namaz kılmayın."
+    },
+    {
+      "id": 144,
+      "narrator": "Narrated Jabir:",
+      "text": "Allah'ın Elçisinin (ﷺ) müvekkili olan Başir'den rivayet edilmiştir: Başir'in İslam öncesi ismi Zahm b. Ma'bad'dı. Allah'ın Elçisine (ﷺ) hicret ettiğinde, O sordu: Adın ne? O cevap verdi: Zahm. O dedi: Hayır, sen Başirsin."
+    },
+    {
+      "id": 145,
+      "narrator": "Narrated AbuHurayrah:",
+      "text": "O (Başir) dedi: Allah'ın Elçisi (ﷺ) ile yürüyordum, o, müşriklerin mezarlarının yanından geçti. Dedi ki: Onlar, bol hayırdan önce yaşadılar. Bunu üç kez söyledi. Sonra Müslümanların mezarlarının yanından geçti. Dedi ki: Onlar bol hayır aldılar."
+    },
+    {
+      "id": 146,
+      "narrator": "Narrated Abu Hurairah:",
+      "text": "Allah'ın Elçisi (ﷺ) aniden mezarların arasında ayakkabı giymiş bir adam gördü. Dedi ki: Ey ayakkabı giyen adam! Vay haline! Ayakkabılarını çıkar. Adam etrafa baktı, Allah'ın Elçisini (ﷺ) tanıyınca, ayakkabılarını çıkardı ve attı."
+    },
+    {
+      "id": 147,
+      "narrator": "Narrated Buraidah:",
+      "text": "Enes'ten rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: Bir kul (Allah) mezarına konulduğunda ve arkadaşları ondan ayrıldığında, onların ayakkabılarının sesini duyar."
+    },
+    {
+      "id": 148,
+      "narrator": "Narrated Abdullah ibn Abbas:",
+      "text": "Cabir'den rivayet edilmiştir: Bir adam babamla birlikte gömüldü. O (mezar) için kalbimde bir arzu vardı. Bu yüzden altı ay sonra onu çıkardım. Vücudunda, toprağa değen birkaç tel saç dışında hiçbir değişiklik bulamadım."
+    },
+    {
+      "id": 149,
+      "narrator": "Narrated Abu Hurairah:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Bir cenaze, Allah'ın Elçisi (ﷺ) yanından geçti. (Sahabeler) onu övdüler. O dedi: Cennet onun için kesindir. Sonra başka bir (cenaze) yanından geçti. Onlar onun hakkında çok kötü konuştular. O dedi: Cehennem onun için kesindir. Sonra dedi: Sizden bazıları diğerlerine şahittir."
+    },
+    {
+      "id": 150,
+      "narrator": "Narrated Ibn 'Abbas:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) annesinin mezarını ziyaret etti ve ağladı ve etrafındakileri de ağlattı. Allah'ın Elçisi (ﷺ) sonra dedi: Rabbimden onun için bağışlanma dilemem için izin istedim, ama izin verilmedi. Sonra onun mezarını ziyaret etmem için izin istedim ve izin verildi. O yüzden mezarları ziyaret edin, çünkü onlar ölümü hatırlatır."
+    },
+    {
+      "id": 151,
+      "narrator": "A similar tradition has also been narrated by Ibn 'Abbas through a different chain of narrators. This version has:",
+      "text": "İbn Abbas'tan farklı bir isnat zinciriyle benzer bir rivayet de nakledilmiştir. Bu versiyonda: \"İki elbise ile kefenleyin.\" denilmektedir."
+    },
+    {
+      "id": 152,
+      "narrator": "A similar tradition has also been narrated by Ibn 'Abbas through a different chain of transmitters to the effect as narrated by Sulaiman saying:",
+      "text": "Ebu Davud dedi ki: Rivayet eden Sulaiman, Ayyub'un şöyle dediğini aktardı: \"İki elbisesi,\" Amr dedi ki: \"iki elbise,\" İbn Ubaid ise Ayyub'un \"iki elbise ile\" dediğini aktarırken, Amr \"onun iki elbisesi ile\" dedi. Sadece Sulaiman ekledi: \"Ona hiç parfüm sürmeyin.\""
+    },
+    {
+      "id": 153,
+      "narrator": "Narrated Ibn 'Abbas:",
+      "text": "---"
+    }
+  ]
+}

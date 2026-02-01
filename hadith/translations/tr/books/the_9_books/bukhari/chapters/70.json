@@ -1,0 +1,491 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 95,
+    "arabic": {
+      "title": "صحيح البخاري",
+      "author": "الإمام محمد بن إسماعيل البخاري"
+    },
+    "english": {
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Muhammad ibn Ismail al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Narrated Abu Musa Al-Ash`ari:",
+      "text": "Ebu Musa el-Eş'ari'den rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Aç olanlara yemek verin, hasta olanları ziyaret edin ve esirleri (fidye vererek) serbest bırakın.\""
+    },
+    {
+      "id": 2,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Muhammed'in ailesi, onun vefatına kadar ardı ardına üç gün boyunca doymadan yemek yemedi."
+    },
+    {
+      "id": 3,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Bir gün açlıktan bitkin bir haldeyken, Ömer bin Hattab ile karşılaştım ve ondan Allah'ın Kitabından bir ayet okumalarını istedim. O, evine girdi ve bana ayeti açıkladı. (Sonra dışarı çıktım ve) kısa bir mesafe yürüdükten sonra, yorgunluktan ve açlıktan yüzüstü düştüm. Aniden başımın yanında Allah'ın Elçisi'ni gördüm. O, \"Ey Ebu Hureyre!\" dedi. Ben de, \"Buyur, Ey Allah'ın Elçisi (ﷺ), ve Sadık!\" dedim. Sonra beni elinden tutarak kaldırdı. Sonra benim ne sıkıntı çektiğimi anladı. Beni evine götürdü ve benim için büyük bir süt kasesi sipariş etti. Ondan içtim ve \"Daha iç, Ey Ebu Hirr!\" dedi. Ben tekrar içtim, o da tekrar \"Daha iç!\" dedi. Böylece karnım doyana kadar içtim ve karnım bir kase gibi oldu. Sonrasında Ömer ile karşılaştım ve başıma gelenleri ona anlattım ve \"Senden daha hak sahibi biri, Ey Ömer, bu işi üstlendi. Vallahi, senden bir ayet okumayı istedim, oysa ben onu senden daha iyi biliyordum.\" Bunun üzerine Ömer bana, \"Vallahi, eğer seni kabul etseydim ve ağırlasaydım, bu benim için güzel kırmızı develer sahibi olmaktan daha değerli olurdu.\" dedi."
+    },
+    {
+      "id": 4,
+      "narrator": "Narrated `Umar bin Abi Salama:",
+      "text": "Ömer bin Ebu Selame'den rivayet edilmiştir: Ben Allah'ın Elçisi (ﷺ) tarafından korunan bir çocuktum ve yemek yerken elim tabağın etrafında dolaşıyordu. Bunun üzerine Allah'ın Elçisi (ﷺ) bana, \"Ey çocuk! Allah'ın adını an ve sağ elinle ye, tabağın en yakınından ye.\" dedi. O günden beri yemek yerken bu talimatları uyguladım."
+    },
+    {
+      "id": 5,
+      "narrator": "Narrated `Umar bin Al Salama:",
+      "text": "Ömer bin Ebu Selame'den rivayet edilmiştir: Peygamber'in eşi Ümmü Selame'nin oğlu: Bir gün Allah'ın Elçisi (ﷺ) ile yemek yedim ve tabağın her tarafından yiyordum. Bunun üzerine Allah'ın Elçisi (ﷺ) bana, \"Tabağın en yakınından ye.\" dedi."
+    },
+    {
+      "id": 6,
+      "narrator": "Narrated Wahb bin Kaisan Abi Nu'aim:",
+      "text": "Vehb bin Keysan Ebu Naim'den rivayet edilmiştir: Allah'ın Elçisi'ne (ﷺ) bir yemek getirildi, o sırada üvey oğlu Ömer bin Ebu Selame de yanındaydı. Allah'ın Elçisi (ﷺ) ona, \"Allah'ın adını an ve tabağın en yakınından ye.\" dedi."
+    },
+    {
+      "id": 7,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir: Bir terzi, Allah'ın Elçisi'ni (ﷺ) hazırladığı bir yemeğe davet etti. Ben de Allah'ın Elçisi (ﷺ) ile birlikte gittim ve onu tabağın çeşitli kenarlarından kabak parçalarını yemeye çalışırken gördüm. O günden beri kabak yemeyi sevdim. Ömer bin Ebu Selame dedi ki: Peygamber (ﷺ) bana, \"Sağ elinle ye.\" dedi."
+    },
+    {
+      "id": 8,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Peygamber (ﷺ) mümkün olduğunca her işine sağdan başlamayı severdi; abdest alırken, ayakkabı giyerken ve saçını tararken. (El-Eş'ath dedi ki: Peygamber (ﷺ) bunu tüm işlerinde yapardı.)"
+    },
+    {
+      "id": 9,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir: Ebu Talha, Ümmü Süleym'e, \"Ben Allah'ın Elçisi'nin (ﷺ) zayıf bir sesle aç olduğunu duydum. Elinde bir şey var mı?\" dedi. O, biraz arpa ekmeği çıkardı, sonra yüz örtüsünü alıp ekmeği onun bir kısmına sardı ve elbisesinin altına itti, geri kalanını da bedenimin etrafına sardı ve beni Allah'ın Elçisi'ne (ﷺ) gönderdi. Ben onunla gittim ve Allah'ın Elçisi'ni (ﷺ) camide bazı insanlarla buldum. Onların yanına yaklaştım ve Allah'ın Elçisi (ﷺ) bana, \"Ebu Talha seni gönderdi mi?\" diye sordu. Ben de, \"Evet.\" dedim. O, \"Bize yiyecek (göndermiş mi)?\" diye sordu. Ben, \"Evet.\" dedim. Bunun üzerine Allah'ın Elçisi (ﷺ) yanındakilere, \"Kalkın!\" dedi. Yola çıktı (ve tüm insanlar onunla birlikte gitti) ve ben onlardan önde giderek Ebu Talha'ya ulaştım. Ebu Talha, \"Ey Ümmü Süleym! Allah'ın Elçisi (ﷺ) insanlarla birlikte geldi ve bizim onları doyuracak kadar yiyeceğimiz yok.\" dedi. O da, \"Allah ve Elçisi daha iyi bilir.\" dedi. Ebu Talha dışarı çıktı ve Allah'ın Elçisi ile karşılaştı. Sonra Ebu Talha ve Allah'ın Elçisi (ﷺ) eve geldiler. Allah'ın Elçisi, \"Ümmü Süleym! Elinde ne varsa getir.\" dedi. O, o ekmeği getirdi. Peygamber (ﷺ) onu küçük parçalara ezilmesini emretti ve Ümmü Süleym de üzerine bir parça tereyağı sürdü. Sonra Allah'ın Elçisi, Allah'ın dilemesini söyledi (yemeği bereketlendirmek için) ve ardından, \"On kişiyi içeri alın.\" dedi. Böylece içeri alındılar, doyuncaya kadar yediler ve dışarı çıktılar. Peygamber (ﷺ) sonra, \"On kişi daha alın.\" dedi. Onlar da içeri alındı, doyuncaya kadar yediler ve dışarı çıktılar. Sonra tekrar, \"On kişi daha alın!\" dedi. Onlar da içeri alındı, doyuncaya kadar yediler ve dışarı çıktılar. On kişiyi daha içeri aldığında, tüm o insanlar doydu ve toplamda seksen erkek oldular."
+    },
+    {
+      "id": 10,
+      "narrator": "Narrated `Abdur-Rahman bin Abu Bakr:",
+      "text": "Abdurrahman bin Ebu Bekir'den rivayet edilmiştir: Biz Peygamber ile birlikte yüz otuz adam oturuyorduk. Peygamber (ﷺ) şöyle dedi: \"Aranızda yiyecek olan var mı?\" Bir adamın yanında bir Sa un (veya benzeri) un vardı, o da hamur haline getirildi. Bir süre sonra uzun boylu bir putperest geldi, yanında bazı koyunlar vardı. Peygamber (ﷺ) ona, \"Bize (bir koyun) satacak mısın, yoksa (hediye olarak) verecek misin?\" diye sordu. Putperest, \"Hayır, ama satacağım.\" dedi. Bunun üzerine Peygamber ondan bir koyun satın aldı, o da kesildi. Sonra Peygamber (ﷺ) o koyunun karaciğerini, böbreklerini, akciğerlerini ve kalbini kızartılmasını emretti. Vallahi, o yüz otuz adamdan hiçbiri o şeylerden pay almadan gitmedi. Peygamber (ﷺ) orada bulunanlara verdi ve ayrıca orada olmayanlar için de bir pay ayırdı. Sonra o pişirilmiş koyunu iki büyük tepsiye servis etti ve hepimiz birlikte doyuncaya kadar yedik; yine de o iki tepside bir kısmı kaldı, onu deveye yükledim."
+    },
+    {
+      "id": 11,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Peygamber (ﷺ) iki siyah şeyle, yani hurma ve su ile açlığımızı giderdikten sonra vefat etti."
+    },
+    {
+      "id": 12,
+      "narrator": "Narrated Suwaid bin An-Nu`man:",
+      "text": "Suveyd bin En-Nu'man'dan rivayet edilmiştir: Biz Allah'ın Elçisi (ﷺ) ile Hayber'e çıktık ve As-Sahba'ya geldiğimizde, (Yahya, bir alt rivayetçi şöyle dedi: \"As-Sahba', Hayber'e bir günlük mesafede bir yerdir.\") Allah'ın Elçisi (ﷺ) insanlardan yiyecek getirmelerini istedi, ama insanların yanında sadece sawık vardı. Hepimiz onu çiğneyip yedik. Sonra Peygamber (ﷺ) biraz su istedi ve ağzını çalkaladı, biz de ağızlarımızı çalkaladık. Sonra o, abdest almadan akşam namazını kıldırdı."
+    },
+    {
+      "id": 13,
+      "narrator": "Narrated Qatada:",
+      "text": "Katade'den rivayet edilmiştir: Biz Anas'ın yanında idik, onun fırıncısı da yanındaydı. Anas dedi ki: Peygamber (ﷺ) ince ekmek veya kızartılmış koyun eti yemedi, ta ki Allah ile buluşuncaya kadar (vefat edene kadar)."
+    },
+    {
+      "id": 14,
+      "narrator": "Narrated Anas:",
+      "text": "Enes'ten rivayet edilmiştir: Bildiğim kadarıyla, Peygamber (ﷺ) hiç büyük bir tepside yemek yemedi, ne de olsa ince ekmek yedi, ne de yemek masasında yemek yedi."
+    },
+    {
+      "id": 15,
+      "narrator": "Narrated Anas:",
+      "text": "Enes'ten rivayet edilmiştir: Peygamber (ﷺ) Safiye ile evlenmek için durakladı. Ben de Müslümanları onun düğün ziyafetine davet ettim. O, deri yemek örtülerinin serilmesini emretti. Sonra o örtülerin üzerine hurmalar, kurutulmuş yoğurt ve tereyağı konuldu. Anas ekledi: Peygamber (ﷺ) Safiye ile evlendiğinde (bir yolculuk sırasında) Hais (tatlı bir yemek) deri yemek örtüsünde servis edildi."
+    },
+    {
+      "id": 16,
+      "narrator": "Narrated Wahb bin Kaisan:",
+      "text": "Vahb bin Kaysan'dan rivayet edilmiştir: Şam halkı, Abdullah bin Zübeyr'i \"İki bel kuşağının oğlu\" diye alay ettiler. (Annesi) (Esma) ona, \"Ey oğlum! Seni 'Nataqain' ile alay ediyorlar. Nataqain'in ne olduğunu biliyor musun? O benim bel kuşağımın iki parçaya bölünmüş halidir. Allah'ın Resulü'nün (ﷺ) su tulumunu bir parçasıyla bağladım, diğer parçasıyla da onun yiyecek kabını bağladım.\" demiştir."
+    },
+    {
+      "id": 17,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Teyzesi, Ümmü Hufeyd bint el-Haris bin Hazn, Peygamber'e (ﷺ) tereyağı, kuru yoğurt ve mastigürler sundu. Peygamber (ﷺ) insanları o mastigürlere davet etti ve onlar onun yemek örtüsünde yendi, fakat Peygamber (ﷺ) onlardan yemediydi, sanki ondan hoşlanmamış gibiydi. Yine de, eğer onu yemek haram olsaydı, insanlar Peygamber'in (ﷺ) yemek örtüsünde onu yemezdi ve o da onların yenmesini emretmezdi."
+    },
+    {
+      "id": 18,
+      "narrator": "Narrated Suwaid bin An-Nu`man:",
+      "text": "Suveyd bin En-Nu'man'dan rivayet edilmiştir: Onlar Peygamber (ﷺ) ile As-Sahba'da, Khaibar'dan bir günlük mesafede iken, namaz vakti geldi ve Peygamber (ﷺ) insanlardan yiyecek istedi ama halkta sadece sawık vardı. Ondan yedi ve biz de onunla birlikte yedik, sonra su istedi ve ağzını çalkaladı, ardından (Maghrib) namazını kıldı ve biz de namazı kıldık ama Peygamber (ﷺ) sawıktan sonra abdest almadı."
+    },
+    {
+      "id": 19,
+      "narrator": "Narrated Khalid bin Al-Walid:",
+      "text": "Halid bin Velid'den rivayet edilmiştir: Allah'ın Resulü (ﷺ) ile Maimuna'nın evine gitti; Maimuna, onun ve İbn Abbas'ın teyzesi idi. Onun yanında, kız kardeşi Hufaida bint el-Haris'in Nejd'den getirdiği bir kızartılmış mastigür vardı. Maimuna, mastigürü Allah'ın Resulü'ne (ﷺ) sundu; o, nadiren (tanımadığı) bir yiyeceği tarif edilmeden yemeye başlardı. (Ama o sefer) Allah'ın Resulü (ﷺ) mastigürün (etinin) üzerine elini uzattı, orada bulunan bir kadın, \"Ona sunduğunuz şeyi Allah'ın Resulü'ne (ﷺ) bildirmelisiniz. Ey Allah'ın Resulü (ﷺ)! Bu bir mastigür etidir.\" dedi. (Bunu öğrenince) Allah'ın Resulü (ﷺ) elini mastigür etinden çekti. Halid bin Velid, \"Ey Allah'ın Resulü (ﷺ)! Bu yemek haram mı?\" diye sordu. Allah'ın Resulü (ﷺ) \"Hayır, ama benim halkımın topraklarında bulunmuyor, bu yüzden onu sevmiyorum.\" diye cevap verdi. Halid, \"O zaman mastigür (etini) kendime doğru çektim ve Allah'ın Resulü (ﷺ) beni izlerken yedim.\" dedi."
+    },
+    {
+      "id": 20,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Resulü (ﷺ) dedi ki: \"İki kişinin yiyeceği, üç kişi için yeterlidir, üç kişinin yiyeceği ise dört kişi için yeterlidir.\""
+    },
+    {
+      "id": 21,
+      "narrator": "Narrated Nafi`:",
+      "text": "Nafi'den rivayet edilmiştir: İbn Umar, bir yemeği ancak bir fakir adam yanına çağrıldığında alırdı. Bir gün ben onunla yemek yemesi için bir fakir adam getirdim, adam çok yedi, bunun üzerine İbn Umar, \"Ey Nafi! Bu adamı evime sokma, çünkü Peygamber'in (ﷺ) 'Mümin bir bağırsakta yer (az yiyecek ile yetinir), kafir (inkarcı) yedi bağırsakta yer (çok yer)' dediğini duydum.\" dedi."
+    },
+    {
+      "id": 22,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn Umar'dan rivayet edilmiştir: Allah'ın Resulü (ﷺ) dedi ki: \"Mümin bir bağırsakta yer (az yiyecek ile yetinir), kafir (inkarcı) veya münafık yedi bağırsakta yer (çok yer).\""
+    },
+    {
+      "id": 23,
+      "narrator": "Narrated `Amr:",
+      "text": "Amr'dan rivayet edilmiştir: Ebu Nahik açgözlü bir yiyiciydi. İbn Umar ona, \"Allah'ın Resulü (ﷺ) 'Kafir (inkarcı) yedi bağırsakta yer (çok yer)' dedi.\" dedi. Bunun üzerine Ebu Nahik, \"Ama ben Allah'a ve O'nun Resulüne inanıyorum.\" dedi."
+    },
+    {
+      "id": 24,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Resulü (ﷺ) dedi ki: \"Bir Müslüman bir bağırsakta yer (yani az yiyecek ile yetinir), kafir (inkarcı) ise yedi bağırsakta yer (çok yer).\""
+    },
+    {
+      "id": 25,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Bir adam çok yerdi, ama İslam'ı kabul ettikten sonra daha az yemeye başladı. Bu durum Peygamber'e (ﷺ) bildirildi, o da, \"Mümin bir bağırsakta yer (az yiyecek ile yetinir) ve kafir yedi bağırsakta yer (çok yer).\" dedi."
+    },
+    {
+      "id": 26,
+      "narrator": "Narrated Abu Juhaifa:",
+      "text": "Ebu Cuheife'den rivayet edilmiştir: Allah'ın Resulü (ﷺ) dedi ki: \"Ben yemek yerken bir şeye yaslanmam.\""
+    },
+    {
+      "id": 27,
+      "narrator": "Narrated Abu Juhaifa:",
+      "text": "Ebu Cuheife'den rivayet edilmiştir: Peygamber (ﷺ) ile birlikteyken, yanında bulunan bir adama, \"Ben yemek yerken yaslanmam.\" dedi."
+    },
+    {
+      "id": 28,
+      "narrator": "Narrated Khalid bin Al-Walid:",
+      "text": "Halid bin Velid'den rivayet edilmiştir: \"Peygamber'e (ﷺ) bir kızartılmış mastigür getirildi, o da ona yemek için elini uzattı. Ama ona, 'Bu bir mastigürdür.' denildi. Bunun üzerine elini çekti. Halid sordu, 'Yemek haram mı?' Peygamber (ﷺ) 'Hayır, ama benim halkımın topraklarında bulunmuyor ve bu yüzden onu sevmiyorum.' dedi. Halid, Allah'ın Resulü (ﷺ) onu izlerken yemeye başladı. En-Nadr dedi ki: 'Al-Khazira' (kepekten hazırlanır) ve 'Al-Harira' sütle hazırlanır.\""
+    },
+    {
+      "id": 29,
+      "narrator": "Narrated 'Urban bin Malik:",
+      "text": "Urban bin Malik'ten rivayet edilmiştir: Bedir savaşına katılan ve Ensar'dan olan Urban, Peygamber'e (ﷺ) geldi ve dedi ki: \"Ey Allah'ın Resulü! Gözlerimi kaybettim ve halkımı namazda (imam olarak) yönetiyorum. Yağmur yağdığında, benimle halkım arasındaki vadi su ile doluyor ve bu yüzden onların camisine gidip namaz kıldırmakta zorlanıyorum. Ey Allah'ın Resulü (ﷺ)! Keşke gelip evimde namaz kılsanız, böylece burayı bir ibadet yeri olarak alabilirim.\" Peygamber (ﷺ) \"İnşallah, bunu yapacağım.\" dedi. Ertesi sabah, güneş doğduktan hemen sonra, Allah'ın Resulü (ﷺ) Ebu Bekir ile geldi. Peygamber (ﷺ) içeri girmek için izin istedi ve onu içeri aldım. Peygamber (ﷺ) oturmadan, evin içinde bana, \"Evinde nerede namaz kılmamı istersin?\" diye sordu. Ben evimde bir yeri işaret ettim, o da orada durdu ve \"Allahu Ekber\" dedi. Biz onun arkasında saf tuttuk ve iki rek'at kıldı ve selam verdi. Sonra ona hazırladığımız özel bir Khazira yemeği için kalmasını istedik. Komşu bölgelerden birçok adam evde toplandı. İçlerinden biri, \"Malik bin Ad-Dukhshun nerede?\" dedi. Diğer bir adam, \"O bir münafık ve Allah'ı ve Resulünü sevmiyor.\" dedi. Peygamber (ﷺ) \"Böyle söylemeyin. Onun 'Allah'tan başka ibadet edilecek yoktur.' diyerek Allah'ın rızasını aradığını düşünmüyor musunuz?\" dedi. Adam, \"Allah ve Resulü daha iyi bilir, ama onu her zaman münafıklarla birlikte gördük ve onlara tavsiyelerde bulundu.\" dedi. Peygamber (ﷺ) \"Allah, O'ndan başka ibadet edilecek yoktur diyenlerin ateşten korunmasını sağlamıştır.\" dedi."
+    },
+    {
+      "id": 30,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Teyzem, Peygamber'e (ﷺ) (kızartılmış) mastigürler, İqt ve süt sundu. Mastigürler onun yemek örtüsüne konuldu ve eğer yemek haram olsaydı, oraya konulmazdı. Peygamber (ﷺ) süt içti ve yalnızca İqt yedi."
+    },
+    {
+      "id": 31,
+      "narrator": "Narrated Sahl bin Sa`d:",
+      "text": "Sahl bin Sa'd'dan rivayet edilmiştir: Cuma günleri mutlu olurduk, çünkü yaşlı bir kadın Silq köklerini çıkarır ve bunları bir pişirme tenceresine biraz arpa ile koyardı. Namazı bitirdiğimizde, onu ziyaret eder ve bize o yemeği sunardı. Bu yüzden Cuma günleri mutlu olurduk ve öğle uykusuna ya da yemek yemeye Cuma namazından sonra çıkmadan önce hiç çıkmazdık. Vallahi, o yemekte yağ yoktu."
+    },
+    {
+      "id": 32,
+      "narrator": "Narrated Ibn 'Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) bir omuz etinden (eti dişleriyle keserek) yedi, sonra kalktı ve abdest almadan namaz kıldı."
+    },
+    {
+      "id": 33,
+      "narrator": "Narrated Ibn 'Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) bir pişirme tenceresinden etli bir kemik çıkardı ve ondan yedi, sonra abdest almadan namaz kıldı."
+    },
+    {
+      "id": 34,
+      "narrator": "Narrated Abu Qatada:",
+      "text": "Ebu Katade'den rivayet edilmiştir: Peygamber ile birlikte Mekke'ye doğru yola çıktık."
+    },
+    {
+      "id": 35,
+      "narrator": "Narrated Abu Qatada:",
+      "text": "Ebu Katade'den rivayet edilmiştir: Bir gün, Peygamber (ﷺ) ile birlikte Mekke yolunda bir istasyonda oturuyordum ve Allah'ın Elçisi (ﷺ) önümüzde duruyordu ve tüm insanlar ihrama giriyordu, ben ise girmiyordum. Arkadaşım, ben ayakkabılarımı tamir ederken bir eşek gördü. Bana eşeği bildirmediler ama onu görmemi istediler. Aniden baktım ve eşeği gördüm. Sonra atıma yöneldim, eyerledim ve bindim, ama kamçıyı ve mızrağı almayı unuttum. Arkadaşlarıma, \"Bana kamçıyı ve mızrağı verin.\" dedim. Ama onlar, \"Hayır, vallahi sana onu avlaman için hiçbir şekilde yardım etmeyeceğiz.\" dediler. Kızdım, indim, mızrağı ve kamçıyı aldım, bindim (at eşeği kovaladı ve yaraladı). Onu getirdiğimde, arkadaşlarım onun (pişirilmiş) etinden yemeye başladılar, ama ihramda oldukları için etini yemenin haram olabileceğinden şüphe ettiler. Sonra daha ileri gittim ve onun ön ayaklarından birini yanımda tuttum. Allah'ın Elçisi ile karşılaştığımızda ona bunu sorduk. O, \"Yanında et var mı?\" dedi. Ben o ön ayağı verdim ve o eti yedi, kemiğini etinden sıyırana kadar, o ihramda olmasına rağmen."
+    },
+    {
+      "id": 36,
+      "narrator": "Narrated `Amr bin Umaiyya:",
+      "text": "Amr bin Umeyye'den rivayet edilmiştir: Peygamber (ﷺ)'in elinde bir koyun omuzu tuttuğunu ve bir bıçakla ondan bir parça kestiğini gördüm. Sonra namaz için çağrıldığında, omuzu ve kestiği bıçağı bıraktı ve tekrar abdest almadan namaza durdu."
+    },
+    {
+      "id": 37,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) kendisine sunulan hiçbir yiyeceği eleştirmedi, ama eğer yiyeceği beğenirse yer, beğenmezse bırakırdı."
+    },
+    {
+      "id": 38,
+      "narrator": "Narrated Abu Hazim:",
+      "text": "Ebu Hazim'den rivayet edilmiştir: Sahl'a, \"Peygamber (ﷺ) döneminde beyaz un kullanır mıydınız?\" diye sordum. Sahl, \"Hayır.\" dedi. Hazim, \"Arpa ununu eler miydiniz?\" diye sordu. O, \"Hayır, ama arpanın kabuğunu üfleyerek atardık.\" dedi."
+    },
+    {
+      "id": 39,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Bir gün Peygamber (ﷺ) hurmaları arkadaşları arasında dağıttı ve her birine yedi hurma verdi. Bana da yedi hurma verdi, bunlardan biri kuru ve sertti, ama diğer hurmalardan hiçbiri o kadar hoşuma gitmedi, çünkü onu çiğnemem uzun sürdü."
+    },
+    {
+      "id": 40,
+      "narrator": "Narrated Sa`d:",
+      "text": "Sa'd'dan rivayet edilmiştir: Ben, Allah'ın Elçisi (ﷺ) ile birlikte İslam'ı kabul eden (ilk) yedi kişiden biriydim ve o zaman yiyecek olarak sadece Habala veya Hubula ağacının yaprakları vardı, bu yüzden dışkımız koyun dışkısına benziyordu. Şimdi Beni Asad kabilesi bana İslam'ı öğretmek istiyor; onlardan İslam'ı yeniden öğrenirsem kaybedecek ve tüm çabalarım boşa gidecek."
+    },
+    {
+      "id": 41,
+      "narrator": "Narrated Abu Hazim:",
+      "text": "Ebu Hazim'den rivayet edilmiştir: Sahl bin Sa'd'a, \"Allah'ın Elçisi (ﷺ) hiç beyaz un yedi mi?\" diye sordum. Sahl, \"Allah'ın Elçisi (ﷺ), O'nu peygamber olarak göndermeden önce beyaz unu hiç görmedi.\" dedi. \"Allah'ın Elçisi (ﷺ) döneminde insanlar (elek) kullanıyorlar mıydı?\" diye sordum. Sahl, \"Allah'ın Elçisi (ﷺ), O'nu peygamber olarak göndermeden önce hiç elek görmedi.\" dedi. \"Peki, nasıl elemeden arpa yediniz?\" dedim. O, \"Biz onu öğütürdük ve sonra kabuğunu üfleyerek atardık, kabuk uçtuktan sonra hamuru hazırlayıp (pişirip) yerdi.\" dedi."
+    },
+    {
+      "id": 42,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Bir grup insanın önünden geçerken, önlerinde bir kızartılmış koyun vardı. Beni davet ettiler ama ben yemeyi reddettim ve \"Allah'ın Elçisi (ﷺ) bu dünyadan arpa ekmeği ile bile karnını doyurmadan ayrıldı.\" dedim."
+    },
+    {
+      "id": 43,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir: Peygamber (ﷺ) hiç yemeklerini bir yemek masasında, ne de küçük tabaklarda yedi ve ince, iyi pişirilmiş ekmek yemezdi. (Alt anlatıcı Katada'ya, \"Onlar yemeklerini ne üzerinde yerdi?\" diye sordu. Katada, \"Deriden yapılmış yemek örtülerinin üzerinde.\" dedi.)"
+    },
+    {
+      "id": 44,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Muhammed'in ailesi, Medine'ye geldiğinden beri üç gün boyunca buğday ekmeğinden doymadan yaşadı."
+    },
+    {
+      "id": 45,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den (Peygamber'in eşi) rivayet edilmiştir: Bir akrabası öldüğünde, kadınlar toplanır ve sonra dağılır (evlerine dönerdi) ama akrabaları ve yakın arkadaşları hariç. O, bir tencere Talbina pişirilmesini emrederdi. Sonra Tharid (et ve ekmekten hazırlanan bir yemek) hazırlanır ve Talbina üzerine dökülürdü. Aişe kadınlara, \"Ondan yiyin, çünkü Allah'ın Elçisi (ﷺ)'nin, 'Talbina hastanın kalbini yatıştırır ve ona bazı üzüntülerinden kurtarır.' dediğini duydum.\" derdi."
+    },
+    {
+      "id": 46,
+      "narrator": "Narrated Abu Musa Al-Ash`ari:",
+      "text": "Ebu Musa el-Eş'ari'den rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Birçok erkek mükemmelliğe ulaştı, fakat kadınlar arasında mükemmelliğe ulaşan sadece Meryem binti İmran ve Firavun'un eşi Asiye'dir. Aişe'nin diğer kadınlara üstünlüğü, Tharid'in diğer yiyecek türlerine üstünlüğü gibidir.\""
+    },
+    {
+      "id": 47,
+      "narrator": "Narrated Anas:",
+      "text": "Enes'ten rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Aişe'nin diğer kadınlara üstünlüğü, Tharid'in diğer yiyecek türlerine üstünlüğü gibidir.\""
+    },
+    {
+      "id": 48,
+      "narrator": "Narrated Anas:",
+      "text": "Enes'ten rivayet edilmiştir: Peygamber (ﷺ) ile birlikte genç bir terzinin evine gittim. Terzi, Peygamber (ﷺ)'e bir tabak Tharid sundu ve işine döndü. Peygamber (ﷺ) kabak parçalarını almaya başladı, ben de onları alıp önüne koymaya başladım. O günden beri kabak yemeyi hep sevdim."
+    },
+    {
+      "id": 49,
+      "narrator": "Narrated Qatada:",
+      "text": "Katâde'den rivayet edilmiştir: Anas bin Malik'i ziyaret ederdik, o sırada fırıncısı ekmek pişiriyordu. Anas, \"Ye!\" derdi. \"Peygamber (ﷺ)'in Allah'a kavuşana kadar iyi pişirilmiş ekmek gördüğünü bilmiyorum, ne de olsa kendi gözleriyle kızartılmış bir koyun da görmedi.\""
+    },
+    {
+      "id": 50,
+      "narrator": "Narrated `Amr bin Umaiyay Ad-Damri:",
+      "text": "Amr bin Umeyye ed-Damri'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ)'nin bir bıçakla koyun omuzunun bir kısmını kestiğini gördüm. Ondan yedi ve sonra namaza çağrıldığında kalktı, bıçağı bıraktı ve yeni bir abdest almadan namaz kıldı."
+    },
+    {
+      "id": 51,
+      "narrator": "Narrated `Abis:",
+      "text": "Abis'ten rivayet edilmiştir: Aişe'ye \"Peygamber (ﷺ) Kurban Bayramı'nda sunulan kurban etinin üç günden fazla yenmesini yasakladı mı?\" diye sordum. O da, \"Peygamber (ﷺ) bunu yalnızca insanlar aç kaldığında yaptı, böylece zenginlerin fakirlere yemek vermesini istedi. Ama sonra bir koyunun ayaklarını bile on beş gün sonra yemek için saklardık.\" diye cevap verdi. Ona, \"Bunu yapmaya ne sebep oldu?\" diye soruldu. Gülümsedi ve \"Muhammed'in ailesi, Allah'a kavuşana kadar üç gün üst üste etli beyaz ekmekten doymadı.\" dedi."
+    },
+    {
+      "id": 52,
+      "narrator": "Narrated Jabir:",
+      "text": "Cabir'den rivayet edilmiştir: Biz, Peygamber (ﷺ) döneminde Medine'ye Hadis (kurban edilen hayvanların) etlerini taşırdık."
+    },
+    {
+      "id": 53,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir: Allah'ın Elçisi (ﷺ) Ebu Talha'ya, \"Bana hizmet etmesi için bir oğlunu bul.\" dedi. Ebu Talha beni arkasına (bindiği hayvanın) aldı ve beni (Peygamber (ﷺ)'e) götürdü. Böylece ben, Allah'ın Elçisi (ﷺ) inip bir yere yerleştiğinde ona hizmet ederdim. Onun sık sık, \"Ya Allah! Üzüntü, keder, acizlik, tembellik, cimrilik, korkaklık, borç yükü ve başkaları tarafından haksız yere ezilmekten sana sığınırım.\" dediğini duyardım. Khaibar savaşından döndüğümüz zamana kadar hizmet etmeye devam ettim. Peygamber (ﷺ) daha sonra savaş ganimeti olarak kazandığı Safiye binti Huyai'yi getirdi. Onun arkasında oturması için bir elbise veya giysi katladığını gördüm. As-Sahba'ya vardığında Hais hazırladı ve bir sofra örtüsüne koydu. Sonra beni, gelen erkekleri davet etmem için gönderdi; onlar geldi ve yedi; işte bu, onun ve Safiye'nin düğün ziyafetiydi. Sonra Peygamber (ﷺ) devam etti ve Uhud dağını görünce, \"Bu dağ bizi seviyor, biz de onu seviyoruz.\" dedi. Medine'ye yaklaştığımızda, \"Ya Allah! Bu iki dağın arasını, İbrahim'in Mekke'yi kutsal kıldığı gibi kutsal kılıyorum. Ya Allah! Onların Mudd ve Sa'sını bereketlendir.\" dedi."
+    },
+    {
+      "id": 54,
+      "narrator": "Narrated `Abdur-Rahman bin Abi Laila:",
+      "text": "Abdurrahman bin Ebi Leyla'dan rivayet edilmiştir: Hudhayfa'nın yanında oturuyorduk, su istedi ve bir Mecusi ona su getirdi. Ama kupayı eline koyduğunda, ona fırlattı ve \"Bunu ona bir veya iki kez yasaklamadım mı?\" dedi. \"Bunu yapmazdım,\" demek istedi, ekledi: \"Ama Peygamber (ﷺ)'in, 'İpek veya dibaca giymeyin, gümüş veya altın kaplarda içmeyin, bu tür metallerden tabaklarda yemeyin, çünkü bu şeyler bu dünyada kafirler içindir ve ahirette bizim içindir.' dediğini duydum.\""
+    },
+    {
+      "id": 55,
+      "narrator": "Narrated Abu Musa Al-Ash`ari:",
+      "text": "Ebu Musa el-Eş'ari'den rivayet edilmiştir: Allah'ın Messenger (ﷺ) şöyle buyurdu: \"Kur'an okuyan bir Müminin örneği, güzel kokan ve lezzetli olan bir limondur; Kur'an okumayan bir Müminin örneği, kokusu olmayan ama tatlı olan bir hurmadır; Kur'an okuyan bir münafığın örneği, güzel kokan ama acı olan bir aromatik bitkidir; Kur'an okumayan bir münafığın örneği, kokusu olmayan ve tadı acı olan bir colocynth bitkisidir.\""
+    },
+    {
+      "id": 56,
+      "narrator": "Narrated Anas:",
+      "text": "Enes'ten rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Aişe'nin diğer kadınlara üstünlüğü, Tharid'in diğer yiyecek türlerine üstünlüğü gibidir.\""
+    },
+    {
+      "id": 57,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Seyahat bir tür işkencedir, çünkü insanın uyumasını ve yemesini engeller! Bu nedenle, bir kişi işini bitirdiğinde, ailesine hızlıca dönmelidir.\""
+    },
+    {
+      "id": 58,
+      "narrator": "Narrated Qasim bin Muhammad:",
+      "text": "Kasım bin Muhammed'den rivayet edilmiştir: Barira nedeniyle üç gelenek ortaya çıkmıştır: Aişe onu satın almayı ve serbest bırakmayı istemişti, ancak Barira'nın sahipleri, \"Onun wala'sı bizimdir.\" dediler. Aişe bunu Allah'ın Messenger (ﷺ)'e bildirdi, o da, \"İsterseniz onların şartını kabul edebilirsiniz, çünkü wala, köleyi azat edenindir.\" dedi. Barira azat edildi, sonra ya kocasıyla kalma ya da ondan ayrılma seçeneği verildi; Bir gün Allah'ın Messenger (ﷺ) Aişe'nin evine girdiğinde, ateşte kaynayan bir yemek tenceresi vardı. Peygamber (ﷺ) öğle yemeği istedi ve ona ekmek ve ev yapımı Udm'den (örneğin çorba) biraz fazla yiyecek sunuldu. \"Et görmüyorum mu?\" diye sordu. Onlar, \"Evet, Ya Allah'ın Elçisi! Ama bu, Barira'ya sadaka olarak verilmiş et ve o da bize hediye etti.\" dediler. O da, \"Barira için bu sadakadır, ama bizim için bu bir hediyedir.\" dedi."
+    },
+    {
+      "id": 59,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Allah'ın Messenger (ﷺ) tatlı yenilebilir şeyleri ve balı severdi."
+    },
+    {
+      "id": 60,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Ben, Allah'ın Messenger (ﷺ) ile birlikte karnımı doyurmak için giderdim; o zaman ne pişirilmiş ekmek yerdim, ne de ipek giyerdim. Ne bir erkek ne de bir kadın köle bana hizmet ederdi, ben karın üstüme taş bağlardım ve birinin bana bir Kur'an ayeti okumasını isterdim, oysa ben onu biliyordum, böylece beni evine götürüp besleyebilirdi. Cafer bin Ebi Talib, yoksullara çok merhametliydi ve bizi alır, evinde bulunan her şeyle beslerdi; (ve eğer hiçbir şey yoksa), bize boş (bal veya tereyağı) derisini verirdi, biz de onu yırtar ve içindeki her şeyi yalardık."
+    },
+    {
+      "id": 61,
+      "narrator": "Narrated Anas:",
+      "text": "Anas'tan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) kölesi terzinin evine gitti ve ona kabak yemeği sunuldu. O da yemeye başladı. Allah'ın Elçisi (ﷺ) bunu yerken gördüğümden beri kabak yemeyi sevdim."
+    },
+    {
+      "id": 62,
+      "narrator": "Narrated Abu Mas`ud Al-Ansari:",
+      "text": "Ebu Mes'ud el-Ensari'den rivayet edilmiştir: Abu Shu'aib adında bir adam vardı ve onun bir kölesi kasaptı. O kölesine, \"Allah'ın Elçisi (ﷺ) ile birlikte dört başka adamı davet edebileceğim bir yemek hazırla.\" dedi. Böylece Allah'ın Elçisi (ﷺ) ve dört başka adamı davet etti, fakat başka bir adam onlara katıldı. Bunun üzerine Peygamber (ﷺ) dedi ki, \"Beni beş misafirden biri olarak davet ettin, ama şimdi başka bir adam bize katıldı. İstersen onu kabul edebilirsin, istersen reddedebilirsin.\" Bunun üzerine ev sahibi, \"Ama ben onu kabul ediyorum.\" dedi. Muhammed bin İsmail'den rivayet edilmiştir: Misafirler yemek masasında otururken, diğer masalardan yemek alıp kendi masalarına taşıma hakları yoktur, fakat kendi masalarındaki yiyecekleri birbirlerine verebilirler; aksi takdirde bırakmalıdırlar."
+    },
+    {
+      "id": 63,
+      "narrator": "Narrated Anas:",
+      "text": "Anas'tan rivayet edilmiştir: Ben bir çocukken bir kez Allah'ın Elçisi (ﷺ) ile yürüyordum. Allah'ın Elçisi (ﷺ) kölesi terzinin evine girdi ve terzi, kabak parçalarıyla kaplı bir yemek getirdi. Allah'ın Elçisi kabakları seçip yemeye başladı. Bunu görünce ben de kabakları toplayıp önüne koymaya başladım. Sonra köle işine geri döndü. Anas ekledi: Allah'ın Elçisi (ﷺ) ne yaptığını gördüğümden beri kabak sevmeye devam ettim."
+    },
+    {
+      "id": 64,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir: Bir terzi, Peygamberi (ﷺ) hazırladığı bir yemeğe davet etti ve ben de Peygamber (ﷺ) ile birlikte gittim. Terzi, arpa ekmeği ve kabak ile tuzlu et içeren bir çorba sundu. Peygamber (ﷺ) tabağın etrafındaki kabak parçalarını seçtiğini gördüm ve o günden beri kabak sevmeye devam ettim."
+    },
+    {
+      "id": 65,
+      "narrator": "Narrated Anas:",
+      "text": "Anas'tan rivayet edilmiştir: Peygamber (ﷺ) bana kabak ve tuzlu et içeren bir çorba ikram edildiğini gördüm ve onun kabak parçalarını seçip yediğini gördüm."
+    },
+    {
+      "id": 66,
+      "narrator": "Narrated `Aisha:",
+      "text": "Aişe (ra) dedi ki: \"Allah'ın Elçisi (ﷺ) öldüğünde, biz iki siyah şeyle, yani hurma ve su ile yetinmiştik.\""
+    },
+    {
+      "id": 67,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Anas bin Malik'ten rivayet edilmiştir: Bir terzi, Allah'ın Elçisi (ﷺ) için hazırladığı bir yemeğe davet etti. Ben de Allah'ın Elçisi (ﷺ) ile o yemeğe gittim ve terzi, Peygamber (ﷺ) için arpa ekmeği ve kabak ile tuzlu etten oluşan bir çorba sundu. Allah'ın Elçisi (ﷺ) tabağın etrafındaki kabak parçalarını seçtiğini gördüm ve o günden beri kabak sevmeye devam ettim."
+    },
+    {
+      "id": 68,
+      "narrator": "Narrated `Abdullah bin Ja`far bin Abi Talib:",
+      "text": "Abdullah bin Ca'fer bin Ebu Talib'ten rivayet edilmiştir: Allah'ın Elçisi (ﷺ) ile yılan salatalığı ile taze hurma yediğimi gördüm."
+    },
+    {
+      "id": 69,
+      "narrator": "Narrated Abu `Uthman:",
+      "text": "Ebu Osman'dan rivayet edilmiştir: Ben yedi gün boyunca Ebu Hureyre'nin misafiri oldum. Ebu Hureyre, eşi ve kölesi, gece yarısının üçte birini sırayla kalkıp uyanık kalırlardı. Her biri gece namazını kılar ve sonra diğerini uyandırırdı. Ebu Hureyre'nin, \"Allah'ın Elçisi (ﷺ) hurmaları arkadaşları arasında paylaştırdı ve benim payım yedi hurmaydı, bunlardan biri Hashafa (tam olgunlaşmadan ağaçta kuruyan bir hurma) idi.\" dediğini duydum."
+    },
+    {
+      "id": 70,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) bizim aramızda hurmaları paylaştırdı ve benim payım beş hurmaydı, bunlardan dördü iyiydi, biri ise Hashafa idi ve Hashafa'nın dişlerim için en sertini buldum."
+    },
+    {
+      "id": 71,
+      "narrator": "",
+      "text": "Aişe (ra) dedi ki: \"Allah'ın Elçisi (ﷺ) öldüğünde, biz iki siyah şeyle, yani hurma ve su ile yetinmiştik.\""
+    },
+    {
+      "id": 72,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Cabir bin Abdullah'tan rivayet edilmiştir: Medine'de bir Yahudi vardı, bana hurma toplama mevsimine kadar borç para verirdi. (Cabir'in Ruma yolunda bir arazisi vardı.) O yıl arazi verimli olmadı, bu yüzden borcun ödemesi bir yıl gecikti. Yahudi, toplama zamanı geldiğinde bana geldi ama benim arazimden hiçbir şey toplamadı. Ona bir yıl süre vermesini istedim ama reddetti. Bu haber Peygamber (ﷺ)'e ulaştı ve o da arkadaşlarına, \"Hadi gidelim ve Yahudi'den Cabir için süre isteyelim.\" dedi. Hepsi benim bahçemde bana geldi ve Peygamber (ﷺ) Yahudi ile konuşmaya başladı, ama Yahudi, \"Ey Ebu Kasım! Ona süre vermeyeceğim.\" dedi. Peygamber (ﷺ) Yahudi'nin tutumunu görünce ayağa kalktı ve bahçenin etrafında dolaştı, tekrar geldi ve Yahudi ile konuştu ama Yahudi isteğini reddetti. Ben kalktım ve biraz olgun taze hurma getirdim ve Peygamber'in önüne koydum. O yedi ve sonra bana, \"Ey Cabir, kulübende nerede?\" dedi. Ben de ona bildirdim ve o, \"Orada benim için bir yatak ser.\" dedi. Ben de bir yatak serdim, o girdi ve uyudu. Uyandığında, ona tekrar hurma getirdim, o da yedi ve sonra tekrar Yahudi ile konuşmaya gitti ama Yahudi yine isteğini reddetti. Sonra Peygamber (ﷺ) ikinci kez taze hurmalarla dolu palmiyelerin arasında ayağa kalktı ve dedi ki, \"Ey Cabir! Borcunu ödemek için hurma topla.\" Yahudi benim hurma toplarken yanımda kaldı, ta ki onun tüm hakkını ödeyene kadar, yine de fazla hurma kaldı. Ben dışarı çıktım ve Peygamber'e ulaştım ve ona iyi haberi bildirdim, bunun üzerine o, \"Ben Allah'ın Elçisi (ﷺ) olduğuma şahitlik ederim.\" dedi."
+    },
+    {
+      "id": 73,
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "Abdullah bin Ömer'den rivayet edilmiştir: Peygamber ile otururken, ona taze hurmalar getirildi. Peygamber (ﷺ) dedi ki: \"Ağaçlar arasında, bir Müslüman kadar bereketli bir ağaç vardır.\" Ben bunun hurma palmiyesi olduğunu düşündüm ve \"O, hurma palmiyesi, Ey Allah'ın Elçisi (ﷺ)!\" demek istedim ama arkamda orada bulunan on adamdan en genç ve onuncusu olduğumu görünce sessiz kaldım. Sonra Peygamber (ﷺ) dedi ki: \"O, hurma palmiyesi.\""
+    },
+    {
+      "id": 74,
+      "narrator": "Narrated Sa`d:",
+      "text": "Sa'd'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) dedi ki: \"Her sabah yedi 'Ajwa hurması yiyen, o gün zehir veya sihirden etkilenmeyecektir.\""
+    },
+    {
+      "id": 75,
+      "narrator": "Narrated Jabala bin Suhaim.:",
+      "text": "Cabala bin Suhaim'den rivayet edilmiştir: İbn Zübeyir zamanında kıtlıkla karşılaştık ve bize yiyecek olarak hurma sağladı. Abdullah bin Ömer, biz yemek yerken yanımızdan geçer ve derdi ki: \"Bir seferde iki hurma yemeyin, çünkü Peygamber (ﷺ) bir arada iki hurma almayı yasakladı.\" İbn Ömer eklerdi: \"Arkadaşlarının iznini almadıkça.\""
+    },
+    {
+      "id": 76,
+      "narrator": "Narrated `Abdullah bin Ja`far:",
+      "text": "Abdullah bin Ca'fer'den rivayet edilmiştir: Ben, Peygamber (ﷺ)'in taze hurma ile yılan salatalığı yediğini gördüm."
+    },
+    {
+      "id": 77,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn Ömer'den rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Ağaçlar arasında, bir Müslüman gibi (iyilikte) olan bir ağaç vardır, o da hurma palmiyesidir.\""
+    },
+    {
+      "id": 78,
+      "narrator": "Narrated `Abdullah bin Ja`far:",
+      "text": "Abdullah bin Ca'fer'den rivayet edilmiştir: Ben, Allah'ın Elçisi (ﷺ)'in taze hurma ile yılan salatalığı yediğini gördüm."
+    },
+    {
+      "id": 79,
+      "narrator": "Narrated Anas:",
+      "text": "Enes'ten rivayet edilmiştir: Annem, Ümmü Süleym, bir mudd arpa alıp onu öğüttü ve ondan lapa yaptı, üzerine de yanında bulunan bir tereyağı derisini koydu. Sonra beni Peygamber'e gönderdi ve ben onu arkadaşlarıyla otururken buldum. Ona davet ettim, o da, \"Benimle olanlar ne olacak?\" dedi. Geri döndüm ve \"O, 'Benimle olanlar ne olacak?' diyor.\" dedim. Ebu Talha ona gitti ve \"Ey Allah'ın Elçisi (ﷺ)! Bu sadece Ümmü Süleym'in hazırladığı bir yemektir.\" dedi. Peygamber (ﷺ) içeri girdi ve yemek ona getirildi. \"On kişi benim yanıma gelsin.\" dedi. O on kişi girdi ve doyana kadar yediler. Yine, \"On (daha) kişi benim yanıma gelsin.\" dedi. O on kişi girdi ve doyana kadar yediler. Sonra, \"On (daha) kişi benim yanıma gelsin.\" dedi. Toplamda kırk kişiyi çağırdı. Sonra Allah'ın Elçisi (ﷺ) yedi ve kalktı. Ben de yemeğe bakmaya başladım, azalıp azalmadığını görmek için."
+    },
+    {
+      "id": 80,
+      "narrator": "Narrated `Abdul `Aziz:",
+      "text": "Abdulaziz'den rivayet edilmiştir: Anas'a, \"Peygamber (ﷺ) sarımsak hakkında ne dedi?\" denildi. Anas, \"Kim sarımsak yediyse, bizim camimize yaklaşmasın.\" diye cevap verdi."
+    },
+    {
+      "id": 81,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Cabir bin Abdullah'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Kim sarımsak veya soğan yediyse, bizden uzak dursun (veya camimizden uzak dursun).\""
+    },
+    {
+      "id": 82,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Cabir bin Abdullah'dan rivayet edilmiştir: Biz, Allah'ın Elçisi (ﷺ) ile Mar-Az-Zahran'da El-Kabath topluyorduk. Peygamber (ﷺ) \"Siyah olanları toplayın, çünkü onlar daha iyidir.\" dedi. Birisi, \"Ey Allah'ın Elçisi (ﷺ)! Hiç koyun güttün mü?\" dedi. O da, \"Hiçbir peygamber yoktur ki, o koyun gütmemiş olsun.\" dedi."
+    },
+    {
+      "id": 83,
+      "narrator": "Narrated Suwaid bin An Nu`man:",
+      "text": "Suveyd bin En-Nu'man'dan rivayet edilmiştir: Biz, Allah'ın Elçisi (ﷺ) ile Khaibar'a çıktık ve As-Sahba'ya vardığımızda, Peygamber (ﷺ) yiyecek istedi, ona sadece sawiq verildi. Yedik ve sonra Allah'ın Elçisi (ﷺ) namaz için ayağa kalktı. Ağzını su ile çalkaladı, biz de onunla birlikte ağızlarımızı çalkaladık."
+    },
+    {
+      "id": 84,
+      "narrator": "Narrated Suwaid:",
+      "text": "Suveyd'den rivayet edilmiştir: Biz, Allah'ın Elçisi (ﷺ) ile Khaibar'a çıktık ve As-Sahba'ya vardığımızda, (Yahya'nın dediğine göre) Khaibar'dan bir günlük mesafedeydi, Peygamber (ﷺ) yiyecek istedi, ona sadece sawiq verildi, onu çiğnedik ve yedik. Sonra Peygamber (ﷺ) su istedi ve ağzını çalkaladı, biz de onunla birlikte ağızlarımızı çalkaladık. Sonra, tekrar abdest almadan bize Magrib namazını kıldırdı."
+    },
+    {
+      "id": 85,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Yemek yediğinizde, ellerinizi yalayıp yalamadan silmeyin veya bir başkasının yalamasına izin vermeden silmeyin.\""
+    },
+    {
+      "id": 86,
+      "narrator": "Narrated Sa`id bin Al-Harith:",
+      "text": "Said bin Haris'ten rivayet edilmiştir: O, Cabir bin Abdullah'a pişirilmiş bir yemekten sonra abdest almayı sordu. O da, \"Bu zorunlu değildir.\" diye cevap verdi ve ekledi: \"Peygamber'in hayatı boyunca böyle bir yiyecek bulamazdık, nadiren; ve eğer böyle bir yemek bulursak, ellerimizi silmek için başka bir şeyimiz yoktu, sadece ellerimizin avuçları, ön kollarımız ve ayaklarımız vardı. Sonra namazı, yeni bir abdest almadan kılardık.\""
+    },
+    {
+      "id": 87,
+      "narrator": "Narrated Abu Umama:",
+      "text": "Ebu Ümame'den rivayet edilmiştir: Peygamber (ﷺ)'in sofra örtüsü kaldırıldığında (yani, yemeğini bitirdiğinde) şöyle derdi: \"Elhamdulillah, çokça, güzel ve bereketli olan, eksik olmayan, terkedilmeyen ve Rabbimiz'e muhtaç olmadığımız.\""
+    },
+    {
+      "id": 88,
+      "narrator": "Narrated Abu Umama:",
+      "text": "Ebu Ümame'den rivayet edilmiştir: Peygamber (ﷺ) yemeklerini bitirdiğinde (veya sofra örtüsü kaldırıldığında) şöyle derdi: \"Bütün ihtiyaçlarımızı karşılayan ve susuzluğumuzu gideren Allah'a hamd olsun. Senin nimetlerin karşılanamaz veya inkar edilemez.\" Bir seferinde şöyle dedi: \"Sana hamd olsun, ey Rabbimiz! Senin nimetlerin karşılanamaz, terkedilemez ve ondan vazgeçilemez, ey Rabbimiz!\""
+    },
+    {
+      "id": 89,
+      "narrator": "Narrated .Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: \"Eğer hizmetçin sana yiyecek getirirse, eğer onu katılmaya davet etmezsen, en azından ona bir veya iki avuç almasını söyle, çünkü o bunu pişirirken sıcaklığından muzdarip oldu ve onu güzel bir şekilde pişirmek için çaba harcadı.\""
+    },
+    {
+      "id": 90,
+      "narrator": "Narrated Abu Mas`ud Al-Ansari:",
+      "text": "Ebu Mes'ud El-Ensari'den rivayet edilmiştir: Abu Shu'aib adında bir Ensari adam vardı, onun bir kölesi kasaptı. O, Peygamber (ﷺ)'in arkadaşlarıyla oturduğunu gördü ve Peygamber (ﷺ)'in yüzünde açlık belirtilerini fark etti. Bunun üzerine kasap kölesine gitti ve \"Bana beş kişilik yeterli bir yemek hazırla ki, Peygamber (ﷺ)'i dört başka adamla birlikte davet edebileyim.\" dedi. Yemek hazırlandı ve onu davet etti. Altıncı bir adam onlara katıldı. Peygamber (ﷺ) dedi ki: \"Ey Abu Shu'aib! Başka bir adam bize katıldı. İstersen onu davet edebilirsin; istersen onu reddedebilirsin.\" Abu Shu'aib, \"Hayır, onu kabul edeceğim.\" dedi."
+    },
+    {
+      "id": 91,
+      "narrator": "Narrated `Amr bin Umaiyya:",
+      "text": "Amr bin Umeyye'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) elinde taşıdığı bir koyun etinin omuz kısmından bir parça keserken gördüm. Namaza çağrıldığında, onu ve kesmekte olduğu bıçağı bıraktı. Sonra kalktı ve yeni bir abdest almadan namaz kıldı."
+    },
+    {
+      "id": 92,
+      "narrator": "Narrated Anas bin Malik:",
+      "text": "Enes bin Malik'ten rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Akşam yemeği servise sunulduğunda ve (İkama) İsha namazı için okunduğunda, önce akşam yemeğinizi yiyin.\""
+    },
+    {
+      "id": 93,
+      "narrator": "Narrated Nafi:",
+      "text": "Nafi'den rivayet edilmiştir: Bir gün İbn Ömer akşam yemeğini yerken, İmam'ın (İsha namazındaki) Kur'an tilavetini dinliyordu."
+    },
+    {
+      "id": 94,
+      "narrator": "Narrated Aisha:",
+      "text": "Aişe'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"İkama (İsha) namazı için okunduğunda ve akşam yemeği servise sunulduğunda, önce akşam yemeğinizi yiyin.\""
+    },
+    {
+      "id": 95,
+      "narrator": "Narrated Anas:",
+      "text": "Enes'ten rivayet edilmiştir: Kadınların örtünmesi (hijab) hakkında en çok bilgiye sahip olan benim. Ubai bin Ka'b bana bu konuda sorular sorardı. Allah'ın Elçisi (ﷺ), Medine'de evlendiği Zeynep bint Cahş'ın damadı oldu. Güneş gökyüzünde yükseldiğinde, Peygamber (ﷺ) insanları bir yemek için davet etti. Allah'ın Elçisi oturmaya devam etti ve diğer misafirler ayrıldıktan sonra bazı insanlar onunla birlikte oturdular. Sonra Allah'ın Elçisi (ﷺ) kalktı ve gitti, ben de onun peşinden giderek Aişe'nin odasının kapısına kadar geldim. Sonra insanların o yerden ayrıldığını düşündü, bu yüzden geri döndü ve ben de onunla geri döndüm. Bakın, insanlar hâlâ yerlerinde oturuyorlardı. Bunun üzerine tekrar geri döndü ve ben de onunla birlikte gittim. Aişe'nin odasının kapısına geldiğimizde, geri döndü ve ben de onunla geri döndüm ve insanların ayrıldığını gördüm. Bunun üzerine Peygamber (ﷺ) benimle arasında bir perde astı ve kadınların örtünmesi (hijab) ile ilgili ayet indirildi."
+    }
+  ]
+}

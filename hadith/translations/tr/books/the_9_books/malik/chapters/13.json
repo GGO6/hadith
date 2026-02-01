@@ -1,0 +1,46 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 6,
+    "arabic": {
+      "title": "موطأ مالك",
+      "author": "الإمام مالك بن أنس"
+    },
+    "english": {
+      "title": "Muwatta Malik",
+      "author": "Imam Malik ibn Anas"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Abdullah ibn Abi Bakr ibn Amr ibn Hazm'dan, onun da Abbad ibn Tamim'den, onun da Abdullah ibn Zayd al-Mazini'den duyduğunu aktardı. Abdullah ibn Zayd al-Mazini şöyle dedi: \"Allah'ın Resulü, ona Allah'ın selamı ve bereketi olsun, namaz yerine çıktı ve yağmur istedi. Kıbleye döndüğünde, elbisesini ters çevirdi.\""
+    },
+    {
+      "id": 2,
+      "narrator": "",
+      "text": "Malik'e yağmur isteme namazında kaç rekat olduğunu sordular, o da şöyle dedi: \"İki rekat, imam hutbeden önce namaz kılar. İki rekat kılar, sonra hutbe verir ve dua eder, kıbleye döner ve elbisesini ters çevirir. Her iki rekatta da yüksek sesle okur, elbisesini ters çevirdiğinde sağdakini sola, soldakini sağa koyar ve imam bunu yaptığında tüm insanlar elbiselerini ters çevirir ve kıbleye döner, otururlar.\""
+    },
+    {
+      "id": 3,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 4,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Yahya ibn Said'den, Amr ibn Shuayb'den duyduğunu aktardı ki, Allah'ın Resulü, ona Allah'ın selamı ve bereketi olsun, yağmur istediğinde şöyle dedi: \"Ey Allah, kullarına ve hayvanlarına su ver, rahmetini yay, ölü toprağını dirilt.\""
+    },
+    {
+      "id": 5,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 6,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Şarik ibn Abdullah ibn Abi Namir'den, Anas ibn Malik'in şöyle dediğini aktardı: \"Bir adam Allah'ın Resulü'ne, ona Allah'ın selamı ve bereketi olsun, geldi ve 'Ey Allah'ın Resulü, hayvanlarımız ölüyor ve develerimiz seyahat edecek kadar zayıf, Allah'a dua et' dedi. Allah'ın Resulü, ona Allah'ın selamı ve bereketi olsun, dua etti ve bir cumadan diğerine kadar üzerimize yağmur yağdı.\""
+    }
+  ]
+}

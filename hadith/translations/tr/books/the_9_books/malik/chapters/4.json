@@ -1,0 +1,31 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 3,
+    "arabic": {
+      "title": "موطأ مالك",
+      "author": "الإمام مالك بن أنس"
+    },
+    "english": {
+      "title": "Muwatta Malik",
+      "author": "Imam Malik ibn Anas"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, o da İbn Şihab'dan, o da Abu Salama ibn Abdar-Rahman ibn Awf'tan, o da Abu Hurayra'dan, Allah'ın Resulü'nün, ona Allah'ın selamı ve bereketi olsun, \"Namazda durduğunuzda, Şeytan size gelir ve sizi karıştırır, öyle ki ne kadar namaz kıldığınızı bilemezsiniz. Eğer bunun böyle olduğunu bulursanız, otururken iki secde yapın.\" dediğini aktardı."
+    },
+    {
+      "id": 2,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, o da Allah'ın Resulü'nün, ona Allah'ın selamı ve bereketi olsun, \"Unuturum veya unutturulurum ki sünneti yerine getirebileyim.\" dediğini duyduğunu aktardı."
+    },
+    {
+      "id": 3,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, o da bir adamın al-Qasim ibn Muhammad'a \"Namazda hayal gücüm çalışıyor ve bu bana sıkça oluyor.\" diye sorduğunu aktardı. Al-Qasim ibn Muhammad, \"Namazına devam et, çünkü bu senin üzerinden gitmeyecek, ta ki 'Namazımı tamamlamadım.' diyene kadar.\" dedi."
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 30,
+    "arabic": {
+      "title": "صحيح البخاري",
+      "author": "الإمام محمد بن إسماعيل البخاري"
+    },
+    "english": {
+      "title": "Sahih al-Bukhari",
+      "author": "Imam Muhammad ibn Ismail al-Bukhari"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu Hureyre'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ) şöyle buyurdu: \"(Umre'nin ifası) önceki Umre ile arasındaki günahların kefaretidir. Hac Mabrur'un (Allah katında kabul edilen hac) mükafatı ise cennetten başka bir şey değildir.\""
+    },
+    {
+      "id": 2,
+      "narrator": "Narrated Ibn Juraij:",
+      "text": "İbn Juraij'den rivayet edilmiştir: İkrime bin Halid, İbn Ömer'e Hac'dan önce Umre yapmanın caiz olup olmadığını sordu. İbn Ömer, \"Bunda bir sakınca yoktur.\" diye cevap verdi. İkrime, \"İbn Ömer ayrıca, 'Peygamber (ﷺ) Hac'dan önce Umre yapmıştır.' dedi.\" dedi."
+    },
+    {
+      "id": 3,
+      "narrator": "Narrated Mujahid:",
+      "text": "İkrime bin Halid'den rivayet edilmiştir: \"Ben de İbn Ömer'e aynı soruyu sordum.\""
+    },
+    {
+      "id": 4,
+      "narrator": "Narrated 'Urwa bin Az-Zubair:",
+      "text": "Mücahid'den rivayet edilmiştir: Urve bin Zübeyr ve ben, (Peygamber'in) Mescid'ine girdik ve Abdullah bin Ömer'in Aişe'nin evinin yanında oturduğunu gördük. Bazı insanlar Duha namazı kılıyordu. Biz, onların namazı hakkında ona sorduk ve o da bunun bir bid'at olduğunu söyledi. Urve, ardından Peygamber (ﷺ)'in kaç kez Umre yaptığını sordu. O da, \"Dört kez; bunlardan biri Recep ayında.\" diye cevap verdi. Ona itiraz etmek istemedik. Sonra Aişe'nin, müminlerin annesi, evde siwak ile dişlerini temizlediğini duyduk. Urve, \"Ey Anne! Ey müminlerin annesi! Abu Abdurrahman'ın ne söylediğini duymuyor musun?\" dedi. Aişe, \"O ne diyor?\" dedi. Urve, \"O, Allah'ın Elçisi (ﷺ)'nin dört Umre yaptığını ve bunlardan birinin Recep ayında olduğunu söylüyor.\" Aişe, \"Allah, Abu Abdurrahman'a merhamet etsin! Peygamber (ﷺ) yanında olmadığı sürece hiçbir Umre yapmadı ve Recep ayında da hiçbir Umre yapmadı.\" dedi."
+    },
+    {
+      "id": 5,
+      "narrator": "Narrated Qatada:",
+      "text": "Urve bin Zübeyr'den rivayet edilmiştir: Aişe'ye (Peygamber (ﷺ)'in Recep ayında Umre yapıp yapmadığını) sordum. O da, \"Allah'ın Elçisi (ﷺ) Recep ayında hiçbir Umre yapmadı.\" diye cevap verdi."
+    },
+    {
+      "id": 6,
+      "narrator": "Narrated Qatada:",
+      "text": "Katade'den rivayet edilmiştir: Anas'a Peygamber (ﷺ)'in kaç kez Umre yaptığını sordum. O da, \"Dört kez. 1. Hudaibiye Umresi, Dhi-l-Qa'da'da, putperestlerin onu engellediği zaman; 2. Bir sonraki yıl Dhi-l-Qa'da'da, onlarla yapılan barış antlaşmasından sonra; 3. Al-Ca'rana'dan, savaş ganimetini dağıttığı Umre.\" dedi. Sanırım Huneyn savaşının ganimetini kastetti. \"Hac'ı kaç kez yaptı?\" diye sordum. O (Anas), \"Bir kez.\" diye cevap verdi."
+    },
+    {
+      "id": 7,
+      "narrator": "Narrated Hammam:",
+      "text": "Katade'den rivayet edilmiştir: Anas'a (Peygamber'in Umresi hakkında) sordum ve o da, \"Peygamber (ﷺ), putperestlerin onu geri çevirdiği zaman Umre yaptı, Hudaibiye Umresi (bir sonraki yıl) ve Dhi-l-Qa'da'da başka bir Umre, ve Hac ile birlikte başka bir Umre yaptı.\" diye cevap verdi."
+    },
+    {
+      "id": 8,
+      "narrator": "Narrated Abu 'Is-haq:",
+      "text": "Hammam'dan rivayet edilmiştir: Peygamber (ﷺ), Dhi-l-Qa'da'da dört Umre (üç) yaptı, Hac ile birlikte olan Umre hariç: Hudaibiye Umresi, bir sonraki yılki Umre ve Al-Ja'rana'dan, Huneyn savaşının ganimetini dağıttığı Umre, ve Hac ile birlikte başka bir Umre."
+    },
+    {
+      "id": 9,
+      "narrator": "Narrated Ata:",
+      "text": "Ebu İshak'tan rivayet edilmiştir: Masruq, Ata ve Mücahid'e (Allah'ın Elçisi (ﷺ)'nin Umresi hakkında) sordum. Onlar, \"Allah'ın Elçisi (ﷺ) Hac'dan önce Dhi-l-Qa'da'da Umre yapmıştır.\" dediler. Al-Bara' bin Azib'in, \"Allah'ın Elçisi (ﷺ) Hac'dan önce Dhi-l-Qa'da'da iki kez Umre yapmıştır.\" dediğini duydum."
+    },
+    {
+      "id": 10,
+      "narrator": "Narrated Aisha:",
+      "text": "Ata'dan rivayet edilmiştir: İbn Abbas'ın, \"Allah'ın Elçisi (ﷺ) bir Ensar kadına (İbn Abbas ismini söyledi ama Ata ismini unuttu) 'Sizinle Hac'a gitmenizi ne engelledi?' diye sordu. O da, 'Bizim bir develerimiz var ve falan filan (yani kocası ve oğlu) onu sürdü ve bize sulama için kullanmamız için bir deve bıraktı.' dedi. O (İbn Abbas), 'Ramazan geldiğinde Umre yap, çünkü Ramazan'daki Umre, Hac ile eşdeğerdir.' veya benzeri bir şey söyledi.\""
+    },
+    {
+      "id": 11,
+      "narrator": "Narrated `Amr bin Aus:",
+      "text": "Aişe'den rivayet edilmiştir: Biz, Allah'ın Elçisi (ﷺ) ile Dhi-l-Hijja ayının yeni ayının görünmesinden kısa bir süre önce yola çıktık ve o bize, \"Kim Hac için ihrama girmek isterse girsin; kim Umre için ihrama girmek isterse girsin. Yanımda Hadi (kurbanlık hayvan) olmasaydı, Umre için ihrama girerdim.\" (Aişe ekledi): Bazılarımız Umre için ihrama girerken, diğerleri Hac için ihrama girdi. Ben, Umre için ihrama girenlerdenim. Arafat günü yaklaşırken hala adet görüyordum. Peygamber (ﷺ)'e bu durumu şikayet ettim ve o, \"Umreni terk et, saçlarını aç ve tarayıp Hac için ihrama gir.\" dedi. Hasba gecesi olduğunda, beni at-Tan'im'e göndermek için Abdurrahman'ı gönderdi ve ben, kaçırdığım Umre yerine Umre için ihrama girdim (ve onu yaptım)."
+    },
+    {
+      "id": 12,
+      "narrator": "Narrated Jabir bin `Abdullah:",
+      "text": "Amr bin Avf'tan rivayet edilmiştir: Abdurrahman bin Ebu Bekir bana, Peygamber (ﷺ)'in Aişe'yi arkasında bindirip at-Tan'im'den Umre yapmasını emrettiğini söyledi."
+    },
+    {
+      "id": 13,
+      "narrator": "Narrated `Aisha:",
+      "text": "Cabir bin Abdullah'dan rivayet edilmiştir: Peygamber (ﷺ) ve arkadaşları Hac için ihrama girdiler ve yalnızca Peygamber (ﷺ) ve Talha'nın yanında Hadi vardı. Ali Yemen'den gelmişti ve onun da yanında Hadi vardı. O (Ali), \"Ben, Allah'ın Elçisi (ﷺ) gibi niyetle ihrama girdim.\" dedi. Peygamber (ﷺ), arkadaşlarına Umre için geldikleri ihram ile niyet etmelerini, Kabe'yi tavaf etmelerini (ve Safa ile Merve arasında) saçlarını kestirmelerini ve Hadi ile birlikte olanlar hariç ihramlarını tamamlamalarını emretti. Onlar, \"Mina'ya gidebilir miyiz, bazı erkeklerimiz (ihramı bitirip eşleriyle cinsel ilişkiye girecek olursa)?\" diye sordular. Peygamber bunu duydu ve, \"Eğer şimdi bildiklerimi bilseydim, Hadi'yi getirmezdim. Eğer Hadi'm olmasaydı, ihramımı bitirirdim.\" dedi. Aişe adet gördü ve tüm Hac ritüellerini (tavaf hariç) yaptı. Adet gördükten sonra temizlendiğinde ve Kabe'yi tavaf ettiğinde, \"Ey Allah'ın Elçisi (ﷺ)! Siz (halk) hem Hac hem de Umre ile dönüyorsunuz, ben sadece Hac ile dönüyorum!\" dedi. Bunun üzerine, Abdurrahman bin Ebu Bekir'i at-Tan'im'e gitmesi için emretti. Böylece, Dhi-l-Hijja ayında Hac'dan sonra Umre yaptı. Suraka bin Malik bin Ju'sham, Peygamber (ﷺ)'i Al-Aqaba'da (Cemrat-ul 'Aqaba) taşlarken buldu ve, \"Ey Allah'ın Elçisi (ﷺ)! Bu yalnızca sizin için mi caiz?\" dedi. Peygamber, \"Hayır, bu her zaman (yani tüm Müslümanların Hac'dan önce Umre yapması caizdir).\" diye cevap verdi."
+    },
+    {
+      "id": 14,
+      "narrator": "Narrated Al-Aswad:",
+      "text": "Aişe'den rivayet edilmiştir: Biz, Dhi-l-Hijja ayının yeni ayının görünmesinden kısa bir süre önce Allah'ın Elçisi (ﷺ) ile yola çıktık ve o, \"Kim Umre için ihrama girmek isterse girsin, kim Hac için ihrama girmek isterse girsin. Yanımda Hadi olmasaydı, Umre için ihrama girerdim.\" dedi. Bazı insanlar Umre için ihrama girerken, diğerleri Hac için ihrama girdi. Ben, Umre için ihrama girenlerdenim. Mekke'ye girmeden önce adet gördüm ve Arafat günü boyunca adet görmeye devam ettim. Allah'ın Elçisi (ﷺ)'ne bu durumu şikayet ettim, o da, \"Umreni terk et, saçlarını aç ve tarayıp Hac için ihrama gir.\" dedi. Ben de buna göre yaptım. Hasba gecesi (Mina'dan ayrılış günü) Peygamber (ﷺ), Abdurrahman'ı benimle at-Tan'im'e göndermek için çağırdı. Rivayet eden ekliyor: O (Abdurrahman), onu arkasında bindirdi. Ve o, terk edilen Umre yerine Umre için ihrama girdi. Aişe, Hac ve Umre'yi tamamladı ve onun için Hadi, Sadaka veya oruç farz değildi."
+    },
+    {
+      "id": 15,
+      "narrator": "Narrated `Aisha:",
+      "text": "El-Esved'den rivayet edilmiştir: Aişe, \"Ey Allah'ın Elçisi (ﷺ)! İnsanlar iki Nusuk (yani Hac ve Umre) yaptıktan sonra dönüyor, ama ben yalnızca biriyle mi dönüyorum?\" dedi. O, \"Adet döneminden temizlenene kadar bekle ve sonra at-Tan'im'e git, ihrama gir (ve Umre'yi yaptıktan sonra) bizimle şu ve bu yerde buluş.\" dedi. \"Ama (yani Umre'nin mükafatı) harcamalarına veya (Umre'yi yaparken) katlanacağın zorluklara göre olacaktır.\" dedi."
+    },
+    {
+      "id": 16,
+      "narrator": "Narrated Safwan bin Ya`la bin Umaiya from his father who said:",
+      "text": "Safvan bin Ya`la bin Umaiya'dan, babasından rivayet edilmiştir: \"Bir adam, Peygamber (ﷺ) Ji'rana'dayken yanına geldi. Adamın üzerinde Khaluq veya Sufra (bir tür parfüm) izleri olan bir örtü vardı. Adam, Peygamber (ﷺ)'e, 'Umremde ne yapmamı emredersin?' diye sordu. Bunun üzerine Allah, Peygamber (ﷺ)'e ilhamda bulundu ve onu bir örtüyle örttü. Peygamber (ﷺ)'in ilham aldığını görmek istedim. `Umar bana, 'Gel! Allah'ın ona ilham ettiği anı görmek ister misin?' dedi. Ben de olumlu yanıt verdim. `Umar örtünün bir köşesini kaldırdı ve Peygamber (ﷺ)'i uyurken gördüm. (Rivayet eden, onun 'uyku sesi bir deveninki gibiydi' dediğini düşündü). O durum sona erince, Peygamber (ﷺ) sordu: 'Umra hakkında soran nerede? Örtünü çıkar ve bedeninden Khaluq izlerini yıka, Sufra'yı temizle ve Umranda Hac'da yaptığın şeyleri yap (yani Kabe'yi tavaf et ve Safa ile Merve arasında Sa'y et).'\""
+    },
+    {
+      "id": 17,
+      "narrator": "Narrated Hisham Ibn `Urwa from his father who said:",
+      "text": "Hişam bin `Urwa'dan, babasından rivayet edilmiştir: \"Ben gençken, Peygamber'in eşi `Aişe'ye sordum: 'Allah'ın şu ifadesinin anlamı nedir; \"Şüphesiz ki (dağlar) As-Safa ve Al-Marwa, Allah'ın sembollerindendir. Hac veya Umra yapanların, bunlar arasında (Tawaf) yapmalarında bir sakınca yoktur.\" (2.158) Ben buradan, birinin bunlar arasında Tawaf yapmamasının bir zarar olmadığını anlıyorum.' `Aişe, 'Hayır, eğer senin dediğin gibi olsaydı, o zaman ayet şöyle olurdu: 'Bunlar arasında Tawaf yapmamakta bir sakınca yoktur.' Bu ayet, Manat putuna ihram giyen Ensar ile ilgili olarak indirildi. Bu put, Qudaid adlı bir yerdeydi ve o insanlar As-Safa ve Al-Marwa'nın Tawaf'ını yapmanın doğru olmadığını düşünüyorlardı. İslam geldiğinde, Allah'ın Elçisi (ﷺ)'ne bunu sordular ve Allah şu ayeti indirdi: \"Şüphesiz ki (dağlar) As-Safa ve Al-Marwa, Allah'ın sembollerindendir. Hac veya Umra yapanların, bunlar arasında (Tawaf) yapmalarında bir sakınca yoktur.\" (2.158) Sufyan ve Ebu Muaviye, Hişam'dan (Aişe'den) eklediler: \"As-Safa ve Al-Marwa arasında Tawaf yapmayan kişinin Hac veya Umrası, Allah katında eksiktir.\""
+    },
+    {
+      "id": 18,
+      "narrator": "Narrated Isma`il:",
+      "text": "İsmail'den rivayet edilmiştir: `Abdullah bin Abu `Aufa dedi ki: \"Allah'ın Elçisi (ﷺ) Umra yaptı ve biz de onunla birlikte Umra yaptık. Mekke'ye girdiğinde Kabe'yi tavaf etti ve biz de onunla birlikte tavaf ettik, ardından As-Safa ve Al-Marwa'ya (yani Sa'y yaptık) geldik ve biz de onunla birlikte oraya geldik. Mekke halkından onu okla vurmasınlar diye onu koruyorduk.\" Arkadaşlarından biri (yani `Abdullah bin `Aufa) ona sordu: \"Peygamber (ﷺ) Kabe'ye girdi mi (o Umra sırasında)?\" O da olumsuz yanıt verdi. Sonra dedi ki: \"Peygamber (ﷺ) Khadija hakkında ne söyledi?\" O (Abdullah bin `Aufa) dedi ki: \"(Dedi ki) 'Khadija'ya müjde ver ki, cennette Qasab'dan yapılmış bir sarayı olacak ve içinde ne gürültü ne de bir sıkıntı olacak.'\""
+    },
+    {
+      "id": 19,
+      "narrator": "Narrated `Amr bin Dinar:",
+      "text": "Amr bin Dinar'dan rivayet edilmiştir: \"İbn `Umar'a, Kabe'yi tavaf eden ama henüz As-Safa ve Al-Marwa arasında Tawaf yapmamış bir adamın, eşiyle cinsel ilişkiye girmesinin caiz olup olmadığını sorduk. O da şöyle yanıtladı: 'Peygamber (ﷺ) Mekke'ye geldi ve Kabe'nin etrafında yedi kez tavaf yaptı, sonra Maqam-lbrahim'in arkasında iki rek'at namaz kıldı ve ardından As-Safa ile Al-Marwa arasında (yedi kez) Tawaf yaptı. (Gerçekten, Allah'ın Elçisi (ﷺ) sizin için güzel bir örnektir.)' Ve aynı soruyu Jabir bin `Abdullah'a sorduk, o da şöyle yanıtladı: 'O, As-Safa ve Al-Marwa arasında Tawaf yapana kadar ona yaklaşmamalıdır.'\""
+    },
+    {
+      "id": 20,
+      "narrator": "Narrated Abu Musa Al-Ash`ari:",
+      "text": "Ebu Musa Al-Ash`ari'den rivayet edilmiştir: \"Ben, Peygamber (ﷺ) Al-Batha'da, devesi diz çökünce yanına geldim ve bana, 'Hac yapmayı mı niyet ettin?' diye sordu. Ben de olumlu yanıt verdim. O da, 'İhramı hangi niyetle giydin?' diye sordu. Ben de, 'Peygamber'in niyetiyle ihram giydim.' dedim. O da, 'İyi yaptın. Kabe'yi tavaf et ve (Safa ile Merve arasında) Sa'y yap, sonra ihramı tamamla.' dedi. Ben de Kabe'yi tavaf ettim ve (Safa ile Merve arasında) Sa'y yaptım, sonra Qais kabilesinden bir kadına gittim, o da başımdaki bitleri temizledi. Sonra Hac için ihram giydim. Ben, `Umar'ın halifeliğine kadar aynı şekilde fetva veriyordum, o da, 'Eğer Kuran'a uyuyorsan, Hac'ı tamamlayana kadar ihramda kalmanı emreder; eğer Peygamber (ﷺ)'e uyuyorsan, o da Hadi (kurban) kesilene kadar ihramını tamamlamadı (Hac-al-Qiran).\""
+    },
+    {
+      "id": 21,
+      "narrator": "Narrated Al-Aswad:",
+      "text": "El-Aswad'dan rivayet edilmiştir: `Abdullah, Asma bint Abu Bekir'in kölesi, bana Asma'nın, Al-Hajun'dan geçerken, \"Allah, Elçisi Muhammed'e rahmet etsin.\" dediğini duyduğunu söyledi. \"Bir zamanlar burada onunla birlikte inmiştik ve o zaman hafif yükle seyahat ediyorduk; birkaç binek hayvanımız ve az miktarda yiyeceğimiz vardı. Ben, kız kardeşim `Aişe, Az-Zubair ve diğer bazı kişiler Umra yaptık ve Kabe'nin üzerine ellerimizi sürdüğümüzde (yani Kabe'yi tavaf ettik ve As-Safa ile Al-Marwa arasında Sa'y yaptık) ihramı tamamladık. Daha sonra o akşam Hac için ihram giydik.\""
+    },
+    {
+      "id": 22,
+      "narrator": "Narrated `Abdullah bin `Umar:",
+      "text": "`Abdullah bin `Umar'dan rivayet edilmiştir: \"Herhangi bir Ghazwa, Hac veya Umra'dan döndüğünde, Allah'ın Elçisi (ﷺ) her yükseklikten üç kez tekbir getirir ve sonra şöyle derdi: 'Allah'tan başka ibadet edilecek yoktur; O tektir ve ortağı yoktur. Tüm krallık O'nundur ve tüm övgüler O'nadır, O her şeye gücü yetendir. Biz, tövbe ederek, ibadet ederek, secde ederek ve Rabbimizi överek dönüyoruz. O, vaadini yerine getirdi ve kullarını zaferle müjdeledi ve yalnızca O, tüm kâfir kabilelerini mağlup etti.'\""
+    },
+    {
+      "id": 23,
+      "narrator": "Narrated Ibn `Abbas:",
+      "text": "İbn `Abbas'tan rivayet edilmiştir: \"Peygamber (ﷺ) Mekke'ye vardığında, Bani `Abdul Muttalib kabilesinden bazı çocuklar onu karşılamaya gitti ve Peygamber (ﷺ) onlardan birini önüne, diğerini arkasına bindirdi.\""
+    },
+    {
+      "id": 24,
+      "narrator": "Narrated Ibn `Umar:",
+      "text": "İbn `Umar'dan rivayet edilmiştir: \"Herhangi bir zaman Allah'ın Elçisi (ﷺ) Mekke'ye gittiğinde, Ash-Shajra camisinde namaz kılardı ve döndüğünde (Medine'ye), Dhul-Hulaifa vadisinin ortasında namaz kılar ve sabaha kadar orada kalırdı.\""
+    },
+    {
+      "id": 25,
+      "narrator": "Narrated Anas:",
+      "text": "Anas'tan rivayet edilmiştir: \"Peygamber (ﷺ) bir yolculuktan ailesine gece dönmezdi. Ya sabah ya da öğleden sonra dönerdi.\""
+    },
+    {
+      "id": 26,
+      "narrator": "Narrated Jabir:",
+      "text": "Jabir'den rivayet edilmiştir: \"Peygamber (ﷺ) yolculuktan döndüğünde ailesine gece gitmeyi yasakladı.\""
+    },
+    {
+      "id": 27,
+      "narrator": "Narrated Humaid:",
+      "text": "Humaid'den rivayet edilmiştir: \"Anas dedi ki: 'Herhangi bir zaman Allah'ın Elçisi (ﷺ) bir yolculuktan döndüğünde, Medine'nin yüksek yerlerini görünce, dişi devesini hızlandırırdı; eğer başka bir hayvan olsaydı bile, onu hızlandırırdı.' Humaid, Peygamber (ﷺ)'in Medine'ye olan sevgisinden dolayı onu hızlandırdığını söyledi."
+    },
+    {
+      "id": 28,
+      "narrator": "Narrated Abu 'Is-haq:",
+      "text": "Anas'tan rivayet edilmiştir: Yukarıdaki gibi, ancak \"Medine'nin yüksek yerleri\" yerine \"Medine'nin duvarları\" denildi. Al-Harith bin `Umar, Anas ile aynı görüştedir.\""
+    },
+    {
+      "id": 29,
+      "narrator": "Narrated Abu Huraira:",
+      "text": "Ebu 'İshak'tan rivayet edilmiştir: \"Al-Bara'nın şöyle söylediğini duydum: 'Yukarıdaki ayet bizimle ilgili olarak indirildi, çünkü Ensar Hac'dan döndüklerinde evlerine doğru kapılardan değil, arka kapılardan girerlerdi. Ensar'dan biri geldi ve kapıdan girdi, bu yüzden ona alay edildi. Bunun üzerine şu ayet indirildi: 'Evlerinize arka kapılardan girmek, iyilik değildir; fakat iyilik, Allah'tan korkan, O'nun emrine itaat eden ve O'nun yasakladıklarından uzak duran kimsedir. O halde evlere uygun kapılardan girin.' (2.189)\""
+    },
+    {
+      "id": 30,
+      "narrator": "Narrated Zaid bin Aslam from his father:",
+      "text": "Ebu Huraira'dan rivayet edilmiştir: \"Peygamber (ﷺ) şöyle dedi: 'Seyahat bir tür eziyettir, çünkü insanı yemek, içmek ve düzgün uyumaktan alıkoyar. Bu nedenle, ihtiyaçları karşılandığında, hemen ailesine dönmelidir.'\""
+    }
+  ]
+}

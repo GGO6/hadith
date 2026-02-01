@@ -1,0 +1,741 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 145,
+    "arabic": {
+      "title": "سنن أبي داود",
+      "author": "الإمام أبو داود السجستاني"
+    },
+    "english": {
+      "title": "Sunan Abu Dawud",
+      "author": "Imam Abu Dawud al-Sijistani"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "",
+      "text": "Abu Hurayra dedi ki: Allah'ın Elçisi (ﷺ) vefat ettiğinde ve Ebu Bekir onun halifesi yapıldığında bazı Arap kabileleri dinden döndü. Ömer bin Hattab Ebu Bekir'e şöyle dedi: \"İnsanlarla 'Allah'tan başka ilah yoktur' dedikleri zamana kadar nasıl savaşabilirsin? Kim 'Allah'tan başka ilah yoktur' derse, o, malını ve canını benden korumuş olur, ancak kendisinden alınması gerekenler hariç, onun hesabı Allah'a aittir.\" Ebu Bekir cevap verdi: \"Allah'a yemin ederim ki, namaz ile zekat arasında ayrım yapanlarla kesinlikle savaşacağım, çünkü zekat, maldan alınması gereken bir şeydir. Eğer bana, Allah'ın Elçisi'ne verdikleri bir deve ipini (veya başka bir rivayette bir dişi keçiyi) vermekten kaçınacak olurlarsa, bu konuda onlarla savaşacağım.\" Ömer bin Hattab dedi ki: \"Allah'a yemin ederim ki, Ebu Bekir'in savaşma konusunda kendisini haklı hissettiğini açıkça gördüm ve bunun doğru olduğunu anladım.\" Ebu Davud dedi ki: Bu rivayet, Rabah bin Zayd'dan, Ma'mar ve Al Zaubaidi'den, Al Zuhri'den aktarılmıştır; \"Eğer bana bir dişi keçiyi vermekten kaçınacak olurlarsa\" şeklindedir. 'Anbasah'ın Yunus'tan, Al Zuhri'ye dayanarak aktardığı rivayette \"bir dişi keçi\" ifadesi geçmektedir."
+    },
+    {
+      "id": 2,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 3,
+      "narrator": "Abu Sa’id Al Khudri reported:",
+      "text": "Bu rivayet aynı zamanda Al Zuhri tarafından farklı bir nakil zinciri ile aktarılmıştır. Bu versiyonda \"Ebu Bekir, zekatın ödenmesi gereken şey olduğunu söyledi.\" ifadesi yer almaktadır. \"Bir deve ipi\" kelimesini kullandı."
+    },
+    {
+      "id": 4,
+      "narrator": "Narrated AbuSa'id al-Khudri:",
+      "text": "---"
+    },
+    {
+      "id": 5,
+      "narrator": "",
+      "text": "Ebu Sa'id El Hudri bildirdi: Allah'ın Elçisi (ﷺ) şöyle buyurdu: \"Beş deveden az olan bir miktar için zekat (sadaka) ödenmez, beş dirhem gümüşten az olan bir miktar için ve beş deve yükünden (wasq) az olan bir miktar için de zekat ödenmez.\""
+    },
+    {
+      "id": 6,
+      "narrator": "Habib al-Maliki said:",
+      "text": "---"
+    },
+    {
+      "id": 7,
+      "narrator": "Narrated Samurah ibn Jundub:",
+      "text": "Ebu Sa'id El Hudri'den rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Beş deve yükünden (wasq) az olan tahıl veya hurma için zekat ödenmez. Bir wasq (bir deve yükü) altmış sa' ağırlığındadır.\""
+    },
+    {
+      "id": 8,
+      "narrator": "'Amr bin Shu'aib on his father's authority said that his grandfather reported:",
+      "text": "---"
+    },
+    {
+      "id": 9,
+      "narrator": "Narrated Umm Salamah, Ummul Mu'minin:",
+      "text": "İbrahim dedi ki: \"Wasq, Al Haccac'ın mührü ile damgalanmış altmış sa' içeriyordu.\""
+    },
+    {
+      "id": 10,
+      "narrator": "Narrated ‘Abdallah bin Shaddad bin Al Had :",
+      "text": "---"
+    },
+    {
+      "id": 11,
+      "narrator": "",
+      "text": "Habib el-Maliki dedi ki: Bir adam İmrân bin Hüsayn'a dedi: \"Abu Nujayd, bize Kur'an'da bulamadığımız rivayetler aktarıyorsun.\""
+    },
+    {
+      "id": 12,
+      "narrator": "Narrated Hammad :",
+      "text": "Bunun üzerine İmrân öfkelendi ve adama şöyle dedi: \"Kur'an'da kırk dirhem üzerine bir dirhem (zekat olarak) ve şu kadar koyun üzerine bir keçi, şu kadar deve üzerine bir deve olduğunu bulabiliyor musun?\""
+    },
+    {
+      "id": 13,
+      "narrator": "Narrated Abdullah ibn Umar:",
+      "text": "Adam cevap verdi: \"Hayır.\""
+    },
+    {
+      "id": 14,
+      "narrator": "",
+      "text": "İmrân dedi: \"Peki, bunu kiminle aldın? Bunu bizden, Allah'ın Elçisi'nden (ﷺ) aldın.\""
+    },
+    {
+      "id": 15,
+      "narrator": "",
+      "text": "O, benzeri birçok şey zikretti."
+    },
+    {
+      "id": 16,
+      "narrator": "Narrated Malik:",
+      "text": "Malik'ten rivayet edilmiştir: Ömer bin Hattab'ın \"Ayrı sürülerde olanlar bir araya getirilmez ve tek sürüde olanlar ayrılmaz\" ifadesi, iki kişinin her birinin kırk keçisi olduğu anlamına gelir; toplama görevlisi geldiğinde, onları tek bir sürüde bir araya getirirler ki sadece bir keçi verilebilsin. \"Tek sürüde olanlar ayrılmaz\" ifadesi ise, eğer iki ortak her birinin yüz bir keçisi varsa, her birinin üç keçi vermesi gerektiği anlamına gelir. Toplama görevlisi geldiğinde keçilerini ayırdılar. Böylece her birinin sadece bir keçi vermesi gerekti. Bu konuda duyduğum şey budur."
+    },
+    {
+      "id": 17,
+      "narrator": "Al-Harith al-A'war reported from Ali. Zuhayr said:",
+      "text": "Al-Harith al-A'war, Ali'den rivayet etmiştir. Zuhayr dedi ki: Sanırım, Peygamber (ﷺ) şöyle dedi: \"Kırkta birini verin. Her kırk dirhem için bir dirhem ödenir, ancak iki yüz dirheme ulaşana kadar ödeme yükümlülüğünüz yoktur. İki yüz dirhem olduğunda, beş dirhem ödenir ve bu oran daha büyük miktarlar için de geçerlidir."
+    },
+    {
+      "id": 18,
+      "narrator": "Narrated Ali ibn AbuTalib:",
+      "text": "\"İnekler için, her kırk inek için bir inek ödenir, yüz yirmiye kadar. Ancak eğer sadece otuz dokuz inek varsa, bunlar için hiçbir şey ödenmez.\" Daha sonra, az-Zuhri'nin koyunlar üzerindeki sadaka (zekat) ile ilgili rivayetini de aktardı."
+    },
+    {
+      "id": 19,
+      "narrator": "Narrated Ali ibn AbuTalib:",
+      "text": "\"Sığırlar için, her otuz sığır için bir yaşında bir boğa, her kırk sığır için üçüncü yılındaki bir inek ödenir ve çalışan hayvanlar için hiçbir şey ödenmez."
+    },
+    {
+      "id": 20,
+      "narrator": "Bahz b Hakim reported from his grandfather:",
+      "text": "Develerle ilgili (zekat), az-Zuhri'nin rivayetinde belirttiği oranları zikretti. Dedi ki: \"Yirmi beş deve için beş koyun ödenir. Eğer bir tane fazlaysa, ikinci yılındaki bir dişi deve verilir. Eğer ikinci yılındaki dişi deve yoksa, üçüncü yılındaki bir erkek deve verilir, otuz beşe kadar. Eğer bir tane fazlaysa, üçüncü yılındaki bir dişi deve verilir, kırk beşe kadar. Eğer bir tane fazlaysa, dördüncü yılındaki ve boğa ile çiftleşmeye hazır bir dişi deve verilir.\" Sonra, az-Zuhri'nin rivayetinde olduğu gibi geleneğin geri kalanını aktardı."
+    },
+    {
+      "id": 21,
+      "narrator": "Narrated Mu'adh ibn Jabal:",
+      "text": "Devam etti: Eğer bir tane fazlaysa, yani doksan bir ile yüz yirmi arasında, dördüncü yılındaki iki dişi deve, boğa ile çiftleşmeye hazır olanlar verilecektir. Eğer bunlardan daha fazla deve varsa, her elli deve için bir dördüncü yılındaki dişi deve verilecektir. Tek sürüde olanlar ayrılmaz, ayrı olanlar bir araya getirilmez. Yaşlı bir koyun, gözünde bir kusur olan bir koyun veya bir teke, toplayıcı kabul etmedikçe sadaka olarak kabul edilmez."
+    },
+    {
+      "id": 22,
+      "narrator": "",
+      "text": "Tarım ürünleri ile ilgili olarak, nehirler veya yağmurla sulananlardan onda bir, yük hayvanlarıyla sulananlardan ise yirmide bir ödenir.\""
+    },
+    {
+      "id": 23,
+      "narrator": "Narrated Mu’adh bin Jabal :",
+      "text": "Asim ve al-Harith'in rivayetinde: \"Sadaka (zekat) her yıl ödenir.\" Zuhayr dedi ki: Sanırım \"Yılda bir kez\" dedi."
+    },
+    {
+      "id": 24,
+      "narrator": "Suwayd ibn Ghaflah said:",
+      "text": "Asim'in rivayetinde ise şu ifadeler vardır: \"Eğer ikinci yılındaki bir dişi deve mevcut değilse, ne de üçüncü yılındaki bir erkek deve yoksa, on dirhem veya iki keçi verilmelidir.\""
+    },
+    {
+      "id": 25,
+      "narrator": "",
+      "text": "Ali ibn Ebu Talib'ten rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Eğer iki yüz dirhem sahibi iseniz ve üzerinden bir yıl geçmişse, beş dirhem ödenir. Altın için yirmi dinara ulaşana kadar üzerinize bir şey yoktur. Yirmi dinar sahibi olduğunuzda ve üzerinden bir yıl geçtiğinde, yarım dinar ödenir. Fazlası ise düzgün bir şekilde hesaplanacaktır.\""
+    },
+    {
+      "id": 26,
+      "narrator": "Muslim ibn Shu'bah said:",
+      "text": "(Rivayet eden kişi dedi ki: \"Düzgün bir şekilde hesaplanacaktır\" ifadesinin, Ali tarafından mı yoksa Peygamber (ﷺ) tarafından mı söylendiğini hatırlamıyorum.)"
+    },
+    {
+      "id": 27,
+      "narrator": "This tradition has also been narrated by Zakariyya bin Ishaq through his chain of narrators. In this version Mulsim bin Shu'bah said:",
+      "text": "Mala zekat düşmez, üzerine bir yıl geçmeden."
+    },
+    {
+      "id": 28,
+      "narrator": "Narrated Ubayy ibn Ka'b:",
+      "text": "Ama Cerir dedi ki: İbn Vahb (alt rivayet eden) bu geleneğe Peygamber (ﷺ) tarafından ekleme yaptı: \"Mala zekat düşmez, üzerine bir yıl geçmeden.\""
+    },
+    {
+      "id": 29,
+      "narrator": "Narrated Ibn 'Abbas:",
+      "text": "Ali ibn Ebu Talib'ten rivayet edilmiştir: Peygamber (ﷺ) dedi ki: Atlar ve köleler konusunda muafiyet verdim; ancak paralarla ilgili olarak, her kırk dirhem için bir dirhem ödenmelidir, fakat yüz doksan üzerinde hiçbir şey ödenmez. Toplam iki yüze ulaştığında, beş dirhem ödenir."
+    },
+    {
+      "id": 30,
+      "narrator": "Narrated Anas ibn Malik:",
+      "text": "Ebu Davud dedi ki: Al-A'mash bu geleneği Ebu İshak'tan, Ebu 'Awanah'ın aktardığı gibi nakletmiştir. Bu gelenek, Shaiban, Ebu Mu'aviye ve İbrahim b. Tahman tarafından da Ebu İshak'tan, al-Harith aracılığıyla 'Ali'den Peygamber (ﷺ) adına aynı şekilde aktarılmıştır. Al-Nufail tarafından bildirilen gelenek de, Ebu İshak'tan, 'Asim'den, 'Ali'den, ancak Peygamber (ﷺ) adına atfedilmeden aktarılmıştır."
+    },
+    {
+      "id": 31,
+      "narrator": "Narrated Bashir ibn al-Khasasiyyah:",
+      "text": "Bashir ibn al-Khasasiyyah'dan rivayet edilmiştir: (İbn Ubayd, rivayetinde onun adının Bashir olmadığını, fakat (o) Allah'ın Elçisi (ﷺ) tarafından Bashir olarak adlandırıldığını söyledi)"
+    },
+    {
+      "id": 32,
+      "narrator": "",
+      "text": "Biz dedik: (Allah'ın Elçisine): Sadaka toplayıcıları, hak ettiklerinden daha fazlasını topluyorlar; bu oranda malımızı gizleyebilir miyiz? O cevap verdi: \"Hayır.\""
+    },
+    {
+      "id": 33,
+      "narrator": "Narrated Jabir ibn Atik:",
+      "text": "---"
+    },
+    {
+      "id": 34,
+      "narrator": "",
+      "text": "Yukarıda belirtilen hadis, Ayyub tarafından farklı bir raviden aynı anlamda rivayet edilmiştir. Bu versiyon ekliyor: Biz dedik, Allah'ın Elçisi (ﷺ) sadaka toplayıcıları bizden hak ettiklerinden daha fazlasını topluyor."
+    },
+    {
+      "id": 35,
+      "narrator": "Narrated ‘Abdallah bin Abi Awfa :",
+      "text": "Abu Davud dedi ki: ‘Abd Al Razzaq bu hadisi Ma’mar'dan, onu Peygamber (ﷺ)'e atfederek rivayet etmiştir."
+    },
+    {
+      "id": 36,
+      "narrator": "'Amr bin Shu'aib, on his father's authority, said that his grandfather reported the Prophet (ﷺ) as saying:",
+      "text": "---"
+    },
+    {
+      "id": 37,
+      "narrator": "",
+      "text": "Jabir ibn Atik'ten rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: Size hoş gelmeyen binekler size gelecek, fakat onlar size geldiğinde onları karşılamalısınız ve istediklerinde serbest bırakmalısınız. Eğer adil iseler, bunun için sevap alacaklardır; fakat eğer adaletsiz iseler, sorumlu tutulacaklardır. Onları memnun edin, çünkü zekatınızın mükemmelliği onların hoşnutluğundadır ve onlardan sizin için dua etmelerini isteyin."
+    },
+    {
+      "id": 38,
+      "narrator": "Narrated ‘Abdallah bin Umar :",
+      "text": "Abu Davud dedi ki: Rivayet edenin adı Abu al-Ghusn, Thabit bin Qais bin Ghusn'dur."
+    },
+    {
+      "id": 39,
+      "narrator": "Narrated Abu Hurairah:",
+      "text": "---"
+    },
+    {
+      "id": 40,
+      "narrator": "Narrated Abu Hurairah :",
+      "text": "Jabir bin ‘Abdallah, Allah'ın Elçisine (ﷺ) gelen bazı insanların, yani göçebe Arapların, sadaka toplayıcılarının kendilerine geldiğini ve haksızlık yaptıklarını söylediklerini aktardı. O, sizden sadaka toplayanları memnun edin dedi. Onlar, \"Hatta bize haksızlık yapsalar, Allah'ın Elçisi?\" diye sordular. O, \"Sizden sadaka toplayanları memnun edin\" diye cevap verdi."
+    },
+    {
+      "id": 41,
+      "narrator": "Narrated ‘Abdallah bin Umar :",
+      "text": "‘Uthman'ın versiyonu \"Hatta size haksızlık yapılsa bile\" ifadesini ekler. Abu Kamil bu versiyonda \"Jarir, Allah'ın Elçisinden (ﷺ) bunu duyduğumdan beri benden hiçbir sadaka toplayıcısı geri dönmedi, fakat o benden memnun oldu\" dedi."
+    },
+    {
+      "id": 42,
+      "narrator": "Narrated Jabir bin ‘Abdallah :",
+      "text": "---"
+    },
+    {
+      "id": 43,
+      "narrator": "",
+      "text": "‘Abdallah bin Abi Awfa'dan rivayet edilmiştir: Babam, Peygamber (ﷺ) altında ağaçta biat eden o sahabelerden biriydi. Peygamber (ﷺ) insanlara sadakalarını getirdiklerinde şöyle dedi: \"Ey Allah, falan kişinin ailesini bereketlendir.\" Babam ona sadakasını getirdiğinde, \"Ey Allah, Abu Awfa'nın ailesini bereketlendir\" dedi."
+    },
+    {
+      "id": 44,
+      "narrator": "Narrated Mu'adh ibn Jabal:",
+      "text": "---"
+    },
+    {
+      "id": 45,
+      "narrator": "'Amr bin Shu'aib, on his father's authority, said that his grandfather reported:",
+      "text": "'Amr bin Shu'aib, babasının rivayetiyle, dedesinin Peygamber (ﷺ)'in şöyle dediğini aktardığını söyledi: Uzak mesafeden sadaka (zekat) toplanmamalıdır, ayrıca mülk sahibi insanlar mallarını uzaklara götürmemelidir ve sadakaları kendi ikametlerinde alınmalıdır."
+    },
+    {
+      "id": 46,
+      "narrator": "'Amr bin Shu'aib, on his father's authority, said that his grandfather reported:",
+      "text": "'Amr bin Shu'aib, babası aracılığıyla, dedesinin şöyle söylediğini aktardı: Bu, Fahm kabilesinin bir alt kolu olan Banu Şababah'tır. Daha sonra, rivayeti benzer bir şekilde aktardı. Ekledi: (Onlar, on torbadan) bir torba (bal) verirdi. Sufyan ibn Abdullah ath-Thaqafi onlara iki orman koruma alanı verdi. Onlar, Allah'ın Elçisi'ne (ﷺ) verdikleri kadar bal (zekat) verirlerdi. O (Sufyan), onların ormanlarını korurdu."
+    },
+    {
+      "id": 47,
+      "narrator": "",
+      "text": "'Amr bin Shu'aib, babası aracılığıyla, dedesinin Fahm'ın bir alt kolunu bildirdiğini söyledi. Daha sonra, rivayeti Al Mughirah'ın rivayeti gibi aktardı. Bu versiyonda “(Onlar, on torbadan) sadaka verirdi” ifadesi bulunmaktadır. Ayrıca “Onların iki ormanı” ifadesini de ekledi."
+    },
+    {
+      "id": 48,
+      "narrator": "Narrated Attab ibn Usayd:",
+      "text": "Attab ibn Usayd'den rivayet edilmiştir: Allah'ın Elçisi (ﷺ), bağların (zekat için) hurma ağaçları gibi değerlendirilmesini emretti. Zekat, hurma ağaçlarına verilen kuru hurmalar gibi kuru üzümle ödenecektir."
+    },
+    {
+      "id": 49,
+      "narrator": "",
+      "text": "Yukarıda bahsedilen rivayet, Ibn Shihab tarafından farklı bir raviden aynı etkilere sahip olarak aktarılmıştır."
+    },
+    {
+      "id": 50,
+      "narrator": "AbdurRahman ibn Mas'ud said:",
+      "text": "AbdurRahman ibn Mas'ud dedi ki: Sahl ibn Abu Hathmah bizim toplantımıza geldi. Dedi ki: Allah'ın Elçisi (ﷺ) bize şöyle emretti: Hesap yaparken, üçte birini bırakın; eğer üçte birini bırakamazsanız veya bulamazsanız, dörtte birini bırakın."
+    },
+    {
+      "id": 51,
+      "narrator": "Narrated Aisha, Ummul Mu'minin:",
+      "text": "Aisha, Ummul Mu'minin'den rivayet edilmiştir: Hayber'in fethini anlatırken Aisha şöyle dedi: Peygamber (ﷺ), Abdullah ibn Rawahah'ı Hayber'deki Yahudilere gönderir, o da meyve iyi durumda iken hurma ağaçlarını değerlendirirdi."
+    },
+    {
+      "id": 52,
+      "narrator": "Abu Umamah bin Sahl reported on the authority of his father:",
+      "text": "Abu Umamah bin Sahl, babası aracılığıyla bildirdi: Allah'ın Elçisi (ﷺ), ja'rur ve habiq hurmalarını zekat olarak kabul etmeyi yasakladı. Az-Zuhri dedi ki: Bunlar Medine'nin iki çeşit hurmasıdır."
+    },
+    {
+      "id": 53,
+      "narrator": "Narrated Awf ibn Malik:",
+      "text": "Abu Dawud dedi ki: Bu, Sulaiman bin Kathir'den Az-Zuhri aracılığıyla Abu al-Walid tarafından da aktarılmıştır."
+    },
+    {
+      "id": 54,
+      "narrator": "Narrated Abdullah ibn Abbas:",
+      "text": "Awf ibn Malik'ten rivayet edilmiştir: Allah'ın Elçisi (ﷺ) camide bize girdi ve elinde bir sopa vardı. Bir adam oraya bir salkım hashaf astı. O, salkımı sopasıyla vurdu ve dedi ki: Eğer bu sadakanın sahibi, ondan daha iyisini vermek isterse, verir. Bu sadakanın sahibi, Kıyamet Günü hashaf yiyecektir."
+    },
+    {
+      "id": 55,
+      "narrator": "Ibn ‘Umar said :",
+      "text": "Abdullah ibn Abbas'tan rivayet edilmiştir: Allah'ın Elçisi (ﷺ), oruç açma ile ilgili sadakayı, oruç tutanların boş ve edebe aykırı sözlerden arınması ve fakirler için yiyecek olarak belirlemiştir. Eğer biri bunu namazdan önce öderse, zekat olarak kabul edilir. Eğer biri bunu namazdan sonra öderse, bu diğer sadakalar gibi bir sadaka olur."
+    },
+    {
+      "id": 56,
+      "narrator": "Ibn ‘Umar said :",
+      "text": "Ibn ‘Umar dedi ki: Allah'ın Elçisi (ﷺ), Ramazan'ın sonuna geldiğinde oruç kapandığında sadakanın (zekat) insanların namaza gitmeden önce ödenmesini emretti. 'Abd Allah b. 'Umar bunu bir veya iki gün önce öderdi."
+    },
+    {
+      "id": 57,
+      "narrator": "Abd’ Allah b. Umar said :",
+      "text": "Ibn ‘Umar dedi ki: Allah'ın Elçisi (ﷺ), Ramazan orucunun kapanmasıyla birlikte köle ve hür, erkek ve kadın Müslümanlar arasında ödenecek zekatı bir sa' kuru hurma veya bir sa' arpa olarak belirledi. (Bu rivayet, ‘Abd Allah b. Maslamah tarafından Malik'e okundu.)"
+    },
+    {
+      "id": 58,
+      "narrator": "Ibn ‘Umar said :",
+      "text": "Abd’ Allah b. Umar dedi ki: Allah'ın Elçisi (ﷺ), Ramazan'ın sonunda bir sa' sadaka belirledi. Daha sonra, rivayeti Malik'in aktardığı gibi aktardı. Bu versiyonda “Genç ve yaşlı” ifadesi eklenmiştir. O, bunun insanların namaza gitmeden önce ödenmesi gerektiğini emretti."
+    },
+    {
+      "id": 59,
+      "narrator": "Narrated Abdullah ibn Umar:",
+      "text": "Abu Dawud dedi ki: ‘Abd Allah al-‘Umari, bunu Nafi’ aracılığıyla “her Müslüman” ifadesiyle aktardı. Sa’id al-Jumahi'nin versiyonu “Müslümanlar arasında” ifadesini içerir. ‘Ubaid Allah tarafından aktarılan bilinen versiyon ise “Müslümanlar arasında” ifadesini içermez."
+    },
+    {
+      "id": 60,
+      "narrator": "Abd’ Allah(b. 'Umar) said “The people then began to pay half a sa’ of wheat later on. The narrator said :",
+      "text": "Ibn ‘Umar dedi ki: Allah'ın Elçisi (ﷺ), Ramazan'ın sonunda bir sa' arpa ve kuru hurma sadakası belirledi; bu, genç ve yaşlı, hür ve köle tarafından ödenecek. Musa'nın versiyonu “erkek ve kadın” ifadesini ekler."
+    },
+    {
+      "id": 61,
+      "narrator": "Abu sa’id al-khudri said :",
+      "text": "Ebu Sa'id el-Hudri dedi ki: Allah'ın Elçisi (Ona selam ve salat olsun) aramızda yaşarken, Ramazan orucunu kapatırken bir sa' buğday, peynir, arpa, kuru hurma veya kuru üzüm olarak zekat verirdik. Bunu, Muaviye Hac veya Umre yapmak için geldiğinde ve insanlara minberde konuştuğunda vermeye devam ettik. İnsanlara şunları söyledi: \"Suriye buğdayından bir mudd, bir sa' kuru hurmaya eşdeğerdir.\" Böylece insanlar bunu benimsedi. Ebu Sa'id dedi ki: Ama ben yaşadığım sürece bir sa' buğday vermeye devam ettim."
+    },
+    {
+      "id": 62,
+      "narrator": "The aforesaid tradition has also been transmitted by Abu Sa’id through a different chain of narrators.\nThis version adds :",
+      "text": "Ebu Davud dedi ki: Bu rivayet, Ebu Sa'id tarafından farklı bir isnat zinciriyle aynı anlamda aktarılmıştır. Bir adam, bu versiyonda İbn Uleyye'den bir sa' buğday olarak rivayet etmiştir. Ancak bu versiyon güvenilir değildir."
+    },
+    {
+      "id": 63,
+      "narrator": "Narrated Abu Sa'id al-Khudri:",
+      "text": "---"
+    },
+    {
+      "id": 64,
+      "narrator": "'Abd Allah b. Tha'labah or Tha'labah bin 'Abd Allah bin Abu Su'air reported on his father's authority that the Messenger of Allah (ﷺ) said:",
+      "text": "Yukarıda belirtilen rivayet, Ebu Sa'id tarafından farklı bir isnat zinciriyle de aktarılmıştır. Bu versiyonda: \"Yarım sa' buğday\" eklenmiştir. Ancak bu, Muaviye b. Hişam ve ondan rivayet edenlerin yanlış anlamasıdır."
+    },
+    {
+      "id": 65,
+      "narrator": "'Abd Allah bin Tha'labah ibn Su'ayr reported on the authority of his father:",
+      "text": "---"
+    },
+    {
+      "id": 66,
+      "narrator": "Abd Allah b. Tha’labah said (the narrator Ahmad b. salih said :",
+      "text": "Ebu Sa'id el-Hudri'den rivayet edilmiştir: Ben her zaman bir sa' vereceğim. Allah'ın Elçisi (ﷺ) döneminde bir sa' kuru hurma veya arpa, ya da peynir veya kuru üzüm verirdik. Bu, Yahya'nın versiyonudur. Süfyan, kendi versiyonunda: \"veya bir sa' un\" eklemiştir. Rivayet eden Hamid (İbn Yahya) dedi ki: İnsanlar bu (ekleme) itiraz etti; Süfyan bunu bıraktı."
+    },
+    {
+      "id": 67,
+      "narrator": "Al-Hasan said:",
+      "text": "Ebu Davud dedi ki: Bu ekleme, İbn Uyayne'nin yanlış anlamasıdır."
+    },
+    {
+      "id": 68,
+      "narrator": "Abu Hurairah said :",
+      "text": "---"
+    },
+    {
+      "id": 69,
+      "narrator": "Narrated Ali ibn AbuTalib:",
+      "text": "Abdullah b. Tha'labah veya Tha'labah b. Abdullah b. Ebu Su'ayr, babasının rivayetine dayanarak, Allah'ın Elçisi (ﷺ) şöyle dedi: Her iki kişiden, genç veya yaşlı, hür veya köle, erkek veya kadın, bir sa' buğday alınmalıdır. İçinizde zengin olanlar Allah tarafından temizlenecek, fakir olanlar ise verdiklerinden daha fazlasını O'ndan geri alacaklardır. Süleyman, kendi versiyonunda: \"zengin veya fakir\" eklemiştir."
+    },
+    {
+      "id": 70,
+      "narrator": "Ibrahim ibn Ata, the client of Imran ibn Husayn, reported on the authority of his father:",
+      "text": "---"
+    },
+    {
+      "id": 71,
+      "narrator": "Narrated Abdullah ibn Mas'ud:",
+      "text": "Abdullah b. Tha'labah b. Su'ayr, babası aracılığıyla rivayet etti: Allah'ın Elçisi (ﷺ) ayağa kalktı ve bir hutbe verdi; Ramazan sonunda oruç kapandığında, her kişiden bir sa' kuru hurma veya arpa verilmesini emretti. Rivayet eden Ali, kendi versiyonunda: \"veya her iki kişiden bir sa' buğday\" eklemiştir. Her iki isnat zinciri de: \"genç ve yaşlı, hür ve köle tarafından ödenecek\" versiyonunda hemfikir olmuştur."
+    },
+    {
+      "id": 72,
+      "narrator": "‘Ata’ b. Yasar said :",
+      "text": "---"
+    },
+    {
+      "id": 73,
+      "narrator": "Narrated AbuSa'id al-Khudri:",
+      "text": "Abdullah b. Tha'labah dedi ki (rivayet eden Ahmed b. Salih dedi ki: O, yani \"Abd al-Razzaq, 'Adawl'dır. Ebu Davud dedi ki: Ahmed b. Salih dedi ki: O, 'Adhri'dir): Allah'ın Elçisi (Ona selam ve salat olsun) Ramazan orucunun kapanmasından iki gün önce bir konuşma yaptı. Sonra rivayeti, el-Muqri (Abdullah b. Yazid) gibi aktardı."
+    },
+    {
+      "id": 74,
+      "narrator": "Narrated Sahl ibn Hanzaliyyah:",
+      "text": "---"
+    },
+    {
+      "id": 75,
+      "narrator": "Narrated Ziyad ibn al-Harith as-Suda'i:",
+      "text": "Hasan dedi ki: İbn Abbas, Ramazan'ın sonunda el-Basra'daki minberde vaaz verdi. Şunları söyledi: Oruçlarınızla ilgili sadakaları verin. İnsanlar, sanki anlamadılar. Medine halkından kimler burada? Kardeşleriniz için ayağa kalkın ve onlara öğretin, çünkü onlar bilmiyorlar."
+    },
+    {
+      "id": 76,
+      "narrator": "Abu Hurairah reported Messenger of Allah (May peace be upon him) as saying :",
+      "text": "Abu Hurayra, Allah'ın Elçisi'nin (O'na selam olsun) şöyle söylediğini bildirmiştir: \"Miskin, insanların bir veya iki hurma veya bir veya iki lokma ile kabul ettiği kimse değildir; miskin, insanlardan bir şey istemeyen ve ihtiyaçları bilinmeyen kimsedir ki, ona sadaka verilsin.\""
+    },
+    {
+      "id": 77,
+      "narrator": "Narrated AbuHurayrah:",
+      "text": "Abu Hurayra'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) önceki hadiste belirtilen benzer bir şey söylemiştir. Bu versiyona ek olarak: \"Ancak insanlardan istemekten kaçınan miskin, Musaddad'ın rivayetine göre, insanlardan istemeyecek kadar yetersiz olan ve ihtiyaçları insanlar tarafından bilinmeyen kimsedir; işte bu, mahrum kalmış olandır.\" Musaddad, \"insanlardan istemekten kaçınan\" sözlerini zikretmemiştir."
+    },
+    {
+      "id": 78,
+      "narrator": "Narrated Ubaydullah ibn Adl ibn al-Khiyar:",
+      "text": "Abu Davud şöyle demiştir: Bu hadis, Muhammed bin Thawr ve Abd al-Razzaq aracılığıyla Ma'mar'dan rivayet edilmiştir. Onlar, \"mahrum\" kelimesinin al-Zuhri'nin ifadesi olduğunu belirtmişlerdir ve bu daha sağlamdır."
+    },
+    {
+      "id": 79,
+      "narrator": "Narrated Abdullah ibn Amr :",
+      "text": "Ubaydullah ibn Adl ibn al-Khiyar'dan rivayet edilmiştir: İki adam, Allah'ın Elçisi (ﷺ) ile Veda Haccı sırasında karşılaştıklarını ve sadaka dağıttığını, ondan bir miktar istediklerini bildirdiler. O, bizi süzdü ve sağlam olduğumuzu görünce şöyle dedi: \"İsterseniz, size bir şey vereyim, ama bunun içinde zengin veya güçlü ve geçimini sağlayabilecek biri için bir şey yok.\""
+    },
+    {
+      "id": 80,
+      "narrator": "Narrated Ata ibn Yasar:",
+      "text": "Abdullah ibn Amr'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Sadaka, zengin bir kimseye veya güçlü ve sağlam birine verilmez.\""
+    },
+    {
+      "id": 81,
+      "narrator": "The aforesaid tradition has also been transmitted by abu-Said al-Khudri to the same effect to a different chain of narrators, attributing it to the Messenger of Allah (May peace be upon him).\n\n\nAbu-Dawud said :",
+      "text": "Abu Davud şöyle demiştir: Bu hadis, Sufyan'dan Sa'd bin İbrahim üzerinden, İbrahim'in rivayet ettiği gibi aktarılmıştır. Shu'bah'ın Sa'd'dan olan versiyonu: \"güçlü ve sağlam bir adam için\" şeklindedir. Bu hadisin diğer versiyonlarında \"güçlü ve sağlam bir adam için\" ifadesi geçmektedir. Diğerleri ise \"güçlü ve sağlam bir kimse için\" demiştir. Ata bin Zuhair, Abd Allah bin Amr ile karşılaştığını ve onun şöyle dediğini aktarmıştır: \"Sadaka, güçlü bir adam için veya güçlü ve sağlam bir kimse için helal değildir.\""
+    },
+    {
+      "id": 82,
+      "narrator": "Abu-Said reported :",
+      "text": "Ata ibn Yasar'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Sadaka, zengin bir kimseye verilmez, ancak beş sınıf için istisna vardır: Allah yolunda savaşan, onu toplayan, borçlu olan, parasıyla satın alan veya sadaka verilen bir yoksul komşusunun zengine hediye verdiği kimse.\""
+    },
+    {
+      "id": 83,
+      "narrator": "",
+      "text": "Yukarıda belirtilen hadis, Abu Said al-Khudri tarafından farklı bir rivayet zinciriyle aynı anlamda aktarılmıştır ve Allah'ın Elçisi'ne (O'na selam olsun) atfedilmiştir."
+    },
+    {
+      "id": 84,
+      "narrator": "Narrated Samurah ibn Jundub:",
+      "text": "Abu Davud şöyle demiştir: İbn 'Uyainah, Zaid'den, Malik'in Zaid'den rivayet ettiğini ve Thwari'nin Zaid'den, Allah'ın Elçisi'nden (O'na selam olsun) sahih bir raviden aktarıldığını bildirmiştir."
+    },
+    {
+      "id": 85,
+      "narrator": "Qabisah b. Mukhiriq al-Hilali said :",
+      "text": "Abu Said, Allah'ın Elçisi'nin (O'na selam olsun) şöyle dediğini bildirmiştir: \"Sadaka, zengin bir kimseye helal değildir, ancak cihad sonucu gelen veya yoksul bir komşunun kendisine verilen sadakadan hediye ettiği veya bir ziyafette kendisine ikram ettiği şeyler için geçerlidir.\""
+    },
+    {
+      "id": 86,
+      "narrator": "Narrated Anas ibn Malik:",
+      "text": "Abu Davud şöyle demiştir: Bu, Abu Said tarafından farklı bir rivayet zinciriyle benzer şekilde aktarılmıştır."
+    },
+    {
+      "id": 87,
+      "narrator": "Awf b. Malik said :",
+      "text": "Basheer b. Yasar, Ensar'dan Sahi b. abu-Hatmah'ın kendisine, Allah'ın Elçisi'nin (O'na selam olsun) ona sadaka olarak yüz deve verdiğini, yani Khaibar'da öldürülen Ensari için bir diyet olduğunu bildirdiğini aktarmıştır."
+    },
+    {
+      "id": 88,
+      "narrator": "Thawban, the client of the Messenger of Allah (May peace be upon him), reported him as saying :",
+      "text": "Samurah ibn Jundub'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Dilencilik, bir adamın yüzünü yaralayan bir yaradır; kim isterse onurunu koruyabilir, kim isterse bunu terk edebilir; ancak bu, bir hükümdardan veya zorunlu bir durumda dilenen kişi için geçerli değildir.\""
+    },
+    {
+      "id": 89,
+      "narrator": "Abu Said  al-Khudri said :",
+      "text": "Qabisah b. Mukhiriq al-Hilali şöyle dedi: \"Ben bir ödünç için kefil oldum ve Allah'ın Elçisi'ne (O'na selam olsun) geldim. O, 'Sadakayı alana kadar bekle, sana verilmesini emredeceğim' dedi. Sonra şöyle dedi: 'Dilencilik, Qabisah, yalnızca üç sınıfa helaldir: bir ödünç için kefil olan kimse, ona ulaşana kadar dilenmesine izin verilir; bir felakete uğramış ve malı yok olan kimse, ona hayatını sürdürecek kadar dilenmesine izin verilir (ya da 'makul bir geçim sağlayacak kadar' dedi); ve yoksullukla karşılaşmış bir kimse, hakkında üç akıllı kişinin 'şu kişi yoksullukla karşılaştı' dediği kimse, ona hayatını sürdürecek kadar dilenmesine izin verilir (ya da 'makul bir geçim sağlayacak kadar' dedi), sonrasında durmalıdır. Başka bir dilencilik sebebi, Qabisah, haramdır ve böyle bir şeyle meşgul olan, haram olan bir şeyi tüketmiş olur.\""
+    },
+    {
+      "id": 90,
+      "narrator": "Narrated Abdullah ibn Mas'ud:",
+      "text": "Anas ibn Malik'ten rivayet edilmiştir: Ensar'dan bir adam, Peygamber'e (ﷺ) geldi ve ondan dilendi."
+    },
+    {
+      "id": 91,
+      "narrator": "Narrated Ibn al-Firasi:",
+      "text": "İbn al-Firasi'den rivayet edilmiştir: Al-Firasi, Allah'ın Elçisi'ne (ﷺ) sordu: \"Yardım isteyebilir miyim, Allah'ın Elçisi?\" Peygamber (ﷺ) şöyle dedi: \"Hayır, ama kaçınılmazsa, doğru olanlardan iste.\""
+    },
+    {
+      "id": 92,
+      "narrator": "Ibn al-Saidi said :",
+      "text": "İbn al-Saidi dedi ki: Ömer, beni sadaka toplamaya memur etti. Bunu tamamlayıp ona verdiğimde, bana ödeme yapılmasını emretti. Ben de: \"Ben sadece Allah rızası için yaptım ve ödülüm Allah'tan gelecek.\" dedim. O ise: \"Sana verilen şeyi al, çünkü ben de Allah'ın Elçisi'nin (Sallallahu Aleyhi ve Sellem) zamanında (toplayıcı) olarak görev yaptım ve bana bir ödeme vermişti.\" dedi. Bunun üzerine, senin söylediğin gibi ben de aynı şeyi söyledim, buna Allah'ın Elçisi (Sallallahu Aleyhi ve Sellem) şöyle dedi: \"Sana bir şey verildiğinde, onu kendi amacın için kullanmalısın ve sadaka olarak vermelisin.\""
+    },
+    {
+      "id": 93,
+      "narrator": "Abd Allah b. ‘Umar reported that the Messenger of Allah (May peace be upon him) said when he was on the pulpit speaking of sadaqah and abstention from it and begging :",
+      "text": "Abd Allah b. ‘Umar, Allah'ın Elçisi'nin (Sallallahu Aleyhi ve Sellem) minberde sadaka ve ondan kaçınma ile dilenme hakkında konuşurken şöyle dediğini bildirdi: \"Üst el, alt elden daha hayırlıdır; üst el veren, alt el ise dilenendir.\""
+    },
+    {
+      "id": 94,
+      "narrator": "Narrated Malik ibn Nadlah:",
+      "text": "Abu Davud dedi ki: Bu hadisin Ayyub'dan Nafi ile rivayeti tartışmalıdır. Rivayet eden `Abd al-Warith, kendi rivayetinde: \"Üst el, dilenmekten kaçınandır;\" dedi; ancak çoğu rivayet edenler, Hammad b. Zaid'den Ayyub'dan \"Üst el, veren eldir.\" sözlerini rivayet etmiştir. Hammad'dan bir rivayet eden, kendi rivayetinde \"dilenmekten kaçınan\" demiştir."
+    },
+    {
+      "id": 95,
+      "narrator": "Narrated AbuRafi':",
+      "text": "Malik ibn Nadlah'dan rivayet edilmiştir: Peygamber (ﷺ) şöyle dedi: \"Eller üç türdendir: Allah'ın eli üstte olanıdır; verenin eli ona yakındır; dilenenin eli ise alttadır. O halde, fazlanızı verin ve nefsinizin talebine boyun eğmeyin.\""
+    },
+    {
+      "id": 96,
+      "narrator": "Anas said :",
+      "text": "Abu Rafi' rivayet etti: Peygamber (ﷺ) Banu Makhzum'dan bir adamı sadaka toplamaya gönderdi. O, Abu Rafi'ye: \"Beni takip et ki ondan bir şey alabilirsin.\" dedi. O da: \"(Alamam) ta ki Peygamber'e (ﷺ) gidip ondan sorana kadar.\" dedi. Sonra ona gitti ve sordu. O da: \"Sadaka bizim için helal değildir ve bir toplumun müşterisi, onlardan biri gibi muamele görür.\" dedi."
+    },
+    {
+      "id": 97,
+      "narrator": "Anas said:",
+      "text": "Anas dedi ki: Allah'ın Elçisi (Sallallahu Aleyhi ve Sellem) yolda bir hurma buldu; onu almadı, çünkü sadakadan bir parça olmasından korkuyordu."
+    },
+    {
+      "id": 98,
+      "narrator": "Narrated Abdullah ibn Abbas:",
+      "text": "Anas dedi ki: Allah'ın Elçisi (Sallallahu Aleyhi ve Sellem) bir hurma buldu ve: \"Eğer bunun sadakadan bir parça olmasından korkmasaydım, onu yerdim.\" dedi."
+    },
+    {
+      "id": 99,
+      "narrator": "The aforesaid tradition has also been transmitted by Ibn Abbas through a different chain of narrators in a similar manner.  This version adds :",
+      "text": "Abdullah ibn Abbas'tan rivayet edilmiştir: Babam beni Peygamber'e (ﷺ) gönderdi, ona sadakadan verdiği develeri almak için."
+    },
+    {
+      "id": 100,
+      "narrator": "",
+      "text": "Yukarıda belirtilen hadis, İbn Abbas tarafından farklı bir rivayet zinciriyle benzer şekilde aktarılmıştır. Bu versiyona ek olarak: \"Babam onları onun için değiştirdi.\" denilmektedir."
+    },
+    {
+      "id": 101,
+      "narrator": "",
+      "text": "Anas dedi ki: Peygamber'e (Sallallahu Aleyhi ve Sellem) bir et getirildiğinde, \"Bu nedir?\" diye sordu. Kendisine bunun Barirah'a sadaka olarak verilen bir şey (et) olduğu söylendi. Bunun üzerine: \"Bu onun için sadakadır ve bize bir hediyedir.\" dedi."
+    },
+    {
+      "id": 102,
+      "narrator": "Narrated Abdullah ibn Mas'ud:",
+      "text": "Buraidah dedi ki: Bir kadın Allah'ın Elçisi'ne (Sallallahu Aleyhi ve Sellem) geldi ve: \"Ölen anneme bir cariye sadaka olarak verdim ve o şimdi o cariyeyi bıraktı.\" dedi. O da: \"Mücadeleniz kesin ve miras onu size geri verdi.\" dedi."
+    },
+    {
+      "id": 103,
+      "narrator": "",
+      "text": "Abdullah ibn Mes'ud'dan rivayet edilmiştir: Allah'ın Elçisi'nin (ﷺ) zamanında, ma'un (günlük kullanım eşyası) olarak bir kova ve pişirme kabı ödünç vermeyi düşünürdük."
+    },
+    {
+      "id": 104,
+      "narrator": "",
+      "text": "Abu Hurayra, Allah'ın Elçisi'nin (Sallallahu Aleyhi ve Sellem) şöyle dediğini bildirdi: \"Eğer bir hazine sahibi (altın ve gümüş) üzerine düşen zekatı ödemezse, Allah onu Kıyamet Günü cehennem ateşinde ısıtacak ve yan tarafı, alnı ve sırtı onunla dağlanacaktır; ta ki Allah, insanların arasında hükmünü verene kadar, o, sizin saydığınız elli bin yıl sürecek bir günde, yolunun cennete mi yoksa cehenneme mi gideceğini görecektir. Eğer bir sahibi zekatını ödemezse, koyunlar Kıyamet Günü en güçlü ve en kalabalık şekilde ortaya çıkacak, onlara yumuşak bir kumlu alan serilecektir; boynuzlarıyla onu delip, ayaklarıyla çiğneyeceklerdir; içlerinde kıvrık boynuzlu veya boynuzsuz olan hiç kimse olmayacaktır. Onların sonuncusu geçtikçe, ilkleri ona geri getirilecektir; ta ki Allah, insanların arasında hükmünü verene kadar, o, sizin saydığınız elli bin yıl sürecek bir günde, yolunun cennete mi yoksa cehenneme mi gideceğini görecektir. Eğer bir deve sahibi üzerine düşen zekatı ödemezse, onlar da Kıyamet Günü en güçlü ve en kalabalık şekilde ortaya çıkacak, onlara yumuşak bir kumlu alan serilecektir; boynuzlarıyla onu delip, ayaklarıyla çiğneyeceklerdir; içlerinde kıvrık boynuzlu veya boynuzsuz olan hiç kimse olmayacaktır. Onların sonuncusu geçtikçe, ilkleri ona geri getirilecektir; ta ki Allah, insanların arasında hükmünü verene kadar, o, sizin saydığınız elli bin yıl sürecek bir günde, yolunun cennete mi yoksa cehenneme mi gideceğini görecektir.\""
+    },
+    {
+      "id": 105,
+      "narrator": "Narrated Abu Hurayrah:",
+      "text": "Yukarıda belirtilen hadis, Abu Hurayra tarafından farklı bir rivayet zinciriyle benzer şekilde Peygamber'den (Sallallahu Aleyhi ve Sellem) aktarılmıştır. Bu versiyon, develerin tanımında \"onların su içmeye geldiğinde sütlerini sağmanın bir şey olduğu\" sözlerini eklemektedir."
+    },
+    {
+      "id": 106,
+      "narrator": "The aforesaid tradition has also been transmitted by ‘Ubaid bin ‘ Umair through a different chain of narrators. This version goes:",
+      "text": "Yukarıda belirtilen hadis, 'Ubaid bin 'Umair aracılığıyla farklı bir rivayet zinciriyle de aktarılmıştır. Bu versiyon şöyle der: Bir adam sordu: Allah'ın Resulü (ﷺ), develer üzerinde ne vardır? O da benzer bir şekilde cevap verdi. Bu versiyona \"ve memelerini ödünç vermek\" eklenmiştir."
+    },
+    {
+      "id": 107,
+      "narrator": "",
+      "text": "Jabir bin 'Abdullah dedi ki: Peygamber (SWAS) on tane hurma salkımı toplayan kişinin, yoksullar için camide bir salkım hurma asmasını emretti."
+    },
+    {
+      "id": 108,
+      "narrator": "",
+      "text": "Abu Sa'id al-Khudri dedi ki: Biz Allah'ın Resulü (ﷺ) ile seyahat ederken, bir adam ona dişi devesiyle geldi ve onu sağa sola sürmeye başladı. Allah'ın Resulü (ﷺ) dedi ki: Kimde fazladan bir binek hayvanı varsa, onu binek hayvanı olmayan kişiye versin; kimde fazladan malzeme varsa, onu malzeme olmayan kişiye versin. Aramızda hiç kimsenin fazladan mal üzerinde hakkı olduğunu düşünmedik."
+    },
+    {
+      "id": 109,
+      "narrator": "Narrated Abdullah ibn Abbas:",
+      "text": "Abdullah ibn Abbas'tan rivayet edilmiştir: Bu ayet indiğinde: \"Ve altın ve gümüş biriktirenler,\" Müslümanlar bu konuda üzüldüler. Ömer dedi ki: Üzüntünüzü gidereceğim. Bunun üzerine gitti ve dedi ki: Allah'ın Peygamberi, arkadaşlarınız bu ayetten dolayı üzüldü. Allah'ın Resulü (ﷺ) dedi ki: Allah, zekatı farz kıldı ki, kalan malınızı temizlesin ve mirasları farz kıldı ki, geride kalanlara ulaşsın. Ömer sonra dedi ki: Allah en büyüktür. Sonra ona dedi ki: Sana bir adamın biriktirdiği en iyi şeyi bildireyim; o, ona baktığında hoşlanan, ona bir emir verdiğinde itaat eden ve ondan uzakta olduğunda menfaatlerini koruyan erdemli bir kadındır."
+    },
+    {
+      "id": 110,
+      "narrator": "Narrated Ali ibn Abu Talib:",
+      "text": "Ali ibn Abu Talib'ten rivayet edilmiştir: Peygamber (ﷺ) dedi ki: Bir dilencinin hakkı vardır, o binek (at) üzerinde olsa bile."
+    },
+    {
+      "id": 111,
+      "narrator": "",
+      "text": "Yukarıda belirtilen hadis, Ali aracılığıyla farklı bir rivayet zinciriyle benzer şekilde Peygamber (ﷺ) den aktarılmıştır."
+    },
+    {
+      "id": 112,
+      "narrator": "Narrated Umm Bujayd:",
+      "text": "Umm Bujayd'tan rivayet edilmiştir: O, Allah'ın Resulü (ﷺ) ile biat etti ve ona dedi ki: Allah'ın Resulü, kapımda bir yoksul var, ama ona verecek bir şey bulamıyorum. Allah'ın Resulü (ﷺ) ona dedi ki: Eğer ona verecek bir şey bulamazsan, eline bir şey ver, yanık bir ayak bile olsa."
+    },
+    {
+      "id": 113,
+      "narrator": "",
+      "text": "Asma‘ dedi ki: Annem, Hudaibiyye'deki Kureyş anlaşması sırasında benden bir iyilik istemek için yanıma geldi. O, İslam'ı sevmiyor ve bir müşrikti. Ben de dedim: Allah'ın Resulü (ﷺ), annem İslam'ı sevmiyor ve o bir kafir. Ona bir iyilik yapabilir miyim? O cevap verdi: Evet, ona bir iyilik yap."
+    },
+    {
+      "id": 114,
+      "narrator": "Buhaysah reported on the authority of his father:",
+      "text": "Buhaysah, babası aracılığıyla rivayet etti: Babam, Peygamber (ﷺ) den izin istedi. (İzin verildiğinde ve yanına yaklaştığında) gömleğini kaldırdı ve onu öpmeye ve kucaklamaya başladı (ona olan sevgisinden dolayı). O sordu: Allah'ın Resulü, reddetmenin haram olduğu şey nedir? O cevap verdi: Su. Tekrar sordu: Allah'ın Peygamberi, reddetmenin haram olduğu şey nedir? O cevap verdi: Tuz. Tekrar sordu: Allah'ın Peygamberi, reddetmenin haram olduğu şey nedir? O dedi: İyilik yapmak, sizin için daha hayırlıdır."
+    },
+    {
+      "id": 115,
+      "narrator": "",
+      "text": "'Abd al-Rahman bin Abu Bakr (Allah ondan razı olsun) dedi ki: Allah'ın Resulü (ﷺ) sordu: Bugün yoksul bir adama yiyecek vereniniz var mı? Abu Bakr dedi ki: Ben, bir dilencinin dilendiği camiye girdim; 'Abd al-Rahman'ın elinde bir parça ekmek buldum, onu aldım ve ona verdim."
+    },
+    {
+      "id": 116,
+      "narrator": "Narrated Jabir ibn Abdullah:",
+      "text": "Jabir ibn Abdullah'tan rivayet edilmiştir: Peygamber (ﷺ) dedi ki: Allah rızası için sadece Cennet istenmelidir."
+    },
+    {
+      "id": 117,
+      "narrator": "Narrated Abdullah ibn Umar:",
+      "text": "Abdullah ibn Umar'dan rivayet edilmiştir: Peygamber (ﷺ) dedi ki: Eğer biri Allah'ın adıyla korunma isterse, ona koruma verin; eğer biri Allah'ın adıyla dilenirse, ona bir şey verin; eğer biri sizi davet ederse, kabul edin; ve eğer biri size bir iyilik yaparsa, ona karşılık verin; ama bunu yapacak imkana sahip değilseniz, onun için dua edin ta ki ona karşılık verdiğinizi hissedene kadar."
+    },
+    {
+      "id": 118,
+      "narrator": "Narrated Jabir ibn Abdullah Al-Ansari:",
+      "text": "Jabir ibn Abdullah Al-Ansari'den rivayet edilmiştir: Allah'ın Resulü (ﷺ) ile otururken, bir adam ona yumurta ağırlığında altın getirdi ve dedi ki: Allah'ın Resulü, bunu bir madenin içinden aldım; al, bu sadakadır. Benden daha fazlası yok. Allah'ın Resulü (ﷺ) ona yüzünü çevirdi. Sonra sağ tarafından yanına geldi ve aynı sözleri tekrar etti. Ama o (Peygamber) ona yüzünü çevirdi. Sonra sol tarafından yanına geldi ve aynı sözleri tekrar etti. Ama o (yine) ona yüzünü çevirdi. Sonra arkasından yanına geldi. Allah'ın Resulü (ﷺ) onu aldı ve attı. Eğer ona çarpsaydı, onu incitirdi veya yaralardı. Allah'ın Resulü (ﷺ) dedi ki: Sizden biri, sahip olduğu her şeyi getirip: Bu sadakadır, der. Sonra oturur ve insanların önünde elini açar. En iyi sadaka, bir yeterlilik bırakanıdır."
+    },
+    {
+      "id": 119,
+      "narrator": "",
+      "text": "Yukarıda belirtilen hadis, Ibn Ishaq aracılığıyla farklı bir rivayet zinciriyle aynı anlamda aktarılmıştır. Bu versiyon \"malınızı bizden yanınızda bulundurun. Bizim buna ihtiyacımız yok.\" eklemesini yapar."
+    },
+    {
+      "id": 120,
+      "narrator": "Narrated Abu Sa'id al-Khudri:",
+      "text": "Abu Sa'id al-Khudri'den rivayet edilmiştir: Bir adam camiye girdi. Peygamber (ﷺ) insanlara elbiselerini sadaka olarak atmaları emrini verdi. Bunun üzerine insanlar elbiselerini (sadaka olarak) attılar. Sonra ondan iki elbise almasını istedi. Ona sert bir şekilde çıkıştı ve dedi ki: Elbisenizi alın."
+    },
+    {
+      "id": 121,
+      "narrator": "",
+      "text": "Abu Hurayra, Allah'ın Elçisi (ﷺ) şöyle buyurdu: En iyi sadaka, bir ihtiyacı karşılayan sadakadır; ve sorumluluğunuz altındaki kişilerden başlayın."
+    },
+    {
+      "id": 122,
+      "narrator": "",
+      "text": "Abu Hurayra, Allah'ın Elçisi (ﷺ)'ne sordum: Hangi sadaka en üstündür? O da: Az bir mala sahip olan bir adamın verebileceği sadaka; ve sorumluluğunuz altındaki kişilerden başlayın, diye cevap verdi."
+    },
+    {
+      "id": 123,
+      "narrator": "Narrated Umar ibn al-Khattab:",
+      "text": "Umar ibn al-Khattab'dan rivayet edilmiştir: Allah'ın Elçisi (ﷺ) bir gün bize sadaka vermemizi emretti. O zaman bende bir miktar mal vardı. Dedim ki: Bugün eğer bir gün Abu Bekir'i geçeceksem, onu geçeceğim. Bu nedenle, malımın yarısını getirdim. Allah'ın Elçisi (ﷺ) sordu: Ailene ne bıraktın? Ben de: Aynı miktarı bıraktım, dedim. Abu Bekir, yanında ne varsa hepsini getirdi. Allah'ın Elçisi (ﷺ) ona sordu: Ailene ne bıraktın? O da: Onlar için Allah'ı ve Elçisini bıraktım, dedi. Ben de: Ben asla seninle bir şeyde rekabet etmeyeceğim."
+    },
+    {
+      "id": 124,
+      "narrator": "",
+      "text": "Sa'id, Sa'd'ın Peygamber (SWAS)'e gelerek: Hangi sadakayı en çok seversin? diye sordu. O da: Su, diye cevap verdi."
+    },
+    {
+      "id": 125,
+      "narrator": "",
+      "text": "Yukarıda bahsedilen hadis, Sa'd bin Ubadeh tarafından Peygamber (ﷺ)'den aynı şekilde rivayet edilmiştir."
+    },
+    {
+      "id": 126,
+      "narrator": "Narrated Sa'd ibn Ubadah:",
+      "text": "Sa'd ibn Ubadeh'dan rivayet edilmiştir: Sa'd sordu: Allah'ın Elçisi, Umm Sa'd vefat etti; hangi tür sadaka en iyisidir? O da: Su (en iyisidir), diye cevap verdi. Bir kuyu kazdı ve: Bu, Umm Sa'd içindir, dedi."
+    },
+    {
+      "id": 127,
+      "narrator": "Narrated Abu Sa'id (al-Khudri):",
+      "text": "Abu Sa'id (el-Hudri)'den rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: Eğer bir Müslüman, bir Müslümanı çıplakken giydirirse, Allah onu cennette yeşil elbiselerle giydirir; eğer bir Müslüman, bir Müslümanı açken beslerse, Allah onu cennetin meyvelerinden yedirir; ve eğer bir Müslüman, bir Müslümanı susuzken içirirse, Allah ona içmesi için mühürlenmiş saf şarap verir."
+    },
+    {
+      "id": 128,
+      "narrator": "Narrated Abdullah ibn Amr ibn al-'As:",
+      "text": "Abdullah ibn Amr ibn al-'As'tan rivayet edilmiştir: Peygamber (ﷺ) şöyle buyurdu: Kırk özelliği vardır; bunların en yükseği, bir keçiyi (sütünden faydalanmak için) ödünç vermektir. Eğer bir adam, bu özelliklerden herhangi birini, bir ödül umuduyla ve bunun vaadini tasdik ederek yerine getirirse, Allah onu bununla cennete alacaktır."
+    },
+    {
+      "id": 129,
+      "narrator": "",
+      "text": "Abu Davud dedi ki: Musaddad'ın rivayetinde, Hasan şöyle dedi: Biz, keçi ödünç vermenin dışında başka özellikler saydık: selamı iade etmek, hapşırana cevap vermek ve insanların yolundan rahatsız edici şeyleri kaldırmak gibi benzeri diğer şeyler. On beş özelliğe ulaşamadık."
+    },
+    {
+      "id": 130,
+      "narrator": "",
+      "text": "Abu Musa, Allah'ın Elçisi (ﷺ)'nin şöyle buyurduğunu rivayet etti: İyi niyetle emredildiği gibi tam ve eksiksiz veren ve kendisine verileceği söylenen kişiye teslim eden güvenilir emanetçi, sadaka veren iki kişiden biridir."
+    },
+    {
+      "id": 131,
+      "narrator": "",
+      "text": "A'işe, Allah'ın Elçisi (ﷺ)'nin şöyle buyurduğunu rivayet etti: Bir kadın, kocasının evinden (bir şey) verirse, onu israf etmeden, harcadığı şey için ödül alır ve kocası da kazandığı şey için ödül alır. Bu, bir emanetçi için de geçerlidir. Hiçbir şekilde biri diğerinin ödülünü azaltmaz."
+    },
+    {
+      "id": 132,
+      "narrator": "",
+      "text": "Sa'd dedi ki: Allah'ın Elçisi (SWAS) bir kadından, yüksek bir rütbeye sahip olan ve Mudar kadınlarından biri olduğu anlaşılan bir kadından biat aldı. Kadın ayağa kalkarak: Allah'ın Elçisi (SWAS), biz ebeveynlerimize, oğullarımıza bağımlıyız. (Abu Davud dedi ki: Bu versiyonda \"ve kocalarımıza\" ifadesinin olduğunu düşünüyorum.) Peki, onların malından hangi kısmı helal olarak harcayabiliriz? O da: Yediğiniz ve hediye olarak verdiğiniz taze yiyecek, dedi."
+    },
+    {
+      "id": 133,
+      "narrator": "",
+      "text": "Abu Davud dedi ki: Arapça \"ratb\" kelimesi ekmek, sebzeler ve taze hurmalar anlamına gelir."
+    },
+    {
+      "id": 134,
+      "narrator": "",
+      "text": "Abu Davud dedi ki: Al-Thawri, Yunus'tan benzeri bir şekilde rivayet etmiştir."
+    },
+    {
+      "id": 135,
+      "narrator": "Maimunah, wife of the Probhet (ﷺ) said :",
+      "text": "Abu Hurayra, Allah'ın Elçisi (ﷺ)'nin şöyle buyurduğunu rivayet etti: Bir kadın, kocasının kazandığı bir şeyi, onun emri olmadan verirse, onun ödülünün yarısını alır."
+    },
+    {
+      "id": 136,
+      "narrator": "Narrated Abu Hurayrah:",
+      "text": "Abu Hurayra'dan rivayet edilmiştir: Peygamber (ﷺ) sadaka vermeyi emretmiştir. Bir adam dedi ki: Allah'ın Resulü, benim bir dinarım var. O da dedi ki: Onu kendine harca. Adam tekrar dedi: Başka bir dinarım var. O da dedi ki: Onu çocuklarına harca. Adam yine dedi: Başka bir dinarım var. O da dedi ki: Onu eşine harca. Adam tekrar dedi: Başka bir dinarım var. O da dedi ki: Onu hizmetçine harca. Sonunda adam dedi ki: Başka bir dinarım daha var. O da cevap verdi: Onunla ne yapacağını en iyi sen bilirsin."
+    },
+    {
+      "id": 137,
+      "narrator": "`Abd Allah bin ‘Amr reported the Messenger of Allah (ﷺ) as saying :",
+      "text": "Abdullah bin Amr, Allah'ın Resulü (ﷺ) şöyle buyurduğunu bildirmiştir: Bir adam için, geçimini sağladığı kişiyi ihmal etmesi yeterli bir günahdır."
+    },
+    {
+      "id": 138,
+      "narrator": "Anas reported the Messenger of Allah (ﷺ) as saying :",
+      "text": "Enes, Allah'ın Resulü (ﷺ) şöyle buyurduğunu bildirmiştir: Rızkının genişlemesini ve ömrünün uzamasını isteyen kimse, akrabalarına iyilik yapsın."
+    },
+    {
+      "id": 139,
+      "narrator": "Narrated AbdurRahman ibn Awf:",
+      "text": "Abdurrahman ibn Avf'tan rivayet edilmiştir: Allah'ın Resulü (ﷺ) şöyle dedi: Yüce Allah buyurdu: Ben merhametliyim ve bu merhametten türetilmiştir. Ben ismini kendi ismimden aldım. Kim ona bağlanırsa, ben de ona bağlanırım; kim onu koparırsa, ben de onu koparırım."
+    },
+    {
+      "id": 140,
+      "narrator": "",
+      "text": "Yukarıda bahsedilen hadis, Abdurrahman bin Avf'tan, Allah'ın Resulü (SWAS) aracılığıyla farklı bir isnatla aynı anlamda rivayet edilmiştir."
+    },
+    {
+      "id": 141,
+      "narrator": "Jubair bin Mut’im reported on the authority of his father:",
+      "text": "Jubair bin Mut'im, babasından rivayet etmiştir: Peygamber (ﷺ) şöyle dedi: En yakın akrabalarından ilişkiyi kesen cennete giremeyecektir."
+    },
+    {
+      "id": 142,
+      "narrator": "Abd Allah bin `Amr said :",
+      "text": "Abdullah bin Amr dedi ki: (Süfyan dedi ki: Rivayet eden Sulaiman'ın versiyonu Peygamber'e (SAWS) ulaşmamaktadır. Fitr ve el-Hasan ondan rivayet etmiştir): Allah'ın Resulü (SAWS) şöyle dedi: İlişkiyi onaran kişi, ilişkiyi birleştiren kişi değildir; ancak ilişki kesildiğinde onu birleştiren kişi, ilişkiyi birleştiren kişidir."
+    },
+    {
+      "id": 143,
+      "narrator": "Narrated Abdullah ibn Amr ibn al-'As:",
+      "text": "Abdullah bin Amr bin el-As'tan rivayet edilmiştir: Allah'ın Resulü (ﷺ) vaaz etti ve şöyle dedi: Cimrilikten sakının, çünkü sizden önceki insanlar cimrilikten dolayı helak oldular. Cimrilik onlara, eli sıkı olmalarını emretti; en yakın akrabalarıyla ilişkilerini kesmelerini emretti, böylece kestiler. Onlara savurganlık göstermelerini emretti, böylece gösterdiler."
+    },
+    {
+      "id": 144,
+      "narrator": "Asma, daughter of Abu Bakr, said :",
+      "text": "Asma, Ebu Bekir'in kızı, dedi ki: Ben dedim: Allah'ın Resulü (SAWS), benim kendi başıma sahip olduğum hiçbir şey yok, sadece Zübeyr (kocası) evinde bana getirdiği şeyler var: bunlardan harcamalı mıyım? O da dedi ki: Ver ve biriktirme ki, rızkın biriktirilmesin."
+    },
+    {
+      "id": 145,
+      "narrator": "Abu Mulaykah reported:",
+      "text": "Ebu Müleyke'nın bildirdiğine göre: Aişe, bir grup muhtaç saydı. Ebu Davud dedi ki: Diğer versiyonda: Bir grup sadaka saydı. Allah'ın Resulü (ﷺ) dedi ki: Verin ve hesap yapmayın, yoksa hesap size yapılır."
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 27,
+    "arabic": {
+      "title": "سنن النسائي",
+      "author": "الإمام أحمد بن شعيب النسائي"
+    },
+    "english": {
+      "title": "Sunan an-Nasai",
+      "author": "Imam Ahmad ibn Shuayb an-Nasai"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "It was narrated that Tha'labah bin Zahdam said:",
+      "text": "Tha'labah bin Zahdam'dan rivayet edilmiştir: \"Biz Tabaristan'da Sa'eed bin Al-'Asi ileydik ve Hudhaifah bin Al-Yaman da bizimleydi. O dedi ki: 'Sizden hangisi Allah'ın Resulü (ﷺ) ile birlikte korku namazı kıldı?' Hudhaifah: 'Ben kıldım' dedi ve bunu tarif etti. Dedi ki: 'Allah'ın Resulü (ﷺ) korku namazını kıldırdı, bir grup arkasında saf tutarak bir rekât kıldı, diğer grup ise onunla düşman arasında yer aldı. Böylece o, kendisine yakın olan grubu bir rekât kıldırdı, sonra onlar yerlerini değiştirdi ve diğer grup geldi, o da onlara bir rekât kıldırdı.'\""
+    },
+    {
+      "id": 2,
+      "narrator": "It was narrated that Tha'labah bin Zahdam said:",
+      "text": "Tha'labah bin Zahdam'dan rivayet edilmiştir: \"Biz Tabaristan'da Sa'eed bin Al-'Asi ileydik ve Hudhaifah bin Al-Yaman da bizimleydi. O dedi ki: 'Sizden hangisi Allah'ın Resulü (ﷺ) ile birlikte korku namazı kıldı?' Hudhaifah: 'Ben kıldım.' Bunun üzerine Hudhaifah ayağa kalktı ve insanlar arkasında iki saf oluşturdu, bir saf arkasında ve bir saf düşmana karşı. O, arkasındaki grubu bir rekât kıldırdı, sonra onlar yerlerini değiştirdi ve diğer grup geldi, o da onlara bir rekât kıldırdı ve onlar bunu telafi etmediler.\""
+    },
+    {
+      "id": 3,
+      "narrator": "Narrated from Zaid bin Thabit:",
+      "text": "Zaid bin Thabit'ten rivayet edilmiştir: Hudhaifah'ın namazı gibi bir namaz, Peygamber (ﷺ) tarafından Zaid bin Thabit'ten rivayet edilmiştir."
+    },
+    {
+      "id": 4,
+      "narrator": "It was narrated that Ibn Abbas said:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: \"Allah (SWT) namazı, Peygamberinizin (ﷺ) lisanıyla farz kıldı: ikamet halindeyken dört (rek'at), yolculukta iki rek'at ve korku anında bir rek'at.\""
+    },
+    {
+      "id": 5,
+      "narrator": "It was narrated from Ibn 'Abbas that:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: \"Allah'ın Resulü (ﷺ) Dhi Qarad'da namaz kıldı ve insanlar arkasında iki saf oluşturdu, bir saf arkasında ve bir saf düşmana karşı. O, arkasındaki grubu bir rekât kıldırdı, sonra onlar yerlerini değiştirdi ve diğer grup geldi, o da onlara bir rekât kıldırdı ve onlar bunu telafi etmediler.\""
+    },
+    {
+      "id": 6,
+      "narrator": "It was narrated from 'Ubaidullah bin Abdullah bin Utbah that:",
+      "text": "'Ubaidullah bin Abdullah bin Utbah'tan rivayet edilmiştir: 'Abdullah bin 'Abbas dedi ki: \"Allah'ın Resulü (ﷺ) ayağa kalktı ve insanlar da onunla birlikte ayağa kalktı, takbir getirdi ve onlar da takbir getirdi. Sonra rükûya gitti, bazıları da onunla birlikte rükû yaptı, sonra secde etti ve onlar da secde etti, sonra ikinci rek'at için ayağa kalktı ve onunla birlikte secde edenler geri çekildi ve kardeşlerini korudular, diğer grup geldi ve Peygamber (ﷺ) ile birlikte rükû yapıp secde ettiler. Tüm insanlar namaz kılıyor ve takbir getiriyordu, ama birbirlerini koruyorlardı.\""
+    },
+    {
+      "id": 7,
+      "narrator": "It was narrated that Ibn 'Abbas said:",
+      "text": "İbn Abbas'tan rivayet edilmiştir: \"Korku namazı, sizin bugün imamlarınızın arkasında bulunan bu muhafızların namazı gibi iki secdeden fazlası değildi, tek farkı bir grup diğerinin ardından gelmesiydi. Bir grup ayakta durdu, hepsi Allah'ın Resulü (ﷺ) arkasında olmasına rağmen, bir grup onunla birlikte secde etti, sonra Allah'ın Resulü (ﷺ) ayağa kalktı ve hepsi onunla birlikte ayağa kalktı. Sonra rükû yaptı ve hepsi onunla birlikte rükû yaptı, sonra secde etti ve ilk defa ayakta duranlar onunla birlikte secde etti. Allah'ın Resulü (ﷺ) ve onunla birlikte secde edenler namazlarının sonunda oturduğunda, ayakta duranlar kendi başlarına secde etti, sonra oturdular ve Allah'ın Resulü (ﷺ) onlarla birlikte selam verdi.\""
+    },
+    {
+      "id": 8,
+      "narrator": "It was narrated from Salih bin Khawwat, from Sahl bin Abi Hathmah that:",
+      "text": "Salih bin Khawwat'tan, Sahl bin Abi Hathmah'dan rivayet edilmiştir: \"Allah'ın Resulü (ﷺ) onlara korku namazını kıldırdı. Bazıları arkasında bir saf oluşturdu, bazıları düşmana karşı bir saf oluşturdu. O, onlara bir rek'at kıldırdı, sonra yer değiştirdiler ve diğer grup geldi, o da onlara bir rek'at kıldırdı, sonra ayağa kalktılar ve her grup diğer rek'atı telafi etti.\""
+    },
+    {
+      "id": 9,
+      "narrator": "It was narrated from Salih bin Khawwat from one who had prayed the fear prayer with the Messenger of Allah (ﷺ) on the day of Dhat Ar-Riqa' that:",
+      "text": "Salih bin Khawwat'tan, Allah'ın Resulü (ﷺ) ile Dhat Ar-Riqa' gününde korku namazı kılan birinden rivayet edilmiştir: \"Bir grup arkasında bir saf oluşturdu ve diğer grup düşmana karşı durdu. O, kendisiyle birlikte olanları bir rek'at kıldırdı, sonra ayakta kaldı ve namazı kendileri tamamladılar. Sonra yer değiştirdiler ve düşmana karşı bir saf oluşturdular, diğer grup geldi ve ona kalan rek'atı kıldırdı, sonra oturdu ve onlar namazı kendileri tamamladılar, sonra onlarla birlikte selam verdi.\""
+    },
+    {
+      "id": 10,
+      "narrator": "It was narrated from Salim from his father, that:",
+      "text": "Salim'den, babasından rivayet edilmiştir: \"Allah'ın Resulü (ﷺ) iki gruptan birini bir rek'at kıldırdı, diğer grup düşmana karşı duruyordu, sonra yer değiştirdiler ve diğer grup geldi, o da onlara diğer rek'atı kıldırdı, sonra selam verdi ve onlar ayağa kalkıp diğer rek'atı telafi ettiler, diğerleri de ayağa kalkıp diğer rek'atı telafi ettiler.\""
+    },
+    {
+      "id": 11,
+      "narrator": "Salim bin 'Abdullah narrated that his father said:",
+      "text": "Salim bin Abdullah, babasından rivayet etti: \"Ben, Allah'ın Resulü (ﷺ) ile birlikte Najd'e bir sefer çıktım. Düşmanla karşılaştık ve onlara karşı saflar oluşturduk. Allah'ın Resulü (ﷺ) ayağa kalktı ve bize namaz kıldırdı. Bazılarımız onunla birlikte ayakta durdu ve bazıları düşmana karşı durdu. Allah'ın Resulü (ﷺ) rükû yaptı ve onunla birlikte olanlar rükû yaptı, iki secde etti. Sonra yer değiştirdiler ve diğer grubun yerini aldılar, namaz kılmayan diğer grup geldi ve ona bir kez rükû yapıp iki secde etti. Sonra Allah'ın Resulü (ﷺ) selam verdi ve her Müslüman bir kez rükû yapıp iki secde yaptı.\""
+    },
+    {
+      "id": 12,
+      "narrator": "It was narrated that Az-Zuhri said:",
+      "text": "Az-Zuhri'den rivayet edilmiştir: \"Abdullah bin 'Umar, Allah'ın Resulü (ﷺ) ile korku namazı kıldığını rivayet ederdi. Dedi ki: 'Peygamber (ﷺ) takbir getirdi ve bizden bir grup arkasında bir saf oluşturdu, diğer grup düşmana karşı durdu. Peygamber (ﷺ) onlara bir kez rükû yapıp iki secde ettirdi, sonra yer değiştirdiler ve düşmana karşı durdular, diğer grup geldi ve Peygamber (ﷺ) ile birlikte aynı şekilde namaz kıldılar. Sonra selam verdi, ardından her iki gruptan her adam kendi başına ayakta durup bir kez rükû yapıp iki secde etti.'\""
+    },
+    {
+      "id": 13,
+      "narrator": "It was narrated that 'Abdullah bin Umar said:",
+      "text": "'Abdullah bin 'Umar'dan rivayet edilmiştir: \"Allah'ın Resulü (ﷺ) korku namazı kıldı. Ayağa kalktı ve takbir getirdi, arkamızda bir grup onun arkasında namaz kıldı, diğer grup düşmana karşı duruyordu. Allah'ın Resulü (ﷺ) bir kez rükû yaptı ve onlarla birlikte iki secde etti, sonra yer değiştirdiler ama selam vermediler. Düşmana karşı durmak için yerlerine gittiler, diğer grup geldi ve Allah'ın Resulü (ﷺ) arkasında bir saf oluşturdu, o da onlara namaz kıldırdı, bir kez rükû yapıp iki secde etti. Sonra Allah'ın Resulü (ﷺ) selam verdi ve iki kez rükû yapmış ve dört kez secde etmiş oldu. Sonra iki grup ayağa kalktı ve her adam kendi başına bir kez rükû yapıp iki secde etti.\" Ebu Bekir İbn As-Sunni dedi ki: \"Az-Zuhri, İbn 'Umar'dan iki hadis duydu, bu hadisi ondan duymadı.\""
+    },
+    {
+      "id": 14,
+      "narrator": "It was narrated that Ibn 'Umar said:",
+      "text": "İbn 'Umar'dan rivayet edilmiştir: \"Allah'ın Resulü (ﷺ) bir savaş sırasında korku namazı kıldı. Bir grup onunla birlikte durdu, diğer grup düşmana karşı durdu. O, kendisiyle birlikte olanlara bir rek'at kıldırdı, sonra yer değiştirdiler ve diğer grup geldi, o da onlara bir rek'at kıldırdı. Sonra her grup bir rek'at telafi etti.\""
+    },
+    {
+      "id": 15,
+      "narrator": "It was narrated from Marwan bin Al-Hakam that:",
+      "text": "Marwan bin Al-Hakam'dan rivayet edilmiştir: \"O, Ebu Hurayra'ya sordu: 'Allah'ın Resulü (ﷺ) ile korku namazı kıldın mı?' Ebu Hurayra: 'Evet.' dedi. O sordu: 'Ne zaman?' O: 'Najd seferinde. Allah'ın Resulü (ﷺ) 'Asr namazı kılmak için ayağa kalktı ve bir grup onunla birlikte durdu, diğer grup düşmana karşı duruyordu, kıblaya sırtlarını dönerek. Allah'ın Resulü (ﷺ) takbir getirdi ve hepsi takbir getirdi, onunla birlikte olanlar ve düşmana karşı duranlar. Sonra Allah'ın Resulü (ﷺ) bir kez rükû yaptı ve onunla birlikte olan grup rükû yaptı, sonra o ve onunla birlikte olan grup iki secde etti, diğerleri düşmana karşı duruyordu. Sonra Allah'ın Resulü (ﷺ) ayağa kalktı ve onunla birlikte olan grup da ayağa kalktı ve düşmana karşı durmaya gitti, düşmana karşı duran grup geldi ve rükû yapıp secde etti, Allah'ın Resulü (ﷺ) orada duruyordu. Sonra ayağa kalktılar ve Allah'ın Resulü (ﷺ) tekrar rükû yaptı, onlar da onunla birlikte rükû yapıp secde ettiler. Sonra düşmana karşı duran grup geldi ve rükû yapıp secde etti, Allah'ın Resulü (ﷺ) ve onunla birlikte olanlar oturuyordu. Sonra Allah'ın Resulü (ﷺ) selam verdi ve hepsi selam verdi. Böylece Allah'ın Resulü (ﷺ) iki rek'at kıldı ve her iki grup da iki rek'at kılmış oldu.\""
+    },
+    {
+      "id": 16,
+      "narrator": "Abu Hurairah said:",
+      "text": "Ebu Hureyre dedi ki: \"Allah'ın Elçisi (ﷺ) Dajnan ile 'Usfan arasında kamp kurmuş, putperestleri kuşatmıştı. Putperestler dediler ki: 'Bu insanların, çocuklarından daha değerli bir duaları var. O halde plan yapın, onlara tek bir ağır darbe indirin.' Cebrail (a.s) geldi ve Allah'ın Elçisi'ne (ﷺ) arkadaşlarını iki gruba ayırmasını, bir grubu dua ettirirken diğerlerinin düşmana karşı silahlarıyla hazır beklemesini söyledi. Böylece onlara bir rekat namaz kıldırdı, sonra geri çekildiler ve diğerleri öne geçti, onlara da bir rekat namaz kıldırdı, böylece her biri Peygamber (ﷺ) ile bir rekat kılmış oldu ve Peygamber (ﷺ) iki rekat kılmış oldu.\""
+    },
+    {
+      "id": 17,
+      "narrator": "It was narrated from Jabir bin 'Abdullah that:",
+      "text": "Ebu Cafer'den rivayet edildi ki: \"Allah'ın Elçisi (ﷺ) onlara korku namazı kıldırdı. Bir sıra önünde, diğer bir sıra arkasında duruyordu. Arkasındaki grubu bir rekat kıldırdı, bir kez rükû yaptı ve iki kez secde etti, sonra öne geçtiler ve arkadaşlarının yerini aldılar, diğerleri geldi ve onların yerini aldılar, Allah'ın Elçisi (ﷺ) onlara da bir rekat kıldırdı, bir kez rükû yaptı ve iki kez secde etti, sonra selam verdi, böylece Peygamber (ﷺ) iki rekat kılmış oldu ve onlar bir rekat kılmış oldular.\""
+    },
+    {
+      "id": 18,
+      "narrator": "Jabir bin Abdullah said:",
+      "text": "Cabir bin Abdullah dedi ki: \"Biz Allah'ın Elçisi (ﷺ) ileydik ve namaz için ikamet getirildi. Allah'ın Elçisi (ﷺ) ayağa kalktı ve bir grup arkasında durdu, diğer bir grup düşmana karşı durdu. Arkasında olan grubu bir rekat kıldırdı, bir kez rükû yaptı ve iki kez secde etti. Sonra öne geçip düşmana bakanların yerini aldılar, o grup geldi ve Allah'ın Elçisi (ﷺ) onlara da bir rekat kıldırdı, bir kez rükû yaptı ve iki kez secde etti. Sonra Allah'ın Elçisi (ﷺ) selam verdi ve arkasında olanlar selam verdi, diğer grup da öyle yaptı.\""
+    },
+    {
+      "id": 19,
+      "narrator": "It was narrated that Jabir said:",
+      "text": "Cabir dedi ki: \"Biz Allah'ın Elçisi (ﷺ) ile korku namazını kıldık. İki sıra arkasında durduk ve düşman bizimle kıble arasında bulunuyordu. Allah'ın Elçisi (ﷺ) tekbir getirdi. Rükû yaptık ve o rükû yaptı, tekrar ayağa kalktık ve o da ayağa kalktı. Secdeye gittiğinde, Allah'ın Elçisi (ﷺ) ve en yakınındakiler secde ettiler, ikinci sıra ayakta kaldı, ta ki Allah'ın Elçisi (ﷺ) ve en yakınındaki ayakta kalkana kadar. Sonra ikinci sıra, Allah'ın Elçisi (ﷺ) ayağa kalkınca secde etti, bulundukları yerde. Sonra Peygamber (ﷺ) en yakınındaki sırayı geri çekti ve ikinci sıra öne geçti, her biri diğerinin bulunduğu yerde durdu. Peygamber (ﷺ) rükû yaptı ve biz de rükû yaptık, sonra ayağa kalktı ve biz de ayağa kalktık, ve secdeye gittiğinde, en yakınındakiler secde ettiler ve diğerleri ayakta kaldı. Allah'ın Elçisi (ﷺ) ve en yakınındaki oturduğunda, diğerleri secde etti, sonra selam verdi.\""
+    },
+    {
+      "id": 20,
+      "narrator": "It was narrated that Jabir said:",
+      "text": "Cabir dedi ki: \"Biz Peygamber (ﷺ) ile bir hurma bahçesinde idik ve düşman bizimle kıble arasında bulunuyordu. Allah'ın Elçisi (ﷺ) tekbir getirdi ve hepimiz tekbir getirdik. Sonra rükû yaptı ve hepimiz rükû yaptık. Sonra Peygamber (ﷺ) ve en yakınındaki secde ettiler, diğerleri ayakta kaldı, bizi koruyarak. Biz ayağa kalktığımızda, diğerleri bulundukları yerde secde ettiler, sonra öne geçtiler ve o rükû yaptı ve hepimiz rükû yaptık, sonra ayağa kalktı ve hepimiz ayağa kalktık. Sonra Peygamber (ﷺ) ve en yakınındaki secde ettiler, diğerleri ayakta kaldı, onları koruyarak. Secde ettiklerinde ve oturduklarında, diğerleri bulundukları yerde secde ettiler, sonra selam verdi.\" Cabir dedi ki: \"Sizlerin liderleri gibi.\""
+    },
+    {
+      "id": 21,
+      "narrator": "Shu'bah narrated from Mansur who said:",
+      "text": "Şu'be, Mansur'dan rivayet etti ki: \"Mücahed'in Ebu Ayyash El-Zuraqi'den rivayet ettiğini duydum\" - Şu'be dedi ki: \"Bunu benim için yazmıştı, ben de onun önünde okudum ve onu anlatırken dinledim; hatta ezberledim.\" İbn Beşşar dedi ki: \"Ben de kitabından ezberledim\" - \"Peygamber (ﷺ) düşmana karşı 'Usfan'da safları düzenliyordu, putperestler Halid bin Velid tarafından yönetiliyordu. Peygamber (ﷺ) onlara öğle namazı kıldırdı. Putperestler dediler ki: 'Onların, mallarından ve çocuklarından daha değerli bir namazı var.' Sonra Allah'ın Elçisi (ﷺ) onlara ikindi namazı kıldırdı. Onları iki sıraya ayırdı, arkasında. Hepsini rükû ettirdi, sonra başlarını kaldırdıklarında en yakınındaki sırayı secde ettirdi, diğerleri ayakta kaldı. Secdeden başlarını kaldırdıklarında, ikinci sıra secde etti, zira onlar zaten Allah'ın Elçisi (ﷺ) ile rükû yapmışlardı. Sonra ön sıra öne geçti, böylece her biri arkadaşının yerini aldı. Sonra Allah'ın Elçisi (ﷺ) hepsini rükû ettirdi, sonra rükûdan başlarını kaldırdıklarında, en yakınındaki sıra secde etti, diğerleri ayakta kaldı, sonra secde ettiklerinde, diğerleri secde etti, sonra Peygamber (ﷺ) hepsine birlikte selam verdi.\""
+    },
+    {
+      "id": 22,
+      "narrator": "It was narrated that Abu 'Ayyash Al-Zuraqi said:",
+      "text": "Ebu Ayyash El-Zuraqi dedi ki: \"Biz Allah'ın Elçisi (ﷺ) ile 'Usfan'da idik ve Allah'ın Elçisi (ﷺ) bize öğle namazı kıldırdı. O gün putperestler Halid bin Velid tarafından yönetiliyordu ve putperestler dediler ki: 'Onları hazırlıksız yakaladık.' Sonra korku namazı öğle ile ikindi arasında indirildi. Allah'ın Elçisi (ﷺ) bize ikindi namazı kıldırdı ve bizi iki gruba ayırdı, bir grup Peygamber (ﷺ) ile namaz kıldı, diğer grup onu korudu. En yakınındakilerle tekbir getirdi ve onları koruyanlarla birlikte rükû yaptı, sonra en yakınındakiler secde etti. Sonra geri çekildiler ve diğerleri öne geçti ve secde ettiler. Sonra ayağa kalktı ve hepsini rükû ettirdi, en yakınındakilerle ve onları koruyanlarla birlikte. Sonra en yakınındakilere secde ettirdi, sonra geri çekildiler ve arkadaşlarının yerini aldılar, diğerleri öne geçti ve secde ettiler. Sonra selam verdi, böylece her grup imamlarıyla iki rekat kılmış oldu. Ve o, Banu Sulaym topraklarında bir kez korku namazı kıldırdı.\""
+    },
+    {
+      "id": 23,
+      "narrator": "It was narrated from Abu Bakrah that:",
+      "text": "Ebu Bekir'den rivayet edildi ki: \"Allah'ın Elçisi (ﷺ) insanlara korku namazı kıldırdı, iki rekat. Sonra selam verdi ve diğerlerine korku namazı kıldırdı, sonra selam verdi. Böylece Peygamber (ﷺ) dört rekat kılmış oldu.\""
+    },
+    {
+      "id": 24,
+      "narrator": "It was narrated from Jabir bin 'Abdullah that:",
+      "text": "Cabir bin Abdullah'dan rivayet edildi ki: \"Peygamber (ﷺ) bir grup arkadaşına iki rekat namaz kıldırdı, sonra selam verdi, sonra diğerlerine iki rekat namaz kıldırdı, sonra selam verdi.\""
+    },
+    {
+      "id": 25,
+      "narrator": "It was narrated that Sahl bin Abi Hathmah said concerning the fear prayer:",
+      "text": "Sahl bin Ebi Hatma korku namazı hakkında şöyle dedi: \"İmam kıbleye karşı durmalı ve bazıları onunla birlikte durmalı, diğerleri düşmana karşı durmalıdır. Sonra onlarla bir rekat kılmalı ve diğer rekatı kendileri kılmalı, bulundukları yerde iki kez secde etmelidirler. Sonra diğerlerinin yanına gitmeli ve diğerleri gelmeli, bir kez rükû ve iki kez secde ettirmelidir, böylece onun için iki rekat, onlar için bir rekat olur. Sonra bir kez rükû yapmalı ve iki kez secde etmelidirler (kendileri, diğer rekatı tamamlamak için).\""
+    },
+    {
+      "id": 26,
+      "narrator": "Jabir bin 'Abdullah narrated that :",
+      "text": "Cabir bin Abdullah rivayet etti ki: \"Allah'ın Elçisi (ﷺ) arkadaşlarına korku namazı kıldırdı. Bir grup onunla birlikte namaz kıldı, diğer grup düşmana karşı duruyordu. İki rekat kıldırdı, sonra geri çekilip diğerlerinin yerini aldılar, diğerleri geldi ve onlara iki rekat kıldırdı, sonra selam verdi.\""
+    },
+    {
+      "id": 27,
+      "narrator": "It was narrated from Abu Bakrah that:",
+      "text": "Ebu Bekir'den rivayet edildi ki: \"Peygamber (ﷺ) arkasındakilerle birlikte korku namazı kıldı, onlarla iki rekat ve ardından gelenlerle iki rekat kıldı, böylece Peygamber (ﷺ) dört rekat kıldı ve diğerleri her biri iki rekat kıldı.\""
+    }
+  ]
+}

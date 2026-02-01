@@ -1,0 +1,26 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 2,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Muhammad ibn Sirin said:",
+      "text": "Muhammed ibn Sirin dedi ki: Biz Ebu Hureyre'nin huzurundaydık ve o, kırmızı toprakla boyanmış iki keten elbise giymekteydi. Birinde burnunu silip, sonra dedi ki: “Bravo! Bravo! Ebu Hureyre keten elbisesinde burnunu siliyor! Geçmişte kendimi (şöyle) bulmuştum: Allah’ın Resulü’nün (Allah ona salat ve selam eylesin) minberi ile Aişe’nin (Allah ondan razı olsun) odası arasında baygın düşer, gelen biri ayağını boynuma basardı, benim deli olduğumu sanarak, halbuki ben deli değildim, sadece açlıktan bayılmıştım.”"
+    },
+    {
+      "id": 2,
+      "narrator": "Malik ibn Dinar said:",
+      "text": "Malik ibn Dinar dedi ki: \"Allah’ın Resulü (Allah ona salat ve selam eylesin) hiç bir zaman ekmekten, ne de ettan doydu, ancak birçok misafirle birlikte bir yemekte.\""
+    }
+  ]
+}

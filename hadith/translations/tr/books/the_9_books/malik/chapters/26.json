@@ -1,0 +1,51 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 7,
+    "arabic": {
+      "title": "موطأ مالك",
+      "author": "الإمام مالك بن أنس"
+    },
+    "english": {
+      "title": "Muwatta Malik",
+      "author": "Imam Malik ibn Anas"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "",
+      "text": "Yahya, Zayd ibn Aslam'dan, Banu Damra'dan bir adamın babasından şöyle rivayet etti: \"Allah'ın Resulü, ona salat ve selam olsun, Aqiqa hakkında soruldu. O, 'İsyanı (uquq) sevmiyorum' dedi, sanki isyan kelimesini hoş karşılamıyormuş gibi. 'Eğer birinin bir çocuğu doğarsa ve çocuğu için kurban kesmek isterse, o zaman yapsın' dedi.\""
+    },
+    {
+      "id": 2,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Cafar ibn Muhammad'dan, onun babasından şöyle rivayet etti: \"Fatıma, Allah'ın Resulü'nün kızı, ona salat ve selam olsun, Hasan, Hüseyin, Zeynep ve Ümmü Külsüm'ün saçlarını tarttı ve bunun eşdeğer ağırlığında gümüşü sadaka olarak verdi.\""
+    },
+    {
+      "id": 3,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Rabia ibn Abi Abd ar-Rahman'dan, Muhammad ibn Ali ibn al-Hüseyin'in şöyle dediğini rivayet etti: \"Fatıma, Allah'ın Resulü'nün kızı, ona salat ve selam olsun, Hasan ve Hüseyin'in saçlarını tarttı ve bunun eşdeğer ağırlığında gümüşü sadaka olarak verdi.\""
+    },
+    {
+      "id": 4,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Nafi'den şöyle rivayet etti: \"Eğer Abdullah ibn Umar'ın ailesinden biri kendisinden aqiqa isterse, onlara verir. O, hem erkek hem de dişi çocukları için bir koyun aqiqa olarak keserdi.\""
+    },
+    {
+      "id": 5,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Rabia ibn Abi Abd ar-Rahman'dan, Muhammad ibn İbrahim ibn al-Harith at-Taymi'nin şöyle dediğini rivayet etti: \"Babamın aqiqa'nın arzu edilen bir şey olduğunu, hatta sadece bir serçe olsa bile, söylediğini duydum.\""
+    },
+    {
+      "id": 6,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Hasan ve Hüseyin için bir aqiqa yapıldığını duyduğunu rivayet etti; bunlar Ali ibn Abi Talib'in oğullarıdır."
+    },
+    {
+      "id": 7,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Hişam ibn Urwa'dan, onun babası Urwa ibn az-Zubayr'ın erkek ve dişi çocukları için her biri bir koyun aqiqa yaptığını rivayet etti. Malik dedi ki: \"Aqiqa ile ilgili olarak yaptığımız şey, eğer biri çocukları için aqiqa yaparsa, hem erkek hem de dişi için bir koyun vermesidir. Aqiqa zorunlu değildir ama yapılması arzu edilir ve insanlar bu konuda bize gelmeye devam ediyor. Eğer biri çocukları için aqiqa yaparsa, tüm kurbanlık hayvanlar için geçerli olan aynı kurallar geçerlidir - tek gözlü, zayıf, yaralı veya hasta hayvanlar kullanılmamalıdır ve et veya deri satılmamalıdır. Kemikler kırılır ve aile etten yer ve bir kısmını sadaka olarak verir. Çocuğa kan sürülmez.\""
+    }
+  ]
+}

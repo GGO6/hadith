@@ -1,0 +1,776 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 152,
+    "arabic": {
+      "title": "مسند أحمد",
+      "author": "الإمام أحمد بن حنبل"
+    },
+    "english": {
+      "title": "Musnad Ahmad",
+      "author": "Imam Ahmad ibn Hanbal"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "It was narrated that Yazeed said:",
+      "text": "Yazeed'den rivayet edildi: İbn Abbas (رضي الله عنه) bize şöyle dedi: 'Uthman bin `Affan'a dedim: Al-Anfal'ı, al-Mathani'den (yedi uzun sure) ve Bara'ah'ı, al-Mi`een'den (yaklaşık yüz ayetli sureler) yan yana koyup, aralarına Bismillahir-Rahmanir-Raheem yazacak bir çizgi koymadın? Neden böyle yaptın? `Uthman (رضي الله عنه) dedi: Bazen Resulullah'a (ﷺ) birçok sure (tamamlanmamış) olarak indirilirdi ve bir şey indiğinde, yazıcılarından birini çağırır ve ona derdi ki: \"Bunu şu sureye koy.\" Ayetler kendisine indirilir ve derdi ki: \"Bu ayetleri şu sureye koy.\" Al-Anfal, Medine'de indirilen ilk surelerden biriydi ve Bara'ah, Kur'an'ın son surelerinden biriydi ve iki surenin hikayeleri ve içerikleri benzerdi. Sonra Resulullah (ﷺ) bize bunun bir parçası olduğunu açıkça belirtmeden vefat etti, ama biz bunun bir parça olduğunu düşündük, bu yüzden onları bir araya koydum ve aralarına Bismillahir-Rahmanir-Raheem çizgisini koymadım. İbn Ja`far dedi: Ben onu yedi uzun sure ile birlikte koydum."
+    },
+    {
+      "id": 2,
+      "narrator": "It was narrated from Hisham bin `Urwah:",
+      "text": "Hişam bin `Urwah'tan rivayet edildi: Babam, Humran'ın ona şöyle söylediğini aktardı: `Uthman (رضي الله عنه) al-Balat'ta (Medine'deki taş döşeli bir alan) abdest aldı, sonra dedi ki: Size Resulullah'tan (ﷺ) duyduğum bir hadis söyleyeceğim. Allah'ın Kitabında bir ayet olmasaydı, bunu size anlatmazdım. Peygamberin (ﷺ) şöyle dediğini duydum: \"Kim abdest alır ve bunu güzelce yaparsa, o kişi ile bir sonraki namaz arasındaki günahları affedilir, ta ki namaz kılana kadar.\""
+    },
+    {
+      "id": 3,
+      "narrator": "It was narrated from Aban bin `Uthman (رضي الله عنه) from his father that the Prophet  (ﷺ)  said:",
+      "text": "Aban bin `Uthman'dan (رضي الله عنه) rivayet edildi: Peygamber (ﷺ) şöyle dedi: \"İhramda olan hacı, evlenmemeli, evlilik düzenlememeli veya evlilik teklif etmemelidir.\""
+    },
+    {
+      "id": 4,
+      "narrator": "It was narrated that Ibn Harmalah said:",
+      "text": "İbn Harmalah'tan rivayet edildi: Sa`eed'i duydum. `Ali (رضي الله عنه) arkadaşlarına şöyle dedi: Yola çıktığında, sen de yola çık. Ve `Ali ile arkadaşları umre niyetiyle ihrama girdiler, `Uthman (رضي الله عنه) ona bu konuda bir şey söylemedi. `Ali (رضي الله عنه) ona dedi: \"Sana umreyi önce yaparak tamattu'u yasakladığını söylemediler mi?\" O da: \"Elbette.\" `Ali dedi: \"Resulullah (ﷺ) tamattu'u yapmadı mı?\" `Uthman dedi: \"Elbette.\""
+    },
+    {
+      "id": 5,
+      "narrator": "",
+      "text": "`Uthman'dan rivayet edildi ki, Resulullah (ﷺ) her vücut parçasını üç kez yıkarak abdest aldı."
+    },
+    {
+      "id": 6,
+      "narrator": "It was narrated from Abu Anas  that `Uthman (رضي الله عنه) did wudoo` in al-Maqa`id, washing each part of the body three times. Some of the Companions of the Messenger of Allah (ﷺ) were with him. He said:",
+      "text": "Abu Anas'tan rivayet edildi ki, `Uthman (رضي الله عنه) al-Maqa`id'te abdest aldı, her vücut parçasını üç kez yıkadı. Resulullah'ın (ﷺ) bazı Sahabeleri onunla birlikteydi. Dedi ki: \"Resulullah'ın (ﷺ) böyle abdest aldığını görmediniz mi?\" Onlar da: \"Evet,\" dediler."
+    },
+    {
+      "id": 7,
+      "narrator": "It was narrated that `Uthman (رضي الله عنه) said:",
+      "text": "`Uthman (رضي الله عنه) dedi ki: Resulullah (ﷺ) şöyle dedi: \"Sizlerin en hayırlısı, Kur'an'ı öğrenen ve öğreten kişidir.\""
+    },
+    {
+      "id": 8,
+      "narrator": "It was narrated that `Uthman (رضي الله عنه) said:",
+      "text": "`Uthman (رضي الله عنه) dedi ki: Resulullah (ﷺ) şöyle dedi: \"Kim Allah'ın, yüce ve aziz olan, kendisine emrettiği gibi abdest alırsa, farz namazları arasında bir kefaret olur.\""
+    },
+    {
+      "id": 9,
+      "narrator": "Abu Sahlah narrated that `Uthman (رضي الله عنه) said, on the Day of the House when he was besieged. The Messenger of Allah (ﷺ) gave me advice and I promised to comply with it, so I shall bear it with patience. Qais said:",
+      "text": "Abu Sahlah rivayet etti ki, `Uthman (رضي الله عنه) kuşatma günü şöyle dedi: Resulullah (ﷺ) bana nasihat etti ve ben ona uymayı vaat ettim, bu yüzden sabırla taşıyacağım. Qais dedi: İnsanlar onun öldürüldüğü gün olduğunu düşündüler."
+    },
+    {
+      "id": 10,
+      "narrator": "It was narrated from `Uthman bin `Affan (رضي الله عنه) . `Abdur-Razzaq said:",
+      "text": "`Uthman bin `Affan'dan (رضي الله عنه) rivayet edildi. `Abdur-Razzaq, Peygamber (ﷺ) den şöyle dedi: \"Kim cemaatle `İsha` ve Fajr namazı kılarsa, sanki geceyi namazda geçirmiş gibi olur.\" `Abdur-Rahman dedi: \"Kim cemaatle `İsha` kılarsa, sanki gecenin yarısını namazda geçirmiş gibi olur, ve kim cemaatle Fajr kılarsa, sanki tüm geceyi namazda geçirmiş gibi olur.\""
+    },
+    {
+      "id": 11,
+      "narrator": "It was narrated from ‘Uthman bin `Affan (رضي الله عنه) that the Prophet        (ﷺ) said:",
+      "text": "`Uthman bin `Affan'dan (رضي الله عنه) rivayet edildi ki, Peygamber (ﷺ) şöyle dedi: \"Kim cemaatle `İsha` kılarsa, sanki gecenin yarısını namazda geçirmiş gibi olur, ve kim cemaatle Fajr kılarsa, sanki tüm geceyi namazda geçirmiş gibi olur.\""
+    },
+    {
+      "id": 12,
+      "narrator": "‘Ata` bin Farrookh, the freed slave of the Qurashis, narrated that `Uthman (رضي الله عنه) bought some land from a man and the man did not seek payment for it. Then he met him and he said to him:",
+      "text": "`Ata` bin Farrookh, Kureyşlerin azatlısı, rivayet etti ki, `Uthman (رضي الله عنه) bir adamdan arazi satın aldı ve adam bunun için ödeme talep etmedi. Sonra onu buldu ve ona dedi: \"Seni ne engelledi, gelip paranı almadın?\" O da: \"Bana haksızlık ettin; kimseyle karşılaşmadım ki beni kınamasın.\" `Uthman dedi: \"Bu mu sebep?\" O da: \"Evet.\" `Uthman dedi: \"O zaman arazin ile paran arasında seçim yap.\" Sonra `Uthman dedi: \"Resulullah (ﷺ) şöyle dedi: 'Allah, yüce ve aziz olan, alım satımda, borç ödemede ve kendisine olan borcu talep ederken kolaylık gösteren bir adamı cennete kabul etti.'\""
+    },
+    {
+      "id": 13,
+      "narrator": "It was narrated that ‘Alqamah said:",
+      "text": "`Alqamah'dan rivayet edildi: Ben, `Uthman (رضي الله عنه) ile birlikteyken İbn Mas`ood'un yanındaydım. `Uthman (رضي الله عنه) ona dedi: \"Kadınlara karşı hala bir arzu hissediyor musun?\" Kadınlar söz konusu olduğunda, İbn Mas`ood dedi: \"Yaklaş, `Alqamah. O zaman gençtim.\" `Uthman (رضي الله عنه) ona dedi: \"Resulullah (ﷺ) muhacirlerden bazı gençlere şöyle dedi: 'Aranızda evlenme imkanı olan varsa, evlensin; çünkü bu, bakışları daha iyi kontrol eder ve iffet korur. Bunu yapamayan için oruç bir kalkan olacaktır.'\""
+    },
+    {
+      "id": 14,
+      "narrator": "It was narrated from `Uthman bin `Affan (رضي الله عنه) that the Prophet        (ﷺ) said:",
+      "text": "`Uthman bin `Affan'dan (رضي الله عنه) rivayet edildi ki, Peygamber (ﷺ) şöyle dedi: \"Sizlerin en hayırlısı, Kur'an'ı öğreten veya öğrenen kişidir.\" Muhammad bin Ja`far ve Haccac dedi: \"Abu `AbdurRahman dedi ki: Bu yüzden bu yerde oturdum (yani, öğretmen oldum).\" Haccac dedi: \"Şu`bah dedi ki: Abu `Abdur-Rahman, `Uthman (رضي الله عنه) veya 'Abdullah'tan bunu duymadı, ama 'Ali (رضي الله عنه) den duydu.\" Babam dedi ve Bahz dedi: \"(Şu`bah'tan rivayet edildi) ki: `Alqamah bin Marthad bana söyledi. 'Sizlerin en hayırlısı, Kur'an'ı öğrenen ve öğreten kişidir.'\""
+    },
+    {
+      "id": 15,
+      "narrator": "It was narrated that `Amr bin Deenar said:",
+      "text": "`Amr bin Deenar'dan rivayet edildi: Bir adamın `Uthman bin `Affan'dan (رضي الله عنه) Peygamber (ﷺ) den şöyle dediğini duydum: \"Bir adam alım satımda, borçlarını ödemede ve kendisine olan borcu talep ederken kolaylık gösterirse, o cennete girecektir.\""
+    },
+    {
+      "id": 16,
+      "narrator": "It was narrated from Aban from `Uthman (رضي الله عنه) that he called for water and did wudoo`:",
+      "text": "Aban'dan, `Uthman (رضي الله عنه)'dan rivayet edilmiştir ki, su istemiş ve abdest almıştır: ağzını ve burnunu çalkalamış, sonra yüzünü üç defa, her iki kolunu üçer defa yıkamış, başını ve ayaklarının üstünü meshetmiş, ardından gülümseyerek arkadaşlarına: \"Beni neden güldüğümü sormayacak mısınız?\" demiştir. Onlar: \"Seni ne güldürdü, ey Ameer al-Mu`mineen?\" dediler. O da: \"Allah'ın Elçisi (ﷺ) bu yerde su istemişti, sonra benim yaptığım gibi abdest aldı, sonra gülümseyerek: 'Beni neden güldüğümü sormayacak mısınız?' dedi.\" Onlar: \"Seni ne güldürdü, ey Allah'ın Elçisi (ﷺ)?\" dediler. O da: \"Bir kişi abdest almak için su isterse, yüzünü yıkadığında, Allah onun yüzüyle işlediği her günahı ondan kaldırır; kollarını yıkadığında de aynı şekilde; başını meshettiğinde de aynı şekilde; ayaklarını temizlediğinde de aynı şekilde.\""
+    },
+    {
+      "id": 17,
+      "narrator": "It was narrated from alHasan bin Sa`d, the freed slave of Hasan bin `Ali, that Rabah said:",
+      "text": "Hasan bin Sa`d'dan, Hasan bin `Ali'nin freed slave'i olarak rivayet edilmiştir ki, Rabah şöyle demiştir: Efendilerim beni kendilerine ait bir Romalı cariye ile evlendirdiler. Onunla cinsel ilişkiye girdim ve bana benzer bir oğul doğurdu, adını `Abdullah koydum. Sonra tekrar onunla cinsel ilişkiye girdim ve yine bana benzer bir oğul doğurdu, adını Ubaidullah koydum. Sonra, efendilerimden bir Romalı köle olan Yuhannas ona yaklaşarak kendi dillerinde onunla konuştu. O da, bir kertenkele gibi (yani çok açık tenli) bir oğul doğurdu. Ben ona: \"Bu nedir?\" dedim. O da: \"O, Yuhannas'ın çocuğudur.\" dedi. Bunun üzerine durumu Ameer al-Mu`mineen `Uthman (رضي الله عنه)'a ilettik - Mahdi dedi ki: Sanırım şöyle dedi: Ve her ikisini de sorguladı - ve itiraf ettiler. O da: \"Allah'ın Elçisi (ﷺ)nin hükmüne göre aranızda hükmetmeme razı mısınız?\" dedi. O da: \"Allah'ın Elçisi (ﷺ) çocuğun kadının kocasına ait olduğunu ve zina edenin hiçbir şey almayacağını hükmetti.\" dedi. Mahdi dedi ki: Ve sanırım şöyle dedi: Onu ve onu kırbaçladı, her ikisi de köleydi."
+    },
+    {
+      "id": 18,
+      "narrator": "It was narrated that Humran said, `Uthman (رضي الله عنه) called for water when he was in al-Maqa`id. He poured some on his right hand and washed it, then he put his right hand in the vessel and washed his hands three times, then he washed his face three times, and he rinsed his mouth and nose, he washed his arms up to the elbows three times, then he wiped his head, then he washed his feet up to the ankles three times. Then he said:",
+      "text": "Rabah'dan rivayet edilmiştir... benzer bir hadis zikretmiştir. Dedi ki: Onları Ameer al-Mu`mineen `Uthman bin `Affan (رضي الله عنه)'a götürdüm, o da şöyle dedi: \"Allah'ın Elçisi (ﷺ) çocuğun kadının kocasına ait olduğunu hükmetti... ve benzer bir rivayet zikretti.\""
+    },
+    {
+      "id": 19,
+      "narrator": "It was narrated that Abu Salamah bin `Abdul-Rahman said:",
+      "text": "Humran'dan rivayet edilmiştir ki, `Uthman (رضي الله عنه) al-Maqa`id'de iken su istemiştir. Sağ eline biraz su döküp yıkadı, sonra sağ elini kabın içine koyup ellerini üç defa yıkadı, ardından yüzünü üç defa yıkadı, ağzını ve burnunu çalkaladı, kollarını dirseklere kadar üç defa yıkadı, sonra başını meshetti, ardından ayaklarını bileklerine kadar üç defa yıkadı. Sonra dedi ki: \"Allah'ın Elçisi (ﷺ)'ni şöyle derken duydum: 'Kim benim yaptığım gibi abdest alır, sonra aklını dağıtmadan iki rek'at namaz kılarsa, önceki günahları affedilir.'\""
+    },
+    {
+      "id": 20,
+      "narrator": "It was narrated that  Humran bin Aban said:",
+      "text": "Humran'dan, `Uthman'ın freed slave'i olarak, `Uthman (رضي الله عنه)'ın bir kap istemesini gördüğünü ve benzer bir rivayet zikrettiğini duydu."
+    },
+    {
+      "id": 21,
+      "narrator": "It was narrated that Nubaih bin Wahb said:",
+      "text": "Abu Salamah bin `Abdul-Rahman'dan rivayet edilmiştir ki: `Uthman (رضي الله عنه) kuşatma altındayken evden dışarı baktı ve dedi ki: \"Ben, Hira` günü Allah'ın Elçisi (ﷺ) ile birlikte olan herkese yemin ederim; dağ ayaklarının altında sallandığında, ayağıyla tekmeleyip: 'Sakin ol, Hira`, üzerinde bir Peygamber, bir Siddiq veya bir şehit yoktur,' dedi; ben de onunla birlikteydim. Ve bazı adamlar onun söylediklerine şahitlik ettiler. Sonra dedi ki: \"Ben, Allah'ın Elçisi (ﷺ) ile birlikte olan herkese yemin ederim; Bey'at al-Ridwan günü, beni müşriklere, Mekke halkına gönderdiğinde, 'Bu benim elim ve bu da `Uthman'ın elidir,' dedi ve benim adıma biat etti.\" Ve bazı adamlar onun söylediklerine şahitlik ettiler. Sonra dedi ki: \"Ben, Allah'ın Elçisi (ﷺ) 'Bu evi cennette bir ev karşılığında camiye dahil edecek kimdir?' dediğinde, ben de onu kendi malımla satın aldım ve camiyi genişlettim.\" Ve bazı adamlar onun söylediklerine şahitlik ettiler. Sonra dedi ki: \"Ben, Allah'ın Elçisi (ﷺ) 'Bugün Allah tarafından kabul edilecek bir harcama yapacak kimdir?' dediğinde, ben de ordunun yarısını kendi malımla donattım.\" Ve bazı adamlar onun söylediklerine şahitlik ettiler. Sonra dedi ki: \"Ben, Allah'ın Elçisi (ﷺ) suyun satıldığını gördüm, ben de onu kendi malımla satın aldım ve yoldaşlara bedava verdim.\" Ve bazı adamlar onun söylediklerine şahitlik ettiler."
+    },
+    {
+      "id": 22,
+      "narrator": "It was narrated from `Uthman bin `Affan that the Prophet (ﷺ) said:",
+      "text": "Humran bin Aban'dan rivayet edilmiştir ki: `Uthman bin `Affan (رضي الله عنه)'ı abdest alırken gördüm. Elleri üzerine su dökerek üç defa yıkadı, sonra ağzını ve burnunu çalkaladı, ardından yüzünü üç defa yıkadı, sonra sağ kolunu dirseğine kadar üç defa yıkadı, ardından sol kolunu da aynı şekilde, sonra başını meshetti, ardından sağ ayağını üç defa yıkadı, ardından sol ayağını da aynı şekilde. Dedi ki: \"Ben, Allah'ın Elçisi (ﷺ)'ni, az önce yaptığım gibi abdest alırken gördüm, sonra dedi ki: 'Kim benim yaptığım gibi abdest alır, sonra aklını dağıtmadan iki rek'at namaz kılarsa, önceki günahları affedilir.'\""
+    },
+    {
+      "id": 23,
+      "narrator": "It was narrated that Sa`eed bin al-Musayyab said,  `Uthman went for Hajj, and when he was halfway there, `Ali was informed that `Uthman had told his companions not to do tamattu`, `Ali said to his companions:",
+      "text": "Nubaih bin Wahb'dan rivayet edilmiştir ki: `Umar bin `Ubaidullah, Aban bin `Uthman (رضي الله عنه)'a, ihramda iken gözlerine bir şey sürebilir mi diye haber gönderdi. O da ona, gözlerine aloe sürebileceğini bildirdi ve ben, `Uthman bin `Affan (رضي الله عنه)'ın bunu Allah'ın Elçisi (ﷺ)'nden naklettiğini duydum."
+    },
+    {
+      "id": 24,
+      "narrator": "It was narrated that Malik bin Aws bin al-Hadathan said:",
+      "text": "`Uthman bin `Affan'dan rivayet edilmiştir ki, Peygamber (ﷺ) şöyle dedi: \"Kim namazın farz bir ibadet olduğunu bilirse, cennete girecektir.\""
+    },
+    {
+      "id": 25,
+      "narrator": "It was narrated from `Uthman that he saw a funeral and stood up for it and said:",
+      "text": "Sa`eed bin al-Musayyab'dan rivayet edilmiştir ki: `Uthman Hac için gitti ve yolda yarı yolda iken, `Ali'ye `Uthman'ın arkadaşlarına tamattu' yapmamalarını söylediği haber verildi. `Ali, arkadaşlarına: \"O yola çıktığında, siz de çıkın.\" dedi. `Ali ve arkadaşları umre için ihrama girdiler, `Uthman onlara hiçbir şey söylemedi. `Ali: \"Bana, tamattu'yu yasakladığın söylenmedi mi?\" dedi. \"Allah'ın Elçisi (ﷺ) tamattu' yapmadı mı?\" (rivayet eden) dedi ki: `Uthman (رضي الله عنه)'ın ne cevap verdiğini bilmiyorum."
+    },
+    {
+      "id": 26,
+      "narrator": "It was narrated that Abu `Ubaid said:",
+      "text": "Malik bin Aws bin al-Hadathan'dan rivayet edilmiştir ki: `Umar bin al-Khattab (رضي الله عنه) beni çağırdı ve ben o sırada, onun freed slave'i Yarfa` geldi ve dedi ki: 'Uthman, `Abdur-Rahman, Sa'd ve az-Zubair bin al-`Awwam burada - (rivayet eden) Talhah'ı anıp anmadığını bilmiyorum - ve sana girmek için izin istiyorlar.' O da: \"İçeri alın.\" dedi. Sonra bir süre sonra, (Yarfa`) geldi ve dedi: \"al-`Abbas ve `Ali içeri girmek için izin istiyorlar.\" O da: \"İçeri alın.\" dedi. al-`Abbas içeri girdiğinde: \"Ey Ameer al-Mu`mineen, benimle bu kişi arasında hüküm ver.\" dedi. O sırada, Allah'ın, Peygamberine verdiği Banun-Nadeer'in ganimeti konusunda bir anlaşmazlıkları vardı. Halk: \"Onlar arasında hüküm ver, ey Ameer al-Mu`mineen, ve her birini karşısındakinden kurtar, çünkü anlaşmazlıkları çok uzadı.\" dedi. `Umar (رضي الله عنه) dedi: \"Ben, Allah'a yemin ederim, göklerin ve yerin varlığına izin veren Allah'a, Allah'ın Elçisi (ﷺ)'nin 'Bizim miras alınmamız yoktur; geride bıraktıklarımız sadakadır' dediğini biliyor musunuz?\" dediler: \"Evet, bunu söyledi.\" O da: \"Size o ganimeti anlatacağım; Allah, yüce ve azizdir, bunu yalnızca Peygamberine (ﷺ) vermiştir, başkasına vermemiştir.\" Ve şu ayeti okudu: \"Ve Allah'ın Elçisi (Muhammed (ﷺ))'ne onlardan verdiği ganimet (fai') için, siz ne bir atlı ne de bir yaya ile bir sefere çıkmadınız.\" Dedi ki: \"Bu, yalnızca Allah'ın Elçisi (ﷺ) için geçerlidir ve Allah'a yemin ederim ki, bunu kendine saklamadı ve sizinle arasında bir ayrıcalık yapmadı. Aksine, bunu size verdi ve aranızda paylaştırdı, geriye sadece bu mülk kaldı. Ailesinin ihtiyaçları için bu mülkten bir yıl harcadı, sonra kalanını alıp Allah'ın mülkü olarak gördü. Allah'ın Elçisi (ﷺ) vefat ettiğinde, Ebu Bekir: 'Ben Allah'ın Elçisi (ﷺ)'nin halifesiyim, bunu Allah'ın Elçisi (ﷺ) gibi yöneteceğim.' dedi.\""
+    },
+    {
+      "id": 27,
+      "narrator": "It was narrated from one of the Ansar, from his father, that `Uthman (رضي الله عنه) said:",
+      "text": "`Uthman'dan rivayet edilmiştir ki, bir cenaze gördü ve onun için ayağa kalktı ve dedi ki: \"Ben, Allah'ın Elçisi (ﷺ)'nin bir cenazeyi gördüğünü ve onun için ayağa kalktığını gördüm.\""
+    },
+    {
+      "id": 28,
+      "narrator": "It was narrated that Humran bin Aban said:",
+      "text": "Abu `Ubaid'den rivayet edilmiştir ki: `Ali ve `Uthman (رضي الله عنه) bayram günü (Eid) al-fitr ve (Eid) al-Adhaa'da görüldüler; namaz kıldılar, sonra bitirdiklerinde insanlara hatırlattılar. Onların şöyle dediğini duydum: \"Allah'ın Elçisi (ﷺ) bu iki günde oruç tutmayı yasakladı.\""
+    },
+    {
+      "id": 29,
+      "narrator": "It was narrated that Qatadah said:",
+      "text": "`Ata` bin Yazeed al-Junda`i'den rivayet edilmiştir ki, Humran, `Uthman bin `Affan (رضي الله عنه)'ın freed slave'i olarak şöyle dedi: \"Ameer al-Mu`mineen `Uthman'ı abdest alırken gördüm; ellerine su dökerek üç defa yıkadı, sonra burnunu üç defa çalkaladı ve ağzını üç defa çalkaladı... ve Ma`mar'ın hadisine benzer bir hadisi zikretti.\""
+    },
+    {
+      "id": 30,
+      "narrator": "It was narrated that Qatadah said.  `Abdullah bin Shaqeeq said:",
+      "text": "Ansar'dan birinden, babasından rivayet edilmiştir ki, `Uthman (رضي الله عنه) şöyle dedi: \"Size Allah'ın Elçisi (ﷺ)'nin abdest almasını göstermeyecek miyim?\" Onlar: \"Evet.\" dediler. Bunun üzerine su istedi, ağzını üç defa çalkaladı ve burnunu üç defa çalkaladı, yüzünü ve kollarını üç defa yıkadı, başını meshetti ve ayaklarını üç defa yıkadı. Sonra dedi ki: \"Kulakların başın bir parçası olduğunu bilmelisiniz.\" Sonra dedi ki: \"Sizlere Allah'ın Elçisi (ﷺ)'nin yaptığı gibi abdest almaya çalıştım.\""
+    },
+    {
+      "id": 31,
+      "narrator": "It was narrated that ‘Abdullah bin az-Zubair said:",
+      "text": "‘Abdullah bin az-Zubair’in rivayet ettiğine göre, ‘Uthman bin ‘Affan (رضي الله عنه) minberinden şöyle dedi: “Size, Allah’ın Resulü’nden (ﷺ) duyduğum bir hadis anlatacağım, bunu size anlatmaktan alıkoyan tek şey, sizin için endişe etmemdir. Allah’ın Resulü (ﷺ) şöyle buyurdu: ‘Allah’ın rızası için bir gece nöbet tutmak, bin geceyi namazla geçirmekten ve günleri oruçla geçirmekten daha hayırlıdır.’”"
+    },
+    {
+      "id": 32,
+      "narrator": "It was narrated that `Uthman bin `Affan (رضي الله عنه) said:",
+      "text": "‘Uthman bin ‘Affan (رضي الله عنه) şöyle dedi: “Allah’ın Resulü (ﷺ) şöyle buyurdu: ‘Kim Allah rızası için bir cami inşa ederse, Allah da ona cennette bunun benzerini inşa eder.’”"
+    },
+    {
+      "id": 33,
+      "narrator": "It was narrated that Abu ‘Ubaid, the freed slave of ‘AbdurRahman bin Azhar, said:",
+      "text": "Abu ‘Ubaid, ‘AbdurRahman bin Azhar’ın freed slave’i şöyle dedi: “Ben, ‘Ali (رضي الله عنه) ve ‘Uthman (رضي الله عنه) ile al-Fitr ve al-Adha günü namaz kılarken gördüm, sonra insanlara hatırlattılar. Onların şöyle dediklerini duydum: ‘Allah’ın Resulü (ﷺ) bu iki günde oruç tutmayı yasakladı.’ Ve ‘Ali (رضي الله عنه) şöyle dedi: ‘Allah’ın Resulü (ﷺ) kurban etlerin üç günden fazla bırakılmasını yasakladı.’”"
+    },
+    {
+      "id": 34,
+      "narrator": "It was narrated that Muhammad bin ‘Abdullah bin Abi Maryam said:",
+      "text": "Muhammad bin ‘Abdullah bin Abi Maryam şöyle dedi: “Ben, ‘Uthman’ın freed slave’i Ibn Darah’a girdim, o da benim ağzımı çalkaladığımı duydu. O şöyle dedi: ‘Ey Muhammad!’ Ben de: ‘Buradayım.’ dedim. O: ‘Sana Allah’ın Resulü’nün (ﷺ) abdest alışı hakkında bilgi vermeyeyim mi?’ dedi. ‘Uthman’ı al-Maqa`id’de gördüm. Abdest almak için su istedi, sonra ağzını üç kez çalkaladı, burnunu üç kez yıkadı, yüzünü üç kez yıkadı, kollarını üç kez yıkadı, başını üç kez meshetti ve ayaklarını yıkadı, sonra şöyle dedi: ‘Kim Allah’ın Resulü’nün (ﷺ) abdest almasını görmek isterse, işte Allah’ın Resulü (ﷺ) böyle abdest aldı.’”"
+    },
+    {
+      "id": 35,
+      "narrator": "It was narrated that Abu Umamah bin Sahl said:",
+      "text": "Abu Umamah bin Sahl şöyle dedi: “Biz, ‘Uthman ile evdeyken kuşatma altındaydık. O, evin girişine gitti, oradan sözleri al-Balat’ta duyulabiliyordu. O, o girişe gitti, sonra bize çıktı ve şöyle dedi: ‘Az önce beni öldürmekle tehdit ediyorlardı.’ Biz de: ‘Allah seni onlardan korur, ey Müminlerin Emiri.’ dedik. O: ‘Neden beni öldürsünler ki? Ben, Allah’ın Resulü’nün (ﷺ) şöyle dediğini duydum: ‘Bir Müslümanın kanını dökmek, ancak üç durumda caizdir: Bir adam Müslüman olduktan sonra inkâr ederse, ya da evli olduğu halde zina ederse, ya da birini öldürüp karşılığında öldürülürse.’ Vallahi, Allah bana hidayet verdikten sonra dinimi değiştirmeyi hiç istemedim; ne Jahiliyyah döneminde ne de İslam’da zina ettim; ve hiç kimseyi de öldürmedim. O halde neden beni öldürsünler?’”"
+    },
+    {
+      "id": 36,
+      "narrator": "It was narrated that Salim bin Abul-Ja`d said, `Uthman (رضي الله عنه) called some of the Companions of the Messenger of Allah (ﷺ), among whom was ‘Ammar bin Yasir, and said:",
+      "text": "Salim bin Abul-Ja’d şöyle dedi: “‘Uthman (رضي الله عنه) Allah’ın Resulü’nün (ﷺ) bazı Ashabını, aralarında ‘Ammar bin Yasir’in de bulunduğu, çağırdı ve şöyle dedi: ‘Size bir şey sormak istiyorum ve benimle dürüst olmanızı istiyorum. Allah’a yemin ederim ki, Allah’ın Resulü (ﷺ) Kureyş’e tüm insanlardan daha fazla öncelik verirdi ve Banu Haşim’e de Kureyş’in tümünden daha fazla öncelik verirdi.’ İnsanlar sustu, sonra ‘Uthman şöyle dedi: ‘Eğer cennetin anahtarları elimde olsaydı, onları Banu Ümeyye’ye verirdim.’ ‘Ammar’ın babası şöyle dedi: ‘Ey Allah’ın Resulü (ﷺ), biz böyle mi kalacağız sonsuza dek?’ Peygamber (ﷺ) ona şöyle dedi: ‘Sabırlı ol.’ Sonra şöyle dedi: ‘Ey Allah, Yasir ailesini affet, ve sen zaten affettin.’”"
+    },
+    {
+      "id": 37,
+      "narrator": "It was narrated from ‘Uthman bin `Affan (رضي الله عنه) that the Messenger of Allah (ﷺ) to said:",
+      "text": "‘Uthman bin ‘Affan (رضي الله عنه) şöyle dedi: “Allah’ın Resulü (ﷺ) şöyle buyurdu: ‘Bir evin gölgesinden, bir torba ekmekten, bir avret yerini örtmek için bir elbiseden ve sudan başka her şey, Adem oğlu için bir hak değildir.’”"
+    },
+    {
+      "id": 38,
+      "narrator": "It was narrated that an old man of Thaqeef - Humaid said that he was righteous - said that his paternal uncle told him that he saw `Uthman (رضي الله عنه) sitting at the second door of the mosque of the Messenger of Allah (ﷺ) . He called for a shoulder  and ate its meat, then he got up and prayed, without doing wudoo’. Then he said:",
+      "text": "Thaqif’ten bir ihtiyar - Humaid, onun salih olduğunu söyledi - şöyle dedi: “Amcası bana, ‘Uthman’ı (رضي الله عنه) Allah’ın Resulü’nün (ﷺ) caminin ikinci kapısında otururken gördüğünü söyledi. O, bir omuz çağırdı ve etini yedi, sonra kalktı ve abdest almadan namaz kıldı. Sonra şöyle dedi: ‘Ben, Peygamber’in (ﷺ) oturduğu yerde oturdum ve Peygamber’in (ﷺ) yediği şeyi yedim, ve Peygamber’in (ﷺ) yaptığı gibi yaptım.’”"
+    },
+    {
+      "id": 39,
+      "narrator": "it was narrated that Abu Salih, the freed slave of `Uthman, said:",
+      "text": "Abu Salih, ‘Uthman’ın freed slave’i şöyle dedi: “Mina’da ‘Uthman’ı şöyle derken duydum: ‘Ey insanlar, size Allah’ın Resulü’nden (ﷺ) duyduğum bir hadisi anlatacağım. O şöyle dedi: ‘Allah rızası için bir gün sınırda nöbet tutmak, bin sıradan günlerden daha hayırlıdır, o halde bir adam sınırda ne kadar isterse nöbet tutsun.’ Onlar: ‘Evet.’ dediler. O: ‘Ey Allah, şahit ol.’”"
+    },
+    {
+      "id": 40,
+      "narrator": "`Abdullah bin ‘AbdurRahman bin Abi Dhubab narrated from his father that ‘Uthman bin ‘Affan (رضي الله عنه) prayed four rak`ahs in Mina and the people objected to that. He said:",
+      "text": "‘Abdullah bin ‘AbdurRahman bin Abi Dhubab, babasından şöyle rivayet etti: “‘Uthman bin ‘Affan (رضي الله عنه) Mina’da dört rek’at namaz kıldı ve insanlar buna itiraz etti. O: ‘Ey insanlar, buraya geldiğimden beri Mekke’de bir eş aldım, ve ben Allah’ın Resulü’nün (ﷺ) şöyle dediğini duydum: ‘Bir şehirde eş alan kimse, orada ikamet edenin namazını kılmalıdır (yani tam olarak).’”"
+    },
+    {
+      "id": 41,
+      "narrator": "Sa`eed bin al-Musayyab said. I heard ‘Uthman (رضي الله عنه) delivering a khutbah from the minbar. He said:",
+      "text": "Sa`eed bin al-Musayyab şöyle dedi: “Ben, ‘Uthman’ın (رضي الله عنه) minberden hutbe verdiğini duydum. O: ‘Ben, Banu Qainuqa` adlı bir Yahudi kabilesinden hurma alırdım ve kar ile satardım. Bunun haberi Allah’ın Resulü’ne (ﷺ) ulaştı ve o şöyle dedi: ‘Ey ‘Uthman, satın alırken, alacaklarını fazlasıyla alma, ve satarken, (karşı tarafın) alacaklarını eksiksiz ver.’”"
+    },
+    {
+      "id": 42,
+      "narrator": "It was narrated from Aban bin `Uthman that his father said:",
+      "text": "Aban bin ‘Uthman’dan rivayet edildiğine göre, babası şöyle dedi: “Allah’ın Resulü (ﷺ) şöyle buyurdu: ‘Kim, yeryüzünde veya gökte hiçbir şeyin zarar veremeyeceği Allah’ın adıyla söylerse, O, her şeyi işiten ve her şeyi bilen Allah’tır, ona hiçbir şey zarar veremez.’”"
+    },
+    {
+      "id": 43,
+      "narrator": "It was narrated from Hurman bin Aban that `Uthman bin `Affan (رضي الله عنه) said:",
+      "text": "Hurman bin Aban’dan rivayet edildiğine göre, ‘Uthman bin ‘Affan (رضي الله عنه) şöyle dedi: “Ben, Allah’ın Resulü’nün (ﷺ) şöyle dediğini duydum: ‘Kalpten samimi olarak söyleyen kimse, ateşten men edilir.’ ‘Umar bin al-Khattab (رضي الله عنه) ona: ‘Nedir o?’ dedi: ‘O, Allah’ın, mübarek ve yüce kıldığı kelime olan al-ikhlas kelimesidir ki, bu kelime ile Allah, Muhammed’i (ﷺ) ve onun arkadaşlarını galip kıldı ve bu, Allah’ın Resulü’nün (ﷺ) amcası Ebu Talib’in ölürken söylemesini istediği taqva kelimesidir, ‘Allah’tan başka ilah yoktur’ şehadeti.”"
+    },
+    {
+      "id": 44,
+      "narrator": "Abu Salamah narrated that ‘Ata` bin Yasar told him that Zaid bin Khalid al-Juhani told him that he asked ‘Uthman bin `Affan (رضي الله عنه):",
+      "text": "Abu Salamah, ‘Ata` bin Yasar’dan duyduğuna göre, Zaid bin Khalid al-Juhani ona şöyle dedi: “Ben, ‘Uthman bin ‘Affan (رضي الله عنه) ile konuştum: ‘Eğer bir adam karısıyla cinsel ilişkiye girerse ama boşalmazsa, ne dersin?’ ‘Uthman (رضي الله عنه) şöyle dedi: ‘Namaz için abdest almalı ve özel yerini yıkamalıdır.’ Ve ‘Uthman (رضي الله عنه) şöyle dedi: ‘Ben bunu Allah’ın Resulü’nden (ﷺ) duydum; ‘Ali bin Abi Talib, az-Zubair bin al-‘Awwam, Talhah bin ‘Ubaidullah ve Ubayy bin Ka’b’a sordum, onlar da aynı şekilde söylediler.’”"
+    },
+    {
+      "id": 45,
+      "narrator": "`Ubaid bin Abi Qurrah said:",
+      "text": "‘Ubaid bin Abi Qurrah şöyle dedi: “Ben, Malik bin Anas’ın şöyle dediğini duydum: ‘Dilediğimizi derecelerle yükseltiriz’ (al-An’am 6.83). O: ‘Bu, ilimle olur.’ dedim: ‘Bunu sana kim söyledi?’ O: ‘Zaid bin Aslam söyledi.’”"
+    },
+    {
+      "id": 46,
+      "narrator": "It was narrated that `Uthman bin `Affan (رضي الله عنه) said:",
+      "text": "`Uthman bin `Affan (رضي الله عنه) şöyle dediği rivayet edilmiştir: Bir adam Peygamber (ﷺ)'e geldi ve dedi ki: Ey Allah'ın Resulü (ﷺ), ben namaz kıldım ama çift mi tek mi yaptığımı bilmiyorum, iki secde yapsın, çünkü bu onun namazını tamamlayacaktır."
+    },
+    {
+      "id": 47,
+      "narrator": "It was narrated from Nafi` from Ibn `Umar, that Uthman (رضي الله عنه) looked out at his companions when he was under siege and said:",
+      "text": "Masarrah bin Ma`bad şöyle dedi: Yazeid bin Ebi Kabşah bize `Asr namazını kıldırdı, sonra namazdan sonra bize döndü ve dedi ki: Ben Marwan bin Hakam ile birlikte namaz kıldım ve o da bu şekilde iki secde yaptı, sonra bize döndü ve ‘Uthman (رضي الله عنه) ile namaz kıldığını, onun da Peygamber (ﷺ)'den rivayette bulunduğunu söyledi... ve benzer bir rivayet aktardı."
+    },
+    {
+      "id": 48,
+      "narrator": "It was narrated from Abu Dharr that he came and asked permission to enter upon `Uthman bin ‘Affan (رضي الله عنه) He gave him permission and he had a stick in his hand ‘Uthman (رضي الله عنه) said. O Ka`b, `Abdur-Rahman has died and left behind wealth. What do you think of him? He said:",
+      "text": "---"
+    },
+    {
+      "id": 49,
+      "narrator": "It was narrated that Hani`, the freed slave of `Uthman, (رضي الله عنه) said:",
+      "text": "Nafi`'den, İbn `Umar'dan rivayet edilmiştir ki, Uthman (رضي الله عنه) kuşatma altındayken arkadaşlarına bakarak dedi ki: Neden beni öldürmek istiyorsunuz? Ben Allah'ın Resulü (ﷺ)'nden şunu duydum: \"Bir Müslümanın kanı, ancak üç durumda dökülebilir; evli bir adam zina ederse, taşlanır; kasıtlı olarak bir adam öldürürse, intikam olarak öldürülür; ya da Müslüman olduktan sonra dinden dönerse, idam edilir.\" Vallahi, ben ne Cahiliye döneminde ne de İslam'da zina ettim, intikam alınacak şekilde hiç kimseyi öldürmedim; ve Müslüman olduktan sonra dinden dönmedim, şehadet ederim ki Allah'tan başka ilah yoktur ve Muhammed O'nun kulu ve Resulüdür."
+    },
+    {
+      "id": 50,
+      "narrator": "It was narrated from Hisham bin `Urwah from his father from Marwan, and we have no reason to suspect hirn, who said,  `Uthman (رضي الله عنه) suffered a nosebleed in the year of the nosebleed, (which was so bad that, he stayed behind from Hajj and gave his final instructions (because he thought he was going to die). A man of Quraish entered upon him and said:",
+      "text": "---"
+    },
+    {
+      "id": 51,
+      "narrator": "It was narrated that Moosa bin ‘Imran bin Mannah said:",
+      "text": "Abu Dharr'dan rivayet edilmiştir ki, o geldi ve `Uthman bin ‘Affan (رضي الله عنه)'a girmek için izin istedi. O da ona izin verdi ve elinde bir sopa vardı. `Uthman (رضي الله عنه) dedi ki: Ey Ka`b, `Abdur-Rahman öldü ve geride mal bıraktı. Onun hakkında ne düşünüyorsun? O da: Eğer Allah'ın haklarını ödemişse, o zaman sorun yok. Abu Dharr sopasını kaldırdı ve Ka`b'a vurdu ve dedi ki: Ben Allah'ın Resulü (ﷺ)'nden şunu duydum: \"Bu dağ kadar altınım olmasını ve onu (Allah için) harcamayı istemem, Allah da onu benden kabul etse ve geride altı Okiyyah bıraksam.\" Allah'a yemin ederim ki, ey `Uthman, onu duydun mu? - üç kez, O da: Evet, dedi."
+    },
+    {
+      "id": 52,
+      "narrator": "lt was narrated from Zaid bin Khalid al-Juhani that he asked `Uthman bin `Affan (رضي الله عنه):",
+      "text": "---"
+    },
+    {
+      "id": 53,
+      "narrator": "Mu`adh bin ‘Abdur-Rahman narrated that Humran bin Aban told him:",
+      "text": "Hani`, `Uthman'ın (رضي الله عنه) azatlı kölesi şöyle dedi: `Uthman (رضي الله عنه) bir mezarın yanında durur ve sakalı ıslanacak şekilde ağlardı. Ona denildi ki: Cenneti ve Cehennemi hatırlıyorsun da ağlamıyorsun, ama bunun için ağlıyorsun? O da dedi ki: Allah'ın Resulü (ﷺ) şöyle dedi: \"Mezar, ahiretin ilk aşamasıdır. Eğer birisi ondan (yani, azabından) kurtulursa, ardından gelenler ondan daha kolaydır. Ama eğer ondan kurtulamazsa (yani, azabından), ardından gelenler daha kötüdür.\" Ve Allah'ın Resulü (ﷺ) dedi: Vallahi, ben hiçbir korkutucu manzara görmedim ama mezar ondan daha korkutucudur."
+    },
+    {
+      "id": 54,
+      "narrator": "’Ubaidullah bin Muhammad bin Hafs bin `Umar at-Taimi said:",
+      "text": "---"
+    },
+    {
+      "id": 55,
+      "narrator": "It was narrated from `Uthman bin `Affan (رضي الله عنه). `Abdullah bin az-Zubair said to him when he was besieged:",
+      "text": "Hişam bin `Urwah, babasından, Marwan'dan rivayet etmiştir ve ona şüphe etmemiz için bir sebep yoktur, o şöyle dedi: `Uthman (رضي الله عنه) burun kanaması geçirdiği yıl (kanama o kadar kötüydü ki, Hac'dan geri kaldı ve son talimatlarını verdi çünkü ölmekte olduğunu düşündü). Bir Kureyşli onun yanına girdi ve dedi: Bir halef tayin et. O da: Onlar bunu mu öneriyor? Dedi: Evet. O da: Onlar kimi öneriyor? Adam sessiz kaldı. Sonra başka bir adam onun yanına girdi ve ilk adamın söylediğine benzer bir şey söyledi, o da aynı yanıtı verdi. Sonra `Uthman (رضي الله عنه) dedi: Onlar az-Zubair'i mi öneriyor? Dedi: Evet. O da: Canımın sahibi olan Allah'a yemin ederim ki, bildiğim kadarıyla o, içlerinde en iyisi ve Allah'ın Resulü (ﷺ) nezdinde en sevilendir."
+    },
+    {
+      "id": 56,
+      "narrator": "It was narrated from `uthman bin `Affan (رضي الله عنه]that the Messenger of Allah (ﷺ) said:",
+      "text": "‘Abdullah bize: Suwaid bize: `Ali bin Mus-hir benzer bir rivayetle, isnadıyla bildirdi."
+    },
+    {
+      "id": 57,
+      "narrator": "It was narrated that `Abdullah bin az-Zubair said:",
+      "text": "---"
+    },
+    {
+      "id": 58,
+      "narrator": "It was narrated from `Uthman bn `Affan (رضي الله عنه) that the Prophet (ﷺ) said:",
+      "text": "Moosa bin ‘Imran bin Mannah şöyle dedi: Aban bin `Uthman (رضي الله عنه) bir cenaze gördü ve onun için ayağa kalktı. O da şöyle dedi: `Uthman bin `Affan (رضي الله عنه) bir cenaze gördü ve onun için ayağa kalktı, sonra Allah'ın Resulü (ﷺ)'nün bir cenaze gördüğünü ve onun için ayağa kalktığını rivayet etti."
+    },
+    {
+      "id": 59,
+      "narrator": "",
+      "text": "---"
+    },
+    {
+      "id": 60,
+      "narrator": "It was narrated from Nubaih bin Wahb that `Umar bin Ubaidullah wanted to arrange a marriage for his son when he was in Ihram, but Aban forbade him to do that and said that `Uthman narrated that the Messenger of Allah (ﷺ) said:",
+      "text": "Zaid bin Khalid al-Juhani'den rivayet edilmiştir ki, o `Uthman bin `Affan (رضي الله عنه)'a sordu: Bir adam karısıyla cinsel ilişkiye girerse ama boşalmazsa, ne dersin? `Uthman (رضي الله عنه) dedi: O, namaz için abdest alsın ve özel yerini yıkasın. Ve `Uthman (رضي الله عنه) dedi: Ben bunu Allah'ın Resulü (ﷺ)'nden duydum. 'Ali bin Abi Talib (رضي الله عنه), az-Zubair, Talha ve Ubayy bin Ka`b'a bunu sordum ve onlar da aynı şeyi söylediler."
+    },
+    {
+      "id": 61,
+      "narrator": "It was narrated that Rabah said:",
+      "text": "Rabah'ın rivayetine göre, efendilerim beni onlardan bir Romalı cariye ile evlendirdi ve o bana siyah bir oğul doğurdu. Sonra Romalı bir köle olan Yuhannas'a aşık oldu ve onunla kendi dillerinde konuştu. Sonra hamile kaldı. Bana siyah bir çocuk doğurduktan sonra, çok açık tenli bir oğul doğurdu. Ben ona: \"Bu nedir?\" dedim. O da: \"O Yuhannas'ın çocuğu.\" dedi. Yuhannas'a sordum ve o bunu kabul etti, ben de 'Uthman bin 'Affan'a (رضي الله عنه) gidip durumu anlattım. O, onları çağırdı ve sordu, sonra şöyle dedi: \"Ben, Allah'ın Elçisi'nin (ﷺ) hükmüne göre aranızda hüküm vereceğim; çocuk kadının (kocası) ile ilişkilendirilecektir ve zina eden hiçbir şey almayacaktır.\" Çocuğu bana atfetti ve ikisini de kırbaçladı. Sonra daha sonra siyah bir çocuk daha doğurdu."
+    },
+    {
+      "id": 62,
+      "narrator": "It was narrated that Abu Umamah bin Sahl said:",
+      "text": "Abu Umamah bin Sahl'ın rivayetine göre: 'Uthman (رضي الله عنه) ile evdeydim, o kuşatma altındayken. Girdiğimizde, insanların al-Balat'ta söylediklerini duyabileceğimiz bir girişe girerdik. Bir gün 'Uthman (رضي الله عنه) bir sebepten oraya girdi, sonra yüzü kızarmış bir şekilde çıktı ve: \"Az önce beni öldürmekle tehdit ediyorlardı.\" dedi. Biz de: \"Allah seni onlardan koruyacaktır, ey Müminlerin Emiri.\" dedik. O da: \"Neden beni öldürsünler? Ben, Allah'ın Elçisi'nin (ﷺ) şöyle dediğini duydum: 'Bir Müslüman erkeğin kanını dökmek, ancak üç durumdan birinde caizdir; Müslüman olduktan sonra inkâr eden bir adam, evli bir adamın zina etmesi veya bir adamın intikam almadan birini öldürmesi.' Ama Allah'a yemin ederim ki, ne Jahiliyyah döneminde ne de İslam'da zina etmedim... Allah, yüceltilmiş ve şanlı, beni hidayet ettiğinden beri dinimi değiştirmek istemedim ve ben hiç kimseyi öldürmedim. O halde neden beni öldürmek istiyorlar?\""
+    },
+    {
+      "id": 63,
+      "narrator": "It was narrated that ‘Amir bin Sa`d said:",
+      "text": "'Amir bin Sa'd'ın rivayetine göre: Hüseyin bin Ebi Vakkas dedi ki: 'Uthman bin 'Affan'ın (رضي الله عنه) Allah'ın Elçisi'nden (ﷺ) rivayet ettiğini duydum. Beni ondan rivayet etmekten alıkoyan, onun ne söylediği konusunda en bilgili olanı olmamam değil, ama ben onun şöyle dediğine şahitlik ediyorum: 'Kim benimle ilgili söylemediğim bir şey söylerse, cehennemdeki yerine alsın.' Ve o dedi ki: Hüseyin, arkadaşları arasında onun ne söylediğini en iyi bileniydi."
+    },
+    {
+      "id": 64,
+      "narrator": "It was narrated that Abu Salih, the freed slave of ‘Uthman bin `Affan {رضي الله عنه) said:",
+      "text": "Abu Salih, 'Uthman bin 'Affan'ın (رضي الله عنه) azatlı kölesi, 'Uthman'ın (رضي الله عنه) minberde şöyle dediğini işittim: \"Ey insanlar, sizden bir hadisi gizledim, Allah'ın Elçisi'nden (ﷺ) duyduğum için, sizlerin benden dağılacağından korktum, sonra bunu size söylemem gerektiğini düşündüm ve her biri kendisi için en iyi olduğunu düşündüğünü seçsin. Ben, Allah'ın Elçisi'nden (ﷺ) şöyle dediğini duydum: 'Allah rızası için bir gün sınırda beklemek, diğer bin günden daha hayırlıdır.'\""
+    },
+    {
+      "id": 65,
+      "narrator": "It was narrated that `Uthman bin `Affan (رضي الله عنه) said:",
+      "text": "'Uthman bin 'Affan (رضي الله عنه) şöyle dedi: \"Allah'ın Elçisi (ﷺ) şöyle dedi: 'Evinden, seyahat etmek veya başka bir niyetle çıkan bir Müslüman, çıkarken: 'Allah'ın adıyla, Allah'a inanıyorum, Allah'tan koruma diliyorum, Allah'a güveniyorum, güç ve kuvvet yalnızca Allah'ladır.' derse, o çıkışın hayrı ona verilir ve o çıkışın şerri ondan uzaklaştırılır.'\""
+    },
+    {
+      "id": 66,
+      "narrator": "It was narrated that `Uthman (رضي الله عنه) said:",
+      "text": "'Uthman (رضي الله عنه) şöyle dedi: \"Ben, Allah'ın Elçisi'ni (ﷺ) abdest alırken gördüm. Yüzünü üç kez yıkadı, ellerini üç kez yıkadı, başını meshetti ve ayaklarını yıkadı.\""
+    },
+    {
+      "id": 67,
+      "narrator": "Abu Sakhrah Jami’ bin Shaddad told me that he said:",
+      "text": "Abu Sakhrah Cami' bin Şeddad bana şöyle söyledi: \"Humran bin Aban'ın, Basra'daki camide, yanında dururken Abu Burdah'a 'Uthman bin 'Affan'ın (رضي الله عنه) Peygamber'den (ﷺ) şöyle rivayet ettiğini duyduğunu işittim: 'Kim Allah'ın emrettiği şekilde abdest alırsa, beş namaz onun arasında olan günahları affeder.'\""
+    },
+    {
+      "id": 68,
+      "narrator": "It was narrated that Aban bin `Uthman said:",
+      "text": "Aban bin 'Uthman şöyle dedi: \"'Uthman bin 'Affan (رضي الله عنه) şöyle dedi: 'Allah'ın Elçisi (ﷺ) şöyle dedi: 'Günün başında veya gecenin başında, 'Zarar vermeyen, her şeyin sahibi olan Allah'ın adıyla, O, her şeyi işiten ve her şeyi bilen'di, üç kez söylerse, o gün veya o gece ona hiçbir şey zarar vermez.'\""
+    },
+    {
+      "id": 69,
+      "narrator": "It was narrated from Yazeed bin Mawhab that `Uthman (رضي الله عنه) said to Ibn `Umar (رضي الله عنه). Judge between the people. He said:",
+      "text": "Yazeed bin Mawhab'dan rivayet edildi ki, 'Uthman (رضي الله عنه) İbn 'Umar'a (رضي الله عنه) dedi: \"İnsanlar arasında hükmet.\" O da: \"Ben iki kişi arasında hükmetmeyeceğim ya da iki erkeği namazda yönlendirmeyeceğim. Peygamber'in (ﷺ) 'Kim Allah'a sığınırsa, gerçekten güçlü birine sığınmıştır.' dediğini duymadın mı?\" 'Uthman (رضي الله عنه) \"Evet, duydum.\" dedi. O da: \"O halde beni bir göreve atamanızdan Allah'a sığınırım.\" dedi. Bunun üzerine 'Uthman (رضي الله عنه) onu serbest bıraktı ve: \"Bunu başka kimseye söyleme.\" dedi."
+    },
+    {
+      "id": 70,
+      "narrator": "It was narrated that `Uthman bin `Affan said:",
+      "text": "'Uthman bin 'Affan'dan rivayet edildi ki: \"Allah'ın Elçisi (ﷺ) şöyle dedi: 'Kim abdest alır ve abdestini güzelce alırsa, günahları vücudundan çıkar, hatta tırnaklarının altından bile.'\""
+    },
+    {
+      "id": 71,
+      "narrator": "It was narrated from Abu Salih, the freed slave of `Uthman (رضي الله عنه), that `Uthman (رضي الله عنه.) said:",
+      "text": "Abu Salih, 'Uthman'ın (رضي الله عنه) azatlı kölesinden rivayet edildi ki: 'Uthman (رضي الله عنه) şöyle dedi: \"Ey insanlar, gündüz ortasında hareket edin, çünkü ben gündüz ortasında hareket ediyorum.\" Bunun üzerine insanlar gündüz ortasında hareket ettiler. Sonra şöyle dedi: \"Ey insanlar, size Allah'ın Elçisi'nden (ﷺ) duyduğum bir hadisi, bu güne kadar konuşmadığım bir hadisi söyleyeceğim. Allah'ın Elçisi (ﷺ) şöyle dedi: 'Allah rızası için bir gün sınırda beklemek, diğer bin günden daha hayırlıdır, o halde bir adam sınırı istediği kadar korusun.' Size mesajı ilettim mi?\" Onlar: \"Evet.\" dediler. O da: \"Ey Allah, şahit ol.\" dedi."
+    },
+    {
+      "id": 72,
+      "narrator": "It was narrated that Humran said:",
+      "text": "Humran şöyle dedi: \"Uthman al-Maqa'id'de oturuyordu. Su istedi ve abdest aldı, sonra şöyle dedi: 'Ben, Allah'ın Elçisi'ni (ﷺ) burada oturduğum yerde abdest alırken gördüm, sonra şöyle dedi: 'Kim benim yaptığım gibi abdest alırsa, kalkıp iki rek'at namaz kılarsa, onun önceki günahları affedilecektir.' Ve Allah'ın Elçisi (ﷺ) şöyle dedi: 'Acele etmeyin.'\""
+    },
+    {
+      "id": 73,
+      "narrator": "Abu ‘Awn al-Ansari narrated that `Uthman bin `Affan (رضي الله عنه) said to Ibn Mas`ood:",
+      "text": "Abu 'Awn el-Ensari, 'Uthman bin 'Affan'ın (رضي الله عنه) İbn Mes'ud'a şöyle dediğini rivayet etti: \"Duyduğum şeyden vazgeçecek misin?\" O özür diledi, sonra 'Uthman (رضي الله عنه) dedi ki: \"Vay haline! Ben duydum ve hatırladım ve bu senin duyduğun gibi değil; Allah'ın Elçisi (ﷺ) şöyle dedi: 'Bir lider öldürülecek ve bir suçlu suç işleyip.' Ben öldürülecek olanım, 'Umar (رضي الله عنه) değil; aksine 'Umar (رضي الله عنه) bir adam tarafından öldürüldü, ama bir grup insan beni öldürecek.\""
+    },
+    {
+      "id": 74,
+      "narrator": "`Uthman bin `Affan (رضي الله عنه) said to his nephew:",
+      "text": "'Uthman bin 'Affan (رضي الله عنه) yeğenine şöyle dedi: \"Allah'ın Elçisi'ni (ﷺ) gördün mü?\" O da: \"Hayır, ama bana onun bilgisi ve iman kesinliği, bir genç kızın yalnızlığında ulaşacak olanı ulaştı.\" dedi. Tashahhud'u okudu, sonra şöyle dedi: \"Gerçekten Allah, yüceltilmiş ve şanlı, Muhammed'i hak ile gönderdi ve ben, Allah ve Elçisi'nin (ﷺ) çağrısına icabet edenlerden biriydim ve Muhammed'in (ﷺ) gönderildiği şeylere inandım. Sonra iki kez hicret ettim ve Allah'ın Elçisi'nin (ﷺ) damadı olma onuruna da eriştim, Allah'ın Elçisi'ne (ﷺ) biat ettim ve Allah'a yemin ederim ki, ona asla itaat etmedim veya ihanet etmedim, ta ki Allah, yüceltilmiş ve şanlı, onu ölümle alana kadar.\""
+    },
+    {
+      "id": 75,
+      "narrator": "lt was narrated from al-Mugheerah bin Shu`bah that he entered upon `Uthman (رضي الله عنه) when he was under siege and said:",
+      "text": "El-Mughirah bin Shu'bah'tan rivayet edildi ki, kuşatma altında olan 'Uthman'a (رضي الله عنه) girdi ve şöyle dedi: \"Sen insanların liderisin ve başına gelenleri görüyorsun, sana üç seçenek öneriyorum, birini seç. Ya çıkıp onlarla savaş, çünkü senin sayın ve gücün var, haklısın ve onlar haksız; ya da onlar olduğu kapıdan başka bir kapı açalım, sonra sen hayvanına binebilir ve Mekke'ye gidebilirsin, çünkü orada seni öldürmeye çalışmayacaklar; ya da Suriye'ye git, çünkü Suriye halkı iyi insanlardır ve içlerinde Mu'aviye vardır.\" 'Uthman (رضي الله عنه) dedi: \"Çıkıp savaşmaya gelince, ben asla Allah'ın Elçisi'nin (ﷺ) ilk halifesi olarak ümmetinin kanını döken biri olmayacağım; Mekke'ye çıkmaya gelince, çünkü orada asla beni öldürmeyecekler, ben Allah'ın Elçisi'nin (ﷺ) şöyle dediğini duydum: 'Kureyş'ten bir adam Mekke'de küfür işleyip, dünyanın yarısı ona uygulanacak.' ve ben asla o olmayacağım; Suriye'ye gitmeye gelince, çünkü onlar Suriye halkıdır ve Mu'aviye içindedir, ben hicret ettiğim toprakları asla terk etmeyeceğim, Allah'ın Elçisi'ne (ﷺ) yakın olduğum yerdir.\""
+    },
+    {
+      "id": 76,
+      "narrator": "It was narrated from Mu`adh bin ‘Abdur-Rahman at Taimi, from Humran the freed slave of `Uthman (رضي الله عنه), from `Uthman (رضي الله عنه), that he said:",
+      "text": "Mu'adh bin 'Abdur-Rahman at Taimi'den, Humran, Osman (رضي الله عنه)'ın freed slave'inden, Osman (رضي الله عنه)'ın şöyle dediği rivayet edilmiştir: \"Ben Allah'ın Elçisi (ﷺ)'nin şöyle söylediğini işittim: 'Kim abdest alır ve bunu düzgün yaparsa, sonra farz namazını kılmaya giderse, onun günahları affedilecektir.'\""
+    },
+    {
+      "id": 77,
+      "narrator": "It was narrated that Humran said. `Uthman (رضي الله عنه) did ghusl every day since he became Muslim. I  brought water for him one day to do wudoo’ for prayer. After he did wudoo’, he said:",
+      "text": "Humran'dan rivayet edilmiştir. Osman (رضي الله عنه) Müslüman olduktan sonra her gün gusül alırdı. Bir gün namaz için abdest alması için ona su getirdim. Abdest aldıktan sonra şöyle dedi: \"Size Allah'ın Elçisi (ﷺ)'nden duyduğum bir hadisi söylemek istedim. Sonra bunu size söylememeye karar verdim.\" Al-Hakam bin al-‘As dedi: \"Ey Müminlerin Emiri, eğer bize iyiliği emrediyorsa onu yaparız ve eğer kötü bir şeyden sakındırıyorsa ondan kaçınırız.\" O da şöyle dedi: \"Size şunu söyleyeceğim; Allah'ın Elçisi (ﷺ) bu şekilde abdest aldı, sonra şöyle dedi: 'Kim bu şekilde abdest alır ve bunu iyi yaparsa, sonra namaz kılarsa, rükû ve secdeyi düzgün yaparsa, o (namaz) onun günahlarını o namaz ile bir sonraki namaz arasında affeder, ancak o büyük bir günah işlemezse.'\""
+    },
+    {
+      "id": 78,
+      "narrator": "It was narrated that `Uthman bin `Affan (رضي الله عنه) said:",
+      "text": "Osman bin Affan (رضي الله عنه)'dan rivayet edilmiştir: \"Ben Allah'ın Elçisi (ﷺ)'nin şöyle söylediğini işittim: 'Allah, alışverişte, borç ödemede ve kendisine borç istenildiğinde kolaylık gösteren bir adamı cennete kabul etti.'\""
+    },
+    {
+      "id": 79,
+      "narrator": "It was narrated from ‘lkrimah bin Khalid:",
+      "text": "İkrime bin Halid'den rivayet edilmiştir: Medine'den bir adam bana, mu'adhdhin'in 'Asr namazı için ezan okuduğunu, Osman (رضي الله عنه)'ın su istediğini ve kendisini temizlediğini söyledi. Sonra şöyle dedi: \"Ben Allah'ın Elçisi (ﷺ)'nin şöyle söylediğini işittim: 'Kim kendisini temizler ve namazını emredildiği gibi kılarsa, onun günahları affedilecektir.' Sonra Allah'ın Elçisi (ﷺ)'nin dört Sahabeyi buna şahit göstermesi için çağırdı ve onlar da Peygamber (ﷺ)'in bunu söylediğine şahitlik ettiler.\""
+    },
+    {
+      "id": 80,
+      "narrator": "It was narrated that Busr bin Sa`eed said:",
+      "text": "Busr bin Sa'id'den rivayet edilmiştir: Osman (رضي الله عنه) al-Maqa'id'e geldi ve abdest almak için su istedi. Ağzını ve burnunu çalkaladı, sonra yüzünü üç kez yıkadı, ardından her iki elini üç kez yıkadı, sonra başını meshetti ve ayaklarını üç kez yıkadı. Sonra şöyle dedi: \"Ben Allah'ın Elçisi (ﷺ)'nin bu şekilde abdest aldığını gördüm, ey insanlar, bu doğru değil mi?\" Onlar da: \"Evet\" dediler - yani onunla birlikte olan bir grup Allah'ın Elçisi (ﷺ)'nin Sahabelerinden."
+    },
+    {
+      "id": 81,
+      "narrator": "It was narrated from `Uthman bin `Affan (رضي الله عنه )  that he called for water and did wudoo` in al-Maqa`id. He did wudoo’, washing each part three times, then he said to the Companions of the Messenger of Allah (ﷺ). Did you see the Messenger of Allah (ﷺ) doing {wudoo`) like this? They said:",
+      "text": "Osman bin Affan (رضي الله عنه)'dan rivayet edilmiştir ki, o su istedi ve al-Maqa'id'de abdest aldı. Her bir uzvunu üç kez yıkadı, sonra Allah'ın Elçisi (ﷺ)'nin Sahabelerine şöyle dedi: \"Siz Allah'ın Elçisi (ﷺ)'nin bu şekilde abdest aldığını gördünüz mü?\" Onlar da: \"Evet.\" dediler."
+    },
+    {
+      "id": 82,
+      "narrator": "It was narrated that | Humran bin Aban, the freed slave of `Uthman bin `Affan (رضي الله عنه), said:",
+      "text": "Humran bin Aban, Osman bin Affan (رضي الله عنه)'ın freed slave'inden rivayet edilmiştir: \"Ben Osman bin Affan (رضي الله عنه)'ın caminin kapısında su istediğini gördüm. Elleri yıkadı, sonra ağzını çalkaladı, burnuna su aldı ve üfledi; sonra yüzünü üç kez yıkadı, sonra kollarını dirseklerine kadar üç kez yıkadı, sonra başını meshetti. Sonra kulaklarının dışını elleriyle geçirdi, ardından sakalının üzerinden geçirdi, sonra ayaklarını bileklerine kadar üç kez yıkadı. Sonra iki rek'at namaz kıldı. Sonra şöyle dedi: 'Ben sizin için abdest aldım, Allah'ın Elçisi (ﷺ)'nin abdest aldığı gibi, sonra ben de onun yaptığı gibi iki rek'at namaz kıldım. Allah'ın Elçisi (ﷺ) iki rek'at namazını bitirdiğinde şöyle dedi: 'Kim benim yaptığım gibi abdest alır, sonra aklını dağıtmadan iki rek'at namaz kılarsa, o, o namaz ile önceki namazı arasında gelen günahları affedilecektir.'\""
+    },
+    {
+      "id": 83,
+      "narrator": "It was narrated that Shaqeeq said:",
+      "text": "Şakik'ten rivayet edilmiştir: \"Abdur-Rahman bin 'Awf, el-Walid bin 'Uqbah ile karşılaştı. El-Walid ona: 'Neden Müminlerin Emiri Osman (رضي الله عنه)'dan uzak durduğunu görüyorum?' dedi. Abdur-Rahman ona: 'Ona de ki, ben 'Ainain günü kaçmadım - Asim dedi: Uhud günü - ve Bedir günü geri kalmadım, ve ben Ömer (رضي الله عنه)'un yolundan dönmedim.' O da gidip bunu Osman (رضي الله عنه)'a söyledi, Osman (رضي الله عنه) şöyle dedi: 'Onun 'Ainain günü kaçmadım demesine gelince, Allah'ın beni affettiği bir kusur için beni nasıl utandırabilir? Ve Allah: 'İki ordunun karşılaştığı gün geri dönenler, Şeytan'ın (İblis) onları günahları yüzünden geri çevirdiği kimselerdir. Ama Allah, gerçekten onları affetti.' dedi. Bedir günü geri kaldım demesine gelince, ben Allah'ın Elçisi (ﷺ)'nin kızı Ruqayyah'ı, ölmekteyken, tedavi ediyordum ve Allah'ın Elçisi (ﷺ) bana bir pay ayırmıştı ve Allah'ın Elçisi (ﷺ)'nin pay ayırdığı kimse orada bulunuyordu. 'Ömer (رضي الله عنه)'un yolundan dönmedim demesine gelince, bunu katlanamam ve o da katlanamaz. Git ve ona de ki,'\""
+    },
+    {
+      "id": 84,
+      "narrator": "It was narrated that `Uthman bin `Affan said:",
+      "text": "Osman bin Affan (رضي الله عنه)'dan rivayet edilmiştir: \"Allah'ın Elçisi (ﷺ) şöyle dedi: 'Kim cemaatle 'İsha' namazı kılarsa, bu, gecenin yarısını namazda geçirmek gibidir ve kim cemaatle 'İsha' ve 'Fajr' namazı kılarsa, bu, tüm geceyi namazda geçirmek gibidir.'\""
+    },
+    {
+      "id": 85,
+      "narrator": "It was narrated that Nubaih bin Wahb said:",
+      "text": "Nubaih bin Wahb'den rivayet edilmiştir: \"İbn Ma'mar, oğlunu Şaibah bin Jubair'in kızıyla evlendirmek istedi. Bu yüzden beni Hac Emiri olan Aban bin Osman'a gönderdi. Ona geldim ve şöyle dedim: 'Kardeşin oğlunun evliliğini ayarlamak istiyor ve senin buna şahit olmanı istiyor.' O da: 'Senin sadece kaba bir Iraklı olduğuna inanıyorum. İhramda olan bir hacı evlenmemeli veya evlilik ayarlamamalıdır.' Sonra Osman (رضي الله عنه)'dan benzer bir rivayet aktardı ve bunu Peygamber (ﷺ)'e atfetti.\""
+    },
+    {
+      "id": 86,
+      "narrator": "It was narrated from Humran, the freed slave of `Uthman (رضي الله عنه) that `Uthman did wudoo’ in al-Maqa`id, he washed each part of the body three times and said:",
+      "text": "Humran, Osman (رضي الله عنه)'ın al-Maqa'id'de abdest aldığını, her bir uzvunu üç kez yıkadığını ve şöyle dediğini rivayet etmiştir: \"Ben Allah'ın Elçisi (ﷺ)'nin şöyle söylediğini işittim: 'Kim benim yaptığım gibi abdest alır ve sonra namaza kalkarsa, onun günahları, yani yüzünden, ellerinden, ayaklarından ve başından dökülecektir.'\""
+    },
+    {
+      "id": 87,
+      "narrator": "It was narrated that Nubaih bin Wahb said:",
+      "text": "Nubaih bin Wahb'den rivayet edilmiştir: \"Umar bin Ubaidullah bin Ma'mar'ın gözlerinde bir sorun vardı. Aban bin Osman (رضي الله عنه)'a - Sufyan dedi ki: O Hac Emiri idi - ne yapması gerektiğini sordu. O da: 'Onlara aloe sür, çünkü ben Osman (رضي الله عنه)'ın bunu Allah'ın Elçisi (ﷺ)'nden duyduğunu işittim.'\""
+    },
+    {
+      "id": 88,
+      "narrator": "It was narrated from Aban bin `Uthman (رضي الله عنه) that he saw a funeral coming towards him. When he saw it, stood up and said:",
+      "text": "Aban bin Osman (رضي الله عنه)'dan rivayet edilmiştir ki, bir cenaze kendisine doğru geliyordu. Onu görünce ayağa kalktı ve şöyle dedi: \"Ben Osman (رضي الله عنه)'ın bunu yaptığını gördüm ve o bana bunun Peygamber (ﷺ) tarafından yapıldığını söyledi.\""
+    },
+    {
+      "id": 89,
+      "narrator": "It was narrated from `Aban bin `Uthman (رضي الله عنه) from ‘Uthman (رضي الله عنه), who attributed it to the Prophet (ﷺ) , that  said:",
+      "text": "Aban bin Osman (رضي الله عنه)'dan rivayet edilmiştir ki, o Osman (رضي الله عنه)'dan, Peygamber (ﷺ)'e atfedilen bir şekilde, ihramda olan bir hacının evlenmemesi veya evlilik teklifinde bulunmaması gerektiğini söylediğini rivayet etmiştir.\""
+    },
+    {
+      "id": 90,
+      "narrator": "",
+      "text": "Aban bin Osman (رضي الله عنه)'dan rivayet edilmiştir ki, o Osman (رضي الله عنه)'dan, Allah'ın Elçisi (ﷺ)'nin bir kolaylık verdiğini veya ihramda olan bir hacının gözlerinde bir sorun olduğunda aloe sürmesine izin verdiğini rivayet etmiştir."
+    },
+    {
+      "id": 91,
+      "narrator": "It was narrated that ‘Uthman (رضي الله عنه) said:",
+      "text": "'Uthman (رضي الله عنه) şöyle dediği rivayet edilmiştir: \"Kim Allah'tan başka ilah olmadığını bilerek ölürse, cennete girecektir.\""
+    },
+    {
+      "id": 92,
+      "narrator": "Ibn `Abbas (رضي الله عنه) told us. I said to ‘Uthman bin `Affan:",
+      "text": "İbn Abbas (رضي الله عنه) bize anlattı. 'Uthman bin 'Affan'a dedim ki: \"Neden al-Anfal'ı, Mathani'den biri olan ve Bara'ah'ı, al-mi'een'den biri olanı yan yana koydun ve aralarına - İbn Ca'fer dedi ki: Bismillahir-Rahmanir-Raheem yazılı bir çizgi koymadın ve onu yedi uzun sure ile birlikte yazmadın? Neden böyle yaptın?\" 'Uthman (رضي الله عنه) dedi ki: \"Bazen birçok sure, Allah'ın Elçisi'ne (ﷺ) eksik olarak indirilirdi ve bir şey indirildiğinde, bir yazıcıyı çağırır ve ona derdi ki: 'Bunu şu ve bu sureye koy.' Ve ona ayetler indirilirdi ve derdi ki: 'Bu ayetleri şu ve bu sureye koy.' Ve bir ayet indirildiğinde, derdi ki: 'Bu ayeti şu ve bu sureye koy.' Al-Anfal, Medine'de indirilen ilk surelerden biriydi ve Bara'ah, Kur'an'ın son surelerinden biriydi ve her iki surenin içeriği benzerdi. Sonra Allah'ın Elçisi (ﷺ) bizlere bunun kesinlikle bir parçası olduğunu belirtmeden vefat etti, ama biz bunun bir parça olduğunu düşündük, bu yüzden ben onları bir araya koydum ve aralarına Bismillahir-Rahmanir-Raheem yazılı çizgiyi koymadım ve onu yedi uzun sure ile birlikte yerleştirdim.\""
+    },
+    {
+      "id": 93,
+      "narrator": "It was narrated from `Uthman (رضي الله عنه) that The Prophet (ﷺ) said:",
+      "text": "'Uthman (رضي الله عنه)'dan rivayet edilmiştir ki, Peygamber (ﷺ) şöyle buyurmuştur: \"Sizlerin en hayırlısı, Kur'an'ı öğrenen ve öğretenlerdir.\""
+    },
+    {
+      "id": 94,
+      "narrator": "Abu Sahlah narrated that `Uthman (رضي الله عنه) said on the day of the house when he was under siege. The Prophet (ﷺ) solemnly advised me and I shall follow his advice with patience. Qais said:",
+      "text": "Ebu Sahlah, 'Uthman (رضي الله عنه)'ın kuşatma altındaki evde söylediğini rivayet etti. Peygamber (ﷺ) bana ciddi bir şekilde nasihat etti ve ben onun nasihatine sabırla uyacağım. Kays dedi ki: \"Onlar (nasihatini) o günle ilgili olduğunu düşündüler.\""
+    },
+    {
+      "id": 95,
+      "narrator": "It was narrated from al-Hasan bin Sa`d that Rabah said:",
+      "text": "Hasan bin Sa'd'dan rivayet edilmiştir ki, Rabah şöyle dedi: \"Efendilerim beni kendilerine ait bir Romalı cariye ile evlendirdiler. Onunla yakınlaştım ve bana benim gibi siyah bir oğul doğurdu ve adını Abdullah koydum. Sonra tekrar onunla yakınlaştım ve yine bana benim gibi siyah bir oğul doğurdu ve adını 'Ubaidullah koydum. Efendilerimin Yuhannas adında bir Romalı kölesi vardı, o da onunla kendi diliyle, yani Romalıca konuştu. Sonra o da onunla yakınlaştı ve ona bir oğul doğurdu, o da bir kertenkele gibi kırmızıydı. Ben ona dedim ki: \"Bu nedir?\" O da: \"O Yuhannas'ın çocuğudur.\" dedik. Bunun üzerine durumu Ameer al-Mu'mineen 'Uthman (رضي الله عنه)'a ilettik ve her ikisi de itiraf etti. O da: \"Ben, Allah'ın Elçisi (ﷺ) arasında hüküm vermemi kabul eder misiniz?\" dedi. O da: \"Allah'ın Elçisi (ﷺ) çocuğun kadının (kocası) ile ilişkilendirilmesi gerektiğine hükmetti.\" dedi. Ve onları kırbaçladı.\""
+    },
+    {
+      "id": 96,
+      "narrator": "It was narrated that Jami` bin Shaddad said:",
+      "text": "Cami' bin Şeddad'dan rivayet edilmiştir ki, Humran bin Aban'ın, camide Ebu Burdah'a 'Uthman bin 'Affan (رضي الله عنه)'dan rivayet ettiğini duyduğunu söyledim ki, o da Peygamber (ﷺ)'in şöyle dediğini aktardı: \"Kim Allah'ın emrettiği gibi abdest alırsa, farz namazlar arasında meydana gelen günahlara kefaret olur.\""
+    },
+    {
+      "id": 97,
+      "narrator": "It was narrated that Simak Harb said:",
+      "text": "Simak Harb'dan rivayet edilmiştir ki, Abbad bin Zahir Ebu Ruwa' şöyle dedi: \"Ben 'Uthman (رضي الله عنه)'ın bir hutbe verdiğini duydum ve o da şöyle dedi: 'Vallahi, ben Allah'ın Elçisi (ﷺ) ile seyahat ederken ve seyahat etmediğim zamanlarda beraber oldum; o hastalarımızı ziyaret eder, cenazelerimize katılır, bizimle birlikte sefere çıkar ve elinden geldiğince bize teselli verirdi. Bazı insanlar bana ondan bahsediyorlar ve belki de hiçbiri onu görmedi.'\""
+    },
+    {
+      "id": 98,
+      "narrator": "Sa`eed bin al-Musayyab said.:",
+      "text": "Said bin el-Musayyab şöyle dedi: \"Ben 'Uthman (رضي الله عنه)'ı el-Maqa'id'de otururken gördüm. Ateşle temas etmiş yiyecek istedi ve yedi, sonra namaz kılmak için kalktı; namaz kıldı, sonra 'Uthman (رضي الله عنه) dedi ki: 'Ben, Allah'ın Elçisi (ﷺ) oturduğu yerde oturdum ve Allah'ın Elçisi (ﷺ)'nin yediği yiyeceği yedim ve Allah'ın Elçisi (ﷺ)'nin kıldığı namazı kıldım.'\""
+    },
+    {
+      "id": 99,
+      "narrator": "It was narrated from Mahmood bin Labeed That `Uthman (رضي الله عنه) wanted to build (an extension to) the mosque of Madinah, but the people objected to that and wanted to leave it as it was. `Uthman (رضي الله عنه) said:",
+      "text": "Mahmood bin Labeed'den rivayet edilmiştir ki, 'Uthman (رضي الله عنه) Medine camisinin (bir ek bina) inşasını istedi, ama insanlar buna itiraz ettiler ve olduğu gibi bırakmak istediler. 'Uthman (رضي الله عنه) dedi ki: \"Ben, Allah'ın Elçisi (ﷺ)'nin şöyle dediğini duydum: 'Kim Allah rızası için bir cami inşa ederse, Allah da ona cennette bunun gibi bir ev inşa eder.'\""
+    },
+    {
+      "id": 100,
+      "narrator": "It was narrated that `Uthman bin `Affan (رضي الله عنه) said:",
+      "text": "'Uthman bin 'Affan (رضي الله عنه)'dan rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurmuştur: \"Kim benimle ilgili olarak kasıtlı bir yalan söylerse, ateşteki yeri hazırlansın.\""
+    },
+    {
+      "id": 101,
+      "narrator": "It was narrated that ‘Uthman bin `Affan(رضي الله عنه) said:",
+      "text": "'Uthman bin 'Affan (رضي الله عنه)'dan rivayet edilmiştir ki, Allah'ın Elçisi (ﷺ) şöyle buyurmuştur: \"Allah, alışverişte, borç ödemede ve kendisine borç istenirken kolaylık gösteren bir adamı cennete kabul etti.\""
+    },
+    {
+      "id": 102,
+      "narrator": "It was narrated that Abu Umamah bin Sahl bin Hunaif said. We were with Uthman when he was besieged in the house. He said:",
+      "text": "Ebu Umamah bin Sahl bin Hunaif şöyle dedi: \"Biz 'Uthman ile evde kuşatıldığında beraberdik. O: 'Beni neden öldürecekler?' dedi. Ben, Allah'ın Elçisi (ﷺ)'nin şöyle dediğini duydum: 'Bir Müslümanın kanını dökmek, ancak üç durumda caizdir: Bir adam Müslüman olduktan sonra inkâr ederse, evli olduğu halde zina ederse veya birini öldürüp intikam alınırsa.'\""
+    },
+    {
+      "id": 103,
+      "narrator": "It was narrated that Abu ‘Ubaid, the freed slave of `AbdurRahman bin Azhar, said:",
+      "text": "Ebu 'Ubaid, 'Abdurrahman bin Azhar'ın azatlı kölesi şöyle dedi: \"Ben, 'Ali (رضي الله عنه) ve 'Uthman (رضي الله عنه)'ı Eid al-Fitr ve Eid al-Adha günlerinde gördüm; namaz kıldılar, sonra bitirdiklerinde insanları hatırlattılar. Onların şöyle dediğini duydum: 'Allah'ın Elçisi (ﷺ) bu iki günde oruç tutmayı yasakladı.' Dedi ki: 'Ve ben 'Ali'nin şöyle dediğini duydum: 'Allah'ın Elçisi (ﷺ) kurban etme etinin üç günden fazla bırakılmasını yasakladı.'\""
+    },
+    {
+      "id": 104,
+      "narrator": "Al-Ahnaf said:",
+      "text": "El-Ahnaf şöyle dedi: \"Hac için yola çıktık ve Medine'den geçtik. Kampımızdayken, birisi bize geldi ve camide insanların panik içinde olduğunu söyledi. Arkadaşım ve ben yola çıktık ve camide bir grup etrafında toplanmış insanları bulduk. Onların arasından geçerek o gruba ulaştım, orada 'Ali bin Ebi Talib, Az-Zubair, Talhah ve Sa'd bin Ebi Vakkas'ı buldum. Kısa süre sonra 'Uthman yürüyerek geldi ve: 'Ali burada mı?' dedi. Onlar: 'Evet.' dediler. O: 'Az-Zubair burada mı?' dedi. Onlar: 'Evet.' dediler. O: 'Talhah burada mı?' dedi. Onlar: 'Evet.' dediler. O: 'Sa'd burada mı?' dedi. Onlar: 'Evet.' dediler. O: 'Vallahi, Allah'a yemin ederim, O'ndan başka ilah yoktur, Allah'ın Elçisi (ﷺ)'nin şöyle dediğini biliyor musunuz: 'Kim (Banu) so-so'nun hurma kurutma yerini satın alırsa, Allah onu affedecektir.' Ben de onu satın aldım ve Allah'ın Elçisi (ﷺ)'ne gittim ve: 'Ben onu satın aldım.' dedim; o da: 'Bunu camimize ekleyin ve bunun karşılığı size olacaktır.' dedi. Onlar: 'Evet.' dediler. O: 'Vallahi, Allah'a yemin ederim, O'ndan başka ilah yoktur, Allah'ın Elçisi (ﷺ)'nin şöyle dediğini biliyor musunuz: 'Kim Roomah kuyusunu satın alır?' Ben de onu şu kadarına satın aldım ve Allah'ın Elçisi (ﷺ)'ne gittim ve: 'Ben onu satın aldım - yani Roomah kuyusunu, o da: 'Bunu Müslümanlar için bir su kaynağı yapın ve bunun karşılığı size olacaktır.' dedi. Onlar: 'Evet.' dediler. O: 'Vallahi, Allah'a yemin ederim, O'ndan başka ilah yoktur, Allah'ın Elçisi (ﷺ)'nin, Tabuk ordusu gününde insanların yüzlerine baktığını ve: 'Kim bu adamları donatırsa, Allah onu affedecektir.' dediğini biliyor musunuz? Ben de onları donattım, hatta onlara ip ya da halat bırakmadım.' Onlar: 'Vallahi, evet.' dediler. O: 'Ey Allah, şahit ol, ey Allah, şahit ol; ey Allah, şahit ol.' Sonra ayrıldı.\""
+    },
+    {
+      "id": 105,
+      "narrator": "It was narrated that one of the family of Ya`la bin Umayyah said:",
+      "text": "Ya'la bin Umayyah'ın ailesinden birinin rivayet ettiğine göre, Ya'la şöyle dedi: \"Ben 'Uthman (رضي الله عنه) ile tavaf ettim ve köşeye dokundu. Ya'la dedi ki: 'Ben Kabe'nin yanındaydım ve Kara Taş'a bitişik olan batı köşesine geldiğimde, onun elini dokundurmak için elini aldım ve o da: 'Seninle ne oluyor?' dedi. Ben de: 'Onu dokundurmayacak mısın?' dedim. O: 'Sen, Allah'ın Elçisi (ﷺ) ile tavaf etmedin mi?' dedi. Ben de: 'Evet, gerçekten.' dedim. O: 'O, bu iki batı köşesine dokunduğunu gördün mü?' dedi. Ben de: 'Hayır.' dedim. O: 'Onun içinde güzel bir örnek yok mu?' dedi. Ben de: 'Evet, gerçekten.' dedim. O: 'O halde bu konuda endişelenmeyi bırak.'\""
+    },
+    {
+      "id": 106,
+      "narrator": "Alu’ Aqeel narrated  That he heard al Harith, the freed slave of `Uthman  (رضي الله عنه), say:",
+      "text": "Alu’ Aqeel, `Uthman (رضي الله عنه)'ın freed slave'ı olarak, al Harith'ten şunu duyduğunu aktardı: `Uthman bir gün oturdu ve biz de onunla oturduk. Mu’adhdhin ona geldi ve `Uthman bir kapta su istedi; bu kabın bir mudd kadar su alacağını düşündüm. Abdest aldı, sonra şöyle dedi: \"Ben, Allah'ın Messenger'ını (ﷺ) tam da benim yaptığım gibi abdest alırken gördüm.\" Sonra şöyle dedi: \"Kim benim yaptığım gibi abdest alır ve sonra kalkıp Zuhr namazını kılarsa, o kişi Fajr ile Zuhr arasında işlediği (günahlar) için affedilecektir; sonra eğer `Asr'ı kılarsa, o kişi Zuhr ile `Asr arasında işlediği (günahlar) için affedilecektir; sonra eğer Maghrib'i kılarsa, o kişi `Asr ile Maghrib arasında işlediği (günahlar) için affedilecektir; sonra eğer İsha'yı kılarsa, o kişi Maghrib ile İsha arasında işlediği (günahlar) için affedilecektir. Sonra geceyi fiziksel zevk içinde geçirebilir, sonra eğer kalkıp abdest alır ve Fajr'ı kılarsa, o kişi İsha ile Fajr arasında işlediği (günahlar) için affedilecektir. İşte bu, kötü işleri ortadan kaldıran iyi amellerdir (bkz. 11:114).\" Onlar dediler: \"Bunlar iyi ameller, ama kalıcı olan iyi ve salih ameller nelerdir (bkz. 18:46), ey `Uthman?\" O da şöyle dedi: \"Onlar, 'La Ilaha Illallah, wa subhanallah wal-hamdu Lillah wallahu akbar, wa la hawla wa la quwwata illa billah' (Allah'tan başka ilah yoktur, Allah'a hamdolsun, Allah en büyüktür ve güç ve kuvvet yalnızca Allah'tandır) sözleridir.\""
+    },
+    {
+      "id": 107,
+      "narrator": "`A`ishah, the wife of the Prophet (ﷺ) and ‘Uthman  (رضي الله عنه) narrated that Abu Bakr asked for permission to enter upon the Messenger of Allah (SWT) when he was lying down on his bed, wearing the cover of `A`ishah. He gave permission to Abu Bakr (to enter) when he was like that, and he fulfilled his need then he went away. Then ‘Umar asked for permission to enter and he gave him permission (to enter) when he was like that, and he fulfilled his need then he went away. `Uthman said:",
+      "text": "`A`ishah, Peygamber (ﷺ) ve `Uthman (رضي الله عنه)'ın eşi olarak, Abu Bakr'ın Allah'ın Messenger'ına (SWT) girmek için izin istediğini, O'nun yatağında yattığını ve `A`ishah'ın örtüsü içinde olduğunu aktardı. O, Abu Bakr'a (girmesi için) izin verdi ve o da ihtiyacını karşıladıktan sonra gitti. Sonra `Umar girmek için izin istedi ve O, ona (girmesi için) izin verdi; o da ihtiyacını karşıladıktan sonra gitti. `Uthman dedi ki: \"Sonra ben girmek için izin istedim ve O, oturdu ve `A`ishah'a: 'Kendini düzgün ört' dedi. Ben de ihtiyacımı karşıladıktan sonra gittim. `A`ishah dedi ki: 'Ey Allah'ın Messenger'ı (ﷺ), neden Abu Bakr ve `Umar için senin yaptığın gibi hareket etmedin?' Allah'ın Messenger'ı (SWT) dedi ki: '`Uthman utangaç bir adamdır ve ben, o durumda ona girmesi için izin verirsem, ihtiyacını bana söylemeyeceğinden korktum.' Al-Laith dedi ki: Bazı insanlar şöyle dedi: Allah'ın Messenger'ı (ﷺ) `A`ishah'a (رضي الله عنها) dedi ki: 'Meleklerin utandığı bir adamdan utanmamalı mıyım?'"
+    },
+    {
+      "id": 108,
+      "narrator": "It was narrated from Humran, the freed slave of ‘Uthman, that `Uthman bin `Affan said:",
+      "text": "Sa`eed bin al-`As, `Uthman ve `A`ishah'tan, Abu Bakr'ın Allah'ın Messenger'ına (ﷺ) girmek için izin istediğini, O'nun yatağında yattığını ve `A`ishah'ın örtüsü içinde olduğunu aktardı. Ve o, ‘Uqail'in hadisine benzer bir hadis aktardı."
+    },
+    {
+      "id": 109,
+      "narrator": "It was narrated that Abu Hurairah (رضي الله عنه) said:",
+      "text": "Humran, `Uthman'ın freed slave'ı olarak, `Uthman bin `Affan'ın şunu söylediğini aktardı: \"Ben, Allah'ın Messenger'ı (ﷺ) şöyle derken duydum: 'Kim abdest alır ve bunu düzgün yaparsa, sonra farz bir namaz kılmak için gider ve onu kılarsa, onun günahları affedilecektir.'\""
+    },
+    {
+      "id": 110,
+      "narrator": "Aban bin `Uthman said:",
+      "text": "Abu Hurairah (رضي الله عنه) dedi ki: `Uthman (رضي الله عنه) Hac için Mekkah'a gitti. Muhammad bin Ja`far bin Abi Talib'in eşi ona girdi (yani kocasına) ve o gece onunla birlikte kaldı. Sonra sabah, o (yani Muhammad bin Ja`far) parfüm kokarak ve safran boyasıyla ıslatılmış bir örtüyle çıktı. İnsanların yola çıkmadan önce yorgunluk içinde onlara yetişti. `Uthman onu görünce onu azarladı ve hoşnutsuzluğunu ifade ederek şöyle dedi: \"Allah'ın Messenger'ının (ﷺ) yasakladığı bir safran boyası giymekle mi?\" `Ali bin Abi Talib (رضي الله عنه) ona şöyle dedi: \"Allah'ın Messenger'ı (ﷺ) bunu ne sana ne de bana yasaklamadı; sadece bana yasakladı.\""
+    },
+    {
+      "id": 111,
+      "narrator": "It was narrated that `Uthman bin, `Affan said:",
+      "text": "Aban bin `Uthman dedi ki: `Uthman şöyle dedi: \"Ben, Allah'ın Messenger'ı (ﷺ) şöyle derken duydum: 'Sizce, birinizin avlusunda bir nehir olsa ve o her gün beş kez orada yıkanırsa, üzerinde hiç kir kalır mı?' Onlar dediler: 'Hiçbir şey kalmaz.' O da şöyle dedi: 'Günde beş vakit namaz, günahları suyun kiri temizlemesi gibi temizler.'\""
+    },
+    {
+      "id": 112,
+      "narrator": "It was narrated from `Uthman that the Messenger of Allah (ﷺ)  said:",
+      "text": "`Uthman bin `Affan'dan nakledildi ki, Allah'ın Messenger'ı (ﷺ) şöyle dedi: \"Araplara ihanet eden, benim şefaatimi asla almayacak ve benim sevgimi kazanamayacaktır.\""
+    },
+    {
+      "id": 113,
+      "narrator": "Al Hasan narrated:",
+      "text": "`Uthman'dan nakledildi ki, Allah'ın Messenger'ı (ﷺ) şöyle dedi: \"Boynuzsuz hayvan, kıyamet gününde boynuzlu olanla hesaplaşacaktır.\""
+    },
+    {
+      "id": 114,
+      "narrator": "It was narrated that Umm Moosa said:",
+      "text": "Al Hasan, `Uthman'ın hutbesinde köpeklerin öldürülmesi ve güvercinlerin kesilmesini emrettiğini gördüğünü aktardı."
+    },
+    {
+      "id": 115,
+      "narrator": "Ibraheem bin Sa`d narrated:",
+      "text": "Umm Moosa'dan nakledildi ki: `Uthman, insanların en yakışıklısıydı."
+    },
+    {
+      "id": 116,
+      "narrator": "Ibraheem bin Sa’d narrated:",
+      "text": "İbraheem bin Sa`d, babasının şöyle dediğini aktardı: \"Ben namaz kılıyordum ve bir adam önümden geçti; onu durdurmaya çalıştım ama ısrar etti. Ben de `Uthman bin `Affan'a (bu konuda) sordum ve o da: 'Bu seni etkilemez, ey kardeşimin oğlu.' dedi.\""
+    },
+    {
+      "id": 117,
+      "narrator": "It was narrated from ‘Ubaidullah bin Abi Rafi’, the freed slave of the Messenger of Allah (ﷺ) , from `Ali bin Abi Talib (رضي الله عنه) that  The Messenger of Allah (ﷺ) stood in Arafah with Usamah bin Zaid riding behind him, and said:",
+      "text": "İbraheem bin Sa’d, babasının şöyle dediğini aktardı: `Uthman şöyle dedi: \"Eğer Allah'ın Kitabı'nda, O yüceltilmiş ve azizdir, benim ayaklarımı pranga ile bağlamanız gerektiğini bulursanız, o zaman bunu yapın.\""
+    },
+    {
+      "id": 118,
+      "narrator": "It was narrated from Muslim Abu Sa`eed, the freed slave of `Uthman bin `Affan (رضي الله عنه) that  `Uthman bin `Affan manumitted twenty slaves, and called for some pants and put them on; he had never worn them before, either during the Jahiliyyah or in Islam. And he said:",
+      "text": "‘Ubaidullah bin Abi Rafi’, Allah'ın Messenger'ının (ﷺ) freed slave'ı olarak, `Ali bin Abi Talib (رضي الله عنه)'den nakledildi ki, Allah'ın Messenger'ı (ﷺ) Arafat'ta Usamah bin Zaid'in arkasında oturdu ve şöyle dedi: \"Burada durma yeri, Arafat'ın tamamı durma yeridir.\" Sonra yavaş bir tempoda ilerledi ve insanlar sağa sola koşmaya başladı. Onlara döndü ve şöyle dedi: \"Sakin olun, ey insanlar; sakin olun, ey insanlar.\" Sonra al-Muzdalifah'a geldi ve iki namazı birleştirdi, sonra al-Muzdalifah'ta Quzah adında bir yerde durdu, al-Fadl bin al-`Abbas onun arkasında oturdu ve şöyle dedi: \"Burada durma yeri ve Muzdalifah'ın tamamı durma yeridir.\" Sonra yavaş bir tempoda ilerledi ve insanlar sağa sola koşmaya başladı. Onlara döndü ve şöyle dedi: \"Sakin olun, ey insanlar; sakin olun, ey insanlar.\" Hadisi uzun bir şekilde aktardı."
+    },
+    {
+      "id": 119,
+      "narrator": "It was narrated that `Uthman said:",
+      "text": "Muslim Abu Sa`eed, `Uthman bin `Affan'ın freed slave'ı olarak, `Uthman bin `Affan'ın yirmi köleyi azat ettiğini ve bazı pantolonlar istediğini, onları giydiğini; daha önce ne cahiliye döneminde ne de İslam'da onları giymediğini aktardı. Ve şöyle dedi: \"Geçen gece Allah'ın Messenger'ını (ﷺ) rüyamda gördüm, Abu Bakr ve `Umar'ı (رضي الله عنهما) gördüm ve bana: 'Sabırlı ol, çünkü yarın bizimle oruç açacaksın.' dediler. Sonra bir Mushaf istedi ve onu açtı, önünde onunla öldürüldü.\""
+    },
+    {
+      "id": 120,
+      "narrator": "It was narrated from Aban bin `Uthman, from `Uthman, that  The Prophet (ﷺ) said:",
+      "text": "`Uthman şöyle dedi: \"Ben, Allah'ın Messenger'ını (ﷺ) abdest alırken gördüm: yüzünü üç kez yıkadı, ellerini üç kez yıkadı, kollarını her birini üç kez yıkadı, başını meshetti ve ayaklarını iyice yıkadı.\""
+    },
+    {
+      "id": 121,
+      "narrator": "",
+      "text": "Aban bin `Uthman'dan rivayet edilmiştir ki, o bir cenaze geçerken gördü. Cenazeyi görünce ayağa kalktı ve şöyle dedi: \"Ben `Uthman'ı böyle yaparken gördüm ve o da bana, Resulullah (ﷺ)'ı böyle yaparken gördüğünü söyledi.\""
+    },
+    {
+      "id": 122,
+      "narrator": "It was narrated from `Amr bin `Uthman bin `Affan (رضي الله عنه) that his father said:",
+      "text": "`Amr bin `Uthman bin `Affan (رضي الله عنه)'dan rivayet edilmiştir ki, babası şöyle dedi: \"Allah'ın Resulü (ﷺ) şöyle buyurdu: 'Günün erken saatlerinde uyumak, rızkın kesilmesine sebep olur.'\""
+    },
+    {
+      "id": 123,
+      "narrator": "It was narrated from Ibraheem` bin `Abdullah bin Farrookh that his father said:",
+      "text": "İbraheem bin `Abdullah bin Farrookh'tan rivayet edilmiştir ki, babası şöyle dedi: \"Ben `Uthman bin `Affan (رضي الله عنه)'ı kanıyla ıslanmış elbiseleri içinde gömülü olarak gördüm. O yıkanmamıştı.\""
+    },
+    {
+      "id": 124,
+      "narrator": "It was narrated from Mihjan the freed slave of `Uthman, that `Uthman  said:",
+      "text": "Mihjan, `Uthman'ın azatlı kölesinden rivayet edilmiştir ki, `Uthman şöyle dedi: \"Ben Allah'ın Resulü (ﷺ)'nün şöyle buyurduğunu duydum: 'Allah, gölgesinin dışında gölge olmayan günde, zor durumda olan bir borçluya süre veren veya çok borcu olan birine borcunu affeden kişiyi gölgesiyle gölgeleyecektir.'\""
+    },
+    {
+      "id": 125,
+      "narrator": "It was narrated from ‘Amr bin `Uthman bin `Affan (رضي الله عنه) that his father said:",
+      "text": "‘Amr bin `Uthman bin `Affan (رضي الله عنه)'dan rivayet edilmiştir ki, babası şöyle dedi: \"Allah'ın Resulü (ﷺ) şöyle buyurdu: 'Sabah erken uyumak, rızkın kesilmesine sebep olur.'\""
+    },
+    {
+      "id": 126,
+      "narrator": "It was narrated from Aban bin `Uthman, from his father, that the Prophet       (ﷺ)said:",
+      "text": "Aban bin `Uthman'dan, babasından rivayet edilmiştir ki, Peygamber (ﷺ) şöyle buyurdu: \"İhramda olan bir hacı evlenmemeli, evlilik düzenlememeli veya evlenme teklifinde bulunmamalıdır.\""
+    },
+    {
+      "id": 127,
+      "narrator": "It was narrated from Nafiʼ; Nubaih bin Wahb told me:",
+      "text": "Nafi’'den; Nubaih bin Wahb bana şöyle söyledi: \"`Umar bin Ubaidullah bin Ma’mar, oğlu adına Shaibah bin `Uthman'ın kızına evlenme teklif etti. Beni Hac lideri olan Aban bin `Uthman'a gönderdi ve o şöyle dedi: 'Sanırım o bir bedevi olmalı. İhramda olan bir hacı evlenmemeli veya evlilik düzenlememelidir.' `Uthman (رضي الله عنه) bana bunu Peygamber (ﷺ)'den söyledi ve Nubaih de babasından benzer bir şey söyledi.\""
+    },
+    {
+      "id": 128,
+      "narrator": "It was narrated that Na`ilah bint al-Farafisah, the wife of `Uthman bin `Affan  (رضي الله عنه) said:",
+      "text": "Na`ilah bint al-Farafisah, `Uthman bin `Affan (رضي الله عنه)'ın eşi olarak şöyle dedi: \"Ameer al-Mu'mineen, `Uthman uykuya daldı ve kısa bir şekerleme yaptı. Uyandığında, 'İnsanlar kesinlikle beni öldürecek' dedi. Ben de, 'Hayır, inşallah bu kadar ileri gitmeyecek: senin halkın sadece senden bir açıklama isteyecek' dedim. O da, 'Ben rüyamda Allah'ın Resulü (ﷺ)'nü, Abu Bakr ve `Umar'ı (رضي الله عنهما) gördüm ve onlar şöyle dediler: 'Bu gece bizimle oruç açacaksın.'\""
+    },
+    {
+      "id": 129,
+      "narrator": "It was narrated that al-Hasan bin Abil-Hasan said:",
+      "text": "al-Hasan bin Abil-Hasan'dan rivayet edilmiştir ki, ben camiye girdim ve `Uthman bin `Affan (رضي الله عنه)'ı rida'sının üzerine yaslanmış olarak gördüm. İki su taşıyıcısı ona geldi ve aralarında hüküm verdi. Sonra yanına geldim ve ona baktım; o, çiçek hastalığı izleri olan yakışıklı bir adamdı ve kolları tüylerle kaplıydı."
+    },
+    {
+      "id": 130,
+      "narrator": "Umm Ghurab narrated that Bunanah said:",
+      "text": "Umm Ghurab, Bunanah'tan rivayet etti ki: \"`Uthman asla saçını boyamadı.\""
+    },
+    {
+      "id": 131,
+      "narrator": "",
+      "text": "Waqid bin ‘Abdullah At-Tameemi, ‘Uthman bin ‘Affan (رضي الله عنه)'ı dişleri altınla kaplı olarak gören birinden rivayet etti."
+    },
+    {
+      "id": 132,
+      "narrator": "It was narrated that Moosa bin Talha said:",
+      "text": "Moosa bin Talha'dan rivayet edilmiştir ki: \"Ben ‘Uthman bin ‘Affan (رضي الله عنه)'ı minberde iken ve mu’adhdhin ikamet getirirken, insanlara haberleri ve işlerini sorarken duydum.\""
+    },
+    {
+      "id": 133,
+      "narrator": "",
+      "text": "as-Sa’ib bin Yazeed'den rivayet edilmiştir ki, ’Uthman (رضي الله عنه) Sad Suresi'nde secde etti."
+    },
+    {
+      "id": 134,
+      "narrator": "It was narrated from Ibraheem bin ‘Abdullah - i.e. Ibn Farrookh - that his father said:",
+      "text": "İbraheem bin ‘Abdullah - yani Ibn Farrookh -'dan rivayet edilmiştir ki, babası şöyle dedi: \"Ben `Uthman (رضي الله عنه)'ın arkasında Eid namazı kıldım ve o, takbiri yedi kez ve beş kez (yani, birinci ve ikinci rek'atlarda) söyledi.\""
+    },
+    {
+      "id": 135,
+      "narrator": "Al-Hasan mentioned `Uthman`s extreme shyness and said:",
+      "text": "Al-Hasan, `Uthman'ın aşırı utangaçlığını bahsetti ve şöyle dedi: \"Eğer kapısı kapalı bir odada bulunursa ve üzerine su dökmek için elbisesini çıkarırsa, utangaçlık onu dik durmaktan alıkoyar.\""
+    },
+    {
+      "id": 136,
+      "narrator": "Umayyah bin Shibl and others said:",
+      "text": "Umayyah bin Şibl ve diğerleri dediler ki: Osman (رضي الله عنه) on iki yıl halifelik yaptı ve kargaşa beş yıl sürdü."
+    },
+    {
+      "id": 137,
+      "narrator": "It was narrated that Abu Ma`shar said:",
+      "text": "Abu Maşar'dan rivayet edildi ki: Osman (رضي الله عنه) 35 Hicri yılında Zilhicce'nin on sekizinci günü şehit edildi. Halifeliği on iki yıl, on iki gün sürdü."
+    },
+    {
+      "id": 138,
+      "narrator": "",
+      "text": "Abu Üsame, Osman (رضي الله عنه) al-tashreeq günlerinin ortasında şehit edildiğini rivayet etti."
+    },
+    {
+      "id": 139,
+      "narrator": "",
+      "text": "Katade, Osman (رضي الله عنه) doksan yaşında veya seksen sekiz yaşında şehit edildiğini rivayet etti."
+    },
+    {
+      "id": 140,
+      "narrator": "lt was narrated that Abul ’Aliyah said:",
+      "text": "Abul Aliyah'dan rivayet edildi ki: İlk on gün Osman (رضي الله عنه) kapısını koruyorduk."
+    },
+    {
+      "id": 141,
+      "narrator": "It was narrated that Qatadah said:",
+      "text": "Katade'den rivayet edildi ki: Zübeyir, Osman (رضي الله عنه) için cenaze namazı kıldırdı ve onu talimatlarına uygun olarak defnetti."
+    },
+    {
+      "id": 142,
+      "narrator": "It was narrated that ‘Abdullah bin Muhammad bin `Aqeel said:",
+      "text": "Abdullah bin Muhammed bin Akil'den rivayet edildi ki: Osman (رضي الله عنه) 35 Hicri yılında şehit edildi ve fitne beş yıl sürdü, buna Hasan'ın dört aylık yönetimi de dahildir."
+    },
+    {
+      "id": 143,
+      "narrator": "It was narrated that Abul `Aliyah said:",
+      "text": "Abul Aliyah'dan rivayet edildi ki: İlk on gün Osman (رضي الله عنه) kapısını koruyorduk."
+    },
+    {
+      "id": 144,
+      "narrator": "It was narrated from Zaid bin Aslam that his father said:",
+      "text": "Zaid bin Aslam'dan rivayet edildi ki, babası şöyle dedi: Osman (رضي الله عنه) kuşatıldığı gün, cenaze yapılan yerde onu gördüm; bir taş atılsa, bir adamın başına düşerdi. Osman (رضي الله عنه) Cebrail'in (عليه السلام) bir zamanlar durduğu yerin yanındaki pencereden dışarı baktı ve şöyle dedi: Ey insanlar, Talha aranızda mı? Sessiz kaldılar. Sonra dedi: Ey insanlar, Talha aranızda mı? Sessiz kaldılar. Sonra tekrar dedi: Ey insanlar, Talha aranızda mı? Talha bin Ubeydullah ayağa kalktı ve Osman (رضي الله عنه) ona: Orada mısın? Üç kez beni çağırdığımı duyup da bir topluluk içinde olacağını düşünmemiştim. Allah'a yemin ederim, ey Talha, seninle birlikte Allah'ın Resulü (ﷺ) ile şu ve bu yerde bulunduğumuz günü hatırlıyor musun, onun yanında başka hiç kimse yoktu, sadece sen ve ben vardık. O da: Evet, dedi. Sonra gitti."
+    },
+    {
+      "id": 145,
+      "narrator": "",
+      "text": "Humran bin Aban'dan rivayet edildi ki, bir gün Osman (رضي الله عنه) abdest alırken onu gördüm; ağzını ve burnunu çalkaladı, yüzünü üç kez yıkadı... ve o, Peygamber (ﷺ) ile ilgili Ibn Ja'far'ın Sa'eed'den rivayet ettiği hadise benzer bir hadis aktardı."
+    },
+    {
+      "id": 146,
+      "narrator": "It was narrated from one of the Ansar that his father said:",
+      "text": "Ansar'dan birinden rivayet edildi ki, babası şöyle dedi: Osman bin Affan (رضي الله عنه) ile birlikte duruyordum ve o: Size Allah'ın Resulü (ﷺ) abdest alırken nasıl yaptığını söylemeyeyim mi? Dedik: Evet, elbette. Su istedi ve yüzünü üç kez yıkadı, ağzını ve burnunu üç kez çalkaladı, sonra dirseğine kadar ellerini üç kez yıkadı, sonra başını ve kulaklarını meshetti, ayaklarını üç kez yıkadı. Sonra dedi: İşte Allah'ın Resulü (ﷺ) abdest alırken böyle yaptı."
+    },
+    {
+      "id": 147,
+      "narrator": "It was narrated that Thumamah bin Hazn al-Qushairi said:",
+      "text": "Thumamah bin Hazn el-Kuşeyri'den rivayet edildi ki: Osman (رضي الله عنه) şehit edildiği gün onun evinde bulundum. Onlara dışarı baktı ve: Bana karşı sizi kışkırtan iki arkadaşınızı çağırın dedi. Onlar çağrıldı ve o: Allah'a yemin ederim, Allah'ın Resulü (ﷺ) Medine'ye geldiğinde, cami halkı için çok kalabalık hale geldi ve şöyle dedi: \"Bu araziyi kendi malıyla kim satın alacak ve diğer Müslümanlar gibi onu kullanacak (yani, Müslümanlara bağışlayacak ve onlarla paylaşacak) ve cennette bunun daha iyisini elde edecek?\" Ben de onu kendi malımla satın aldım ve Müslümanlara bağışladım, ama şimdi iki rek'at namaz kılmama engel oluyorsunuz! Sonra dedi: Allah'a yemin ederim, Allah'ın Resulü (ﷺ) Medine'ye geldiğinde içmek için iyi bir kuyu yoktu, sadece (Roomah kuyusu) vardı. Allah'ın Resulü (ﷺ) dedi ki: \"Kendi malıyla kim satın alacak ve kova Müslümanlarınki gibi olacak (yani, kuyuyu Müslümanlara bağışlayacak ve onlarla paylaşacak) ve cennette bunun daha iyisini elde edecek?\" Ben de onu kendi malımla satın aldım, ama şimdi içmeme engel oluyorsunuz. Sonra dedi: Biliyor musunuz ki ben, zor zamanlar ordusunu (yani, Tabuk seferine giden orduyu) donatan kişiyim? Onlar: Allah'a yemin ederiz, evet dediler."
+    },
+    {
+      "id": 148,
+      "narrator": "It was narrated that Shaqeeq said:",
+      "text": "Şakik'den rivayet edildi ki: Abdurrahman bin Avf, el-Velid bin Ukbe ile karşılaştı. El-Velid ona: Neden Ameer al-Mu'mineen Osman (رضي الله عنه) ile uzak durduğunu görüyorum? dedi. Abdurrahman ona: Ona de ki, Ainain günü kaçmadım - Asim dedi: Uhud günü - ve Badr günü geri kalmadım, ve Ömer'in (رضي الله عنه) yolundan da dönmedim. O da gidip bunu Osman (رضي الله عنه)'a söyledi, Osman (رضي الله عنه) şöyle dedi: Ainain günü kaçmadığını söylemesi, Allah'ın beni affettiği bir kusur için beni utandırabilir mi? Ve Allah, \"İki ordunun karşılaştığı gün geri dönenler, şeytanın onları günahları nedeniyle geri çevirdiği kimselerdir. Ama Allah, gerçekten onları affetti.\" dedi. Badr günü geri kaldığını söylemesine gelince, ben, Allah'ın Resulü (ﷺ) vefat ederken Ruqayyah'ı, onun kızı, bakıyordum ve Allah'ın Resulü (ﷺ) bana bir pay ayırdı, ve Allah'ın Resulü (ﷺ) tarafından pay verilen herkes oradaydı... ve hadisi uzun bir şekilde sona kadar aktardı."
+    },
+    {
+      "id": 149,
+      "narrator": "It was narrated that Abu Wa`il said:",
+      "text": "Abul Vail'den rivayet edildi ki: Abdurrahman bin Avf'a: Osman (رضي الله عنه)'a nasıl biat ettin de Ali (رضي الله عنه)'a etmedin? dedim. O: Bu benim hatam değil. Ali ile başladım ve ona: Allah'ın Kitabı, Resulü'nün sünneti ve Ebu Bekir ile Ömer'in (رضي الله عنهما) yolu gereğince sana biat ediyorum dedim. O da: Elimden geldiğince. Sonra bunu Osman (رضي الله عنه)'a teklif ettim ve o kabul etti."
+    },
+    {
+      "id": 150,
+      "narrator": "It was narrated that Abu Salih, the freed slave of `Uthman bin `Affan (رضي الله عنه) said:",
+      "text": "Abdurrahman bin Ebu Dhubab'ın azatlı kölesi Abdurrahman bin Avf'dan rivayet edildi ki: Osman (رضي الله عنه) minberde şöyle dedi: Ey insanlar, sizden bir hadisi gizledim ki, Allah'ın Resulü (ﷺ) den duydum, sizlerin benden dağılacağından korktum, sonra bunu size söylemem gerektiğini düşündüm ve her birinizin kendisi için en iyisini seçmesini istiyorum. Allah'ın Resulü (ﷺ) şöyle dedi: \"Allah yolunda bir gün sınırda beklemek, diğer bin günden daha hayırlıdır.\""
+    },
+    {
+      "id": 151,
+      "narrator": "Sa`eed bin al-Musayyab said:",
+      "text": "Sa`eed bin al-Musayyab dedi ki: ‘Uthman (رضي الله عنه) minberden bir hutbe verirken duydum. Şöyle dedi: Ben, Banu Qainuqa` adlı bir Yahudi kabilesinden hurma alır ve kar ile satardım. Bunun haberi Allah’ın Resulü’ne (ﷺ) ulaştı ve şöyle buyurdu: `Ey ‘Uthman, alım yaptığında, fazlasını almayarak alacaklarını al; satış yaptığında da, eksik vermeyerek alacaklarını ver.`"
+    },
+    {
+      "id": 152,
+      "narrator": "`Ubaidullah bin `Adiyy bin al-Khiyar narrated that `Uthman (رضي الله عنه) said to him:",
+      "text": "`Ubaidullah bin `Adiyy bin al-Khiyar, ‘Uthman (رضي الله عنه)ın kendisine şöyle dediğini nakletti: Şüphesiz Allah, yüceltilmiş ve aziz kılınmış, Muhammed’i (ﷺ) hak ile göndermiştir ve ben, Allah ve Resulü’nün (ﷺ) çağrısına icabet edenlerden biriydim; Muhammed’in (ﷺ) gönderildiği şeye inandım. Sonra iki kez hicret ettim ve Allah’ın Resulü’nün (ﷺ) damadı olma onuruna eriştim; Allah’ın Resulü’ne (ﷺ) biat ettim ve Allah’a yemin ederim ki, O’na asla isyan etmedim ve O’na ihanet etmedim, ta ki Allah, yüceltilmiş ve aziz kılınmış, onun ruhunu ölümle alana kadar."
+    }
+  ]
+}

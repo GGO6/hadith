@@ -1,0 +1,66 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 10,
+    "arabic": {
+      "title": "الشمائل المحمدية",
+      "author": "الإمام الترمذي"
+    },
+    "english": {
+      "title": "Shamail Muhammadiyah",
+      "author": "Imam at-Tirmidhi"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "Ibn 'Abbas said (may Allah be well pleased with him and his father):",
+      "text": "İbn Abbas (Allah ondan ve babasından razı olsun) dedi ki: \"Peygamber (Allah ona salat ve selam eylesin) Zemzem'den ayakta içti.\""
+    },
+    {
+      "id": 2,
+      "narrator": "'Amr ibn Shu'aib reports on the authority of his father that his grandfather said:",
+      "text": "Amr ibn Shu'aib, babası aracılığıyla dedesinin şöyle söylediğini nakleder: \"Allah'ın Elçisi (Allah ona salat ve selam eylesin) hem ayakta hem de oturarak içtiğini gördüm.\""
+    },
+    {
+      "id": 3,
+      "narrator": "Ibn 'Abbas said (may Allah be well pleased with him and his father):",
+      "text": "İbn Abbas (Allah ondan ve babasından razı olsun) dedi ki: \"Ben, Allah'ın Elçisi'ne (Allah ona salat ve selam eylesin) Zemzem suyu verdim ve o ayakta içti.\""
+    },
+    {
+      "id": 4,
+      "narrator": "An-Nazzal ibn Sabra said;\n\"Ali (may Allah be well pleased with him) brought a jug of water, while he was in ar-Rahba, after which he dipped out a handful, washed his hands, rinsed his mouth, snuffed up his nostrils, and wiped his face, his forearms and his head. Then he drank from it while standing. Then he said:",
+      "text": "En-Nazzal ibn Sabra dedi ki: \"Ali (Allah ondan razı olsun) ar-Rahba'da bir su testi getirdi, ardından bir avuç su aldı, ellerini yıkadı, ağzını çalkaladı, burnuna su çekti ve yüzünü, ön kollarını ve başını sildi. Sonra ayakta içti. Ardından dedi ki: 'Bu, ritüel olarak kirlenmemiş birinin küçük abdestidir. Allah'ın Elçisi'ni (Allah ona salat ve selam eylesin) bu şekilde hareket ederken gördüm.'\""
+    },
+    {
+      "id": 5,
+      "narrator": "Anas ibn Malik said (may Allah be well pleased with him):",
+      "text": "Enes ibn Malik (Allah ondan razı olsun) dedi ki: \"Peygamber (Allah ona salat ve selam eylesin) içtiğinde kabın içine üç kez üflerdi ve 'Bu daha sağlıklıdır ve daha susuzluğu gidericidir!' derdi.\""
+    },
+    {
+      "id": 6,
+      "narrator": "Ibn 'Abbas said (may Allah be well pleased with him and his father):",
+      "text": "İbn Abbas (Allah ondan ve babasından razı olsun) dedi ki: \"Peygamber (Allah ona salat ve selam eylesin) içtiğinde iki nefes alırdı.\""
+    },
+    {
+      "id": 7,
+      "narrator": "'Abd ar-Rahman ibn Abi 'Amra said that his grandmother Kabsha said:",
+      "text": "Abd ar-Rahman ibn Abi Amra, büyükannesi Kabşa'nın şöyle söylediğini aktardı: \"Peygamber (Allah ona salat ve selam eylesin) huzuruma girdi, sonra ayakta asılı bir su derisinden içti, ben de onun ağzına uzandım ve onu çözdüm.\""
+    },
+    {
+      "id": 8,
+      "narrator": "Thumama ibn 'Abdi’llah said:",
+      "text": "Thumama ibn Abdillah dedi ki: \"Enes ibn Malik, kabın içine üç kez üflerdi ve Enes ibn Malik, Peygamber'in (Allah ona salat ve selam eylesin) de kabın içine üç kez üflediğini iddia etti.\""
+    },
+    {
+      "id": 9,
+      "narrator": "Anas ibn Malik said:",
+      "text": "Enes ibn Malik dedi ki: \"Peygamber (Allah ona salat ve selam eylesin) Ümmü Süleym'in huzuruna girdi ve orada asılı bir su derisi vardı, bu yüzden ayakta su derisinin ağzından içti. Ümmü Süleym de su derisinin başına uzandı ve onu çözdü.\""
+    },
+    {
+      "id": 10,
+      "narrator": "'A’isha bint Sa'd ibn Abi Waqqas reported that her father said:",
+      "text": "Aişe bint Sa'd ibn Abi Vakkas, babasının şöyle söylediğini bildirdi: \"Peygamber (Allah ona salat ve selam eylesin) ayakta içti.\""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "language": "tr",
+  "metadata": {
+    "length": 1,
+    "arabic": {
+      "title": "موطأ مالك",
+      "author": "الإمام مالك بن أنس"
+    },
+    "english": {
+      "title": "Muwatta Malik",
+      "author": "Imam Malik ibn Anas"
+    }
+  },
+  "hadiths": [
+    {
+      "id": 1,
+      "narrator": "",
+      "text": "Yahya, Malik'ten, Zayd ibn Aslam'dan, onun babasından, Umar ibn al-Khattab'ın Hunayy adındaki bir mawlasını hima üzerine görevlendirdiğini aktardı. Dedi ki: \"Hunayy! İnsanlara zarar verme. Mazlumun duasından kork; çünkü mazlumun duası kabul edilir. Küçük bir deve sürüsü olan ve küçük bir koyun sürüsü olanların içeri girmesine izin ver, ancak İbn Awf'ın ve İbn Affan'ın hayvanlarına dikkat et. Eğer onların hayvanları telef olursa, onlar hurma ağaçlarına ve tarıma dönecekler. Küçük bir deve sürüsü olan ve küçük bir koyun sürüsü olanın hayvanları telef olursa, çocuklarını bana getirip ağlayacaklar: 'Amir al-muminin! Amir al-Muminin!' Onları ihmal mi edeceğim? Su ve otlak benim için altın ve gümüşten daha az değerlidir. Allah'a yemin ederim ki, bana haksızlık ettiklerini düşünüyorlar. Bu onların toprağı ve suyu. Cahiliye döneminde bunun için savaştılar ve İslam'da bunun üzerine Müslüman oldular. Canımın olduğu Zat'a yemin ederim ki! Eğer Allah yolunda biniş için verdiğim hayvanlar olmasaydı, onların topraklarından bir karış bile himaya çevirmem.\""
+    }
+  ]
+}
