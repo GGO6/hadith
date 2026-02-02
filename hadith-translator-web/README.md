@@ -83,6 +83,8 @@ python app.py
 
 3. **إضافة المتغيرات (Variables)**:
    - `OPENAI_API_KEY`: مفتاح OpenAI API
+   - (اختياري) `OPENAI_DELAY_SEC`: ثوانٍ بين كل طلب ترجمة (افتراضي: 3) لتجنب 429
+   - (اختياري) `OPENAI_BATCH_SIZE`: عدد الأحاديث في كل طلب (افتراضي: 10، أقصى 15)
    - (اختياري) `DATA_DIR`: المسار لجذر البيانات إذا استخدمت Volume
    - (اختياري) `BOOKS_PATH`: مسار فرعي للكتب داخل DATA_DIR (افتراضي: `data/books`)
 
