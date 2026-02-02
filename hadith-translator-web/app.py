@@ -8,8 +8,9 @@ import logging
 import sys
 import threading
 from pathlib import Path
-from flask import Flask, render_template_string, jsonify, request, Response
+from flask import Flask, render_template_string, jsonify, request, Response, redirect, url_for, session
 from flask_sqlalchemy import SQLAlchemy
+from functools import wraps
 
 # Logging: stdout so Railway (and gunicorn) capture logs
 logging.basicConfig(
@@ -31,7 +32,31 @@ from translator.runner import TranslationRunner
 app = Flask(__name__)
 app.config["SQLALCHEMY_DATABASE_URI"] = config.SQLALCHEMY_DATABASE_URI
 app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = config.SQLALCHEMY_TRACK_MODIFICATIONS
+app.secret_key = os.getenv("SECRET_KEY", "dev-secret-change-in-production")
+app.config["PERMANENT_SESSION_LIFETIME"] = 86400 * 7
 db = SQLAlchemy(app)
+
+# Auth: if ADMIN_USERNAME and ADMIN_PASSWORD are set, require login
+ADMIN_USERNAME = os.getenv("ADMIN_USERNAME", "").strip()
+ADMIN_PASSWORD = os.getenv("ADMIN_PASSWORD", "")
+AUTH_REQUIRED = bool(ADMIN_USERNAME and ADMIN_PASSWORD)
+
+
+def _is_logged_in():
+    return AUTH_REQUIRED and session.get("user") == ADMIN_USERNAME
+
+
+def _require_auth(f):
+    @wraps(f)
+    def wrapped(*args, **kwargs):
+        if not AUTH_REQUIRED:
+            return f(*args, **kwargs)
+        if not _is_logged_in():
+            if request.path.startswith("/api/"):
+                return jsonify({"error": "Unauthorized", "login_required": True}), 401
+            return redirect(url_for("login", next=request.url))
+        return f(*args, **kwargs)
+    return wrapped
 
 
 class TranslationProgress(db.Model):
@@ -227,6 +252,46 @@ def get_export_data(language: str):
     return out if out else None
 
 
+LOGIN_HTML = """
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>تسجيل الدخول - Hadith Translator</title>
+    <style>
+        * { box-sizing: border-box; }
+        body { font-family: 'Segoe UI', Tahoma, sans-serif; margin: 0; padding: 20px; background: #1a1a2e; color: #eee; }
+        .container { max-width: 400px; margin: 80px auto; }
+        h1 { color: #e94560; text-align: center; }
+        .card { background: #16213e; border-radius: 12px; padding: 24px; margin: 16px 0; }
+        label { display: block; margin: 12px 0 4px 0; color: #8ab; }
+        input { width: 100%; padding: 10px; font-size: 1em; border-radius: 8px; border: 1px solid #0f3460; background: #0f3460; color: #eee; }
+        button { width: 100%; padding: 12px; font-size: 1em; border-radius: 8px; margin-top: 16px; background: #e94560; color: #fff; border: none; cursor: pointer; }
+        button:hover { background: #ff6b6b; }
+        .error { color: #ff6b6b; margin-top: 8px; font-size: 0.95em; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📚 ترجمة الأحاديث</h1>
+        <div class="card">
+            <h2 style="margin-top:0;">تسجيل الدخول</h2>
+            <form method="post" action="">
+                <label for="username">اسم المستخدم</label>
+                <input type="text" id="username" name="username" required autocomplete="username">
+                <label for="password">كلمة المرور</label>
+                <input type="password" id="password" name="password" required autocomplete="current-password">
+                <button type="submit">دخول</button>
+            </form>
+            {% if error %}<p class="error">{{ error }}</p>{% endif %}
+        </div>
+    </div>
+</body>
+</html>
+"""
+
+
 INDEX_HTML = """
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
@@ -266,6 +331,7 @@ INDEX_HTML = """
     <div class="container">
         <h1>📚 ترجمة الأحاديث - Hadith Translator</h1>
         <p>تشغيل الترجمة على السيرفر (Railway) - لا حاجة لفتح جهازك</p>
+        {% if auth_required %}<p style="text-align:left;"><a href="{{ url_logout }}" style="color:#8ab;">تسجيل خروج</a></p>{% endif %}
         <p style="font-size:0.95em; color:#8ab;">إذا توقفت الترجمة لأي سبب (إعادة تشغيل، انقطاع، إيقاف) — اضغط «بدء الترجمة» مرة أخرى لنفس اللغة لاستئناف من آخر نقطة محفوظة.</p>
 
         <div class="card">
@@ -295,8 +361,16 @@ INDEX_HTML = """
 
     <script>
         const API = '';
+        function checkAuth(r) {
+            if (r.status === 401) { window.location.href = (API || '') + '/login'; return true; }
+            return false;
+        }
         function fetchStatus() {
-            fetch(API + '/api/status').then(r => r.json()).then(data => {
+            fetch(API + '/api/status').then(r => {
+                if (checkAuth(r)) return;
+                return r.json();
+            }).then(data => {
+                if (!data) return;
                 document.getElementById('status').textContent = data.running
                     ? '🟢 الترجمة تعمل: ' + (data.current_language || '')
                     : '⚪ الترجمة متوقفة';
@@ -343,7 +417,11 @@ INDEX_HTML = """
             }).catch(() => {});
         }
         function fetchLangStatus() {
-            fetch(API + '/api/languages').then(r => r.json()).then(data => {
+            fetch(API + '/api/languages').then(r => {
+                if (checkAuth(r)) return;
+                return r.json();
+            }).then(data => {
+                if (!data) return;
                 const grid = document.getElementById('langStatus');
                 grid.innerHTML = Object.entries(data).map(([code, info]) => {
                     let actions = '';
@@ -358,14 +436,14 @@ INDEX_HTML = """
         document.getElementById('btnStart').onclick = () => {
             const lang = document.getElementById('langSelect').value;
             fetch(API + '/api/start', { method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify({language: lang}) })
-                .then(r => r.json()).then(() => { fetchStatus(); fetchLangStatus(); });
+                .then(r => { if (checkAuth(r)) return; return r.json(); }).then(d => { if (d !== undefined) { fetchStatus(); fetchLangStatus(); } });
         };
         document.getElementById('btnStop').onclick = () => {
-            fetch(API + '/api/stop', { method: 'POST' }).then(() => { fetchStatus(); fetchLangStatus(); });
+            fetch(API + '/api/stop', { method: 'POST' }).then(r => { if (checkAuth(r)) return; fetchStatus(); fetchLangStatus(); });
         };
         function resetLang(lang) {
             if (!confirm('حذف ترجمة هذه اللغة والبدء من الصفر؟')) return;
-            fetch(API + '/api/reset/' + lang, { method: 'POST' }).then(r => r.json()).then(() => { fetchStatus(); fetchLangStatus(); }).catch(() => {});
+            fetch(API + '/api/reset/' + lang, { method: 'POST' }).then(r => { if (checkAuth(r)) return; return r.json(); }).then(() => { fetchStatus(); fetchLangStatus(); }).catch(() => {});
         }
         setInterval(fetchStatus, 3000);
         setInterval(fetchLangStatus, 10000);
@@ -377,23 +455,58 @@ INDEX_HTML = """
 """
 
 
+@app.route('/login', methods=['GET', 'POST'])
+def login():
+    if not AUTH_REQUIRED:
+        return redirect(url_for('index'))
+    if _is_logged_in():
+        return redirect(url_for('index'))
+    error = None
+    if request.method == 'POST':
+        username = (request.form.get("username") or "").strip()
+        password = request.form.get("password") or ""
+        if username == ADMIN_USERNAME and password == ADMIN_PASSWORD:
+            session["user"] = username
+            session.permanent = True
+            session.modified = True
+            next_url = request.args.get("next") or url_for("index")
+            return redirect(next_url)
+        error = "اسم المستخدم أو كلمة المرور غير صحيحة."
+    return render_template_string(LOGIN_HTML, error=error)
+
+
+@app.route('/logout')
+def logout():
+    session.pop("user", None)
+    return redirect(url_for('login') if AUTH_REQUIRED else url_for('index'))
+
+
 @app.route('/')
+@_require_auth
 def index():
     _ensure_tables()
-    return render_template_string(INDEX_HTML, languages=config.LANGUAGES)
+    return render_template_string(
+        INDEX_HTML,
+        languages=config.LANGUAGES,
+        auth_required=AUTH_REQUIRED,
+        url_logout=url_for('logout'),
+    )
 
 
 @app.route('/api/status')
+@_require_auth
 def api_status():
     return jsonify(get_status())
 
 
 @app.route('/api/languages')
+@_require_auth
 def api_languages():
     return jsonify(get_languages_status())
 
 
 @app.route('/api/start', methods=['POST'])
+@_require_auth
 def api_start():
     global _translation_thread, _stop_event
     data = request.get_json() or {}
@@ -412,6 +525,7 @@ def api_start():
 
 
 @app.route('/api/stop', methods=['POST'])
+@_require_auth
 def api_stop():
     _stop_event.set()
     logger.info("api/stop: stop_event set")
@@ -419,6 +533,7 @@ def api_stop():
 
 
 @app.route('/api/reset/<language>', methods=['POST'])
+@_require_auth
 def api_reset(language):
     """حذف تقدم وترجمات لغة واحدة من DB (لإعادة الترجمة من الصفر بعد إصلاح مشكلة النص الإنجليزي)."""
     if language not in config.LANGUAGES:
@@ -437,6 +552,7 @@ def api_reset(language):
 
 
 @app.route('/api/export/<language>')
+@_require_auth
 def api_export(language):
     """تحميل ترجمات لغة واحدة كملف JSON (نفس صيغة all_translations.json)."""
     if language not in config.LANGUAGES:

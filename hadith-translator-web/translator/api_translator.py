@@ -1,11 +1,14 @@
 """
 API-based Translator using GPT-4o-mini for full translation.
-Uses single request at a time to avoid OpenAI 429 rate limits.
+Single request at a time; on 429 waits long then retries to avoid hammering API.
 """
 import os
 import time
+import logging
 from typing import List, Dict, Tuple
 from openai import OpenAI
+
+logger = logging.getLogger("hadith.translator")
 
 # Import config from project root
 import sys
@@ -15,6 +18,11 @@ if str(_root) not in sys.path:
     sys.path.insert(0, str(_root))
 import config as _config
 
+
+def _is_rate_limit(e: Exception) -> bool:
+    return getattr(e, "status_code", None) == 429 or "429" in str(e) or "rate limit" in str(e).lower()
+
+
 class APITranslator:
     def __init__(self, api_key: str = None, model: str = "gpt-4o-mini"):
         if not api_key:
@@ -23,41 +31,50 @@ class APITranslator:
             raise ValueError("OpenAI API key not found. Set OPENAI_API_KEY environment variable.")
         self.api_key = api_key
         self.model = model
-        self.client = OpenAI(api_key=self.api_key, timeout=120.0)
+        self.client = OpenAI(api_key=self.api_key, timeout=120.0, max_retries=0)
         self.lang_names = {k: v["name"] for k, v in _config.LANGUAGES.items()}
 
     def _translate_single_batch(self, batch_info: Tuple[int, List[str], str]) -> Tuple[int, List[str]]:
         batch_idx, batch_texts, lang_name = batch_info
         combined_text = "\n\n---\n\n".join([f"[{idx+1}] {text}" for idx, text in enumerate(batch_texts)])
-        try:
-            response = self.client.chat.completions.create(
-                model=self.model,
-                messages=[
-                    {"role": "system", "content": f"You are a professional translator specializing in Islamic religious texts. Translate the following English hadith texts into {lang_name} only. Output MUST be in {lang_name} only—never return the original English. Maintain religious terminology accurately and preserve meaning. Keep narrator attributions if present. Reply with numbered lines [1], [2], etc. Each line must be the translation in {lang_name} of the corresponding item."},
-                    {"role": "user", "content": combined_text}
-                ],
-                temperature=0.3,
-                max_tokens=4000
-            )
-            result = response.choices[0].message.content.strip()
-            lines = [line.strip() for line in result.split('\n') if line.strip()]
-            batch_translated = []
-            for line in lines:
-                if ']' in line:
-                    line = line.split(']', 1)[1].strip()
-                batch_translated.append(line)
-            while len(batch_translated) < len(batch_texts):
-                batch_translated.append(batch_texts[len(batch_translated)])
-            return (batch_idx, batch_translated[:len(batch_texts)])
-        except Exception as e:
-            return (batch_idx, batch_texts)
+        rate_limit_wait = int(os.getenv("OPENAI_RATE_LIMIT_WAIT", "60"))
+        max_rate_limit_retries = int(os.getenv("OPENAI_RATE_LIMIT_RETRIES", "5"))
+        for attempt in range(max_rate_limit_retries + 1):
+            try:
+                response = self.client.chat.completions.create(
+                    model=self.model,
+                    messages=[
+                        {"role": "system", "content": f"You are a professional translator specializing in Islamic religious texts. Translate the following English hadith texts into {lang_name} only. Output MUST be in {lang_name} only—never return the original English. Maintain religious terminology accurately and preserve meaning. Keep narrator attributions if present. Reply with numbered lines [1], [2], etc. Each line must be the translation in {lang_name} of the corresponding item."},
+                        {"role": "user", "content": combined_text}
+                    ],
+                    temperature=0.3,
+                    max_tokens=4000
+                )
+                result = response.choices[0].message.content.strip()
+                lines = [line.strip() for line in result.split('\n') if line.strip()]
+                batch_translated = []
+                for line in lines:
+                    if ']' in line:
+                        line = line.split(']', 1)[1].strip()
+                    batch_translated.append(line)
+                while len(batch_translated) < len(batch_texts):
+                    batch_translated.append(batch_texts[len(batch_translated)])
+                return (batch_idx, batch_translated[:len(batch_texts)])
+            except Exception as e:
+                if _is_rate_limit(e) and attempt < max_rate_limit_retries:
+                    logger.warning("429 rate limit: waiting %s sec then retry (%s/%s)", rate_limit_wait, attempt + 1, max_rate_limit_retries)
+                    time.sleep(rate_limit_wait)
+                    continue
+                logger.exception("translate_batch failed: %s", e)
+                return (batch_idx, batch_texts)
+        return (batch_idx, batch_texts)
 
     def translate_batch(self, texts: List[str], target_language: str) -> List[str]:
         if not texts:
             return []
         lang_name = self.lang_names.get(target_language, target_language.capitalize())
-        batch_size = min(15, int(os.getenv("OPENAI_BATCH_SIZE", "10")))
-        delay_sec = float(os.getenv("OPENAI_DELAY_SEC", "3.0"))
+        batch_size = min(15, max(1, int(os.getenv("OPENAI_BATCH_SIZE", "5"))))
+        delay_sec = float(os.getenv("OPENAI_DELAY_SEC", "6.0"))
         translated = []
         for i in range(0, len(texts), batch_size):
             batch_texts = texts[i:i+batch_size]
