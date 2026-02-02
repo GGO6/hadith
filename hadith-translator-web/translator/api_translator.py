@@ -1,10 +1,11 @@
 """
 API-based Translator using GPT-4o-mini for full translation.
-Single request at a time; on 429 waits long then retries to avoid hammering API.
+Supports optional parallel requests; on 429/timeout waits then retries.
 """
 import os
 import time
 import logging
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import List, Dict, Tuple
 from openai import OpenAI, APITimeoutError
 
@@ -86,14 +87,33 @@ class APITranslator:
         if not texts:
             return []
         lang_name = self.lang_names.get(target_language, target_language.capitalize())
-        batch_size = min(15, max(1, int(os.getenv("OPENAI_BATCH_SIZE", "10"))))
-        delay_sec = float(os.getenv("OPENAI_DELAY_SEC", "3.5"))
+        batch_size = min(15, max(1, int(os.getenv("OPENAI_BATCH_SIZE", "12"))))
+        delay_sec = float(os.getenv("OPENAI_DELAY_SEC", "2.0"))
+        parallel = min(3, max(1, int(os.getenv("OPENAI_PARALLEL_REQUESTS", "2"))))
         translated = []
+        batch_infos = []
         for i in range(0, len(texts), batch_size):
-            batch_texts = texts[i:i+batch_size]
-            batch_info = (i // batch_size, batch_texts, lang_name)
-            _, batch_result = self._translate_single_batch(batch_info)
-            translated.extend(batch_result)
-            if i + batch_size < len(texts):
-                time.sleep(delay_sec)
+            batch_texts = texts[i : i + batch_size]
+            batch_infos.append((i // batch_size, batch_texts, lang_name))
+        if parallel <= 1:
+            for batch_info in batch_infos:
+                _, batch_result = self._translate_single_batch(batch_info)
+                translated.extend(batch_result)
+                if batch_info[0] < len(batch_infos) - 1:
+                    time.sleep(delay_sec)
+            return translated
+        round_delay = delay_sec
+        for round_start in range(0, len(batch_infos), parallel):
+            chunk = batch_infos[round_start : round_start + parallel]
+            with ThreadPoolExecutor(max_workers=len(chunk)) as ex:
+                futures = {ex.submit(self._translate_single_batch, info): info for info in chunk}
+                results = []
+                for fut in as_completed(futures):
+                    batch_idx, batch_result = fut.result()
+                    results.append((batch_idx, batch_result))
+            results.sort(key=lambda x: x[0])
+            for _, batch_result in results:
+                translated.extend(batch_result)
+            if round_start + len(chunk) < len(batch_infos):
+                time.sleep(round_delay)
         return translated

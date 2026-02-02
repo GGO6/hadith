@@ -197,7 +197,7 @@ class TranslationRunner:
             except Exception:
                 pass
 
-        batch_size = min(15, max(1, int(os.getenv("OPENAI_BATCH_SIZE", "10"))))
+        batch_size = min(15, max(1, int(os.getenv("OPENAI_BATCH_SIZE", "12"))))
         last_book_id = None
         last_chapter_file = None
         stop_reason = "completed"
