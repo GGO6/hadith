@@ -233,6 +233,17 @@ class TranslationRunner:
                             if hadiths_to_translate:
                                 texts = [self.extract_hadith_text(h) for h in hadiths_to_translate]
                                 meta = [{"id": h.get('id'), "chapterId": h.get('chapterId', 0), "narrator": h.get('english', {}).get('narrator', '')} for h in hadiths_to_translate]
+                                self._emit_progress({
+                                    "phase": "translating",
+                                    "book_id": book_id,
+                                    "chapter_file": "all.json",
+                                    "hadiths_count": len(hadiths_to_translate),
+                                    "language": language,
+                                    "total_translated": checkpoint["stats"]["total_translated"],
+                                    "total_hadiths": total_hadiths,
+                                    "remaining": total_hadiths - checkpoint["stats"]["total_translated"],
+                                })
+                                logger.info("translating book_id=%s all.json hadiths=%s", book_id, len(hadiths_to_translate))
                                 try:
                                     translated_texts = self.translator.translate_batch(texts, language)
                                 except Exception:
@@ -294,6 +305,17 @@ class TranslationRunner:
                         continue
                     texts = [self.extract_hadith_text(h) for h in hadiths_to_translate]
                     meta = [{"id": h.get('id'), "chapterId": h.get('chapterId', 0), "narrator": h.get('english', {}).get('narrator', '')} for h in hadiths_to_translate]
+                    self._emit_progress({
+                        "phase": "translating",
+                        "book_id": book_id,
+                        "chapter_file": ch_file,
+                        "hadiths_count": len(hadiths_to_translate),
+                        "language": language,
+                        "total_translated": checkpoint["stats"]["total_translated"],
+                        "total_hadiths": total_hadiths,
+                        "remaining": total_hadiths - checkpoint["stats"]["total_translated"],
+                    })
+                    logger.info("translating book_id=%s chapter=%s hadiths=%s", book_id, ch_file, len(hadiths_to_translate))
                     try:
                         translated_texts = self.translator.translate_batch(texts, language)
                     except Exception as api_err:

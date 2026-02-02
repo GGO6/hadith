@@ -156,6 +156,8 @@ def get_status():
         "error": progress.get("error"),
         "phase": progress.get("phase"),
         "books_count": progress.get("books_count"),
+        "chapter_file": progress.get("chapter_file"),
+        "hadiths_count": progress.get("hadiths_count"),
     }
 
 
@@ -302,7 +304,9 @@ INDEX_HTML = """
                 document.getElementById('progressFill').style.width = (data.progress_pct || 0) + '%';
                 let details = '';
                 if (data.running) {
-                    if (data.phase === 'started' && data.books_count != null)
+                    if (data.phase === 'translating' && data.last_book)
+                        details = 'جاري الترجمة: كتاب ' + data.last_book + (data.chapter_file ? ' — ' + data.chapter_file : '') + (data.hadiths_count != null ? ' (' + data.hadiths_count + ' حديث)' : '') + ' | تم: ' + (data.total_translated || 0) + ' | متبقي: ' + (data.remaining || 0);
+                    else if (data.phase === 'started' && data.books_count != null)
                         details = 'جاري البدء... ' + data.books_count + ' كتب.';
                     else if (data.last_book)
                         details = 'كتاب: ' + data.last_book + ' | تم: ' + (data.total_translated || 0) + ' | متبقي: ' + (data.remaining || 0) + ' | API: ' + (data.api_calls || 0);
