@@ -33,7 +33,7 @@ class APITranslator:
             response = self.client.chat.completions.create(
                 model=self.model,
                 messages=[
-                    {"role": "system", "content": f"You are a professional translator specializing in Islamic religious texts. Translate the following English hadith texts to {lang_name}. Maintain religious terminology accurately and preserve meaning precisely. Keep narrator attributions if present. Return translations in the same format, numbered [1], [2], etc. Each translation should be on a separate line."},
+                    {"role": "system", "content": f"You are a professional translator specializing in Islamic religious texts. Translate the following English hadith texts into {lang_name} only. Output MUST be in {lang_name} only—never return the original English. Maintain religious terminology accurately and preserve meaning. Keep narrator attributions if present. Reply with numbered lines [1], [2], etc. Each line must be the translation in {lang_name} of the corresponding item."},
                     {"role": "user", "content": combined_text}
                 ],
                 temperature=0.3,

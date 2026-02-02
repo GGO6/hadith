@@ -208,6 +208,8 @@ INDEX_HTML = """
         .lang-item .num { color: #4ecca3; font-weight: bold; }
         .lang-item a.dl { display: block; margin-top: 6px; font-size: 0.9em; color: #4ecca3; }
         .lang-item a.dl:hover { text-decoration: underline; }
+        .lang-item button.reset { margin-top: 4px; font-size: 0.85em; padding: 4px 8px; background: #5a3; color: #fff; border: none; border-radius: 4px; cursor: pointer; }
+        .lang-item button.reset:hover { background: #6b4; }
     </style>
 </head>
 <body>
@@ -258,8 +260,12 @@ INDEX_HTML = """
             fetch(API + '/api/languages').then(r => r.json()).then(data => {
                 const grid = document.getElementById('langStatus');
                 grid.innerHTML = Object.entries(data).map(([code, info]) => {
-                    const dl = info.translated > 0 ? `<a class="dl" href="${API}/api/export/${code}" download>⬇ تحميل الترجمة</a>` : '';
-                    return `<div class="lang-item">${info.native_name || info.name}<br><span class="num">${info.translated.toLocaleString()}</span> حديث${dl}</div>`;
+                    let actions = '';
+                    if (info.translated > 0) {
+                        actions += `<a class="dl" href="${API}/api/export/${code}" download>⬇ تحميل</a>`;
+                        actions += ` <button class="reset" onclick="resetLang('${code}')" title="حذف الترجمة وإعادة البدء من الصفر">إعادة تعيين</button>`;
+                    }
+                    return `<div class="lang-item">${info.native_name || info.name}<br><span class="num">${info.translated.toLocaleString()}</span> حديث${actions ? '<br>' + actions : ''}</div>`;
                 }).join('');
             }).catch(() => {});
         }
@@ -271,6 +277,10 @@ INDEX_HTML = """
         document.getElementById('btnStop').onclick = () => {
             fetch(API + '/api/stop', { method: 'POST' }).then(() => { fetchStatus(); fetchLangStatus(); });
         };
+        function resetLang(lang) {
+            if (!confirm('حذف ترجمة هذه اللغة والبدء من الصفر؟')) return;
+            fetch(API + '/api/reset/' + lang, { method: 'POST' }).then(r => r.json()).then(() => { fetchStatus(); fetchLangStatus(); }).catch(() => {});
+        }
         setInterval(fetchStatus, 3000);
         setInterval(fetchLangStatus, 10000);
         fetchStatus();
@@ -317,6 +327,24 @@ def api_start():
 def api_stop():
     _stop_event.set()
     return jsonify({"ok": True})
+
+
+@app.route('/api/reset/<language>', methods=['POST'])
+def api_reset(language):
+    """حذف تقدم وترجمات لغة واحدة من DB (لإعادة الترجمة من الصفر بعد إصلاح مشكلة النص الإنجليزي)."""
+    if language not in config.LANGUAGES:
+        return jsonify({"error": "Unknown language"}), 404
+    with _status_lock:
+        if _translation_thread is not None and _translation_thread.is_alive():
+            return jsonify({"error": "Stop translation first"}), 409
+    try:
+        with app.app_context():
+            HadithTranslation.query.filter_by(language_code=language).delete()
+            TranslationProgress.query.filter_by(language=language).delete()
+            db.session.commit()
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+    return jsonify({"ok": True, "language": language})
 
 
 @app.route('/api/export/<language>')

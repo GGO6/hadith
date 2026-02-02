@@ -150,6 +150,7 @@ class TranslationRunner:
         self.stop_event.clear()
         total_hadiths = self.count_total_hadiths()
         checkpoint = self.load_checkpoint(language)
+        processed_set = set(checkpoint.get("processed_hadiths", []))
         all_books = self.load_all_books()
         lang_info = config.LANGUAGES[language]
         output_lang_dir = self.output_dir / language
@@ -179,7 +180,7 @@ class TranslationRunner:
                         hadiths = data.get('hadiths', [])
                         hadiths_to_translate = [
                             h for h in hadiths
-                            if f"{book_id}:{h.get('chapterId', 0)}:{h.get('id')}" not in checkpoint.get('processed_hadiths', [])
+                            if f"{book_id}:{h.get('chapterId', 0)}:{h.get('id')}" not in processed_set
                         ]
                         if hadiths_to_translate:
                             texts = [self.extract_hadith_text(h) for h in hadiths_to_translate]
@@ -188,11 +189,14 @@ class TranslationRunner:
                                 translated_texts = self.translator.translate_batch(texts, language)
                             except Exception:
                                 translated_texts = texts
-                            for m, txt in zip(meta, translated_texts):
+                            for i, (m, txt) in enumerate(zip(meta, translated_texts)):
+                                if i < len(texts) and (txt or "").strip() == (texts[i] or "").strip():
+                                    continue
                                 key = f"{m['chapterId']}:{m['id']}"
                                 composite = f"{book_id}:{m['chapterId']}:{m['id']}"
                                 translated_hadiths[key] = {"narrator": m['narrator'], "text": txt, "hadith_id": m['id'], "chapter_id": m['chapterId'], "quality": {"confidence": "HIGH", "needs_review": False}}
-                                if composite not in checkpoint.get('processed_hadiths', []):
+                                if composite not in processed_set:
+                                    processed_set.add(composite)
                                     checkpoint['stats']['total_translated'] += 1
                                     checkpoint['processed_hadiths'].append(composite)
                             checkpoint['stats']['api_calls'] += (len(texts) + 14) // 15
@@ -201,7 +205,7 @@ class TranslationRunner:
                         {"book_id": book_id, "chapter_id": int(m["chapterId"]), "hadith_id": int(m["id"]),
                          "narrator": m.get("narrator"), "text": translated_hadiths[f"{m['chapterId']}:{m['id']}"]["text"],
                          "quality_confidence": "HIGH", "needs_review": False}
-                        for m in meta
+                        for m in meta if f"{m['chapterId']}:{m['id']}" in translated_hadiths
                     ] if self.app else None
                     if not self.app:
                         if book_id not in all_translations:
@@ -232,7 +236,7 @@ class TranslationRunner:
                 hadiths = data.get('hadiths', [])
                 hadiths_to_translate = [
                     h for h in hadiths
-                    if f"{book_id}:{h.get('chapterId', 0)}:{h.get('id')}" not in checkpoint.get('processed_hadiths', [])
+                    if f"{book_id}:{h.get('chapterId', 0)}:{h.get('id')}" not in processed_set
                 ]
                 if not hadiths_to_translate:
                     continue
@@ -242,11 +246,14 @@ class TranslationRunner:
                     translated_texts = self.translator.translate_batch(texts, language)
                 except Exception:
                     translated_texts = texts
-                for m, txt in zip(meta, translated_texts):
+                for i, (m, txt) in enumerate(zip(meta, translated_texts)):
+                    if i < len(texts) and (txt or "").strip() == (texts[i] or "").strip():
+                        continue
                     key = f"{m['chapterId']}:{m['id']}"
                     composite = f"{book_id}:{m['chapterId']}:{m['id']}"
                     translated_hadiths[key] = {"narrator": m['narrator'], "text": txt, "hadith_id": m['id'], "chapter_id": m['chapterId'], "quality": {"confidence": "HIGH", "needs_review": False}}
-                    if composite not in checkpoint.get('processed_hadiths', []):
+                    if composite not in processed_set:
+                        processed_set.add(composite)
                         checkpoint['stats']['total_translated'] += 1
                         checkpoint['processed_hadiths'].append(composite)
                 checkpoint['stats']['api_calls'] += (len(texts) + 14) // 15
@@ -254,7 +261,7 @@ class TranslationRunner:
                     {"book_id": book_id, "chapter_id": int(m["chapterId"]), "hadith_id": int(m["id"]),
                      "narrator": m.get("narrator"), "text": translated_hadiths[f"{m['chapterId']}:{m['id']}"]["text"],
                      "quality_confidence": "HIGH", "needs_review": False}
-                    for m in meta
+                    for m in meta if f"{m['chapterId']}:{m['id']}" in translated_hadiths
                 ] if self.app else None
                 if not self.app:
                     if book_id not in all_translations:

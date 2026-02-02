@@ -120,6 +120,7 @@ hadith-translator-web/
 | `POST /api/start` | بدء الترجمة (body: `{"language": "turkish"}`) |
 | `POST /api/stop` | إيقاف الترجمة |
 | `GET /api/export/<language>` | تحميل ترجمات لغة واحدة كملف JSON (مثلاً `/api/export/russian` → `hadith_translations_ru.json`) |
+| `POST /api/reset/<language>` | حذف تقدم وترجمات لغة من DB للبدء من الصفر (مثلاً بعد إصلاح ترجمات إنجليزية خاطئة) |
 
 ## التكلفة على Railway
 
