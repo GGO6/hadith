@@ -100,10 +100,13 @@ def _run_translation(language: str):
         result = runner.run(language)
         with _status_lock:
             _last_progress.update(result)
-        logger.info(
-            "Translation finished: language=%s reason=%s total_translated=%s last_book=%s",
-            language, result.get("stop_reason"), result.get("total_translated"), result.get("last_book_id"),
-        )
+        if result.get("error"):
+            logger.warning("Translation startup error: %s", result.get("error"))
+        else:
+            logger.info(
+                "Translation finished: language=%s reason=%s total_translated=%s last_book=%s",
+                language, result.get("stop_reason"), result.get("total_translated"), result.get("last_book_id"),
+            )
         if result.get("last_error"):
             logger.error("Translation error: %s", result.get("last_error"))
     except Exception as e:
@@ -150,6 +153,9 @@ def get_status():
         "last_chapter_file": progress.get("last_chapter_file"),
         "last_error": progress.get("last_error"),
         "stop_time": progress.get("stop_time"),
+        "error": progress.get("error"),
+        "phase": progress.get("phase"),
+        "books_count": progress.get("books_count"),
     }
 
 
@@ -265,6 +271,7 @@ INDEX_HTML = """
             <div id="status" class="status">جاري التحميل...</div>
             <div class="progress-bar"><div id="progressFill" class="progress-fill" style="width: 0%;"></div></div>
             <p id="details"></p>
+            <p id="errorMsg" class="error-msg" style="display:none; color:#ff6b6b; margin-top:8px;"></p>
             <div>
                 <label>اللغة: </label>
                 <select id="langSelect">
@@ -293,14 +300,31 @@ INDEX_HTML = """
                     : '⚪ الترجمة متوقفة';
                 document.getElementById('status').className = 'status ' + (data.running ? 'running' : 'stopped');
                 document.getElementById('progressFill').style.width = (data.progress_pct || 0) + '%';
-                document.getElementById('details').textContent = data.running || data.total_translated
-                    ? `تم: ${data.total_translated || 0} | متبقي: ${data.remaining || 0} | استدعاءات API: ${data.api_calls || 0}`
-                    : '';
+                let details = '';
+                if (data.running) {
+                    if (data.phase === 'started' && data.books_count != null)
+                        details = 'جاري البدء... ' + data.books_count + ' كتب.';
+                    else if (data.last_book)
+                        details = 'كتاب: ' + data.last_book + ' | تم: ' + (data.total_translated || 0) + ' | متبقي: ' + (data.remaining || 0) + ' | API: ' + (data.api_calls || 0);
+                    else
+                        details = 'تم: ' + (data.total_translated || 0) + ' | متبقي: ' + (data.remaining || 0) + ' | استدعاءات API: ' + (data.api_calls || 0);
+                } else if (data.total_translated > 0) {
+                    details = 'تم: ' + data.total_translated + ' | متبقي: ' + (data.remaining || 0) + ' | استدعاءات API: ' + (data.api_calls || 0);
+                }
+                document.getElementById('details').textContent = details;
+                const errorEl = document.getElementById('errorMsg');
+                if (data.error) {
+                    errorEl.textContent = '⚠ ' + data.error;
+                    errorEl.style.display = 'block';
+                } else {
+                    errorEl.style.display = 'none';
+                }
                 document.getElementById('btnStart').disabled = data.running;
                 document.getElementById('btnStop').disabled = !data.running;
                 const stopInfo = document.getElementById('stopInfo');
-                if (!data.running && (data.stop_reason || data.stop_message || data.last_error)) {
+                if (!data.running && (data.stop_reason || data.stop_message || data.last_error || data.error)) {
                     let html = '<h3>آخر توقف — لتحليل ما حدث</h3>';
+                    if (data.error) html += '<p><strong>الخطأ:</strong> ' + data.error + '</p>';
                     if (data.stop_reason) html += '<p><strong>السبب:</strong> ' + (data.stop_reason === 'user_stop' ? 'إيقاف يدوي' : data.stop_reason === 'error' ? 'خطأ' : data.stop_reason === 'completed' ? 'اكتمال' : data.stop_reason) + '</p>';
                     if (data.stop_message) html += '<p><strong>الوصف:</strong> ' + data.stop_message + '</p>';
                     if (data.last_book_id) html += '<p><strong>آخر كتاب:</strong> ' + data.last_book_id + '</p>';

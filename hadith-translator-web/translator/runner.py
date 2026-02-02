@@ -156,6 +156,35 @@ class TranslationRunner:
         checkpoint = self.load_checkpoint(language)
         processed_set = set(checkpoint.get("processed_hadiths", []))
         all_books = self.load_all_books()
+        logger.info("loaded %s books, processed_already=%s", len(all_books), len(processed_set))
+        if not all_books:
+            err_msg = "لا توجد كتب. تأكد من وجود مجلد الكتب (data/books) وملفات metadata.json."
+            logger.error("%s books_dir=%s", err_msg, self.books_dir)
+            self._emit_progress({
+                "language": language,
+                "total_translated": 0,
+                "total_hadiths": total_hadiths,
+                "remaining": total_hadiths,
+                "error": err_msg,
+            })
+            return {
+                "language": language,
+                "total_translated": 0,
+                "api_calls": 0,
+                "stopped": False,
+                "error": err_msg,
+                "stop_reason": "error",
+                "stop_message": err_msg,
+            }
+        self._emit_progress({
+            "language": language,
+            "total_translated": checkpoint["stats"]["total_translated"],
+            "total_hadiths": total_hadiths,
+            "remaining": total_hadiths - checkpoint["stats"]["total_translated"],
+            "book_id": None,
+            "phase": "started",
+            "books_count": len(all_books),
+        })
         lang_info = config.LANGUAGES[language]
         output_lang_dir = self.output_dir / language
         output_lang_dir.mkdir(parents=True, exist_ok=True)
