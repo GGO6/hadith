@@ -197,6 +197,7 @@ class TranslationRunner:
             except Exception:
                 pass
 
+        batch_size = min(15, max(1, int(os.getenv("OPENAI_BATCH_SIZE", "10"))))
         last_book_id = None
         last_chapter_file = None
         stop_reason = "completed"
@@ -258,7 +259,7 @@ class TranslationRunner:
                                         processed_set.add(composite)
                                         checkpoint['stats']['total_translated'] += 1
                                         checkpoint['processed_hadiths'].append(composite)
-                                checkpoint['stats']['api_calls'] += (len(texts) + 14) // 15
+                                checkpoint['stats']['api_calls'] += (len(texts) + batch_size - 1) // batch_size
                     if translated_hadiths:
                         new_translations = [
                             {"book_id": book_id, "chapter_id": int(m["chapterId"]), "hadith_id": int(m["id"]),
@@ -334,7 +335,7 @@ class TranslationRunner:
                             processed_set.add(composite)
                             checkpoint['stats']['total_translated'] += 1
                             checkpoint['processed_hadiths'].append(composite)
-                    checkpoint['stats']['api_calls'] += (len(texts) + 14) // 15
+                    checkpoint['stats']['api_calls'] += (len(texts) + batch_size - 1) // batch_size
                     new_translations = [
                         {"book_id": book_id, "chapter_id": int(m["chapterId"]), "hadith_id": int(m["id"]),
                          "narrator": m.get("narrator"), "text": translated_hadiths[f"{m['chapterId']}:{m['id']}"]["text"],

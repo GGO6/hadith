@@ -73,8 +73,8 @@ class APITranslator:
         if not texts:
             return []
         lang_name = self.lang_names.get(target_language, target_language.capitalize())
-        batch_size = min(15, max(1, int(os.getenv("OPENAI_BATCH_SIZE", "5"))))
-        delay_sec = float(os.getenv("OPENAI_DELAY_SEC", "6.0"))
+        batch_size = min(15, max(1, int(os.getenv("OPENAI_BATCH_SIZE", "10"))))
+        delay_sec = float(os.getenv("OPENAI_DELAY_SEC", "3.5"))
         translated = []
         for i in range(0, len(texts), batch_size):
             batch_texts = texts[i:i+batch_size]
