@@ -117,7 +117,7 @@
       "metadataUrl": "the_9_books/bukhari/metadata.json",
       "chaptersBaseUrl": "the_9_books/bukhari/chapters",
       "downloadUrl": "bukhari.zip",
-      "sha256": "c92916955e051a5ca171251af7f77aee70b7be6c583a674e25ce2cdf5971f52f"
+      "sha256": "9d2cc4806d23cdb680f2d174d816db2fe72f10844ebb2f3c6d03bece519ce34a"
     },
     {
       "id": "muslim",
@@ -139,7 +139,7 @@
       "metadataUrl": "the_9_books/muslim/metadata.json",
       "chaptersBaseUrl": "the_9_books/muslim/chapters",
       "downloadUrl": "muslim.zip",
-      "sha256": "c048c7951d7b7bf229f22313fc8788bdb4d55052a4e276bdb1fa27ff44a579ef"
+      "sha256": "97be2bb4bf6e00003febae072c3a8e2ea7ca946ba738a8ef3402cc59dd15b8af"
     },
     {
       "id": "abudawud",
@@ -161,7 +161,7 @@
       "metadataUrl": "the_9_books/abudawud/metadata.json",
       "chaptersBaseUrl": "the_9_books/abudawud/chapters",
       "downloadUrl": "abudawud.zip",
-      "sha256": "c1cd5fc2a2fe4cc8c5771aa7e3a4372a33641d6f615cbf369fc08f90d4bc564b"
+      "sha256": "8d5f2d5ae1ca6bd58a51561cf2b76aa2dc7363f73b9f68131b899ad9889eb3ab"
     },
     {
       "id": "tirmidhi",
@@ -183,7 +183,7 @@
       "metadataUrl": "the_9_books/tirmidhi/metadata.json",
       "chaptersBaseUrl": "the_9_books/tirmidhi/chapters",
       "downloadUrl": "tirmidhi.zip",
-      "sha256": "cf85e978d6aa84baba5bee7fafbb61151baaa8e6db76893cb0417f40da138bb5"
+      "sha256": "0acce0b183998c0c85e0b08fd572ab56443775a8bb25def4300b30e295500aa1"
     },
     {
       "id": "nasai",
@@ -205,7 +205,7 @@
       "metadataUrl": "the_9_books/nasai/metadata.json",
       "chaptersBaseUrl": "the_9_books/nasai/chapters",
       "downloadUrl": "nasai.zip",
-      "sha256": "41172c5e3c6fd10fdd8f7509a40331fe88cc901e0393ea5b4d50b4f8a053872c"
+      "sha256": "20019be1971615b06f948c15b983b58f327dd1ed8e319de2f5b56f205af22f89"
     },
     {
       "id": "ibnmajah",
@@ -227,7 +227,7 @@
       "metadataUrl": "the_9_books/ibnmajah/metadata.json",
       "chaptersBaseUrl": "the_9_books/ibnmajah/chapters",
       "downloadUrl": "ibnmajah.zip",
-      "sha256": "70f4d32c729a0e92173c081e99b60fe6ee33a6c32210d1a8447a45c4a4c9a5d0"
+      "sha256": "92a7a257db9b86c4c083bdc5a570f965b7cd4693ad028c9c4267db4bf2024e65"
     },
     {
       "id": "malik",
@@ -249,7 +249,7 @@
       "metadataUrl": "the_9_books/malik/metadata.json",
       "chaptersBaseUrl": "the_9_books/malik/chapters",
       "downloadUrl": "malik.zip",
-      "sha256": "a32a568fd4798164b5ba3f6eee7ea3c0f2e9f6b4af28e320ecb781b54cb0013b"
+      "sha256": "2caa6eb272a3eaf60ea1fe0211cbbecd966c3674c6f64e52291fb6aa23b11e93"
     },
     {
       "id": "ahmed",
@@ -271,7 +271,7 @@
       "metadataUrl": "the_9_books/ahmed/metadata.json",
       "chaptersBaseUrl": "the_9_books/ahmed/chapters",
       "downloadUrl": "ahmed.zip",
-      "sha256": "31896da97fa086ef11609a077e6a2ad36f9950a1c8118558f442f2535d6cb126"
+      "sha256": "6b31c3c601706e47e2d4f3979b802a40d269e35ff940089aa170291e9c1fd46d"
     },
     {
       "id": "darimi",
@@ -293,7 +293,7 @@
       "metadataUrl": "the_9_books/darimi/metadata.json",
       "chaptersBaseUrl": "the_9_books/darimi/chapters",
       "downloadUrl": "darimi.zip",
-      "sha256": "cd0326e4e12fcc319014a25e460225b1b4ee1f368b84e3c527ed67c1712a6382"
+      "sha256": "f73687ffa46224336ff53a5c16dc31984212f76155ebfd4f5a07abdd421b9c59"
     },
     {
       "id": "nawawi40",
@@ -315,7 +315,7 @@
       "metadataUrl": "forties/nawawi40/metadata.json",
       "fullBookUrl": "forties/nawawi40/all.json",
       "downloadUrl": "nawawi40.zip",
-      "sha256": "b3e49bb11f976d483717f956f01208a05e34a37c1fc7a3b6576989a3cb191e18"
+      "sha256": "c7d2cd4c24c4be54643e7e4a2e2454876e94a168989d8e45efe444e3392ea51c"
     },
     {
       "id": "qudsi40",
@@ -337,7 +337,7 @@
       "metadataUrl": "forties/qudsi40/metadata.json",
       "fullBookUrl": "forties/qudsi40/all.json",
       "downloadUrl": "qudsi40.zip",
-      "sha256": "e683ceca2aac33e853a881633534c349205df4a0354f06731c679e7d71b54f7f"
+      "sha256": "e4ed7f8bfcfdd14dcd84af4035da715d625d082d52ae0fbd8010d575dd10f788"
     },
     {
       "id": "riyad_assalihin",
@@ -359,7 +359,7 @@
       "metadataUrl": "other_books/riyad_assalihin/metadata.json",
       "chaptersBaseUrl": "other_books/riyad_assalihin/chapters",
       "downloadUrl": "riyad_assalihin.zip",
-      "sha256": "a27d00972cad9b711627e244a3342e7eaf2c5f4314a90756b730f77d63064cfc"
+      "sha256": "f98071a0c3631efa0c3058c4b70bc7dafc7d47cf96e24a45dec4e5bdd8947500"
     },
     {
       "id": "bulugh_almaram",
@@ -381,7 +381,7 @@
       "metadataUrl": "other_books/bulugh_almaram/metadata.json",
       "chaptersBaseUrl": "other_books/bulugh_almaram/chapters",
       "downloadUrl": "bulugh_almaram.zip",
-      "sha256": "0efb8cd6daa198f54536ff11b55e4efb79485c252831535748eedebab3b67da0"
+      "sha256": "aec86c4a3801aaf21267c47825befd58264b2b275eed68f0b83fc2d29aa106a1"
     },
     {
       "id": "mishkat_almasabih",
@@ -403,7 +403,7 @@
       "metadataUrl": "other_books/mishkat_almasabih/metadata.json",
       "chaptersBaseUrl": "other_books/mishkat_almasabih/chapters",
       "downloadUrl": "mishkat_almasabih.zip",
-      "sha256": "b431556a3911ba821da4d1eb21fea0addf4c2d0951161918dc56c14940f8b809"
+      "sha256": "82fcde7a81cb8cfdad791d2bd5a3642f8370911639bf41f2bde96f5296673a0c"
     },
     {
       "id": "aladab_almufrad",
@@ -425,7 +425,7 @@
       "metadataUrl": "other_books/aladab_almufrad/metadata.json",
       "chaptersBaseUrl": "other_books/aladab_almufrad/chapters",
       "downloadUrl": "aladab_almufrad.zip",
-      "sha256": "11dc5b77802c8103fe2bdd75c0d55b05720c738538e9d29f92970b8f971c8f89"
+      "sha256": "9c6cca0bbb7fba21b9f167873fe64ab63b209db25d4bea13ee62bef356e02a9f"
     },
     {
       "id": "shamail_muhammadiyah",
@@ -447,7 +447,7 @@
       "metadataUrl": "other_books/shamail_muhammadiyah/metadata.json",
       "chaptersBaseUrl": "other_books/shamail_muhammadiyah/chapters",
       "downloadUrl": "shamail_muhammadiyah.zip",
-      "sha256": "768ddd4ee81787370ce87c469ac5b64512c228ef1b7d6ff8abd819ef4b3ec687"
+      "sha256": "a19fc1424aefe949b2eb32997d559bffcd6179f172bf479dd7ff7897408c3f64"
     }
   ]
 }

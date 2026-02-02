@@ -6,7 +6,7 @@ import os
 import time
 import logging
 from typing import List, Dict, Tuple
-from openai import OpenAI
+from openai import OpenAI, APITimeoutError
 
 logger = logging.getLogger("hadith.translator")
 
@@ -23,6 +23,17 @@ def _is_rate_limit(e: Exception) -> bool:
     return getattr(e, "status_code", None) == 429 or "429" in str(e) or "rate limit" in str(e).lower()
 
 
+def _is_timeout(e: Exception) -> bool:
+    if isinstance(e, APITimeoutError):
+        return True
+    msg = str(e).lower()
+    return "timeout" in msg or "timed out" in msg or "read operation timed out" in msg
+
+
+def _is_retryable(e: Exception) -> bool:
+    return _is_rate_limit(e) or _is_timeout(e)
+
+
 class APITranslator:
     def __init__(self, api_key: str = None, model: str = "gpt-4o-mini"):
         if not api_key:
@@ -31,15 +42,16 @@ class APITranslator:
             raise ValueError("OpenAI API key not found. Set OPENAI_API_KEY environment variable.")
         self.api_key = api_key
         self.model = model
-        self.client = OpenAI(api_key=self.api_key, timeout=120.0, max_retries=0)
+        timeout_sec = float(os.getenv("OPENAI_TIMEOUT_SEC", "300"))
+        self.client = OpenAI(api_key=self.api_key, timeout=timeout_sec, max_retries=0)
         self.lang_names = {k: v["name"] for k, v in _config.LANGUAGES.items()}
 
     def _translate_single_batch(self, batch_info: Tuple[int, List[str], str]) -> Tuple[int, List[str]]:
         batch_idx, batch_texts, lang_name = batch_info
         combined_text = "\n\n---\n\n".join([f"[{idx+1}] {text}" for idx, text in enumerate(batch_texts)])
-        rate_limit_wait = int(os.getenv("OPENAI_RATE_LIMIT_WAIT", "60"))
-        max_rate_limit_retries = int(os.getenv("OPENAI_RATE_LIMIT_RETRIES", "5"))
-        for attempt in range(max_rate_limit_retries + 1):
+        retry_wait = int(os.getenv("OPENAI_RATE_LIMIT_WAIT", "60"))
+        max_retries = int(os.getenv("OPENAI_RATE_LIMIT_RETRIES", "5"))
+        for attempt in range(max_retries + 1):
             try:
                 response = self.client.chat.completions.create(
                     model=self.model,
@@ -61,9 +73,10 @@ class APITranslator:
                     batch_translated.append(batch_texts[len(batch_translated)])
                 return (batch_idx, batch_translated[:len(batch_texts)])
             except Exception as e:
-                if _is_rate_limit(e) and attempt < max_rate_limit_retries:
-                    logger.warning("429 rate limit: waiting %s sec then retry (%s/%s)", rate_limit_wait, attempt + 1, max_rate_limit_retries)
-                    time.sleep(rate_limit_wait)
+                if _is_retryable(e) and attempt < max_retries:
+                    kind = "timeout" if _is_timeout(e) else "429 rate limit"
+                    logger.warning("%s: waiting %s sec then retry (%s/%s)", kind, retry_wait, attempt + 1, max_retries)
+                    time.sleep(retry_wait)
                     continue
                 logger.exception("translate_batch failed: %s", e)
                 return (batch_idx, batch_texts)

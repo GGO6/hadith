@@ -18,4 +18,4 @@ ENV PORT=5000
 EXPOSE 5000
 
 # استخدام shell صريح حتى يُوسَّع $PORT عند التشغيل (Railway يضبط PORT)
-CMD ["sh", "-c", "gunicorn -w 1 -b 0.0.0.0:${PORT:-5000} --timeout 300 app:app"]
+CMD ["sh", "-c", "gunicorn -w 1 -b 0.0.0.0:${PORT:-5000} --timeout 600 app:app"]
