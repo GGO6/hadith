@@ -1,11 +1,11 @@
 """
-API-based Translator using GPT-4o-mini for full translation
-With parallel API calls for faster processing
+API-based Translator using GPT-4o-mini for full translation.
+Uses single request at a time to avoid OpenAI 429 rate limits.
 """
 import os
+import time
 from typing import List, Dict, Tuple
 from openai import OpenAI
-from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # Import config from project root
 import sys
@@ -57,23 +57,12 @@ class APITranslator:
             return []
         lang_name = self.lang_names.get(target_language, target_language.capitalize())
         batch_size = 15
-        max_parallel = 3
-        batches = []
+        translated = []
         for i in range(0, len(texts), batch_size):
             batch_texts = texts[i:i+batch_size]
-            batches.append((i // batch_size, batch_texts, lang_name))
-        results = [None] * len(batches)
-        with ThreadPoolExecutor(max_workers=max_parallel) as executor:
-            future_to_batch = {executor.submit(self._translate_single_batch, b): b[0] for b in batches}
-            for future in as_completed(future_to_batch):
-                batch_idx = future_to_batch[future]
-                try:
-                    idx, translated_texts = future.result()
-                    results[idx] = translated_texts
-                except Exception:
-                    results[batch_idx] = batches[batch_idx][1]
-        translated = []
-        for batch_result in results:
-            if batch_result:
-                translated.extend(batch_result)
+            batch_info = (i // batch_size, batch_texts, lang_name)
+            _, batch_result = self._translate_single_batch(batch_info)
+            translated.extend(batch_result)
+            if i + batch_size < len(texts):
+                time.sleep(1.0)
         return translated
