@@ -83,10 +83,22 @@ def _run_translation(language: str):
         with _status_lock:
             _last_progress.update(data)
     runner = TranslationRunner(stop_event=_stop_event, progress_callback=on_progress, app=app)
-    result = runner.run(language)
-    with _status_lock:
-        _last_progress.update(result)
-        _current_language = None
+    try:
+        result = runner.run(language)
+        with _status_lock:
+            _last_progress.update(result)
+    except Exception as e:
+        from datetime import datetime, timezone
+        with _status_lock:
+            _last_progress.update({
+                "stop_reason": "error",
+                "stop_message": "توقف بسبب خطأ غير متوقع (استثناء خارج التشغيل).",
+                "last_error": f"{type(e).__name__}: {e}",
+                "stop_time": datetime.now(timezone.utc).isoformat(),
+            })
+    finally:
+        with _status_lock:
+            _current_language = None
 
 
 def get_status():
@@ -111,6 +123,12 @@ def get_status():
         "last_book": progress.get("book_id"),
         "api_calls": progress.get("api_calls", 0),
         "stopped": progress.get("stopped", False),
+        "stop_reason": progress.get("stop_reason"),
+        "stop_message": progress.get("stop_message"),
+        "last_book_id": progress.get("last_book_id"),
+        "last_chapter_file": progress.get("last_chapter_file"),
+        "last_error": progress.get("last_error"),
+        "stop_time": progress.get("stop_time"),
     }
 
 
@@ -210,12 +228,16 @@ INDEX_HTML = """
         .lang-item a.dl:hover { text-decoration: underline; }
         .lang-item button.reset { margin-top: 4px; font-size: 0.85em; padding: 4px 8px; background: #5a3; color: #fff; border: none; border-radius: 4px; cursor: pointer; }
         .lang-item button.reset:hover { background: #6b4; }
+        .stop-info { margin-top: 12px; padding: 12px; background: #0f3460; border-radius: 8px; font-size: 0.95em; }
+        .stop-info h3 { margin: 0 0 8px 0; color: #8ab; font-size: 1em; }
+        .stop-info pre { margin: 4px 0; white-space: pre-wrap; word-break: break-all; color: #ccc; font-size: 0.9em; }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>📚 ترجمة الأحاديث - Hadith Translator</h1>
         <p>تشغيل الترجمة على السيرفر (Railway) - لا حاجة لفتح جهازك</p>
+        <p style="font-size:0.95em; color:#8ab;">إذا توقفت الترجمة لأي سبب (إعادة تشغيل، انقطاع، إيقاف) — اضغط «بدء الترجمة» مرة أخرى لنفس اللغة لاستئناف من آخر نقطة محفوظة.</p>
 
         <div class="card">
             <h2>الحالة الحالية</h2>
@@ -232,6 +254,7 @@ INDEX_HTML = """
                 <button id="btnStart">▶ بدء الترجمة</button>
                 <button id="btnStop" class="stop" disabled>⏹ إيقاف</button>
             </div>
+            <div id="stopInfo" class="stop-info" style="display:none;"></div>
         </div>
 
         <div class="card">
@@ -254,6 +277,20 @@ INDEX_HTML = """
                     : '';
                 document.getElementById('btnStart').disabled = data.running;
                 document.getElementById('btnStop').disabled = !data.running;
+                const stopInfo = document.getElementById('stopInfo');
+                if (!data.running && (data.stop_reason || data.stop_message || data.last_error)) {
+                    let html = '<h3>آخر توقف — لتحليل ما حدث</h3>';
+                    if (data.stop_reason) html += '<p><strong>السبب:</strong> ' + (data.stop_reason === 'user_stop' ? 'إيقاف يدوي' : data.stop_reason === 'error' ? 'خطأ' : data.stop_reason === 'completed' ? 'اكتمال' : data.stop_reason) + '</p>';
+                    if (data.stop_message) html += '<p><strong>الوصف:</strong> ' + data.stop_message + '</p>';
+                    if (data.last_book_id) html += '<p><strong>آخر كتاب:</strong> ' + data.last_book_id + '</p>';
+                    if (data.last_chapter_file) html += '<p><strong>آخر فصل (ملف):</strong> ' + data.last_chapter_file + '</p>';
+                    if (data.stop_time) html += '<p><strong>وقت التوقف (UTC):</strong> ' + data.stop_time + '</p>';
+                    if (data.last_error) html += '<p><strong>تفاصيل الخطأ:</strong></p><pre>' + data.last_error + '</pre>';
+                    stopInfo.innerHTML = html;
+                    stopInfo.style.display = 'block';
+                } else {
+                    stopInfo.style.display = 'none';
+                }
             }).catch(() => {});
         }
         function fetchLangStatus() {

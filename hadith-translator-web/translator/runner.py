@@ -4,6 +4,7 @@ Translation runner - runs translation in background with stop support and progre
 import os
 import json
 import glob
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Dict, List, Callable, Optional
 import threading
@@ -164,43 +165,114 @@ class TranslationRunner:
             except Exception:
                 pass
 
-        for book in all_books:
-            if self.stop_event.is_set():
-                break
-            book_id = book['id']
-            book_path = book['_path']
-            chapters = book.get('chapters', [])
-            translated_hadiths = {}
+        last_book_id = None
+        last_chapter_file = None
+        stop_reason = "completed"
+        stop_message = "اكتملت الترجمة بنجاح."
+        last_error = None
+        try:
+            for book in all_books:
+                if self.stop_event.is_set():
+                    stop_reason = "user_stop"
+                    stop_message = "تم الإيقاف يدوياً (زر إيقاف أو إشارة إيقاف)."
+                    break
+                book_id = book['id']
+                last_book_id = book_id
+                book_path = book['_path']
+                chapters = book.get('chapters', [])
+                translated_hadiths = {}
 
-            if not chapters:
-                all_file = book_path / "all.json"
-                if all_file.exists():
-                    data = self.load_chapter_file(book_path, "all.json")
-                    if data:
-                        hadiths = data.get('hadiths', [])
-                        hadiths_to_translate = [
-                            h for h in hadiths
-                            if f"{book_id}:{h.get('chapterId', 0)}:{h.get('id')}" not in processed_set
-                        ]
-                        if hadiths_to_translate:
-                            texts = [self.extract_hadith_text(h) for h in hadiths_to_translate]
-                            meta = [{"id": h.get('id'), "chapterId": h.get('chapterId', 0), "narrator": h.get('english', {}).get('narrator', '')} for h in hadiths_to_translate]
-                            try:
-                                translated_texts = self.translator.translate_batch(texts, language)
-                            except Exception:
-                                translated_texts = texts
-                            for i, (m, txt) in enumerate(zip(meta, translated_texts)):
-                                if i < len(texts) and (txt or "").strip() == (texts[i] or "").strip():
-                                    continue
-                                key = f"{m['chapterId']}:{m['id']}"
-                                composite = f"{book_id}:{m['chapterId']}:{m['id']}"
-                                translated_hadiths[key] = {"narrator": m['narrator'], "text": txt, "hadith_id": m['id'], "chapter_id": m['chapterId'], "quality": {"confidence": "HIGH", "needs_review": False}}
-                                if composite not in processed_set:
-                                    processed_set.add(composite)
-                                    checkpoint['stats']['total_translated'] += 1
-                                    checkpoint['processed_hadiths'].append(composite)
-                            checkpoint['stats']['api_calls'] += (len(texts) + 14) // 15
-                if translated_hadiths:
+                if not chapters:
+                    all_file = book_path / "all.json"
+                    if all_file.exists():
+                        data = self.load_chapter_file(book_path, "all.json")
+                        if data:
+                            hadiths = data.get('hadiths', [])
+                            hadiths_to_translate = [
+                                h for h in hadiths
+                                if f"{book_id}:{h.get('chapterId', 0)}:{h.get('id')}" not in processed_set
+                            ]
+                            if hadiths_to_translate:
+                                texts = [self.extract_hadith_text(h) for h in hadiths_to_translate]
+                                meta = [{"id": h.get('id'), "chapterId": h.get('chapterId', 0), "narrator": h.get('english', {}).get('narrator', '')} for h in hadiths_to_translate]
+                                try:
+                                    translated_texts = self.translator.translate_batch(texts, language)
+                                except Exception:
+                                    translated_texts = texts
+                                for i, (m, txt) in enumerate(zip(meta, translated_texts)):
+                                    if i < len(texts) and (txt or "").strip() == (texts[i] or "").strip():
+                                        continue
+                                    key = f"{m['chapterId']}:{m['id']}"
+                                    composite = f"{book_id}:{m['chapterId']}:{m['id']}"
+                                    translated_hadiths[key] = {"narrator": m['narrator'], "text": txt, "hadith_id": m['id'], "chapter_id": m['chapterId'], "quality": {"confidence": "HIGH", "needs_review": False}}
+                                    if composite not in processed_set:
+                                        processed_set.add(composite)
+                                        checkpoint['stats']['total_translated'] += 1
+                                        checkpoint['processed_hadiths'].append(composite)
+                                checkpoint['stats']['api_calls'] += (len(texts) + 14) // 15
+                    if translated_hadiths:
+                        new_translations = [
+                            {"book_id": book_id, "chapter_id": int(m["chapterId"]), "hadith_id": int(m["id"]),
+                             "narrator": m.get("narrator"), "text": translated_hadiths[f"{m['chapterId']}:{m['id']}"]["text"],
+                             "quality_confidence": "HIGH", "needs_review": False}
+                            for m in meta if f"{m['chapterId']}:{m['id']}" in translated_hadiths
+                        ] if self.app else None
+                        if not self.app:
+                            if book_id not in all_translations:
+                                all_translations[book_id] = {}
+                            all_translations[book_id].update(translated_hadiths)
+                        self.save_checkpoint(checkpoint, new_translations=new_translations)
+                        if not self.app:
+                            with open(output_file, 'w', encoding='utf-8') as f:
+                                json.dump(all_translations, f, ensure_ascii=False, indent=2)
+                        self._emit_progress({
+                            "language": language,
+                            "book_id": book_id,
+                            "total_translated": checkpoint['stats']['total_translated'],
+                            "total_hadiths": total_hadiths,
+                            "remaining": total_hadiths - checkpoint['stats']['total_translated']
+                        })
+                    continue
+
+                for ch in chapters:
+                    if self.stop_event.is_set():
+                        stop_reason = "user_stop"
+                        stop_message = "تم الإيقاف يدوياً (زر إيقاف أو إشارة إيقاف)."
+                        break
+                    ch_file = ch.get('file')
+                    last_chapter_file = ch_file
+                    if not ch_file:
+                        continue
+                    data = self.load_chapter_file(book_path, ch_file)
+                    if not data:
+                        continue
+                    hadiths = data.get('hadiths', [])
+                    hadiths_to_translate = [
+                        h for h in hadiths
+                        if f"{book_id}:{h.get('chapterId', 0)}:{h.get('id')}" not in processed_set
+                    ]
+                    if not hadiths_to_translate:
+                        continue
+                    texts = [self.extract_hadith_text(h) for h in hadiths_to_translate]
+                    meta = [{"id": h.get('id'), "chapterId": h.get('chapterId', 0), "narrator": h.get('english', {}).get('narrator', '')} for h in hadiths_to_translate]
+                    try:
+                        translated_texts = self.translator.translate_batch(texts, language)
+                    except Exception as api_err:
+                        last_error = f"OpenAI/API: {type(api_err).__name__}: {api_err}"
+                        stop_reason = "error"
+                        stop_message = "خطأ أثناء استدعاء الترجمة (مثلاً حد المعدل، انقطاع الشبكة، مفتاح API)."
+                        raise
+                    for i, (m, txt) in enumerate(zip(meta, translated_texts)):
+                        if i < len(texts) and (txt or "").strip() == (texts[i] or "").strip():
+                            continue
+                        key = f"{m['chapterId']}:{m['id']}"
+                        composite = f"{book_id}:{m['chapterId']}:{m['id']}"
+                        translated_hadiths[key] = {"narrator": m['narrator'], "text": txt, "hadith_id": m['id'], "chapter_id": m['chapterId'], "quality": {"confidence": "HIGH", "needs_review": False}}
+                        if composite not in processed_set:
+                            processed_set.add(composite)
+                            checkpoint['stats']['total_translated'] += 1
+                            checkpoint['processed_hadiths'].append(composite)
+                    checkpoint['stats']['api_calls'] += (len(texts) + 14) // 15
                     new_translations = [
                         {"book_id": book_id, "chapter_id": int(m["chapterId"]), "hadith_id": int(m["id"]),
                          "narrator": m.get("narrator"), "text": translated_hadiths[f"{m['chapterId']}:{m['id']}"]["text"],
@@ -222,66 +294,24 @@ class TranslationRunner:
                         "total_hadiths": total_hadiths,
                         "remaining": total_hadiths - checkpoint['stats']['total_translated']
                     })
-                continue
-
-            for ch in chapters:
-                if self.stop_event.is_set():
-                    break
-                ch_file = ch.get('file')
-                if not ch_file:
-                    continue
-                data = self.load_chapter_file(book_path, ch_file)
-                if not data:
-                    continue
-                hadiths = data.get('hadiths', [])
-                hadiths_to_translate = [
-                    h for h in hadiths
-                    if f"{book_id}:{h.get('chapterId', 0)}:{h.get('id')}" not in processed_set
-                ]
-                if not hadiths_to_translate:
-                    continue
-                texts = [self.extract_hadith_text(h) for h in hadiths_to_translate]
-                meta = [{"id": h.get('id'), "chapterId": h.get('chapterId', 0), "narrator": h.get('english', {}).get('narrator', '')} for h in hadiths_to_translate]
-                try:
-                    translated_texts = self.translator.translate_batch(texts, language)
-                except Exception:
-                    translated_texts = texts
-                for i, (m, txt) in enumerate(zip(meta, translated_texts)):
-                    if i < len(texts) and (txt or "").strip() == (texts[i] or "").strip():
-                        continue
-                    key = f"{m['chapterId']}:{m['id']}"
-                    composite = f"{book_id}:{m['chapterId']}:{m['id']}"
-                    translated_hadiths[key] = {"narrator": m['narrator'], "text": txt, "hadith_id": m['id'], "chapter_id": m['chapterId'], "quality": {"confidence": "HIGH", "needs_review": False}}
-                    if composite not in processed_set:
-                        processed_set.add(composite)
-                        checkpoint['stats']['total_translated'] += 1
-                        checkpoint['processed_hadiths'].append(composite)
-                checkpoint['stats']['api_calls'] += (len(texts) + 14) // 15
-                new_translations = [
-                    {"book_id": book_id, "chapter_id": int(m["chapterId"]), "hadith_id": int(m["id"]),
-                     "narrator": m.get("narrator"), "text": translated_hadiths[f"{m['chapterId']}:{m['id']}"]["text"],
-                     "quality_confidence": "HIGH", "needs_review": False}
-                    for m in meta if f"{m['chapterId']}:{m['id']}" in translated_hadiths
-                ] if self.app else None
-                if not self.app:
-                    if book_id not in all_translations:
-                        all_translations[book_id] = {}
-                    all_translations[book_id].update(translated_hadiths)
-                self.save_checkpoint(checkpoint, new_translations=new_translations)
-                if not self.app:
-                    with open(output_file, 'w', encoding='utf-8') as f:
-                        json.dump(all_translations, f, ensure_ascii=False, indent=2)
-                self._emit_progress({
-                    "language": language,
-                    "book_id": book_id,
-                    "total_translated": checkpoint['stats']['total_translated'],
-                    "total_hadiths": total_hadiths,
-                    "remaining": total_hadiths - checkpoint['stats']['total_translated']
-                })
+        except Exception as e:
+            if not last_error:
+                last_error = f"{type(e).__name__}: {e}"
+            if stop_reason == "completed":
+                stop_reason = "error"
+                stop_message = "توقف بسبب خطأ غير متوقع (استثناء في التشغيل)."
+        finally:
+            stop_time = datetime.now(timezone.utc).isoformat()
 
         return {
             "language": language,
             "total_translated": checkpoint['stats']['total_translated'],
-            "api_calls": checkpoint['stats']['api_calls'],
-            "stopped": self.stop_event.is_set()
+            "api_calls": checkpoint['stats'].get('api_calls', 0),
+            "stopped": self.stop_event.is_set(),
+            "stop_reason": stop_reason,
+            "stop_message": stop_message,
+            "last_book_id": last_book_id,
+            "last_chapter_file": last_chapter_file,
+            "last_error": last_error,
+            "stop_time": stop_time,
         }

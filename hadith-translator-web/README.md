@@ -115,7 +115,7 @@ hadith-translator-web/
 | المسار | الوصف |
 |--------|--------|
 | `GET /` | لوحة التحكم |
-| `GET /api/status` | الحالة الحالية (جاري التشغيل، التقدم، إلخ) |
+| `GET /api/status` | الحالة الحالية (جاري التشغيل، التقدم، سبب آخر توقف: `stop_reason`, `stop_message`, `last_error`, `last_book_id`, `last_chapter_file`, `stop_time`) |
 | `GET /api/languages` | عدد الأحاديث المترجمة لكل لغة |
 | `POST /api/start` | بدء الترجمة (body: `{"language": "turkish"}`) |
 | `POST /api/stop` | إيقاف الترجمة |
