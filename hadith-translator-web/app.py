@@ -4,10 +4,22 @@ Hadith Translator Web - Flask app for Railway
 """
 import os
 import json
+import logging
+import sys
 import threading
 from pathlib import Path
 from flask import Flask, render_template_string, jsonify, request, Response
 from flask_sqlalchemy import SQLAlchemy
+
+# Logging: stdout so Railway (and gunicorn) capture logs
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(name)s: %(message)s",
+    datefmt="%Y-%m-%d %H:%M:%S",
+    stream=sys.stdout,
+    force=True,
+)
+logger = logging.getLogger("hadith")
 
 # Ensure we can import config and translator
 BASE_DIR = Path(__file__).resolve().parent
@@ -76,6 +88,7 @@ def _ensure_tables():
 
 def _run_translation(language: str):
     global _last_progress, _current_language
+    logger.info("Translation started: language=%s", language)
     with _status_lock:
         _current_language = language
         _last_progress = {"language": language, "total_translated": 0, "total_hadiths": 50884, "remaining": 50884}
@@ -87,7 +100,14 @@ def _run_translation(language: str):
         result = runner.run(language)
         with _status_lock:
             _last_progress.update(result)
+        logger.info(
+            "Translation finished: language=%s reason=%s total_translated=%s last_book=%s",
+            language, result.get("stop_reason"), result.get("total_translated"), result.get("last_book_id"),
+        )
+        if result.get("last_error"):
+            logger.error("Translation error: %s", result.get("last_error"))
     except Exception as e:
+        logger.exception("Translation crashed: %s", e)
         from datetime import datetime, timezone
         with _status_lock:
             _last_progress.update({
@@ -99,6 +119,7 @@ def _run_translation(language: str):
     finally:
         with _status_lock:
             _current_language = None
+        logger.info("Translation thread ended: language=%s", language)
 
 
 def get_status():
@@ -353,16 +374,19 @@ def api_start():
         return jsonify({"error": "Unknown language"}), 400
     with _status_lock:
         if _translation_thread is not None and _translation_thread.is_alive():
+            logger.warning("api/start rejected: translation already running")
             return jsonify({"error": "Translation already running"}), 409
     _stop_event.clear()
     _translation_thread = threading.Thread(target=_run_translation, args=(language,), daemon=True)
     _translation_thread.start()
+    logger.info("api/start: language=%s thread started", language)
     return jsonify({"ok": True, "language": language})
 
 
 @app.route('/api/stop', methods=['POST'])
 def api_stop():
     _stop_event.set()
+    logger.info("api/stop: stop_event set")
     return jsonify({"ok": True})
 
 

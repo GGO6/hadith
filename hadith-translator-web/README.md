@@ -110,6 +110,20 @@ hadith-translator-web/
 └── README.md
 ```
 
+## السجلات (Logs)
+
+التطبيق يكتب سجلات إلى **stdout** (مثلاً: بداية الترجمة، كل كتاب/فصل، حفظ نقطة التقدم، التوقف، الأخطاء). على Railway تظهر في **Logs** للخدمة:
+
+- من لوحة Railway: خدمة **hadith** → **Logs** (أو **Observability** → **Logs**).
+- الصيغة: `YYYY-MM-DD HH:MM:SS [LEVEL] hadith: الرسالة`.
+
+أمثلة على الرسائل:
+- `Translation started: language=russian`
+- `book start: book_id=abudawud`
+- `chapter done: book_id=abudawud chapter=1.json total_translated=1234 remaining=49650`
+- `run end: language=russian stop_reason=user_stop total_translated=24065 last_book_id=...`
+- `Translation error: OpenAI/API: RateLimitError: ...`
+
 ## API
 
 | المسار | الوصف |

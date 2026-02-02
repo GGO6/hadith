@@ -4,6 +4,7 @@ Translation runner - runs translation in background with stop support and progre
 import os
 import json
 import glob
+import logging
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Dict, List, Callable, Optional
@@ -16,6 +17,8 @@ if str(_root) not in __import__('sys').path:
 
 import config
 from .api_translator import APITranslator
+
+logger = logging.getLogger("hadith.runner")
 
 
 class TranslationRunner:
@@ -170,14 +173,20 @@ class TranslationRunner:
         stop_reason = "completed"
         stop_message = "اكتملت الترجمة بنجاح."
         last_error = None
+        logger.info(
+            "run start: language=%s total_hadiths=%s books=%s processed_already=%s",
+            language, total_hadiths, len(all_books), len(processed_set),
+        )
         try:
             for book in all_books:
                 if self.stop_event.is_set():
                     stop_reason = "user_stop"
                     stop_message = "تم الإيقاف يدوياً (زر إيقاف أو إشارة إيقاف)."
+                    logger.info("stop_event set, breaking at book_id=%s", last_book_id)
                     break
                 book_id = book['id']
                 last_book_id = book_id
+                logger.info("book start: book_id=%s", book_id)
                 book_path = book['_path']
                 chapters = book.get('chapters', [])
                 translated_hadiths = {}
@@ -225,13 +234,14 @@ class TranslationRunner:
                         if not self.app:
                             with open(output_file, 'w', encoding='utf-8') as f:
                                 json.dump(all_translations, f, ensure_ascii=False, indent=2)
-                        self._emit_progress({
-                            "language": language,
-                            "book_id": book_id,
-                            "total_translated": checkpoint['stats']['total_translated'],
-                            "total_hadiths": total_hadiths,
-                            "remaining": total_hadiths - checkpoint['stats']['total_translated']
-                        })
+                    self._emit_progress({
+                        "language": language,
+                        "book_id": book_id,
+                        "total_translated": checkpoint['stats']['total_translated'],
+                        "total_hadiths": total_hadiths,
+                        "remaining": total_hadiths - checkpoint['stats']['total_translated']
+                    })
+                    logger.info("book done (all.json): book_id=%s total_translated=%s", book_id, checkpoint['stats']['total_translated'])
                     continue
 
                 for ch in chapters:
@@ -261,6 +271,7 @@ class TranslationRunner:
                         last_error = f"OpenAI/API: {type(api_err).__name__}: {api_err}"
                         stop_reason = "error"
                         stop_message = "خطأ أثناء استدعاء الترجمة (مثلاً حد المعدل، انقطاع الشبكة، مفتاح API)."
+                        logger.exception("translate_batch failed: book_id=%s chapter=%s hadiths=%s", book_id, ch_file, len(texts))
                         raise
                     for i, (m, txt) in enumerate(zip(meta, translated_texts)):
                         if i < len(texts) and (txt or "").strip() == (texts[i] or "").strip():
@@ -294,14 +305,25 @@ class TranslationRunner:
                         "total_hadiths": total_hadiths,
                         "remaining": total_hadiths - checkpoint['stats']['total_translated']
                     })
+                    logger.info(
+                        "chapter done: book_id=%s chapter=%s total_translated=%s remaining=%s",
+                        book_id, ch_file, checkpoint['stats']['total_translated'], total_hadiths - checkpoint['stats']['total_translated'],
+                    )
         except Exception as e:
             if not last_error:
                 last_error = f"{type(e).__name__}: {e}"
             if stop_reason == "completed":
                 stop_reason = "error"
                 stop_message = "توقف بسبب خطأ غير متوقع (استثناء في التشغيل)."
+            logger.exception("run exception: %s", e)
         finally:
             stop_time = datetime.now(timezone.utc).isoformat()
+            logger.info(
+                "run end: language=%s stop_reason=%s total_translated=%s last_book_id=%s last_chapter=%s stop_time=%s",
+                language, stop_reason, checkpoint['stats']['total_translated'], last_book_id, last_chapter_file, stop_time,
+            )
+            if last_error:
+                logger.error("last_error: %s", last_error)
 
         return {
             "language": language,
