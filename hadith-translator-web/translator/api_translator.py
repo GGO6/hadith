@@ -89,7 +89,7 @@ class APITranslator:
         lang_name = self.lang_names.get(target_language, target_language.capitalize())
         batch_size = min(15, max(1, int(os.getenv("OPENAI_BATCH_SIZE", "12"))))
         delay_sec = float(os.getenv("OPENAI_DELAY_SEC", "2.0"))
-        parallel = min(3, max(1, int(os.getenv("OPENAI_PARALLEL_REQUESTS", "2"))))
+        parallel = min(6, max(1, int(os.getenv("OPENAI_PARALLEL_REQUESTS", "2"))))
         translated = []
         batch_infos = []
         for i in range(0, len(texts), batch_size):
