@@ -31,8 +31,16 @@ def _is_timeout(e: Exception) -> bool:
     return "timeout" in msg or "timed out" in msg or "read operation timed out" in msg
 
 
+def _is_server_error(e: Exception) -> bool:
+    code = getattr(e, "status_code", None)
+    if code is not None and 500 <= code < 600:
+        return True
+    msg = str(e).lower()
+    return "502" in msg or "503" in msg or "bad gateway" in msg or "internal server error" in msg
+
+
 def _is_retryable(e: Exception) -> bool:
-    return _is_rate_limit(e) or _is_timeout(e)
+    return _is_rate_limit(e) or _is_timeout(e) or _is_server_error(e)
 
 
 class APITranslator:
@@ -75,7 +83,12 @@ class APITranslator:
                 return (batch_idx, batch_translated[:len(batch_texts)])
             except Exception as e:
                 if _is_retryable(e) and attempt < max_retries:
-                    kind = "timeout" if _is_timeout(e) else "429 rate limit"
+                    if _is_timeout(e):
+                        kind = "timeout"
+                    elif _is_server_error(e):
+                        kind = "5xx server error"
+                    else:
+                        kind = "429 rate limit"
                     logger.warning("%s: waiting %s sec then retry (%s/%s)", kind, retry_wait, attempt + 1, max_retries)
                     time.sleep(retry_wait)
                     continue

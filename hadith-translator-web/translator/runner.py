@@ -233,7 +233,7 @@ class TranslationRunner:
                             ]
                             if hadiths_to_translate:
                                 texts = [self.extract_hadith_text(h) for h in hadiths_to_translate]
-                                meta = [{"id": h.get('id'), "chapterId": h.get('chapterId', 0), "narrator": h.get('english', {}).get('narrator', '')} for h in hadiths_to_translate]
+                                meta = [{"id": h.get('id') if h.get('id') is not None else i, "chapterId": h.get('chapterId') if h.get('chapterId') is not None else 0, "narrator": h.get('english', {}).get('narrator', '')} for i, h in enumerate(hadiths_to_translate)]
                                 self._emit_progress({
                                     "phase": "translating",
                                     "book_id": book_id,
@@ -262,7 +262,7 @@ class TranslationRunner:
                                 checkpoint['stats']['api_calls'] += (len(texts) + batch_size - 1) // batch_size
                     if translated_hadiths:
                         new_translations = [
-                            {"book_id": book_id, "chapter_id": int(m["chapterId"]), "hadith_id": int(m["id"]),
+                            {"book_id": book_id, "chapter_id": int(m.get("chapterId") or 0), "hadith_id": int(m.get("id") or 0),
                              "narrator": m.get("narrator"), "text": translated_hadiths[f"{m['chapterId']}:{m['id']}"]["text"],
                              "quality_confidence": "HIGH", "needs_review": False}
                             for m in meta if f"{m['chapterId']}:{m['id']}" in translated_hadiths
@@ -305,7 +305,7 @@ class TranslationRunner:
                     if not hadiths_to_translate:
                         continue
                     texts = [self.extract_hadith_text(h) for h in hadiths_to_translate]
-                    meta = [{"id": h.get('id'), "chapterId": h.get('chapterId', 0), "narrator": h.get('english', {}).get('narrator', '')} for h in hadiths_to_translate]
+                    meta = [{"id": h.get('id') if h.get('id') is not None else i, "chapterId": h.get('chapterId') if h.get('chapterId') is not None else 0, "narrator": h.get('english', {}).get('narrator', '')} for i, h in enumerate(hadiths_to_translate)]
                     self._emit_progress({
                         "phase": "translating",
                         "book_id": book_id,
@@ -337,7 +337,7 @@ class TranslationRunner:
                             checkpoint['processed_hadiths'].append(composite)
                     checkpoint['stats']['api_calls'] += (len(texts) + batch_size - 1) // batch_size
                     new_translations = [
-                        {"book_id": book_id, "chapter_id": int(m["chapterId"]), "hadith_id": int(m["id"]),
+                        {"book_id": book_id, "chapter_id": int(m.get("chapterId") or 0), "hadith_id": int(m.get("id") or 0),
                          "narrator": m.get("narrator"), "text": translated_hadiths[f"{m['chapterId']}:{m['id']}"]["text"],
                          "quality_confidence": "HIGH", "needs_review": False}
                         for m in meta if f"{m['chapterId']}:{m['id']}" in translated_hadiths
